@@ -1,10 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Login from '../components/Login.astro';
+import '../styles/landing.css';
 ---
 
 <Layout title="D&amp;D 4e Character Builder">
-	<main>
-		<h1>D&amp;D 4e Character Builder</h1>
-		<p>Coming soon!</p>
+	<main class="h-full flex">
+		<section id="login" class="w-full md:w-1/2 p-4 bg-ivory flex flex-col justify-center items-center">
+			<Login />
+		</section>
+		<section 
+			id="welcome" 
+			class="hidden md:flex w-1/2 p-4 bg-oxford text-ivory">
+		</section>
 	</main>
 </Layout>

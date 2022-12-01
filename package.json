@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.3",
-    "@tailwindcss/typography": "^0.5.8"
+    "@tailwindcss/typography": "^0.5.8",
+    "nodemon": "^2.0.20"
   }
 }
