@@ -1,35 +1,33 @@
 ---
+import Logo from '../components/Logo.jsx'
 ---
 
 <!-- Create an astro login page -->
 <div class="w-[320px] p-6 flex flex-col justify-center">
-  <div class="panel-heading">
-    <h3 class="panel-title">Please Sign In</h3>
+  <div class="logo flex justify-center">
+    <Logo />
   </div>
-  <div class="panel-body">
+  <div class="mt-5">
     <form role="form" action="/auth" method="post">
       <fieldset>
-        <div class="mb-5">
-          <label for="email">email</label>
+        <div class="input-group mb-5">
+          <label class="mb-1" for="email">email</label>
           <input
-            class="form-control"
-            placeholder="E-mail"
+            class="form-control px-2"
             name="email"
             type="email"
             autofocus
           />
         </div>
-        <div class="mb-5">
-          <label for="password">Password</label>
+        <div class="input-group mb-5">
+          <label class="mb-1" for="password">Password</label>
           <input
-            class="form-control"
-            placeholder="Password"
+            class="form-control px-2"
             name="password"
             type="password"
             value=""
           />
         </div>
-        <!-- Change this to a button or input when using this as a form -->
         <input
           type="submit"
           name="login"

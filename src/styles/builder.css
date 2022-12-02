@@ -1,0 +1,13 @@
+.card-row {
+display: flex;
+    font-size: .85rem;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    word-wrap: break-word;
+    background-clip: border-box;
+}
+
+.logo path {
+    fill: #ffffff;
+}

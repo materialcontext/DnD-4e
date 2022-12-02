@@ -7,7 +7,10 @@ module.exports = withMT({
 		extend: {
 			colors: {
 				"prussian": "#003153",
-				"oxford": "#002147",
+				"oxford": {
+					"900": "#002147",
+					"10": "#f4f5f7"
+				},
 				"space-cadet": "#1d2951",
 				"gainsboro": "#DADEE1",
 				"pgl-red": "#E72B32",
@@ -15,8 +18,10 @@ module.exports = withMT({
 				"satin-gold": "#cba135",
 				"goldenrod": "#DAA520",
 				"dutch-white": "#f0dfbb",
+				"ivory-dark": "#fffff0",
 				"ivory": "#fffff0",
-				"offwhite": "#FAF9F6",
+				"offwhite": "#fcfcfa",
+				"floral-white": "#fcf8f1",
 			}
 		},
 	},

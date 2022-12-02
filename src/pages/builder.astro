@@ -1,0 +1,33 @@
+---
+import Layout from "../layouts/Layout.astro";
+import ClassTable from "../components/ClassTable.astro";
+import Logo from '../components/Logo.jsx';
+import "../styles/builder.css";
+---
+
+<Layout title="D&amp;D 4e Character Builder">
+  <div class="h-full w-full flex justify-between">
+    <div class="w-1/6 flex flex-col border-r bg-pgl-red text-ivory items-center">
+      <div class="logo flex justify-center w-1/2 my-5">
+          <Logo />
+      </div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+      <div class="flex h-12 px-3 mb-6 button justify-center font-bold text-lg">Not Me</div>
+    </div>
+    <div class="grow flex flex-col">
+      <div class="flex space-between border-b px-3 divide-x-[1px]">
+        <div class="flex w-1/5 lg:w-[10%] h-12 button px-3 items-center">Section</div>
+        <div class="flex w-1/5 lg:w-[10%] h-12 button px-3 items-center rounded-none">Section</div>
+        <div class="flex w-1/5 lg:w-[10%] h-12 button px-3 items-center rounded-none">Section</div>
+        <div class="flex w-1/5 lg:w-[10%] h-12 button px-3 items-center rounded-none">Section</div>
+        <div class="flex w-1/5 lg:w-[10%] h-12 button px-3 items-center rounded-none">Section</div>
+      </div>
+      <ClassTable />
+    </div>
+  </div>
+</Layout>
