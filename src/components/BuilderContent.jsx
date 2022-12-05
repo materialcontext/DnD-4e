@@ -1,10 +1,10 @@
 import {tabStore} from './TabStore';
-import ClassTable from './ClassTable.astro';
+import ClassTable from './ClassTable.jsx';
 import RaceTable from './RaceTable.astro';
 import BackgroundsTable from './BackgroundsTable.astro';
 import SkillsTable from './SkillsTable.astro';
 import PowersTable from './PowersTable.astro';
-import FeatsTable from './FeatsTable.astro';
+import FeatsTable from './FeatsTable.jsx';
 
 function setView() {
     const currentTab = tabStore.get();

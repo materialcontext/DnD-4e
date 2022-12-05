@@ -4,7 +4,6 @@ export default function BuilderNav() {
   const changeTab = (e) => {
     const currentTab = tabStore.get();
     const newTab = e.target.id;
-    console.log(currentTab, newTab);
 
     if (currentTab !== newTab) {
       tabStore.set(newTab);
