@@ -45,6 +45,10 @@ const classes = [
   },
 ];
 
+const classList = classes.map((c) => {
+  return <ClassCard {...c} />;
+});
+
 export default function FeatsTable() {
   <div id="classTable" class="hidden h-full flex-col p-2 shadow">
     <div class="flex">
@@ -64,8 +68,6 @@ export default function FeatsTable() {
         Source
       </div>
     </div>
-    {classes.map((c) => (
-      <ClassCard {...c} />
-    ))}
+    {classList}
   </div>;
 }

@@ -53,7 +53,7 @@ export default function ClassTable() {
   return (
   <div class="h-full flex flex-col p-2 shadow">
     <div class="flex">
-      <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-sm items-center">
+      <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-base items-center">
         Class
       </div>
       <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-base items-center">

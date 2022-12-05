@@ -1,4 +1,5 @@
 import {tabStore} from './TabStore';
+import {useStore} from '@nanostores/preact';
 import ClassTable from './ClassTable.jsx';
 import RaceTable from './RaceTable.astro';
 import BackgroundsTable from './BackgroundsTable.astro';
@@ -6,8 +7,8 @@ import SkillsTable from './SkillsTable.astro';
 import PowersTable from './PowersTable.astro';
 import FeatsTable from './FeatsTable.jsx';
 
-function setView() {
-    const currentTab = tabStore.get();
+export default function BuilderContent() {
+    const currentTab = useStore(tabStore);
     switch (currentTab) {
         case 'tab-1':
         return <ClassTable />;
@@ -24,8 +25,4 @@ function setView() {
         default:
         return <ClassTable />;
     }
-}
-
-export default function BuilderContent() {
-    return setView();
 };
