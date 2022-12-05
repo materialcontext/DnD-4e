@@ -21,36 +21,26 @@ display: flex;
     position: relative;
     border-radius: 0.125rem /* 2px */;
     cursor: pointer;
-    font-size: 0.75rem /* 12px */;
-    font-weight: 500;
-    letter-spacing: 0;
+    font-weight: 400;
+    letter-spacing: 0.025em;
     line-height: 1.667;
     height: 3rem; /* 48px */
-    overflow: hidden;
     text-transform: uppercase;
 
     @apply text-gray-500;
+    @apply bg-gray-50;
     @apply px-3;
     @apply w-1/5;
     @apply lg:w-[14.14%];
-}
-
-.glider {
-    position: absolute;
-    display: flex;
-    height: 3rem; /* 48px */
-    z-index: 10;
-    border-radius: 0.125rem /* 2px */;
-    transition: 0.25s ease-out;
-
-    @apply bg-ivory;
-    @apply w-1/5;
-    @apply lg:w-[14.14%];
+    @apply hover:bg-gray-200;
 }
 
 .glide-active {
-    @apply bg-ivory;
+    @apply bg-white;
     @apply text-pgl-red;
-    @apply text-xl;
     @apply font-bold;
+    @apply border-b-2;
+    @apply border-pgl-red;
+    @apply hover:bg-white;
+    @apply shadow-sm;
 }

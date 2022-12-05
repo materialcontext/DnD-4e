@@ -12,9 +12,10 @@ export default function BuilderNav() {
       document.getElementById(e.target.id).classList.add("glide-active");
     }
   };
+
   return(
     <nav>
-        <ul class="flex space-between border-b shadow rounded-t-md" role="tablist">
+        <ul class="flex border-b border-b-gray-300 overflow-hidden" role="tablist">
             <li role="tab" id="tab-1" onClick={changeTab} class="glide-tab glide-active">Class</li>
             <li role="tab" id="tab-2" onClick={changeTab} class="glide-tab">Race</li>
             <li role="tab" id="tab-3" onClick={changeTab} class="glide-tab">Background</li>

@@ -1,20 +1,71 @@
 ---
-import ClassCard from './ClassCard.astro';
+import ClassCard from "./ClassCard.astro";
+
+const classes = [
+  {
+    className: "class 1",
+    combatRole: "striker",
+    powerSource: "primal",
+    keyAttribute: "strength",
+    refSource: "Player's Handbook",
+  },
+  {
+    className: "class 2",
+    combatRole: "controller",
+    powerSource: "arcane",
+    keyAttribute: "intelligence",
+    refSource: "Player's Handbook",
+  },
+  {
+    className: "class 3",
+    combatRole: "commander",
+    powerSource: "divine",
+    keyAttribute: "constitution",
+    refSource: "Player's Handbook",
+  },
+  {
+    className: "class 4",
+    combatRole: "support",
+    powerSource: "psionic",
+    keyAttribute: "wisdom",
+    refSource: "Player's Handbook",
+  },
+  {
+    className: "class 5",
+    combatRole: "striker",
+    powerSource: "martial",
+    keyAttribute: "dexterity",
+    refSource: "Player's Handbook",
+  },
+  {
+    className: "class 6",
+    combatRole: "controller",
+    powerSource: "shadow",
+    keyAttribute: "charisma",
+    refSource: "Player's Handbook",
+  },
+];
 ---
 
-<div class="h-full flex flex-col px-2 py-2 bg-ivory shadow">
-  <div class="flex h-12">
-    <div class="flex w-1/5 h-12 px-3 pb-3 button font-semibold">Class</div>
-    <div class="flex w-1/5 h-12 px-3 pb-3 button font-semibold">Role</div>
-    <div class="flex w-1/5 h-12 px-3 pb-3 button font-semibold">Power Source</div>
-    <div class="flex w-1/5 h-12 px-3 pb-3 button font-semibold">Key Ability</div>
-    <div class="flex w-1/5 h-12 px-3 pb-3 button font-semibold">Source</div>
+<div class="h-full flex flex-col p-2 shadow">
+  <div class="flex">
+    <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-sm items-center">
+      Class
+    </div>
+    <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-sm items-center">
+      Role
+    </div>
+    <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-sm items-center">
+      Power Source
+    </div>
+    <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-sm items-center">
+      Key Ability
+    </div>
+    <div class="flex w-1/5 h-12 px-3 py-6 font-medium text-sm items-center">
+      Source
+    </div>
   </div>
-  <div>
-    <ClassCard />
-    <ClassCard />
-    <ClassCard />
-    <ClassCard />
-    <ClassCard />
-  </div>
+  {classes.map((c) => (
+    <ClassCard {...c} />
+  ))}
 </div>

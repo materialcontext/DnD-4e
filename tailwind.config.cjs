@@ -18,7 +18,6 @@ module.exports = withMT({
 				"satin-gold": "#cba135",
 				"goldenrod": "#DAA520",
 				"dutch-white": "#f0dfbb",
-				"ivory-dark": "#fffff0",
 				"ivory": "#fffff0",
 				"offwhite": "#fcfcfa",
 				"floral-white": "#fcf8f1",
