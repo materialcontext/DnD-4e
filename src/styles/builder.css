@@ -1,3 +1,5 @@
+@tailwind base;
+
 .card-row {
 display: flex;
     font-size: .85rem;
@@ -10,4 +12,45 @@ display: flex;
 
 .logo path {
     fill: #ffffff;
+}
+
+.glide-tab {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    position: relative;
+    border-radius: 0.125rem /* 2px */;
+    cursor: pointer;
+    font-size: 0.75rem /* 12px */;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1.667;
+    height: 3rem; /* 48px */
+    overflow: hidden;
+    text-transform: uppercase;
+
+    @apply text-gray-500;
+    @apply px-3;
+    @apply w-1/5;
+    @apply lg:w-[14.14%];
+}
+
+.glider {
+    position: absolute;
+    display: flex;
+    height: 3rem; /* 48px */
+    z-index: 10;
+    border-radius: 0.125rem /* 2px */;
+    transition: 0.25s ease-out;
+
+    @apply bg-ivory;
+    @apply w-1/5;
+    @apply lg:w-[14.14%];
+}
+
+.glide-active {
+    @apply bg-ivory;
+    @apply text-pgl-red;
+    @apply text-xl;
+    @apply font-bold;
 }
