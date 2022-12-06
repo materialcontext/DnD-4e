@@ -31,7 +31,7 @@ display: flex;
     @apply bg-gray-50;
     @apply px-3;
     @apply w-1/5;
-    @apply lg:w-[14.14%];
+    @apply lg:w-[14.285%];
     @apply hover:bg-gray-200;
 }
 
@@ -43,4 +43,12 @@ display: flex;
     @apply border-pgl-red;
     @apply hover:bg-white;
     @apply shadow-sm;
+}
+
+.view-more {
+    @apply text-pgl-red;
+    @apply font-bold;
+    @apply text-sm;
+    @apply hover:text-pgl-red;
+    @apply hover:underline;
 }
