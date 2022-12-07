@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-let file = fs.readFileSync(__dirname + '/../../sql/ddiFeat.sql', 'utf8');
+let file = fs.readFileSync(__dirname + '/../../sql/ddiRace.sql', 'utf8');
 
 //a regex to get all the lines that values between "VALUES (" and ");"
 let regex = /VALUES \((.*?)\);/g;
@@ -15,9 +15,9 @@ let matches = file.match(regex);
 let jsonTemplate = {
     "id": 0,
     "name": "",
-    "tier": "",
+    "size": "",
+    "description": "",
     "ref": "",
-    "teaserText": "",
     "fullText": "",
 }
 
@@ -29,10 +29,10 @@ let json = matches.map((match, index) => {
     let json = Object.assign({}, jsonTemplate);
     json.id = values[0];
     json.name = values[1];
-    json.tier = values[5];
-    json.sort = values[6];
+    json.size = values[2];
+    json.description = values[3];
     // remover double slashes from ref
-    json.ref = values[4].replace(/\\/g, '');
+    json.ref = values[6].replace(/\\/g, '');
 
     //remove everything after </html> tag
     json.fullText = values[8].replace(/<\/html>.*$/, '</html>');
@@ -41,4 +41,4 @@ let json = matches.map((match, index) => {
 });
 
 // save json to file
-fs.writeFileSync(__dirname + '/../../sql/ddiFeats.json', JSON.stringify(json, null, 2), 'utf8');
+fs.writeFileSync(__dirname + '/../../sql/ddiRaces.json', JSON.stringify(json, null, 2), 'utf8');

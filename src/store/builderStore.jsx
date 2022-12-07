@@ -1,6 +1,6 @@
 import { atom } from "nanostores";
 
-export const tabState = atom("tab-1");
+export const tabState = atom("classesTab");
 
 export const viewState = atom("");
 

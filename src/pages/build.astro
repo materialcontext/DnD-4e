@@ -1,27 +1,24 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import Builder from "../components/Builder.jsx";
-import Logo from '../components/Logo.jsx';
+import BuilderNav from "../components/BuilderNav.jsx";
+import ClassesTable from "../components/tables/ClassesTable";
+import FeatsTable from "../components/tables/FeatsTable";
+import Nav from "../components/Nav.astro";
 import "../styles/builder.css";
 ---
 
 <Layout title="D&amp;D 4e Character Builder">
-  <div class="h-full w-full flex flex-col lg:flex-row justify-between">
-    <div class="h-16 lg:h-full lg:w-[14.14%] flex lg:flex-col bg-pgl-red text-ivory items-center border-r shrink-0 justify-between">
-      <div class="logo flex justify-center w-24 lg:w-1/2 m-5">
-          <Logo />
-      </div>
-      <ul class="hidden md:flex lg:flex-col h-full items-center mr-5">
-        <li class="button flex h-12 px-3 font-bold text-lg lg:mb-6 shrink-0">Link</li>
-        <li class="button flex h-12 px-3 font-bold text-lg lg:mb-6 shrink-0">Link</li>
-        <li class="button flex h-12 px-3 font-bold text-lg lg:mb-6 shrink-0">Link</li>
-        <li class="button flex h-12 px-3 font-bold text-lg lg:mb-6 shrink-0">Link</li>
-        <li class="button flex h-12 px-3 font-bold text-lg lg:mb-6 shrink-0">Link</li>
-        <li class="button flex h-12 px-3 font-bold text-lg lg:mb-6 shrink-0">Link</li>
-      </ul>
-    </div>
-    <div class="grow flex flex-col bg-gray-50 p-4">
-      <Builder client:load />
+  <Nav />
+  <div class="h-full w-full flex flex-col lg:flex-row justify-start overflow-x-hidden lg:justify-end">
+    <div class="pt-16 flex flex-col m-4 grow lg:pt-0 lg:max-w-[84%]">
+      <BuilderNav client:load/>
+      <div id="classesTable" class="visible"><ClassesTable client:load/></div>
+      <div id="racesTable" class="hidden"></div>
+      <div id="backgroundsTable" class="hidden"></div>
+      <div id="statsTable" class="hidden"></div>
+      <div id="skillsTable" class="hidden"></div>
+      <div id="powersTable" class="hidden"></div>
+      <div id="featsTable" class="hidden"><FeatsTable client:idle/></div>
     </div>
   </div>
 </Layout>
