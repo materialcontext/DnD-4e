@@ -1,4 +1,4 @@
-import ClassCard from "../ClassCard.jsx";
+import ClassCard from "../ClassCard";
 
 const classes = [
   {

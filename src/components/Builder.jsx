@@ -1,8 +1,8 @@
 import { tabState } from "../store/builderStore";
 import { useStore } from "@nanostores/preact";
 
-import ClassTable from "./ClassTable.jsx";
-import FeatsTable from "./FeatsTable.jsx";
+import ClassTable from "./tables/ClassTable.jsx";
+import FeatsTable from "./tables/FeatsTable.jsx";
 
 const Nav = () => {
     const currentTab = useStore(tabState);
