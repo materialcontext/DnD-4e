@@ -3,6 +3,8 @@ import Layout from "../layouts/Layout.astro";
 import BuilderNav from "../components/BuilderNav.jsx";
 import ClassesTable from "../components/tables/ClassesTable";
 import FeatsTable from "../components/tables/FeatsTable";
+import RacesTable from "../components/tables/RacesTable";
+import BackgroundsTable from "../components/tables/BackgroundsTable";
 import Nav from "../components/Nav.astro";
 import "../styles/builder.css";
 ---
@@ -13,8 +15,8 @@ import "../styles/builder.css";
     <div class="pt-16 flex flex-col m-4 grow lg:pt-0 lg:max-w-[84%]">
       <BuilderNav client:load/>
       <div id="classesTable" class="visible"><ClassesTable client:load/></div>
-      <div id="racesTable" class="hidden"></div>
-      <div id="backgroundsTable" class="hidden"></div>
+      <div id="racesTable" class="hidden"><RacesTable client:idle/></div>
+      <div id="backgroundsTable" class="hidden"><BackgroundsTable client:idle/></div>
       <div id="statsTable" class="hidden"></div>
       <div id="skillsTable" class="hidden"></div>
       <div id="powersTable" class="hidden"></div>

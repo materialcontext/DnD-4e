@@ -28,11 +28,13 @@ display: flex;
     text-transform: uppercase;
 
     @apply text-gray-500;
-    @apply bg-gray-50;
+    @apply bg-gray-100;
     @apply px-3;
     @apply w-1/5;
     @apply lg:w-[14.285%];
     @apply hover:bg-gray-200;
+    @apply border-r;
+    @apply border-r-gray-200;
 }
 
 .glide-active {
@@ -40,9 +42,9 @@ display: flex;
     @apply text-pgl-red;
     @apply font-bold;
     @apply border-b-2;
-    @apply border-pgl-red;
+    @apply border-b-pgl-red;
     @apply hover:bg-white;
-    @apply shadow-sm;
+    @apply shadow;
 }
 
 .view-more {

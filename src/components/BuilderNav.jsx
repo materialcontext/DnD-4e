@@ -6,7 +6,6 @@ export default function BuilderNav() {
 
   function changeTab(e) {
     const newTab = e.target.id;
-    console.log(newTab);
 
     function changeTable(currentTable, NewTable) {
       document.getElementById(currentTable).classList.add("hidden");

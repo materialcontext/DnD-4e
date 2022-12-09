@@ -10,14 +10,13 @@ export default class InfiniteScroll extends Component {
         });
     }
     
+    // use the observer to update the page based on the scroll position
+    // if the user scrolls past 80% of the current page height fire the loadMore function
     handleObserver(entities, observer) {
         const y = entities[0].boundingClientRect.y;
-        if (this.prevY > y - 50) {
-            console.log(entities[0])
-            const { loadMore } = this.props;
-            loadMore();
+        if (y < window.innerHeight * 1.5) {
+        this.props.loadMore();
         }
-        this.prevY = y;
     }
     
     componentDidMount() {

@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-let file = fs.readFileSync(__dirname + '/../../sql/ddiRace.sql', 'utf8');
+let file = fs.readFileSync(__dirname + '/../data/ddiPower.sql', 'utf8');
 
 //a regex to get all the lines that values between "VALUES (" and ");"
 let regex = /VALUES \((.*?)\);/g;
@@ -21,24 +21,37 @@ let jsonTemplate = {
     "fullText": "",
 }
 
-console.log(matches[0])
+let fileNames = [];
+let json = Object.assign({}, jsonTemplate);
 
-// convert matches to json array matching the template
-let json = matches.map((match, index) => {
-    let values = match.replace(/VALUES \(/, '').replace(/\);/, '').split("','");
-    let json = Object.assign({}, jsonTemplate);
-    json.id = values[0];
-    json.name = values[1];
-    json.size = values[2];
-    json.description = values[3];
+
+let addToObject = (values) => {
+    let target = values[7];
+    json[target].id = values[0];
+    json[target].powerName = values[1];
+    json[target].powerLevel = values[2];
+    json[target].actionCost = values[3];
     // remover double slashes from ref
-    json.ref = values[6].replace(/\\/g, '');
+    json[target].sourceRef = values[6].replace(/\\/g, '');
+    json[target].powerClass = values[7];
+    json[target].powerType = values[10];
+    json[target].powerFreq = values[11];
 
     //remove everything after </html> tag
-    json.fullText = values[8].replace(/<\/html>.*$/, '</html>');
-    
-    return json;
-});
+    json[target].fullText = values[9].replace(/<\/html>.*$/, '</html>');
+};
 
-// save json to file
-fs.writeFileSync(__dirname + '/../../sql/ddiRaces.json', JSON.stringify(json, null, 2), 'utf8');
+for (let match of matches) {
+    let values = match.replace(/VALUES \(/, '').replace(/\);/, '').split("','");
+    if (fileNames.includes(values[7])) {
+        addToObject(values);
+    } else {
+        fileNames.push(values[7]);
+        json[values[7]] = Object.assign({}, jsonTemplate);
+    }
+};
+
+// save jsons to files by power class
+for (let i = 0; i < fileNames.length; i++) {
+    fs.writeFileSync(__dirname + '/../data/' + fileNames[i] + '.json', JSON.stringify(json[fileNames[i]]));
+}
