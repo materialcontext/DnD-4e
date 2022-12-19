@@ -1,0 +1,63 @@
+{
+  "Predator Spirit": {
+    "id": "'5423",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Predator Spirit",
+    "type": "Panther",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPredator Spirit\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5423\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Ghost Panther Attack 11</span>Predator Spirit</h1><p class=\\\"flavor\\\"><i>A panther spirit appears and rends your foe; then its bloodthirstiness flows through your spirit companion to weaken your enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Wisdom modifier damage. Until the end of your next turn, bloodied enemies are weakened while adjacent to your spirit companion.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 133.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Ghost Panther",
+    "flavor": "A panther spirit appears and rends your foe; then its bloodthirstiness flows through your spirit companion to weaken your enemies.",
+    "keywords": [
+      "Implement, Primal"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 2d6 + Wisdom modifier damage. Until the end of your next turn, bloodied enemies are weakened while adjacent to your spirit companion.</p>",
+    "target": "One creature",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "2d6 + Wisdom modifier damage. Until the end of your next turn, bloodied enemies are weakened while adjacent to your spirit companion."
+  },
+  "Great Cat's Dodge": {
+    "id": "'5424",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Great Cat's Dodge",
+    "type": "Panther",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGreat Cat's Dodge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5424\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Ghost Panther Utility 12</span>Great Cat's Dodge</h1><p class=\\\"flavor\\\"><i>Your eyes shine yellow like those of a great cat as you leap away from an enemy attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An attack misses you</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 3 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 133.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Ghost Panther",
+    "flavor": "Your eyes shine yellow like those of a great cat as you leap away from an enemy attack.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An attack misses you</p><p class=\"flavor\">Effect: You shift 3 squares.</p>",
+    "trigger": "An attack misses you",
+    "effect": "You shift 3 squares."
+  },
+  "Ghost Panther Spiral": {
+    "id": "'5425",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Ghost Panther Spiral",
+    "type": "Panther",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGhost Panther Spiral\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5425\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Ghost Panther Attack 20</span>Ghost Panther Spiral</h1><p class=\\\"flavor\\\"><i>A stream of frenzied panther spirits flows around you, savaging your enemies. The wind of the spirits’ passage lets you and your allies slip through the spirit world to attack your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b>, <b>Teleportation</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 5d6 + Wisdom modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of rushing spirits that lasts until the end of the encounter. You or any ally who is within the zone can use a minor action to teleport to a space adjacent to an enemy that is within the zone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 133.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Ghost Panther",
+    "flavor": "A stream of frenzied panther spirits flows around you, savaging your enemies. The wind of the spirits’ passage lets you and your allies slip through the spirit world to attack your foes.",
+    "keywords": [
+      "Implement, Primal, Teleportation, Zone"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Will</p><p class=\"flavor\">Hit: 5d6 + Wisdom modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The burst creates a zone of rushing spirits that lasts until the end of the encounter. You or any ally who is within the zone can use a minor action to teleport to a space adjacent to an enemy that is within the zone.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Wisdom vs. Will",
+    "onHit": "5d6 + Wisdom modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "The burst creates a zone of rushing spirits that lasts until the end of the encounter. You or any ally who is within the zone can use a minor action to teleport to a space adjacent to an enemy that is within the zone."
+  }
+}

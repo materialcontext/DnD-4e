@@ -1,0 +1,21 @@
+{
+  "Fading Retreat": {
+    "id": "'12728",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Fading Retreat",
+    "type": "Thief",
+    "sourceRef": "Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFading Retreat\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12728\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Thief Utility 12</span>Fading Retreat</h1><p class=\\\"flavor\\\"><i>As your enemy closes in, you slip into the shadows and out of its sight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy you can see enters a square adjacent to you.</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift up to half your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to hide, ignoring the penalty to the skill check for moving.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 187.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Thief",
+    "flavor": "As your enemy closes in, you slip into the shadows and out of its sight.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy you can see enters a square adjacent to you.</p><p class=\"flavor\">Effect: You shift up to half your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to hide, ignoring the penalty to the skill check for moving.</p>",
+    "trigger": "An enemy you can see enters a square adjacent to you.",
+    "effect": "You shift up to half your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to hide, ignoring the penalty to the skill check for moving."
+  }
+}

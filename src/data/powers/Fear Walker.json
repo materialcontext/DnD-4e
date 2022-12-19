@@ -1,0 +1,61 @@
+{
+  "Wave of Terror": {
+    "id": "'12578",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Wave of Terror",
+    "type": "Walker",
+    "sourceRef": "Dragon Magazine 388",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWave of Terror\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12578\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Fear Walker Attack 11</span>Wave of Terror</h1><p class=\\\"flavor\\\"><i>Your foes hold you in such fear that it forces them to their knees.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength +6 or Charisma +6 vs. Will<br/>Level 21: Strength +9 or Charisma +9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Strength or Charisma modifier psychic damage, and the target falls prone. Until the end of your next turn, if you are next to the target, it cannot stand.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Fear Walker",
+    "flavor": "Your foes hold you in such fear that it forces them to their knees.",
+    "keywords": [
+      "Fear, Psychic"
+    ],
+    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength +6 or Charisma +6 vs. Will",
+    "target": "Each enemy in the burst",
+    "attack": "Strength +6 or Charisma +6 vs. Will<br/>Level 21: Strength +9 or Charisma +9 vs. Will",
+    "onHit": "2d8 + Strength or Charisma modifier psychic damage, and the target falls prone. Until the end of your next turn, if you are next to the target, it cannot stand."
+  },
+  "Dragonfear Overwhelming": {
+    "id": "'12579",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Dragonfear Overwhelming",
+    "type": "Walker",
+    "sourceRef": "Dragon Magazine 388",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragonfear Overwhelming\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12579\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Fear Walker Attack 20</span>Dragonfear Overwhelming</h1><p class=\\\"flavor\\\"><i>You force your presence into your enemies’ minds, making them unable to think of anything but the terror they have of you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One, two, or three enemies in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength +9 or Charisma +9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is stunned (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Aftereffect</b>: The target takes a -2 penalty to attack rolls (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Fear Walker",
+    "flavor": "You force your presence into your enemies’ minds, making them unable to think of anything but the terror they have of you.",
+    "keywords": [
+      "Fear"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Target: One, two, or three enemies in the burst</p><p class=\"powerstat\">Attack: Strength +9 or Charisma +9 vs. Will</p><p class=\"flavor\">Hit: The target is stunned (save ends).</p><p class=\"powerstat\">&nbsp;&nbsp;Aftereffect: The target takes a -2 penalty to attack rolls (save ends).</p>",
+    "target": "One, two, or three enemies in the burst",
+    "attack": "Strength +9 or Charisma +9 vs. Will",
+    "onHit": "The target is stunned (save ends).",
+    "aftereffect": "The target takes a -2 penalty to attack rolls (save ends)."
+  },
+  "Aura of Fear": {
+    "id": "'12580",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Aura of Fear",
+    "type": "Walker",
+    "sourceRef": "Dragon Magazine 388",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAura of Fear\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12580\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Fear Walker Utility 12</span>Aura of Fear</h1><p class=\\\"flavor\\\"><i>You radiate fear that causes your enemies to flinch away from you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Psychic</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, when a nonminion enemy starts its turn within 2 squares of you, it must end its turn farther from you or take 10 psychic damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Fear Walker",
+    "flavor": "You radiate fear that causes your enemies to flinch away from you.",
+    "keywords": [
+      "Fear, Psychic, Stance"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the stance ends, when a nonminion enemy starts its turn within 2 squares of you, it must end its turn farther from you or take 10 psychic damage.</p>",
+    "effect": "Until the stance ends, when a nonminion enemy starts its turn within 2 squares of you, it must end its turn farther from you or take 10 psychic damage."
+  }
+}

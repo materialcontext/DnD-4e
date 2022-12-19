@@ -1,0 +1,62 @@
+{
+  "Energy Dispersal": {
+    "id": "'6003",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Energy Dispersal",
+    "type": "Antithesis",
+    "sourceRef": "Dragon Magazine 369",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEnergy Dispersal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6003\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Draconic Antithesis Attack 11</span>Energy Dispersal</h1><p class=\\\"flavor\\\"><i>Your arcane gesture drains away energy within the target, weakening its ability to use its powers.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Intelligence modifier damage, and the target is slowed until the end of your next turn. Choose a damage type keyword. The target cannot use a power that has that keyword until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/369\\\" target=\\\"_new\\\">Dragon Magazine 369</a>, page(s) 52.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Draconic Antithesis",
+    "flavor": "Your arcane gesture drains away energy within the target, weakening its ability to use its powers.",
+    "keywords": [
+      "Arcane, Implement"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. Reflex</p><p class=\"flavor\">Hit: 3d8 + Intelligence modifier damage, and the target is slowed until the end of your next turn. Choose a damage type keyword. The target cannot use a power that has that keyword until the end of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d8 + Intelligence modifier damage, and the target is slowed until the end of your next turn. Choose a damage type keyword. The target cannot use a power that has that keyword until the end of your next turn."
+  },
+  "Earth-Binder": {
+    "id": "'6004",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Earth-Binder",
+    "type": "Antithesis",
+    "sourceRef": "Dragon Magazine 369",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEarth-Binder\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6004\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Draconic Antithesis Utility 12</span>Earth-Binder</h1><p class=\\\"flavor\\\"><i>Flying creatures acquire an indisputable gravity in your presence.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you gain an aura 5. A creature that starts its turn in your aura loses its fly speed until it starts its turn outside your aura.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/369\\\" target=\\\"_new\\\">Dragon Magazine 369</a>, page(s) 52.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Draconic Antithesis",
+    "flavor": "Flying creatures acquire an indisputable gravity in your presence.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you gain an aura 5. A creature that starts its turn in your aura loses its fly speed until it starts its turn outside your aura.</p>",
+    "effect": "Until the end of the encounter, you gain an aura 5. A creature that starts its turn in your aura loses its fly speed until it starts its turn outside your aura."
+  },
+  "Energy Disruption": {
+    "id": "'6005",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Energy Disruption",
+    "type": "Antithesis",
+    "sourceRef": "Dragon Magazine 369",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEnergy Disruption\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6005\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Draconic Antithesis Attack 20</span>Energy Disruption</h1><p class=\\\"flavor\\\"><i>Your swift spell dissipates the dragon’s breath without harm—to you or your allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within range makes a close or area attack with a damage type keyword</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d10 + Intelligence modifier damage, and the target’s attack is canceled. If the attack is not at-will, it is considered expended. The target can choose a different use for the action.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Miss</b>: Half damage and the target takes a -3 penalty to the triggering attack’s rolls.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/369\\\" target=\\\"_new\\\">Dragon Magazine 369</a>, page(s) 52.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Draconic Antithesis",
+    "flavor": "Your swift spell dissipates the dragon’s breath without harm—to you or your allies.",
+    "keywords": [
+      "Arcane, Implement"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: An enemy within range makes a close or area attack with a damage type keyword</p><p class=\"powerstat\">Target: The triggering creature</p><p class=\"powerstat\">Attack: Intelligence vs. Fortitude</p><p class=\"flavor\">Hit: 4d10 + Intelligence modifier damage, and the target’s attack is canceled. If the attack is not at-will, it is considered expended. The target can choose a different use for the action.</p><p class=\"powerstat\">&nbsp;&nbsp;Miss: Half damage and the target takes a -3 penalty to the triggering attack’s rolls.</p>",
+    "trigger": "An enemy within range makes a close or area attack with a damage type keyword",
+    "target": "The triggering creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "4d10 + Intelligence modifier damage, and the target’s attack is canceled. If the attack is not at-will, it is considered expended. The target can choose a different use for the action.",
+    "onMiss": "Half damage and the target takes a -3 penalty to the triggering attack’s rolls."
+  }
+}

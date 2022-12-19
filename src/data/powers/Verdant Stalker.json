@@ -1,0 +1,66 @@
+{
+  "Shadow to Shadow": {
+    "id": "'10859",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Shadow to Shadow",
+    "type": "Stalker",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow to Shadow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10859\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Verdant Stalker Attack 11</span>Shadow to Shadow</h1><p class=\\\"flavor\\\"><i>You slide behind cover, attack your foe from a distance, and then slip back into the shadows again.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be using a hand crossbow, a repeating crossbow, a shortbow, a shuriken, or a sling.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Before and after the attack, you shift 3 squares. After each shift, you can make a Stealth check to become hidden.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 76.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Verdant Stalker",
+    "flavor": "You slide behind cover, attack your foe from a distance, and then slip back into the shadows again.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Ranged weapon</p><p class=\"flavor\">Requirement: You must be using a hand crossbow, a repeating crossbow, a shortbow, a shuriken, or a sling.</p><p class=\"powerstat\">Effect: Before and after the attack, you shift 3 squares. After each shift, you can make a Stealth check to become hidden.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage.</p>",
+    "requirement": "You must be using a hand crossbow, a repeating crossbow, a shortbow, a shuriken, or a sling.",
+    "effect": "Before and after the attack, you shift 3 squares. After each shift, you can make a Stealth check to become hidden.",
+    "target": "One creature",
+    "attack": "Dexterity vs. AC",
+    "onHit": "3[W] + Dexterity modifier damage."
+  },
+  "Leaves of Steel": {
+    "id": "'10860",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Leaves of Steel",
+    "type": "Stalker",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLeaves of Steel\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10860\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Verdant Stalker Attack 20</span>Leaves of Steel</h1><p class=\\\"flavor\\\"><i>You slip out of the shadows, firing a volley of shots at your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within weapon range</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be using a hand crossbow, a repeating crossbow, a shortbow, a shuriken, or a sling.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Before the attack, you shift 3 squares.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 76.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Verdant Stalker",
+    "flavor": "You slip out of the shadows, firing a volley of shots at your enemies.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Area burst 2 within weapon range</p><p class=\"flavor\">Requirement: You must be using a hand crossbow, a repeating crossbow, a shortbow, a shuriken, or a sling.</p><p class=\"powerstat\">Effect: Before the attack, you shift 3 squares.</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 4[W] + Dexterity modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "requirement": "You must be using a hand crossbow, a repeating crossbow, a shortbow, a shuriken, or a sling.",
+    "effect": "Before the attack, you shift 3 squares.",
+    "target": "Each enemy in the burst you can see",
+    "attack": "Dexterity vs. AC",
+    "onHit": "4[W] + Dexterity modifier damage.",
+    "onMiss": "Half damage."
+  },
+  "Forest Specter": {
+    "id": "'10861",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Forest Specter",
+    "type": "Stalker",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForest Specter\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10861\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Verdant Stalker Utility 12</span>Forest Specter</h1><p class=\\\"flavor\\\"><i>Moving among foliage or around a cavern wall, you blend into your surroundings like a spirit of nature.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must have total concealment or superior cover.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You become invisible until the end of your next turn, until you attack, or until you no longer have any cover or any concealment.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 76.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Verdant Stalker",
+    "flavor": "Moving among foliage or around a cavern wall, you blend into your surroundings like a spirit of nature.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must have total concealment or superior cover.</p><p class=\"powerstat\">Effect: You become invisible until the end of your next turn, until you attack, or until you no longer have any cover or any concealment.</p>",
+    "requirement": "You must have total concealment or superior cover.",
+    "effect": "You become invisible until the end of your next turn, until you attack, or until you no longer have any cover or any concealment."
+  }
+}

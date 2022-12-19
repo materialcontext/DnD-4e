@@ -1,0 +1,62 @@
+{
+  "Banished Darkness": {
+    "id": "'13765",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Banished Darkness",
+    "type": "Guard",
+    "sourceRef": "Dragon Magazine 394",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBanished Darkness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13765\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Azure Guard Attack 11</span>Banished Darkness</h1><p class=\\\"flavor\\\"><i>The lightest touch hurls your enemy from you to be blinded and bound by Corellon’s wrath.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Divine</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Your highest ability + 6 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Your highest ability + 9 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: You teleport the target up to 5 squares. The target is blinded and immobilized until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Special</b>: If the target is a demon, drow, or spider, the target also gains vulnerablity to all damage equal to your highest ability modifier until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/394\\\" target=\\\"_new\\\">Dragon Magazine 394</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Azure Guard",
+    "flavor": "The lightest touch hurls your enemy from you to be blinded and bound by Corellon’s wrath.",
+    "keywords": [
+      "Arcane, Divine, Teleportation"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Your highest ability + 6 vs. Reflex",
+    "target": "One creature",
+    "attack": "Your highest ability + 6 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Your highest ability + 9 vs. Reflex",
+    "onHit": "You teleport the target up to 5 squares. The target is blinded and immobilized until the end of your next turn.",
+    "special": "If the target is a demon, drow, or spider, the target also gains vulnerablity to all damage equal to your highest ability modifier until the end of your next turn."
+  },
+  "Corellon's Azure Blessing": {
+    "id": "'13766",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Corellon's Azure Blessing",
+    "type": "Guard",
+    "sourceRef": "Dragon Magazine 394",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCorellon's Azure Blessing\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13766\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Azure Guard Attack 20</span>Corellon's Azure Blessing</h1><p class=\\\"flavor\\\"><i>A blue luminescence surrounds and infuses you, revealing that you have won Corellon’s favor. You can now call down the stars to smite your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Aura</b>, <b>Divine</b>, <b>Radiant</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 5 that lasts until the end of the encounter or until you dismiss it as a free action. Squares in the aura are brightly lit, and any enemy that ends its turn in the aura takes 10 radiant damage. Demons, drow, and spiders in the aura grant combat advantage. While the aura is active, you can use the secondary power at will.</p><br/><h1 class=\\\"dailypower\\\"><span class=\\\"level\\\"></span>Corellon's Azure Blessing Secondary Power</h1><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Divine</b>, <b>Radiant</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Corellon's Azure Blessing must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: 10 radiant damage, and you knock the target prone. You then teleport to an unoccupied square adjacent to the target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/394\\\" target=\\\"_new\\\">Dragon Magazine 394</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Azure Guard",
+    "flavor": "A blue luminescence surrounds and infuses you, revealing that you have won Corellon’s favor. You can now call down the stars to smite your foes.",
+    "keywords": [
+      "Arcane, Aura, Divine, Radiant"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You activate an aura 5 that lasts until the end of the encounter or until you dismiss it as a free action. Squares in the aura are brightly lit, and any enemy that ends its turn in the aura takes 10 radiant damage. Demons, drow, and spiders in the aura grant combat advantage. While the aura is active, you can use the secondary power at will.</p>",
+    "effect": "10 radiant damage, and you knock the target prone. You then teleport to an unoccupied square adjacent to the target.",
+    "requirement": "The power Corellon's Azure Blessing must be active in order to use this power.",
+    "target": "One enemy in the burst"
+  },
+  "Fury of Arvandor": {
+    "id": "'13768",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Fury of Arvandor",
+    "type": "Guard",
+    "sourceRef": "Dragon Magazine 394",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFury of Arvandor\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13768\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Azure Guard Utility 12</span>Fury of Arvandor</h1><p class=\\\"flavor\\\"><i>You suffer not the hideous to live. One successful strike sets up your next attack to speed this enemy to the grave.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Divine</b>, <b>Teleportation</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit an enemy with an attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport to an unoccupied square adjacent to the triggering enemy. The enemy then grants combat advantage to you until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/394\\\" target=\\\"_new\\\">Dragon Magazine 394</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Azure Guard",
+    "flavor": "You suffer not the hideous to live. One successful strike sets up your next attack to speed this enemy to the grave.",
+    "keywords": [
+      "Arcane, Divine, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You hit an enemy with an attack.</p><p class=\"flavor\">Effect: You teleport to an unoccupied square adjacent to the triggering enemy. The enemy then grants combat advantage to you until the end of your next turn.</p>",
+    "trigger": "You hit an enemy with an attack.",
+    "effect": "You teleport to an unoccupied square adjacent to the triggering enemy. The enemy then grants combat advantage to you until the end of your next turn."
+  }
+}

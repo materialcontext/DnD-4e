@@ -1,0 +1,371 @@
+{
+  "Divine Resurgence": {
+    "id": "'12621",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Divine Resurgence",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Resurgence\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12621\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 11</span>Divine Resurgence</h1><p class=\\\"flavor\\\"><i>A pale golden light suffuses you and your allies, restoring your vigor and getting you back into the fight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target regains the use of his or her second wind. In addition, you regain the use of a cleric encounter attack power of level 20 or lower from your domain.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "A pale golden light suffuses you and your allies, restoring your vigor and getting you back into the fight.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: You and one ally in the burst</p><p class=\"flavor\">Effect: Each target regains the use of his or her second wind. In addition, you regain the use of a cleric encounter attack power of level 20 or lower from your domain.</p>",
+    "target": "You and one ally in the burst",
+    "effect": "Each target regains the use of his or her second wind. In addition, you regain the use of a cleric encounter attack power of level 20 or lower from your domain."
+  },
+  "Winds of Victory": {
+    "id": "'12641",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Winds of Victory",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWinds of Victory\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12641\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Winds of Victory</h1><p class=\\\"flavor\\\"><i>A powerful gale sweeps over the battlefield, carrying you and your allies aloft and deflecting your enemies’ attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the blast</p><p class=\\\"flavor\\\"><b>Effect</b>: You slide each target a number of squares up to 3 + your Wisdom modifier in any direction, even into the air. A target falls if it ends this movement in the air.<br/>&nbsp;&nbsp;&nbsp;&nbsp;In addition, each target takes only half damage from the next attack to hit him or her before the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 113.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "A powerful gale sweeps over the battlefield, carrying you and your allies aloft and deflecting your enemies’ attacks.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close blast 5</p><p class=\"powerstat\">Target: You and each ally in the blast</p><p class=\"flavor\">Effect: You slide each target a number of squares up to 3 + your Wisdom modifier in any direction, even into the air. A target falls if it ends this movement in the air.",
+    "target": "You and each ally in the blast",
+    "effect": "You slide each target a number of squares up to 3 + your Wisdom modifier in any direction, even into the air. A target falls if it ends this movement in the air.<br/>&nbsp;&nbsp;&nbsp;&nbsp;In addition, each target takes only half damage from the next attack to hit him or her before the end of the encounter."
+  },
+  "Storm's Fury": {
+    "id": "'12644",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Storm's Fury",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStorm's Fury\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12644\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Storm's Fury</h1><p class=\\\"flavor\\\"><i>Your skin becomes the gray of raging storm clouds, and you unleash a pulse of thunder that slams foes that dare to remain near you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you gain a +2 power bonus to attack rolls and damage rolls. In addition, at the start of your turn, each enemy adjacent to you takes 10 thunder damage.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Your skin becomes the gray of raging storm clouds, and you unleash a pulse of thunder that slams foes that dare to remain near you.",
+    "keywords": [
+      "Divine, Thunder"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a +2 power bonus to attack rolls and damage rolls. In addition, at the start of your turn, each enemy adjacent to you takes 10 thunder damage.</p><p class=\"powerstat\">Sustain Minor: The effect persists until the end of your next turn.</p>",
+    "effect": "Until the end of your next turn, you gain a +2 power bonus to attack rolls and damage rolls. In addition, at the start of your turn, each enemy adjacent to you takes 10 thunder damage.",
+    "sustainMinor": "The effect persists until the end of your next turn."
+  },
+  "Wall of Radiance": {
+    "id": "'12654",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Wall of Radiance",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWall of Radiance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12654\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Wall of Radiance</h1><p class=\\\"flavor\\\"><i>A spectral wall of sunlight appears before your foes, hindering their advance while soothing the injuries of your allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Divine</b>, <b>Healing</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> wall 8 within 5 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a wall that lasts until the end of the encounter. The wall can be up to 2 squares high and must be on a solid surface. Any bloodied ally who ends his or her turn in the wall regains hit points equal to your Wisdom modifier. Each square of movement by an enemy that includes one or more squares of the wall costs 4 extra squares of movement.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 119.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "A spectral wall of sunlight appears before your foes, hindering their advance while soothing the injuries of your allies.",
+    "keywords": [
+      "Conjuration, Divine, Healing"
+    ],
+    "range": "Area wall 8 within 5 squares</p><p class=\"flavor\">Effect: You conjure a wall that lasts until the end of the encounter. The wall can be up to 2 squares high and must be on a solid surface. Any bloodied ally who ends his or her turn in the wall regains hit points equal to your Wisdom modifier. Each square of movement by an enemy that includes one or more squares of the wall costs 4 extra squares of movement.</p>",
+    "effect": "You conjure a wall that lasts until the end of the encounter. The wall can be up to 2 squares high and must be on a solid surface. Any bloodied ally who ends his or her turn in the wall regains hit points equal to your Wisdom modifier. Each square of movement by an enemy that includes one or more squares of the wall costs 4 extra squares of movement."
+  },
+  "Solar Flare": {
+    "id": "'12657",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Solar Flare",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSolar Flare\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12657\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Solar Flare</h1><p class=\\\"flavor\\\"><i>Radiant energy erupts from your weapon, exploding in a flare of blinding light.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Wisdom modifier radiant damage, and the target is blinded (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is blinded until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 121.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Radiant energy erupts from your weapon, exploding in a flare of blinding light.",
+    "keywords": [
+      "Divine, Radiant, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 2[W] + Wisdom modifier radiant damage, and the target is blinded (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is blinded until the end of its next turn.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Wisdom vs. Fortitude",
+    "onHit": "2[W] + Wisdom modifier radiant damage, and the target is blinded (save ends).",
+    "onMiss": "Half damage, and the target is blinded until the end of its next turn."
+  },
+  "Bulwark of Stone": {
+    "id": "'13713",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Bulwark of Stone",
+    "type": "Warpriest",
+    "sourceRef": "Dragon Magazine 392",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBulwark of Stone\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13713\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Bulwark of Stone</h1><p class=\\\"flavor\\\"><i>A rocky barrier emerges from the ground at your command.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Divine</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> wall 8 within 10 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a wall of rough stone that acts as blocking terrain. The wall can be up to 4 squares high and must be on a solid surface. While you or an ally stand on the wall or are adjacent to the wall, that character gains a +2 power bonus to all defenses. Each square of the wall has 100 hit points and crumbles into difficult terrain if it is destroyed. The whole wall crumbles into difficult terrain at the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/392\\\" target=\\\"_new\\\">Dragon Magazine 392</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "A rocky barrier emerges from the ground at your command.",
+    "keywords": [
+      "Conjuration, Divine"
+    ],
+    "range": "Area wall 8 within 10 squares</p><p class=\"flavor\">Effect: You conjure a wall of rough stone that acts as blocking terrain. The wall can be up to 4 squares high and must be on a solid surface. While you or an ally stand on the wall or are adjacent to the wall, that character gains a +2 power bonus to all defenses. Each square of the wall has 100 hit points and crumbles into difficult terrain if it is destroyed. The whole wall crumbles into difficult terrain at the end of the encounter.</p>",
+    "effect": "You conjure a wall of rough stone that acts as blocking terrain. The wall can be up to 4 squares high and must be on a solid surface. While you or an ally stand on the wall or are adjacent to the wall, that character gains a +2 power bonus to all defenses. Each square of the wall has 100 hit points and crumbles into difficult terrain if it is destroyed. The whole wall crumbles into difficult terrain at the end of the encounter."
+  },
+  "Entombing Stone": {
+    "id": "'13717",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Entombing Stone",
+    "type": "Warpriest",
+    "sourceRef": "Dragon Magazine 392",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEntombing Stone\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13717\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Entombing Stone</h1><p class=\\\"flavor\\\"><i>Stone from the ground seems to shift and flow around your foe as it rises up to claim its flesh.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One bloodied creature</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is immobilized (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>First Failed Saving Throw</b>: The target is immobilized and dazed (save ends both).</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Second Failed Saving Throw</b>: The target is petrified (save ends).</p><p class=\\\"powerstat\\\"><b>Special</b>: A creature not touching the ground gains a +4 bonus to saving throws against this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/392\\\" target=\\\"_new\\\">Dragon Magazine 392</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Stone from the ground seems to shift and flow around your foe as it rises up to claim its flesh.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One bloodied creature</p><p class=\"flavor\">Effect: The target is immobilized (save ends).</p><p class=\"powerstat\">&nbsp;&nbsp;First Failed Saving Throw: The target is immobilized and dazed (save ends both).</p><p class=\"flavor\">&nbsp;&nbsp;Second Failed Saving Throw: The target is petrified (save ends).</p><p class=\"powerstat\">Special: A creature not touching the ground gains a +4 bonus to saving throws against this power.</p>",
+    "target": "One bloodied creature",
+    "effect": "The target is immobilized (save ends).",
+    "firstFailedSavingThrow": "The target is immobilized and dazed (save ends both).",
+    "secondFailedSavingThrow": "The target is petrified (save ends).",
+    "special": "A creature not touching the ground gains a +4 bonus to saving throws against this power."
+  },
+  "Blessing of Elvenkind": {
+    "id": "'14239",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Blessing of Elvenkind",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlessing of Elvenkind\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14239\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Blessing of Elvenkind</h1><p class=\\\"flavor\\\"><i>With your deity’s blessing, you and your allies go on the hunt.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 5 that lasts until the end of the encounter. While the aura is active, you gain a +5 power bonus to Stealth checks and a +2 power bonus to speed. Any ally who starts his or her turn in the aura gains the same bonuses until the start of his or her next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 56.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "With your deity’s blessing, you and your allies go on the hunt.",
+    "keywords": [
+      "Aura, Divine"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You activate an aura 5 that lasts until the end of the encounter. While the aura is active, you gain a +5 power bonus to Stealth checks and a +2 power bonus to speed. Any ally who starts his or her turn in the aura gains the same bonuses until the start of his or her next turn.</p>",
+    "effect": "You activate an aura 5 that lasts until the end of the encounter. While the aura is active, you gain a +5 power bonus to Stealth checks and a +2 power bonus to speed. Any ally who starts his or her turn in the aura gains the same bonuses until the start of his or her next turn."
+  },
+  "Implacable Enmity": {
+    "id": "'14242",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Implacable Enmity",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nImplacable Enmity\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14242\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 20</span>Implacable Enmity</h1><p class=\\\"flavor\\\"><i>With a flick of your weapon, you abruptly engage your enemy.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Force</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Wisdom modifier force damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You or an ally within 5 squares of you teleports to a square adjacent to the target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 56.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "With a flick of your weapon, you abruptly engage your enemy.",
+    "keywords": [
+      "Divine, Force, Teleportation, Weapon"
+    ],
+    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 5[W] + Wisdom modifier force damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You or an ally within 5 squares of you teleports to a square adjacent to the target.</p>",
+    "target": "One creature",
+    "attack": "Wisdom vs. AC",
+    "onHit": "5[W] + Wisdom modifier force damage.",
+    "onMiss": "Half damage.",
+    "effect": "You or an ally within 5 squares of you teleports to a square adjacent to the target."
+  },
+  "Divine Inspiration": {
+    "id": "'14252",
+    "action": "No Action",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Divine Inspiration",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Inspiration\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14252\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Divine Inspiration</h1><p class=\\\"flavor\\\"><i>A whispered voice threads through you, bidding you to open your senses and mind to the world around you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You or an ally within 10 squares of you rolls initiative or makes an Insight, a Perception, or a knowledge check.</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can reroll initiative if it is the beginning of the encounter and must use the second result. Until the end of the encounter, each target can reroll Insight checks, Perception checks, and knowledge checks, and must use the second result.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "A whispered voice threads through you, bidding you to open your senses and mind to the world around you.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Trigger: You or an ally within 10 squares of you rolls initiative or makes an Insight, a Perception, or a knowledge check.</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can reroll initiative if it is the beginning of the encounter and must use the second result. Until the end of the encounter, each target can reroll Insight checks, Perception checks, and knowledge checks, and must use the second result.</p>",
+    "trigger": "You or an ally within 10 squares of you rolls initiative or makes an Insight, a Perception, or a knowledge check.",
+    "target": "You and each ally in the burst",
+    "effect": "Each target can reroll initiative if it is the beginning of the encounter and must use the second result. Until the end of the encounter, each target can reroll Insight checks, Perception checks, and knowledge checks, and must use the second result."
+  },
+  "Dangerous Knowledge": {
+    "id": "'14255",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Dangerous Knowledge",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDangerous Knowledge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14255\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Dangerous Knowledge</h1><p class=\\\"flavor\\\"><i>Horrifying ideas surface within your mind and are expelled as spiritual energy that flares around your weapon.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier psychic damage, and the target is dazed (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 59.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Horrifying ideas surface within your mind and are expelled as spiritual energy that flares around your weapon.",
+    "keywords": [
+      "Divine, Psychic, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier psychic damage, and the target is dazed (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is dazed until the end of your next turn.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Wisdom vs. AC",
+    "onHit": "3[W] + Wisdom modifier psychic damage, and the target is dazed (save ends).",
+    "onMiss": "Half damage, and the target is dazed until the end of your next turn."
+  },
+  "Dazzling Light": {
+    "id": "'14265",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Dazzling Light",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDazzling Light\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14265\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Dazzling Light</h1><p class=\\\"flavor\\\"><i>As if the full moon had suddenly appeared above you, a silvery radiance scours your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target cannot make opportunity attacks and takes a -2 penalty to attack rolls until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 62.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "As if the full moon had suddenly appeared above you, a silvery radiance scours your foes.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"flavor\">Effect: Each target cannot make opportunity attacks and takes a -2 penalty to attack rolls until the end of your next turn.</p>",
+    "target": "Each enemy in the burst",
+    "effect": "Each target cannot make opportunity attacks and takes a -2 penalty to attack rolls until the end of your next turn."
+  },
+  "Heaven's Tear": {
+    "id": "'14268",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Heaven's Tear",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHeaven's Tear\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14268\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Heaven's Tear</h1><p class=\\\"flavor\\\"><i>A flash of light from the heavens crashes down on the battlefield, exploding in a brilliant burst.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Divine</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes cold and radiant damage equal to 5 + your Wisdom modifier, and is blinded (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 62.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "A flash of light from the heavens crashes down on the battlefield, exploding in a brilliant burst.",
+    "keywords": [
+      "Cold, Divine, Radiant"
+    ],
+    "range": "Area burst 1 within 10 squares</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"flavor\">Effect: The target takes cold and radiant damage equal to 5 + your Wisdom modifier, and is blinded (save ends).</p>",
+    "target": "Each creature in the burst",
+    "effect": "The target takes cold and radiant damage equal to 5 + your Wisdom modifier, and is blinded (save ends)."
+  },
+  "Rally the Troops": {
+    "id": "'14278",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Rally the Troops",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRally the Troops\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14278\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Rally the Troops</h1><p class=\\\"flavor\\\"><i>With a shout of victory, you and your allies suddenly appear in new positions to turn the tide of the battle.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can teleport to a square in the burst that is adjacent to an enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "With a shout of victory, you and your allies suddenly appear in new positions to turn the tide of the battle.",
+    "keywords": [
+      "Divine, Teleportation"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can teleport to a square in the burst that is adjacent to an enemy.</p>",
+    "target": "You and each ally in the burst",
+    "effect": "Each target can teleport to a square in the burst that is adjacent to an enemy."
+  },
+  "Peacemaker's Interdiction": {
+    "id": "'14282",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Peacemaker's Interdiction",
+    "type": "Warpriest",
+    "sourceRef": "Neverwinter Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPeacemaker's Interdiction\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14282\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Peacemaker's Interdiction</h1><p class=\\\"flavor\\\"><i>Uttering imprecations of divine wrath, you warn your enemies against raising sword, spell, or claw against your companions.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, when any enemy attacks any of your allies, you can use an immediate reaction to teleport to a square adjacent to the attacking enemy and make a melee basic attack against it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317290000\\\" target=\\\"_new\\\">Neverwinter Campaign Setting</a>, page(s) 65.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Uttering imprecations of divine wrath, you warn your enemies against raising sword, spell, or claw against your companions.",
+    "keywords": [
+      "Divine, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, when any enemy attacks any of your allies, you can use an immediate reaction to teleport to a square adjacent to the attacking enemy and make a melee basic attack against it.</p>",
+    "effect": "Until the end of the encounter, when any enemy attacks any of your allies, you can use an immediate reaction to teleport to a square adjacent to the attacking enemy and make a melee basic attack against it."
+  },
+  "Bound by the Grave": {
+    "id": "'13946",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Bound by the Grave",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBound by the Grave\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13946\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Bound by the Grave</h1><p class=\\\"flavor\\\"><i>Death links all living things, letting you join your companions’ life forces into a mystical conduit to protect one ally from harm.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Shadow</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally within 5 squares of you takes damage from an attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one other ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering ally takes no damage from the attack. The target takes damage equal to half the triggering damage. This damage ignores the target’s immunities and resistances. Any other effect of the attack is applied to the triggering ally.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 88.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Death links all living things, letting you join your companions’ life forces into a mystical conduit to protect one ally from harm.",
+    "keywords": [
+      "Divine, Shadow"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Trigger: An ally within 5 squares of you takes damage from an attack.</p><p class=\"powerstat\">Target: You or one other ally in the burst</p><p class=\"flavor\">Effect: The triggering ally takes no damage from the attack. The target takes damage equal to half the triggering damage. This damage ignores the target’s immunities and resistances. Any other effect of the attack is applied to the triggering ally.</p>",
+    "trigger": "An ally within 5 squares of you takes damage from an attack.",
+    "target": "You or one other ally in the burst",
+    "effect": "The triggering ally takes no damage from the attack. The target takes damage equal to half the triggering damage. This damage ignores the target’s immunities and resistances. Any other effect of the attack is applied to the triggering ally."
+  },
+  "Mark of Death": {
+    "id": "'13949",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Mark of Death",
+    "type": "Warpriest",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMark of Death\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13949\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Mark of Death</h1><p class=\\\"flavor\\\"><i>With a single touch, you place the mark of death upon your foes, their doom spreading from one to the other as a plague of soul-numbing pain.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Necrotic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes ongoing 20 necrotic damage (save ends). Whenever the target takes this ongoing damage, your enemies adjacent to the target take ongoing 5 necrotic damage (save ends). The target cannot attempt a saving throw against this effect if any creature adjacent to it is taking ongoing necrotic damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 89.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "With a single touch, you place the mark of death upon your foes, their doom spreading from one to the other as a plague of soul-numbing pain.",
+    "keywords": [
+      "Divine, Necrotic, Shadow"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: The target takes ongoing 20 necrotic damage (save ends). Whenever the target takes this ongoing damage, your enemies adjacent to the target take ongoing 5 necrotic damage (save ends). The target cannot attempt a saving throw against this effect if any creature adjacent to it is taking ongoing necrotic damage.</p>",
+    "target": "One creature",
+    "effect": "The target takes ongoing 20 necrotic damage (save ends). Whenever the target takes this ongoing damage, your enemies adjacent to the target take ongoing 5 necrotic damage (save ends). The target cannot attempt a saving throw against this effect if any creature adjacent to it is taking ongoing necrotic damage."
+  },
+  "Echoes of Cowardice": {
+    "id": "'16416",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Echoes of Cowardice",
+    "type": "Warpriest",
+    "sourceRef": "Dragon Magazine 409",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEchoes of Cowardice\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16416\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Utility 12</span>Echoes of Cowardice</h1><p class=\\\"flavor\\\"><i>Your foes’ eyes widen as your divine magic amplifies their doubts into fears, leaving them vulnerable.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Fear</b>, <b>Shadow</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close blast</b> 5</p><p class=\\\"flavor\\\"><b>Effect</b>: The blast creates a zone that lasts until the end of your next turn. Enemies in the zone grant combat advantage. When any enemy that starts in the zone is pushed, pulled, or slid, that enemy falls prone at the end of the forced movement.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Move Action</b>: You move the zone up to 3 squares.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The zone persists until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/409\\\" target=\\\"_new\\\">Dragon Magazine 409</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Your foes’ eyes widen as your divine magic amplifies their doubts into fears, leaving them vulnerable.",
+    "keywords": [
+      "Divine, Fear, Shadow, Zone"
+    ],
+    "range": "Close blast 5</p><p class=\"flavor\">Effect: The blast creates a zone that lasts until the end of your next turn. Enemies in the zone grant combat advantage. When any enemy that starts in the zone is pushed, pulled, or slid, that enemy falls prone at the end of the forced movement.</p><p class=\"powerstat\">&nbsp;&nbsp;Move Action: You move the zone up to 3 squares.</p><p class=\"flavor\">Sustain Minor: The zone persists until the end of your next turn.</p>",
+    "effect": "The blast creates a zone that lasts until the end of your next turn. Enemies in the zone grant combat advantage. When any enemy that starts in the zone is pushed, pulled, or slid, that enemy falls prone at the end of the forced movement.",
+    "moveAction": "You move the zone up to 3 squares.",
+    "sustainMinor": "The zone persists until the end of your next turn."
+  },
+  "Ruthless Assault": {
+    "id": "'16417",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Ruthless Assault",
+    "type": "Warpriest",
+    "sourceRef": "Dragon Magazine 409",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRuthless Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16417\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Devout Warpriest Attack 20</span>Ruthless Assault</h1><p class=\\\"flavor\\\"><i>Divine might cloaks you in an aura that grants you strength and speeds your allies’ attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 2 that lasts until the end of your next turn. While the aura is active, you gain a +2 power bonus to attack rolls and a +4 power bonus to damage rolls. You and any ally in the aura can make a basic attack as a minor action once per round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/409\\\" target=\\\"_new\\\">Dragon Magazine 409</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Devout Warpriest",
+    "flavor": "Divine might cloaks you in an aura that grants you strength and speeds your allies’ attacks.",
+    "keywords": [
+      "Aura, Divine"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You activate an aura 2 that lasts until the end of your next turn. While the aura is active, you gain a +2 power bonus to attack rolls and a +4 power bonus to damage rolls. You and any ally in the aura can make a basic attack as a minor action once per round.</p>",
+    "effect": "You activate an aura 2 that lasts until the end of your next turn. While the aura is active, you gain a +2 power bonus to attack rolls and a +4 power bonus to damage rolls. You and any ally in the aura can make a basic attack as a minor action once per round."
+  }
+}

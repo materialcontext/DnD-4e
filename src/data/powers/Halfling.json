@@ -1,0 +1,96 @@
+{
+  "Second Chance": {
+    "id": "'1452",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Second Chance",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook, Heroes of the Fallen Lands",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSecond Chance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1452\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Halfling Racial Power</span>Second Chance</h1><p class=\\\"flavor\\\"><i>Luck and small size combine to work in your favor as you dodge your enemy’s attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are hit by an attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: The attacker must reroll the attack and use the second roll, even if it is lower.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 44, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 266.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Halfling",
+    "flavor": "Luck and small size combine to work in your favor as you dodge your enemy’s attack.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are hit by an attack.</p><p class=\"flavor\">Effect: The attacker must reroll the attack and use the second roll, even if it is lower.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You are hit by an attack.</p><p class=\"flavor\">Effect: The attacker must reroll the attack and use the second roll, even if it is lower.</p>",
+    "trigger": "You are hit by an attack.",
+    "effect": "The attacker must reroll the attack and use the second roll, even if it is lower."
+  },
+  "Happy Feet": {
+    "id": "'14391",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Happy Feet",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHappy Feet\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14391\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Halfling Racial Utility 2</span>Happy Feet</h1><p class=\\\"flavor\\\"><i>It’s hard to keep your feet under control. Sometimes they feel as if they move of their own accord.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature you can see starts its turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift up to 2 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Halfling",
+    "flavor": "It’s hard to keep your feet under control. Sometimes they feel as if they move of their own accord.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: A creature you can see starts its turn.</p><p class=\"flavor\">Effect: You shift up to 2 squares.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: A creature you can see starts its turn.</p><p class=\"flavor\">Effect: You shift up to 2 squares.</p>",
+    "trigger": "A creature you can see starts its turn.",
+    "effect": "You shift up to 2 squares."
+  },
+  "Minor Threat": {
+    "id": "'14392",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Minor Threat",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMinor Threat\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14392\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Halfling Racial Utility 6</span>Minor Threat</h1><p class=\\\"flavor\\\"><i>Clearly you’re no threat to your enemies, injured as you are. You convince them of that by affecting a small and harmless posture.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be bloodied.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You assume the minor threat stance. Until the stance ends and while you are bloodied, you have a +2 power bonus to all defenses and to Stealth checks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Halfling",
+    "flavor": "Clearly you’re no threat to your enemies, injured as you are. You convince them of that by affecting a small and harmless posture.",
+    "keywords": [
+      "Stance"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must be bloodied.</p><p class=\"powerstat\">Effect: You assume the minor threat stance. Until the stance ends and while you are bloodied, you have a +2 power bonus to all defenses and to Stealth checks.</p>",
+    "requirement": "You must be bloodied.",
+    "effect": "You assume the minor threat stance. Until the stance ends and while you are bloodied, you have a +2 power bonus to all defenses and to Stealth checks."
+  },
+  "Pay Your Debts": {
+    "id": "'14393",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "At-Will",
+    "level": "10",
+    "name": "Pay Your Debts",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPay Your Debts\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14393\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Halfling Racial Utility 10</span>Pay Your Debts</h1><p class=\\\"flavor\\\"><i>You acknowledge an ally’s assistance by making a feint to keep your enemy off balance.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy flanked by you moves out of the flanked position.</p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Halfling",
+    "flavor": "You acknowledge an ally’s assistance by making a feint to keep your enemy off balance.",
+    "keywords": [
+      "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: An enemy flanked by you moves out of the flanked position.</p><p class=\"flavor\">Effect: Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn.</p>"
+    ],
+    "range": "Special </p><p class=\"powerstat\">Trigger: An enemy flanked by you moves out of the flanked position.</p><p class=\"flavor\">Effect: Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn.</p>",
+    "trigger": "An enemy flanked by you moves out of the flanked position.",
+    "effect": "Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn."
+  },
+  "Underfoot Hustle": {
+    "id": "'14394",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Underfoot Hustle",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnderfoot Hustle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14394\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Halfling Racial Utility 16</span>Underfoot Hustle</h1><p class=\\\"flavor\\\"><i>You roll between your enemy’s legs and spring up on the other side.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Halfling",
+    "flavor": "You roll between your enemy’s legs and spring up on the other side.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn.</p>",
+    "effect": "You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn."
+  }
+}

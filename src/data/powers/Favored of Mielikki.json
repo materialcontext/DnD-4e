@@ -1,0 +1,61 @@
+{
+  "Protective Vines": {
+    "id": "'11569",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Protective Vines",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 384",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nProtective Vines\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11569\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Favored of Mielikki Attack 11</span>Protective Vines</h1><p class=\\\"flavor\\\"><i>Mielikki causes a growth of plants to constrict your foes and protect your friends.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Your highest ability score modifier + 6 vs. Reflex<br/>Level 21: Your highest ability score modifier + 9 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + your highest ability score modifier damage. The target is slowed and cannot make opportunity attacks until the end of your next turn.<br/>Level 21: 3d6 + your highest ability score modifier damage, and the target is slowed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Favored of Mielikki",
+    "flavor": "Mielikki causes a growth of plants to constrict your foes and protect your friends.",
+    "keywords": [
+      "Charm"
+    ],
+    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each enemy in the blast</p><p class=\"powerstat\">Attack: Your highest ability score modifier + 6 vs. Reflex",
+    "target": "Each enemy in the blast",
+    "attack": "Your highest ability score modifier + 6 vs. Reflex<br/>Level 21: Your highest ability score modifier + 9 vs. Reflex",
+    "onHit": "2d6 + your highest ability score modifier damage. The target is slowed and cannot make opportunity attacks until the end of your next turn.<br/>Level 21: 3d6 + your highest ability score modifier damage, and the target is slowed until the end of your next turn."
+  },
+  "Call of the Forest": {
+    "id": "'11570",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Call of the Forest",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 384",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCall of the Forest\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11570\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Favored of Mielikki Attack 20</span>Call of the Forest</h1><p class=\\\"flavor\\\"><i>You draw on your connection to primal nature to cause constricting verdant growth to ensnare your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 3 within 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Your highest ability score modifier + 9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + highest ability modifier damage and the target is restrained (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: The burst creates a zone of verdant growth. The verdant growth is difficult terrain and heavily obscured. Each enemy that ends its turn in the zone takes 10 damage or falls prone (enemy’s choice). Each beast ally and plant ally within the zone gains a +2 power bonus to attack rolls until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Favored of Mielikki",
+    "flavor": "You draw on your connection to primal nature to cause constricting verdant growth to ensnare your enemies.",
+    "keywords": [
+      "Zone"
+    ],
+    "range": "Area burst 3 within 10</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Your highest ability score modifier + 9 vs. Will</p><p class=\"flavor\">Hit: 3d8 + highest ability modifier damage and the target is restrained (save ends).</p><p class=\"powerstat\">Effect: The burst creates a zone of verdant growth. The verdant growth is difficult terrain and heavily obscured. Each enemy that ends its turn in the zone takes 10 damage or falls prone (enemy’s choice). Each beast ally and plant ally within the zone gains a +2 power bonus to attack rolls until the end of the encounter.</p>",
+    "target": "Each creature in the burst",
+    "attack": "Your highest ability score modifier + 9 vs. Will",
+    "onHit": "3d8 + highest ability modifier damage and the target is restrained (save ends).",
+    "effect": "The burst creates a zone of verdant growth. The verdant growth is difficult terrain and heavily obscured. Each enemy that ends its turn in the zone takes 10 damage or falls prone (enemy’s choice). Each beast ally and plant ally within the zone gains a +2 power bonus to attack rolls until the end of the encounter."
+  },
+  "Treestride": {
+    "id": "'11571",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Treestride",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 384",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTreestride\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11571\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Favored of Mielikki Utility 12</span>Treestride</h1><p class=\\\"flavor\\\"><i>Your faith in Mielikki opens pathways that only creatures as close to nature as dryads can see.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you can use a minor action to teleport up to 20 squares if you begin and end the teleport adjacent to a plant or plant creature of Large size or larger.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Favored of Mielikki",
+    "flavor": "Your faith in Mielikki opens pathways that only creatures as close to nature as dryads can see.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you can use a minor action to teleport up to 20 squares if you begin and end the teleport adjacent to a plant or plant creature of Large size or larger.</p>",
+    "effect": "Until the end of the encounter, you can use a minor action to teleport up to 20 squares if you begin and end the teleport adjacent to a plant or plant creature of Large size or larger."
+  }
+}

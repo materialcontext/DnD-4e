@@ -1,0 +1,64 @@
+{
+  "Soul-Veiling Strike": {
+    "id": "'12349",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Soul-Veiling Strike",
+    "type": "Guardian",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoul-Veiling Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12349\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Veiled Guardian Attack 11</span>Soul-Veiling Strike</h1><p class=\\\"flavor\\\"><i>Using special techniques, you deliver a blow that wounds the body, mind, and soul.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Special</b>: You can spend a minor action when you use this power to enhance it. If you do so and your attack hits, one ally adjacent to the target can shift 1 square.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + ability modifier damage, and you mark the target until the end of your next turn. Until the mark ends, the target can use only at-will powers and cannot recharge powers.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Veiled Guardian",
+    "flavor": "Using special techniques, you deliver a blow that wounds the body, mind, and soul.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Special: You can spend a minor action when you use this power to enhance it. If you do so and your attack hits, one ally adjacent to the target can shift 1 square.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 2[W] + ability modifier damage, and you mark the target until the end of your next turn. Until the mark ends, the target can use only at-will powers and cannot recharge powers.</p>",
+    "special": "You can spend a minor action when you use this power to enhance it. If you do so and your attack hits, one ally adjacent to the target can shift 1 square.",
+    "target": "One creature",
+    "attack": "Primary ability vs. AC",
+    "onHit": "2[W] + ability modifier damage, and you mark the target until the end of your next turn. Until the mark ends, the target can use only at-will powers and cannot recharge powers."
+  },
+  "Veiled Guardian Stance": {
+    "id": "'12350",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Veiled Guardian Stance",
+    "type": "Guardian",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVeiled Guardian Stance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12350\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Veiled Guardian Attack 20</span>Veiled Guardian Stance</h1><p class=\\\"flavor\\\"><i>With a vicious sweep of your weapon, you attract the attention of all nearby enemies. Leaving your presence is asking for swift punishment.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Special</b>: You can spend a minor action when you use this power to enhance it. If you do so, you gain a +2 power bonus to the melee basic attack rolls granted by this stance.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + ability modifier damage, and you mark the target (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and you mark the target until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can assume the veiled guardian stance. Until the stance ends, when a target of this power marked by you leaves a square adjacent to you, you can make a melee basic attack against the target as an opportunity action. If your attack hits, the target cannot leave the square until the start of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Veiled Guardian",
+    "flavor": "With a vicious sweep of your weapon, you attract the attention of all nearby enemies. Leaving your presence is asking for swift punishment.",
+    "keywords": [
+      "Stance, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"flavor\">Special: You can spend a minor action when you use this power to enhance it. If you do so, you gain a +2 power bonus to the melee basic attack rolls granted by this stance.</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 2[W] + ability modifier damage, and you mark the target (save ends).</p><p class=\"powerstat\">Miss: Half damage, and you mark the target until the end of your next turn.</p><p class=\"flavor\">Effect: You can assume the veiled guardian stance. Until the stance ends, when a target of this power marked by you leaves a square adjacent to you, you can make a melee basic attack against the target as an opportunity action. If your attack hits, the target cannot leave the square until the start of its next turn.</p>",
+    "special": "You can spend a minor action when you use this power to enhance it. If you do so, you gain a +2 power bonus to the melee basic attack rolls granted by this stance.",
+    "target": "Each creature in the burst",
+    "attack": "Primary ability vs. AC",
+    "onHit": "2[W] + ability modifier damage, and you mark the target (save ends).",
+    "onMiss": "Half damage, and you mark the target until the end of your next turn.",
+    "effect": "You can assume the veiled guardian stance. Until the stance ends, when a target of this power marked by you leaves a square adjacent to you, you can make a melee basic attack against the target as an opportunity action. If your attack hits, the target cannot leave the square until the start of its next turn."
+  },
+  "Guardian Dash": {
+    "id": "'12351",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Guardian Dash",
+    "type": "Guardian",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGuardian Dash\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12351\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Veiled Guardian Utility 12</span>Guardian Dash</h1><p class=\\\"flavor\\\"><i>Your eldritch might threatens to knock aside those who stand in your path as you chase down a chosen adversary.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You move your speed to a square adjacent to an enemy. You mark that enemy until the end of your next turn. You have resist 10 to all damage during this movement, and each enemy that makes an opportunity attack against you during this movement is knocked prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Veiled Guardian",
+    "flavor": "Your eldritch might threatens to knock aside those who stand in your path as you chase down a chosen adversary.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You move your speed to a square adjacent to an enemy. You mark that enemy until the end of your next turn. You have resist 10 to all damage during this movement, and each enemy that makes an opportunity attack against you during this movement is knocked prone.</p>",
+    "effect": "You move your speed to a square adjacent to an enemy. You mark that enemy until the end of your next turn. You have resist 10 to all damage during this movement, and each enemy that makes an opportunity attack against you during this movement is knocked prone."
+  }
+}

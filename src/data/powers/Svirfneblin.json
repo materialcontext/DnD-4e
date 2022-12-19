@@ -1,0 +1,166 @@
+{
+  "Stone Camouflage": {
+    "id": "'16469",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Stone Camouflage",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStone Camouflage\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16469\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility </span>Stone Camouflage</h1><p class=\\\"flavor\\\"><i>Your body becomes stony and magically blends with the terrain around you, making you harder to pinpoint.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain partial concealment until the end of your next turn, and you gain 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 46.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "Your body becomes stony and magically blends with the terrain around you, making you harder to pinpoint.",
+    "keywords": [
+      "Illusion"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain partial concealment until the end of your next turn, and you gain 5 temporary hit points.",
+    "effect": "You gain partial concealment until the end of your next turn, and you gain 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+  },
+  "Ring of Rubble": {
+    "id": "'16470",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Ring of Rubble",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRing of Rubble\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16470\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 2</span>Ring of Rubble</h1><p class=\\\"flavor\\\"><i>You stamp your foot, and the earth around you ripples and furrows.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"flavor\\\"><b>Effect</b>: The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You stamp your foot, and the earth around you ripples and furrows.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 2</p><p class=\"flavor\">Effect: The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter.</p>"
+    ],
+    "range": "Close burst 2</p><p class=\"flavor\">Effect: The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter.</p>",
+    "effect": "The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter."
+  },
+  "Words from the Deep": {
+    "id": "'16471",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Words from the Deep",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWords from the Deep\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16471\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 2</span>Words from the Deep</h1><p class=\\\"flavor\\\"><i>You call on your experience with the people of your deep home to be outgoing in the presence of other people.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You would make a Diplomacy check or a Streetwise check.</p><p class=\\\"flavor\\\"><b>Effect</b>: You make a Dungeoneering check in place of the Diplomacy check or Streetwise check.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You call on your experience with the people of your deep home to be outgoing in the presence of other people.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You would make a Diplomacy check or a Streetwise check.</p><p class=\"flavor\">Effect: You make a Dungeoneering check in place of the Diplomacy check or Streetwise check.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You would make a Diplomacy check or a Streetwise check.</p><p class=\"flavor\">Effect: You make a Dungeoneering check in place of the Diplomacy check or Streetwise check.</p>",
+    "trigger": "You would make a Diplomacy check or a Streetwise check.",
+    "effect": "You make a Dungeoneering check in place of the Diplomacy check or Streetwise check."
+  },
+  "Deep Senses": {
+    "id": "'16472",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Deep Senses",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeep Senses\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16472\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 6</span>Deep Senses</h1><p class=\\\"flavor\\\"><i>You extend your mind into the stone, and you feel it shift and reverberate with the motion of your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You extend your mind into the stone, and you feel it shift and reverberate with the motion of your enemies.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10).</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10).</p>",
+    "effect": "You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10)."
+  },
+  "Stony Disappearance": {
+    "id": "'16473",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Stony Disappearance",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStony Disappearance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16473\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 6</span>Stony Disappearance</h1><p class=\\\"flavor\\\"><i>You tap into your natural magical abilities and use them to blend in with your surroundings perfectly.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You become invisible until the end of your next turn or until you attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You tap into your natural magical abilities and use them to blend in with your surroundings perfectly.",
+    "keywords": [
+      "Illusion"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You become invisible until the end of your next turn or until you attack.</p>",
+    "effect": "You become invisible until the end of your next turn or until you attack."
+  },
+  "Stony Durability": {
+    "id": "'16474",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Stony Durability",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStony Durability\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16474\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 6</span>Stony Durability</h1><p class=\\\"flavor\\\"><i>A thick barrier of stone covers your skin, deflecting blows of all kinds.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain resist 5 to all damage until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "A thick barrier of stone covers your skin, deflecting blows of all kinds.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain resist 5 to all damage until the end of the encounter.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain resist 5 to all damage until the end of the encounter.</p>",
+    "effect": "You gain resist 5 to all damage until the end of the encounter."
+  },
+  "Crystal Shield": {
+    "id": "'16475",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Crystal Shield",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCrystal Shield\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16475\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 10</span>Crystal Shield</h1><p class=\\\"flavor\\\"><i>You throw a handful of crystal powder in the air, and it forms a protective barrier of clear crystal.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a shield of crystal that surrounds you and moves with you. The shield has hit points equal to your healing surge value, and it lasts until the end of the encounter or until it is reduced to 0 hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While the shield remains, you gain a +2 power bonus to AC and Reflex. When an attack hits your AC or Reflex, you can use the shield as a free action to absorb some or all of the damage. You still take all other effects from the attack, as well as any damage that exceeds the shield’s hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You throw a handful of crystal powder in the air, and it forms a protective barrier of clear crystal.",
+    "keywords": [
+      "Conjuration"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You conjure a shield of crystal that surrounds you and moves with you. The shield has hit points equal to your healing surge value, and it lasts until the end of the encounter or until it is reduced to 0 hit points.",
+    "effect": "You conjure a shield of crystal that surrounds you and moves with you. The shield has hit points equal to your healing surge value, and it lasts until the end of the encounter or until it is reduced to 0 hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While the shield remains, you gain a +2 power bonus to AC and Reflex. When an attack hits your AC or Reflex, you can use the shield as a free action to absorb some or all of the damage. You still take all other effects from the attack, as well as any damage that exceeds the shield’s hit points."
+  },
+  "Summon Earth-Friend": {
+    "id": "'16476",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Summon Earth-Friend",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSummon Earth-Friend\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16476\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 10</span>Summon Earth-Friend</h1><p class=\\\"flavor\\\"><i>You call on an ancient friend of your people to assist you in scouting the dungeon.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Summoning</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"flavor\\\"><b>Effect</b>: You summon a Tiny earth-friend in an unoccupied space within range. The earth-friend is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The earth-friend lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the earth-friend’s description. You don’t need line of sight to the earth-friend to command it. When you command the earth-friend, you and the creature share knowledge, but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the earth-friend makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The earth-friend lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You call on an ancient friend of your people to assist you in scouting the dungeon.",
+    "keywords": [
+      "Elemental, Summoning"
+    ],
+    "range": "Ranged 5</p><p class=\"flavor\">Effect: You summon a Tiny earth-friend in an unoccupied space within range. The earth-friend is an ally to you and your allies.",
+    "effect": "You summon a Tiny earth-friend in an unoccupied space within range. The earth-friend is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The earth-friend lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the earth-friend’s description. You don’t need line of sight to the earth-friend to command it. When you command the earth-friend, you and the creature share knowledge, but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the earth-friend makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The earth-friend lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+  },
+  "Walk through Stone": {
+    "id": "'16477",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Walk through Stone",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWalk through Stone\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16477\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Svirfneblin Racial Utility 10</span>Walk through Stone</h1><p class=\\\"flavor\\\"><i>You step into the stone and emerge from the stone, walking through pathways older than the world itself.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be on a stone surface or adjacent to blocking terrain made of stone.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You teleport up to 10 squares. You don’t need line of sight to the destination space, but you must end the movement on a stone surface or adjacent to blocking terrain made of stone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Svirfneblin",
+    "flavor": "You step into the stone and emerge from the stone, walking through pathways older than the world itself.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must be on a stone surface or adjacent to blocking terrain made of stone.</p><p class=\"powerstat\">Effect: You teleport up to 10 squares. You don’t need line of sight to the destination space, but you must end the movement on a stone surface or adjacent to blocking terrain made of stone.</p>",
+    "requirement": "You must be on a stone surface or adjacent to blocking terrain made of stone.",
+    "effect": "You teleport up to 10 squares. You don’t need line of sight to the destination space, but you must end the movement on a stone surface or adjacent to blocking terrain made of stone."
+  }
+}

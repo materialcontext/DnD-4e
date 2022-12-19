@@ -1,0 +1,64 @@
+{
+  "Stygian Strike": {
+    "id": "'11152",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Stygian Strike",
+    "type": "Adept",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStygian Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11152\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Stygian Adept Attack 11</span>Stygian Strike</h1><p class=\\\"flavor\\\"><i>To your enemy, you take on the appearance of its greatest fear, causing it to stumble back in terror.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Fear</b>, <b>Psionic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Charisma modifier psychic damage, and you push the target a number of squares equal to your Constitution modifier.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: As above, and you or one ally can make a melee basic attack against the target as an opportunity action at any point during the push.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Stygian Adept",
+    "flavor": "To your enemy, you take on the appearance of its greatest fear, causing it to stumble back in terror.",
+    "keywords": [
+      "Augmentable, Fear, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 1[W] + Charisma modifier psychic damage, and you push the target a number of squares equal to your Constitution modifier.</p>Augment 2",
+    "target": "One creature",
+    "attack": "Charisma vs. Will",
+    "onHit": "As above, and you or one ally can make a melee basic attack against the target as an opportunity action at any point during the push."
+  },
+  "Subconscious Horror": {
+    "id": "'11153",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Subconscious Horror",
+    "type": "Adept",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSubconscious Horror\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11153\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Stygian Adept Attack 20</span>Subconscious Horror</h1><p class=\\\"flavor\\\"><i>Your attack conjures a horrific vision that only you and your enemy can see.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Fear</b>, <b>Psionic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Charisma modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a subconscious horror in an unoccupied square within 5 squares of you. The horror lasts until the end of your next turn. The horror is invisible to everyone but you and the target. Whenever the target starts its turn and can see the horror, the target must either end that turn farther away from the horror than where it started, by at least a number of squares equal to half its speed, or take 10 psychic damage and grant combat advantage until the start of its next turn.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The horror persists, and you can move it 4 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Stygian Adept",
+    "flavor": "Your attack conjures a horrific vision that only you and your enemy can see.",
+    "keywords": [
+      "Conjuration, Fear, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 3[W] + Charisma modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You conjure a subconscious horror in an unoccupied square within 5 squares of you. The horror lasts until the end of your next turn. The horror is invisible to everyone but you and the target. Whenever the target starts its turn and can see the horror, the target must either end that turn farther away from the horror than where it started, by at least a number of squares equal to half its speed, or take 10 psychic damage and grant combat advantage until the start of its next turn.</p><p class=\"powerstat\">Sustain Minor: The horror persists, and you can move it 4 squares.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. Will",
+    "onHit": "3[W] + Charisma modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You conjure a subconscious horror in an unoccupied square within 5 squares of you. The horror lasts until the end of your next turn. The horror is invisible to everyone but you and the target. Whenever the target starts its turn and can see the horror, the target must either end that turn farther away from the horror than where it started, by at least a number of squares equal to half its speed, or take 10 psychic damage and grant combat advantage until the start of its next turn.",
+    "sustainMinor": "The horror persists, and you can move it 4 squares."
+  },
+  "Haunting Shadows": {
+    "id": "'11154",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Haunting Shadows",
+    "type": "Adept",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHaunting Shadows\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11154\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Stygian Adept Utility 12</span>Haunting Shadows</h1><p class=\\\"flavor\\\"><i>Doubts blur your enemies’ vision, making it hard for your foes to see the true threat before them.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. Your allies have concealment against enemies that are within the zone.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Stygian Adept",
+    "flavor": "Doubts blur your enemies’ vision, making it hard for your foes to see the true threat before them.",
+    "keywords": [
+      "Psionic, Zone"
+    ],
+    "range": "Close burst 3</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. Your allies have concealment against enemies that are within the zone.</p><p class=\"powerstat\">Sustain Minor: The zone persists.</p>",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. Your allies have concealment against enemies that are within the zone.",
+    "sustainMinor": "The zone persists."
+  }
+}

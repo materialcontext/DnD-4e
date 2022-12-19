@@ -1,0 +1,20 @@
+{
+  "Persisting Command": {
+    "id": "'12911",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "26",
+    "name": "Persisting Command",
+    "type": "Utility",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPersisting Command\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12911\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Hordemaster Utility 26</span>Persisting Command</h1><p class=\\\"flavor\\\"><i>Your leadership inspires your allies and ensures that they do not fall to injury or adverse effects.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of the encounter. When you move, the zone moves with you, remaining centered on you. While your allies are within the zone, they gain a +2 power bonus to saving throws. In addition, when any of your allies spends a healing surge to regain hit points while within the zone, he or she regains hit points equal to twice his or her healing surge value.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 100.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hordemaster",
+    "flavor": "Your leadership inspires your allies and ensures that they do not fall to injury or adverse effects.",
+    "keywords": [
+      "Healing, Zone"
+    ],
+    "range": "Close burst 5</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of the encounter. When you move, the zone moves with you, remaining centered on you. While your allies are within the zone, they gain a +2 power bonus to saving throws. In addition, when any of your allies spends a healing surge to regain hit points while within the zone, he or she regains hit points equal to twice his or her healing surge value.</p>",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. When you move, the zone moves with you, remaining centered on you. While your allies are within the zone, they gain a +2 power bonus to saving throws. In addition, when any of your allies spends a healing surge to regain hit points while within the zone, he or she regains hit points equal to twice his or her healing surge value."
+  }
+}

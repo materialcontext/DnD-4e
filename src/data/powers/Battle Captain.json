@@ -1,0 +1,65 @@
+{
+  "Bolt of Genius": {
+    "id": "'1667",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Bolt of Genius",
+    "type": "Captain",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBolt of Genius\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1667\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Battle Captain Utility 12</span>Bolt of Genius</h1><p class=\\\"flavor\\\"><i>You share a moment of brilliant clarity with a close comrade.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target regains the use of an encounter attack power that he or she has already used during this encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 154, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Battle Captain",
+    "flavor": "You share a moment of brilliant clarity with a close comrade.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: The target regains the use of an encounter attack power that he or she has already used during this encounter.</p>",
+    "target": "One ally",
+    "effect": "The target regains the use of an encounter attack power that he or she has already used during this encounter."
+  },
+  "Force Retreat": {
+    "id": "'1668",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Force Retreat",
+    "type": "Captain",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForce Retreat\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1668\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Battle Captain Attack 11</span>Force Retreat</h1><p class=\\\"flavor\\\"><i>You hurl yourself into your adversary, knocking him back into his allies and causing them all to stumble away from you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] damage, and you push the target a number of squares up to your Intelligence modifier. Make the secondary attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: Each enemy that was adjacent to the primary target before the push, is its size or smaller, and is within your melee reach</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Strength vs. Fortitude</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Hit</b>: 2d6 + Strength modifier damage, and you can push the secondary target 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 153, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Battle Captain",
+    "flavor": "You hurl yourself into your adversary, knocking him back into his allies and causing them all to stumble away from you.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Strength vs. Reflex</p><p class=\"flavor\">Hit: 1[W] damage, and you push the target a number of squares up to your Intelligence modifier. Make the secondary attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Target: Each enemy that was adjacent to the primary target before the push, is its size or smaller, and is within your melee reach</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Attack: Strength vs. Fortitude</p><p class=\"powerstat\">&nbsp;&nbsp;Hit: 2d6 + Strength modifier damage, and you can push the secondary target 1 square.</p>",
+    "primaryTarget": "One creature",
+    "attack": "Strength vs. Reflex",
+    "onHit": "1[W] damage, and you push the target a number of squares up to your Intelligence modifier. Make the secondary attack.",
+    "secondaryTarget": "Each enemy that was adjacent to the primary target before the push, is its size or smaller, and is within your melee reach",
+    "secondaryAttack": "Strength vs. Fortitude",
+    "secondaryOnHit": "2d6 + Strength modifier damage, and you can push the secondary target 1 square."
+  },
+  "Cunning Flurry": {
+    "id": "'1669",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Cunning Flurry",
+    "type": "Captain",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCunning Flurry\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1669\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Battle Captain Attack 20</span>Cunning Flurry</h1><p class=\\\"flavor\\\"><i>You whirl around like a cyclone of steel terror, slashing at foes. With each landed blow, you knock your enemy prone or send it stumbling backward.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy you can see in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and you either push the target 1 square or knock it prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 154, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Battle Captain",
+    "flavor": "You whirl around like a cyclone of steel terror, slashing at foes. With each landed blow, you knock your enemy prone or send it stumbling backward.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy you can see in the burst</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and you either push the target 1 square or knock it prone.</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage, and you either push the target 1 square or knock it prone.",
+    "onMiss": "Half damage."
+  }
+}

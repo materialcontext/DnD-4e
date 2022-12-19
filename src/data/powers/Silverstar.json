@@ -1,0 +1,61 @@
+{
+  "Tears of Selûne": {
+    "id": "'3552",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Tears of Selûne",
+    "type": "Attack",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTears of Selûne\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3552\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Silverstar Attack 11</span>Tears of Selûne</h1><p class=\\\"flavor\\\"><i>You conjure a small orb of luminescent silver light that streaks to your enemy. Its power is unpredictable, but so are the moods of the moon.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Will, Wisdom vs. Will, or Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: While you are bloodied, deal 3d10 + Intelligence, Wisdom, or Charisma modifier psychic damage. If you are not bloodied, the target is instead stunned until the start of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 61.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Silverstar",
+    "flavor": "You conjure a small orb of luminescent silver light that streaks to your enemy. Its power is unpredictable, but so are the moods of the moon.",
+    "keywords": [
+      "Divine, Implement, Psychic"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. Will, Wisdom vs. Will, or Charisma vs. Will</p><p class=\"flavor\">Hit: While you are bloodied, deal 3d10 + Intelligence, Wisdom, or Charisma modifier psychic damage. If you are not bloodied, the target is instead stunned until the start of its next turn.</p>",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will, Wisdom vs. Will, or Charisma vs. Will",
+    "onHit": "While you are bloodied, deal 3d10 + Intelligence, Wisdom, or Charisma modifier psychic damage. If you are not bloodied, the target is instead stunned until the start of its next turn."
+  },
+  "Moonglow": {
+    "id": "'3553",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Moonglow",
+    "type": "Utility",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMoonglow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3553\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Silverstar Utility 12</span>Moonglow</h1><p class=\\\"flavor\\\"><i>Where you walk in the power of your goddess, darkness yields to silvery splendor.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, darkness within 6 squares of you counts as dim light.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 61.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Silverstar",
+    "flavor": "Where you walk in the power of your goddess, darkness yields to silvery splendor.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, darkness within 6 squares of you counts as dim light.</p>",
+    "effect": "Until the end of the encounter, darkness within 6 squares of you counts as dim light."
+  },
+  "Moonfire": {
+    "id": "'3554",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Moonfire",
+    "type": "Attack",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMoonfire\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3554\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Silverstar Attack 20</span>Moonfire</h1><p class=\\\"flavor\\\"><i>From overhead a spiraling column of cold, white light descends against your foe. Even as it consumes the wicked, your allies are soothed by its cool glow.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex, Wisdom vs. Reflex, or Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d10 + Intelligence, Wisdom, or Charisma modifier radiant damage, and all allies within 5 squares of the target regain hit points equal to one-half your level + your Charisma modifier.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and all bloodied enemies within 5 squares of the target take radiant damage equal to your Charisma modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 61.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Silverstar",
+    "flavor": "From overhead a spiraling column of cold, white light descends against your foe. Even as it consumes the wicked, your allies are soothed by its cool glow.",
+    "keywords": [
+      "Divine, Healing, Implement, Radiant"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. Reflex, Wisdom vs. Reflex, or Charisma vs. Reflex</p><p class=\"flavor\">Hit: 4d10 + Intelligence, Wisdom, or Charisma modifier radiant damage, and all allies within 5 squares of the target regain hit points equal to one-half your level + your Charisma modifier.</p><p class=\"powerstat\">Miss: Half damage, and all bloodied enemies within 5 squares of the target take radiant damage equal to your Charisma modifier.</p>",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex, Wisdom vs. Reflex, or Charisma vs. Reflex",
+    "onHit": "4d10 + Intelligence, Wisdom, or Charisma modifier radiant damage, and all allies within 5 squares of the target regain hit points equal to one-half your level + your Charisma modifier.",
+    "onMiss": "Half damage, and all bloodied enemies within 5 squares of the target take radiant damage equal to your Charisma modifier."
+  }
+}

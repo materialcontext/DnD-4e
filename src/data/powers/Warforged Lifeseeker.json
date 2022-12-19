@@ -1,0 +1,62 @@
+{
+  "Verve Strike": {
+    "id": "'3154",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Verve Strike",
+    "type": "Lifeseeker",
+    "sourceRef": "Dragon Magazine 364",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVerve Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3154\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Warforged Lifeseeker Attack 11</span>Verve Strike</h1><p class=\\\"flavor\\\"><i>Swearing by your existence, you smite your enemy, dazing him and rallying an ally's spirit.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature within your melee reach.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage and the target is dazed until the end of your next turn. You also grant yourself or an ally within 10 squares of you that you can see a number of temporary hit points equal to 5 + the higher of your Wisdom modifier or Charisma modifer.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/364\\\" target=\\\"_new\\\">Dragon Magazine 364</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Warforged Lifeseeker",
+    "flavor": "Swearing by your existence, you smite your enemy, dazing him and rallying an ally's spirit.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature within your melee reach.</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage and the target is dazed until the end of your next turn. You also grant yourself or an ally within 10 squares of you that you can see a number of temporary hit points equal to 5 + the higher of your Wisdom modifier or Charisma modifer.</p>",
+    "target": "One creature within your melee reach.",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage and the target is dazed until the end of your next turn. You also grant yourself or an ally within 10 squares of you that you can see a number of temporary hit points equal to 5 + the higher of your Wisdom modifier or Charisma modifer."
+  },
+  "Empathic Resonance": {
+    "id": "'3155",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Empathic Resonance",
+    "type": "Lifeseeker",
+    "sourceRef": "Dragon Magazine 364",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEmpathic Resonance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3155\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Warforged Lifeseeker Utility 12</span>Empathic Resonance</h1><p class=\\\"flavor\\\"><i>When you successfully withstand an attack's lasting effects, your allies find it easy to follow your example.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you gain a +2 bonus to saving throws. Whenever you succeed on a saving throw, one ally of your choice within 10 squares of you can make a saving throw against an effect of his or her choice immediately (as long as a save can end the effect). This effect persists until the end of the encounter or for 5 minutes.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/364\\\" target=\\\"_new\\\">Dragon Magazine 364</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Warforged Lifeseeker",
+    "flavor": "When you successfully withstand an attack's lasting effects, your allies find it easy to follow your example.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you gain a +2 bonus to saving throws. Whenever you succeed on a saving throw, one ally of your choice within 10 squares of you can make a saving throw against an effect of his or her choice immediately (as long as a save can end the effect). This effect persists until the end of the encounter or for 5 minutes.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you gain a +2 bonus to saving throws. Whenever you succeed on a saving throw, one ally of your choice within 10 squares of you can make a saving throw against an effect of his or her choice immediately (as long as a save can end the effect). This effect persists until the end of the encounter or for 5 minutes.</p>",
+    "effect": "Until the end of the encounter, you gain a +2 bonus to saving throws. Whenever you succeed on a saving throw, one ally of your choice within 10 squares of you can make a saving throw against an effect of his or her choice immediately (as long as a save can end the effect). This effect persists until the end of the encounter or for 5 minutes."
+  },
+  "Unleashed Vigor": {
+    "id": "'3156",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Unleashed Vigor",
+    "type": "Lifeseeker",
+    "sourceRef": "Dragon Magazine 364",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnleashed Vigor\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3156\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Warforged Lifeseeker Attack 20</span>Unleashed Vigor</h1><p class=\\\"flavor\\\"><i>You sunder the ties of your for's life force, invigorating you and your allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: one creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage and ongoing 10 damage (save ends). After effect: Ongoing 5 damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage and ongoing 5 damage (save ends).</p><p class=\\\"flavor\\\"><b>Effect</b>: Each time your target takes ongoing damage from this power, you or one ally of your choice within 5 squares of the target regains 5 hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/364\\\" target=\\\"_new\\\">Dragon Magazine 364</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Warforged Lifeseeker",
+    "flavor": "You sunder the ties of your for's life force, invigorating you and your allies.",
+    "keywords": [
+      "Healing, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: one creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage and ongoing 10 damage (save ends). After effect: Ongoing 5 damage (save ends).</p><p class=\"powerstat\">Miss: Half damage and ongoing 5 damage (save ends).</p><p class=\"flavor\">Effect: Each time your target takes ongoing damage from this power, you or one ally of your choice within 5 squares of the target regains 5 hit points.</p>",
+    "target": "one creature",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage and ongoing 10 damage (save ends). After effect: Ongoing 5 damage (save ends).",
+    "onMiss": "Half damage and ongoing 5 damage (save ends).",
+    "effect": "Each time your target takes ongoing damage from this power, you or one ally of your choice within 5 squares of the target regains 5 hit points."
+  }
+}

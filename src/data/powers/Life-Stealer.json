@@ -1,0 +1,61 @@
+{
+  "Soul Scorch": {
+    "id": "'1697",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Soul Scorch",
+    "type": "",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoul Scorch\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1697\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Life-Stealer Attack 11</span>Soul Scorch</h1><p class=\\\"flavor\\\"><i>As black fire immolates your adversary, you release one of your life sparks. Your foe cries out in pain as he feels the life ebb from his body.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Implement</b>, <b>Necrotic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Constitution modifier fire and necrotic damage. If the target creature has the same origin as a life spark you possess, you can expend a single life spark matching that origin to deal an extra 10 damage to the target.</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 142, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Life-Stealer",
+    "flavor": "As black fire immolates your adversary, you release one of your life sparks. Your foe cries out in pain as he feels the life ebb from his body.",
+    "keywords": [
+      "Arcane, Fire, Implement, Necrotic"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Constitution vs. Will</p><p class=\"flavor\">Hit: 3d8 + Constitution modifier fire and necrotic damage. If the target creature has the same origin as a life spark you possess, you can expend a single life spark matching that origin to deal an extra 10 damage to the target.</p>",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "3d8 + Constitution modifier fire and necrotic damage. If the target creature has the same origin as a life spark you possess, you can expend a single life spark matching that origin to deal an extra 10 damage to the target."
+  },
+  "Life Spark Summons": {
+    "id": "'1698",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Life Spark Summons",
+    "type": "",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLife Spark Summons\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1698\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Life-Stealer Utility 12</span>Life Spark Summons</h1><p class=\\\"flavor\\\"><i>You expend one of your life sparks to fashion an effigy of the creature whose spark you’ve just released.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: Expend a life spark you possess. Place the creature from which you received that life spark back in the encounter within the power’s range. It has 10 hit points and acts on your next turn with a full set of actions as an independent creature that you control. The creature can do nothing except make basic attacks and move. It drops to 0 hit points again, dies, and fades away at the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 142, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Life-Stealer",
+    "flavor": "You expend one of your life sparks to fashion an effigy of the creature whose spark you’ve just released.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Ranged 10</p><p class=\"flavor\">Effect: Expend a life spark you possess. Place the creature from which you received that life spark back in the encounter within the power’s range. It has 10 hit points and acts on your next turn with a full set of actions as an independent creature that you control. The creature can do nothing except make basic attacks and move. It drops to 0 hit points again, dies, and fades away at the end of your next turn.</p>",
+    "effect": "Expend a life spark you possess. Place the creature from which you received that life spark back in the encounter within the power’s range. It has 10 hit points and acts on your next turn with a full set of actions as an independent creature that you control. The creature can do nothing except make basic attacks and move. It drops to 0 hit points again, dies, and fades away at the end of your next turn."
+  },
+  "Soultheft": {
+    "id": "'1699",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Soultheft",
+    "type": "",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoultheft\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1699\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Life-Stealer Attack 20</span>Soultheft</h1><p class=\\\"flavor\\\"><i>You engulf your enemies in crackling purple energy. As they crumple, blazing motes of soul-light rise up from their bodies and fly into your grasp.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Necrotic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Targets</b>: One, two, or three creatures</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Fortitude, one attack per target</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + Constitution modifier necrotic damage, and you gain a life spark from any target that drops to 0 hit points or fewer as a result of this attack, even if the target isn’t cursed by you.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and no life spark.</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 142, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Life-Stealer",
+    "flavor": "You engulf your enemies in crackling purple energy. As they crumple, blazing motes of soul-light rise up from their bodies and fly into your grasp.",
+    "keywords": [
+      "Arcane, Implement, Necrotic"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Targets: One, two, or three creatures</p><p class=\"powerstat\">Attack: Constitution vs. Fortitude, one attack per target</p><p class=\"flavor\">Hit: 4d8 + Constitution modifier necrotic damage, and you gain a life spark from any target that drops to 0 hit points or fewer as a result of this attack, even if the target isn’t cursed by you.</p><p class=\"powerstat\">Miss: Half damage, and no life spark.</p>",
+    "targets": "One, two, or three creatures",
+    "attack": "Constitution vs. Fortitude, one attack per target",
+    "onHit": "4d8 + Constitution modifier necrotic damage, and you gain a life spark from any target that drops to 0 hit points or fewer as a result of this attack, even if the target isn’t cursed by you.",
+    "onMiss": "Half damage, and no life spark."
+  }
+}

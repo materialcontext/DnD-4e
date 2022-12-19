@@ -1,0 +1,61 @@
+{
+  "Quick Admixture": {
+    "id": "'7550",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Quick Admixture",
+    "type": "Savant",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nQuick Admixture\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7550\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Alchemist Savant Attack 11</span>Quick Admixture</h1><p class=\\\"flavor\\\"><i>In the blink of an eye, you use a prepared alchemical item.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You use an alchemical item without spending its required action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Alchemist Savant",
+    "flavor": "In the blink of an eye, you use a prepared alchemical item.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You use an alchemical item without spending its required action.</p>",
+    "effect": "You use an alchemical item without spending its required action."
+  },
+  "Secret Recipe": {
+    "id": "'7551",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Secret Recipe",
+    "type": "Savant",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSecret Recipe\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7551\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Alchemist Savant Utility 12</span>Secret Recipe</h1><p class=\\\"flavor\\\"><i>Using the remnants of an alchemical compound, you create a short-lived duplicate of one of your concoctions.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You use an alchemical item of your level or lower</p><p class=\\\"flavor\\\"><b>Effect</b>: You create a duplicate of the triggering alchemical item. The duplicate lasts until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Alchemist Savant",
+    "flavor": "Using the remnants of an alchemical compound, you create a short-lived duplicate of one of your concoctions.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You use an alchemical item of your level or lower</p><p class=\"flavor\">Effect: You create a duplicate of the triggering alchemical item. The duplicate lasts until the end of the encounter.</p>",
+    "trigger": "You use an alchemical item of your level or lower",
+    "effect": "You create a duplicate of the triggering alchemical item. The duplicate lasts until the end of the encounter."
+  },
+  "Spell Magnet": {
+    "id": "'7552",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Spell Magnet",
+    "type": "Savant",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpell Magnet\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7552\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Alchemist Savant Attack 20</span>Spell Magnet</h1><p class=\\\"flavor\\\"><i>A lodestone painted with sigils leaps from your outstretched hand, drawing arcane currents into a maelstrom.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Conjuration</b>, <b>Implement</b>, <b>Lightning</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You throw a stone into an unoccupied square within range. The stone creates a spell magnet, a runecovered pillar 2 squares high that occupies the square. Any enemy within 3 squares of the spell magnet takes a -2 penalty to all defenses against your arcane attacks and a -2 penalty to saving throws against ongoing damage. The spell magnet lasts until the end of the encounter or until you dismiss it as a free action. In addition, you can make the following attack with the spell magnet once per round.</p><br/><h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Alchemist Savant Attack 20</span>Spell Magnet Attack</h1><p class=\\\"flavor\\\"><i>A lodestone painted with sigils leaps from your outstretched hand, drawing arcane currents into a maelstrom.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Conjuration</b>, <b>Lightning</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: The Spell Magnet power must be active to use this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: The target takes ongoing 10 lightning damage (save ends). The spell magnet pulls the target 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Alchemist Savant",
+    "flavor": "A lodestone painted with sigils leaps from your outstretched hand, drawing arcane currents into a maelstrom.",
+    "keywords": [
+      "Arcane, Conjuration, Implement, Lightning"
+    ],
+    "range": "Ranged 10</p><p class=\"flavor\">Effect: You throw a stone into an unoccupied square within range. The stone creates a spell magnet, a runecovered pillar 2 squares high that occupies the square. Any enemy within 3 squares of the spell magnet takes a -2 penalty to all defenses against your arcane attacks and a -2 penalty to saving throws against ongoing damage. The spell magnet lasts until the end of the encounter or until you dismiss it as a free action. In addition, you can make the following attack with the spell magnet once per round.</p>",
+    "effect": "You throw a stone into an unoccupied square within range. The stone creates a spell magnet, a runecovered pillar 2 squares high that occupies the square. Any enemy within 3 squares of the spell magnet takes a -2 penalty to all defenses against your arcane attacks and a -2 penalty to saving throws against ongoing damage. The spell magnet lasts until the end of the encounter or until you dismiss it as a free action. In addition, you can make the following attack with the spell magnet once per round.",
+    "requirement": "The Spell Magnet power must be active to use this power.",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "The target takes ongoing 10 lightning damage (save ends). The spell magnet pulls the target 5 squares."
+  }
+}

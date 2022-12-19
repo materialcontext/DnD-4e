@@ -1,0 +1,64 @@
+{
+  "Protecting Smite": {
+    "id": "'8111",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Protecting Smite",
+    "type": "Shield",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nProtecting Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8111\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Faithful Shield Attack 11</span>Protecting Smite</h1><p class=\\\"flavor\\\"><i>A decisive strike against your enemy gives your allies a chance to see to their own defense.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Charisma modifier damage, and each ally within 5 squares of you gains a +2 power bonus to all defenses until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 98.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Faithful Shield",
+    "flavor": "A decisive strike against your enemy gives your allies a chance to see to their own defense.",
+    "keywords": [
+      "Divine, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 2[W] + Charisma modifier damage, and each ally within 5 squares of you gains a +2 power bonus to all defenses until the start of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. AC",
+    "onHit": "2[W] + Charisma modifier damage, and each ally within 5 squares of you gains a +2 power bonus to all defenses until the start of your next turn."
+  },
+  "Rampart of Strength": {
+    "id": "'8112",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Rampart of Strength",
+    "type": "Shield",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRampart of Strength\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8112\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Faithful Shield Attack 20</span>Rampart of Strength</h1><p class=\\\"flavor\\\"><i>You raise your shield, and from it bursts scintillating astral radiance that drives back your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be using a shield.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Charisma modifier radiant damage, and you push the target 3 squares.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and you push the target 1 square.</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, at the start of each of your turns, if you have not moved since the start of your last turn, you can use a free action to grant yourself and each ally adjacent to you a +4 power bonus to all defenses until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 98.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Faithful Shield",
+    "flavor": "You raise your shield, and from it bursts scintillating astral radiance that drives back your foes.",
+    "keywords": [
+      "Divine, Implement, Radiant"
+    ],
+    "range": "Close burst 5</p><p class=\"flavor\">Requirement: You must be using a shield.</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 3d8 + Charisma modifier radiant damage, and you push the target 3 squares.</p><p class=\"powerstat\">Miss: Half damage, and you push the target 1 square.</p><p class=\"flavor\">Effect: Until the end of the encounter, at the start of each of your turns, if you have not moved since the start of your last turn, you can use a free action to grant yourself and each ally adjacent to you a +4 power bonus to all defenses until the start of your next turn.</p>",
+    "requirement": "You must be using a shield.",
+    "target": "Each enemy in the burst",
+    "attack": "Charisma vs. Fortitude",
+    "onHit": "3d8 + Charisma modifier radiant damage, and you push the target 3 squares.",
+    "onMiss": "Half damage, and you push the target 1 square.",
+    "effect": "Until the end of the encounter, at the start of each of your turns, if you have not moved since the start of your last turn, you can use a free action to grant yourself and each ally adjacent to you a +4 power bonus to all defenses until the start of your next turn."
+  },
+  "Constant Shield": {
+    "id": "'8150",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Constant Shield",
+    "type": "Shield",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nConstant Shield\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8150\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Faithful Shield Utility 12</span>Constant Shield</h1><p class=\\\"flavor\\\"><i>You channel divine might through your shield to defend yourself and your charges.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be using a shield.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the stance ends, you and any allies adjacent to you gain a +2 power bonus to AC and Reflex. In addition, when you or any ally adjacent to you is pulled, pushed, or slid, you can reduce the forced movement by 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 98.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Faithful Shield",
+    "flavor": "You channel divine might through your shield to defend yourself and your charges.",
+    "keywords": [
+      "Divine, Stance"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must be using a shield.</p><p class=\"powerstat\">Effect: Until the stance ends, you and any allies adjacent to you gain a +2 power bonus to AC and Reflex. In addition, when you or any ally adjacent to you is pulled, pushed, or slid, you can reduce the forced movement by 1 square.</p>",
+    "requirement": "You must be using a shield.",
+    "effect": "Until the stance ends, you and any allies adjacent to you gain a +2 power bonus to AC and Reflex. In addition, when you or any ally adjacent to you is pulled, pushed, or slid, you can reduce the forced movement by 1 square."
+  }
+}

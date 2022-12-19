@@ -1,0 +1,64 @@
+{
+  "Retributive Strike": {
+    "id": "'11828",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Retributive Strike",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRetributive Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11828\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Keeper of the Past Attack 11</span>Retributive Strike</h1><p class=\\\"flavor\\\"><i>Your patron ancestor fills you with righteous anger at an opponent who has harmed you or an ally.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within your reach hits you or an ally adjacent to you</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma modifier, Strength modifier, or Wisdom modifier vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Charisma modifier, Strength modifier, or Wisdom modifier damage, and you and your allies gain a power bonus to melee damage rolls against the target equal to your Intelligence modifier until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Keeper of the Past",
+    "flavor": "Your patron ancestor fills you with righteous anger at an opponent who has harmed you or an ally.",
+    "keywords": [
+      "Primal, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: An enemy within your reach hits you or an ally adjacent to you</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Charisma modifier, Strength modifier, or Wisdom modifier vs. Will</p><p class=\"flavor\">Hit: 1[W] + Charisma modifier, Strength modifier, or Wisdom modifier damage, and you and your allies gain a power bonus to melee damage rolls against the target equal to your Intelligence modifier until the end of your next turn.</p>",
+    "trigger": "An enemy within your reach hits you or an ally adjacent to you",
+    "target": "The triggering enemy",
+    "attack": "Charisma modifier, Strength modifier, or Wisdom modifier vs. Will",
+    "onHit": "1[W] + Charisma modifier, Strength modifier, or Wisdom modifier damage, and you and your allies gain a power bonus to melee damage rolls against the target equal to your Intelligence modifier until the end of your next turn."
+  },
+  "Storm of the Ancestors": {
+    "id": "'11829",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Storm of the Ancestors",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStorm of the Ancestors\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11829\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Keeper of the Past Attack 20</span>Storm of the Ancestors</h1><p class=\\\"flavor\\\"><i>A swirling storm of ancestral spirits buffets your enemies and shields you and your companions from their view.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma, Strength, or Wisdom + 9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + Charisma modifier, Strength modifier, or Wisdom modifier psychic damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain concealment until the end of your next turn, and until the end of your next turn your allies have concealment while adjacent to you.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The effect persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Keeper of the Past",
+    "flavor": "A swirling storm of ancestral spirits buffets your enemies and shields you and your companions from their view.",
+    "keywords": [
+      "Primal, Psychic"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Charisma, Strength, or Wisdom + 9 vs. Will</p><p class=\"flavor\">Hit: 4d8 + Charisma modifier, Strength modifier, or Wisdom modifier psychic damage.</p><p class=\"powerstat\">Effect: You gain concealment until the end of your next turn, and until the end of your next turn your allies have concealment while adjacent to you.</p><p class=\"flavor\">Sustain Minor: The effect persists.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Charisma, Strength, or Wisdom + 9 vs. Will",
+    "onHit": "4d8 + Charisma modifier, Strength modifier, or Wisdom modifier psychic damage.",
+    "effect": "You gain concealment until the end of your next turn, and until the end of your next turn your allies have concealment while adjacent to you.",
+    "sustainMinor": "The effect persists."
+  },
+  "Ancestral Avatar": {
+    "id": "'11830",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Ancestral Avatar",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAncestral Avatar\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11830\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Keeper of the Past Utility 12</span>Ancestral Avatar</h1><p class=\\\"flavor\\\"><i>You call upon one of a cabal of patron spirits for advice.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose an ancestral spirit to channel and gain the bonuses associated with that ancestral spirit until the end of your next turn.<br/>Sword Patron: You gain a +2 power bonus to attack rolls with melee and close weapon attacks.<br/>Archer Patron: You gain a +2 power bonus to attack rolls with ranged attacks, and your ranged attacks ignore the -2 penalty to attack rolls from cover.<br/>Steed Patron: You gain a +4 power bonus to speed, and any ally that starts its turn within 3 squares of you gains a +4 power bonus to speed until the end of his or her turn.<br/>Arcane Patron: You gain a +2 power bonus to attack rolls with close and area implement attacks.<br/>Wise Patron: You gain a +3 power bonus to skill checks.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Keeper of the Past",
+    "flavor": "You call upon one of a cabal of patron spirits for advice.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Choose an ancestral spirit to channel and gain the bonuses associated with that ancestral spirit until the end of your next turn.",
+    "effect": "Choose an ancestral spirit to channel and gain the bonuses associated with that ancestral spirit until the end of your next turn.<br/>Sword Patron: You gain a +2 power bonus to attack rolls with melee and close weapon attacks.<br/>Archer Patron: You gain a +2 power bonus to attack rolls with ranged attacks, and your ranged attacks ignore the -2 penalty to attack rolls from cover.<br/>Steed Patron: You gain a +4 power bonus to speed, and any ally that starts its turn within 3 squares of you gains a +4 power bonus to speed until the end of his or her turn.<br/>Arcane Patron: You gain a +2 power bonus to attack rolls with close and area implement attacks.<br/>Wise Patron: You gain a +3 power bonus to skill checks.",
+    "sustainMinor": "The effect persists."
+  }
+}

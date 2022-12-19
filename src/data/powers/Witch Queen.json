@@ -1,0 +1,22 @@
+{
+  "True Prophecy": {
+    "id": "'15880",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "26",
+    "name": "True Prophecy",
+    "type": "Queen",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTrue Prophecy\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15880\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Witch Queen Utility 26</span>True Prophecy</h1><p class=\\\"flavor\\\"><i>Your divination gives you a clear image of an event soon to transpire, allowing you to prepare.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must not be in a combat encounter.</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: During the target’s next encounter before his or her next extended rest, the target gains the following benefit: a +2 power bonus to initiative, skill checks, and all defenses until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Witch Queen",
+    "flavor": "Your divination gives you a clear image of an event soon to transpire, allowing you to prepare.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Ranged 5</p><p class=\"flavor\">Requirement: You must not be in a combat encounter.</p><p class=\"powerstat\">Target: You or one ally</p><p class=\"flavor\">Effect: During the target’s next encounter before his or her next extended rest, the target gains the following benefit: a +2 power bonus to initiative, skill checks, and all defenses until the end of the encounter.</p>",
+    "requirement": "You must not be in a combat encounter.",
+    "target": "You or one ally",
+    "effect": "During the target’s next encounter before his or her next extended rest, the target gains the following benefit: a +2 power bonus to initiative, skill checks, and all defenses until the end of the encounter."
+  }
+}

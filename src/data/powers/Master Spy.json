@@ -1,0 +1,64 @@
+{
+  "Lingering Revelation": {
+    "id": "'2506",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Lingering Revelation",
+    "type": "Spy",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLingering Revelation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2506\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Spy Attack 11</span>Lingering Revelation</h1><p class=\\\"flavor\\\"><i>Your surprising attack slashes open your foe, causing the enemy to leave a trail you easily follow.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage, and the target cannot turn invisible or make Stealth checks until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain a +5 bonus to Insight checks and Perception checks opposed by the target until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 95.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Spy",
+    "flavor": "Your surprising attack slashes open your foe, causing the enemy to leave a trail you easily follow.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee or Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. Will</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage, and the target cannot turn invisible or make Stealth checks until the end of your next turn.</p><p class=\"powerstat\">Effect: You gain a +5 bonus to Insight checks and Perception checks opposed by the target until the end of the encounter.</p>",
+    "requirement": "You must be wielding a crossbow, a light blade, or a sling.",
+    "target": "One creature",
+    "attack": "Dexterity vs. Will",
+    "onHit": "3[W] + Dexterity modifier damage, and the target cannot turn invisible or make Stealth checks until the end of your next turn.",
+    "effect": "You gain a +5 bonus to Insight checks and Perception checks opposed by the target until the end of the encounter."
+  },
+  "Spymaster's Edge": {
+    "id": "'2507",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Spymaster's Edge",
+    "type": "Spy",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpymaster's Edge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2507\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Spy Attack 20</span>Spymaster's Edge</h1><p class=\\\"flavor\\\"><i>You slip your weapon past your enemy’s defenses, using your knowledge of its tactics to stay one step ahead.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An adjacent creature misses you with a melee attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: The attacking creature.</p><p class=\\\"powerstat\\\"><b>Attack</b>: The attacker repeats the attack that missed you against its own defenses with a +4 power bonus.</p><p class=\\\"flavor\\\"><b>Hit</b>: All damage and effects of the original attack, plus you can apply your Sneak Attack extra damage. If the original attack was made with a weapon, you now have the weapon or, if you cannot hold it, it falls to the ground in your square or in an adjacent square of your choice.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 95.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Spy",
+    "flavor": "You slip your weapon past your enemy’s defenses, using your knowledge of its tactics to stay one step ahead.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Trigger: An adjacent creature misses you with a melee attack.</p><p class=\"powerstat\">Target: The attacking creature.</p><p class=\"powerstat\">Attack: The attacker repeats the attack that missed you against its own defenses with a +4 power bonus.</p><p class=\"flavor\">Hit: All damage and effects of the original attack, plus you can apply your Sneak Attack extra damage. If the original attack was made with a weapon, you now have the weapon or, if you cannot hold it, it falls to the ground in your square or in an adjacent square of your choice.</p>",
+    "trigger": "An adjacent creature misses you with a melee attack.",
+    "target": "The attacking creature.",
+    "attack": "The attacker repeats the attack that missed you against its own defenses with a +4 power bonus.",
+    "onHit": "All damage and effects of the original attack, plus you can apply your Sneak Attack extra damage. If the original attack was made with a weapon, you now have the weapon or, if you cannot hold it, it falls to the ground in your square or in an adjacent square of your choice."
+  },
+  "Quick Change": {
+    "id": "'4732",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Quick Change",
+    "type": "Spy",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nQuick Change\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4732\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Spy Utility 12</span>Quick Change</h1><p class=\\\"flavor\\\"><i>Your cunning actions plant a seed of doubt. Are you friend or foe?</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: Make a Bluff check opposed by the target’s Insight check. If you succeed, the target considers you an ally for the purpose of auras, opportunity attacks, and powers until the end of your next turn or until you attack the target or its allies.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 95.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Spy",
+    "flavor": "Your cunning actions plant a seed of doubt. Are you friend or foe?",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: Make a Bluff check opposed by the target’s Insight check. If you succeed, the target considers you an ally for the purpose of auras, opportunity attacks, and powers until the end of your next turn or until you attack the target or its allies.</p>",
+    "target": "One creature",
+    "effect": "Make a Bluff check opposed by the target’s Insight check. If you succeed, the target considers you an ally for the purpose of auras, opportunity attacks, and powers until the end of your next turn or until you attack the target or its allies."
+  }
+}

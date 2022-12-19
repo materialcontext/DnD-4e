@@ -1,0 +1,64 @@
+{
+  "Spiral Gust": {
+    "id": "'9721",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Spiral Gust",
+    "type": "Wind",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpiral Gust\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9721\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Spiral Wind's Ally Attack 11</span>Spiral Gust</h1><p class=\\\"flavor\\\"><i>Your wind blasts in crisscrossing funnels, whipping into your enemies and granting your allies renewed breath.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Wisdom modifier damage, and an ally adjacent to the target regains hit points equal to your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Spiral Wind's Ally",
+    "flavor": "Your wind blasts in crisscrossing funnels, whipping into your enemies and granting your allies renewed breath.",
+    "keywords": [
+      "Healing, Implement, Primal"
+    ],
+    "range": "Close blast 3</p><p class=\"powerstat\">Target: Each enemy in the blast</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 2d6 + Wisdom modifier damage, and an ally adjacent to the target regains hit points equal to your Wisdom modifier.</p>",
+    "target": "Each enemy in the blast",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "2d6 + Wisdom modifier damage, and an ally adjacent to the target regains hit points equal to your Wisdom modifier."
+  },
+  "Three Shifting Winds": {
+    "id": "'9722",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Three Shifting Winds",
+    "type": "Wind",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nThree Shifting Winds\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9722\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Spiral Wind's Ally Attack 20</span>Three Shifting Winds</h1><p class=\\\"flavor\\\"><i>The Spiral Wind calls on its cold or thunderous cousins to help you or takes its spiral path one twist further and explodes into radiance.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Implement</b>, <b>Primal</b>, <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"flavor\\\"><b>Special</b>: Choose cold, radiant, or thunder whenever you use this power. Your choice determines both the power’s damage type and an effect.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d10 + Wisdom modifier damage of the type you chose.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect (Cold)</b>: Each target is slowed (save ends).</p><p class=\\\"powerstat\\\"><b>Effect (Radiant)</b>: Each ally in the blast regains hit points equal to your Wisdom modifier + one-half your level.</p><p class=\\\"flavor\\\"><b>Effect (Thunder)</b>: One target of your choice is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Spiral Wind's Ally",
+    "flavor": "The Spiral Wind calls on its cold or thunderous cousins to help you or takes its spiral path one twist further and explodes into radiance.",
+    "keywords": [
+      "Healing, Implement, Primal, Varies"
+    ],
+    "range": "Close blast 5</p><p class=\"flavor\">Special: Choose cold, radiant, or thunder whenever you use this power. Your choice determines both the power’s damage type and an effect.</p><p class=\"powerstat\">Target: Each enemy in the blast</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 4d10 + Wisdom modifier damage of the type you chose.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect (Cold): Each target is slowed (save ends).</p><p class=\"powerstat\">Effect (Radiant): Each ally in the blast regains hit points equal to your Wisdom modifier + one-half your level.</p><p class=\"flavor\">Effect (Thunder): One target of your choice is dazed until the end of your next turn.</p>",
+    "special": "Choose cold, radiant, or thunder whenever you use this power. Your choice determines both the power’s damage type and an effect.",
+    "target": "Each enemy in the blast",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "4d10 + Wisdom modifier damage of the type you chose.",
+    "onMiss": "Half damage."
+  },
+  "Releasing Breath": {
+    "id": "'9723",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Releasing Breath",
+    "type": "Wind",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReleasing Breath\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9723\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Spiral Wind's Ally Utility 12</span>Releasing Breath</h1><p class=\\\"flavor\\\"><i>As your friend catches his or her breath, wind gusts past, making you and your allies harder to see.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally within 10 squares of you uses his or her second wind</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target and each ally within 5 squares of him or her gain concealment until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Spiral Wind's Ally",
+    "flavor": "As your friend catches his or her breath, wind gusts past, making you and your allies harder to see.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: An ally within 10 squares of you uses his or her second wind</p><p class=\"powerstat\">Target: The triggering ally</p><p class=\"flavor\">Effect: The target and each ally within 5 squares of him or her gain concealment until the end of your next turn.</p>",
+    "trigger": "An ally within 10 squares of you uses his or her second wind",
+    "target": "The triggering ally",
+    "effect": "The target and each ally within 5 squares of him or her gain concealment until the end of your next turn."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Anyspell": {
+    "id": "'5020",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Anyspell",
+    "type": "of",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAnyspell\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5020\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Student of the Seven Attack 11</span>Anyspell</h1><p class=\\\"flavor\\\"><i>Drawing on the raw arcane power around you, you shape your spell to the form and purpose you need. As a side effect, you grant momentary protection or a surge of aggressive inspiration to a nearby ally.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude, Reflex, or Will (choose one)</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Charisma modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, one ally in the burst gains a +2 power bonus to all defenses or a +1 power bonus to attack rolls.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Student of the Seven",
+    "flavor": "Drawing on the raw arcane power around you, you shape your spell to the form and purpose you need. As a side effect, you grant momentary protection or a surge of aggressive inspiration to a nearby ally.",
+    "keywords": [
+      "Arcane, Implement"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: One creature in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Fortitude, Reflex, or Will (choose one)</p><p class=\"flavor\">Hit: 3d8 + Charisma modifier damage.</p><p class=\"powerstat\">Effect: Until the end of your next turn, one ally in the burst gains a +2 power bonus to all defenses or a +1 power bonus to attack rolls.</p>",
+    "target": "One creature in the burst",
+    "attack": "Charisma vs. Fortitude, Reflex, or Will (choose one)",
+    "onHit": "3d8 + Charisma modifier damage.",
+    "effect": "Until the end of your next turn, one ally in the burst gains a +2 power bonus to all defenses or a +1 power bonus to attack rolls."
+  },
+  "Versatile Glamor": {
+    "id": "'5021",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Versatile Glamor",
+    "type": "of",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVersatile Glamor\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5021\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Student of the Seven Utility 12</span>Versatile Glamor</h1><p class=\\\"flavor\\\"><i>You have the perfect spell for any situation.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains one of the following benefits until the end of the encounter:<br/>• +2 power bonus to speed<br/>• +2 power bonus to attack rolls and damage rolls with opportunity attacks<br/>• +4 bonus, instead of +2, to attack rolls with combat advantage<br/>• Concealment<br/>• Resist 10 to a damage type of your choice</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Student of the Seven",
+    "flavor": "You have the perfect spell for any situation.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: You or one ally</p><p class=\"flavor\">Effect: The target gains one of the following benefits until the end of the encounter:",
+    "target": "You or one ally",
+    "effect": "The target gains one of the following benefits until the end of the encounter:<br/>• +2 power bonus to speed<br/>• +2 power bonus to attack rolls and damage rolls with opportunity attacks<br/>• +4 bonus, instead of +2, to attack rolls with combat advantage<br/>• Concealment<br/>• Resist 10 to a damage type of your choice"
+  },
+  "Voice of the Seven": {
+    "id": "'5022",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Voice of the Seven",
+    "type": "of",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVoice of the Seven\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5022\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Student of the Seven Attack 20</span>Voice of the Seven</h1><p class=\\\"flavor\\\"><i>You speak one word with seven supernatural voices, and your target is driven back and rooted to the ground.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude, Reflex, or Will (choose one)</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Charisma modifier damage. Either the target is dazed (save ends), or you push the target 3 squares and it is immobilized (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is either dazed or immobilized until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Student of the Seven",
+    "flavor": "You speak one word with seven supernatural voices, and your target is driven back and rooted to the ground.",
+    "keywords": [
+      "Arcane, Implement"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Fortitude, Reflex, or Will (choose one)</p><p class=\"flavor\">Hit: 3d10 + Charisma modifier damage. Either the target is dazed (save ends), or you push the target 3 squares and it is immobilized (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is either dazed or immobilized until the end of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. Fortitude, Reflex, or Will (choose one)",
+    "onHit": "3d10 + Charisma modifier damage. Either the target is dazed (save ends), or you push the target 3 squares and it is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is either dazed or immobilized until the end of your next turn."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "Rebuke Soul": {
+    "id": "'5662",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Rebuke Soul",
+    "type": "Guide",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRebuke Soul\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5662\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Soul Guide Feature </span>Rebuke Soul</h1><p class=\\\"flavor\\\"><i>You shock your enemies to the very foundation of their being.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Channel Divinity</b>: You can use only one channel divinity power per encounter</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature that has the shadow origin or the undead keyword in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is immobilized until the end of your next turn. If the target has both the shadow origin and the undead keyword, it also takes 2d8 + Charisma modifier radiant damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 147.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Soul Guide",
+    "flavor": "You shock your enemies to the very foundation of their being.",
+    "keywords": [
+      "Divine, Implement, Radiant"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Channel Divinity: You can use only one channel divinity power per encounter</p><p class=\"powerstat\">Target: Each creature that has the shadow origin or the undead keyword in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Will</p><p class=\"flavor\">Hit: The target is immobilized until the end of your next turn. If the target has both the shadow origin and the undead keyword, it also takes 2d8 + Charisma modifier radiant damage.</p>",
+    "channelDivinity": "You can use only one channel divinity power per encounter",
+    "target": "Each creature that has the shadow origin or the undead keyword in the burst",
+    "attack": "Wisdom vs. Will",
+    "onHit": "The target is immobilized until the end of your next turn. If the target has both the shadow origin and the undead keyword, it also takes 2d8 + Charisma modifier radiant damage."
+  },
+  "Soul's Enthrallment": {
+    "id": "'5664",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Soul's Enthrallment",
+    "type": "Guide",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoul's Enthrallment\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5664\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Soul Guide Attack 11</span>Soul's Enthrallment</h1><p class=\\\"flavor\\\"><i>Your holy symbol erupts with divine power, tugging on the souls of all who behold its splendor.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Wisdom modifier radiant damage, and you pull the target a number of squares equal to your Charisma modifier. If the target has the shadow origin or the undead keyword, it is also dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 147.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Soul Guide",
+    "flavor": "Your holy symbol erupts with divine power, tugging on the souls of all who behold its splendor.",
+    "keywords": [
+      "Divine, Implement, Radiant"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. Will</p><p class=\"flavor\">Hit: 2d8 + Wisdom modifier radiant damage, and you pull the target a number of squares equal to your Charisma modifier. If the target has the shadow origin or the undead keyword, it is also dazed until the end of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Wisdom vs. Will",
+    "onHit": "2d8 + Wisdom modifier radiant damage, and you pull the target a number of squares equal to your Charisma modifier. If the target has the shadow origin or the undead keyword, it is also dazed until the end of your next turn."
+  },
+  "Shadowbane Circle": {
+    "id": "'5665",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Shadowbane Circle",
+    "type": "Guide",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadowbane Circle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5665\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Soul Guide Utility 12</span>Shadowbane Circle</h1><p class=\\\"flavor\\\"><i>You draw upon divine energy to summon a nimbus of holy light that is anathema to your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of bright light that lasts until the end of your next turn. Creatures that have the shadow origin or the undead keyword treat the zone as difficult terrain. While within the zone, those creatures gain vulnerable 10 radiant or increase their vulnerability to radiant damage by 10.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 147.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Soul Guide",
+    "flavor": "You draw upon divine energy to summon a nimbus of holy light that is anathema to your enemies.",
+    "keywords": [
+      "Divine, Radiant, Zone"
+    ],
+    "range": "Area burst 2 within 10 squares</p><p class=\"flavor\">Effect: The burst creates a zone of bright light that lasts until the end of your next turn. Creatures that have the shadow origin or the undead keyword treat the zone as difficult terrain. While within the zone, those creatures gain vulnerable 10 radiant or increase their vulnerability to radiant damage by 10.</p><p class=\"powerstat\">Sustain Minor: The zone persists.</p>",
+    "effect": "The burst creates a zone of bright light that lasts until the end of your next turn. Creatures that have the shadow origin or the undead keyword treat the zone as difficult terrain. While within the zone, those creatures gain vulnerable 10 radiant or increase their vulnerability to radiant damage by 10.",
+    "sustainMinor": "The zone persists."
+  },
+  "Soul Brand": {
+    "id": "'5666",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Soul Brand",
+    "type": "Guide",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoul Brand\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5666\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Soul Guide Attack 20</span>Soul Brand</h1><p class=\\\"flavor\\\"><i>A blazing glyph appears on your enemy’s brow, emitting a holy glow that burns its corrupted soul.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Wisdom modifier + Charisma modifier radiant damage. The target takes ongoing 10 radiant damage and sheds bright light on 20 squares in all directions (save ends both). Until the target saves, any enemy takes a -2 penalty to attack rolls while adjacent to the target.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, ongoing 5 radiant damage (save ends), and no other effects.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 147.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Soul Guide",
+    "flavor": "A blazing glyph appears on your enemy’s brow, emitting a holy glow that burns its corrupted soul.",
+    "keywords": [
+      "Divine, Implement, Radiant"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 3d8 + Wisdom modifier + Charisma modifier radiant damage. The target takes ongoing 10 radiant damage and sheds bright light on 20 squares in all directions (save ends both). Until the target saves, any enemy takes a -2 penalty to attack rolls while adjacent to the target.</p><p class=\"powerstat\">Miss: Half damage, ongoing 5 radiant damage (save ends), and no other effects.</p>",
+    "target": "One creature",
+    "attack": "Wisdom vs. Fortitude",
+    "onHit": "3d8 + Wisdom modifier + Charisma modifier radiant damage. The target takes ongoing 10 radiant damage and sheds bright light on 20 squares in all directions (save ends both). Until the target saves, any enemy takes a -2 penalty to attack rolls while adjacent to the target.",
+    "onMiss": "Half damage, ongoing 5 radiant damage (save ends), and no other effects."
+  }
+}

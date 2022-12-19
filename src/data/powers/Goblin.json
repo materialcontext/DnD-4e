@@ -1,0 +1,134 @@
+{
+  "Goblin Tactics": {
+    "id": "'1489",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "At-Will",
+    "level": "0",
+    "name": "Goblin Tactics",
+    "type": "Racial",
+    "sourceRef": "Monster Manual, Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGoblin Tactics\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1489\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Goblin Racial Utility </span>Goblin Tactics</h1><p class=\\\"flavor\\\"><i>You avoid your enemy’s blow and cleverly dodge away.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy misses you with a melee attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 1 square.</p><br/>Update (4/17/2012)<br/>Updated in Into the Unknown.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217207200\\\" target=\\\"_new\\\">Monster Manual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 34.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "You avoid your enemy’s blow and cleverly dodge away.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy misses you with a melee attack.</p><p class=\"flavor\">Effect: You shift 1 square.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy misses you with a melee attack.</p><p class=\"flavor\">Effect: You shift 1 square.</p>",
+    "trigger": "An enemy misses you with a melee attack.",
+    "effect": "You shift 1 square."
+  },
+  "Fast Filch": {
+    "id": "'16458",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "At-Will",
+    "level": "2",
+    "name": "Fast Filch",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFast Filch\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16458\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Goblin Racial Utility 2</span>Fast Filch</h1><p class=\\\"flavor\\\"><i>In the blink of an eye, your tiny fingers relieve someone of a few prized possessions.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One adjacent creature granting combat advantage to you</p><p class=\\\"flavor\\\"><b>Effect</b>: You make a Thievery check against the target to pick its pocket or perform sleight of hand.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "In the blink of an eye, your tiny fingers relieve someone of a few prized possessions.",
+    "keywords": [
+      "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One adjacent creature granting combat advantage to you</p><p class=\"flavor\">Effect: You make a Thievery check against the target to pick its pocket or perform sleight of hand.</p>"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One adjacent creature granting combat advantage to you</p><p class=\"flavor\">Effect: You make a Thievery check against the target to pick its pocket or perform sleight of hand.</p>",
+    "target": "One adjacent creature granting combat advantage to you",
+    "effect": "You make a Thievery check against the target to pick its pocket or perform sleight of hand."
+  },
+  "Leg Up": {
+    "id": "'16459",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Leg Up",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLeg Up\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16459\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Goblin Racial Utility 2</span>Leg Up</h1><p class=\\\"flavor\\\"><i>By bouncing off or scrabbling up the body of a nearby creature, you fling yourself through the air.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be adjacent to a creature.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You jump up to your speed horizontally or up to 10 feet vertically.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "By bouncing off or scrabbling up the body of a nearby creature, you fling yourself through the air.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Requirement: You must be adjacent to a creature.</p><p class=\"powerstat\">Effect: You jump up to your speed horizontally or up to 10 feet vertically.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must be adjacent to a creature.</p><p class=\"powerstat\">Effect: You jump up to your speed horizontally or up to 10 feet vertically.</p>",
+    "requirement": "You must be adjacent to a creature.",
+    "effect": "You jump up to your speed horizontally or up to 10 feet vertically."
+  },
+  "Little Green Lie": {
+    "id": "'16460",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Little Green Lie",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLittle Green Lie\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16460\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Goblin Racial Utility 2</span>Little Green Lie</h1><p class=\\\"flavor\\\"><i>At the last moment, you realize the best course of action here is to lie.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You fail a Bluff, Diplomacy, or Intimidate check.</p><p class=\\\"flavor\\\"><b>Effect</b>: You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "At the last moment, you realize the best course of action here is to lie.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You fail a Bluff, Diplomacy, or Intimidate check.</p><p class=\"flavor\">Effect: You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You fail a Bluff, Diplomacy, or Intimidate check.</p><p class=\"flavor\">Effect: You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead.</p>",
+    "trigger": "You fail a Bluff, Diplomacy, or Intimidate check.",
+    "effect": "You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead."
+  },
+  "Living Shield": {
+    "id": "'16461",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Living Shield",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLiving Shield\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16461\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Goblin Racial Utility 6</span>Living Shield</h1><p class=\\\"flavor\\\"><i>You dive behind a companion to avoid an attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you with a melee or ranged attack while you are adjacent to your ally.</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 1 square, and the attack hits the ally instead of you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "You dive behind a companion to avoid an attack.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy hits you with a melee or ranged attack while you are adjacent to your ally.</p><p class=\"flavor\">Effect: You shift 1 square, and the attack hits the ally instead of you.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy hits you with a melee or ranged attack while you are adjacent to your ally.</p><p class=\"flavor\">Effect: You shift 1 square, and the attack hits the ally instead of you.</p>",
+    "trigger": "An enemy hits you with a melee or ranged attack while you are adjacent to your ally.",
+    "effect": "You shift 1 square, and the attack hits the ally instead of you."
+  },
+  "Unwitting Guardian": {
+    "id": "'16462",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Unwitting Guardian",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnwitting Guardian\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16462\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Goblin Racial Utility 6</span>Unwitting Guardian</h1><p class=\\\"flavor\\\"><i>You duck under the bulk of one of the big folk, and it keeps you from being seen by the others while you make mischief.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One adjacent Medium or larger enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "You duck under the bulk of one of the big folk, and it keeps you from being seen by the others while you make mischief.",
+    "keywords": [
+      "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One adjacent Medium or larger enemy</p><p class=\"flavor\">Effect: You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack.</p>"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One adjacent Medium or larger enemy</p><p class=\"flavor\">Effect: You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack.</p>",
+    "target": "One adjacent Medium or larger enemy",
+    "effect": "You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack."
+  },
+  "Down and Through": {
+    "id": "'16463",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Down and Through",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDown and Through\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16463\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Goblin Racial Utility 10</span>Down and Through</h1><p class=\\\"flavor\\\"><i>All of a sudden, you’re beneath your clumsy foe and then out the other side.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Goblin",
+    "flavor": "All of a sudden, you’re beneath your clumsy foe and then out the other side.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift.</p>",
+    "effect": "Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift."
+  }
+}

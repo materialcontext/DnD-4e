@@ -1,0 +1,63 @@
+{
+  "Obsidian Javelin": {
+    "id": "'12335",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Obsidian Javelin",
+    "type": "Legate",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nObsidian Javelin\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12335\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Praetor Legate Attack 11</span>Obsidian Javelin</h1><p class=\\\"flavor\\\"><i>You create a black, ghostly javelin of magical force. Its concussion drives your foe back and makes it a tempting target for your ally.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Force</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + ability modifier force damage, and you push the target 3 squares.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The next ally who hits and damages the target before the end of your next turn gains resist 10 to all damage until the end of that ally’s next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 65.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Praetor Legate",
+    "flavor": "You create a black, ghostly javelin of magical force. Its concussion drives your foe back and makes it a tempting target for your ally.",
+    "keywords": [
+      "Arcane, Force, Implement"
+    ],
+    "range": "Melee or Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. Reflex</p><p class=\"flavor\">Hit: 3d8 + ability modifier force damage, and you push the target 3 squares.</p><p class=\"powerstat\">Effect: The next ally who hits and damages the target before the end of your next turn gains resist 10 to all damage until the end of that ally’s next turn.</p>",
+    "target": "One creature",
+    "attack": "Primary ability vs. Reflex",
+    "onHit": "3d8 + ability modifier force damage, and you push the target 3 squares.",
+    "effect": "The next ally who hits and damages the target before the end of your next turn gains resist 10 to all damage until the end of that ally’s next turn."
+  },
+  "Dictator's Judgment": {
+    "id": "'12336",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Dictator's Judgment",
+    "type": "Legate",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDictator's Judgment\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12336\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Praetor Legate Attack 20</span>Dictator's Judgment</h1><p class=\\\"flavor\\\"><i>You channel the power of Dictator Andropinis to pronounce a dire judgment on your foe. Your spell roots the target to the spot and crushes its will to resist you, and you offer a bounty of vitality on the head of the damned.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + ability modifier psychic damage, and the target is immobilized (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is slowed until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: The next ally who hits and damages the target before the end of the encounter regains hit points as though he or she had spent three healing surges.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 65.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Praetor Legate",
+    "flavor": "You channel the power of Dictator Andropinis to pronounce a dire judgment on your foe. Your spell roots the target to the spot and crushes its will to resist you, and you offer a bounty of vitality on the head of the damned.",
+    "keywords": [
+      "Arcane, Healing, Implement, Psychic"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Target: One creature in the burst</p><p class=\"powerstat\">Attack: Primary ability vs. Will</p><p class=\"flavor\">Hit: 4d8 + ability modifier psychic damage, and the target is immobilized (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is slowed until the end of your next turn.</p><p class=\"flavor\">Effect: The next ally who hits and damages the target before the end of the encounter regains hit points as though he or she had spent three healing surges.</p>",
+    "target": "One creature in the burst",
+    "attack": "Primary ability vs. Will",
+    "onHit": "4d8 + ability modifier psychic damage, and the target is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is slowed until the end of your next turn.",
+    "effect": "The next ally who hits and damages the target before the end of the encounter regains hit points as though he or she had spent three healing surges."
+  },
+  "Dustwalk": {
+    "id": "'12337",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Dustwalk",
+    "type": "Legate",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDustwalk\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12337\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Praetor Legate Utility 12</span>Dustwalk</h1><p class=\\\"flavor\\\"><i>You stride through the air in a whirling cloud of dust.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you can fly (hover) at your speed. You have an altitude limit of 1 square. You have concealment while flying or hovering.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 65.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Praetor Legate",
+    "flavor": "You stride through the air in a whirling cloud of dust.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you can fly (hover) at your speed. You have an altitude limit of 1 square. You have concealment while flying or hovering.</p>",
+    "effect": "Until the end of your next turn, you can fly (hover) at your speed. You have an altitude limit of 1 square. You have concealment while flying or hovering."
+  }
+}

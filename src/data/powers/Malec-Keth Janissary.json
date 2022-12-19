@@ -1,0 +1,65 @@
+{
+  "Loyal Unto Death": {
+    "id": "'5653",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Loyal Unto Death",
+    "type": "",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLoyal Unto Death\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5653\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Malec-Keth Janissary Attack 11</span>Loyal Unto Death</h1><p class=\\\"flavor\\\"><i>In a flash of light, you and a nearby ally vanish, reappearing only after you have switched positions.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: Before the attack, you and an ally within 10 squares of you swap places, teleporting into each other’s space. Each enemy adjacent to you grants combat advantage to you, and each enemy adjacent to the ally grants combat advantage to him or her until the end of your next turn.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One enemy</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 3[W] + Intelligence modifier damage.</p><br/>Revision (1/29/2010)<br/>In the Attack and Hit lines, replace “Strength” with “Intelligence.” The power should be attacking with Intelligence, since that is a swordmage’s primary ability score.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 144.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Malec-Keth Janissary",
+    "flavor": "In a flash of light, you and a nearby ally vanish, reappearing only after you have switched positions.",
+    "keywords": [
+      "Arcane, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: Before the attack, you and an ally within 10 squares of you swap places, teleporting into each other’s space. Each enemy adjacent to you grants combat advantage to you, and each enemy adjacent to the ally grants combat advantage to him or her until the end of your next turn.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Target: One enemy</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Intelligence vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 3[W] + Intelligence modifier damage.</p>",
+    "target": "One creature",
+    "effect": "Before the attack, you and an ally within 10 squares of you swap places, teleporting into each other’s space. Each enemy adjacent to you grants combat advantage to you, and each enemy adjacent to the ally grants combat advantage to him or her until the end of your next turn.",
+    "secondaryTarget": "One enemy",
+    "attack": "Intelligence vs. AC",
+    "onHit": "3[W] + Intelligence modifier damage."
+  },
+  "Ever-Present Escort": {
+    "id": "'5654",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Ever-Present Escort",
+    "type": "",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEver-Present Escort\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5654\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Malec-Keth Janissary Utility 12</span>Ever-Present Escort</h1><p class=\\\"flavor\\\"><i>You extend the invisible field of protection granted by your swordmage warding to a nearby ally.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally within 5 squares of you is hit by an attack that targets AC</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport to a square adjacent to the target. The target gains a +4 power bonus to AC until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 144.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Malec-Keth Janissary",
+    "flavor": "You extend the invisible field of protection granted by your swordmage warding to a nearby ally.",
+    "keywords": [
+      "Arcane, Teleportation"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Trigger: An ally within 5 squares of you is hit by an attack that targets AC</p><p class=\"powerstat\">Target: The triggering ally in the burst</p><p class=\"flavor\">Effect: You teleport to a square adjacent to the target. The target gains a +4 power bonus to AC until the end of your next turn.</p>",
+    "trigger": "An ally within 5 squares of you is hit by an attack that targets AC",
+    "target": "The triggering ally in the burst",
+    "effect": "You teleport to a square adjacent to the target. The target gains a +4 power bonus to AC until the end of your next turn."
+  },
+  "Elemental Scourge": {
+    "id": "'5655",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Elemental Scourge",
+    "type": "",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Scourge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5655\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Malec-Keth Janissary Attack 20</span>Elemental Scourge</h1><p class=\\\"flavor\\\"><i>You draw forth a burst of energy from the Elemental Chaos, scouring your enemies while allowing your allies to retreat to safety.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Cold</b>, <b>Fire</b>, <b>Implement</b>, <b>Lightning</b>, <b>Teleportation</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + Constitution modifier cold, fire, lightning, and thunder damage. The attack ignores any resistance to these damage types.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Each ally in the burst can teleport 3 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 144.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Malec-Keth Janissary",
+    "flavor": "You draw forth a burst of energy from the Elemental Chaos, scouring your enemies while allowing your allies to retreat to safety.",
+    "keywords": [
+      "Arcane, Cold, Fire, Implement, Lightning, Teleportation, Thunder"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Intelligence vs. Reflex</p><p class=\"flavor\">Hit: 4d8 + Constitution modifier cold, fire, lightning, and thunder damage. The attack ignores any resistance to these damage types.</p><p class=\"powerstat\">Effect: Each ally in the burst can teleport 3 squares.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "4d8 + Constitution modifier cold, fire, lightning, and thunder damage. The attack ignores any resistance to these damage types.",
+    "effect": "Each ally in the burst can teleport 3 squares."
+  }
+}

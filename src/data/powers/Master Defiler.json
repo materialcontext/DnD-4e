@@ -1,0 +1,57 @@
+{
+  "Defiling Alacrity": {
+    "id": "'12332",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Defiling Alacrity",
+    "type": "Defiler",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDefiling Alacrity\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12332\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Defiler Attack 11</span>Defiling Alacrity</h1><p class=\\\"flavor\\\"><i>Your mastery of defiling with simple spells allows you to cast them with alarming quickness.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Necrotic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can use one of your at-will arcane attack powers as a free action. If the attack hits, the power deals 1d10 extra necrotic damage to one target hit by the attack. In addition, the next time you use an arcane attack power before the end of your next turn, you roll two dice for one attack roll and use either result.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Defiler",
+    "flavor": "Your mastery of defiling with simple spells allows you to cast them with alarming quickness.",
+    "keywords": [
+      "Arcane, Necrotic"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You can use one of your at-will arcane attack powers as a free action. If the attack hits, the power deals 1d10 extra necrotic damage to one target hit by the attack. In addition, the next time you use an arcane attack power before the end of your next turn, you roll two dice for one attack roll and use either result.</p>",
+    "effect": "You can use one of your at-will arcane attack powers as a free action. If the attack hits, the power deals 1d10 extra necrotic damage to one target hit by the attack. In addition, the next time you use an arcane attack power before the end of your next turn, you roll two dice for one attack roll and use either result."
+  },
+  "Enemies to Ashes": {
+    "id": "'12333",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Enemies to Ashes",
+    "type": "Defiler",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEnemies to Ashes\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12333\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Defiler Attack 20</span>Enemies to Ashes</h1><p class=\\\"flavor\\\"><i>Like defilers of legend, you steal life force from your enemies, wracking them with pain and turning their bodies into lifeless ash in the process.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Necrotic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can use one of your at-will arcane attack powers as a free action. If the attack hits, one creature hit by the attack also takes ongoing 20 necrotic damage (save ends). Until the ongoing damage ends, the creature hit is considered to be your ally for the purpose of taking damage from arcane defiling. If the attack misses, this power is not expended.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Defiler",
+    "flavor": "Like defilers of legend, you steal life force from your enemies, wracking them with pain and turning their bodies into lifeless ash in the process.",
+    "keywords": [
+      "Arcane, Necrotic"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You can use one of your at-will arcane attack powers as a free action. If the attack hits, one creature hit by the attack also takes ongoing 20 necrotic damage (save ends). Until the ongoing damage ends, the creature hit is considered to be your ally for the purpose of taking damage from arcane defiling. If the attack misses, this power is not expended.</p>",
+    "effect": "You can use one of your at-will arcane attack powers as a free action. If the attack hits, one creature hit by the attack also takes ongoing 20 necrotic damage (save ends). Until the ongoing damage ends, the creature hit is considered to be your ally for the purpose of taking damage from arcane defiling. If the attack misses, this power is not expended."
+  },
+  "Defiling Recovery": {
+    "id": "'12334",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Defiling Recovery",
+    "type": "Defiler",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDefiling Recovery\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12334\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Defiler Utility 12</span>Defiling Recovery</h1><p class=\\\"flavor\\\"><i>You quickly defile your surroundings to conserve the energy of a failed spell.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You miss every target with an arcane encounter attack spell.</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering power is not expended.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Defiler",
+    "flavor": "You quickly defile your surroundings to conserve the energy of a failed spell.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You miss every target with an arcane encounter attack spell.</p><p class=\"flavor\">Effect: The triggering power is not expended.</p>",
+    "trigger": "You miss every target with an arcane encounter attack spell.",
+    "effect": "The triggering power is not expended."
+  }
+}

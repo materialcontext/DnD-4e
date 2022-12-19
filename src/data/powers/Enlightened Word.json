@@ -1,0 +1,67 @@
+{
+  "Celestial Lightning": {
+    "id": "'15997",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Celestial Lightning",
+    "type": "Word",
+    "sourceRef": "Dragon Magazine 404",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCelestial Lightning\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15997\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Enlightened Word Attack 11</span>Celestial Lightning</h1><p class=\\\"flavor\\\"><i>You call upon the red lightning that carved the will of the Celestial Heaven upon the cliffs of Tanghai to punish those who threaten your comrade.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Lightning</b>, <b>Radiant</b>, <b>Runic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 centered on an ally within 5 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier lightning and radiant damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, the attacks of the ally on whom the burst was centered deal lightning and radiant damage, in addition to their normal types.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Rune of Destruction</b>: Until the end of your next turn, the ally also gains a power bonus to damage rolls equal to your Strength modifier.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Rune of Protection</b>: Until the end of your next turn, the ally also gains a power bonus to his or her healing surge value equal to your Strength modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/404\\\" target=\\\"_new\\\">Dragon Magazine 404</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Enlightened Word",
+    "flavor": "You call upon the red lightning that carved the will of the Celestial Heaven upon the cliffs of Tanghai to punish those who threaten your comrade.",
+    "keywords": [
+      "Divine, Lightning, Radiant, Runic, Weapon"
+    ],
+    "range": "Area burst 2 centered on an ally within 5 squares</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength vs. Fortitude</p><p class=\"flavor\">Hit: 2[W] + Strength modifier lightning and radiant damage.</p><p class=\"powerstat\">Effect: Until the end of your next turn, the attacks of the ally on whom the burst was centered deal lightning and radiant damage, in addition to their normal types.</p><p class=\"flavor\">&nbsp;&nbsp;Rune of Destruction: Until the end of your next turn, the ally also gains a power bonus to damage rolls equal to your Strength modifier.</p><p class=\"powerstat\">&nbsp;&nbsp;Rune of Protection: Until the end of your next turn, the ally also gains a power bonus to his or her healing surge value equal to your Strength modifier.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Strength vs. Fortitude",
+    "onHit": "2[W] + Strength modifier lightning and radiant damage.",
+    "effect": "Until the end of your next turn, the attacks of the ally on whom the burst was centered deal lightning and radiant damage, in addition to their normal types.",
+    "runeOfDestruction": "Until the end of your next turn, the ally also gains a power bonus to damage rolls equal to your Strength modifier.",
+    "runeOfProtection": "Until the end of your next turn, the ally also gains a power bonus to his or her healing surge value equal to your Strength modifier."
+  },
+  "Words of Celestial Heaven": {
+    "id": "'15998",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Words of Celestial Heaven",
+    "type": "Word",
+    "sourceRef": "Dragon Magazine 404",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWords of Celestial Heaven\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15998\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Enlightened Word Attack 20</span>Words of Celestial Heaven</h1><p class=\\\"flavor\\\"><i>Your attack leaves your foe transfixed, as its life flashes before its eyes. When your enemy shakes off this effect, it tries to repent by turning on its former ally.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Lightning</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier lightning and radiant damage, and the target is stunned (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Aftereffect</b>: The target makes a basic attack as a free action against one of its allies.</p><p class=\\\"flavor\\\"><b>Miss</b>: Half damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of the encounter, your runepriest at-will attacks deal 5 extra lightning and radiant damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/404\\\" target=\\\"_new\\\">Dragon Magazine 404</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Enlightened Word",
+    "flavor": "Your attack leaves your foe transfixed, as its life flashes before its eyes. When your enemy shakes off this effect, it tries to repent by turning on its former ally.",
+    "keywords": [
+      "Divine, Lightning, Radiant, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier lightning and radiant damage, and the target is stunned (save ends).</p><p class=\"powerstat\">&nbsp;&nbsp;Aftereffect: The target makes a basic attack as a free action against one of its allies.</p><p class=\"flavor\">Miss: Half damage.</p><p class=\"powerstat\">Effect: Until the end of the encounter, your runepriest at-will attacks deal 5 extra lightning and radiant damage.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "3[W] + Strength modifier lightning and radiant damage, and the target is stunned (save ends).",
+    "aftereffect": "The target makes a basic attack as a free action against one of its allies.",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of the encounter, your runepriest at-will attacks deal 5 extra lightning and radiant damage."
+  },
+  "Touch of Hope": {
+    "id": "'15999",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Touch of Hope",
+    "type": "Word",
+    "sourceRef": "Dragon Magazine 404",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTouch of Hope\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15999\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Enlightened Word Utility 12</span>Touch of Hope</h1><p class=\\\"flavor\\\"><i>With a quick gesture, you trace the sign for “hope,” removing all afflictions from your ally.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target makes a saving throw against each effect on him or her that a save can end. The target also regains hit points equal to his or her healing surge value and can stand up as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/404\\\" target=\\\"_new\\\">Dragon Magazine 404</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Enlightened Word",
+    "flavor": "With a quick gesture, you trace the sign for “hope,” removing all afflictions from your ally.",
+    "keywords": [
+      "Divine, Healing"
+    ],
+    "range": "Melee touch</p><p class=\"powerstat\">Target: You or one ally</p><p class=\"flavor\">Effect: The target makes a saving throw against each effect on him or her that a save can end. The target also regains hit points equal to his or her healing surge value and can stand up as a free action.</p>",
+    "target": "You or one ally",
+    "effect": "The target makes a saving throw against each effect on him or her that a save can end. The target also regains hit points equal to his or her healing surge value and can stand up as a free action."
+  }
+}

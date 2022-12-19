@@ -1,0 +1,116 @@
+{
+  "Rousing Battle Cry": {
+    "id": "'16634",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Rousing Battle Cry",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRousing Battle Cry\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16634\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Hobgoblin Racial Utility 2</span>Rousing Battle Cry</h1><p class=\\\"flavor\\\"><i>You loose a stirring shout that rouses injured allies to fight once more.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains 5 temporary hit points. If the target is asleep, it wakens. If the target is prone, it can stand up as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/419\\\" target=\\\"_new\\\">Dragon Magazine 419</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hobgoblin",
+    "flavor": "You loose a stirring shout that rouses injured allies to fight once more.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 3</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: The target gains 5 temporary hit points. If the target is asleep, it wakens. If the target is prone, it can stand up as a free action.</p>"
+    ],
+    "range": "Close burst 3</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: The target gains 5 temporary hit points. If the target is asleep, it wakens. If the target is prone, it can stand up as a free action.</p>",
+    "target": "Each ally in the burst",
+    "effect": "The target gains 5 temporary hit points. If the target is asleep, it wakens. If the target is prone, it can stand up as a free action."
+  },
+  "Hold Formation": {
+    "id": "'16635",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Hold Formation",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHold Formation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16635\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hobgoblin Racial Utility 6</span>Hold Formation</h1><p class=\\\"flavor\\\"><i>When a foe tries to move you from your position, you brace yourself to keep the battle line intact.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy’s attack pushes, pulls, or slides you.</p><p class=\\\"flavor\\\"><b>Effect</b>: The forced movement does not affect you, and you gain combat advantage against the triggering enemy until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/419\\\" target=\\\"_new\\\">Dragon Magazine 419</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hobgoblin",
+    "flavor": "When a foe tries to move you from your position, you brace yourself to keep the battle line intact.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy’s attack pushes, pulls, or slides you.</p><p class=\"flavor\">Effect: The forced movement does not affect you, and you gain combat advantage against the triggering enemy until the end of your next turn.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy’s attack pushes, pulls, or slides you.</p><p class=\"flavor\">Effect: The forced movement does not affect you, and you gain combat advantage against the triggering enemy until the end of your next turn.</p>",
+    "trigger": "An enemy’s attack pushes, pulls, or slides you.",
+    "effect": "The forced movement does not affect you, and you gain combat advantage against the triggering enemy until the end of your next turn."
+  },
+  "Plug the Gap": {
+    "id": "'16636",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Plug the Gap",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPlug the Gap\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16636\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hobgoblin Racial Utility 10</span>Plug the Gap</h1><p class=\\\"flavor\\\"><i>When a foe tries to escape, you move to intercept it or block its path.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within 3 squares of you moves without shifting.</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift up to 3 squares to a square adjacent to the triggering enemy. You then mark that enemy until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/419\\\" target=\\\"_new\\\">Dragon Magazine 419</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hobgoblin",
+    "flavor": "When a foe tries to escape, you move to intercept it or block its path.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy within 3 squares of you moves without shifting.</p><p class=\"flavor\">Effect: You shift up to 3 squares to a square adjacent to the triggering enemy. You then mark that enemy until the end of your next turn.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy within 3 squares of you moves without shifting.</p><p class=\"flavor\">Effect: You shift up to 3 squares to a square adjacent to the triggering enemy. You then mark that enemy until the end of your next turn.</p>",
+    "trigger": "An enemy within 3 squares of you moves without shifting.",
+    "effect": "You shift up to 3 squares to a square adjacent to the triggering enemy. You then mark that enemy until the end of your next turn."
+  },
+  "Superior Discipline": {
+    "id": "'16637",
+    "action": "No Action",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Superior Discipline",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSuperior Discipline\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16637\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Hobgoblin Racial Utility 16</span>Superior Discipline</h1><p class=\\\"flavor\\\"><i>Calling upon your extensive experience in battle, you improve your ability to fight on through hardship.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You use hobgoblin discipline.</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain the use of hobgoblin discipline.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/419\\\" target=\\\"_new\\\">Dragon Magazine 419</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hobgoblin",
+    "flavor": "Calling upon your extensive experience in battle, you improve your ability to fight on through hardship.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You use hobgoblin discipline.</p><p class=\"flavor\">Effect: You regain the use of hobgoblin discipline.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You use hobgoblin discipline.</p><p class=\"flavor\">Effect: You regain the use of hobgoblin discipline.</p>",
+    "trigger": "You use hobgoblin discipline.",
+    "effect": "You regain the use of hobgoblin discipline."
+  },
+  "Tactical Deployment": {
+    "id": "'16638",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Tactical Deployment",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTactical Deployment\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16638\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hobgoblin Racial Utility 22</span>Tactical Deployment</h1><p class=\\\"flavor\\\"><i>You shout orders and gesture to your allies, sparking them to move to a more advantageous position.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can shift up to half its speed.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/419\\\" target=\\\"_new\\\">Dragon Magazine 419</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hobgoblin",
+    "flavor": "You shout orders and gesture to your allies, sparking them to move to a more advantageous position.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: The target can shift up to half its speed.</p>"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: The target can shift up to half its speed.</p>",
+    "target": "Each ally in the burst",
+    "effect": "The target can shift up to half its speed."
+  },
+  "Hobgoblin Discipline": {
+    "id": "'2478",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Hobgoblin Discipline",
+    "type": "Racial",
+    "sourceRef": "Monster Manual, Dragon Magazine 419",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHobgoblin Discipline\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2478\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hobgoblin Racial Utility </span>Hobgoblin Discipline</h1><p class=\\\"flavor\\\"><i>You steel yourself against a harmful effect, and that malady disappears.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You start your turn subjected to an effect that a save can end.</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering effect ends.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217207200\\\" target=\\\"_new\\\">Monster Manual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/419\\\" target=\\\"_new\\\">Dragon Magazine 419</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Hobgoblin",
+    "flavor": "You steel yourself against a harmful effect, and that malady disappears.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You start your turn subjected to an effect that a save can end.</p><p class=\"flavor\">Effect: The triggering effect ends.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You start your turn subjected to an effect that a save can end.</p><p class=\"flavor\">Effect: The triggering effect ends.</p>",
+    "trigger": "You start your turn subjected to an effect that a save can end.",
+    "effect": "The triggering effect ends."
+  }
+}

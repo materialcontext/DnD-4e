@@ -1,0 +1,63 @@
+{
+  "Spirit Tide": {
+    "id": "'5429",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Spirit Tide",
+    "type": "Tempest",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpirit Tide\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5429\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Spirit Tempest Attack 11</span>Spirit Tide</h1><p class=\\\"flavor\\\"><i>Your spirit companion lashes out at an enemy, sending a swirling storm of spirits to batter other nearby foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b>, <b>Spirit</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> spirit 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Wisdom modifier damage, and each enemy within 5 squares of the target takes 1d10 damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 135.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Spirit Tempest",
+    "flavor": "Your spirit companion lashes out at an enemy, sending a swirling storm of spirits to batter other nearby foes.",
+    "keywords": [
+      "Implement, Primal, Spirit"
+    ],
+    "range": "Melee spirit 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. Will</p><p class=\"flavor\">Hit: 2d10 + Wisdom modifier damage, and each enemy within 5 squares of the target takes 1d10 damage.</p>",
+    "target": "One creature",
+    "attack": "Wisdom vs. Will",
+    "onHit": "2d10 + Wisdom modifier damage, and each enemy within 5 squares of the target takes 1d10 damage."
+  },
+  "Spirit Flow": {
+    "id": "'5430",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Spirit Flow",
+    "type": "Tempest",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpirit Flow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5430\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Spirit Tempest Utility 12</span>Spirit Flow</h1><p class=\\\"flavor\\\"><i>Spirits swirl around your ally and your spirit companion as the two disappear, and then each reappears where the other just stood.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 20</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport the target and your spirit companion, swapping their positions.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 135.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Spirit Tempest",
+    "flavor": "Spirits swirl around your ally and your spirit companion as the two disappear, and then each reappears where the other just stood.",
+    "keywords": [
+      "Primal, Teleportation"
+    ],
+    "range": "Close burst 20</p><p class=\"powerstat\">Target: One ally in the burst</p><p class=\"flavor\">Effect: You teleport the target and your spirit companion, swapping their positions.</p>",
+    "target": "One ally in the burst",
+    "effect": "You teleport the target and your spirit companion, swapping their positions."
+  },
+  "Spirit Storm": {
+    "id": "'5431",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Spirit Storm",
+    "type": "Tempest",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpirit Storm\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5431\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Spirit Tempest Attack 20</span>Spirit Storm</h1><p class=\\\"flavor\\\"><i>A wind howls around your enemy as dozens of minor storm spirits appear and attack it. Your allies can trade positions inside the storm with a thought.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b>, <b>Teleportation</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + Wisdom modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of storm spirits that lasts until the end of the encounter. While within the zone, any ally gains a +1 bonus to attack rolls and damage rolls against the target. In addition, any ally within the zone can teleport as a move action, swapping positions with another ally within the zone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 135.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Spirit Tempest",
+    "flavor": "A wind howls around your enemy as dozens of minor storm spirits appear and attack it. Your allies can trade positions inside the storm with a thought.",
+    "keywords": [
+      "Implement, Primal, Teleportation, Zone"
+    ],
+    "range": "Area burst 2 within 10 squares</p><p class=\"powerstat\">Target: One creature in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Will</p><p class=\"flavor\">Hit: 4d8 + Wisdom modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The burst creates a zone of storm spirits that lasts until the end of the encounter. While within the zone, any ally gains a +1 bonus to attack rolls and damage rolls against the target. In addition, any ally within the zone can teleport as a move action, swapping positions with another ally within the zone.</p>",
+    "target": "One creature in the burst",
+    "attack": "Wisdom vs. Will",
+    "onHit": "4d8 + Wisdom modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "The burst creates a zone of storm spirits that lasts until the end of the encounter. While within the zone, any ally gains a +1 bonus to attack rolls and damage rolls against the target. In addition, any ally within the zone can teleport as a move action, swapping positions with another ally within the zone."
+  }
+}

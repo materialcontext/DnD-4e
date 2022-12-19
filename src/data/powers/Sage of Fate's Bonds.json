@@ -1,0 +1,64 @@
+{
+  "Foe Binder": {
+    "id": "'5783",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Foe Binder",
+    "type": "of",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFoe Binder\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5783\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sage of Fate's Bonds Attack 11</span>Foe Binder</h1><p class=\\\"flavor\\\"><i>You slash at two nearby foes, and your attacks bind them to you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: Two creatures</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Intelligence modifier damage, and the target is marked by your aegis of ensnarement. Marking the target does not remove the mark on another target already affected by your aegis of ensnarement.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sage of Fate's Bonds",
+    "flavor": "You slash at two nearby foes, and your attacks bind them to you.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: Two creatures</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 2[W] + Intelligence modifier damage, and the target is marked by your aegis of ensnarement. Marking the target does not remove the mark on another target already affected by your aegis of ensnarement.</p>",
+    "target": "Two creatures",
+    "attack": "Intelligence vs. AC",
+    "onHit": "2[W] + Intelligence modifier damage, and the target is marked by your aegis of ensnarement. Marking the target does not remove the mark on another target already affected by your aegis of ensnarement."
+  },
+  "Protective Bond": {
+    "id": "'5784",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Protective Bond",
+    "type": "of",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nProtective Bond\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5784\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sage of Fate's Bonds Utility 12</span>Protective Bond</h1><p class=\\\"flavor\\\"><i>You raise a magical ward over one of your allies, allowing you to summon that individual to your side and offer protection.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, whenever the target is hit by an attack, as an immediate interrupt you can teleport the target 5 squares to a space that must be adjacent to you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sage of Fate's Bonds",
+    "flavor": "You raise a magical ward over one of your allies, allowing you to summon that individual to your side and offer protection.",
+    "keywords": [
+      "Arcane, Teleportation"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Target: One ally in the burst</p><p class=\"flavor\">Effect: Until the end of the encounter, whenever the target is hit by an attack, as an immediate interrupt you can teleport the target 5 squares to a space that must be adjacent to you.</p>",
+    "target": "One ally in the burst",
+    "effect": "Until the end of the encounter, whenever the target is hit by an attack, as an immediate interrupt you can teleport the target 5 squares to a space that must be adjacent to you."
+  },
+  "Deadly Ensnarement": {
+    "id": "'5785",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Deadly Ensnarement",
+    "type": "of",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeadly Ensnarement\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5785\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sage of Fate's Bonds Attack 20</span>Deadly Ensnarement</h1><p class=\\\"flavor\\\"><i>An enemy might have thought to ignore you, but when you show up behind it and unleash a deadly attack, you teach it otherwise.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy marked by you and within 10 squares of you hits or misses an ally</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport the target to a space that must be adjacent to you. The target grants combat advantage to you until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Intelligence modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sage of Fate's Bonds",
+    "flavor": "An enemy might have thought to ignore you, but when you show up behind it and unleash a deadly attack, you teach it otherwise.",
+    "keywords": [
+      "Arcane, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: An enemy marked by you and within 10 squares of you hits or misses an ally</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"flavor\">Effect: You teleport the target to a space that must be adjacent to you. The target grants combat advantage to you until the end of your next turn.</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 5[W] + Intelligence modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "trigger": "An enemy marked by you and within 10 squares of you hits or misses an ally",
+    "target": "The triggering enemy",
+    "effect": "You teleport the target to a space that must be adjacent to you. The target grants combat advantage to you until the end of your next turn.",
+    "attack": "Intelligence vs. AC",
+    "onHit": "5[W] + Intelligence modifier damage.",
+    "onMiss": "Half damage."
+  }
+}

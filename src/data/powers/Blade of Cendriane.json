@@ -1,0 +1,71 @@
+{
+  "Forcing the Portal": {
+    "id": "'5601",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Forcing the Portal",
+    "type": "of",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForcing the Portal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5601\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Blade of Cendriane Attack 11</span>Forcing the Portal</h1><p class=\\\"flavor\\\"><i>You strike two nearby foes, teleporting them apart to create an opening.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and you teleport the target 2 squares. Make a secondary attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Strength vs. AC</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Hit</b>: 1[W] + Strength modifier, and you teleport the target 2 squares. The target must be teleported to a space within 3 squares of the primary target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 140.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blade of Cendriane",
+    "flavor": "You strike two nearby foes, teleporting them apart to create an opening.",
+    "keywords": [
+      "Martial, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and you teleport the target 2 squares. Make a secondary attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Target: One creature other than the primary target</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Attack: Strength vs. AC</p><p class=\"powerstat\">&nbsp;&nbsp;Hit: 1[W] + Strength modifier, and you teleport the target 2 squares. The target must be teleported to a space within 3 squares of the primary target.</p>",
+    "primaryTarget": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage, and you teleport the target 2 squares. Make a secondary attack.",
+    "secondaryTarget": "One creature other than the primary target",
+    "secondaryAttack": "Strength vs. AC",
+    "secondaryOnHit": "1[W] + Strength modifier, and you teleport the target 2 squares. The target must be teleported to a space within 3 squares of the primary target."
+  },
+  "Ethereal Hunter": {
+    "id": "'5602",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Ethereal Hunter",
+    "type": "of",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEthereal Hunter\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5602\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Blade of Cendriane Utility 12</span>Ethereal Hunter</h1><p class=\\\"flavor\\\"><i>Stepping though thin air, you blink back into existence next to your enemies, making them your prey.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport 5 squares. You must teleport to a square adjacent to at least one enemy. Each enemy adjacent to you grants combat advantage to you and is designated as your quarry until the end of your next turn. The enemies don’t count against your normal limit of one quarry at a time, although you can still deal Hunter’s Quarry damage only once per round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 140.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blade of Cendriane",
+    "flavor": "Stepping though thin air, you blink back into existence next to your enemies, making them your prey.",
+    "keywords": [
+      "Martial, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You teleport 5 squares. You must teleport to a square adjacent to at least one enemy. Each enemy adjacent to you grants combat advantage to you and is designated as your quarry until the end of your next turn. The enemies don’t count against your normal limit of one quarry at a time, although you can still deal Hunter’s Quarry damage only once per round.</p>",
+    "effect": "You teleport 5 squares. You must teleport to a square adjacent to at least one enemy. Each enemy adjacent to you grants combat advantage to you and is designated as your quarry until the end of your next turn. The enemies don’t count against your normal limit of one quarry at a time, although you can still deal Hunter’s Quarry damage only once per round."
+  },
+  "Feywild Tempest": {
+    "id": "'5603",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Feywild Tempest",
+    "type": "of",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFeywild Tempest\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5603\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Blade of Cendriane Attack 20</span>Feywild Tempest</h1><p class=\\\"flavor\\\"><i>You travel unseen through the battlefield, materializing to strike at a foe before disappearing and moving on to the next adversary.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength vs. AC (main weapon and off-hand weapon), two attacks</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] damage per attack.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Teleport 5 squares. Make a secondary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Strength vs. AC (main weapon and offhand weapon), two attacks</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] damage per attack.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Teleport 5 squares. Make a tertiary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Tertiary Target</b>: One creature other than the primary and secondary targets</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Tertiary Attack</b>: Strength vs. AC (main weapon and offhand weapon), two attacks</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] damage per attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 140.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blade of Cendriane",
+    "flavor": "You travel unseen through the battlefield, materializing to strike at a foe before disappearing and moving on to the next adversary.",
+    "keywords": [
+      "Martial, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding two melee weapons.</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Strength vs. AC (main weapon and off-hand weapon), two attacks</p><p class=\"flavor\">Hit: 1[W] damage per attack.</p><p class=\"powerstat\">Effect: Teleport 5 squares. Make a secondary attack.</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Target: One creature other than the primary target</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Strength vs. AC (main weapon and offhand weapon), two attacks</p><p class=\"flavor\">Hit: 1[W] damage per attack.</p><p class=\"powerstat\">Effect: Teleport 5 squares. Make a tertiary attack.</p><p class=\"flavor\">&nbsp;&nbsp;Tertiary Target: One creature other than the primary and secondary targets</p><p class=\"powerstat\">&nbsp;&nbsp;Tertiary Attack: Strength vs. AC (main weapon and offhand weapon), two attacks</p><p class=\"flavor\">Hit: 1[W] damage per attack.</p>",
+    "requirement": "You must be wielding two melee weapons.",
+    "primaryTarget": "One creature",
+    "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
+    "onHit": "1[W] damage per attack.",
+    "effect": "Teleport 5 squares. Make a secondary attack.",
+    "secondaryTarget": "One creature other than the primary target",
+    "secondaryAttack": "Strength vs. AC (main weapon and offhand weapon), two attacks",
+    "secondaryOnHit": "1[W] damage per attack.",
+    "secondaryeffect": "Teleport 5 squares. Make a tertiary attack.",
+    "tertiaryTarget": "One creature other than the primary and secondary targets",
+    "tertiaryAttack": "Strength vs. AC (main weapon and offhand weapon), two attacks"
+  }
+}

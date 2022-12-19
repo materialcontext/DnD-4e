@@ -1,0 +1,62 @@
+{
+  "Sustaining Harvest": {
+    "id": "'13404",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Sustaining Harvest",
+    "type": "Summoner",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSustaining Harvest\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13404\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Summoner Attack 11</span>Sustaining Harvest</h1><p class=\\\"flavor\\\"><i>Your attack hinders nearby foes as it lets you steal an enemy’s life force for your own needs.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Implement</b>, <b>Necrotic</b>, <b>Psionic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Intelligence modifier necrotic damage, and each enemy adjacent to the target takes a -2 penalty to all defenses until the end of your next turn. In addition, you or one summoned creature you control gains temporary hit points equal to your Intelligence modifier.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: 3d8 + Intelligence modifier necrotic damage, and each enemy adjacent to the target takes a -2 penalty to all defenses until the end of your next turn. In addition, you or one summoned creature you control gains temporary hit points equal to twice your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 103.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Summoner",
+    "flavor": "Your attack hinders nearby foes as it lets you steal an enemy’s life force for your own needs.",
+    "keywords": [
+      "Augmentable, Implement, Necrotic, Psionic"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. Fortitude</p><p class=\"flavor\">Hit: 2d8 + Intelligence modifier necrotic damage, and each enemy adjacent to the target takes a -2 penalty to all defenses until the end of your next turn. In addition, you or one summoned creature you control gains temporary hit points equal to your Intelligence modifier.</p>Augment 2",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "3d8 + Intelligence modifier necrotic damage, and each enemy adjacent to the target takes a -2 penalty to all defenses until the end of your next turn. In addition, you or one summoned creature you control gains temporary hit points equal to twice your Intelligence modifier."
+  },
+  "Ideal Champion": {
+    "id": "'13405",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Ideal Champion",
+    "type": "Summoner",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nIdeal Champion\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13405\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Summoner Attack 20</span>Ideal Champion</h1><p class=\\\"flavor\\\"><i>You summon the ideal champion to fight at your side.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Psionic</b>, <b>Summoning</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You summon a Huge ideal champion in unoccupied squares within range. The champion has speed 5 and threatening reach. It has a +2 bonus to all defenses and gains one extra trait from your Evolved Form feature. You can give the champion the following special commands.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Standard Action</b>: Melee 3; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the champion pushes the target 5 squares.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Standard Action (1/encounter)</b>: Close burst 3; targets each enemy in the burst; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the champion pushes the target 5 squares and knocks it prone.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Opportunity Attack</b>: Melee 3; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 103.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Summoner",
+    "flavor": "You summon the ideal champion to fight at your side.",
+    "keywords": [
+      "Implement, Psionic, Summoning"
+    ],
+    "range": "Ranged 10</p><p class=\"flavor\">Effect: You summon a Huge ideal champion in unoccupied squares within range. The champion has speed 5 and threatening reach. It has a +2 bonus to all defenses and gains one extra trait from your Evolved Form feature. You can give the champion the following special commands.</p><p class=\"powerstat\">&nbsp;&nbsp;Standard Action: Melee 3; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the champion pushes the target 5 squares.</p><p class=\"flavor\">&nbsp;&nbsp;Standard Action (1/encounter): Close burst 3; targets each enemy in the burst; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the champion pushes the target 5 squares and knocks it prone.</p><p class=\"powerstat\">&nbsp;&nbsp;Opportunity Attack: Melee 3; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage.</p>",
+    "effect": "You summon a Huge ideal champion in unoccupied squares within range. The champion has speed 5 and threatening reach. It has a +2 bonus to all defenses and gains one extra trait from your Evolved Form feature. You can give the champion the following special commands.",
+    "standardAction": "Melee 3; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the champion pushes the target 5 squares.",
+    "opportunityAttack": "Melee 3; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage."
+  },
+  "Warded Summons": {
+    "id": "'13406",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Warded Summons",
+    "type": "Summoner",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWarded Summons\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13406\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Summoner Utility 12</span>Warded Summons</h1><p class=\\\"flavor\\\"><i>Your connection to a creature you’ ve summoned allows it to turn back even the deadliest attack.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A summoned creature you control within 10 squares of you takes damage from an attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering creature</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes no damage from the triggering attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 103.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Summoner",
+    "flavor": "Your connection to a creature you’ ve summoned allows it to turn back even the deadliest attack.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: A summoned creature you control within 10 squares of you takes damage from an attack</p><p class=\"powerstat\">Target: The triggering creature</p><p class=\"flavor\">Effect: The target takes no damage from the triggering attack.</p>",
+    "trigger": "A summoned creature you control within 10 squares of you takes damage from an attack",
+    "target": "The triggering creature",
+    "effect": "The target takes no damage from the triggering attack."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "Elegant Blade": {
+    "id": "'11770",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Elegant Blade",
+    "type": "",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElegant Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11770\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arms-Troubadour Attack 11</span>Elegant Blade</h1><p class=\\\"flavor\\\"><i>A well-aimed blow briefly confounds your enemy as you easily slip into a better position.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade or a heavy blade and use it to attack with this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + ability modifier damage, and you shift 3 squares. Until the end of your next turn, you can use the Elegant Blade Attack power against the target.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Elegant Blade Attack</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Elegant Blade must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: The target willingly moves to a square that is not adjacent to you or makes an attack</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: You slide the target 3 squares, and you shift 3 squares as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Arms-Troubadour",
+    "flavor": "A well-aimed blow briefly confounds your enemy as you easily slip into a better position.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding a light blade or a heavy blade and use it to attack with this power.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. Reflex</p><p class=\"flavor\">Hit: 3[W] + ability modifier damage, and you shift 3 squares. Until the end of your next turn, you can use the Elegant Blade Attack power against the target.</p>",
+    "requirement": "The power Elegant Blade must be active in order to use this power.",
+    "target": "One creature",
+    "attack": "Primary ability vs. AC",
+    "onHit": "You slide the target 3 squares, and you shift 3 squares as a free action.",
+    "trigger": "The target willingly moves to a square that is not adjacent to you or makes an attack"
+  },
+  "Poetic Flourish": {
+    "id": "'11771",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Poetic Flourish",
+    "type": "",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPoetic Flourish\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11771\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arms-Troubadour Attack 20</span>Poetic Flourish</h1><p class=\\\"flavor\\\"><i>You perform a striking flourish after a successful attack and inspire your allies with a defiant swipe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Stance</b>, <b>Weapon</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade or a heavy blade and use it to attack with this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit and deal damage to a creature with an at-will melee weapon attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: The creature you hit</p><p class=\\\"flavor\\\"><b>Effect</b>: You deal 2[W] extra damage, and the target is dazed (save ends). In addition, you can assume the stance of the arms-troubadour. Until the stance ends, you can use the Poetic Flourish Attack power.</p><br/><h1 class=\\\"dailypower\\\"><span class=\\\"level\\\"></span>Poetic Flourish Attack</h1><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Stance</b>, <b>Weapon</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Poetic Flourish must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit with a melee weapon attack</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, each target can reroll one damage die, using either result, each time he or she hit an enemy with an attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Arms-Troubadour",
+    "flavor": "You perform a striking flourish after a successful attack and inspire your allies with a defiant swipe.",
+    "keywords": [
+      "Martial, Stance, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding a light blade or a heavy blade and use it to attack with this power.</p><p class=\"powerstat\">Trigger: You hit and deal damage to a creature with an at-will melee weapon attack.</p><p class=\"powerstat\">Target: The creature you hit</p><p class=\"flavor\">Effect: You deal 2[W] extra damage, and the target is dazed (save ends). In addition, you can assume the stance of the arms-troubadour. Until the stance ends, you can use the Poetic Flourish Attack power.</p>",
+    "requirement": "The power Poetic Flourish must be active in order to use this power.",
+    "trigger": "You hit with a melee weapon attack",
+    "target": "Each ally in the burst",
+    "effect": "Until the end of your next turn, each target can reroll one damage die, using either result, each time he or she hit an enemy with an attack."
+  },
+  "Deadly Deflection": {
+    "id": "'11774",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Deadly Deflection",
+    "type": "",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeadly Deflection\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11774\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arms-Troubadour Utility 12</span>Deadly Deflection</h1><p class=\\\"flavor\\\"><i>With expert timing, you deflect an enemy’s attack so that it misses you or your ally and targets another foe instead.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy adjacent to you targets you or an ally with a melee attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: Choose a different creature within the target's reach. The target now attacks that creature instead.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Arms-Troubadour",
+    "flavor": "With expert timing, you deflect an enemy’s attack so that it misses you or your ally and targets another foe instead.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Trigger: An enemy adjacent to you targets you or an ally with a melee attack.</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"flavor\">Effect: Choose a different creature within the target's reach. The target now attacks that creature instead.</p>",
+    "trigger": "An enemy adjacent to you targets you or an ally with a melee attack.",
+    "target": "The triggering enemy",
+    "effect": "Choose a different creature within the target's reach. The target now attacks that creature instead."
+  }
+}

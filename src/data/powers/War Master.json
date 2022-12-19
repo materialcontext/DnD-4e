@@ -1,0 +1,22 @@
+{
+  "Brilliant Strategy": {
+    "id": "'11526",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "26",
+    "name": "Brilliant Strategy",
+    "type": "Master",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBrilliant Strategy\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11526\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">War Master Utility 26</span>Brilliant Strategy</h1><p class=\\\"flavor\\\"><i>You weave a skein of psionic magic, combining your allies’ talents into a single, unbeatable force.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy you can see in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you and your allies gain a bonus to attack rolls against the target equal to the number of your allies adjacent to it. If the target drops to 0 hit points, you can use this power again during this encounter.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 161.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "War Master",
+    "flavor": "You weave a skein of psionic magic, combining your allies’ talents into a single, unbeatable force.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: One enemy you can see in the burst</p><p class=\"flavor\">Effect: Until the end of your next turn, you and your allies gain a bonus to attack rolls against the target equal to the number of your allies adjacent to it. If the target drops to 0 hit points, you can use this power again during this encounter.</p><p class=\"powerstat\">Sustain Minor: The effect persists.</p>",
+    "target": "One enemy you can see in the burst",
+    "effect": "Until the end of your next turn, you and your allies gain a bonus to attack rolls against the target equal to the number of your allies adjacent to it. If the target drops to 0 hit points, you can use this power again during this encounter.",
+    "sustainMinor": "The effect persists."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Shadowy Tendrils": {
+    "id": "'14052",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Shadowy Tendrils",
+    "type": "Dancer",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadowy Tendrils\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14052\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadow Dancer Attack 11</span>Shadowy Tendrils</h1><p class=\\\"flavor\\\"><i>As you teleport, a shadowy afterimage manifests as tendrils that reach out to your foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport up to 5 squares, then make a basic attack. You teleport one target hit by the attack up to 3 squares, and it is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 148.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Dancer",
+    "flavor": "As you teleport, a shadowy afterimage manifests as tendrils that reach out to your foes.",
+    "keywords": [
+      "Shadow, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You teleport up to 5 squares, then make a basic attack. You teleport one target hit by the attack up to 3 squares, and it is dazed until the end of your next turn.</p>",
+    "effect": "You teleport up to 5 squares, then make a basic attack. You teleport one target hit by the attack up to 3 squares, and it is dazed until the end of your next turn."
+  },
+  "Trail of Shadows": {
+    "id": "'14053",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Trail of Shadows",
+    "type": "Dancer",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTrail of Shadows\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14053\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shadow Dancer Attack 20</span>Trail of Shadows</h1><p class=\\\"flavor\\\"><i>You streak through your foes as a blur of shadow, leaving a field of bitter darkness behind you that freezes your foes to the marrow.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Shadow</b>, <b>Zone</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You shift up to your speed. The squares you enter during this movement become a zone that lasts until the end of the encounter. Any enemy in the zone or adjacent to it when it is created takes 15 cold damage. The zone is totally obscured to your enemies. Any enemy that ends its turn in the zone or adjacent to it takes 10 cold damage, and that enemy is slowed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 148.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Dancer",
+    "flavor": "You streak through your foes as a blur of shadow, leaving a field of bitter darkness behind you that freezes your foes to the marrow.",
+    "keywords": [
+      "Cold, Shadow, Zone"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You shift up to your speed. The squares you enter during this movement become a zone that lasts until the end of the encounter. Any enemy in the zone or adjacent to it when it is created takes 15 cold damage. The zone is totally obscured to your enemies. Any enemy that ends its turn in the zone or adjacent to it takes 10 cold damage, and that enemy is slowed (save ends).</p>",
+    "effect": "You shift up to your speed. The squares you enter during this movement become a zone that lasts until the end of the encounter. Any enemy in the zone or adjacent to it when it is created takes 15 cold damage. The zone is totally obscured to your enemies. Any enemy that ends its turn in the zone or adjacent to it takes 10 cold damage, and that enemy is slowed (save ends)."
+  },
+  "Shadow Stalk": {
+    "id": "'14055",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Shadow Stalk",
+    "type": "Dancer",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Stalk\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14055\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadow Dancer Utility 12</span>Shadow Stalk</h1><p class=\\\"flavor\\\"><i>You attune yourself to your foe’s shadow, then step through it at a moment’s notice.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you can teleport to any square adjacent to the target as a move action. If you are already adjacent to the target, you can teleport up to 3 squares as a minor action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 148.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Dancer",
+    "flavor": "You attune yourself to your foe’s shadow, then step through it at a moment’s notice.",
+    "keywords": [
+      "Shadow, Teleportation"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: One creature in the burst</p><p class=\"flavor\">Effect: Until the end of your next turn, you can teleport to any square adjacent to the target as a move action. If you are already adjacent to the target, you can teleport up to 3 squares as a minor action.</p>",
+    "target": "One creature in the burst",
+    "effect": "Until the end of your next turn, you can teleport to any square adjacent to the target as a move action. If you are already adjacent to the target, you can teleport up to 3 squares as a minor action."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "Pixie Dust": {
+    "id": "'15835",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Pixie Dust",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPixie Dust\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15835\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Pixie Racial Utility </span>Pixie Dust</h1><p class=\\\"flavor\\\"><i>You hurl a bright globe of fey magic that grants your friend the ability to soar through the air for a moment.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can fly up to 6 squares as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 28.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "You hurl a bright globe of fey magic that grants your friend the ability to soar through the air for a moment.",
+    "keywords": [
+      "&nbsp;&nbsp;Ranged 5</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: The target can fly up to 6 squares as a free action.</p>"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: The target can fly up to 6 squares as a free action.</p>",
+    "target": "One ally",
+    "effect": "The target can fly up to 6 squares as a free action."
+  },
+  "Shrink": {
+    "id": "'15836",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Shrink",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShrink\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15836\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Pixie Racial Utility </span>Shrink</h1><p class=\\\"flavor\\\"><i>At your touch, an object shrinks to your wee size or is restored to its original state.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One object that is sized for a Medium or Small creature, is not inside a container, does not contain anything, and is not held, worn, or carried by anyone other than you.</p><p class=\\\"flavor\\\"><b>Effect</b>: The target shrinks to a size appropriate for a Tiny creature’s use. The new size ends at the end of your next extended rest unless the shrunken target is on your person. The size also ends if you or another pixie uses this power on the shrunken target. While shrunk, the target keeps its game statistics, such as damage dice and weight. A shrunken weapon, however, becomes an improvised one-handed weapon for a non-Tiny creature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 28.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "At your touch, an object shrinks to your wee size or is restored to its original state.",
+    "keywords": [
+      "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One object that is sized for a Medium or Small creature, is not inside a container, does not contain anything, and is not held, worn, or carried by anyone other than you.</p><p class=\"flavor\">Effect: The target shrinks to a size appropriate for a Tiny creature’s use. The new size ends at the end of your next extended rest unless the shrunken target is on your person. The size also ends if you or another pixie uses this power on the shrunken target. While shrunk, the target keeps its game statistics, such as damage dice and weight. A shrunken weapon, however, becomes an improvised one-handed weapon for a non-Tiny creature.</p>"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One object that is sized for a Medium or Small creature, is not inside a container, does not contain anything, and is not held, worn, or carried by anyone other than you.</p><p class=\"flavor\">Effect: The target shrinks to a size appropriate for a Tiny creature’s use. The new size ends at the end of your next extended rest unless the shrunken target is on your person. The size also ends if you or another pixie uses this power on the shrunken target. While shrunk, the target keeps its game statistics, such as damage dice and weight. A shrunken weapon, however, becomes an improvised one-handed weapon for a non-Tiny creature.</p>",
+    "target": "One object that is sized for a Medium or Small creature, is not inside a container, does not contain anything, and is not held, worn, or carried by anyone other than you.",
+    "effect": "The target shrinks to a size appropriate for a Tiny creature’s use. The new size ends at the end of your next extended rest unless the shrunken target is on your person. The size also ends if you or another pixie uses this power on the shrunken target. While shrunk, the target keeps its game statistics, such as damage dice and weight. A shrunken weapon, however, becomes an improvised one-handed weapon for a non-Tiny creature."
+  },
+  "Ventriloquist Prank": {
+    "id": "'15837",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Ventriloquist Prank",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVentriloquist Prank\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15837\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Pixie Racial Utility 2</span>Ventriloquist Prank</h1><p class=\\\"flavor\\\"><i>You gleefully project an alarming noise that distracts and hinders your foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature that isn’t deafened</p><p class=\\\"flavor\\\"><b>Effect</b>: Roll a d6 to determine the power’s effect.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>1-3</b>: You slide the target up to 2 squares, but not into hindering terrain.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>4-6</b>: The target grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "You gleefully project an alarming noise that distracts and hinders your foe.",
+    "keywords": [
+      "Illusion"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature that isn’t deafened</p><p class=\"flavor\">Effect: Roll a d6 to determine the power’s effect.</p><p class=\"powerstat\">&nbsp;&nbsp;1-3: You slide the target up to 2 squares, but not into hindering terrain.</p><p class=\"flavor\">&nbsp;&nbsp;4-6: The target grants combat advantage until the end of your next turn.</p>",
+    "target": "One creature that isn’t deafened",
+    "effect": "Roll a d6 to determine the power’s effect."
+  },
+  "Pixie Invisibility": {
+    "id": "'15838",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Pixie Invisibility",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPixie Invisibility\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15838\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Pixie Racial Utility 6</span>Pixie Invisibility</h1><p class=\\\"flavor\\\"><i>Focusing all your concentration, you vanish from sight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You become invisible until you attack or until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "Focusing all your concentration, you vanish from sight.",
+    "keywords": [
+      "Illusion"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You become invisible until you attack or until the end of your next turn.</p>",
+    "effect": "You become invisible until you attack or until the end of your next turn."
+  },
+  "Gift of Flight": {
+    "id": "'15839",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Gift of Flight",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGift of Flight\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15839\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Pixie Racial Utility 10</span>Gift of Flight</h1><p class=\\\"flavor\\\"><i>With a sprinkling of pixie dust, your companions take to the air.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target gains a fly speed of 6 until the end of his or her next turn. If the target doesn’t land at the end of this movement, he or she descends to the ground without taking falling damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "With a sprinkling of pixie dust, your companions take to the air.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 1</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: Each target gains a fly speed of 6 until the end of his or her next turn. If the target doesn’t land at the end of this movement, he or she descends to the ground without taking falling damage.</p>"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: Each target gains a fly speed of 6 until the end of his or her next turn. If the target doesn’t land at the end of this movement, he or she descends to the ground without taking falling damage.</p>",
+    "target": "Each ally in the burst",
+    "effect": "Each target gains a fly speed of 6 until the end of his or her next turn. If the target doesn’t land at the end of this movement, he or she descends to the ground without taking falling damage."
+  },
+  "Fairy Dance": {
+    "id": "'15840",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Fairy Dance",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFairy Dance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15840\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Pixie Racial Utility 16</span>Fairy Dance</h1><p class=\\\"flavor\\\"><i>You strike up the enchanted music of the fey, granting your companions grace even as your foes trip and fumble around you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Charm</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 2 that lasts until the end of your next turn. Any ally who starts his or her turn in the aura can shift 1 square during that turn as a free action. Any enemy that starts its turn in the aura is slowed until the start of its next turn.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The aura persists until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "You strike up the enchanted music of the fey, granting your companions grace even as your foes trip and fumble around you.",
+    "keywords": [
+      "Aura, Charm"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You activate an aura 2 that lasts until the end of your next turn. Any ally who starts his or her turn in the aura can shift 1 square during that turn as a free action. Any enemy that starts its turn in the aura is slowed until the start of its next turn.</p><p class=\"powerstat\">Sustain Minor: The aura persists until the end of your next turn.</p>",
+    "effect": "You activate an aura 2 that lasts until the end of your next turn. Any ally who starts his or her turn in the aura can shift 1 square during that turn as a free action. Any enemy that starts its turn in the aura is slowed until the start of its next turn.",
+    "sustainMinor": "The aura persists until the end of your next turn."
+  },
+  "Pixie Teleport Trick": {
+    "id": "'15841",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Pixie Teleport Trick",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPixie Teleport Trick\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15841\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Pixie Racial Utility 22</span>Pixie Teleport Trick</h1><p class=\\\"flavor\\\"><i>Even as you reel from a foe’s attack, you vanish in a puff of fragrant smoke and reappear a safe distance away.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, whenever an enemy attacks you, you can use an immediate reaction to teleport up to 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000\\\" target=\\\"_new\\\">Heroes of the Feywild</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pixie",
+    "flavor": "Even as you reel from a foe’s attack, you vanish in a puff of fragrant smoke and reappear a safe distance away.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, whenever an enemy attacks you, you can use an immediate reaction to teleport up to 5 squares.</p>",
+    "effect": "Until the end of the encounter, whenever an enemy attacks you, you can use an immediate reaction to teleport up to 5 squares."
+  }
+}

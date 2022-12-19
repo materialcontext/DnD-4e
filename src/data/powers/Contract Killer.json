@@ -1,0 +1,58 @@
+{
+  "Fulfill Contract": {
+    "id": "'15961",
+    "action": "No Action",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Fulfill Contract",
+    "type": "Killer",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFulfill Contract\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15961\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Contract Killer Attack 11</span>Fulfill Contract</h1><p class=\\\"flavor\\\"><i>Singling out an enemy ensures your attacks land with the desired accuracy, so you can reap the rewards for completing your mission.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: Using an at-will attack power, you make an attack roll against an enemy that is granting combat advantage to you.</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a +3 power bonus to the attack roll, and the enemy takes 2d8 extra damage if the attack hits. If the attack bloodies the enemy or drops it to 0 hit points, you gain temporary hit points equal to 3 + one-half your level.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-23.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Contract Killer",
+    "flavor": "Singling out an enemy ensures your attacks land with the desired accuracy, so you can reap the rewards for completing your mission.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Special </p><p class=\"powerstat\">Trigger: Using an at-will attack power, you make an attack roll against an enemy that is granting combat advantage to you.</p><p class=\"flavor\">Effect: You gain a +3 power bonus to the attack roll, and the enemy takes 2d8 extra damage if the attack hits. If the attack bloodies the enemy or drops it to 0 hit points, you gain temporary hit points equal to 3 + one-half your level.</p>",
+    "trigger": "Using an at-will attack power, you make an attack roll against an enemy that is granting combat advantage to you.",
+    "effect": "You gain a +3 power bonus to the attack roll, and the enemy takes 2d8 extra damage if the attack hits. If the attack bloodies the enemy or drops it to 0 hit points, you gain temporary hit points equal to 3 + one-half your level."
+  },
+  "Certainty of Death": {
+    "id": "'15962",
+    "action": "No Action",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Certainty of Death",
+    "type": "Killer",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCertainty of Death\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15962\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Contract Killer Attack 20</span>Certainty of Death</h1><p class=\\\"flavor\\\"><i>A vicious attack from a hidden position gives you the opportunity to eliminate the target with a single strike.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit a bloodied enemy with an at-will attack power, and you are hidden from it.</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering attack deals 5d8 extra damage to the enemy, and it grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-23.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Contract Killer",
+    "flavor": "A vicious attack from a hidden position gives you the opportunity to eliminate the target with a single strike.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Special </p><p class=\"powerstat\">Trigger: You hit a bloodied enemy with an at-will attack power, and you are hidden from it.</p><p class=\"flavor\">Effect: The triggering attack deals 5d8 extra damage to the enemy, and it grants combat advantage until the end of your next turn.</p>",
+    "trigger": "You hit a bloodied enemy with an at-will attack power, and you are hidden from it.",
+    "effect": "The triggering attack deals 5d8 extra damage to the enemy, and it grants combat advantage until the end of your next turn."
+  },
+  "Next to Die": {
+    "id": "'15963",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Next to Die",
+    "type": "Killer",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNext to Die\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15963\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Contract Killer Utility 12</span>Next to Die</h1><p class=\\\"flavor\\\"><i>You single out a target, pursuing it until it is no more.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one enemy that you can see within 5 squares of you. Until the end of the encounter, you gain combat advantage against that enemy, and you take a -2 penalty to attack rolls against creatures other than it until it drops to 0 hit points. In addition, whenever the enemy moves more than 2 squares on its turn, you can shift up to 2 squares as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-23.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Contract Killer",
+    "flavor": "You single out a target, pursuing it until it is no more.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Choose one enemy that you can see within 5 squares of you. Until the end of the encounter, you gain combat advantage against that enemy, and you take a -2 penalty to attack rolls against creatures other than it until it drops to 0 hit points. In addition, whenever the enemy moves more than 2 squares on its turn, you can shift up to 2 squares as a free action.</p>",
+    "effect": "Choose one enemy that you can see within 5 squares of you. Until the end of the encounter, you gain combat advantage against that enemy, and you take a -2 penalty to attack rolls against creatures other than it until it drops to 0 hit points. In addition, whenever the enemy moves more than 2 squares on its turn, you can shift up to 2 squares as a free action."
+  }
+}

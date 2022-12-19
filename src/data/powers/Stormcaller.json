@@ -1,0 +1,63 @@
+{
+  "Forked Lightning": {
+    "id": "'12180",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Forked Lightning",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForked Lightning\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12180\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Stormcaller Attack 11</span>Forked Lightning</h1><p class=\\\"flavor\\\"><i>Spirits of lightning leap from your outstretched fingers, slamming into your enemies then encircling your allies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Lightning</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One or two creatures in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Wisdom modifier lightning damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, each ally within the burst deals extra lightning damage equal to your Wisdom modifier each time it hits an enemy with an attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 38.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Stormcaller",
+    "flavor": "Spirits of lightning leap from your outstretched fingers, slamming into your enemies then encircling your allies.",
+    "keywords": [
+      "Implement, Lightning, Primal"
+    ],
+    "range": "Area burst 1 within 10</p><p class=\"powerstat\">Target: One or two creatures in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 2d10 + Wisdom modifier lightning damage.</p><p class=\"powerstat\">Effect: Until the end of your next turn, each ally within the burst deals extra lightning damage equal to your Wisdom modifier each time it hits an enemy with an attack.</p>",
+    "target": "One or two creatures in the burst",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "2d10 + Wisdom modifier lightning damage.",
+    "effect": "Until the end of your next turn, each ally within the burst deals extra lightning damage equal to your Wisdom modifier each time it hits an enemy with an attack."
+  },
+  "Spirit Cyclone": {
+    "id": "'12181",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Spirit Cyclone",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpirit Cyclone\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12181\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Stormcaller Attack 20</span>Spirit Cyclone</h1><p class=\\\"flavor\\\"><i>Ancient winds spiral around your spirit companion, sending your enemies to their knees and allowing your allies to move with incredible speed.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b>, <b>Spirit</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst spirit 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + Wisdom modifier damage, and the target falls prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of the encounter. Any ally within the zone can shift 3 squares to another square within the zone as a move action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 38.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Stormcaller",
+    "flavor": "Ancient winds spiral around your spirit companion, sending your enemies to their knees and allowing your allies to move with incredible speed.",
+    "keywords": [
+      "Implement, Primal, Spirit, Zone"
+    ],
+    "range": "Close burst spirit 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 4d8 + Wisdom modifier damage, and the target falls prone.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of the encounter. Any ally within the zone can shift 3 squares to another square within the zone as a move action.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Wisdom vs. Fortitude",
+    "onHit": "4d8 + Wisdom modifier damage, and the target falls prone.",
+    "onMiss": "Half damage.",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. Any ally within the zone can shift 3 squares to another square within the zone as a move action."
+  },
+  "Blinding Torrent": {
+    "id": "'12182",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Blinding Torrent",
+    "type": "Utility",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlinding Torrent\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12182\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Stormcaller Utility 12</span>Blinding Torrent</h1><p class=\\\"flavor\\\"><i>You summon torrents of rain spirits from the great storm, concealing your allies and making your enemies more susceptible to nature’s fury.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 5</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of the encounter. Each ally within the zone gains concealment. Each enemy that enters the zone or starts its turn there gains vulnerable 5 lightning and vulnerable 5 thunder.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 38.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Stormcaller",
+    "flavor": "You summon torrents of rain spirits from the great storm, concealing your allies and making your enemies more susceptible to nature’s fury.",
+    "keywords": [
+      "Primal, Zone"
+    ],
+    "range": "Area burst 2 within 5</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of the encounter. Each ally within the zone gains concealment. Each enemy that enters the zone or starts its turn there gains vulnerable 5 lightning and vulnerable 5 thunder.</p>",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. Each ally within the zone gains concealment. Each enemy that enters the zone or starts its turn there gains vulnerable 5 lightning and vulnerable 5 thunder."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Weapon Display": {
+    "id": "'9263",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Weapon Display",
+    "type": "Blade",
+    "sourceRef": "Dragon Magazine 376",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWeapon Display\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9263\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Daring Blade Attack 11</span>Weapon Display</h1><p class=\\\"flavor\\\"><i>You spin your blade in a dazzling display and then slip the blade past your enemy’s defenses with astonishing precision.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Charisma modifier damage and the target grants combat advantage to you and your allies until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: The target is marked until the end of your next turn, and you regain the use of this power.</p><p class=\\\"flavor\\\"><b>Effect</b>: Your target grants combat advantage to you for this attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/376\\\" target=\\\"_new\\\">Dragon Magazine 376</a>, page(s) 56.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Daring Blade",
+    "flavor": "You spin your blade in a dazzling display and then slip the blade past your enemy’s defenses with astonishing precision.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 2[W] + Charisma modifier damage and the target grants combat advantage to you and your allies until the end of your next turn.</p><p class=\"powerstat\">Miss: The target is marked until the end of your next turn, and you regain the use of this power.</p><p class=\"flavor\">Effect: Your target grants combat advantage to you for this attack.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. AC",
+    "onHit": "2[W] + Charisma modifier damage and the target grants combat advantage to you and your allies until the end of your next turn.",
+    "onMiss": "The target is marked until the end of your next turn, and you regain the use of this power.",
+    "effect": "Your target grants combat advantage to you for this attack."
+  },
+  "Offensive Spin Slash": {
+    "id": "'9264",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Offensive Spin Slash",
+    "type": "Blade",
+    "sourceRef": "Dragon Magazine 376",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOffensive Spin Slash\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9264\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Daring Blade Attack 20</span>Offensive Spin Slash</h1><p class=\\\"flavor\\\"><i>You leap toward your foe, spinning through the air, your blade tracing a silvery arc, and when you strike, your enemy skitters back to find someone else to fight.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Rattling</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Effect</b>: Shift a number of squares equal to your speed. You gain a +4 power bonus to Intimidate checks until the end of the encounter.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Charisma modifier damage, slide the target a number of squares up to its speed, and then the target is marked by an ally adjacent to the target or you, if you are adjacent to the target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/376\\\" target=\\\"_new\\\">Dragon Magazine 376</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Daring Blade",
+    "flavor": "You leap toward your foe, spinning through the air, your blade tracing a silvery arc, and when you strike, your enemy skitters back to find someone else to fight.",
+    "keywords": [
+      "Martial, Rattling, Reliable, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Effect: Shift a number of squares equal to your speed. You gain a +4 power bonus to Intimidate checks until the end of the encounter.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 4[W] + Charisma modifier damage, slide the target a number of squares up to its speed, and then the target is marked by an ally adjacent to the target or you, if you are adjacent to the target.</p>",
+    "effect": "Shift a number of squares equal to your speed. You gain a +4 power bonus to Intimidate checks until the end of the encounter.",
+    "target": "One creature",
+    "attack": "Charisma vs. AC",
+    "onHit": "4[W] + Charisma modifier damage, slide the target a number of squares up to its speed, and then the target is marked by an ally adjacent to the target or you, if you are adjacent to the target."
+  },
+  "Defensive Posture (Daring Blade)": {
+    "id": "'9265",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Defensive Posture (Daring Blade)",
+    "type": "Blade",
+    "sourceRef": "Dragon Magazine 376",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDefensive Posture (Daring Blade)\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9265\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Daring Blade Utility 12</span>Defensive Posture (Daring Blade)</h1><p class=\\\"flavor\\\"><i>Flooded with arcane power, you dance away with astonishing speed to escape your foe’s attacks, all while daring your enemy to follow.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a +2 power bonus to AC and Reflex until the end of your next turn, then shift a number of squares equal to one-half your speed. Each ally that can see you gains a +2 power bonus to attack rolls until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/376\\\" target=\\\"_new\\\">Dragon Magazine 376</a>, page(s) 56.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Daring Blade",
+    "flavor": "Flooded with arcane power, you dance away with astonishing speed to escape your foe’s attacks, all while daring your enemy to follow.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain a +2 power bonus to AC and Reflex until the end of your next turn, then shift a number of squares equal to one-half your speed. Each ally that can see you gains a +2 power bonus to attack rolls until the end of your next turn.</p>",
+    "effect": "You gain a +2 power bonus to AC and Reflex until the end of your next turn, then shift a number of squares equal to one-half your speed. Each ally that can see you gains a +2 power bonus to attack rolls until the end of your next turn."
+  }
+}

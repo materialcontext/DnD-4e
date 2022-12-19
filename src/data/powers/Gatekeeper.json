@@ -1,0 +1,64 @@
+{
+  "You Shall Not Pass": {
+    "id": "'12489",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "You Shall Not Pass",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 387",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nYou Shall Not Pass\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12489\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Gatekeeper Attack 11</span>You Shall Not Pass</h1><p class=\\\"flavor\\\"><i>An enemy trying to pass by you or an ally suddenly lights up in an agony of psionic backlash.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Psychic</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy leaves a square that is adjacent to you or one of your allies</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence, Wisdom, or Charisma + 6 vs. Fortitude<br/>Level 21: +9.</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d12 + Intelligence modifier, Wisdom modifier, or Charisma modifier psychic damage, and you pull the target 3 squares and it is immobilized (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/387\\\" target=\\\"_new\\\">Dragon Magazine 387</a>, page(s) 18.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Gatekeeper",
+    "flavor": "An enemy trying to pass by you or an ally suddenly lights up in an agony of psionic backlash.",
+    "keywords": [
+      "Psionic, Psychic"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Trigger: An enemy leaves a square that is adjacent to you or one of your allies</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Intelligence, Wisdom, or Charisma + 6 vs. Fortitude",
+    "trigger": "An enemy leaves a square that is adjacent to you or one of your allies",
+    "target": "The triggering enemy",
+    "attack": "Intelligence, Wisdom, or Charisma + 6 vs. Fortitude<br/>Level 21: +9.",
+    "onHit": "2d12 + Intelligence modifier, Wisdom modifier, or Charisma modifier psychic damage, and you pull the target 3 squares and it is immobilized (save ends)."
+  },
+  "Gate to Nowhere": {
+    "id": "'12490",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Gate to Nowhere",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 387",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGate to Nowhere\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12490\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Gatekeeper Attack 20</span>Gate to Nowhere</h1><p class=\\\"flavor\\\"><i>An enemy successfully passes through the area you or your allies guard, but it doesn’t end up where it expected; it is gone.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Psychic</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy leaves a square that is adjacent to you or one of your allies</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence, Wisdom, or Charisma + 6 vs. Fortitude<br/>Level 21: +9.</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d12 + Intelligence, Wisdom, or Charisma modifier psychic damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is removed from play (save ends). When the target saves against this effect, you can choose to have it return to play in any unoccupied square on the ground within 10 squares of you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/387\\\" target=\\\"_new\\\">Dragon Magazine 387</a>, page(s) 18.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Gatekeeper",
+    "flavor": "An enemy successfully passes through the area you or your allies guard, but it doesn’t end up where it expected; it is gone.",
+    "keywords": [
+      "Psionic, Psychic"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Trigger: An enemy leaves a square that is adjacent to you or one of your allies</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Intelligence, Wisdom, or Charisma + 6 vs. Fortitude",
+    "trigger": "An enemy leaves a square that is adjacent to you or one of your allies",
+    "target": "The triggering enemy",
+    "attack": "Intelligence, Wisdom, or Charisma + 6 vs. Fortitude<br/>Level 21: +9.",
+    "onHit": "3d12 + Intelligence, Wisdom, or Charisma modifier psychic damage.",
+    "onMiss": "Half damage.",
+    "effect": "The target is removed from play (save ends). When the target saves against this effect, you can choose to have it return to play in any unoccupied square on the ground within 10 squares of you."
+  },
+  "Chosen Threshold": {
+    "id": "'12492",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Chosen Threshold",
+    "type": "Utility",
+    "sourceRef": "Dragon Magazine 387",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nChosen Threshold\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12492\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Gatekeeper Utility 12</span>Chosen Threshold</h1><p class=\\\"flavor\\\"><i>You declare a threshold of your choice off-limits to interlopers, and you can defend it even when drawn far away.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> wall 4 within 10 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: The area of the wall becomes your chosen threshold that lasts until the end of your next turn. Any enemy that enters the area of the wall is immobilized (save ends). Once before the end of your next turn, as a move action you can teleport to any square of the wall, or any square adjacent to the wall, even if you do not have line of sight or line of effect to the square to which you are teleporting.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/387\\\" target=\\\"_new\\\">Dragon Magazine 387</a>, page(s) 18.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Gatekeeper",
+    "flavor": "You declare a threshold of your choice off-limits to interlopers, and you can defend it even when drawn far away.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Area wall 4 within 10 squares</p><p class=\"flavor\">Effect: The area of the wall becomes your chosen threshold that lasts until the end of your next turn. Any enemy that enters the area of the wall is immobilized (save ends). Once before the end of your next turn, as a move action you can teleport to any square of the wall, or any square adjacent to the wall, even if you do not have line of sight or line of effect to the square to which you are teleporting.</p>",
+    "effect": "The area of the wall becomes your chosen threshold that lasts until the end of your next turn. Any enemy that enters the area of the wall is immobilized (save ends). Once before the end of your next turn, as a move action you can teleport to any square of the wall, or any square adjacent to the wall, even if you do not have line of sight or line of effect to the square to which you are teleporting."
+  }
+}

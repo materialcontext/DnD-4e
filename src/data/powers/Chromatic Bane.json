@@ -1,0 +1,86 @@
+{
+  "Rolling Stab": {
+    "id": "'9382",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Rolling Stab",
+    "type": "Bane",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRolling Stab\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9382\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Chromatic Bane Attack 11</span>Rolling Stab</h1><p class=\\\"flavor\\\"><i>As your foe strikes you, you roll to the side to make a punishing counterstrike.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you with a melee attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: Before your attack, shift 5 squares to any square adjacent to the target.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Wisdom, or Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength, Wisdom, or Charisma modifier damage, and you gain a +2 bonus to all defenses until the end of your next turn. If the target is a dragon, this attack deals an extra 1[W] damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Chromatic Bane",
+    "flavor": "As your foe strikes you, you roll to the side to make a punishing counterstrike.",
+    "keywords": [
+      "Divine, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: An enemy hits you with a melee attack</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"flavor\">Effect: Before your attack, shift 5 squares to any square adjacent to the target.</p><p class=\"powerstat\">Attack: Strength, Wisdom, or Charisma vs. AC</p><p class=\"flavor\">Hit: 1[W] + Strength, Wisdom, or Charisma modifier damage, and you gain a +2 bonus to all defenses until the end of your next turn. If the target is a dragon, this attack deals an extra 1[W] damage.</p>",
+    "trigger": "An enemy hits you with a melee attack",
+    "target": "The triggering enemy",
+    "effect": "Before your attack, shift 5 squares to any square adjacent to the target.",
+    "attack": "Strength, Wisdom, or Charisma vs. AC",
+    "onHit": "1[W] + Strength, Wisdom, or Charisma modifier damage, and you gain a +2 bonus to all defenses until the end of your next turn. If the target is a dragon, this attack deals an extra 1[W] damage."
+  },
+  "Heartstrike": {
+    "id": "'9383",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Heartstrike",
+    "type": "Bane",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHeartstrike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9383\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chromatic Bane Attack 20</span>Heartstrike</h1><p class=\\\"flavor\\\"><i>Your foe recoils from your attack in agony, but your pursuit of justice brings you implacably after it.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Wisdom, or Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength, Wisdom, or Charisma modifier damage, you slide the target 3 squares and shift 3 squares to a square adjacent to the target, and the target is marked until the end of the encounter.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage and the target is marked until the end of the encounter.</p><p class=\\\"flavor\\\"><b>Special</b>: When charging, you can use this power in place of a melee basic attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Chromatic Bane",
+    "flavor": "Your foe recoils from your attack in agony, but your pursuit of justice brings you implacably after it.",
+    "keywords": [
+      "Divine, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength, Wisdom, or Charisma vs. AC</p><p class=\"flavor\">Hit: 4[W] + Strength, Wisdom, or Charisma modifier damage, you slide the target 3 squares and shift 3 squares to a square adjacent to the target, and the target is marked until the end of the encounter.</p><p class=\"powerstat\">Miss: Half damage and the target is marked until the end of the encounter.</p><p class=\"flavor\">Special: When charging, you can use this power in place of a melee basic attack.</p>",
+    "target": "One creature",
+    "attack": "Strength, Wisdom, or Charisma vs. AC",
+    "onHit": "4[W] + Strength, Wisdom, or Charisma modifier damage, you slide the target 3 squares and shift 3 squares to a square adjacent to the target, and the target is marked until the end of the encounter.",
+    "onMiss": "Half damage and the target is marked until the end of the encounter.",
+    "special": "When charging, you can use this power in place of a melee basic attack."
+  },
+  "Rousing Cry": {
+    "id": "'9384",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Rousing Cry",
+    "type": "Bane",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRousing Cry\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9384\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chromatic Bane Utility 12</span>Rousing Cry</h1><p class=\\\"flavor\\\"><i>You voice is a clarion, cutting through the confusion to stir your ally to action.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One dazed or stunned ally in the burst that you can see</p><p class=\\\"flavor\\\"><b>Effect</b>: The dazed or stunned condition ends and the target can take a move action as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Chromatic Bane",
+    "flavor": "You voice is a clarion, cutting through the confusion to stir your ally to action.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Target: One dazed or stunned ally in the burst that you can see</p><p class=\"flavor\">Effect: The dazed or stunned condition ends and the target can take a move action as a free action.</p>",
+    "target": "One dazed or stunned ally in the burst that you can see",
+    "effect": "The dazed or stunned condition ends and the target can take a move action as a free action."
+  },
+  "Platinum Mantle": {
+    "id": "'9929",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Platinum Mantle",
+    "type": "Bane",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPlatinum Mantle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9929\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Chromatic Bane Feature </span>Platinum Mantle</h1><p class=\\\"flavor\\\"><i>Destructive power washes around you, but Bahamut protects you and those who trust you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Channel Divinity</b>: You can only use one Channel Divinity power per encounter.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are hit by a close or area attack</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains a +2 bonus to all defenses until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Chromatic Bane",
+    "flavor": "Destructive power washes around you, but Bahamut protects you and those who trust you.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close burst 3</p><p class=\"powerstat\">Channel Divinity: You can only use one Channel Divinity power per encounter.</p><p class=\"powerstat\">Trigger: You are hit by a close or area attack</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: The target gains a +2 bonus to all defenses until the end of your next turn.</p>",
+    "channelDivinity": "You can only use one Channel Divinity power per encounter.",
+    "trigger": "You are hit by a close or area attack",
+    "target": "You and each ally in the burst",
+    "effect": "The target gains a +2 bonus to all defenses until the end of your next turn."
+  }
+}

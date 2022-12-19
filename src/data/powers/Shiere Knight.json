@@ -1,0 +1,64 @@
+{
+  "Imperious Presence": {
+    "id": "'5490",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Imperious Presence",
+    "type": "Knight",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nImperious Presence\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5490\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shiere Knight Attack 20</span>Imperious Presence</h1><p class=\\\"flavor\\\"><i>Filled with the power of the Feywild, you drive your enemies away in fear, sapping them of their strength.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence, Wisdom, or Charisma + 6 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is weakened (save ends). The target then moves away from you at its speed as a free action.</p><p class=\\\"powerstat\\\"><b>Miss</b>: The target is weakened until the end of your next turn, and you push the target 3 squares.</p><p class=\\\"flavor\\\"><b>Special</b>: When you gain this power, choose Intelligence, Wisdom, or Charisma as the ability you use when making attack rolls with this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shiere Knight",
+    "flavor": "Filled with the power of the Feywild, you drive your enemies away in fear, sapping them of their strength.",
+    "keywords": [
+      "Fear"
+    ],
+    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Intelligence, Wisdom, or Charisma + 6 vs. Will</p><p class=\"flavor\">Hit: The target is weakened (save ends). The target then moves away from you at its speed as a free action.</p><p class=\"powerstat\">Miss: The target is weakened until the end of your next turn, and you push the target 3 squares.</p><p class=\"flavor\">Special: When you gain this power, choose Intelligence, Wisdom, or Charisma as the ability you use when making attack rolls with this power.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence, Wisdom, or Charisma + 6 vs. Will",
+    "onHit": "The target is weakened (save ends). The target then moves away from you at its speed as a free action.",
+    "onMiss": "The target is weakened until the end of your next turn, and you push the target 3 squares.",
+    "special": "When you gain this power, choose Intelligence, Wisdom, or Charisma as the ability you use when making attack rolls with this power."
+  },
+  "Ensorcelled Mind": {
+    "id": "'5491",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Ensorcelled Mind",
+    "type": "Knight",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEnsorcelled Mind\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5491\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shiere Knight Attack 11</span>Ensorcelled Mind</h1><p class=\\\"flavor\\\"><i>You fill your foe’s mind with haunting images of the Feywild’s wonder and beauty, with the result that the enemy cannot bear to see you harmed.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence, Wisdom, or Charisma + 4 vs. Will<br/>Level 21: Intelligence, Wisdom, or Charisma + 6 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: Until the end of your next turn, the target can’t attack you. In addition, when any creature within the target’s reach hits or misses you, the target makes a melee basic attack against that creature as a free action, with a +2 bonus to the attack roll.</p><p class=\\\"powerstat\\\"><b>Special</b>: When you gain this power, choose Intelligence, Wisdom, or Charisma as the ability you use when making attack rolls with this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shiere Knight",
+    "flavor": "You fill your foe’s mind with haunting images of the Feywild’s wonder and beauty, with the result that the enemy cannot bear to see you harmed.",
+    "keywords": [
+      "Charm"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence, Wisdom, or Charisma + 4 vs. Will",
+    "target": "One creature",
+    "attack": "Intelligence, Wisdom, or Charisma + 4 vs. Will<br/>Level 21: Intelligence, Wisdom, or Charisma + 6 vs. Will",
+    "onHit": "Until the end of your next turn, the target can’t attack you. In addition, when any creature within the target’s reach hits or misses you, the target makes a melee basic attack against that creature as a free action, with a +2 bonus to the attack roll.",
+    "special": "When you gain this power, choose Intelligence, Wisdom, or Charisma as the ability you use when making attack rolls with this power."
+  },
+  "Fey Escape": {
+    "id": "'6221",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Fey Escape",
+    "type": "Knight",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFey Escape\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6221\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shiere Knight Utility 12</span>Fey Escape</h1><p class=\\\"flavor\\\"><i>As your foe draws near, a swirling storm of leaves spins around you and whisks you to safety.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy enters a square adjacent to you</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shiere Knight",
+    "flavor": "As your foe draws near, a swirling storm of leaves spins around you and whisks you to safety.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy enters a square adjacent to you</p><p class=\"flavor\">Effect: You teleport 5 squares.</p>",
+    "trigger": "An enemy enters a square adjacent to you",
+    "effect": "You teleport 5 squares."
+  }
+}

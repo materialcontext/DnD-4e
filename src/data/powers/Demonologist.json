@@ -1,0 +1,64 @@
+{
+  "Demonic Possession": {
+    "id": "'15964",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Demonic Possession",
+    "type": "Attack",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDemonic Possession\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15964\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Demonologist Attack 11</span>Demonic Possession</h1><p class=\\\"flavor\\\"><i>You bind a demon to your enemy’s soul and bend the creature to your will.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Charm</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy adjacent to your quasit companion</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence or Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: You slide the target up to a number of squares equal to its speed. The target then makes a melee basic attack as a free action against a creature you choose. The target has combat advantage for the attack and a +4 power bonus to the damage roll. If the attack misses, the attacker is dazed until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Demonologist",
+    "flavor": "You bind a demon to your enemy’s soul and bend the creature to your will.",
+    "keywords": [
+      "Arcane, Charm, Implement"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One enemy adjacent to your quasit companion</p><p class=\"powerstat\">Attack: Intelligence or Charisma vs. Will</p><p class=\"flavor\">Hit: You slide the target up to a number of squares equal to its speed. The target then makes a melee basic attack as a free action against a creature you choose. The target has combat advantage for the attack and a +4 power bonus to the damage roll. If the attack misses, the attacker is dazed until the end of its next turn.</p>",
+    "target": "One enemy adjacent to your quasit companion",
+    "attack": "Intelligence or Charisma vs. Will",
+    "onHit": "You slide the target up to a number of squares equal to its speed. The target then makes a melee basic attack as a free action against a creature you choose. The target has combat advantage for the attack and a +4 power bonus to the damage roll. If the attack misses, the attacker is dazed until the end of its next turn."
+  },
+  "Demonic Hordes": {
+    "id": "'15965",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Demonic Hordes",
+    "type": "Attack",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDemonic Hordes\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15965\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Demonologist Attack 20</span>Demonic Hordes</h1><p class=\\\"flavor\\\"><i>You rip a hole in reality, letting loose a horde of minor demons that claw, rend, and trip your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close blast</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence or Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Intelligence modifier or Charisma modifier damage, and the target falls prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The blast creates a zone that lasts until the end of the encounter. While the zone persists, you can take a standard action to cause each creature in the zone to take 5 + your Intelligence modifier or Charisma modifier damage and fall prone. If the creature is already prone, it takes 5 extra damage.</p><br/>Update (4/26/2012)<br/>Changed in April 2012 updates.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Demonologist",
+    "flavor": "You rip a hole in reality, letting loose a horde of minor demons that claw, rend, and trip your foes.",
+    "keywords": [
+      "Arcane, Implement, Zone"
+    ],
+    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Intelligence or Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 2d8 + Intelligence modifier or Charisma modifier damage, and the target falls prone.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The blast creates a zone that lasts until the end of the encounter. While the zone persists, you can take a standard action to cause each creature in the zone to take 5 + your Intelligence modifier or Charisma modifier damage and fall prone. If the creature is already prone, it takes 5 extra damage.</p>",
+    "target": "Each creature in the blast",
+    "attack": "Intelligence or Charisma vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier or Charisma modifier damage, and the target falls prone.",
+    "onMiss": "Half damage.",
+    "effect": "The blast creates a zone that lasts until the end of the encounter. While the zone persists, you can take a standard action to cause each creature in the zone to take 5 + your Intelligence modifier or Charisma modifier damage and fall prone. If the creature is already prone, it takes 5 extra damage."
+  },
+  "Unnerving Gaze": {
+    "id": "'15966",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Unnerving Gaze",
+    "type": "Utility",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnnerving Gaze\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15966\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Demonologist Utility 12</span>Unnerving Gaze</h1><p class=\\\"flavor\\\"><i>You turn toward an enemy and fix it with a disturbing stare.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 3</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy that can see you hits you while within 3 squares of you.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes a -4 penalty to the attack roll and grants combat advantage to you until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Demonologist",
+    "flavor": "You turn toward an enemy and fix it with a disturbing stare.",
+    "keywords": [
+      "Arcane, Fear"
+    ],
+    "range": "Close burst 3</p><p class=\"powerstat\">Trigger: An enemy that can see you hits you while within 3 squares of you.</p><p class=\"powerstat\">Target: The triggering enemy in the burst</p><p class=\"flavor\">Effect: The target takes a -4 penalty to the attack roll and grants combat advantage to you until the end of your next turn.</p>",
+    "trigger": "An enemy that can see you hits you while within 3 squares of you.",
+    "target": "The triggering enemy in the burst",
+    "effect": "The target takes a -4 penalty to the attack roll and grants combat advantage to you until the end of your next turn."
+  }
+}

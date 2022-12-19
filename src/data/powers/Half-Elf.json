@@ -1,0 +1,95 @@
+{
+  "Knack for Success": {
+    "id": "'13689",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Knack for Success",
+    "type": "",
+    "sourceRef": "Heroes of the Forgotten Kingdoms",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nKnack for Success\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13689\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Half-Elf Racial Power</span>Knack for Success</h1><p class=\\\"flavor\\\"><i>Your mere presence is enough to tip the balance of fortune for you and your allies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one of the following.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target makes a saving throw.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target shifts up to 2 squares as a free action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target gains a +2 power bonus to his or her next attack roll made before the end of his or her next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target gains a +4 power bonus to his or her next skill check made before the end of his or her next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 252.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Half-Elf",
+    "flavor": "Your mere presence is enough to tip the balance of fortune for you and your allies.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Target: You or one ally in the burst</p><p class=\"flavor\">Effect: Choose one of the following."
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: You or one ally in the burst</p><p class=\"flavor\">Effect: Choose one of the following.",
+    "target": "You or one ally in the burst",
+    "effect": "Choose one of the following.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target makes a saving throw.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target shifts up to 2 squares as a free action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target gains a +2 power bonus to his or her next attack roll made before the end of his or her next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target gains a +4 power bonus to his or her next skill check made before the end of his or her next turn."
+  },
+  "Help Is Here": {
+    "id": "'14387",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Help Is Here",
+    "type": "",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHelp Is Here\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14387\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Half-Elf Racial Utility 2</span>Help Is Here</h1><p class=\\\"flavor\\\"><i>An encouraging word and subtle direction help an ally complete his or her task.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You successfully use the aid another action on an adjacent ally.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Half-Elf",
+    "flavor": "An encouraging word and subtle direction help an ally complete his or her task.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You successfully use the aid another action on an adjacent ally.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You successfully use the aid another action on an adjacent ally.</p>",
+    "effect": "You successfully use the aid another action on an adjacent ally."
+  },
+  "Sudden Switch": {
+    "id": "'14388",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Sudden Switch",
+    "type": "",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSudden Switch\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14388\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Half-Elf Racial Utility 6</span>Sudden Switch</h1><p class=\\\"flavor\\\"><i>You whirl through melee, causing another combatant to be caught up in your dance while catching your enemies by surprise.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: You and the target swap positions. Until the end of your next turn, you gain combat advantage against enemies adjacent to you after the swap.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Half-Elf",
+    "flavor": "You whirl through melee, causing another combatant to be caught up in your dance while catching your enemies by surprise.",
+    "keywords": [
+      "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: You and the target swap positions. Until the end of your next turn, you gain combat advantage against enemies adjacent to you after the swap.</p>"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: You and the target swap positions. Until the end of your next turn, you gain combat advantage against enemies adjacent to you after the swap.</p>",
+    "target": "One creature",
+    "effect": "You and the target swap positions. Until the end of your next turn, you gain combat advantage against enemies adjacent to you after the swap."
+  },
+  "Lockstep": {
+    "id": "'14389",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Lockstep",
+    "type": "",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLockstep\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14389\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Half-Elf Racial Utility 10</span>Lockstep</h1><p class=\\\"flavor\\\"><i>Wherever you go, your friend follows.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: You and one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can shift up to 6 squares as a free action. The targets must end this movement adjacent to each other.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Half-Elf",
+    "flavor": "Wherever you go, your friend follows.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 1</p><p class=\"powerstat\">Target: You and one ally</p><p class=\"flavor\">Effect: Each target can shift up to 6 squares as a free action. The targets must end this movement adjacent to each other.</p>"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: You and one ally</p><p class=\"flavor\">Effect: Each target can shift up to 6 squares as a free action. The targets must end this movement adjacent to each other.</p>",
+    "target": "You and one ally",
+    "effect": "Each target can shift up to 6 squares as a free action. The targets must end this movement adjacent to each other."
+  },
+  "Persuasive Words": {
+    "id": "'14390",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Persuasive Words",
+    "type": "",
+    "sourceRef": "Dragon Magazine 402",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPersuasive Words\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14390\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Half-Elf Racial Utility 16</span>Persuasive Words</h1><p class=\\\"flavor\\\"><i>You summon up your personal reserves and put everything into understanding the situation and getting the results you need.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: For 5 minutes or until the end of the encounter, you gain a +5 power bonus to Bluff, Diplomacy, Insight, and Intimidate checks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Half-Elf",
+    "flavor": "You summon up your personal reserves and put everything into understanding the situation and getting the results you need.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: For 5 minutes or until the end of the encounter, you gain a +5 power bonus to Bluff, Diplomacy, Insight, and Intimidate checks.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: For 5 minutes or until the end of the encounter, you gain a +5 power bonus to Bluff, Diplomacy, Insight, and Intimidate checks.</p>",
+    "effect": "For 5 minutes or until the end of the encounter, you gain a +5 power bonus to Bluff, Diplomacy, Insight, and Intimidate checks."
+  }
+}

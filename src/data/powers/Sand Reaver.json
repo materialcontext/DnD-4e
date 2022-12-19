@@ -1,0 +1,63 @@
+{
+  "Reckless Fury": {
+    "id": "'12371",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Reckless Fury",
+    "type": "Reaver",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReckless Fury\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12371\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sand Reaver Attack 11</span>Reckless Fury</h1><p class=\\\"flavor\\\"><i>Friend and foe alike must flee to escape your wild rage and whirling weapons.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + ability modifier damage. If the target ends its next turn adjacent to you, it provokes an opportunity attack from you.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You grant combat advantage until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sand Reaver",
+    "flavor": "Friend and foe alike must flee to escape your wild rage and whirling weapons.",
+    "keywords": [
+      "Primal, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 2[W] + ability modifier damage. If the target ends its next turn adjacent to you, it provokes an opportunity attack from you.</p><p class=\"powerstat\">Effect: You grant combat advantage until the start of your next turn.</p>",
+    "target": "Each creature in the burst",
+    "attack": "Primary ability vs. AC",
+    "onHit": "2[W] + ability modifier damage. If the target ends its next turn adjacent to you, it provokes an opportunity attack from you.",
+    "effect": "You grant combat advantage until the start of your next turn."
+  },
+  "Reaving Brutality": {
+    "id": "'12372",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Reaving Brutality",
+    "type": "Reaver",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReaving Brutality\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12372\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sand Reaver Attack 20</span>Reaving Brutality</h1><p class=\\\"flavor\\\"><i>Your brutal attack leaves the enemy with a difficult choice—stand and fight, or flee the battlefield.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + ability modifier damage, and the target cannot shift (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target cannot shift until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: If the target is bloodied but still conscious after you use this power, you can spend a healing surge as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sand Reaver",
+    "flavor": "Your brutal attack leaves the enemy with a difficult choice—stand and fight, or flee the battlefield.",
+    "keywords": [
+      "Healing, Primal, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 4[W] + ability modifier damage, and the target cannot shift (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target cannot shift until the end of your next turn.</p><p class=\"flavor\">Effect: If the target is bloodied but still conscious after you use this power, you can spend a healing surge as a free action.</p>",
+    "target": "One creature",
+    "attack": "Primary ability vs. AC",
+    "onHit": "4[W] + ability modifier damage, and the target cannot shift (save ends).",
+    "onMiss": "Half damage, and the target cannot shift until the end of your next turn.",
+    "effect": "If the target is bloodied but still conscious after you use this power, you can spend a healing surge as a free action."
+  },
+  "Bloody Harvest": {
+    "id": "'12374",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Bloody Harvest",
+    "type": "Reaver",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBloody Harvest\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12374\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sand Reaver Utility 12</span>Bloody Harvest</h1><p class=\\\"flavor\\\"><i>Each foe you drop adds power to your destructive melee attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the bloody harvest stance. Until the stance ends, each time you reduce an enemy to 0 hit points with a melee weapon attack, you gain a bonus to the next damage roll you make with a melee weapon attack before the end of your next turn. The bonus equals your primary ability modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sand Reaver",
+    "flavor": "Each foe you drop adds power to your destructive melee attacks.",
+    "keywords": [
+      "Primal, Stance"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You assume the bloody harvest stance. Until the stance ends, each time you reduce an enemy to 0 hit points with a melee weapon attack, you gain a bonus to the next damage roll you make with a melee weapon attack before the end of your next turn. The bonus equals your primary ability modifier.</p>",
+    "effect": "You assume the bloody harvest stance. Until the stance ends, each time you reduce an enemy to 0 hit points with a melee weapon attack, you gain a bonus to the next damage roll you make with a melee weapon attack before the end of your next turn. The bonus equals your primary ability modifier."
+  }
+}

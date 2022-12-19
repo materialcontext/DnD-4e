@@ -1,0 +1,62 @@
+{
+  "Accursed Shroud": {
+    "id": "'1693",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Accursed Shroud",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAccursed Shroud\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1693\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Doomsayer Utility 12</span>Accursed Shroud</h1><p class=\\\"flavor\\\"><i>You envelop your enemy in an inky cloak of shadow that writhes and coils around him, twisting her attacks against you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: You place your Warlock’s Curse upon the target. In addition, it must reroll any successful attack it makes while affected by your curse and take the new result.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 140, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Doomsayer",
+    "flavor": "You envelop your enemy in an inky cloak of shadow that writhes and coils around him, twisting her attacks against you.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: You place your Warlock’s Curse upon the target. In addition, it must reroll any successful attack it makes while affected by your curse and take the new result.</p>",
+    "target": "One creature",
+    "effect": "You place your Warlock’s Curse upon the target. In addition, it must reroll any successful attack it makes while affected by your curse and take the new result."
+  },
+  "Fates Entwined": {
+    "id": "'1644",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Fates Entwined",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFates Entwined\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1644\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Doomsayer Attack 11</span>Fates Entwined</h1><p class=\\\"flavor\\\"><i>You lodge a painful psychic shard in your enemy’s brain that resonates whenever you take damage.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>:  One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma or Constitution vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Charisma modifier or Constitution modifier psychic damage. Until the end of your next turn, when you take damage, the target takes half that amount of psychic damage.</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 140, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Doomsayer",
+    "flavor": "You lodge a painful psychic shard in your enemy’s brain that resonates whenever you take damage.",
+    "keywords": [
+      "Arcane, Fear, Implement, Psychic"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target:  One creature</p><p class=\"powerstat\">Attack: Charisma or Constitution vs. Will</p><p class=\"flavor\">Hit: 2d8 + Charisma modifier or Constitution modifier psychic damage. Until the end of your next turn, when you take damage, the target takes half that amount of psychic damage.</p>",
+    "target": "One creature",
+    "attack": "Charisma or Constitution vs. Will",
+    "onHit": "2d8 + Charisma modifier or Constitution modifier psychic damage. Until the end of your next turn, when you take damage, the target takes half that amount of psychic damage."
+  },
+  "Long Fall into Darkness": {
+    "id": "'1645",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Long Fall into Darkness",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook, Class Compendium",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLong Fall into Darkness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1645\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Doomsayer Attack 20</span>Long Fall into Darkness</h1><p class=\\\"flavor\\\"><i>You point a finger at your foe, and a gaping pit opens beneath him. The pit is merely a figment of his imagination, but he plunges into the darkness nonetheless until, at last, he hits the bottom.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b>, <b>Illusion</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma or Constitution vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d8 + Charisma modifier or Constitution modifier psychic damage, and the target is stunned until the end of its next turn and knocked prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is dazed until the end of its next turn.</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 141, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Doomsayer",
+    "flavor": "You point a finger at your foe, and a gaping pit opens beneath him. The pit is merely a figment of his imagination, but he plunges into the darkness nonetheless until, at last, he hits the bottom.",
+    "keywords": [
+      "Arcane, Fear, Illusion, Implement, Psychic"
+    ],
+    "range": "Ranged 20</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma or Constitution vs. Will</p><p class=\"flavor\">Hit: 4d8 + Charisma modifier or Constitution modifier psychic damage, and the target is stunned until the end of its next turn and knocked prone.</p><p class=\"powerstat\">Miss: Half damage, and the target is dazed until the end of its next turn.</p>",
+    "target": "One creature",
+    "attack": "Charisma or Constitution vs. Will",
+    "onHit": "4d8 + Charisma modifier or Constitution modifier psychic damage, and the target is stunned until the end of its next turn and knocked prone.",
+    "onMiss": "Half damage, and the target is dazed until the end of its next turn."
+  }
+}

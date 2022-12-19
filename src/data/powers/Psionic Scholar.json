@@ -1,0 +1,62 @@
+{
+  "Psionic Capture": {
+    "id": "'12255",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Psionic Capture",
+    "type": "Scholar",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPsionic Capture\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12255\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Psionic Scholar Attack 11</span>Psionic Capture</h1><p class=\\\"flavor\\\"><i>You compel your foe to remain still as you probe its mind and erode its defenses.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Psionic</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + ability modifier psychic damage, and the target is immobilized until the end of your next turn. In addition, until the end of your next turn the target either loses one resistance of your choice or takes a -2 penalty to the defense of your choice.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Psionic Scholar",
+    "flavor": "You compel your foe to remain still as you probe its mind and erode its defenses.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. Will</p><p class=\"flavor\">Hit: 2d6 + ability modifier psychic damage, and the target is immobilized until the end of your next turn. In addition, until the end of your next turn the target either loses one resistance of your choice or takes a -2 penalty to the defense of your choice.</p>",
+    "target": "One creature",
+    "attack": "Primary ability vs. Will",
+    "onHit": "2d6 + ability modifier psychic damage, and the target is immobilized until the end of your next turn. In addition, until the end of your next turn the target either loses one resistance of your choice or takes a -2 penalty to the defense of your choice."
+  },
+  "Perfected Discipline": {
+    "id": "'12256",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Perfected Discipline",
+    "type": "Scholar",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPerfected Discipline\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12256\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Psionic Scholar Attack 20</span>Perfected Discipline</h1><p class=\\\"flavor\\\"><i>Using your knowledge of all types of psionic power, you attack your enemies’ minds and construct ethereal chains and enervating spikes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Psionic</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 3 within 20 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: One, two, or three enemies in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Fortitude, Reflex, and Will</p><p class=\\\"flavor\\\"><b>Hit (Fortitude)</b>: The target is weakened (save ends).</p><p class=\\\"powerstat\\\"><b>Hit (Reflex)</b>: The target is restrained (save ends).</p><p class=\\\"flavor\\\"><b>Hit (Will)</b>: The target takes ongoing 15 psychic damage (save ends).</p><p class=\\\"powerstat\\\"><b>Special</b>: One saving throw ends all effects on a single target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Psionic Scholar",
+    "flavor": "Using your knowledge of all types of psionic power, you attack your enemies’ minds and construct ethereal chains and enervating spikes.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 3 within 20 squares</p><p class=\"powerstat\">Target: One, two, or three enemies in the burst</p><p class=\"powerstat\">Attack: Primary ability vs. Fortitude, Reflex, and Will</p><p class=\"flavor\">Hit (Fortitude): The target is weakened (save ends).</p><p class=\"powerstat\">Hit (Reflex): The target is restrained (save ends).</p><p class=\"flavor\">Hit (Will): The target takes ongoing 15 psychic damage (save ends).</p><p class=\"powerstat\">Special: One saving throw ends all effects on a single target.</p>",
+    "target": "One, two, or three enemies in the burst",
+    "attack": "Primary ability vs. Fortitude, Reflex, and Will",
+    "special": "One saving throw ends all effects on a single target."
+  },
+  "Mental Juxtaposition": {
+    "id": "'12257",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Mental Juxtaposition",
+    "type": "Scholar",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMental Juxtaposition\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12257\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Psionic Scholar Utility 12</span>Mental Juxtaposition</h1><p class=\\\"flavor\\\"><i>By predicting your enemy’s next attack, you devise the perfect strategy to both avoid it and retaliate.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy in the burst hits an ally with an attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes a -5 penalty to the attack roll and takes a -5 penalty to the defense the attack was made against until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Psionic Scholar",
+    "flavor": "By predicting your enemy’s next attack, you devise the perfect strategy to both avoid it and retaliate.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Trigger: An enemy in the burst hits an ally with an attack.</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"flavor\">Effect: The target takes a -5 penalty to the attack roll and takes a -5 penalty to the defense the attack was made against until the end of its next turn.</p>",
+    "trigger": "An enemy in the burst hits an ally with an attack.",
+    "target": "The triggering enemy",
+    "effect": "The target takes a -5 penalty to the attack roll and takes a -5 penalty to the defense the attack was made against until the end of its next turn."
+  }
+}

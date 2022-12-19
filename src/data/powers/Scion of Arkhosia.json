@@ -1,0 +1,63 @@
+{
+  "Dragon's Wrath": {
+    "id": "'5487",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Dragon's Wrath",
+    "type": "of",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragon's Wrath\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5487\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Scion of Arkhosia Attack 11</span>Dragon's Wrath</h1><p class=\\\"flavor\\\"><i>You exhale draconic energy that detonates at a distance.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Constitution, or Dexterity + 4 vs. Reflex<br/>Level 21: Strength, Constitution, or Dexterity + 6 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Constitution modifier damage.</p><p class=\\\"powerstat\\\"><b>Special</b>: This power uses the same ability as your dragon breath racial power, and it uses the same damage type you initially chose for that power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Scion of Arkhosia",
+    "flavor": "You exhale draconic energy that detonates at a distance.",
+    "keywords": [
+      "Varies"
+    ],
+    "range": "Area burst 2 within 10 squares</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength, Constitution, or Dexterity + 4 vs. Reflex",
+    "target": "Each enemy in the burst",
+    "attack": "Strength, Constitution, or Dexterity + 4 vs. Reflex<br/>Level 21: Strength, Constitution, or Dexterity + 6 vs. Reflex",
+    "onHit": "3d6 + Constitution modifier damage.",
+    "special": "This power uses the same ability as your dragon breath racial power, and it uses the same damage type you initially chose for that power."
+  },
+  "Dragon Wings": {
+    "id": "'5488",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "At-Will",
+    "level": "12",
+    "name": "Dragon Wings",
+    "type": "of",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragon Wings\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5488\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Scion of Arkhosia Utility 12</span>Dragon Wings</h1><p class=\\\"flavor\\\"><i>Fully formed dragon wings protrude from your back, giving you the ability to fly.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp;<br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You fly a number of squares equal to your speed. You must land at the end of this movement.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Scion of Arkhosia",
+    "flavor": "Fully formed dragon wings protrude from your back, giving you the ability to fly.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You fly a number of squares equal to your speed. You must land at the end of this movement.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You fly a number of squares equal to your speed. You must land at the end of this movement.</p>",
+    "effect": "You fly a number of squares equal to your speed. You must land at the end of this movement."
+  },
+  "Clinging Breath": {
+    "id": "'5489",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Clinging Breath",
+    "type": "of",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nClinging Breath\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5489\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Scion of Arkhosia Attack 20</span>Clinging Breath</h1><p class=\\\"flavor\\\"><i>Your breath weapon clings to creatures before you, eating them alive.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Constitution, or Dexterity + 6 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Constitution modifier damage, and ongoing 10 damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 5 damage (save ends).</p><p class=\\\"flavor\\\"><b>Special</b>: This power uses the same ability as your dragon breath racial power, and it uses the same damage type you initially chose for that power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Scion of Arkhosia",
+    "flavor": "Your breath weapon clings to creatures before you, eating them alive.",
+    "keywords": [
+      "Varies"
+    ],
+    "range": "Close blast 3</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Strength, Constitution, or Dexterity + 6 vs. Reflex</p><p class=\"flavor\">Hit: 3d6 + Constitution modifier damage, and ongoing 10 damage (save ends).</p><p class=\"powerstat\">Miss: Half damage, and ongoing 5 damage (save ends).</p><p class=\"flavor\">Special: This power uses the same ability as your dragon breath racial power, and it uses the same damage type you initially chose for that power.</p>",
+    "target": "Each creature in the blast",
+    "attack": "Strength, Constitution, or Dexterity + 6 vs. Reflex",
+    "onHit": "3d6 + Constitution modifier damage, and ongoing 10 damage (save ends).",
+    "onMiss": "Half damage, and ongoing 5 damage (save ends).",
+    "special": "This power uses the same ability as your dragon breath racial power, and it uses the same damage type you initially chose for that power."
+  }
+}

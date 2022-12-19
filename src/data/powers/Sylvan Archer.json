@@ -1,0 +1,65 @@
+{
+  "Shaft Splitter": {
+    "id": "'4709",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Shaft Splitter",
+    "type": "Archer",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShaft Splitter\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4709\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sylvan Archer Attack 11</span>Shaft Splitter</h1><p class=\\\"flavor\\\"><i>As your foe launches his attack, you loose a shot right down his sights.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you or an ally within 5 squares of you with a ranged attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Dexterity modifier damage, and the target takes a –5 penalty to the triggering attack roll.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sylvan Archer",
+    "flavor": "As your foe launches his attack, you loose a shot right down his sights.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Ranged weapon</p><p class=\"powerstat\">Trigger: An enemy hits you or an ally within 5 squares of you with a ranged attack</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Dexterity vs. Reflex</p><p class=\"flavor\">Hit: 2[W] + Dexterity modifier damage, and the target takes a –5 penalty to the triggering attack roll.</p>",
+    "trigger": "An enemy hits you or an ally within 5 squares of you with a ranged attack",
+    "target": "The triggering enemy",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "2[W] + Dexterity modifier damage, and the target takes a –5 penalty to the triggering attack roll."
+  },
+  "Elf-Eyed Archery": {
+    "id": "'4710",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Elf-Eyed Archery",
+    "type": "Archer",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElf-Eyed Archery\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4710\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sylvan Archer Utility 12</span>Elf-Eyed Archery</h1><p class=\\\"flavor\\\"><i>You can easily divide your attention between chosen targets.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> sight</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: You designate the target as your quarry, even if it isn’t the closest enemy to you. The target doesn’t count against your normal limit of one quarry at a time, although you can still deal your Hunter’s Quarry damage only once per round.</p><p class=\\\"powerstat\\\"><b>Special</b>: Using this power doesn’t provoke opportunity attacks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sylvan Archer",
+    "flavor": "You can easily divide your attention between chosen targets.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Ranged sight</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: You designate the target as your quarry, even if it isn’t the closest enemy to you. The target doesn’t count against your normal limit of one quarry at a time, although you can still deal your Hunter’s Quarry damage only once per round.</p><p class=\"powerstat\">Special: Using this power doesn’t provoke opportunity attacks.</p>",
+    "target": "One creature",
+    "effect": "You designate the target as your quarry, even if it isn’t the closest enemy to you. The target doesn’t count against your normal limit of one quarry at a time, although you can still deal your Hunter’s Quarry damage only once per round.",
+    "special": "Using this power doesn’t provoke opportunity attacks."
+  },
+  "Named Arrow": {
+    "id": "'4711",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Named Arrow",
+    "type": "Archer",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNamed Arrow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4711\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sylvan Archer Attack 20</span>Named Arrow</h1><p class=\\\"flavor\\\"><i>Whispering your foe’s name in Elven, you loose your arrow and watch it streak unerringly across the battlefield.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: If you speak the target’s name when you use this power, you designate the target as your quarry and take no penalties to the attack roll for cover, superior cover, concealment, or total concealment.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Dexterity modifier damage, and the target is dazed (save ends). If you spoke the target’s name, instead of being dazed, the target is stunned (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is dazed until the end of its next turn. If you spoke the target’s name, instead of being dazed, the target is stunned until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Sylvan Archer",
+    "flavor": "Whispering your foe’s name in Elven, you loose your arrow and watch it streak unerringly across the battlefield.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: If you speak the target’s name when you use this power, you designate the target as your quarry and take no penalties to the attack roll for cover, superior cover, concealment, or total concealment.</p><p class=\"powerstat\">Attack: Dexterity vs. Will</p><p class=\"flavor\">Hit: 4[W] + Dexterity modifier damage, and the target is dazed (save ends). If you spoke the target’s name, instead of being dazed, the target is stunned (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is dazed until the end of its next turn. If you spoke the target’s name, instead of being dazed, the target is stunned until the end of its next turn.</p>",
+    "target": "One creature",
+    "effect": "If you speak the target’s name when you use this power, you designate the target as your quarry and take no penalties to the attack roll for cover, superior cover, concealment, or total concealment.",
+    "attack": "Dexterity vs. Will",
+    "onHit": "4[W] + Dexterity modifier damage, and the target is dazed (save ends). If you spoke the target’s name, instead of being dazed, the target is stunned (save ends).",
+    "onMiss": "Half damage, and the target is dazed until the end of its next turn. If you spoke the target’s name, instead of being dazed, the target is stunned until the end of its next turn."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Barreling Swing": {
+    "id": "'10581",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Barreling Swing",
+    "type": "Brute",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBarreling Swing\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10581\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rampaging Brute Attack 11</span>Barreling Swing</h1><p class=\\\"flavor\\\"><i>You rush through your foes, swinging your weapon in sweeping arcs as you arrive in their midst.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Effect</b>: You charge and make the following attack in place of a melee basic attack. When charging, you can move through enemies’ squares.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;&nbsp;&nbsp;<b>Weapon</b>: If you’re wielding a two-handed mace or a two-handed hammer, the attack deals extra damage equal to your Constitution modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Rampaging Brute",
+    "flavor": "You rush through your foes, swinging your weapon in sweeping arcs as you arrive in their midst.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"flavor\">Effect: You charge and make the following attack in place of a melee basic attack. When charging, you can move through enemies’ squares.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: Each enemy in the burst you can see</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 2[W] + Strength modifier damage.</p><p class=\"powerstat\">&nbsp;&nbsp;&nbsp;&nbsp;Weapon: If you’re wielding a two-handed mace or a two-handed hammer, the attack deals extra damage equal to your Constitution modifier.</p>",
+    "effect": "You charge and make the following attack in place of a melee basic attack. When charging, you can move through enemies’ squares.",
+    "target": "Each enemy in the burst you can see",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage.",
+    "weapon": "If you’re wielding a two-handed mace or a two-handed hammer, the attack deals extra damage equal to your Constitution modifier."
+  },
+  "Brutal Fury": {
+    "id": "'10582",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Brutal Fury",
+    "type": "Brute",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBrutal Fury\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10582\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Rampaging Brute Attack 20</span>Brutal Fury</h1><p class=\\\"flavor\\\"><i>Seeing one enemy fall before your might stokes your bloodlust.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You reduce an enemy to 0 hit points</p><p class=\\\"flavor\\\"><b>Effect</b>: You charge and make the following attack in place of a melee basic attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: One creature</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 3[W] + Strength modifier + Constitution modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Rampaging Brute",
+    "flavor": "Seeing one enemy fall before your might stokes your bloodlust.",
+    "keywords": [
+      "Martial, Reliable, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: You reduce an enemy to 0 hit points</p><p class=\"flavor\">Effect: You charge and make the following attack in place of a melee basic attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 3[W] + Strength modifier + Constitution modifier damage.</p>",
+    "trigger": "You reduce an enemy to 0 hit points",
+    "effect": "You charge and make the following attack in place of a melee basic attack.",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "3[W] + Strength modifier + Constitution modifier damage."
+  },
+  "Tumbling Trample": {
+    "id": "'10584",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Tumbling Trample",
+    "type": "Brute",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTumbling Trample\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10584\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rampaging Brute Utility 12</span>Tumbling Trample</h1><p class=\\\"flavor\\\"><i>You muscle aside enemies that stand between you and your chosen foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You move out of a square occupied by an enemy</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: You push the target 2 squares and knock it prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Rampaging Brute",
+    "flavor": "You muscle aside enemies that stand between you and your chosen foe.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Trigger: You move out of a square occupied by an enemy</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"flavor\">Effect: You push the target 2 squares and knock it prone.</p>",
+    "trigger": "You move out of a square occupied by an enemy",
+    "target": "The triggering enemy",
+    "effect": "You push the target 2 squares and knock it prone."
+  }
+}

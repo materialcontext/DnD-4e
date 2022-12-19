@@ -1,0 +1,64 @@
+{
+  "Steel Scream": {
+    "id": "'4682",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Steel Scream",
+    "type": "Banshee",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSteel Scream\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4682\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Blade Banshee Attack 11</span>Steel Scream</h1><p class=\\\"flavor\\\"><i>You clash your blades together, unleashing a mind-numbing screech.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Thunder</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a longsword and another melee weapon.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier thunder damage, and the target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 59.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blade Banshee",
+    "flavor": "You clash your blades together, unleashing a mind-numbing screech.",
+    "keywords": [
+      "Martial, Thunder, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"flavor\">Requirement: You must be wielding a longsword and another melee weapon.</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Strength vs. Will</p><p class=\"flavor\">Hit: 1[W] + Strength modifier thunder damage, and the target is dazed until the end of your next turn.</p>",
+    "requirement": "You must be wielding a longsword and another melee weapon.",
+    "target": "Each creature in the burst",
+    "attack": "Strength vs. Will",
+    "onHit": "1[W] + Strength modifier thunder damage, and the target is dazed until the end of your next turn."
+  },
+  "Soothing Reverberation": {
+    "id": "'4683",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Soothing Reverberation",
+    "type": "Banshee",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoothing Reverberation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4683\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Blade Banshee Utility 12</span>Soothing Reverberation</h1><p class=\\\"flavor\\\"><i>With a soft sweep, your blades purr, reaching out to the minds of nearby allies and revitalizing them.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a longsword and another melee weapon.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can spend a healing surge either to regain hit points or to negate being dazed or stunned.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 59.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blade Banshee",
+    "flavor": "With a soft sweep, your blades purr, reaching out to the minds of nearby allies and revitalizing them.",
+    "keywords": [
+      "Healing, Martial, Weapon"
+    ],
+    "range": "Close burst 3</p><p class=\"flavor\">Requirement: You must be wielding a longsword and another melee weapon.</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: Each target can spend a healing surge either to regain hit points or to negate being dazed or stunned.</p>",
+    "requirement": "You must be wielding a longsword and another melee weapon.",
+    "target": "Each ally in the burst",
+    "effect": "Each target can spend a healing surge either to regain hit points or to negate being dazed or stunned."
+  },
+  "Mind-Bending Blades": {
+    "id": "'4684",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Mind-Bending Blades",
+    "type": "Banshee",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMind-Bending Blades\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4684\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Blade Banshee Attack 20</span>Mind-Bending Blades</h1><p class=\\\"flavor\\\"><i>You use your blades to set up a fey harmonic pattern, allowing you to control your target until you unleash the sound in a disruptive wail.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Martial</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a longsword and another melee weapon.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage, and the target is dominated (save ends). As a standard action, you can end the dominated effect and deal 5d6 thunder damage to the target and each creature adjacent to it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 59.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blade Banshee",
+    "flavor": "You use your blades to set up a fey harmonic pattern, allowing you to control your target until you unleash the sound in a disruptive wail.",
+    "keywords": [
+      "Charm, Martial, Reliable, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding a longsword and another melee weapon.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. Fortitude</p><p class=\"flavor\">Hit: 1[W] + Strength modifier damage, and the target is dominated (save ends). As a standard action, you can end the dominated effect and deal 5d6 thunder damage to the target and each creature adjacent to it.</p>",
+    "requirement": "You must be wielding a longsword and another melee weapon.",
+    "target": "One creature",
+    "attack": "Strength vs. Fortitude",
+    "onHit": "1[W] + Strength modifier damage, and the target is dominated (save ends). As a standard action, you can end the dominated effect and deal 5d6 thunder damage to the target and each creature adjacent to it."
+  }
+}

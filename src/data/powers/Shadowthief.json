@@ -1,0 +1,63 @@
+{
+  "Shadow Lance": {
+    "id": "'14059",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Shadow Lance",
+    "type": "Attack",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Lance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14059\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadowthief Attack 11</span>Shadow Lance</h1><p class=\\\"flavor\\\"><i>A potent spike of darkness lances out at your foe, sundering its life force for your own use.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Necrotic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence or Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Intelligence or Charisma modifier necrotic damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain one shadow. If the attack hits, you instead gain two shadows. If the attack reduces the target to 0 hit points, you instead gain three shadows. These shadows are in addition to the ones you gain from your Shadow Feast path feature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadowthief",
+    "flavor": "A potent spike of darkness lances out at your foe, sundering its life force for your own use.",
+    "keywords": [
+      "Arcane, Implement, Necrotic, Shadow"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence or Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 2d10 + Intelligence or Charisma modifier necrotic damage.</p><p class=\"powerstat\">Effect: You gain one shadow. If the attack hits, you instead gain two shadows. If the attack reduces the target to 0 hit points, you instead gain three shadows. These shadows are in addition to the ones you gain from your Shadow Feast path feature.</p>",
+    "target": "One creature",
+    "attack": "Intelligence or Charisma vs. Fortitude",
+    "onHit": "2d10 + Intelligence or Charisma modifier necrotic damage.",
+    "effect": "You gain one shadow. If the attack hits, you instead gain two shadows. If the attack reduces the target to 0 hit points, you instead gain three shadows. These shadows are in addition to the ones you gain from your Shadow Feast path feature."
+  },
+  "Shadowcurse Cataclysm": {
+    "id": "'14060",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Shadowcurse Cataclysm",
+    "type": "Attack",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadowcurse Cataclysm\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14060\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shadowthief Attack 20</span>Shadowcurse Cataclysm</h1><p class=\\\"flavor\\\"><i>You raise your hands to the sky, calling down a storm of shadow against your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Necrotic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy in the burst; for every two shadows you spend, this power targets an additional enemy in the burst.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence or Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 5d6 + Intelligence or Charisma modifier necrotic damage, and the target is immobilized (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is immobilized until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadowthief",
+    "flavor": "You raise your hands to the sky, calling down a storm of shadow against your foes.",
+    "keywords": [
+      "Arcane, Implement, Necrotic, Shadow"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Target: One enemy in the burst; for every two shadows you spend, this power targets an additional enemy in the burst.</p><p class=\"powerstat\">Attack: Intelligence or Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 5d6 + Intelligence or Charisma modifier necrotic damage, and the target is immobilized (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is immobilized until the end of your next turn.</p>",
+    "target": "One enemy in the burst; for every two shadows you spend, this power targets an additional enemy in the burst.",
+    "attack": "Intelligence or Charisma vs. Fortitude",
+    "onHit": "5d6 + Intelligence or Charisma modifier necrotic damage, and the target is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is immobilized until the end of your next turn."
+  },
+  "Shadow Walk": {
+    "id": "'14061",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Shadow Walk",
+    "type": "Utility",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Walk\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14061\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadowthief Utility 12</span>Shadow Walk</h1><p class=\\\"flavor\\\"><i>The shadows of the creatures you have slain unfurl across the battlefield, forming a path that only you can walk.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Shadow</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must have at least one shadow available to spend.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You spend at least one shadow and teleport up to 5 squares plus 2 squares per additional shadow spent.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadowthief",
+    "flavor": "The shadows of the creatures you have slain unfurl across the battlefield, forming a path that only you can walk.",
+    "keywords": [
+      "Arcane, Shadow, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must have at least one shadow available to spend.</p><p class=\"powerstat\">Effect: You spend at least one shadow and teleport up to 5 squares plus 2 squares per additional shadow spent.</p>",
+    "requirement": "You must have at least one shadow available to spend.",
+    "effect": "You spend at least one shadow and teleport up to 5 squares plus 2 squares per additional shadow spent."
+  }
+}

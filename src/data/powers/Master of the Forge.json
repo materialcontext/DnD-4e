@@ -1,0 +1,66 @@
+{
+  "Call of Iron": {
+    "id": "'11455",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Call of Iron",
+    "type": "of",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCall of Iron\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11455\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master of the Forge Attack 11</span>Call of Iron</h1><p class=\\\"flavor\\\"><i>As you strike your foe, you awaken within your allies’ weapons and armor the indomitable power of iron.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Runic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Rune of Destruction</b>: Until the end of your next turn, each ally who hits the target with a weapon attack deals 1[W] extra damage.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Rune of Protection</b>: Each ally within 5 squares of you gains a +2 power bonus to AC, or a +4 power bonus if the ally is wearing heavy armor. The bonus lasts until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master of the Forge",
+    "flavor": "As you strike your foe, you awaken within your allies’ weapons and armor the indomitable power of iron.",
+    "keywords": [
+      "Divine, Runic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage.</p><p class=\"powerstat\">&nbsp;&nbsp;Rune of Destruction: Until the end of your next turn, each ally who hits the target with a weapon attack deals 1[W] extra damage.</p><p class=\"flavor\">&nbsp;&nbsp;Rune of Protection: Each ally within 5 squares of you gains a +2 power bonus to AC, or a +4 power bonus if the ally is wearing heavy armor. The bonus lasts until the end of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage.",
+    "runeOfDestruction": "Until the end of your next turn, each ally who hits the target with a weapon attack deals 1[W] extra damage.",
+    "runeOfProtection": "Each ally within 5 squares of you gains a +2 power bonus to AC, or a +4 power bonus if the ally is wearing heavy armor. The bonus lasts until the end of your next turn."
+  },
+  "Fury of the Forge": {
+    "id": "'11456",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Fury of the Forge",
+    "type": "of",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFury of the Forge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11456\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master of the Forge Attack 20</span>Fury of the Forge</h1><p class=\\\"flavor\\\"><i>As your weapon crashes into your foe, you call on the forge rune to scorch that enemy</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Fire</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier fire damage, and ongoing 10 fire damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 5 fire damage (save ends).</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the target saves against the ongoing fire damage, your allies deal 1d6 extra fire damage when they hit it with melee attacks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master of the Forge",
+    "flavor": "As your weapon crashes into your foe, you call on the forge rune to scorch that enemy",
+    "keywords": [
+      "Divine, Fire, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier fire damage, and ongoing 10 fire damage (save ends).</p><p class=\"powerstat\">Miss: Half damage, and ongoing 5 fire damage (save ends).</p><p class=\"flavor\">Effect: Until the target saves against the ongoing fire damage, your allies deal 1d6 extra fire damage when they hit it with melee attacks.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "3[W] + Strength modifier fire damage, and ongoing 10 fire damage (save ends).",
+    "onMiss": "Half damage, and ongoing 5 fire damage (save ends).",
+    "effect": "Until the target saves against the ongoing fire damage, your allies deal 1d6 extra fire damage when they hit it with melee attacks."
+  },
+  "Blessing of the Forge": {
+    "id": "'11457",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "At-Will",
+    "level": "12",
+    "name": "Blessing of the Forge",
+    "type": "of",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlessing of the Forge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11457\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Master of the Forge Utility 12</span>Blessing of the Forge</h1><p class=\\\"flavor\\\"><i>At your touch, your ally’s armor gains unmatched strength, causing even the mightiest blow to bounce off it.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, the target gains a +2 power bonus to AC, or a +4 power bonus if the target is wearing heavy armor.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power only once per round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master of the Forge",
+    "flavor": "At your touch, your ally’s armor gains unmatched strength, causing even the mightiest blow to bounce off it.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Melee touch</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: Until the end of your next turn, the target gains a +2 power bonus to AC, or a +4 power bonus if the target is wearing heavy armor.</p><p class=\"powerstat\">Special: You can use this power only once per round.</p>",
+    "target": "One ally",
+    "effect": "Until the end of your next turn, the target gains a +2 power bonus to AC, or a +4 power bonus if the target is wearing heavy armor.",
+    "special": "You can use this power only once per round."
+  }
+}

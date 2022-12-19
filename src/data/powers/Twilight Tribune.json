@@ -1,0 +1,20 @@
+{
+  "Tribune's Authority": {
+    "id": "'14068",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "26",
+    "name": "Tribune's Authority",
+    "type": "Tribune",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTribune's Authority\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14068\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Twilight Tribune Utility 26</span>Tribune's Authority</h1><p class=\\\"flavor\\\"><i>Shadow unfurls around you as your body fades, and you are filled with the dread authority that is your destiny.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the tribune’s authority stance. Until the stance ends, you are insubstantial and gain a fly speed equal to your speed. When a creature hits you or an allied Twilight Tribune within 10 squares of you with an attack while you are in this stance, you gain combat advantage against that creature until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 155.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Twilight Tribune",
+    "flavor": "Shadow unfurls around you as your body fades, and you are filled with the dread authority that is your destiny.",
+    "keywords": [
+      "Shadow, Stance"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You assume the tribune’s authority stance. Until the stance ends, you are insubstantial and gain a fly speed equal to your speed. When a creature hits you or an allied Twilight Tribune within 10 squares of you with an attack while you are in this stance, you gain combat advantage against that creature until the end of your next turn.</p>",
+    "effect": "You assume the tribune’s authority stance. Until the stance ends, you are insubstantial and gain a fly speed equal to your speed. When a creature hits you or an allied Twilight Tribune within 10 squares of you with an attack while you are in this stance, you gain combat advantage against that creature until the end of your next turn."
+  }
+}

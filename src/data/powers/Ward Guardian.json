@@ -1,0 +1,62 @@
+{
+  "Ward Force Assault": {
+    "id": "'5795",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Ward Force Assault",
+    "type": "Guardian",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWard Force Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5795\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Ward Guardian Attack 11</span>Ward Force Assault</h1><p class=\\\"flavor\\\"><i>You swing at your foe and craft your warding into a blunt force that flattens your enemy when you hit.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Force</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Intelligence modifier damage. In addition, either you deal extra force damage equal to your bonus from Swordmage Warding + your Constitution modifier, or you knock the target prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Ward Guardian",
+    "flavor": "You swing at your foe and craft your warding into a blunt force that flattens your enemy when you hit.",
+    "keywords": [
+      "Arcane, Force, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 2[W] + Intelligence modifier damage. In addition, either you deal extra force damage equal to your bonus from Swordmage Warding + your Constitution modifier, or you knock the target prone.</p>",
+    "target": "One creature",
+    "attack": "Intelligence vs. AC",
+    "onHit": "2[W] + Intelligence modifier damage. In addition, either you deal extra force damage equal to your bonus from Swordmage Warding + your Constitution modifier, or you knock the target prone."
+  },
+  "Sheltering Ward": {
+    "id": "'5796",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Sheltering Ward",
+    "type": "Guardian",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSheltering Ward\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5796\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Ward Guardian Utility 12</span>Sheltering Ward</h1><p class=\\\"flavor\\\"><i>With intense concentration and magical power, you expand your warding to include those around you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, any allies adjacent to you gain the benefit of your Swordmage Warding.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Ward Guardian",
+    "flavor": "With intense concentration and magical power, you expand your warding to include those around you.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, any allies adjacent to you gain the benefit of your Swordmage Warding.</p><p class=\"powerstat\">Sustain Minor: The effect persists.</p>",
+    "effect": "Until the end of your next turn, any allies adjacent to you gain the benefit of your Swordmage Warding.",
+    "sustainMinor": "The effect persists."
+  },
+  "Unseen Entanglement": {
+    "id": "'5797",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Unseen Entanglement",
+    "type": "Guardian",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnseen Entanglement\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5797\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Ward Guardian Attack 20</span>Unseen Entanglement</h1><p class=\\\"flavor\\\"><i>As you swing, you shape the protective power of your warding into an entangling thread that thwarts your foe’s defenses.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Intelligence modifier + Constitution modifier damage. In addition, the target takes a -3 penalty to any defense to which your Swordmage Warding is currently granting a bonus (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage. Until the end of your next turn, the target takes a -1 penalty to any defense to which your Swordmage Warding is currently granting a bonus.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Ward Guardian",
+    "flavor": "As you swing, you shape the protective power of your warding into an entangling thread that thwarts your foe’s defenses.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 5[W] + Intelligence modifier + Constitution modifier damage. In addition, the target takes a -3 penalty to any defense to which your Swordmage Warding is currently granting a bonus (save ends).</p><p class=\"powerstat\">Miss: Half damage. Until the end of your next turn, the target takes a -1 penalty to any defense to which your Swordmage Warding is currently granting a bonus.</p>",
+    "target": "One creature",
+    "attack": "Intelligence vs. AC",
+    "onHit": "5[W] + Intelligence modifier + Constitution modifier damage. In addition, the target takes a -3 penalty to any defense to which your Swordmage Warding is currently granting a bonus (save ends).",
+    "onMiss": "Half damage. Until the end of your next turn, the target takes a -1 penalty to any defense to which your Swordmage Warding is currently granting a bonus."
+  }
+}

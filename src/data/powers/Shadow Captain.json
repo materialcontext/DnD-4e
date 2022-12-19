@@ -1,0 +1,63 @@
+{
+  "Underworld Gambit": {
+    "id": "'5659",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Underworld Gambit",
+    "type": "Captain",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnderworld Gambit\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5659\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadow Captain Attack 11</span>Underworld Gambit</h1><p class=\\\"flavor\\\"><i>Shadows writhe around your weapon, infusing your attack with necrotic energy that deprives your enemy of strength.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Necrotic</b>, <b>Shadow</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage. Make a secondary attack against the target.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Charisma + 2 vs. Reflex</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: Charisma modifier necrotic damage, and the target is weakened until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 146.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Captain",
+    "flavor": "Shadows writhe around your weapon, infusing your attack with necrotic energy that deprives your enemy of strength.",
+    "keywords": [
+      "Necrotic, Shadow, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Primary Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 1[W] + Strength modifier damage. Make a secondary attack against the target.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Charisma + 2 vs. Reflex</p><p class=\"flavor\">&nbsp;&nbsp;Hit: Charisma modifier necrotic damage, and the target is weakened until the end of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "1[W] + Strength modifier damage. Make a secondary attack against the target.",
+    "secondaryAttack": "Charisma + 2 vs. Reflex",
+    "secondaryOnHit": "Charisma modifier necrotic damage, and the target is weakened until the end of your next turn."
+  },
+  "Shadow Guardians": {
+    "id": "'5660",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Shadow Guardians",
+    "type": "Captain",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Guardians\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5660\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shadow Captain Utility 12</span>Shadow Guardians</h1><p class=\\\"flavor\\\"><i>Soldiers of shadow heed your call and aid your defenses.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Necrotic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a number of shadow soldiers equal to your Intelligence modifier (minimum 1) that last until the end of your next turn. Each shadow soldier appears in an unoccupied square within range. The shadow soldiers provide cover to allies but not enemies. An enemy that enters a shadow soldier’s square is immobilized (save ends).</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The shadow soldiers persist. As a move action, you can move each shadow soldier a number of squares equal to your Charisma modifier (minimum 1).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 146.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Captain",
+    "flavor": "Soldiers of shadow heed your call and aid your defenses.",
+    "keywords": [
+      "Conjuration, Necrotic, Shadow"
+    ],
+    "range": "Ranged 10</p><p class=\"flavor\">Effect: You conjure a number of shadow soldiers equal to your Intelligence modifier (minimum 1) that last until the end of your next turn. Each shadow soldier appears in an unoccupied square within range. The shadow soldiers provide cover to allies but not enemies. An enemy that enters a shadow soldier’s square is immobilized (save ends).</p><p class=\"powerstat\">Sustain Minor: The shadow soldiers persist. As a move action, you can move each shadow soldier a number of squares equal to your Charisma modifier (minimum 1).</p>",
+    "effect": "You conjure a number of shadow soldiers equal to your Intelligence modifier (minimum 1) that last until the end of your next turn. Each shadow soldier appears in an unoccupied square within range. The shadow soldiers provide cover to allies but not enemies. An enemy that enters a shadow soldier’s square is immobilized (save ends).",
+    "sustainMinor": "The shadow soldiers persist. As a move action, you can move each shadow soldier a number of squares equal to your Charisma modifier (minimum 1)."
+  },
+  "Shadow Turncoat": {
+    "id": "'5661",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Shadow Turncoat",
+    "type": "Captain",
+    "sourceRef": "Manual of the Planes",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Turncoat\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5661\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shadow Captain Attack 20</span>Shadow Turncoat</h1><p class=\\\"flavor\\\"><i>With a single strike, you tear off a shadowy piece of your opponent. That shadow then rebels against its former master.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Reliable</b>, <b>Shadow</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and you conjure a shadow in an unoccupied square adjacent to the target. Until the end of the encounter, each time you hit the target, a new shadow is created and the old one is destroyed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The shadow is a reflection of the target. It has the defenses, immunities, resistances, speed, and melee basic attacks of the target. The shadow also has the same type and keywords, though it has the shadow origin. The shadow has 1 hit point, and a missed attack never damages the shadow. You control the shadow as a free action, which acts on your turn and has one standard action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218937200\\\" target=\\\"_new\\\">Manual of the Planes</a>, page(s) 146.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Captain",
+    "flavor": "With a single strike, you tear off a shadowy piece of your opponent. That shadow then rebels against its former master.",
+    "keywords": [
+      "Conjuration, Reliable, Shadow, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and you conjure a shadow in an unoccupied square adjacent to the target. Until the end of the encounter, each time you hit the target, a new shadow is created and the old one is destroyed.",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "3[W] + Strength modifier damage, and you conjure a shadow in an unoccupied square adjacent to the target. Until the end of the encounter, each time you hit the target, a new shadow is created and the old one is destroyed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The shadow is a reflection of the target. It has the defenses, immunities, resistances, speed, and melee basic attacks of the target. The shadow also has the same type and keywords, though it has the shadow origin. The shadow has 1 hit point, and a missed attack never damages the shadow. You control the shadow as a free action, which acts on your turn and has one standard action."
+  }
+}

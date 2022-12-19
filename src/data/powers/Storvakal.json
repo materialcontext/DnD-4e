@@ -1,0 +1,64 @@
+{
+  "Probability Travel": {
+    "id": "'9397",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Probability Travel",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nProbability Travel\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9397\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Storvakal Attack 11</span>Probability Travel</h1><p class=\\\"flavor\\\"><i>You see all the possibilities and choose one, and the minds of your enemies reel from the sudden changes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Psychic</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Your highest ability modifier + 4 vs. Will<br/>Level 21: Your highest ability modifier + 6 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + your highest ability modifier psychic damage, and you teleport the target a number of squares equal to 1 + your Wisdom modifier.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Each ally in the area can teleport a number of squares equal to your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Storvakal",
+    "flavor": "You see all the possibilities and choose one, and the minds of your enemies reel from the sudden changes.",
+    "keywords": [
+      "Psionic, Psychic, Teleportation"
+    ],
+    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Your highest ability modifier + 4 vs. Will",
+    "target": "Each enemy in the burst",
+    "attack": "Your highest ability modifier + 4 vs. Will<br/>Level 21: Your highest ability modifier + 6 vs. Will",
+    "onHit": "3d10 + your highest ability modifier psychic damage, and you teleport the target a number of squares equal to 1 + your Wisdom modifier.",
+    "effect": "Each ally in the area can teleport a number of squares equal to your Wisdom modifier."
+  },
+  "Excoriating Strands": {
+    "id": "'9398",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Excoriating Strands",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nExcoriating Strands\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9398\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Storvakal Attack 20</span>Excoriating Strands</h1><p class=\\\"flavor\\\"><i>Tapping into your knowledge of balance, and tapping into insecurities, you unleash coruscating arcs of brilliant energy that strip  your foes of their most reliable defenses.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Your highest ability modifier + 6 vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + your highest ability modifier psychic damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Aftereffect</b>: The target loses all resistances and immunities (save ends).</p><p class=\\\"flavor\\\"><b>Miss</b>: Half damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Storvakal",
+    "flavor": "Tapping into your knowledge of balance, and tapping into insecurities, you unleash coruscating arcs of brilliant energy that strip  your foes of their most reliable defenses.",
+    "keywords": [
+      "Psionic, Psychic"
+    ],
+    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Your highest ability modifier + 6 vs. Fortitude</p><p class=\"flavor\">Hit: 3d10 + your highest ability modifier psychic damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial.</p><p class=\"powerstat\">&nbsp;&nbsp;Aftereffect: The target loses all resistances and immunities (save ends).</p><p class=\"flavor\">Miss: Half damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Your highest ability modifier + 6 vs. Fortitude",
+    "onHit": "3d10 + your highest ability modifier psychic damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial.",
+    "aftereffect": "The target loses all resistances and immunities (save ends).",
+    "onMiss": "Half damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial."
+  },
+  "Wind of Reprisal": {
+    "id": "'9399",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Wind of Reprisal",
+    "type": "Utility",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWind of Reprisal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9399\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Storvakal Utility 12</span>Wind of Reprisal</h1><p class=\\\"flavor\\\"><i>Riding a psychic connection created from your enemy’s wrath, you teleport closer to your attacker and send a projectile intended for you at another target.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Teleportation</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy misses you with a ranged attack</p><p class=\\\"flavor\\\"><b>Effect</b>: The attacking creature rerolls the attack against a creature of your choice within 5 squares of you. You then teleport up to 5 squares plus a number of squares equal to your Wisdom modifier, as long as you arrive in a square within 5 squares of the triggering enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Storvakal",
+    "flavor": "Riding a psychic connection created from your enemy’s wrath, you teleport closer to your attacker and send a projectile intended for you at another target.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy misses you with a ranged attack</p><p class=\"flavor\">Effect: The attacking creature rerolls the attack against a creature of your choice within 5 squares of you. You then teleport up to 5 squares plus a number of squares equal to your Wisdom modifier, as long as you arrive in a square within 5 squares of the triggering enemy.</p>",
+    "trigger": "An enemy misses you with a ranged attack",
+    "effect": "The attacking creature rerolls the attack against a creature of your choice within 5 squares of you. You then teleport up to 5 squares plus a number of squares equal to your Wisdom modifier, as long as you arrive in a square within 5 squares of the triggering enemy."
+  }
+}

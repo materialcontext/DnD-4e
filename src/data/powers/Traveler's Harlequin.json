@@ -1,0 +1,41 @@
+{
+  "Traveler's Mummery": {
+    "id": "'10398",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Traveler's Mummery",
+    "type": "",
+    "sourceRef": "Dragon Magazine 382",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTraveler's Mummery\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10398\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Traveler's Harlequin Attack 11</span>Traveler's Mummery</h1><p class=\\\"flavor\\\"><i>Your free spirit swells outward as you mock your foes and caper about the area. They follow your pantomime like puppets, and your allies follow them.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Divine</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"flavor\\\"><b>Effect</b>: Before the attack, you shift 2 squares.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Your highest ability + 6 vs. Will<br/>Level 21: Your highest ability + 9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + your highest ability modifier psychic damage, and you slide the target 2 squares, and one ally in the burst can shift 2 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/382\\\" target=\\\"_new\\\">Dragon Magazine 382</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Traveler's Harlequin",
+    "flavor": "Your free spirit swells outward as you mock your foes and caper about the area. They follow your pantomime like puppets, and your allies follow them.",
+    "keywords": [
+      "Charm, Divine, Psychic"
+    ],
+    "range": "Close burst 2</p><p class=\"flavor\">Effect: Before the attack, you shift 2 squares.</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Your highest ability + 6 vs. Will",
+    "effect": "Before the attack, you shift 2 squares.",
+    "target": "Each enemy in the burst",
+    "attack": "Your highest ability + 6 vs. Will<br/>Level 21: Your highest ability + 9 vs. Will",
+    "onHit": "2d6 + your highest ability modifier psychic damage, and you slide the target 2 squares, and one ally in the burst can shift 2 squares."
+  },
+  "Shape of the Traveler": {
+    "id": "'10399",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Shape of the Traveler",
+    "type": "",
+    "sourceRef": "Dragon Magazine 382",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShape of the Traveler\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10399\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Traveler's Harlequin Utility 12</span>Shape of the Traveler</h1><p class=\\\"flavor\\\"><i>They say the Traveler walks the world unrecognized because it can appear as anyone. You can do much the same.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Polymorph</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You alter your physical form to take on the appearance of any humanoid of Small or Medium size. Your clothing and equipment change size to fit you, but your statistics do not change. The new form lasts until you return to your natural form as a minor action or use this power again. Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 bonus to your check.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/382\\\" target=\\\"_new\\\">Dragon Magazine 382</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Traveler's Harlequin",
+    "flavor": "They say the Traveler walks the world unrecognized because it can appear as anyone. You can do much the same.",
+    "keywords": [
+      "Divine, Polymorph"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You alter your physical form to take on the appearance of any humanoid of Small or Medium size. Your clothing and equipment change size to fit you, but your statistics do not change. The new form lasts until you return to your natural form as a minor action or use this power again. Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 bonus to your check.</p>",
+    "effect": "You alter your physical form to take on the appearance of any humanoid of Small or Medium size. Your clothing and equipment change size to fit you, but your statistics do not change. The new form lasts until you return to your natural form as a minor action or use this power again. Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 bonus to your check."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "Thri-kreen Claws": {
+    "id": "'11739",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Thri-kreen Claws",
+    "type": "",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nThri-kreen Claws\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11739\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Power</span>Thri-kreen Claws</h1><p class=\\\"flavor\\\"><i>You quickly lash out with all your claws, tearing at nearby enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One, two, or three enemies</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength + 3 vs. AC, Dexterity + 3 vs. AC, or Wisdom + 3 vs. AC<br/>Level 11: Strength + 6 vs. AC, Dexterity + 6 vs. AC, or Wisdom + 6 vs. AC<br/>Level 21: Strength + 9 vs. AC, Dexterity + 9 vs. AC, or Wisdom + 9 vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage. You gain a bonus to the damage roll equal to the number of targets.<br/>Level 11: 2d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage<br/>Level 21: 3d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "You quickly lash out with all your claws, tearing at nearby enemies.",
+    "keywords": [
+      "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One, two, or three enemies</p><p class=\"powerstat\">Attack: Strength + 3 vs. AC, Dexterity + 3 vs. AC, or Wisdom + 3 vs. AC"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One, two, or three enemies</p><p class=\"powerstat\">Attack: Strength + 3 vs. AC, Dexterity + 3 vs. AC, or Wisdom + 3 vs. AC",
+    "target": "One, two, or three enemies",
+    "attack": "Strength + 3 vs. AC, Dexterity + 3 vs. AC, or Wisdom + 3 vs. AC<br/>Level 11: Strength + 6 vs. AC, Dexterity + 6 vs. AC, or Wisdom + 6 vs. AC<br/>Level 21: Strength + 9 vs. AC, Dexterity + 9 vs. AC, or Wisdom + 9 vs. AC",
+    "onHit": "1d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage. You gain a bonus to the damage roll equal to the number of targets.<br/>Level 11: 2d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage<br/>Level 21: 3d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage."
+  },
+  "Mantis Jump": {
+    "id": "'16547",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Mantis Jump",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMantis Jump\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16547\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 2</span>Mantis Jump</h1><p class=\\\"flavor\\\"><i>You coil and spring instinctively, covering a tremendous distance without much effort.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You jump a number of squares equal to your speed. This movement does not provoke opportunity attacks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "You coil and spring instinctively, covering a tremendous distance without much effort.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You jump a number of squares equal to your speed. This movement does not provoke opportunity attacks.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You jump a number of squares equal to your speed. This movement does not provoke opportunity attacks.</p>",
+    "effect": "You jump a number of squares equal to your speed. This movement does not provoke opportunity attacks."
+  },
+  "Pheromone Release": {
+    "id": "'16548",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Pheromone Release",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPheromone Release\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16548\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 2</span>Pheromone Release</h1><p class=\\\"flavor\\\"><i>Although imperceptible to most creatures, your pheromones have a significant effect on the behavior of other creatures.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a +5 power bonus to the next Bluff, Diplomacy, or Intimidate check you make before the end of your next turn. You can also gain this bonus to Nature checks made to calm or influence a beast.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "Although imperceptible to most creatures, your pheromones have a significant effect on the behavior of other creatures.",
+    "keywords": [
+      "Charm"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain a +5 power bonus to the next Bluff, Diplomacy, or Intimidate check you make before the end of your next turn. You can also gain this bonus to Nature checks made to calm or influence a beast.</p>",
+    "effect": "You gain a +5 power bonus to the next Bluff, Diplomacy, or Intimidate check you make before the end of your next turn. You can also gain this bonus to Nature checks made to calm or influence a beast."
+  },
+  "Chameleon Chitin": {
+    "id": "'16549",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Chameleon Chitin",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nChameleon Chitin\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16549\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 6</span>Chameleon Chitin</h1><p class=\\\"flavor\\\"><i>Your powerful mind can rapidly change your exoskeleton to match the light and objects around you, allowing you to gain the advantage or slip away from the fight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You make a Stealth check. If you have any cover or concealment, you gain a +5 power bonus to this check. You can remain hidden without cover or concealment as long as you make no attacks and you take no action that requires you to make another Stealth check.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "Your powerful mind can rapidly change your exoskeleton to match the light and objects around you, allowing you to gain the advantage or slip away from the fight.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You make a Stealth check. If you have any cover or concealment, you gain a +5 power bonus to this check. You can remain hidden without cover or concealment as long as you make no attacks and you take no action that requires you to make another Stealth check.</p>",
+    "effect": "You make a Stealth check. If you have any cover or concealment, you gain a +5 power bonus to this check. You can remain hidden without cover or concealment as long as you make no attacks and you take no action that requires you to make another Stealth check."
+  },
+  "Mantis Dodge": {
+    "id": "'16550",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Mantis Dodge",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMantis Dodge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16550\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 6</span>Mantis Dodge</h1><p class=\\\"flavor\\\"><i>The attack comes from far enough away that you react instinctively to leap away from its brunt.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You take damage from an area attack or a ranged attack against AC or Reflex.</p><p class=\\\"flavor\\\"><b>Effect</b>: You take only half damage from the triggering attack. After the attack is resolved, you can jump up to half your speed. This movement does not provoke opportunity attacks.</p><br/>Update (7/2/2012)<br/>Changed in June 2012 updates.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "The attack comes from far enough away that you react instinctively to leap away from its brunt.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage from an area attack or a ranged attack against AC or Reflex.</p><p class=\"flavor\">Effect: You take only half damage from the triggering attack. After the attack is resolved, you can jump up to half your speed. This movement does not provoke opportunity attacks.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You take damage from an area attack or a ranged attack against AC or Reflex.</p><p class=\"flavor\">Effect: You take only half damage from the triggering attack. After the attack is resolved, you can jump up to half your speed. This movement does not provoke opportunity attacks.</p>",
+    "trigger": "You take damage from an area attack or a ranged attack against AC or Reflex.",
+    "effect": "You take only half damage from the triggering attack. After the attack is resolved, you can jump up to half your speed. This movement does not provoke opportunity attacks."
+  },
+  "Antennae Sense": {
+    "id": "'16551",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Antennae Sense",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAntennae Sense\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16551\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 10</span>Antennae Sense</h1><p class=\\\"flavor\\\"><i>Your antennae are sensitive enough to pick up vibrations around you, giving you a clear picture of your surroundings for a moment.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain blindsight 10 until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Special</b>: If you have the Thri-Kreen Antennae feat, you can use this power as an immediate reaction when you are blinded or otherwise deprived of sight.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "Your antennae are sensitive enough to pick up vibrations around you, giving you a clear picture of your surroundings for a moment.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain blindsight 10 until the end of your next turn.</p><p class=\"powerstat\">Special: If you have the Thri-Kreen Antennae feat, you can use this power as an immediate reaction when you are blinded or otherwise deprived of sight.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain blindsight 10 until the end of your next turn.</p><p class=\"powerstat\">Special: If you have the Thri-Kreen Antennae feat, you can use this power as an immediate reaction when you are blinded or otherwise deprived of sight.</p>",
+    "effect": "You gain blindsight 10 until the end of your next turn.",
+    "special": "If you have the Thri-Kreen Antennae feat, you can use this power as an immediate reaction when you are blinded or otherwise deprived of sight."
+  },
+  "Insect Mind": {
+    "id": "'16552",
+    "action": "No Action",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Insect Mind",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInsect Mind\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16552\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 10</span>Insect Mind</h1><p class=\\\"flavor\\\"><i>Your instincts take over as your higher mental functions fail you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You start your turn dazed, dominated, stunned, or unconscious, and you have at least 1 hit point.</p><p class=\\\"flavor\\\"><b>Effect</b>: You ignore the triggering effect until the end of this turn.</p><p class=\\\"powerstat\\\"><b>Special</b>: If you have the Thri-Kreen Wild Talent feat, you can sustain this effect until the end of your next turn by taking a minor action and spending 1 power point.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "Your instincts take over as your higher mental functions fail you.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You start your turn dazed, dominated, stunned, or unconscious, and you have at least 1 hit point.</p><p class=\"flavor\">Effect: You ignore the triggering effect until the end of this turn.</p><p class=\"powerstat\">Special: If you have the Thri-Kreen Wild Talent feat, you can sustain this effect until the end of your next turn by taking a minor action and spending 1 power point.</p>",
+    "trigger": "You start your turn dazed, dominated, stunned, or unconscious, and you have at least 1 hit point.",
+    "effect": "You ignore the triggering effect until the end of this turn.",
+    "special": "If you have the Thri-Kreen Wild Talent feat, you can sustain this effect until the end of your next turn by taking a minor action and spending 1 power point."
+  },
+  "Hive Consciousness": {
+    "id": "'16553",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Hive Consciousness",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHive Consciousness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16553\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 16</span>Hive Consciousness</h1><p class=\\\"flavor\\\"><i>You extend your mind through your antennae, uniting the minds and senses of your allies with yours.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, each target cannot be flanked and gains a +2 power bonus to saving throws. Unless a creature or an object is invisible to or hidden from all targets, it is invisible to or hidden from none of them. Each target also gains telepathy 10 until the end of the encounter, but can use this telepathy only on other targets of this power.</p><p class=\\\"powerstat\\\"><b>Special</b>: If you have the Thri-Kreen Antennae feat, each target also gains the benefit of that feat while the effect lasts.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "You extend your mind through your antennae, uniting the minds and senses of your allies with yours.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 10</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Until the end of the encounter, each target cannot be flanked and gains a +2 power bonus to saving throws. Unless a creature or an object is invisible to or hidden from all targets, it is invisible to or hidden from none of them. Each target also gains telepathy 10 until the end of the encounter, but can use this telepathy only on other targets of this power.</p><p class=\"powerstat\">Special: If you have the Thri-Kreen Antennae feat, each target also gains the benefit of that feat while the effect lasts.</p>",
+    "target": "You and each ally in the burst",
+    "effect": "Until the end of the encounter, each target cannot be flanked and gains a +2 power bonus to saving throws. Unless a creature or an object is invisible to or hidden from all targets, it is invisible to or hidden from none of them. Each target also gains telepathy 10 until the end of the encounter, but can use this telepathy only on other targets of this power.",
+    "special": "If you have the Thri-Kreen Antennae feat, each target also gains the benefit of that feat while the effect lasts."
+  },
+  "Kinetic Chitin": {
+    "id": "'16554",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Kinetic Chitin",
+    "type": "",
+    "sourceRef": "Dragon Magazine 411",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nKinetic Chitin\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16554\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thri-Kreen Racial Utility 16</span>Kinetic Chitin</h1><p class=\\\"flavor\\\"><i>Reacting to an impact, your exoskeleton temporarily hardens.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You take damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain resist 10 to all damage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/411\\\" target=\\\"_new\\\">Dragon Magazine 411</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thri-Kreen",
+    "flavor": "Reacting to an impact, your exoskeleton temporarily hardens.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You take damage.</p><p class=\"flavor\">Effect: You gain resist 10 to all damage until the end of your next turn.</p>",
+    "trigger": "You take damage.",
+    "effect": "You gain resist 10 to all damage until the end of your next turn."
+  }
+}

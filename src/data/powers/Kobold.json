@@ -1,0 +1,113 @@
+{
+  "Shifty Maneuver": {
+    "id": "'2479",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Shifty Maneuver",
+    "type": "Racial",
+    "sourceRef": "Monster Manual, Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShifty Maneuver\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2479\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Kobold Racial Utility </span>Shifty Maneuver</h1><p class=\\\"flavor\\\"><i>You call on your natural ability to dodge danger, taking your tribemates along for the ride.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can shift 1 square as a free action.</p><br/>Update (4/17/2012)<br/>Updated in Into the Unknown.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217207200\\\" target=\\\"_new\\\">Monster Manual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 40.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Kobold",
+    "flavor": "You call on your natural ability to dodge danger, taking your tribemates along for the ride.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 2</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can shift 1 square as a free action.</p>"
+    ],
+    "range": "Close burst 2</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can shift 1 square as a free action.</p>",
+    "target": "You and each ally in the burst",
+    "effect": "Each target can shift 1 square as a free action."
+  },
+  "Flee!": {
+    "id": "'16464",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Flee!",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFlee!\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16464\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Kobold Racial Utility 2</span>Flee!</h1><p class=\\\"flavor\\\"><i>You lead your tribemates in a hasty retreat.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"flavor\\\"><b>Effect</b>: Each ally in the burst gains a +2 power bonus to all defenses against opportunity attacks until the end of your next turn. You then shift up to your speed.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Kobold",
+    "flavor": "You lead your tribemates in a hasty retreat.",
+    "keywords": [
+      "&nbsp;&nbsp;Close burst 2</p><p class=\"flavor\">Effect: Each ally in the burst gains a +2 power bonus to all defenses against opportunity attacks until the end of your next turn. You then shift up to your speed.</p>"
+    ],
+    "range": "Close burst 2</p><p class=\"flavor\">Effect: Each ally in the burst gains a +2 power bonus to all defenses against opportunity attacks until the end of your next turn. You then shift up to your speed.</p>",
+    "effect": "Each ally in the burst gains a +2 power bonus to all defenses against opportunity attacks until the end of your next turn. You then shift up to your speed."
+  },
+  "Load Slingpot": {
+    "id": "'16465",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Load Slingpot",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLoad Slingpot\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16465\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Kobold Racial Utility 2</span>Load Slingpot</h1><p class=\\\"flavor\\\"><i>You hurl a hastily enchanted projectile from your sling.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You load your sling with a random type of ammunition. The next time you hit with a ranged basic attack with this sling before the end of your next turn, it has one of the following additional effects. Roll a d6 to determine the ammunition type.<br/>&nbsp;&nbsp;&nbsp;&nbsp;1–2 Stinkpot: The target takes a -2 penalty to attack rolls until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;3–4 Firepot (Fire): The target takes ongoing 2 fire damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;5–6 Gluepot: The target is immobilized until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Kobold",
+    "flavor": "You hurl a hastily enchanted projectile from your sling.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You load your sling with a random type of ammunition. The next time you hit with a ranged basic attack with this sling before the end of your next turn, it has one of the following additional effects. Roll a d6 to determine the ammunition type."
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You load your sling with a random type of ammunition. The next time you hit with a ranged basic attack with this sling before the end of your next turn, it has one of the following additional effects. Roll a d6 to determine the ammunition type.",
+    "effect": "You load your sling with a random type of ammunition. The next time you hit with a ranged basic attack with this sling before the end of your next turn, it has one of the following additional effects. Roll a d6 to determine the ammunition type.<br/>&nbsp;&nbsp;&nbsp;&nbsp;1–2 Stinkpot: The target takes a -2 penalty to attack rolls until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;3–4 Firepot (Fire): The target takes ongoing 2 fire damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;5–6 Gluepot: The target is immobilized until the end of its next turn."
+  },
+  "Tunnel Scuttle": {
+    "id": "'16466",
+    "action": "Move",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Tunnel Scuttle",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTunnel Scuttle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16466\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Kobold Racial Utility 6</span>Tunnel Scuttle</h1><p class=\\\"flavor\\\"><i>You scramble up walls and through narrow spaces with ease.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You move up to your speed. During this movement, you have a climb speed equal to your speed, and can move at full speed while squeezing.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Kobold",
+    "flavor": "You scramble up walls and through narrow spaces with ease.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You move up to your speed. During this movement, you have a climb speed equal to your speed, and can move at full speed while squeezing.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You move up to your speed. During this movement, you have a climb speed equal to your speed, and can move at full speed while squeezing.</p>",
+    "effect": "You move up to your speed. During this movement, you have a climb speed equal to your speed, and can move at full speed while squeezing."
+  },
+  "Frantic Shift": {
+    "id": "'16467",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter (Special)",
+    "level": "10",
+    "name": "Frantic Shift",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFrantic Shift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16467\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Kobold Racial Utility 10</span>Frantic Shift</h1><p class=\\\"flavor\\\"><i>You hustle in and out of the fray quickly.</i></p><p class=\\\"powerstat\\\"><b>Encounter (Special)</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 1 square.</p><p class=\\\"powerstat\\\"><b>Special</b>: The first time you are bloodied in an encounter, you regain the use of this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Kobold",
+    "flavor": "You hustle in and out of the fray quickly.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You shift 1 square.</p><p class=\"powerstat\">Special: The first time you are bloodied in an encounter, you regain the use of this power.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You shift 1 square.</p><p class=\"powerstat\">Special: The first time you are bloodied in an encounter, you regain the use of this power.</p>",
+    "effect": "You shift 1 square.",
+    "special": "The first time you are bloodied in an encounter, you regain the use of this power."
+  },
+  "Trap-Gang Method": {
+    "id": "'16468",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "At-Will",
+    "level": "10",
+    "name": "Trap-Gang Method",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTrap-Gang Method\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16468\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Kobold Racial Utility 10</span>Trap-Gang Method</h1><p class=\\\"flavor\\\"><i>You treat an enemy like a trusted member of a kobold trap-gang team. That is, you shove it in front of the trap.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are damaged by an attack from a trap or a hazard while a nonminion creature is adjacent to you.</p><p class=\\\"flavor\\\"><b>Effect</b>: You take only half damage from the triggering attack, and one nonminion creature adjacent to you takes the other half.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/39865000\\\" target=\\\"_new\\\">Into the Unknown: The Dungeon Survival Handbook</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Kobold",
+    "flavor": "You treat an enemy like a trusted member of a kobold trap-gang team. That is, you shove it in front of the trap.",
+    "keywords": [
+      "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: You are damaged by an attack from a trap or a hazard while a nonminion creature is adjacent to you.</p><p class=\"flavor\">Effect: You take only half damage from the triggering attack, and one nonminion creature adjacent to you takes the other half.</p>"
+    ],
+    "range": "Special </p><p class=\"powerstat\">Trigger: You are damaged by an attack from a trap or a hazard while a nonminion creature is adjacent to you.</p><p class=\"flavor\">Effect: You take only half damage from the triggering attack, and one nonminion creature adjacent to you takes the other half.</p>",
+    "trigger": "You are damaged by an attack from a trap or a hazard while a nonminion creature is adjacent to you.",
+    "effect": "You take only half damage from the triggering attack, and one nonminion creature adjacent to you takes the other half."
+  }
+}

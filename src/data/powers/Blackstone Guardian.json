@@ -1,0 +1,65 @@
+{
+  "Blackstone Curse": {
+    "id": "'13106",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Blackstone Curse",
+    "type": "Guardian",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlackstone Curse\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13106\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Blackstone Guardian Attack 11</span>Blackstone Curse</h1><p class=\\\"flavor\\\"><i>Your weapon attack inflicts a vicious curse on your foe, which appears to turn to cracked black stone as it is held fast.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Constitution modifier damage, and the target is immobilized until the end of your next turn.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: 1[W] + Constitution modifier damage, and the target is petrified until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 49.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blackstone Guardian",
+    "flavor": "Your weapon attack inflicts a vicious curse on your foe, which appears to turn to cracked black stone as it is held fast.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Constitution vs. AC</p><p class=\"flavor\">Hit: 1[W] + Constitution modifier damage, and the target is immobilized until the end of your next turn.</p>Augment 2",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is petrified until the end of your next turn."
+  },
+  "Aspect of the Blackstone Gaoler": {
+    "id": "'13107",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Aspect of the Blackstone Gaoler",
+    "type": "Guardian",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAspect of the Blackstone Gaoler\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13107\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Blackstone Guardian Attack 20</span>Aspect of the Blackstone Gaoler</h1><p class=\\\"flavor\\\"><i>Your attack wracks an enemy’s mind and binds its body in stone as you channel the blackstone monolith’s forbidding power.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Psionic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Constitution modifier damage, and ongoing 10 psychic damage (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>First Failed Saving Throw</b>: The target is restrained until it saves against the ongoing damage.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Second Failed Saving Throw</b>: The target is petrified instead of restrained and takes a -2 penalty to saving throws against the ongoing damage. The ongoing damage from this power ignores the resistance granted by the petrified condition.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 10 psychic damage (save ends).</p><p class=\\\"flavor\\\"><b>Effect</b>: You push each creature adjacent to you 1 square. You then assume the aspect of the blackstone gaoler until the end of the encounter. While in this aspect, you can use the following augmentation with your battlemind at-will attack powers that are augmentable. This augmentation is in addition to the effects that an at-will power might have; this augmentation doesn’t supersede them.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Effect</b>: You gain resistance to all damage equal to your Constitution modifier until the end of your next turn. In addition, one creature you hit with the at-will power is restrained until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 49.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blackstone Guardian",
+    "flavor": "Your attack wracks an enemy’s mind and binds its body in stone as you channel the blackstone monolith’s forbidding power.",
+    "keywords": [
+      "Polymorph, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Constitution vs. AC</p><p class=\"flavor\">Hit: 2[W] + Constitution modifier damage, and ongoing 10 psychic damage (save ends).</p><p class=\"powerstat\">&nbsp;&nbsp;First Failed Saving Throw: The target is restrained until it saves against the ongoing damage.</p><p class=\"flavor\">&nbsp;&nbsp;Second Failed Saving Throw: The target is petrified instead of restrained and takes a -2 penalty to saving throws against the ongoing damage. The ongoing damage from this power ignores the resistance granted by the petrified condition.</p><p class=\"powerstat\">Miss: Half damage, and ongoing 10 psychic damage (save ends).</p><p class=\"flavor\">Effect: You push each creature adjacent to you 1 square. You then assume the aspect of the blackstone gaoler until the end of the encounter. While in this aspect, you can use the following augmentation with your battlemind at-will attack powers that are augmentable. This augmentation is in addition to the effects that an at-will power might have; this augmentation doesn’t supersede them.</p>Augment 2",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and ongoing 10 psychic damage (save ends).",
+    "firstFailedSavingThrow": "The target is restrained until it saves against the ongoing damage.",
+    "secondFailedSavingThrow": "The target is petrified instead of restrained and takes a -2 penalty to saving throws against the ongoing damage. The ongoing damage from this power ignores the resistance granted by the petrified condition.",
+    "onMiss": "Half damage, and ongoing 10 psychic damage (save ends).",
+    "effect": "You gain resistance to all damage equal to your Constitution modifier until the end of your next turn. In addition, one creature you hit with the at-will power is restrained until the end of your next turn."
+  },
+  "Monolithic Blessing": {
+    "id": "'13108",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Monolithic Blessing",
+    "type": "Guardian",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMonolithic Blessing\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13108\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Blackstone Guardian Utility 12</span>Monolithic Blessing</h1><p class=\\\"flavor\\\"><i>The monolith’s power grants you the resilience of ageless stone.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you have tremorsense 5 and resist 10 to all damage.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 49.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blackstone Guardian",
+    "flavor": "The monolith’s power grants you the resilience of ageless stone.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you have tremorsense 5 and resist 10 to all damage.</p><p class=\"powerstat\">Sustain Minor: The effect persists.</p>",
+    "effect": "Until the end of your next turn, you have tremorsense 5 and resist 10 to all damage.",
+    "sustainMinor": "The effect persists."
+  }
+}

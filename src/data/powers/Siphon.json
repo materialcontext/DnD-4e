@@ -1,0 +1,63 @@
+{
+  "Insidious Distraction": {
+    "id": "'13021",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Insidious Distraction",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInsidious Distraction\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13021\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Siphon Attack 11</span>Insidious Distraction</h1><p class=\\\"flavor\\\"><i>Your weapon attack lets you sink psychic fangs into your foe’s mind, crippling its ability to think and act.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Psionic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Charisma modifier psychic damage, and the target is dazed and slowed until the end of your next turn.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: 1[W] + Charisma modifier psychic damage, and the target is dazed and immobilized until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Siphon",
+    "flavor": "Your weapon attack lets you sink psychic fangs into your foe’s mind, crippling its ability to think and act.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 1[W] + Charisma modifier psychic damage, and the target is dazed and slowed until the end of your next turn.</p>Augment 2",
+    "target": "One creature",
+    "attack": "Charisma vs. AC",
+    "onHit": "1[W] + Charisma modifier psychic damage, and the target is dazed and immobilized until the end of your next turn."
+  },
+  "Emotion Leech": {
+    "id": "'13022",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Emotion Leech",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEmotion Leech\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13022\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Siphon Attack 20</span>Emotion Leech</h1><p class=\\\"flavor\\\"><i>Your weapon slips through an opponent’s defenses and opens a conduit to its mind. As long as the conduit remains open, you can feast on your foe’s misfortune.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Psionic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Charisma modifier psychic damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is affected by your emotion leech (save ends). While the target is affected by the leech, the target is slowed and weakened. In addition, at the start of its turn if you have line of sight to the target, you and each ally adjacent to you regain hit points equal to your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Siphon",
+    "flavor": "Your weapon slips through an opponent’s defenses and opens a conduit to its mind. As long as the conduit remains open, you can feast on your foe’s misfortune.",
+    "keywords": [
+      "Healing, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 2[W] + Charisma modifier psychic damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The target is affected by your emotion leech (save ends). While the target is affected by the leech, the target is slowed and weakened. In addition, at the start of its turn if you have line of sight to the target, you and each ally adjacent to you regain hit points equal to your Wisdom modifier.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. Will",
+    "onHit": "2[W] + Charisma modifier psychic damage.",
+    "onMiss": "Half damage.",
+    "effect": "The target is affected by your emotion leech (save ends). While the target is affected by the leech, the target is slowed and weakened. In addition, at the start of its turn if you have line of sight to the target, you and each ally adjacent to you regain hit points equal to your Wisdom modifier."
+  },
+  "Feast of Death": {
+    "id": "'13023",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Feast of Death",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFeast of Death\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13023\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Siphon Utility 12</span>Feast of Death</h1><p class=\\\"flavor\\\"><i>You draw on the psychic energy of a dying creature to grant yourself and your allies a surge of vigor.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature within 10 squares of you that you can see drops to 0 hit points or fewer</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain temporary hit points equal to your Charisma modifier. Each ally adjacent to you gains temporary hit points equal to your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Siphon",
+    "flavor": "You draw on the psychic energy of a dying creature to grant yourself and your allies a surge of vigor.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: A creature within 10 squares of you that you can see drops to 0 hit points or fewer</p><p class=\"flavor\">Effect: You gain temporary hit points equal to your Charisma modifier. Each ally adjacent to you gains temporary hit points equal to your Wisdom modifier.</p>",
+    "trigger": "A creature within 10 squares of you that you can see drops to 0 hit points or fewer",
+    "effect": "You gain temporary hit points equal to your Charisma modifier. Each ally adjacent to you gains temporary hit points equal to your Wisdom modifier."
+  }
+}

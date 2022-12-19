@@ -1,0 +1,63 @@
+{
+  "Demonslayer’s Smite": {
+    "id": "'8104",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Demonslayer’s Smite",
+    "type": "Attack",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDemonslayer’s Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8104\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Demonslayer Attack 11</span>Demonslayer’s Smite</h1><p class=\\\"flavor\\\"><i>You intone a prayer over your weapon, empowering it to overwhelm demonic defenses.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC. If the target is a demon, you gain a +2 bonus to the attack roll.</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and the target loses its resistances until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Special</b>: Whenever a demon within 10 squares of you scores a critical hit or spends an action point, you regain the use of this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 96.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Demonslayer",
+    "flavor": "You intone a prayer over your weapon, empowering it to overwhelm demonic defenses.",
+    "keywords": [
+      "Divine, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC. If the target is a demon, you gain a +2 bonus to the attack roll.</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and the target loses its resistances until the end of your next turn.</p><p class=\"powerstat\">Special: Whenever a demon within 10 squares of you scores a critical hit or spends an action point, you regain the use of this power.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC. If the target is a demon, you gain a +2 bonus to the attack roll.",
+    "onHit": "3[W] + Strength modifier damage, and the target loses its resistances until the end of your next turn.",
+    "special": "Whenever a demon within 10 squares of you scores a critical hit or spends an action point, you regain the use of this power."
+  },
+  "Demonslayer’s Resistance": {
+    "id": "'8105",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Demonslayer’s Resistance",
+    "type": "Utility",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDemonslayer’s Resistance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8105\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Demonslayer Utility 12</span>Demonslayer’s Resistance</h1><p class=\\\"flavor\\\"><i>A gleaming halo surrounds you and blunts the attacks of your demonic foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain resist 5 against damage dealt by the triggering enemy until the end of the encounter. If the triggering enemy is a demon, the resistance increases to 10, and the enemy is subject to your divine sanction until the end of the encounter.<br/>Level 21: Resist 10, or resist 15 if the triggering enemy is a demon.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 96.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Demonslayer",
+    "flavor": "A gleaming halo surrounds you and blunts the attacks of your demonic foes.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy hits you</p><p class=\"flavor\">Effect: You gain resist 5 against damage dealt by the triggering enemy until the end of the encounter. If the triggering enemy is a demon, the resistance increases to 10, and the enemy is subject to your divine sanction until the end of the encounter.",
+    "trigger": "An enemy hits you",
+    "effect": "You gain resist 5 against damage dealt by the triggering enemy until the end of the encounter. If the triggering enemy is a demon, the resistance increases to 10, and the enemy is subject to your divine sanction until the end of the encounter.<br/>Level 21: Resist 10, or resist 15 if the triggering enemy is a demon."
+  },
+  "Edict of Destruction": {
+    "id": "'8106",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Edict of Destruction",
+    "type": "Attack",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEdict of Destruction\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8106\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Demonslayer Attack 20</span>Edict of Destruction</h1><p class=\\\"flavor\\\"><i>You recite words of divine law as you attack, twisting your prey’s very being.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and the target is affected by your edict of destruction (save ends). Until the edict ends, roll a d4 at the start of each of the target’s turns to determine the edict’s effect at that time. If the target is a demon, roll two times and apply both results (if you roll the same number twice, roll again).<br/>1. The target and each enemy adjacent to it take 1d10 + your Strength modifier damage.<br/>2. The target gains vulnerable 5 to all damage until the end of your next turn.<br/>3. The target is blinded until the end of your next turn.<br/>4. The target takes a -2 penalty to attack rolls until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage. At the start of the target’s next turn, roll a d4 to determine the effect, as above.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 96.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Demonslayer",
+    "flavor": "You recite words of divine law as you attack, twisting your prey’s very being.",
+    "keywords": [
+      "Divine, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and the target is affected by your edict of destruction (save ends). Until the edict ends, roll a d4 at the start of each of the target’s turns to determine the edict’s effect at that time. If the target is a demon, roll two times and apply both results (if you roll the same number twice, roll again).",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "3[W] + Strength modifier damage, and the target is affected by your edict of destruction (save ends). Until the edict ends, roll a d4 at the start of each of the target’s turns to determine the edict’s effect at that time. If the target is a demon, roll two times and apply both results (if you roll the same number twice, roll again).<br/>1. The target and each enemy adjacent to it take 1d10 + your Strength modifier damage.<br/>2. The target gains vulnerable 5 to all damage until the end of your next turn.<br/>3. The target is blinded until the end of your next turn.<br/>4. The target takes a -2 penalty to attack rolls until the end of your next turn.",
+    "onMiss": "Half damage. At the start of the target’s next turn, roll a d4 to determine the effect, as above."
+  }
+}

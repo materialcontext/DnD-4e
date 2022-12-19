@@ -1,0 +1,62 @@
+{
+  "Maggots to Flies": {
+    "id": "'15970",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Maggots to Flies",
+    "type": "Lord",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMaggots to Flies\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15970\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Vermin Lord Attack 11</span>Maggots to Flies</h1><p class=\\\"flavor\\\"><i>Your foes are horrified when squirming maggots bulge from their bodies, then transform into biting flies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close blast</b> 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Wisdom modifier damage, and you can slide the target up to 2 squares.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, each target grants combat advantage and gains vulnerable 5 to all damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Vermin Lord",
+    "flavor": "Your foes are horrified when squirming maggots bulge from their bodies, then transform into biting flies.",
+    "keywords": [
+      "Implement, Primal"
+    ],
+    "range": "Close blast 3</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 2d6 + Wisdom modifier damage, and you can slide the target up to 2 squares.</p><p class=\"powerstat\">Effect: Until the end of your next turn, each target grants combat advantage and gains vulnerable 5 to all damage.</p>",
+    "target": "Each creature in the blast",
+    "attack": "Wisdom vs. Fortitude",
+    "onHit": "2d6 + Wisdom modifier damage, and you can slide the target up to 2 squares.",
+    "effect": "Until the end of your next turn, each target grants combat advantage and gains vulnerable 5 to all damage."
+  },
+  "From One to Many": {
+    "id": "'15971",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "From One to Many",
+    "type": "Lord",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFrom One to Many\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15971\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Vermin Lord Attack 20</span>From One to Many</h1><p class=\\\"flavor\\\"><i>Your body collapses into a seething cloud of ravenous insects. They devour anything in their path.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the form of a vermin swarm until the end of the encounter or until you end it as a minor action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in this form, you can occupy the same space as another creature; enemies can enter your space, which is difficult terrain to them; you cannot be pulled, pushed, or slid by melee or ranged attacks; and you can use the secondary power at will.</p><br/><h1 class=\\\"dailypower\\\"><span class=\\\"level\\\"></span>From One to Many Secondary Power</h1><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Poison</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power From One to Many must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: One or two creatures</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target takes ongoing 20 poison damage (save ends). You then shift up to half your speed. Each time the target takes the ongoing damage, you can slide it 1 square as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-28.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Vermin Lord",
+    "flavor": "Your body collapses into a seething cloud of ravenous insects. They devour anything in their path.",
+    "keywords": [
+      "Polymorph, Primal"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You assume the form of a vermin swarm until the end of the encounter or until you end it as a minor action.",
+    "effect": "Each target takes ongoing 20 poison damage (save ends). You then shift up to half your speed. Each time the target takes the ongoing damage, you can slide it 1 square as a free action.",
+    "requirement": "The power From One to Many must be active in order to use this power.",
+    "target": "One or two creatures"
+  },
+  "Hive Mind": {
+    "id": "'15972",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Hive Mind",
+    "type": "Lord",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHive Mind\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15972\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Vermin Lord Utility 12</span>Hive Mind</h1><p class=\\\"flavor\\\"><i>Your consciousness worms its way into you allies’ minds. You all now fight with a single purpose.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, each target can communicate telepathically with any of the other targets within 20 squares. In addition, enemies cannot gain combat advantage by flanking a target, and you can use a move action to slide another target within 10 squares of you up to 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-28.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Vermin Lord",
+    "flavor": "Your consciousness worms its way into you allies’ minds. You all now fight with a single purpose.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Until the end of the encounter, each target can communicate telepathically with any of the other targets within 20 squares. In addition, enemies cannot gain combat advantage by flanking a target, and you can use a move action to slide another target within 10 squares of you up to 5 squares.</p>",
+    "target": "You and each ally in the burst",
+    "effect": "Until the end of the encounter, each target can communicate telepathically with any of the other targets within 20 squares. In addition, enemies cannot gain combat advantage by flanking a target, and you can use a move action to slide another target within 10 squares of you up to 5 squares."
+  }
+}

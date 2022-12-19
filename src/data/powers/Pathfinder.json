@@ -1,0 +1,69 @@
+{
+  "Act Together": {
+    "id": "'1676",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Act Together",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAct Together\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1676\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Pathfinder Utility 12</span>Act Together</h1><p class=\\\"flavor\\\"><i>You find it within yourself to capitalize on your comrade’s latest act of daring.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally spends an action point to take an extra action</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain an action point that you must spend before the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 115.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pathfinder",
+    "flavor": "You find it within yourself to capitalize on your comrade’s latest act of daring.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: An ally spends an action point to take an extra action</p><p class=\"flavor\">Effect: You gain an action point that you must spend before the end of your next turn.</p>",
+    "trigger": "An ally spends an action point to take an extra action",
+    "effect": "You gain an action point that you must spend before the end of your next turn."
+  },
+  "Wrong Step": {
+    "id": "'1677",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Wrong Step",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWrong Step\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1677\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Pathfinder Attack 11</span>Wrong Step</h1><p class=\\\"flavor\\\"><i>Your enemy steps unwittingly into your trap, and you catch him by surprise with a sudden, paralyzing thrust.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An adjacent enemy shifts or moves</p><p class=\\\"powerstat\\\"><b>Target</b>: The enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage, and the target is immobilized until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 115.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pathfinder",
+    "flavor": "Your enemy steps unwittingly into your trap, and you catch him by surprise with a sudden, paralyzing thrust.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: An adjacent enemy shifts or moves</p><p class=\"powerstat\">Target: The enemy</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 1[W] + Strength modifier damage, and the target is immobilized until the end of your next turn.</p>",
+    "trigger": "An adjacent enemy shifts or moves",
+    "target": "The enemy",
+    "attack": "Strength vs. AC",
+    "onHit": "1[W] + Strength modifier damage, and the target is immobilized until the end of your next turn."
+  },
+  "Slasher's Mark": {
+    "id": "'1678",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Slasher's Mark",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSlasher's Mark\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1678\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Pathfinder Attack 20</span>Slasher's Mark</h1><p class=\\\"flavor\\\"><i>You fortify yourself, raise your weapons, and carve scarring wounds into the flesh of your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can spend a healing surge before attacking.</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC (main weapon)</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage (main weapon).</p><p class=\\\"powerstat\\\"><b>Effect</b>: The target is marked until the end of the encounter. Make a secondary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>:  Strength vs. AC (off-hand weapon)</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2[W] + Strength modifier damage (off-hand weapon).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Effect</b>: The target is marked until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 115.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Pathfinder",
+    "flavor": "You fortify yourself, raise your weapons, and carve scarring wounds into the flesh of your enemies.",
+    "keywords": [
+      "Healing, Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding two melee weapons.</p><p class=\"powerstat\">Special: You can spend a healing surge before attacking.</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC (main weapon)</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage (main weapon).</p><p class=\"powerstat\">Effect: The target is marked until the end of the encounter. Make a secondary attack.</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Target: One creature other than the primary target</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack:  Strength vs. AC (off-hand weapon)</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 2[W] + Strength modifier damage (off-hand weapon).</p><p class=\"powerstat\">&nbsp;&nbsp;Effect: The target is marked until the end of the encounter.</p>",
+    "requirement": "You must be wielding two melee weapons.",
+    "special": "You can spend a healing surge before attacking.",
+    "primaryTarget": "One creature",
+    "attack": "Strength vs. AC (main weapon)",
+    "onHit": "3[W] + Strength modifier damage (main weapon).",
+    "effect": "The target is marked until the end of the encounter. Make a secondary attack.",
+    "secondaryTarget": "One creature other than the primary target",
+    "secondaryAttack": "Strength vs. AC (off-hand weapon)",
+    "secondaryOnHit": "2[W] + Strength modifier damage (off-hand weapon).",
+    "secondaryeffect": "The target is marked until the end of the encounter."
+  }
+}

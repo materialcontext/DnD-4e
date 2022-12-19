@@ -1,0 +1,64 @@
+{
+  "Sly Charge": {
+    "id": "'10578",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Sly Charge",
+    "type": "Duelist",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSly Charge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10578\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rakehell Duelist Attack 11</span>Sly Charge</h1><p class=\\\"flavor\\\"><i>Rather than run into your waiting enemy, you flick a small weapon at it first to distract it as you rush in.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Effect</b>: You charge and make the following attack in place of a melee basic attack. If you’re wielding a light thrown weapon, you can make a ranged basic attack against the target with that weapon as a free action before the charge. If the ranged attack hits, the target grants combat advantage to you until the start of your next turn.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: One creature</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2[W] + Strength modifier damage. If you have combat advantage against the target, the attack deals extra damage equal to your Dexterity modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Rakehell Duelist",
+    "flavor": "Rather than run into your waiting enemy, you flick a small weapon at it first to distract it as you rush in.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"flavor\">Effect: You charge and make the following attack in place of a melee basic attack. If you’re wielding a light thrown weapon, you can make a ranged basic attack against the target with that weapon as a free action before the charge. If the ranged attack hits, the target grants combat advantage to you until the start of your next turn.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 2[W] + Strength modifier damage. If you have combat advantage against the target, the attack deals extra damage equal to your Dexterity modifier.</p>",
+    "effect": "You charge and make the following attack in place of a melee basic attack. If you’re wielding a light thrown weapon, you can make a ranged basic attack against the target with that weapon as a free action before the charge. If the ranged attack hits, the target grants combat advantage to you until the start of your next turn.",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage. If you have combat advantage against the target, the attack deals extra damage equal to your Dexterity modifier."
+  },
+  "Stay Mobile": {
+    "id": "'10579",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Stay Mobile",
+    "type": "Duelist",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStay Mobile\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10579\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Rakehell Duelist Attack 20</span>Stay Mobile</h1><p class=\\\"flavor\\\"><i>You dart in to deliver a stinging blow to your enemy, then spring back out of harm’s way.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of the encounter, whenever the target misses you with a melee attack, you can shift 1 square as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Rakehell Duelist",
+    "flavor": "You dart in to deliver a stinging blow to your enemy, then spring back out of harm’s way.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 4[W] + Strength modifier damage.</p><p class=\"powerstat\">Effect: Until the end of the encounter, whenever the target misses you with a melee attack, you can shift 1 square as a free action.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "4[W] + Strength modifier damage.",
+    "effect": "Until the end of the encounter, whenever the target misses you with a melee attack, you can shift 1 square as a free action."
+  },
+  "Main Gauche Parry": {
+    "id": "'10580",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Main Gauche Parry",
+    "type": "Duelist",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMain Gauche Parry\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10580\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rakehell Duelist Utility 12</span>Main Gauche Parry</h1><p class=\\\"flavor\\\"><i>Lesson twenty-three of the tempest technique—a well-timed parry with a light blade can save life and loin.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons, one of which is a light blade that has the off-hand property.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you with a melee attack</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a +4 bonus to AC and Reflex until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Rakehell Duelist",
+    "flavor": "Lesson twenty-three of the tempest technique—a well-timed parry with a light blade can save life and loin.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Requirement: You must be wielding two melee weapons, one of which is a light blade that has the off-hand property.</p><p class=\"powerstat\">Trigger: An enemy hits you with a melee attack</p><p class=\"flavor\">Effect: You gain a +4 bonus to AC and Reflex until the start of your next turn.</p>",
+    "requirement": "You must be wielding two melee weapons, one of which is a light blade that has the off-hand property.",
+    "trigger": "An enemy hits you with a melee attack",
+    "effect": "You gain a +4 bonus to AC and Reflex until the start of your next turn."
+  }
+}

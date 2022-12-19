@@ -1,0 +1,84 @@
+{
+  "Pact Keeper's Pledge": {
+    "id": "'13890",
+    "action": "No Action",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Pact Keeper's Pledge",
+    "type": "Binder",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPact Keeper's Pledge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13890\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Binder Utility 12</span>Pact Keeper's Pledge</h1><p class=\\\"flavor\\\"><i>You invoke the power of your pact, whispering a plea for aid to the entities that forged it with you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b>, <b>Shadow</b>, <b>Teleportation</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain one of the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You teleport up to 10 squares. You do not need to be able to see the destination square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You end one effect on you that a save can end.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Until the end of your next turn, you reduce all damage you take to 0.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power only during your turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Binder",
+    "flavor": "You invoke the power of your pact, whispering a plea for aid to the entities that forged it with you.",
+    "keywords": [
+      "Arcane, Healing, Shadow, Teleportation"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain one of the following benefits.",
+    "effect": "You gain one of the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You teleport up to 10 squares. You do not need to be able to see the destination square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You end one effect on you that a save can end.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Until the end of your next turn, you reduce all damage you take to 0.",
+    "special": "You can use this power only during your turn."
+  },
+  "Offering of Magic": {
+    "id": "'13899",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Offering of Magic",
+    "type": "Binder",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOffering of Magic\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13899\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Binder Attack 20</span>Offering of Magic</h1><p class=\\\"flavor\\\"><i>Tendrils of arcane force slam into your foe. When it falls, it releases a storm of power that you can call on to assault a different enemy.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Force</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 5d8 + Charisma modifier force damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can use your Pact Boon power now, regardless of its trigger. Also, if you reduce the target to 0 hit points with this attack, you gain an additional standard action this turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Binder",
+    "flavor": "Tendrils of arcane force slam into your foe. When it falls, it releases a storm of power that you can call on to assault a different enemy.",
+    "keywords": [
+      "Arcane, Force, Implement"
+    ],
+    "range": "Ranged 20</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Reflex</p><p class=\"flavor\">Hit: 5d8 + Charisma modifier force damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You can use your Pact Boon power now, regardless of its trigger. Also, if you reduce the target to 0 hit points with this attack, you gain an additional standard action this turn.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. Reflex",
+    "onHit": "5d8 + Charisma modifier force damage.",
+    "onMiss": "Half damage.",
+    "effect": "You can use your Pact Boon power now, regardless of its trigger. Also, if you reduce the target to 0 hit points with this attack, you gain an additional standard action this turn."
+  },
+  "Tide of Night": {
+    "id": "'13907",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Tide of Night",
+    "type": "Binder",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTide of Night\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13907\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Binder Attack 11</span>Tide of Night</h1><p class=\\\"flavor\\\"><i>A swirling cloud of darkness shrouds your enemies, concealing all but their shrieks of pain and terror.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Necrotic</b>, <b>Shadow</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Charisma modifier necrotic damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The burst creates a zone that lasts until the start of your next turn. The zone is heavily obscured and blocks line of sight. Any enemy that ends its turn in the zone takes necrotic damage equal to 5 + your Dexterity modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Binder",
+    "flavor": "A swirling cloud of darkness shrouds your enemies, concealing all but their shrieks of pain and terror.",
+    "keywords": [
+      "Arcane, Implement, Necrotic, Shadow, Zone"
+    ],
+    "range": "Area burst 1 within 10 squares</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 3d6 + Charisma modifier necrotic damage.</p><p class=\"powerstat\">Effect: The burst creates a zone that lasts until the start of your next turn. The zone is heavily obscured and blocks line of sight. Any enemy that ends its turn in the zone takes necrotic damage equal to 5 + your Dexterity modifier.</p>",
+    "target": "Each creature in the burst",
+    "attack": "Charisma vs. Fortitude",
+    "onHit": "3d6 + Charisma modifier necrotic damage.",
+    "effect": "The burst creates a zone that lasts until the start of your next turn. The zone is heavily obscured and blocks line of sight. Any enemy that ends its turn in the zone takes necrotic damage equal to 5 + your Dexterity modifier."
+  },
+  "Banish to Darkness": {
+    "id": "'13917",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Banish to Darkness",
+    "type": "Binder",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBanish to Darkness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13917\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Binder Attack 11</span>Banish to Darkness</h1><p class=\\\"flavor\\\"><i>A globe of utter darkness surrounds your foe, exiling it momentarily to the frozen blackness of the Far Realm.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Cold</b>, <b>Fear</b>, <b>Implement</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Charisma modifier cold damage, and the target is dazed until the end of your next turn.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Star Pact (Binder)</b>: Any attack the target makes on its next turn must include at least one creature that is nearest to it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 80.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Master Binder",
+    "flavor": "A globe of utter darkness surrounds your foe, exiling it momentarily to the frozen blackness of the Far Realm.",
+    "keywords": [
+      "Arcane, Cold, Fear, Implement, Shadow"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 3d10 + Charisma modifier cold damage, and the target is dazed until the end of your next turn.</p><p class=\"powerstat\">&nbsp;&nbsp;Star Pact (Binder): Any attack the target makes on its next turn must include at least one creature that is nearest to it.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. Will",
+    "onHit": "3d10 + Charisma modifier cold damage, and the target is dazed until the end of your next turn."
+  }
+}

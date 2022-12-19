@@ -1,0 +1,64 @@
+{
+  "Shout of Challenge": {
+    "id": "'11002",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Shout of Challenge",
+    "type": "Blademaster",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShout of Challenge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11002\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arkhosian Blademaster Attack 11</span>Shout of Challenge</h1><p class=\\\"flavor\\\"><i>You attack with a fierce war cry, challenging your foe and giving heart to your nearby comrades.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier + Charisma modifier damage, and each ally within 3 squares of you gains temporary hit points equal to 5 + your Charisma modifier.</p><p class=\\\"powerstat\\\"><b>Effect</b>: If the target is bloodied, you mark it until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Arkhosian Blademaster",
+    "flavor": "You attack with a fierce war cry, challenging your foe and giving heart to your nearby comrades.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Hit: 2[W] + Strength modifier + Charisma modifier damage, and each ally within 3 squares of you gains temporary hit points equal to 5 + your Charisma modifier.</p><p class=\"powerstat\">Effect: If the target is bloodied, you mark it until the end of your next turn.</p>",
+    "attack": "Strength vs. AC",
+    "target": "One creature",
+    "onHit": "2[W] + Strength modifier + Charisma modifier damage, and each ally within 3 squares of you gains temporary hit points equal to 5 + your Charisma modifier.",
+    "effect": "If the target is bloodied, you mark it until the end of your next turn."
+  },
+  "Inspiring Blade": {
+    "id": "'11003",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Inspiring Blade",
+    "type": "Blademaster",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInspiring Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11003\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arkhosian Blademaster Attack 20</span>Inspiring Blade</h1><p class=\\\"flavor\\\"><i>A dazzling display of swordplay and a bold challenge to your enemies inspires your allies to follow your example and battle on with renewed vigor.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and you mark the target until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: One ally within 10 squares of you regains the use of an expended encounter attack power. In addition, for each use of inspiring word you have expended during this encounter, one additional ally within 10 squares of you regains the use of an expended encounter attack power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Arkhosian Blademaster",
+    "flavor": "A dazzling display of swordplay and a bold challenge to your enemies inspires your allies to follow your example and battle on with renewed vigor.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and you mark the target until the end of your next turn.</p><p class=\"powerstat\">Effect: One ally within 10 squares of you regains the use of an expended encounter attack power. In addition, for each use of inspiring word you have expended during this encounter, one additional ally within 10 squares of you regains the use of an expended encounter attack power.</p>",
+    "target": "Each enemy in the burst you can see",
+    "attack": "Strength vs. AC",
+    "onHit": "3[W] + Strength modifier damage, and you mark the target until the end of your next turn.",
+    "effect": "One ally within 10 squares of you regains the use of an expended encounter attack power. In addition, for each use of inspiring word you have expended during this encounter, one additional ally within 10 squares of you regains the use of an expended encounter attack power."
+  },
+  "Heart of Dragons": {
+    "id": "'11004",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Heart of Dragons",
+    "type": "Blademaster",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHeart of Dragons\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11004\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arkhosian Blademaster Utility 12</span>Heart of Dragons</h1><p class=\\\"flavor\\\"><i>An enemy’s blow against you or an ally steels your resolve.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You or an ally within 5 squares of you is bloodied by an enemy attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering character in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can make a saving throw and also gains temporary hit points equal to 5 + your Charisma modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Arkhosian Blademaster",
+    "flavor": "An enemy’s blow against you or an ally steels your resolve.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Trigger: You or an ally within 5 squares of you is bloodied by an enemy attack</p><p class=\"powerstat\">Target: The triggering character in the burst</p><p class=\"flavor\">Effect: The target can make a saving throw and also gains temporary hit points equal to 5 + your Charisma modifier.</p>",
+    "trigger": "You or an ally within 5 squares of you is bloodied by an enemy attack",
+    "target": "The triggering character in the burst",
+    "effect": "The target can make a saving throw and also gains temporary hit points equal to 5 + your Charisma modifier."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Lightning Strikes Twice": {
+    "id": "'13113",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Lightning Strikes Twice",
+    "type": "Disciple",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLightning Strikes Twice\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13113\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Storm Disciple Attack 11</span>Lightning Strikes Twice</h1><p class=\\\"flavor\\\"><i>Living lightning wraps your body, letting you surge from one target to the next.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Lightning</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Constitution modifier lightning damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You teleport 5 squares and make a secondary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1[W] + Constitution modifier lightning damage.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Effect</b>: You teleport 5 squares and make a secondary attack as above, then teleport 5 squares and make the secondary attack again against a different creature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Storm Disciple",
+    "flavor": "Living lightning wraps your body, letting you surge from one target to the next.",
+    "keywords": [
+      "Augmentable, Lightning, Psionic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Constitution vs. AC</p><p class=\"flavor\">Hit: 1[W] + Constitution modifier lightning damage.</p><p class=\"powerstat\">Effect: You teleport 5 squares and make a secondary attack.</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Target: One creature other than the primary target</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Constitution vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 1[W] + Constitution modifier lightning damage.</p>Augment 2",
+    "primaryTarget": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier lightning damage.",
+    "effect": "You teleport 5 squares and make a secondary attack.",
+    "secondaryTarget": "One creature other than the primary target",
+    "secondaryAttack": "Constitution vs. AC",
+    "secondaryOnHit": "1[W] + Constitution modifier lightning damage.",
+    "secondaryeffect": "You teleport 5 squares and make a secondary attack as above, then teleport 5 squares and make the secondary attack again against a different creature."
+  },
+  "Aspect of the Infinite Storm": {
+    "id": "'13114",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Aspect of the Infinite Storm",
+    "type": "Disciple",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAspect of the Infinite Storm\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13114\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Storm Disciple Attack 20</span>Aspect of the Infinite Storm</h1><p class=\\\"flavor\\\"><i>When you strike, you summon the transformative power of the infinite storm.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Lightning</b>, <b>Polymorph</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy you can see in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Constitution modifier lightning damage, and ongoing 10 lightning damage (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: You assume the aspect of the infinite storm until the end of the encounter. While in this aspect, you can use the following augmentation with your battlemind at-will attack powers that are augmentable. This augmentation is in addition to the effects that an at-will power might have; this augmentation doesn’t supersede them.</p><b>Augment 2</b><br/><p class=\\\"flavor\\\"><b>Effect</b>: After the attack, you become the tempestuous storm, occupying a 7-square by 7-square area centered on your space. While in this form, you are insubstantial, you can occupy other creatures’ spaces, and you cannot attack. When any creature starts its turn in your new space, you slide that creature 2 squares. In addition, one creature hit by the at-will attack takes 5 extra lightning damage and is dazed until the end of your next turn. At the start of your next turn, you return to your normal form in any unoccupied space in the area of the tempestuous storm.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Storm Disciple",
+    "flavor": "When you strike, you summon the transformative power of the infinite storm.",
+    "keywords": [
+      "Lightning, Polymorph, Psionic, Weapon"
+    ],
+    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy you can see in the burst</p><p class=\"powerstat\">Attack: Constitution vs. AC</p><p class=\"flavor\">Hit: 1[W] + Constitution modifier lightning damage, and ongoing 10 lightning damage (save ends).</p><p class=\"powerstat\">Effect: You assume the aspect of the infinite storm until the end of the encounter. While in this aspect, you can use the following augmentation with your battlemind at-will attack powers that are augmentable. This augmentation is in addition to the effects that an at-will power might have; this augmentation doesn’t supersede them.</p>Augment 2",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier lightning damage, and ongoing 10 lightning damage (save ends).",
+    "effect": "After the attack, you become the tempestuous storm, occupying a 7-square by 7-square area centered on your space. While in this form, you are insubstantial, you can occupy other creatures’ spaces, and you cannot attack. When any creature starts its turn in your new space, you slide that creature 2 squares. In addition, one creature hit by the at-will attack takes 5 extra lightning damage and is dazed until the end of your next turn. At the start of your next turn, you return to your normal form in any unoccupied space in the area of the tempestuous storm."
+  },
+  "Stormwalker": {
+    "id": "'13115",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Stormwalker",
+    "type": "Disciple",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStormwalker\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13115\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Storm Disciple Utility 12</span>Stormwalker</h1><p class=\\\"flavor\\\"><i>The winds of the immortal storm carry you into battle.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a fly speed equal to your speed and can hover. This effect lasts until an attack hits you or until the end of the encounter. When the effect ends, you descend to the ground without taking falling damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Storm Disciple",
+    "flavor": "The winds of the immortal storm carry you into battle.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You gain a fly speed equal to your speed and can hover. This effect lasts until an attack hits you or until the end of the encounter. When the effect ends, you descend to the ground without taking falling damage.</p>",
+    "effect": "You gain a fly speed equal to your speed and can hover. This effect lasts until an attack hits you or until the end of the encounter. When the effect ends, you descend to the ground without taking falling damage."
+  }
+}

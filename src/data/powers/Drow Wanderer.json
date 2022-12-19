@@ -1,0 +1,63 @@
+{
+  "From Out of Nowhere": {
+    "id": "'1899",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "From Out of Nowhere",
+    "type": "Wanderer",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFrom Out of Nowhere\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1899\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Drow Wanderer Attack 11</span>From Out of Nowhere</h1><p class=\\\"flavor\\\"><i>You launch an attack. If your foe doesn’t know you’re there, your blow dazes your enemy for a short time.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC, Dexterity vs. AC, or Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength, Dexterity, or Constitution modifier damage.</p><p class=\\\"powerstat\\\"><b>Special</b>: If the target grants combat advantage to you, the target is also dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Drow Wanderer",
+    "flavor": "You launch an attack. If your foe doesn’t know you’re there, your blow dazes your enemy for a short time.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC, Dexterity vs. AC, or Constitution vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength, Dexterity, or Constitution modifier damage.</p><p class=\"powerstat\">Special: If the target grants combat advantage to you, the target is also dazed until the end of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC, Dexterity vs. AC, or Constitution vs. AC",
+    "onHit": "2[W] + Strength, Dexterity, or Constitution modifier damage.",
+    "special": "If the target grants combat advantage to you, the target is also dazed until the end of your next turn."
+  },
+  "Strength in Darkness": {
+    "id": "'1900",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Strength in Darkness",
+    "type": "Wanderer",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStrength in Darkness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1900\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Drow Wanderer Utility 12</span>Strength in Darkness</h1><p class=\\\"flavor\\\"><i>The cold embrace of darkness flows into your wounds, replacing your life’s blood with its ebon power.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Spend a healing surge. If you are inside darkness, add your Constitution modifier to the number of hit points you regain.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Drow Wanderer",
+    "flavor": "The cold embrace of darkness flows into your wounds, replacing your life’s blood with its ebon power.",
+    "keywords": [
+      "Healing"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Spend a healing surge. If you are inside darkness, add your Constitution modifier to the number of hit points you regain.</p>",
+    "effect": "Spend a healing surge. If you are inside darkness, add your Constitution modifier to the number of hit points you regain."
+  },
+  "Darkblade": {
+    "id": "'1901",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Darkblade",
+    "type": "Wanderer",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDarkblade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1901\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Drow Wanderer Attack 20</span>Darkblade</h1><p class=\\\"flavor\\\"><i>You fix your cloud of darkness to the foe you strike, shrouding your enemy in gloom. It remains in place, obscuring your foe’s sight.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC, Dexterity vs. AC, or Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Strength, Dexterity, or Constitution modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: As a free action, use your cloud of darkness power centered on your target instead of you. The power otherwise behaves as normal.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The cloud persists, and you can move it 3 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 51.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Drow Wanderer",
+    "flavor": "You fix your cloud of darkness to the foe you strike, shrouding your enemy in gloom. It remains in place, obscuring your foe’s sight.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature.</p><p class=\"powerstat\">Attack: Strength vs. AC, Dexterity vs. AC, or Constitution vs. AC</p><p class=\"flavor\">Hit: 5[W] + Strength, Dexterity, or Constitution modifier damage.</p><p class=\"powerstat\">Effect: As a free action, use your cloud of darkness power centered on your target instead of you. The power otherwise behaves as normal.</p><p class=\"flavor\">Sustain Minor: The cloud persists, and you can move it 3 squares.</p>",
+    "target": "One creature.",
+    "attack": "Strength vs. AC, Dexterity vs. AC, or Constitution vs. AC",
+    "onHit": "5[W] + Strength, Dexterity, or Constitution modifier damage.",
+    "effect": "As a free action, use your cloud of darkness power centered on your target instead of you. The power otherwise behaves as normal.",
+    "sustainMinor": "The cloud persists, and you can move it 3 squares."
+  }
+}

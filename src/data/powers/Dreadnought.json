@@ -1,0 +1,64 @@
+{
+  "Inexorable Advance": {
+    "id": "'4654",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Inexorable Advance",
+    "type": "Attack",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInexorable Advance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4654\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dreadnought Attack 11</span>Inexorable Advance</h1><p class=\\\"flavor\\\"><i>You relentlessly pound through and past your foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Invigorating</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Targets</b>: One or two creatures</p><p class=\\\"flavor\\\"><b>Effect</b>: You can shift 1 square before each attack.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC, two attacks</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage per attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Weapon</b>: If you’re wielding an axe, a hammer, or a mace, the attacks deal extra damage equal to your Constitution modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Dreadnought",
+    "flavor": "You relentlessly pound through and past your foes.",
+    "keywords": [
+      "Invigorating, Martial, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Targets: One or two creatures</p><p class=\"flavor\">Effect: You can shift 1 square before each attack.</p><p class=\"powerstat\">Attack: Strength vs. AC, two attacks</p><p class=\"flavor\">Hit: 1[W] + Strength modifier damage per attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Weapon: If you’re wielding an axe, a hammer, or a mace, the attacks deal extra damage equal to your Constitution modifier.</p>",
+    "targets": "One or two creatures",
+    "effect": "You can shift 1 square before each attack.",
+    "attack": "Strength vs. AC, two attacks",
+    "onHit": "1[W] + Strength modifier damage per attack.",
+    "weapon": "If you’re wielding an axe, a hammer, or a mace, the attacks deal extra damage equal to your Constitution modifier."
+  },
+  "Line-Breaker Assault": {
+    "id": "'4655",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Line-Breaker Assault",
+    "type": "Attack",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLine-Breaker Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4655\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dreadnought Attack 20</span>Line-Breaker Assault</h1><p class=\\\"flavor\\\"><i>our hammering strike knocks your foe where you want it and leaves it staggering.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and you slide the target 3 squares to an adjacent space. The target is dazed (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain resist 5 to all damage until the start of your next turn.</p><br/>Update (11/23/2009)<br/>On the Hit line, add “1 square” between “target” and “into.”<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Dreadnought",
+    "flavor": "our hammering strike knocks your foe where you want it and leaves it staggering.",
+    "keywords": [
+      "Martial, Reliable, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. Fortitude</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and you slide the target 3 squares to an adjacent space. The target is dazed (save ends).</p><p class=\"powerstat\">Effect: You gain resist 5 to all damage until the start of your next turn.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. Fortitude",
+    "onHit": "3[W] + Strength modifier damage, and you slide the target 3 squares to an adjacent space. The target is dazed (save ends).",
+    "effect": "You gain resist 5 to all damage until the start of your next turn."
+  },
+  "Blood Iron": {
+    "id": "'4656",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Blood Iron",
+    "type": "Utility",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlood Iron\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4656\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dreadnought Utility 12</span>Blood Iron</h1><p class=\\\"flavor\\\"><i>Detaching your mind from your injuries, you ignore minor wounds for the rest of the battle.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You become bloodied</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain resist 5 to all damage until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Dreadnought",
+    "flavor": "Detaching your mind from your injuries, you ignore minor wounds for the rest of the battle.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You become bloodied</p><p class=\"flavor\">Effect: You gain resist 5 to all damage until the end of the encounter.</p>",
+    "trigger": "You become bloodied",
+    "effect": "You gain resist 5 to all damage until the end of the encounter."
+  }
+}

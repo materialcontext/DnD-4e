@@ -1,0 +1,62 @@
+{
+  "Razaundra's Lash": {
+    "id": "'14040",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Razaundra's Lash",
+    "type": "of",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRazaundra's Lash\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14040\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Disciple of Razaundra Attack 11</span>Razaundra's Lash</h1><p class=\\\"flavor\\\"><i>A red lash appears in your hand, laying into your foes and leaving them in anguish.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One or two enemies</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d10 + Charisma modifier damage, and the target is weakened until the end of your next turn. You gain a +5 bonus to the damage roll if you are bloodied.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 143.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Disciple of Razaundra",
+    "flavor": "A red lash appears in your hand, laying into your foes and leaving them in anguish.",
+    "keywords": [
+      "Arcane, Implement, Shadow"
+    ],
+    "range": "Ranged 5</p><p class=\"powerstat\">Target: One or two enemies</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 1d10 + Charisma modifier damage, and the target is weakened until the end of your next turn. You gain a +5 bonus to the damage roll if you are bloodied.</p>",
+    "target": "One or two enemies",
+    "attack": "Charisma vs. Will",
+    "onHit": "1d10 + Charisma modifier damage, and the target is weakened until the end of your next turn. You gain a +5 bonus to the damage roll if you are bloodied."
+  },
+  "Open the Dark Floodgates": {
+    "id": "'14041",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Open the Dark Floodgates",
+    "type": "of",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOpen the Dark Floodgates\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14041\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Disciple of Razaundra Attack 20</span>Open the Dark Floodgates</h1><p class=\\\"flavor\\\"><i>The rage that wells up inside you is a dark storm whose force is felt by you and your foe alike.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Necrotic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Charisma modifier necrotic damage, and the target is stunned (save ends). You are dazed until the end of your next turn.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Aftereffect</b>: The target is dazed (save ends). While the target is dazed by this aftereffect, your attacks must include the nearest enemy that you can see. In addition, you gain a +2 power bonus to attack rolls and a +5 power bonus to damage rolls.</p><p class=\\\"flavor\\\"><b>Miss</b>: Half damage, and the target is dazed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 143.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Disciple of Razaundra",
+    "flavor": "The rage that wells up inside you is a dark storm whose force is felt by you and your foe alike.",
+    "keywords": [
+      "Arcane, Implement, Necrotic, Shadow"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 2d8 + Charisma modifier necrotic damage, and the target is stunned (save ends). You are dazed until the end of your next turn.</p><p class=\"powerstat\">&nbsp;&nbsp;Aftereffect: The target is dazed (save ends). While the target is dazed by this aftereffect, your attacks must include the nearest enemy that you can see. In addition, you gain a +2 power bonus to attack rolls and a +5 power bonus to damage rolls.</p><p class=\"flavor\">Miss: Half damage, and the target is dazed (save ends).</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. Will",
+    "onHit": "2d8 + Charisma modifier necrotic damage, and the target is stunned (save ends). You are dazed until the end of your next turn.",
+    "aftereffect": "The target is dazed (save ends). While the target is dazed by this aftereffect, your attacks must include the nearest enemy that you can see. In addition, you gain a +2 power bonus to attack rolls and a +5 power bonus to damage rolls.",
+    "onMiss": "Half damage, and the target is dazed (save ends)."
+  },
+  "Cascade of Fury": {
+    "id": "'14042",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Cascade of Fury",
+    "type": "of",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCascade of Fury\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14042\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Disciple of Razaundra Utility 12</span>Cascade of Fury</h1><p class=\\\"flavor\\\"><i>When you release your fury, Razaundra’s wrath distracts your foes to leave them at your mercy</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your turn, all enemies grant combat advantage to you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 143.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Disciple of Razaundra",
+    "flavor": "When you release your fury, Razaundra’s wrath distracts your foes to leave them at your mercy",
+    "keywords": [
+      "Arcane, Shadow"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your turn, all enemies grant combat advantage to you.</p>",
+    "effect": "Until the end of your turn, all enemies grant combat advantage to you."
+  }
+}

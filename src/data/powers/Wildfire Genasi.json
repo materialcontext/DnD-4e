@@ -1,0 +1,63 @@
+{
+  "Firesoul Combustion": {
+    "id": "'1841",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Firesoul Combustion",
+    "type": "Genasi",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFiresoul Combustion\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1841\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Wildfire Genasi Attack 11</span>Firesoul Combustion</h1><p class=\\\"flavor\\\"><i>Searing gouts of flame roar from your body, rolling over nearby foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength + 4 vs. Reflex, Dexterity + 4 vs. Reflex, or Constitution + 4 vs. Reflex<br/>Increase the bonus on attack rolls to +6 at 21st level.</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Strength modifier or Constitution modifier fire damage, and the target gains vulnerable 5 fire until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Wildfire Genasi",
+    "flavor": "Searing gouts of flame roar from your body, rolling over nearby foes.",
+    "keywords": [
+      "Fire"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength + 4 vs. Reflex, Dexterity + 4 vs. Reflex, or Constitution + 4 vs. Reflex",
+    "target": "Each enemy in the burst",
+    "attack": "Strength + 4 vs. Reflex, Dexterity + 4 vs. Reflex, or Constitution + 4 vs. Reflex<br/>Increase the bonus on attack rolls to +6 at 21st level.",
+    "onHit": "3d6 + Strength modifier or Constitution modifier fire damage, and the target gains vulnerable 5 fire until the end of your next turn."
+  },
+  "Embers of Life": {
+    "id": "'1842",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Embers of Life",
+    "type": "Genasi",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEmbers of Life\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1842\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wildfire Genasi Utility 12</span>Embers of Life</h1><p class=\\\"flavor\\\"><i>Within your wounds, a lively flickering flame glows and surges. Ribbons of fire seal your wounds.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You take damage that would reduce you to 0 hit points or fewer</p><p class=\\\"flavor\\\"><b>Effect</b>: Spend a healing surge.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Wildfire Genasi",
+    "flavor": "Within your wounds, a lively flickering flame glows and surges. Ribbons of fire seal your wounds.",
+    "keywords": [
+      "Healing"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You take damage that would reduce you to 0 hit points or fewer</p><p class=\"flavor\">Effect: Spend a healing surge.</p>",
+    "trigger": "You take damage that would reduce you to 0 hit points or fewer",
+    "effect": "Spend a healing surge."
+  },
+  "Firesoul Conflagration": {
+    "id": "'1843",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Firesoul Conflagration",
+    "type": "Genasi",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFiresoul Conflagration\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1843\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wildfire Genasi Attack 20</span>Firesoul Conflagration</h1><p class=\\\"flavor\\\"><i>You reach out with your power and set an enemy’s blood aflame inside its body.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength + 5 vs. Reflex, Dexterity + 5 vs. Reflex, or Constitution + 5 vs. Reflex<br/>Increase the bonus on attack rolls to +7 at 26th level.</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d6 + Strength or Constitution modifier fire damage, and ongoing 10 fire damage and the target is dazed (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 5 fire damage (save ends).</p><p class=\\\"flavor\\\"><b>Special</b>: This attack ignores fire resistance and fire immunity.</p><br/>Addition (1/21/2009)<br/>On the Hit line, add “modifier” after “Strength or Constitution”.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Wildfire Genasi",
+    "flavor": "You reach out with your power and set an enemy’s blood aflame inside its body.",
+    "keywords": [
+      "Fire"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength + 5 vs. Reflex, Dexterity + 5 vs. Reflex, or Constitution + 5 vs. Reflex",
+    "target": "Each enemy in the burst",
+    "attack": "Strength + 5 vs. Reflex, Dexterity + 5 vs. Reflex, or Constitution + 5 vs. Reflex<br/>Increase the bonus on attack rolls to +7 at 26th level.",
+    "onHit": "4d6 + Strength or Constitution modifier fire damage, and ongoing 10 fire damage and the target is dazed (save ends both).",
+    "onMiss": "Half damage, and ongoing 5 fire damage (save ends).",
+    "special": "This attack ignores fire resistance and fire immunity."
+  }
+}

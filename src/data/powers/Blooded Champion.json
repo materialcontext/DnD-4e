@@ -1,0 +1,63 @@
+{
+  "Follow-Up Gore": {
+    "id": "'5670",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Follow-Up Gore",
+    "type": "Champion",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFollow-Up Gore\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5670\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Blooded Champion Attack 11</span>Follow-Up Gore</h1><p class=\\\"flavor\\\"><i>Your weapon strike unbalances your foe, leaving it exposed to your ferocious gore attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + 2d6 + Strength modifier damage, and you slide the target 1 square and knock it prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 16.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blooded Champion",
+    "flavor": "Your weapon strike unbalances your foe, leaving it exposed to your ferocious gore attack.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee 1</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 1[W] + 2d6 + Strength modifier damage, and you slide the target 1 square and knock it prone.</p>",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "1[W] + 2d6 + Strength modifier damage, and you slide the target 1 square and knock it prone."
+  },
+  "Bloodthirsty Shift": {
+    "id": "'5671",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Bloodthirsty Shift",
+    "type": "Champion",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBloodthirsty Shift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5671\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Blooded Champion Utility 12</span>Bloodthirsty Shift</h1><p class=\\\"flavor\\\"><i>When an enemy of yours falls, you spring forward to engage the next foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You reduce an enemy to 0 hit points</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift your speed to a square adjacent to an enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 16.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blooded Champion",
+    "flavor": "When an enemy of yours falls, you spring forward to engage the next foe.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You reduce an enemy to 0 hit points</p><p class=\"flavor\">Effect: You shift your speed to a square adjacent to an enemy.</p>"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You reduce an enemy to 0 hit points</p><p class=\"flavor\">Effect: You shift your speed to a square adjacent to an enemy.</p>",
+    "trigger": "You reduce an enemy to 0 hit points",
+    "effect": "You shift your speed to a square adjacent to an enemy."
+  },
+  "Driving Gore": {
+    "id": "'5672",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Driving Gore",
+    "type": "Champion",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDriving Gore\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5672\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Blooded Champion Attack 20</span>Driving Gore</h1><p class=\\\"flavor\\\"><i>You swing your horns in a brutal arc, knocking your enemy back and down.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Effect</b>: You charge and use the following attack in place of a melee basic attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: One creature</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Strength + 8 vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 5d6 + Strength modifier damage, and you slide the target 4 squares and knock it prone.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Miss</b>: Half damage, and you slide the target 2 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 16.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Blooded Champion",
+    "flavor": "You swing your horns in a brutal arc, knocking your enemy back and down.",
+    "keywords": [
+      "&nbsp;&nbsp;Melee 1</p><p class=\"flavor\">Effect: You charge and use the following attack in place of a melee basic attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength + 8 vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 5d6 + Strength modifier damage, and you slide the target 4 squares and knock it prone.</p><p class=\"powerstat\">&nbsp;&nbsp;Miss: Half damage, and you slide the target 2 squares.</p>"
+    ],
+    "range": "Melee 1</p><p class=\"flavor\">Effect: You charge and use the following attack in place of a melee basic attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength + 8 vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 5d6 + Strength modifier damage, and you slide the target 4 squares and knock it prone.</p><p class=\"powerstat\">&nbsp;&nbsp;Miss: Half damage, and you slide the target 2 squares.</p>",
+    "effect": "You charge and use the following attack in place of a melee basic attack.",
+    "target": "One creature",
+    "attack": "Strength + 8 vs. AC",
+    "onHit": "5d6 + Strength modifier damage, and you slide the target 4 squares and knock it prone.",
+    "onMiss": "Half damage, and you slide the target 2 squares."
+  }
+}

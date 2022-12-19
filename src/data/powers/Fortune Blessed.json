@@ -1,0 +1,62 @@
+{
+  "Misfortune's Curse": {
+    "id": "'11716",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Misfortune's Curse",
+    "type": "Blessed",
+    "sourceRef": "Dragon Magazine 384",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMisfortune's Curse\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11716\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Fortune Blessed Attack 11</span>Misfortune's Curse</h1><p class=\\\"flavor\\\"><i>You steal a bit of luck from your enemy to leave the foe fumbling and stumbling through the fight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy adjacent to you misses you with a melee attack</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering enemy repeats the attack against a legal target of your choice or itself, with a +2 bonus to the attack roll. If the attack hits and deals damage, it deals extra damage equal to your highest ability modifier. In addition, if have 0 luck tokens when you use this power, you gain 1 luck token.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Fortune Blessed",
+    "flavor": "You steal a bit of luck from your enemy to leave the foe fumbling and stumbling through the fight.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Melee touch</p><p class=\"powerstat\">Trigger: An enemy adjacent to you misses you with a melee attack</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: The triggering enemy repeats the attack against a legal target of your choice or itself, with a +2 bonus to the attack roll. If the attack hits and deals damage, it deals extra damage equal to your highest ability modifier. In addition, if have 0 luck tokens when you use this power, you gain 1 luck token.</p>",
+    "trigger": "An enemy adjacent to you misses you with a melee attack",
+    "target": "One creature",
+    "effect": "The triggering enemy repeats the attack against a legal target of your choice or itself, with a +2 bonus to the attack roll. If the attack hits and deals damage, it deals extra damage equal to your highest ability modifier. In addition, if have 0 luck tokens when you use this power, you gain 1 luck token."
+  },
+  "Avandra's Curse": {
+    "id": "'11717",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Avandra's Curse",
+    "type": "Blessed",
+    "sourceRef": "Dragon Magazine 384",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAvandra's Curse\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11717\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Fortune Blessed Attack 20</span>Avandra's Curse</h1><p class=\\\"flavor\\\"><i>You call to Avandra and ask the goddess to lift her gaze from your enemy. For a time, nothing goes right for your chosen foe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + highest ability modifier psychic damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The target is dazed, slowed, takes a -2 penalty to attack rolls, and takes psychic damage equal to your highest ability modifier the first time it misses with an attack on its turn (save ends all). Whenever the target succeeds on a saving throw to end the effect, you can spend 1 luck token as an immediate interrupt to force the target to reroll the saving throw and use the second result.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Fortune Blessed",
+    "flavor": "You call to Avandra and ask the goddess to lift her gaze from your enemy. For a time, nothing goes right for your chosen foe.",
+    "keywords": [
+      "Divine, Implement, Psychic"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Highest ability vs. Will</p><p class=\"flavor\">Hit: 2d8 + highest ability modifier psychic damage.</p><p class=\"powerstat\">Effect: The target is dazed, slowed, takes a -2 penalty to attack rolls, and takes psychic damage equal to your highest ability modifier the first time it misses with an attack on its turn (save ends all). Whenever the target succeeds on a saving throw to end the effect, you can spend 1 luck token as an immediate interrupt to force the target to reroll the saving throw and use the second result.</p>",
+    "target": "One creature",
+    "attack": "Highest ability vs. Will",
+    "onHit": "2d8 + highest ability modifier psychic damage.",
+    "effect": "The target is dazed, slowed, takes a -2 penalty to attack rolls, and takes psychic damage equal to your highest ability modifier the first time it misses with an attack on its turn (save ends all). Whenever the target succeeds on a saving throw to end the effect, you can spend 1 luck token as an immediate interrupt to force the target to reroll the saving throw and use the second result."
+  },
+  "Lucky Break": {
+    "id": "'11718",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Lucky Break",
+    "type": "Blessed",
+    "sourceRef": "Dragon Magazine 384",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLucky Break\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11718\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Fortune Blessed Utility 12</span>Lucky Break</h1><p class=\\\"flavor\\\"><i>Unexpected fortune turns a certain injury or even death into a close call.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You take damage</p><p class=\\\"flavor\\\"><b>Effect</b>: Reduce the triggering damage by your healing surge value. You can spend 1 luck token to add 1d20 to this amount. If this reduces the damage to 0, you also shift 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Fortune Blessed",
+    "flavor": "Unexpected fortune turns a certain injury or even death into a close call.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Personal </p><p class=\"powerstat\">Trigger: You take damage</p><p class=\"flavor\">Effect: Reduce the triggering damage by your healing surge value. You can spend 1 luck token to add 1d20 to this amount. If this reduces the damage to 0, you also shift 1 square.</p>",
+    "trigger": "You take damage",
+    "effect": "Reduce the triggering damage by your healing surge value. You can spend 1 luck token to add 1d20 to this amount. If this reduces the damage to 0, you also shift 1 square."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Phrenic Strike": {
+    "id": "'13018",
+    "action": "Immediate Reaction",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Phrenic Strike",
+    "type": "Invader",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPhrenic Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13018\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Phrenic Invader Attack 11</span>Phrenic Strike</h1><p class=\\\"flavor\\\"><i>You fight past your enemy’s attack to deliver a punishing blow to its body and mind.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you with a melee attack</p><p class=\\\"flavor\\\"><b>Effect</b>: Before the attack, you shift 1 square.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Charisma modifier damage, and the target grants combat advantage until the end of your next turn.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: 1[W] + Charisma modifier damage, and the target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Phrenic Invader",
+    "flavor": "You fight past your enemy’s attack to deliver a punishing blow to its body and mind.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: An enemy hits you with a melee attack</p><p class=\"flavor\">Effect: Before the attack, you shift 1 square.</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 1[W] + Charisma modifier damage, and the target grants combat advantage until the end of your next turn.</p>Augment 2",
+    "trigger": "An enemy hits you with a melee attack",
+    "effect": "Before the attack, you shift 1 square.",
+    "target": "The triggering enemy",
+    "attack": "Charisma vs. AC",
+    "onHit": "1[W] + Charisma modifier damage, and the target is dazed until the end of your next turn."
+  },
+  "Thought Interloper": {
+    "id": "'13019",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Thought Interloper",
+    "type": "Invader",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nThought Interloper\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13019\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Phrenic Invader Attack 20</span>Thought Interloper</h1><p class=\\\"flavor\\\"><i>You lay open your opponent’s mental barriers, ravaging its mind and reading its every move in combat.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Charisma modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The target is affected by your thought interloper (save ends). While the target is affected by the interloper, it takes ongoing 5 psychic damage and its attacks provoke opportunity attacks from you.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Each Failed Saving Throw</b>: One ally adjacent to the target can make a melee basic attack against the target as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Phrenic Invader",
+    "flavor": "You lay open your opponent’s mental barriers, ravaging its mind and reading its every move in combat.",
+    "keywords": [
+      "Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 2[W] + Charisma modifier damage.</p><p class=\"powerstat\">Effect: The target is affected by your thought interloper (save ends). While the target is affected by the interloper, it takes ongoing 5 psychic damage and its attacks provoke opportunity attacks from you.</p><p class=\"flavor\">&nbsp;&nbsp;Each Failed Saving Throw: One ally adjacent to the target can make a melee basic attack against the target as a free action.</p>",
+    "target": "One creature",
+    "attack": "Charisma vs. AC",
+    "onHit": "2[W] + Charisma modifier damage.",
+    "effect": "The target is affected by your thought interloper (save ends). While the target is affected by the interloper, it takes ongoing 5 psychic damage and its attacks provoke opportunity attacks from you.",
+    "eachFailedSavingThrow": "One ally adjacent to the target can make a melee basic attack against the target as a free action."
+  },
+  "Mind's Bitter Betrayal": {
+    "id": "'13020",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Mind's Bitter Betrayal",
+    "type": "Invader",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMind's Bitter Betrayal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13020\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Phrenic Invader Utility 12</span>Mind's Bitter Betrayal</h1><p class=\\\"flavor\\\"><i>Your focused concentration lets you bolster your allies with energy drawn from your enemies’ uncertainty.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of the encounter or until you end the effect as a free action during your turn. The zone moves with you, remaining centered on you. While within the zone, enemies grant combat advantage to you, and allies gain a +2 power bonus to all defenses. Until the zone ends, you are slowed.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Phrenic Invader",
+    "flavor": "Your focused concentration lets you bolster your allies with energy drawn from your enemies’ uncertainty.",
+    "keywords": [
+      "Psionic, Zone"
+    ],
+    "range": "Close burst 3</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of the encounter or until you end the effect as a free action during your turn. The zone moves with you, remaining centered on you. While within the zone, enemies grant combat advantage to you, and allies gain a +2 power bonus to all defenses. Until the zone ends, you are slowed.</p>",
+    "effect": "The burst creates a zone that lasts until the end of the encounter or until you end the effect as a free action during your turn. The zone moves with you, remaining centered on you. While within the zone, enemies grant combat advantage to you, and allies gain a +2 power bonus to all defenses. Until the zone ends, you are slowed."
+  }
+}

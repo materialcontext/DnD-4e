@@ -7,51 +7,67 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 let file = fs.readFileSync(__dirname + '/../data/ddiPower.sql', 'utf8');
 
 //a regex to get all the lines that values between "VALUES (" and ");"
-let regex = /VALUES \((.*?)\);/g;
+let regex = /VALUES \((.*?)\);\n/g;
 
 //store regex matches in an array
 let matches = file.match(regex);
 
 let jsonTemplate = {
     "id": 0,
+    "action": "",
+    "powerClass": "",
+    "frequency": "",
+    "level": "",
     "name": "",
-    "size": "",
-    "description": "",
-    "ref": "",
+    "type": "",
+    "sourceRef": "",
     "fullText": "",
 }
 
 let fileNames = [];
-let json = Object.assign({}, jsonTemplate);
+let json = {};
 
+const addToObject = (values) => {
+    json[values[7]][values[1]] = { ...jsonTemplate };
+    let target = json[values[7]][values[1]];
 
-let addToObject = (values) => {
-    let target = values[7];
-    json[target].id = values[0];
-    json[target].powerName = values[1];
-    json[target].powerLevel = values[2];
-    json[target].actionCost = values[3];
-    // remover double slashes from ref
-    json[target].sourceRef = values[6].replace(/\\/g, '');
-    json[target].powerClass = values[7];
-    json[target].powerType = values[10];
-    json[target].powerFreq = values[11];
+    target.id = values[0];
+    target.name = values[1];
+    target.level = values[2];
+    target.action = values[3];
 
-    //remove everything after </html> tag
-    json[target].fullText = values[9].replace(/<\/html>.*$/, '</html>');
+    // remove backslashes from sourceRef
+    target.sourceRef = values[6].replace(/\\/g, '');
+    target.class = values[7];
+    target.fullText = values[9];
+    target.type = values[10];
+
+    // remove "');\n" from powerFreq
+    target.frequency = values[11].replace(/'\);\n/, '');
 };
 
+let check = true;
+
 for (let match of matches) {
-    let values = match.replace(/VALUES \(/, '').replace(/\);/, '').split("','");
+    let values = match.replace(/VALUES \(/, '').replace(/\);/, '').replace(/\\'/g, "'").split("','");
+    if (check) {
+        check = false;
+    }
+    
+    // if the file name is already in the array, add to the object
     if (fileNames.includes(values[7])) {
         addToObject(values);
     } else {
+        // if the file name is not in the array, create a new object and add to the array
         fileNames.push(values[7]);
-        json[values[7]] = Object.assign({}, jsonTemplate);
+
+        // create a new object with the power name as the key
+        json[values[7]] = {};
+        addToObject(values);
     }
 };
 
 // save jsons to files by power class
 for (let i = 0; i < fileNames.length; i++) {
-    fs.writeFileSync(__dirname + '/../data/' + fileNames[i] + '.json', JSON.stringify(json[fileNames[i]]));
+    fs.writeFileSync(__dirname + '/../data/powers/' + fileNames[i] + '.json', JSON.stringify(json[fileNames[i]]));
 }

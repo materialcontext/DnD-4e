@@ -1,0 +1,61 @@
+{
+  "Night Terror": {
+    "id": "'14056",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Night Terror",
+    "type": "Shaper",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNight Terror\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14056\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadow Shaper Attack 11</span>Night Terror</h1><p class=\\\"flavor\\\"><i>You draw forth a nightmare from your foe’s mind that leaves it vulnerable, and which acts as a conduit for your power.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b>, <b>Illusion</b>, <b>Necrotic</b>, <b>Psychic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes necrotic and psychic damage equal to your Intelligence modifier, and it is dazed until the end of your next turn. You can use the target’s space as the origin for the next close or melee implement attack power you use before the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 149.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Shaper",
+    "flavor": "You draw forth a nightmare from your foe’s mind that leaves it vulnerable, and which acts as a conduit for your power.",
+    "keywords": [
+      "Arcane, Fear, Illusion, Necrotic, Psychic, Shadow"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: The target takes necrotic and psychic damage equal to your Intelligence modifier, and it is dazed until the end of your next turn. You can use the target’s space as the origin for the next close or melee implement attack power you use before the end of your next turn.</p>",
+    "target": "One creature",
+    "effect": "The target takes necrotic and psychic damage equal to your Intelligence modifier, and it is dazed until the end of your next turn. You can use the target’s space as the origin for the next close or melee implement attack power you use before the end of your next turn."
+  },
+  "Nightscape": {
+    "id": "'14057",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Nightscape",
+    "type": "Shaper",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNightscape\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14057\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shadow Shaper Attack 20</span>Nightscape</h1><p class=\\\"flavor\\\"><i>Tendrils of shadow reach out to entwine your foes, shrouding them in the stuff of nightmares.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Illusion</b>, <b>Implement</b>, <b>Psychic</b>, <b>Shadow</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 20 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Intelligence modifier psychic damage, and the target is dazed (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is dazed until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of the encounter. The zone is difficult terrain for your enemies. You and your allies gain partial concealment while in the zone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 149.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Shaper",
+    "flavor": "Tendrils of shadow reach out to entwine your foes, shrouding them in the stuff of nightmares.",
+    "keywords": [
+      "Arcane, Illusion, Implement, Psychic, Shadow, Zone"
+    ],
+    "range": "Area burst 2 within 20 squares</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Intelligence vs. Will</p><p class=\"flavor\">Hit: 3d8 + Intelligence modifier psychic damage, and the target is dazed (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target is dazed until the end of your next turn.</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of the encounter. The zone is difficult terrain for your enemies. You and your allies gain partial concealment while in the zone.</p>",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and the target is dazed (save ends).",
+    "onMiss": "Half damage, and the target is dazed until the end of your next turn.",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. The zone is difficult terrain for your enemies. You and your allies gain partial concealment while in the zone."
+  },
+  "Never-Ending Nightmare": {
+    "id": "'14058",
+    "action": "Minor",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Never-Ending Nightmare",
+    "type": "Shaper",
+    "sourceRef": "Heroes of Shadow",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNever-Ending Nightmare\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14058\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shadow Shaper Utility 12</span>Never-Ending Nightmare</h1><p class=\\\"flavor\\\"><i>By focusing on an illusion just about to fade, you imbue it with the power of shadow to ensure that your enemies’ agony persists.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Illusion</b>, <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose an illusion effect you created that would end at the end of your current turn. The effect instead lasts until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 149.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Shadow Shaper",
+    "flavor": "By focusing on an illusion just about to fade, you imbue it with the power of shadow to ensure that your enemies’ agony persists.",
+    "keywords": [
+      "Arcane, Illusion, Shadow"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: Choose an illusion effect you created that would end at the end of your current turn. The effect instead lasts until the end of your next turn.</p>",
+    "effect": "Choose an illusion effect you created that would end at the end of your current turn. The effect instead lasts until the end of your next turn."
+  }
+}

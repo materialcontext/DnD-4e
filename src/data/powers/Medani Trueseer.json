@@ -1,0 +1,64 @@
+{
+  "Medani True Strike": {
+    "id": "'7594",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Medani True Strike",
+    "type": "Trueseer",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMedani True Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7594\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Medani Trueseer Attack 11</span>Medani True Strike</h1><p class=\\\"flavor\\\"><i>Your Mark of Detection flares, sending out darts of energy to hunt down hidden foes and reveal their locations.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You can see invisible creatures within 10 squares of you and within your line of sight until you hit or miss with this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma or Wisdom + 4 vs. Reflex. The attack ignores any cover and any concealment if the target is within 10 squares of you.</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Charisma or Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Medani Trueseer",
+    "flavor": "Your Mark of Detection flares, sending out darts of energy to hunt down hidden foes and reveal their locations.",
+    "keywords": [
+      "&nbsp;&nbsp;Ranged 10</p><p class=\"flavor\">Effect: You can see invisible creatures within 10 squares of you and within your line of sight until you hit or miss with this power.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma or Wisdom + 4 vs. Reflex. The attack ignores any cover and any concealment if the target is within 10 squares of you.</p><p class=\"flavor\">Hit: 2d10 + Charisma or Wisdom modifier.</p>"
+    ],
+    "range": "Ranged 10</p><p class=\"flavor\">Effect: You can see invisible creatures within 10 squares of you and within your line of sight until you hit or miss with this power.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma or Wisdom + 4 vs. Reflex. The attack ignores any cover and any concealment if the target is within 10 squares of you.</p><p class=\"flavor\">Hit: 2d10 + Charisma or Wisdom modifier.</p>",
+    "effect": "You can see invisible creatures within 10 squares of you and within your line of sight until you hit or miss with this power.",
+    "target": "One creature",
+    "attack": "Charisma or Wisdom + 4 vs. Reflex. The attack ignores any cover and any concealment if the target is within 10 squares of you.",
+    "onHit": "2d10 + Charisma or Wisdom modifier."
+  },
+  "Medani Foretelling": {
+    "id": "'7595",
+    "action": "Free",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Medani Foretelling",
+    "type": "Trueseer",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMedani Foretelling\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7595\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Medani Trueseer Utility 12</span>Medani Foretelling</h1><p class=\\\"flavor\\\"><i>The power of your dragon mark allows you to take a quick glance into the future to help you decide what to do.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You roll a d20. If you attack during this turn, you can choose to use this roll as the first attack roll of the attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Medani Trueseer",
+    "flavor": "The power of your dragon mark allows you to take a quick glance into the future to help you decide what to do.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You roll a d20. If you attack during this turn, you can choose to use this roll as the first attack roll of the attack.</p>"
+    ],
+    "range": "Personal </p><p class=\"flavor\">Effect: You roll a d20. If you attack during this turn, you can choose to use this roll as the first attack roll of the attack.</p>",
+    "effect": "You roll a d20. If you attack during this turn, you can choose to use this roll as the first attack roll of the attack."
+  },
+  "Disruptive Premonition": {
+    "id": "'7596",
+    "action": "Immediate Interrupt",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Disruptive Premonition",
+    "type": "Trueseer",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDisruptive Premonition\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7596\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Medani Trueseer Attack 20</span>Disruptive Premonition</h1><p class=\\\"flavor\\\"><i>Before your enemy can strike, you let loose a debilitating sting that inhibits its defenses and ability to attack.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within 10 squares of you hits or misses you or an ally</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma or Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Charisma or Wisdom modifier damage, and the target takes a -4 penalty to attack rolls against you (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The target grants combat advantage to you until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Medani Trueseer",
+    "flavor": "Before your enemy can strike, you let loose a debilitating sting that inhibits its defenses and ability to attack.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: An enemy within 10 squares of you hits or misses you or an ally</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Charisma or Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 3d10 + Charisma or Wisdom modifier damage, and the target takes a -4 penalty to attack rolls against you (save ends).</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The target grants combat advantage to you until the end of your next turn.</p>",
+    "trigger": "An enemy within 10 squares of you hits or misses you or an ally",
+    "target": "The triggering enemy",
+    "attack": "Charisma or Wisdom vs. Reflex",
+    "onHit": "3d10 + Charisma or Wisdom modifier damage, and the target takes a -4 penalty to attack rolls against you (save ends).",
+    "onMiss": "Half damage.",
+    "effect": "The target grants combat advantage to you until the end of your next turn."
+  }
+}

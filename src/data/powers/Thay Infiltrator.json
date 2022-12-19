@@ -1,0 +1,63 @@
+{
+  "Blessed Shot": {
+    "id": "'6021",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Blessed Shot",
+    "type": "Infiltrator",
+    "sourceRef": "Dragon Magazine 370",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlessed Shot\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6021\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thay Infiltrator Attack 11</span>Blessed Shot</h1><p class=\\\"flavor\\\"><i>You utter a quick prayer to your deity, and charge your projectile with holy energy.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity or Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier + Dexterity modifier radiant damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/370\\\" target=\\\"_new\\\">Dragon Magazine 370</a>, page(s) 36.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thay Infiltrator",
+    "flavor": "You utter a quick prayer to your deity, and charge your projectile with holy energy.",
+    "keywords": [
+      "Divine, Radiant, Weapon"
+    ],
+    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity or Wisdom vs. AC</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier + Dexterity modifier radiant damage.</p>",
+    "target": "One creature",
+    "attack": "Dexterity or Wisdom vs. AC",
+    "onHit": "3[W] + Wisdom modifier + Dexterity modifier radiant damage."
+  },
+  "Divine Veil": {
+    "id": "'6022",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Divine Veil",
+    "type": "Infiltrator",
+    "sourceRef": "Dragon Magazine 370",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Veil\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6022\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Thay Infiltrator Utility 12</span>Divine Veil</h1><p class=\\\"flavor\\\"><i>While you incant the name of your deity, a burst of glittering light masks you and your allies from view.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can spend a healing surge. In addition, each ally can select one target; that ally gains total concealment from that enemy until the end of your next turn, and the ally can make an immediate Stealth check as a free action to hide from that target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/370\\\" target=\\\"_new\\\">Dragon Magazine 370</a>, page(s) 36.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thay Infiltrator",
+    "flavor": "While you incant the name of your deity, a burst of glittering light masks you and your allies from view.",
+    "keywords": [
+      "Divine, Healing"
+    ],
+    "range": "Close burst 5</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can spend a healing surge. In addition, each ally can select one target; that ally gains total concealment from that enemy until the end of your next turn, and the ally can make an immediate Stealth check as a free action to hide from that target.</p>",
+    "target": "You and each ally in the burst",
+    "effect": "Each target can spend a healing surge. In addition, each ally can select one target; that ally gains total concealment from that enemy until the end of your next turn, and the ally can make an immediate Stealth check as a free action to hide from that target."
+  },
+  "Holy Barrage": {
+    "id": "'6023",
+    "action": "Standard",
+    "powerClass": "",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Holy Barrage",
+    "type": "Infiltrator",
+    "sourceRef": "Dragon Magazine 370",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHoly Barrage\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6023\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Thay Infiltrator Attack 20</span>Holy Barrage</h1><p class=\\\"flavor\\\"><i>You launch a hail of projectiles at multiple foes, all charged with divine energy.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within weapon's range</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity or Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier radiant damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: One ally within 5 squares of you can spend a healing surge, gain a +2 bonus to all defenses until the end of your next turn, or gain regeneration 5 until the end of the encounter (ally’s choice).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/370\\\" target=\\\"_new\\\">Dragon Magazine 370</a>, page(s) 36.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "class": "Thay Infiltrator",
+    "flavor": "You launch a hail of projectiles at multiple foes, all charged with divine energy.",
+    "keywords": [
+      "Divine, Healing, Radiant, Weapon"
+    ],
+    "range": "Area burst 2 within weapon's range</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Dexterity or Wisdom vs. AC</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier radiant damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: One ally within 5 squares of you can spend a healing surge, gain a +2 bonus to all defenses until the end of your next turn, or gain regeneration 5 until the end of the encounter (ally’s choice).</p>",
+    "target": "Each enemy in the burst you can see",
+    "attack": "Dexterity or Wisdom vs. AC",
+    "onHit": "3[W] + Wisdom modifier radiant damage.",
+    "onMiss": "Half damage.",
+    "effect": "One ally within 5 squares of you can spend a healing surge, gain a +2 bonus to all defenses until the end of your next turn, or gain regeneration 5 until the end of the encounter (ally’s choice)."
+  }
+}
