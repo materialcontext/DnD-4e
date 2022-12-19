@@ -2,19 +2,18 @@
   "Lunar Transposition": {
     "id": "'16609",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Moonrise Stalker",
     "frequency": "Encounter",
     "level": "11",
     "name": "Lunar Transposition",
     "type": "Stalker",
     "sourceRef": "Dragon Magazine 413",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLunar Transposition\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16609\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Moonrise Stalker Attack 11</span>Lunar Transposition</h1><p class=\\\"flavor\\\"><i>This attack opens a passage through the Feywild, connecting you and your foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + 1d6 + Wisdom modifier damage, and you can teleport up to 10 squares, swapping places with the target.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power as a ranged basic attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/413\\\" target=\\\"_new\\\">Dragon Magazine 413</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Moonrise Stalker",
     "flavor": "This attack opens a passage through the Feywild, connecting you and your foe.",
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 1[W] + 1d6 + Wisdom modifier damage, and you can teleport up to 10 squares, swapping places with the target.</p><p class=\"powerstat\">Special: You can use this power as a ranged basic attack.</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d6 + Wisdom modifier damage, and you can teleport up to 10 squares, swapping places with the target.",
@@ -23,37 +22,35 @@
   "Moonbeam Step": {
     "id": "'16611",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Moonrise Stalker",
     "frequency": "Encounter",
     "level": "12",
     "name": "Moonbeam Step",
     "type": "Stalker",
     "sourceRef": "Dragon Magazine 413",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMoonbeam Step\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16611\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Moonrise Stalker Utility 12</span>Moonbeam Step</h1><p class=\\\"flavor\\\"><i>You step through a patch of moonlight into the Feywild, emerging elsewhere. The moonlight forms a clinging, protective nimbus around you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Primal</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport up to 5 squares. In addition, you activate an aura 1 that lasts until the start of your next turn. Any enemy in the aura takes a -2 penalty to attack rolls.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/413\\\" target=\\\"_new\\\">Dragon Magazine 413</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Moonrise Stalker",
     "flavor": "You step through a patch of moonlight into the Feywild, emerging elsewhere. The moonlight forms a clinging, protective nimbus around you.",
     "keywords": [
       "Aura, Primal, Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You teleport up to 5 squares. In addition, you activate an aura 1 that lasts until the start of your next turn. Any enemy in the aura takes a -2 penalty to attack rolls.</p>",
+    "range": "Personal <",
     "effect": "You teleport up to 5 squares. In addition, you activate an aura 1 that lasts until the start of your next turn. Any enemy in the aura takes a -2 penalty to attack rolls."
   },
   "Distant Echo": {
     "id": "'16612",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Moonrise Stalker",
     "frequency": "Daily",
     "level": "20",
     "name": "Distant Echo",
     "type": "Stalker",
     "sourceRef": "Dragon Magazine 413",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDistant Echo\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16612\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Moonrise Stalker Attack 20</span>Distant Echo</h1><p class=\\\"flavor\\\"><i>Echoes of this attack can harm other enemies nearby, and their pain can create a threshold through which you can step.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Teleportation</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + 1d6 + Wisdom modifier damage. Up to three other creatures within 10 squares of the target take damage equal to half the damage dealt to the target.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can teleport to swap positions with one creature that takes damage from this attack. An enemy teleported by this effect is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/413\\\" target=\\\"_new\\\">Dragon Magazine 413</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Moonrise Stalker",
     "flavor": "Echoes of this attack can harm other enemies nearby, and their pain can create a threshold through which you can step.",
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 1[W] + 1d6 + Wisdom modifier damage. Up to three other creatures within 10 squares of the target take damage equal to half the damage dealt to the target.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You can teleport to swap positions with one creature that takes damage from this attack. An enemy teleported by this effect is dazed until the end of your next turn.</p>",
+    "range": "Ranged weapon<",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d6 + Wisdom modifier damage. Up to three other creatures within 10 squares of the target take damage equal to half the damage dealt to the target.",

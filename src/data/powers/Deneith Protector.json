@@ -2,19 +2,18 @@
   "Bodyguard's Link": {
     "id": "'7579",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Deneith Protector",
     "frequency": "Encounter",
     "level": "11",
     "name": "Bodyguard's Link",
     "type": "Protector",
     "sourceRef": "Eberron Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBodyguard's Link\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7579\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Deneith Protector Attack 11</span>Bodyguard's Link</h1><p class=\\\"flavor\\\"><i>Your dragon mark sends a magic charge into your enemy when you hit, creating a link that lets you divert the foe’s attacks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength or Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength or Intelligence modifier damage, and the next time the target hits an ally with a melee attack before the end of your next turn, you can choose to have the attack instead hit you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Deneith Protector",
     "flavor": "Your dragon mark sends a magic charge into your enemy when you hit, creating a link that lets you divert the foe’s attacks.",
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength or Intelligence vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength or Intelligence modifier damage, and the next time the target hits an ally with a melee attack before the end of your next turn, you can choose to have the attack instead hit you.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength or Intelligence vs. AC",
     "onHit": "3[W] + Strength or Intelligence modifier damage, and the next time the target hits an ally with a melee attack before the end of your next turn, you can choose to have the attack instead hit you."
@@ -22,38 +21,36 @@
   "Globe of Warding": {
     "id": "'7580",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Deneith Protector",
     "frequency": "Encounter",
     "level": "12",
     "name": "Globe of Warding",
     "type": "Protector",
     "sourceRef": "Eberron Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGlobe of Warding\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7580\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Deneith Protector Utility 12</span>Globe of Warding</h1><p class=\\\"flavor\\\"><i>You create a shimmering globe that strengthens allies against attacks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of protective energy that lasts until the end of your next turn. You and each ally within the zone gain a +2 bonus to all defenses against ranged and area attacks.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Deneith Protector",
     "flavor": "You create a shimmering globe that strengthens allies against attacks.",
     "keywords": [
       "Zone"
     ],
-    "range": "Close burst 2</p><p class=\"flavor\">Effect: The burst creates a zone of protective energy that lasts until the end of your next turn. You and each ally within the zone gain a +2 bonus to all defenses against ranged and area attacks.</p><p class=\"powerstat\">Sustain Minor: The zone persists.</p>",
+    "range": "Close burst 2<",
     "effect": "The burst creates a zone of protective energy that lasts until the end of your next turn. You and each ally within the zone gain a +2 bonus to all defenses against ranged and area attacks.",
     "sustainMinor": "The zone persists."
   },
   "Punish the Assailant": {
     "id": "'7581",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Deneith Protector",
     "frequency": "Daily",
     "level": "20",
     "name": "Punish the Assailant",
     "type": "Protector",
     "sourceRef": "Eberron Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPunish the Assailant\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7581\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Deneith Protector Attack 20</span>Punish the Assailant</h1><p class=\\\"flavor\\\"><i>Your weapon leaps into a gap in the defenses of an attacking enemy, punishing it for having the temerity to attack an ally.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Reliable</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within your reach makes a melee attack roll against an ally</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength or Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength or Intelligence modifier damage, and the triggering enemy’s attack targets you instead of the ally, even if you are not within the attack’s range. If the attack misses you, you can make a melee basic attack against the target as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Deneith Protector",
     "flavor": "Your weapon leaps into a gap in the defenses of an attacking enemy, punishing it for having the temerity to attack an ally.",
     "keywords": [
       "Reliable, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: An enemy within your reach makes a melee attack roll against an ally</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Strength or Intelligence vs. AC</p><p class=\"flavor\">Hit: 4[W] + Strength or Intelligence modifier damage, and the triggering enemy’s attack targets you instead of the ally, even if you are not within the attack’s range. If the attack misses you, you can make a melee basic attack against the target as a free action.</p>",
+    "range": "Melee weapon<",
     "trigger": "An enemy within your reach makes a melee attack roll against an ally",
     "target": "The triggering enemy",
     "attack": "Strength or Intelligence vs. AC",

@@ -1,0 +1,59 @@
+{
+  "name": "Minotaur",
+  "height": "7'1\" - 7'5\"",
+  "weight": "320 - 350 lbs",
+  "abilityScores": "+2 Strength, +2 Constitution or +2 Wisdom",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, choice of one other",
+  "uniqueFeatures": {
+    "vitality": "You have one additional healing surge.",
+    "heedlessCharge": "You have a +2 racial bonus to AC against opportunity attacks you provoke during a charge.",
+    "goringCharge": "You have the goring charge power.",
+    "ferocity": "When you drop to 0 hit points or fewer, you can make a melee basic attack as an immediate interrupt.",
+    "skillBonuses": "+2 Nature, +2 Perception.",
+    "vision": "Normal"
+  },
+  "physTxt": "A minotaur combines the features of human and bull, with the build and musculature of a hulking humanoid, but with cloven hooves, a bovine tail, and, most distinctive of all, a bull’s head. Fur covers a minotaur’s upper body, coarse and thick on the head and neck, gradually thinning around the shoulders until it becomes humanlike hair over the arms and upper torso. The thick hair turns shaggy once more at the minotaur’s waist and thickens around the loins and legs, with tufts at the end of the tail and around the powerful hooves. Minotaurs take pride in their horns, the sharpness, size, and color of which are related to an individual’s place in minotaur society. Fur and skin coloring runs from albino white to coal black, though most minotaurs have red or brown fur and hair.",
+  "refSource": "Player\\'s Handbook 3, page ",
+  "flavorTxt": "Caught between savagery and civilization, these warriors struggle against the beast within",
+  "power": "Goring Charge",
+  "characteristics": [
+    "bloodthirsty",
+    "cruel",
+    "disciplined",
+    "enlightened",
+    "frustrated",
+    "militant",
+    "mystical",
+    "polite",
+    "savage",
+    "spiritual",
+    "tortured"
+  ],
+  "femNames": [
+    "duula",
+    "esteru",
+    "hester",
+    "kuonu",
+    "loodra",
+    "oestra",
+    "raastred",
+    "seestra",
+    "uovana",
+    "weoren"
+  ],
+  "mascNames": [
+    "asteron",
+    "bjorkus",
+    "codrus",
+    "foostus",
+    "goeban",
+    "jak",
+    "minron",
+    "noostoron",
+    "podrus",
+    "terios"
+  ],
+  "tipsTxt": "The minotaur preference for labyrinths is legendary, and is more than a quirk. It is central to what minotaurs believe and how they see the world around them. A labyrinth is a physical representation of the spiritual and psychological journey each minotaur must undertake to make peace with his or her conflicted nature."
+}

@@ -2,19 +2,18 @@
   "Savor the Black Blood": {
     "id": "'14046",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Nocturnal",
     "frequency": "Encounter",
     "level": "11",
     "name": "Savor the Black Blood",
     "type": "Attack",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSavor the Black Blood\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14046\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Nocturnal Attack 11</span>Savor the Black Blood</h1><p class=\\\"flavor\\\"><i>You drive into your foe with a brutal attack, replenishing your strength as you drink deep of its life force.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Shadow</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit an adjacent creature with a melee attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: The creature you hit</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes 10 extra damage, and you gain 10 temporary hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 145.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Nocturnal",
     "flavor": "You drive into your foe with a brutal attack, replenishing your strength as you drink deep of its life force.",
     "keywords": [
       "Primal, Shadow"
     ],
-    "range": "Melee 1</p><p class=\"powerstat\">Trigger: You hit an adjacent creature with a melee attack.</p><p class=\"powerstat\">Target: The creature you hit</p><p class=\"flavor\">Effect: The target takes 10 extra damage, and you gain 10 temporary hit points.</p>",
+    "range": "Melee 1<",
     "trigger": "You hit an adjacent creature with a melee attack.",
     "target": "The creature you hit",
     "effect": "The target takes 10 extra damage, and you gain 10 temporary hit points."
@@ -22,37 +21,35 @@
   "Tainted Predator": {
     "id": "'14047",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Nocturnal",
     "frequency": "Daily",
     "level": "20",
     "name": "Tainted Predator",
     "type": "Attack",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTainted Predator\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14047\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Nocturnal Attack 20</span>Tainted Predator</h1><p class=\\\"flavor\\\"><i>You call forth the black blood of the hunting beasts that are your kin, seeding your attacks with their deadly power.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Necrotic</b>, <b>Poison</b>, <b>Primal</b>, <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, your melee attacks that hit also deal ongoing 5 necrotic and poison damage (save ends). On a critical hit, this increases to ongoing 10 necrotic and poison damage (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 145.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Nocturnal",
     "flavor": "You call forth the black blood of the hunting beasts that are your kin, seeding your attacks with their deadly power.",
     "keywords": [
       "Necrotic, Poison, Primal, Shadow"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, your melee attacks that hit also deal ongoing 5 necrotic and poison damage (save ends). On a critical hit, this increases to ongoing 10 necrotic and poison damage (save ends).</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, your melee attacks that hit also deal ongoing 5 necrotic and poison damage (save ends). On a critical hit, this increases to ongoing 10 necrotic and poison damage (save ends)."
   },
   "Summon the Shadow Pack": {
     "id": "'14048",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Nocturnal",
     "frequency": "Daily",
     "level": "12",
     "name": "Summon the Shadow Pack",
     "type": "Utility",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSummon the Shadow Pack\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14048\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Nocturnal Utility 12</span>Summon the Shadow Pack</h1><p class=\\\"flavor\\\"><i>A feral howl heralds the arrival of your packmates, who slip around your foes to aid you and your allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Primal</b>, <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure up to five shadow pack members in unoccupied squares within range that are adjacent to one or more enemies. The pack members last until the end of your next turn. Pack members can flank with you and your allies. As a move action, you can move any or all pack members up to 6 squares each.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The pack members persist until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 145.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Nocturnal",
     "flavor": "A feral howl heralds the arrival of your packmates, who slip around your foes to aid you and your allies.",
     "keywords": [
       "Conjuration, Primal, Shadow"
     ],
-    "range": "Ranged 10</p><p class=\"flavor\">Effect: You conjure up to five shadow pack members in unoccupied squares within range that are adjacent to one or more enemies. The pack members last until the end of your next turn. Pack members can flank with you and your allies. As a move action, you can move any or all pack members up to 6 squares each.</p><p class=\"powerstat\">Sustain Minor: The pack members persist until the end of your next turn.</p>",
+    "range": "Ranged 10<",
     "effect": "You conjure up to five shadow pack members in unoccupied squares within range that are adjacent to one or more enemies. The pack members last until the end of your next turn. Pack members can flank with you and your allies. As a move action, you can move any or all pack members up to 6 squares each.",
     "sustainMinor": "The pack members persist until the end of your next turn."
   }

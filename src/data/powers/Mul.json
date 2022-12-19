@@ -2,19 +2,18 @@
   "Incredible Toughness": {
     "id": "'11738",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Mul",
     "frequency": "Encounter",
     "level": "0",
     "name": "Incredible Toughness",
     "type": "Racial",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nIncredible Toughness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11738\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mul Racial Power</span>Incredible Toughness</h1><p class=\\\"flavor\\\"><i>Through dogged determination and sheer physical hardiness, you shrug off an effect that would daunt a lesser person.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You start your turn</p><p class=\\\"flavor\\\"><b>Effect</b>: You end any ongoing damage or any dazed, slowed, stunned, or weakened condition currently affecting you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 20.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mul",
     "flavor": "Through dogged determination and sheer physical hardiness, you shrug off an effect that would daunt a lesser person.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You start your turn</p><p class=\"flavor\">Effect: You end any ongoing damage or any dazed, slowed, stunned, or weakened condition currently affecting you.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You start your turn</p><p class=\"flavor\">Effect: You end any ongoing damage or any dazed, slowed, stunned, or weakened condition currently affecting you.</p>",
+    "range": "Personal <",
     "trigger": "You start your turn",
     "effect": "You end any ongoing damage or any dazed, slowed, stunned, or weakened condition currently affecting you."
   }

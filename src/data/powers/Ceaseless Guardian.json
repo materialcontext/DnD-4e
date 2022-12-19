@@ -2,19 +2,18 @@
   "Never Again": {
     "id": "'12498",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Ceaseless Guardian",
     "frequency": "At-Will",
     "level": "0",
     "name": "Never Again",
     "type": "Guardian",
     "sourceRef": "Dragon Magazine 387",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNever Again\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12498\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Ceaseless Guardian Feature </span>Never Again</h1><p class=\\\"flavor\\\"><i>You refuse to let any of your allies fall under your watch.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must have at least one healing surge.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You or an ally in the burst dies</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering creature</p><p class=\\\"flavor\\\"><b>Effect</b>: You spend one or two healing surges but do not regain hit points for spending these healing surges. The target does not die, and the target regains hit points equal to his or her surge value for each healing surge you spent as a part of this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/387\\\" target=\\\"_new\\\">Dragon Magazine 387</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Ceaseless Guardian",
     "flavor": "You refuse to let any of your allies fall under your watch.",
     "keywords": [
       "Healing"
     ],
-    "range": "Close burst 5</p><p class=\"flavor\">Requirement: You must have at least one healing surge.</p><p class=\"powerstat\">Trigger: You or an ally in the burst dies</p><p class=\"powerstat\">Target: The triggering creature</p><p class=\"flavor\">Effect: You spend one or two healing surges but do not regain hit points for spending these healing surges. The target does not die, and the target regains hit points equal to his or her surge value for each healing surge you spent as a part of this power.</p>",
+    "range": "Close burst 5<",
     "requirement": "You must have at least one healing surge.",
     "trigger": "You or an ally in the burst dies",
     "target": "The triggering creature",
@@ -23,19 +22,18 @@
   "Always Ready": {
     "id": "'12499",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Ceaseless Guardian",
     "frequency": "Daily",
     "level": "26",
     "name": "Always Ready",
     "type": "Guardian",
     "sourceRef": "Dragon Magazine 387",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAlways Ready\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12499\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Ceaseless Guardian Utility 26</span>Always Ready</h1><p class=\\\"flavor\\\"><i>When an enemy tries to ambush your party, you show it the depth of its folly.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You roll initiative</p><p class=\\\"flavor\\\"><b>Effect</b>: Your initiative score is equal to one greater than the highest initiative check among all your allies within 10 squares of you. You are not surprised, and if a surprise round occurs, you can take a standard action, move action, and minor action during the surprise round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/387\\\" target=\\\"_new\\\">Dragon Magazine 387</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Ceaseless Guardian",
     "flavor": "When an enemy tries to ambush your party, you show it the depth of its folly.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You roll initiative</p><p class=\"flavor\">Effect: Your initiative score is equal to one greater than the highest initiative check among all your allies within 10 squares of you. You are not surprised, and if a surprise round occurs, you can take a standard action, move action, and minor action during the surprise round.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You roll initiative</p><p class=\"flavor\">Effect: Your initiative score is equal to one greater than the highest initiative check among all your allies within 10 squares of you. You are not surprised, and if a surprise round occurs, you can take a standard action, move action, and minor action during the surprise round.</p>",
+    "range": "Personal <",
     "trigger": "You roll initiative",
     "effect": "Your initiative score is equal to one greater than the highest initiative check among all your allies within 10 squares of you. You are not surprised, and if a surprise round occurs, you can take a standard action, move action, and minor action during the surprise round."
   }

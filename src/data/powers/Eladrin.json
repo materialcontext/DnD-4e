@@ -2,74 +2,70 @@
   "Fey Step": {
     "id": "'1449",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Eladrin",
     "frequency": "Encounter",
     "level": "0",
     "name": "Fey Step",
     "type": "Racial",
     "sourceRef": "Player's Handbook, Heroes of the Fallen Lands",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFey Step\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1449\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Eladrin Racial Power</span>Fey Step</h1><p class=\\\"flavor\\\"><i>You step through the boundary between the planes, disappearing for a moment before reappearing somewhere else.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Teleport up to 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 38, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 254.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Eladrin",
     "flavor": "You step through the boundary between the planes, disappearing for a moment before reappearing somewhere else.",
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Teleport up to 5 squares.</p>",
+    "range": "Personal <",
     "effect": "Teleport up to 5 squares."
   },
   "Sense Magic": {
     "id": "'16038",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Eladrin",
     "frequency": "Encounter",
     "level": "2",
     "name": "Sense Magic",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSense Magic\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16038\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Eladrin Racial Utility 2</span>Sense Magic</h1><p class=\\\"flavor\\\"><i>You attune your senses to the magical world, and in a flash, nearby magic becomes as obvious as birdsong on the wind.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Eladrin",
     "flavor": "You attune your senses to the magical world, and in a flash, nearby magic becomes as obvious as birdsong on the wind.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones.</p>",
+    "range": "Personal <",
     "effect": "You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones."
   },
   "Eladrin Escape": {
     "id": "'16039",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Eladrin",
     "frequency": "Encounter",
     "level": "6",
     "name": "Eladrin Escape",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEladrin Escape\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16039\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Eladrin Racial Utility 6</span>Eladrin Escape</h1><p class=\\\"flavor\\\"><i>Your enemy has but one chance to corner you. Wasting it gives you the opportunity to flee.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy misses you with a melee attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport up to 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Eladrin",
     "flavor": "Your enemy has but one chance to corner you. Wasting it gives you the opportunity to flee.",
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy misses you with a melee attack.</p><p class=\"flavor\">Effect: You teleport up to 5 squares.</p>",
+    "range": "Personal <",
     "trigger": "An enemy misses you with a melee attack.",
     "effect": "You teleport up to 5 squares."
   },
   "Recursive Thought": {
     "id": "'16040",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Eladrin",
     "frequency": "Daily",
     "level": "10",
     "name": "Recursive Thought",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRecursive Thought\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16040\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Eladrin Racial Utility 10</span>Recursive Thought</h1><p class=\\\"flavor\\\"><i>When you clear your mind, your affliction bounces back to your unsuspecting foe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You save against a dazing or stunning effect.</p><p class=\\\"powerstat\\\"><b>Target</b>: The enemy that subjected you to the effect</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is subjected to the effect you saved against until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Eladrin",
     "flavor": "When you clear your mind, your affliction bounces back to your unsuspecting foe.",
     "keywords": [
       "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: You save against a dazing or stunning effect.</p><p class=\"powerstat\">Target: The enemy that subjected you to the effect</p><p class=\"flavor\">Effect: The target is subjected to the effect you saved against until the end of your next turn.</p>"
     ],
-    "range": "Special </p><p class=\"powerstat\">Trigger: You save against a dazing or stunning effect.</p><p class=\"powerstat\">Target: The enemy that subjected you to the effect</p><p class=\"flavor\">Effect: The target is subjected to the effect you saved against until the end of your next turn.</p>",
+    "range": "Special <",
     "trigger": "You save against a dazing or stunning effect.",
     "target": "The enemy that subjected you to the effect",
     "effect": "The target is subjected to the effect you saved against until the end of your next turn."
@@ -77,19 +73,18 @@
   "Spiral Dance Assault": {
     "id": "'16041",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Eladrin",
     "frequency": "At-Will (Special)",
     "level": "16",
     "name": "Spiral Dance Assault",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpiral Dance Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16041\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Eladrin Racial Utility 16</span>Spiral Dance Assault</h1><p class=\\\"flavor\\\"><i>You strike and dance away, only to reappear at your enemy’s side.</i></p><p class=\\\"powerstat\\\"><b>At-Will (Special)</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit an enemy with a melee attack on your turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport to a square adjacent to the enemy.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power only once per round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Eladrin",
     "flavor": "You strike and dance away, only to reappear at your enemy’s side.",
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You hit an enemy with a melee attack on your turn.</p><p class=\"flavor\">Effect: You teleport to a square adjacent to the enemy.</p><p class=\"powerstat\">Special: You can use this power only once per round.</p>",
+    "range": "Personal <",
     "trigger": "You hit an enemy with a melee attack on your turn.",
     "effect": "You teleport to a square adjacent to the enemy.",
     "special": "You can use this power only once per round."

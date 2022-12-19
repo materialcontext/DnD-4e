@@ -1,1 +1,1 @@
-toLowerCase
+.*?

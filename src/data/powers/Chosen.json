@@ -2,74 +2,70 @@
   "Freedom Is Life": {
     "id": "'8212",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Freedom Is Life",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFreedom Is Life\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8212\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Freedom Is Life</h1><p class=\\\"flavor\\\"><i>Ribbons of glowing symbols flow out of you, linking you and your allies in a river of celestial light.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you and any allies within 20 squares of you gain a +10 bonus to saving throws.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 152.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Ribbons of glowing symbols flow out of you, linking you and your allies in a river of celestial light.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you and any allies within 20 squares of you gain a +10 bonus to saving throws.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you and any allies within 20 squares of you gain a +10 bonus to saving throws."
   },
   "Sheltering Wings": {
     "id": "'8213",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Sheltering Wings",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSheltering Wings\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8213\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Sheltering Wings</h1><p class=\\\"flavor\\\"><i>It is no shame to take refuge beneath the Platinum Dragon’s wings.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain hit points equal to your bloodied value. One ally adjacent to you also regains hit points equal to your bloodied value.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 152.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "It is no shame to take refuge beneath the Platinum Dragon’s wings.",
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee 1</p><p class=\"flavor\">Effect: You regain hit points equal to your bloodied value. One ally adjacent to you also regains hit points equal to your bloodied value.</p>",
+    "range": "Melee 1<",
     "effect": "You regain hit points equal to your bloodied value. One ally adjacent to you also regains hit points equal to your bloodied value."
   },
   "Anthem of Progress": {
     "id": "'8215",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Anthem of Progress",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAnthem of Progress\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8215\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Anthem of Progress</h1><p class=\\\"flavor\\\"><i>Erathis’s grim efficiency inspires your comrades to their necessary work.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, each target can score a critical hit with any at-will attack on a roll of 16–20.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 152.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Erathis’s grim efficiency inspires your comrades to their necessary work.",
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Until the end of the encounter, each target can score a critical hit with any at-will attack on a roll of 16–20.</p>",
+    "range": "Close burst 10<",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, each target can score a critical hit with any at-will attack on a roll of 16–20."
   },
   "Unerring Foreknowledge": {
     "id": "'8216",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Unerring Foreknowledge",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnerring Foreknowledge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8216\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Unerring Foreknowledge</h1><p class=\\\"flavor\\\"><i>Hints of action and intention spread like gossamer trails that only you and your friends can perceive. Follow the trails and pierce the veils of time.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can take an extra standard action on his or her next turn.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: Choose a different ally within range. That ally can take an extra standard action on his or her next turn. You cannot choose an ally as a target of this power more than once during an encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Hints of action and intention spread like gossamer trails that only you and your friends can perceive. Follow the trails and pierce the veils of time.",
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: The target can take an extra standard action on his or her next turn.</p><p class=\"powerstat\">Sustain Minor: Choose a different ally within range. That ally can take an extra standard action on his or her next turn. You cannot choose an ally as a target of this power more than once during an encounter.</p>",
+    "range": "Ranged 10<",
     "target": "One ally",
     "effect": "The target can take an extra standard action on his or her next turn.",
     "sustainMinor": "Choose a different ally within range. That ally can take an extra standard action on his or her next turn. You cannot choose an ally as a target of this power more than once during an encounter."
@@ -77,56 +73,53 @@
   "Test of Strength": {
     "id": "'8217",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Test of Strength",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTest of Strength\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8217\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Test of Strength</h1><p class=\\\"flavor\\\"><i>Strong? Worthy? Kord will judge.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: You and one enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: The targets simultaneously hit each other with melee basic attacks as free actions. If your attack deals more damage than the enemy’s, you can take a standard action as a free action. Any attack roll you make with this standard action has a +4 power bonus.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Strong? Worthy? Kord will judge.",
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1</p><p class=\"powerstat\">Target: You and one enemy</p><p class=\"flavor\">Effect: The targets simultaneously hit each other with melee basic attacks as free actions. If your attack deals more damage than the enemy’s, you can take a standard action as a free action. Any attack roll you make with this standard action has a +4 power bonus.</p>",
+    "range": "Melee 1<",
     "target": "You and one enemy",
     "effect": "The targets simultaneously hit each other with melee basic attacks as free actions. If your attack deals more damage than the enemy’s, you can take a standard action as a free action. Any attack roll you make with this standard action has a +4 power bonus."
   },
   "Wild Surge": {
     "id": "'8218",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Wild Surge",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWild Surge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8218\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Wild Surge</h1><p class=\\\"flavor\\\"><i>Wild Melora blesses those who can kill for themselves.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you and any ally within 5 squares of you can score a critical hit with any daily attack power on a roll of 18–20.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Wild Melora blesses those who can kill for themselves.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you and any ally within 5 squares of you can score a critical hit with any daily attack power on a roll of 18–20.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, you and any ally within 5 squares of you can score a critical hit with any daily attack power on a roll of 18–20."
   },
   "Celestial Balance": {
     "id": "'8220",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Celestial Balance",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCelestial Balance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8220\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Celestial Balance</h1><p class=\\\"flavor\\\"><i>Against the mightiest enemies, there is one hope: Pelor endures.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature within 10 squares of you spends an action point</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can spend a healing surge and gains a +1 bonus to all defenses until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Against the mightiest enemies, there is one hope: Pelor endures.",
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Trigger: A creature within 10 squares of you spends an action point</p><p class=\"powerstat\">Target: You or one ally in the burst</p><p class=\"flavor\">Effect: The target can spend a healing surge and gains a +1 bonus to all defenses until the end of the encounter.</p>",
+    "range": "Close burst 10<",
     "trigger": "A creature within 10 squares of you spends an action point",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge and gains a +1 bonus to all defenses until the end of the encounter."
@@ -134,113 +127,107 @@
   "Death Is Nigh": {
     "id": "'8221",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Death Is Nigh",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeath Is Nigh\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8221\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Death Is Nigh</h1><p class=\\\"flavor\\\"><i>The shadow of the queen’s wing falls over your fight.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You or one of your allies must have failed a death saving throw during this encounter.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of the encounter, you and your allies gain a +2 bonus to attack rolls.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "The shadow of the queen’s wing falls over your fight.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You or one of your allies must have failed a death saving throw during this encounter.</p><p class=\"powerstat\">Effect: Until the end of the encounter, you and your allies gain a +2 bonus to attack rolls.</p>",
+    "range": "Personal <",
     "requirement": "You or one of your allies must have failed a death saving throw during this encounter.",
     "effect": "Until the end of the encounter, you and your allies gain a +2 bonus to attack rolls."
   },
   "Horns of the Moon": {
     "id": "'8222",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Horns of the Moon",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHorns of the Moon\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8222\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Horns of the Moon</h1><p class=\\\"flavor\\\"><i>The goddess blesses and curses, sometimes in the same breath.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: At the start of each of your turns until the end of the encounter, as a free action you choose one ally and one enemy within your line of sight. The ally you choose gains a +2 bonus to attack rolls until the start of your next turn. The enemy you choose takes a –2 penalty to all defenses until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "The goddess blesses and curses, sometimes in the same breath.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: At the start of each of your turns until the end of the encounter, as a free action you choose one ally and one enemy within your line of sight. The ally you choose gains a +2 bonus to attack rolls until the start of your next turn. The enemy you choose takes a –2 penalty to all defenses until the start of your next turn.</p>",
+    "range": "Personal <",
     "effect": "At the start of each of your turns until the end of the encounter, as a free action you choose one ally and one enemy within your line of sight. The ally you choose gains a +2 bonus to attack rolls until the start of your next turn. The enemy you choose takes a –2 penalty to all defenses until the start of your next turn."
   },
   "Renewing Dawn": {
     "id": "'3570",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Renewing Dawn",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRenewing Dawn\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3570\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Renewing Dawn</h1><p class=\\\"flavor\\\"><i>A glimpse of the true sun flashes above the battlefield, sending flares that lance down into your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Radiant</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: When you or one of your allies spends a healing surge before the end of your next turn, this power deals radiant damage equal to one-half your level + your Charisma modifier to an enemy within 5 squares of the creature that spent the healing surge.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists.</p><br/>Addition (2/10/2009)<br/>In the Effect line, add “before the end of your next turn” after “When you or one of your allies spends a healing surge”.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "A glimpse of the true sun flashes above the battlefield, sending flares that lance down into your foes.",
     "keywords": [
       "Healing, Radiant"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: When you or one of your allies spends a healing surge before the end of your next turn, this power deals radiant damage equal to one-half your level + your Charisma modifier to an enemy within 5 squares of the creature that spent the healing surge.</p><p class=\"powerstat\">Sustain Minor: The effect persists.</p>",
+    "range": "Personal <",
     "effect": "When you or one of your allies spends a healing surge before the end of your next turn, this power deals radiant damage equal to one-half your level + your Charisma modifier to an enemy within 5 squares of the creature that spent the healing surge.",
     "sustainMinor": "The effect persists."
   },
   "Horn of Life": {
     "id": "'3571",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Horn of Life",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHorn of Life\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3571\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Horn of Life</h1><p class=\\\"flavor\\\"><i>As a foretaste of the feasts in Chauntea’s dominion, her cornucopia spills its blessings upon you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 20</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can spend a healing surge. At the start of each of your subsequent turns, until the end of the encounter, your ally with the fewest number of hit points above 0 gains regeneration 20 until the start of your next turn. The effect ends if you become unconscious.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "As a foretaste of the feasts in Chauntea’s dominion, her cornucopia spills its blessings upon you.",
     "keywords": [
       "Healing"
     ],
-    "range": "Close burst 20</p><p class=\"powerstat\">Target: You or one ally in the burst</p><p class=\"flavor\">Effect: The target can spend a healing surge. At the start of each of your subsequent turns, until the end of the encounter, your ally with the fewest number of hit points above 0 gains regeneration 20 until the start of your next turn. The effect ends if you become unconscious.</p>",
+    "range": "Close burst 20<",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge. At the start of each of your subsequent turns, until the end of the encounter, your ally with the fewest number of hit points above 0 gains regeneration 20 until the start of your next turn. The effect ends if you become unconscious."
   },
   "High Arcana": {
     "id": "'3572",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "High Arcana",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHigh Arcana\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3572\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>High Arcana</h1><p class=\\\"flavor\\\"><i>Corellon’s mastery of the arcane allows you to choose between empowerment or defense for you and all your allies in the battle.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, at the start of each target’s turn, the target can choose to gain either a +2 power bonus to implement attack rolls or a +4 bonus to Fortitude, Reflex, and Will until the start of his or her next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 152.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Corellon’s mastery of the arcane allows you to choose between empowerment or defense for you and all your allies in the battle.",
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Until the end of the encounter, at the start of each target’s turn, the target can choose to gain either a +2 power bonus to implement attack rolls or a +4 bonus to Fortitude, Reflex, and Will until the start of his or her next turn.</p>",
+    "range": "Close burst 10<",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, at the start of each target’s turn, the target can choose to gain either a +2 power bonus to implement attack rolls or a +4 bonus to Fortitude, Reflex, and Will until the start of his or her next turn."
   },
   "True Death": {
     "id": "'3573",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "True Death",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTrue Death\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3573\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>True Death</h1><p class=\\\"flavor\\\"><i>Your gesture strips the undead of their tricks. Only death is left to them.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Each undead creature in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain 2d20 hit points for each target. Each target loses all its resistances, the insubstantial quality, and the ability to recharge powers (save ends all).</p><p class=\\\"powerstat\\\"><b>Aftereffect</b>: Target loses all its resistances, insubstantial abilities, and ability to recharge powers (save ends all).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Your gesture strips the undead of their tricks. Only death is left to them.",
     "keywords": [
       "Healing"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Target: Each undead creature in the burst</p><p class=\"flavor\">Effect: You regain 2d20 hit points for each target. Each target loses all its resistances, the insubstantial quality, and the ability to recharge powers (save ends all).</p><p class=\"powerstat\">Aftereffect: Target loses all its resistances, insubstantial abilities, and ability to recharge powers (save ends all).</p>",
+    "range": "Close burst 10<",
     "target": "Each undead creature in the burst",
     "effect": "You regain 2d20 hit points for each target. Each target loses all its resistances, the insubstantial quality, and the ability to recharge powers (save ends all).",
     "aftereffect": "Target loses all its resistances, insubstantial abilities, and ability to recharge powers (save ends all)."
@@ -248,130 +235,123 @@
   "Forge of Creation": {
     "id": "'3574",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Forge of Creation",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide, Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForge of Creation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3574\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Forge of Creation</h1><p class=\\\"flavor\\\"><i>The fervor of Moradin’s ancient workshops of creation inspires you and your allies as you hammer upon your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you and any of your allies who hit with at least one attack regain their second wind if they have already used it in this encounter, regain one healing surge, and gain the use of another daily magic item power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 153.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "The fervor of Moradin’s ancient workshops of creation inspires you and your allies as you hammer upon your foes.",
     "keywords": [
       "Healing"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you and any of your allies who hit with at least one attack regain their second wind if they have already used it in this encounter, regain one healing surge, and gain the use of another daily magic item power.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you and any of your allies who hit with at least one attack regain their second wind if they have already used it in this encounter, regain one healing surge, and gain the use of another daily magic item power."
   },
   "Supreme Knowledge": {
     "id": "'3575",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Supreme Knowledge",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSupreme Knowledge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3575\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Supreme Knowledge</h1><p class=\\\"flavor\\\"><i>In the divine view, to understand is to control.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are hit by an attack against Fortitude, Reflex, or Will</p><p class=\\\"flavor\\\"><b>Effect</b>: Make a monster knowledge check that corresponds to the creature that is attacking you. If your check result exceeds the monster’s attack roll, the attack misses.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "In the divine view, to understand is to control.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are hit by an attack against Fortitude, Reflex, or Will</p><p class=\"flavor\">Effect: Make a monster knowledge check that corresponds to the creature that is attacking you. If your check result exceeds the monster’s attack roll, the attack misses.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You are hit by an attack against Fortitude, Reflex, or Will</p><p class=\"flavor\">Effect: Make a monster knowledge check that corresponds to the creature that is attacking you. If your check result exceeds the monster’s attack roll, the attack misses.</p>",
+    "range": "Personal <",
     "trigger": "You are hit by an attack against Fortitude, Reflex, or Will",
     "effect": "Make a monster knowledge check that corresponds to the creature that is attacking you. If your check result exceeds the monster’s attack roll, the attack misses."
   },
   "Waxing Fortune": {
     "id": "'3576",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Waxing Fortune",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWaxing Fortune\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3576\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Waxing Fortune</h1><p class=\\\"flavor\\\"><i>Your battle fortune swells like the moon waxes toward full.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, on each of your turns, you gain a bonus to attack rolls equal to the number of bloodied, conscious creatures that are within 10 squares of you at the start of your turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Your battle fortune swells like the moon waxes toward full.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, on each of your turns, you gain a bonus to attack rolls equal to the number of bloodied, conscious creatures that are within 10 squares of you at the start of your turn.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, on each of your turns, you gain a bonus to attack rolls equal to the number of bloodied, conscious creatures that are within 10 squares of you at the start of your turn.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, on each of your turns, you gain a bonus to attack rolls equal to the number of bloodied, conscious creatures that are within 10 squares of you at the start of your turn."
   },
   "Sune's Censure": {
     "id": "'3577",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Sune's Censure",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSune's Censure\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3577\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Sune's Censure</h1><p class=\\\"flavor\\\"><i>Your power forces your enemies to share their weaknesses.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 20</p><p class=\\\"powerstat\\\"><b>Targets</b>: Two creatures in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Choose two targets. Extend the vulnerabilities of one target to the other until the end of the encounter, so that they are both vulnerable until the end of the encounter, even if the original ability was only temporary. If neither targets is vulnerable to a damage type, then both targets gain vulnerable 5 all until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "Your power forces your enemies to share their weaknesses.",
     "keywords": [
       "&nbsp;&nbsp;Close burst 20</p><p class=\"powerstat\">Targets: Two creatures in the burst</p><p class=\"flavor\">Effect: Choose two targets. Extend the vulnerabilities of one target to the other until the end of the encounter, so that they are both vulnerable until the end of the encounter, even if the original ability was only temporary. If neither targets is vulnerable to a damage type, then both targets gain vulnerable 5 all until the end of the encounter.</p>"
     ],
-    "range": "Close burst 20</p><p class=\"powerstat\">Targets: Two creatures in the burst</p><p class=\"flavor\">Effect: Choose two targets. Extend the vulnerabilities of one target to the other until the end of the encounter, so that they are both vulnerable until the end of the encounter, even if the original ability was only temporary. If neither targets is vulnerable to a damage type, then both targets gain vulnerable 5 all until the end of the encounter.</p>",
+    "range": "Close burst 20<",
     "targets": "Two creatures in the burst",
     "effect": "Choose two targets. Extend the vulnerabilities of one target to the other until the end of the encounter, so that they are both vulnerable until the end of the encounter, even if the original ability was only temporary. If neither targets is vulnerable to a damage type, then both targets gain vulnerable 5 all until the end of the encounter."
   },
   "Tempus's Glare": {
     "id": "'3578",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Tempus's Glare",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTempus's Glare\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3578\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Tempus's Glare</h1><p class=\\\"flavor\\\"><i>You call this battle to the attention of the Lord of Battles. His divine glare hastens the fall of the incompetent.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, every creature that attacks you and fails to hit takes damage equal to onehalf its level.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "You call this battle to the attention of the Lord of Battles. His divine glare hastens the fall of the incompetent.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, every creature that attacks you and fails to hit takes damage equal to onehalf its level.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, every creature that attacks you and fails to hit takes damage equal to onehalf its level.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, every creature that attacks you and fails to hit takes damage equal to onehalf its level."
   },
   "Battle Judgement": {
     "id": "'3579",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Battle Judgement",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBattle Judgement\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3579\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Battle Judgement</h1><p class=\\\"flavor\\\"><i>You have learned to emulate Torm’s decisive timing.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: Your melee attack drops an enemy to 0 hit points or fewer</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain hit points equal to the damage you dealt with the attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "You have learned to emulate Torm’s decisive timing.",
     "keywords": [
       "Healing"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: Your melee attack drops an enemy to 0 hit points or fewer</p><p class=\"flavor\">Effect: You regain hit points equal to the damage you dealt with the attack.</p>",
+    "range": "Personal <",
     "trigger": "Your melee attack drops an enemy to 0 hit points or fewer",
     "effect": "You regain hit points equal to the damage you dealt with the attack."
   },
   "Divine Regeneration - Chosen": {
     "id": "'9316",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Chosen",
     "frequency": "Daily",
     "level": "26",
     "name": "Divine Regeneration - Chosen",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Regeneration - Chosen\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9316\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Chosen Utility 26</span>Divine Regeneration - Chosen</h1><p class=\\\"flavor\\\"><i>You ignite the divine spark that glows within you, unleashing a wave of regenerating energy for a short time.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain regeneration equal to your highest ability score until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 73.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Chosen",
     "flavor": "You ignite the divine spark that glows within you, unleashing a wave of regenerating energy for a short time.",
     "keywords": [
       "Healing"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You gain regeneration equal to your highest ability score until the end of the encounter.</p>",
+    "range": "Personal <",
     "effect": "You gain regeneration equal to your highest ability score until the end of the encounter."
   }
 }

@@ -2,56 +2,53 @@
   "Force of Balance": {
     "id": "'16317",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Elemental Anchorite",
     "frequency": "Encounter",
     "level": "11",
     "name": "Force of Balance",
     "type": "Anchorite",
     "sourceRef": "Heroes of the Elemental Chaos",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForce of Balance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16317\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Elemental Anchorite Attack 11</span>Force of Balance</h1><p class=\\\"flavor\\\"><i>You strike with perfectly measured force, using elemental power to maximize the impact of your attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit an enemy with an elemental attack power.</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering attack deals 1[W] extra damage if it is a weapon attack or 1d8 extra damage if it is not a weapon attack, and the target falls prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elemental Anchorite",
     "flavor": "You strike with perfectly measured force, using elemental power to maximize the impact of your attack.",
     "keywords": [
       "Elemental"
     ],
-    "range": "Special </p><p class=\"powerstat\">Trigger: You hit an enemy with an elemental attack power.</p><p class=\"flavor\">Effect: The triggering attack deals 1[W] extra damage if it is a weapon attack or 1d8 extra damage if it is not a weapon attack, and the target falls prone.</p>",
+    "range": "Special <",
     "trigger": "You hit an enemy with an elemental attack power.",
     "effect": "The triggering attack deals 1[W] extra damage if it is a weapon attack or 1d8 extra damage if it is not a weapon attack, and the target falls prone."
   },
   "Elemental Transcendence": {
     "id": "'16318",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Elemental Anchorite",
     "frequency": "Daily",
     "level": "20",
     "name": "Elemental Transcendence",
     "type": "Anchorite",
     "sourceRef": "Heroes of the Elemental Chaos",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Transcendence\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16318\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Elemental Anchorite Attack 20</span>Elemental Transcendence</h1><p class=\\\"flavor\\\"><i>You draw upon the matter surrounding you to increase the intensity of your elemental attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the elemental transcendence stance. Until the stance ends, your elemental weapon attacks deal 1[W] extra damage, and your elemental nonweapon attacks deal 1d8 extra damage. In addition, any enemy that ends its turn adjacent to you takes 10 damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elemental Anchorite",
     "flavor": "You draw upon the matter surrounding you to increase the intensity of your elemental attacks.",
     "keywords": [
       "Elemental, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the elemental transcendence stance. Until the stance ends, your elemental weapon attacks deal 1[W] extra damage, and your elemental nonweapon attacks deal 1d8 extra damage. In addition, any enemy that ends its turn adjacent to you takes 10 damage.</p>",
+    "range": "Personal <",
     "effect": "You assume the elemental transcendence stance. Until the stance ends, your elemental weapon attacks deal 1[W] extra damage, and your elemental nonweapon attacks deal 1d8 extra damage. In addition, any enemy that ends its turn adjacent to you takes 10 damage."
   },
   "Shielding Element": {
     "id": "'16319",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Elemental Anchorite",
     "frequency": "Encounter",
     "level": "12",
     "name": "Shielding Element",
     "type": "Anchorite",
     "sourceRef": "Heroes of the Elemental Chaos",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShielding Element\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16319\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Elemental Anchorite Utility 12</span>Shielding Element</h1><p class=\\\"flavor\\\"><i>You retain the energy of an elemental attack, shaping it into a short-lived shield to protect yourself.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Varies</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must have hit an enemy with an acid, cold, fire, lightning, or thunder attack during this turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, you gain resist 10 to one damage type of the attack (one of the types noted above). In addition, any enemy that hits you with a melee attack before the end of your next turn takes 10 damage of that type.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elemental Anchorite",
     "flavor": "You retain the energy of an elemental attack, shaping it into a short-lived shield to protect yourself.",
     "keywords": [
       "Elemental, Varies"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You must have hit an enemy with an acid, cold, fire, lightning, or thunder attack during this turn.</p><p class=\"powerstat\">Effect: Until the end of your next turn, you gain resist 10 to one damage type of the attack (one of the types noted above). In addition, any enemy that hits you with a melee attack before the end of your next turn takes 10 damage of that type.</p>",
+    "range": "Personal <",
     "requirement": "You must have hit an enemy with an acid, cold, fire, lightning, or thunder attack during this turn.",
     "effect": "Until the end of your next turn, you gain resist 10 to one damage type of the attack (one of the types noted above). In addition, any enemy that hits you with a melee attack before the end of your next turn takes 10 damage of that type."
   }

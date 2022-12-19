@@ -2,19 +2,18 @@
   "Radiant Rush": {
     "id": "'7713",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Favored Soul",
     "frequency": "Encounter",
     "level": "11",
     "name": "Radiant Rush",
     "type": "Soul",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRadiant Rush\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7713\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Favored Soul Attack 11</span>Radiant Rush</h1><p class=\\\"flavor\\\"><i>You blur into action, speeding across the battlefield to smash into your enemy in a halo of radiance. If your blow misses, the light conceals you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: Your oath of enmity target</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Wisdom modifier radiant damage, you push the target 2 squares, and the target is dazed until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: You gain concealment until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Special</b>: When charging, you can use this power in place of a melee basic attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 23.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Favored Soul",
     "flavor": "You blur into action, speeding across the battlefield to smash into your enemy in a halo of radiance. If your blow misses, the light conceals you.",
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: Your oath of enmity target</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 2[W] + Wisdom modifier radiant damage, you push the target 2 squares, and the target is dazed until the end of your next turn.</p><p class=\"powerstat\">Miss: You gain concealment until the end of your next turn.</p><p class=\"flavor\">Special: When charging, you can use this power in place of a melee basic attack.</p>",
+    "range": "Melee weapon<",
     "target": "Your oath of enmity target",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage, you push the target 2 squares, and the target is dazed until the end of your next turn.",
@@ -24,37 +23,35 @@
   "Wings of Angels": {
     "id": "'7714",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Favored Soul",
     "frequency": "Daily",
     "level": "12",
     "name": "Wings of Angels",
     "type": "Soul",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWings of Angels\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7714\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Favored Soul Utility 12</span>Wings of Angels</h1><p class=\\\"flavor\\\"><i>Your lower body fades into swirling mist as you gain mastery of your airborne movement.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, your fly speed increases by 4, and you can hover. In addition, while you aren’t bloodied, you gain regeneration equal to your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 23.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Favored Soul",
     "flavor": "Your lower body fades into swirling mist as you gain mastery of your airborne movement.",
     "keywords": [
       "Divine, Healing, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the stance ends, your fly speed increases by 4, and you can hover. In addition, while you aren’t bloodied, you gain regeneration equal to your Wisdom modifier.</p>",
+    "range": "Personal <",
     "effect": "Until the stance ends, your fly speed increases by 4, and you can hover. In addition, while you aren’t bloodied, you gain regeneration equal to your Wisdom modifier."
   },
   "Celestial Skirmish": {
     "id": "'7715",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Favored Soul",
     "frequency": "Daily",
     "level": "20",
     "name": "Celestial Skirmish",
     "type": "Soul",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCelestial Skirmish\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7715\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Favored Soul Attack 20</span>Celestial Skirmish</h1><p class=\\\"flavor\\\"><i>You take to the sky, your weapon aglow. You swoop and strike repeatedly as you dart past your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Effect</b>: You fly your speed + 2. During this movement, you gain a +6 bonus to AC against opportunity attacks. At any point during the movement, you can make the following attack three times, each time against a different target.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: One creature</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2[W] + Wisdom modifier radiant damage. If you hit two creatures, the second is dazed (save ends). If you hit three creatures, the third is stunned (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 23.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Favored Soul",
     "flavor": "You take to the sky, your weapon aglow. You swoop and strike repeatedly as you dart past your foes.",
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Effect: You fly your speed + 2. During this movement, you gain a +6 bonus to AC against opportunity attacks. At any point during the movement, you can make the following attack three times, each time against a different target.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Wisdom vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 2[W] + Wisdom modifier radiant damage. If you hit two creatures, the second is dazed (save ends). If you hit three creatures, the third is stunned (save ends).</p>",
+    "range": "Melee weapon<",
     "effect": "You fly your speed + 2. During this movement, you gain a +6 bonus to AC against opportunity attacks. At any point during the movement, you can make the following attack three times, each time against a different target.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",

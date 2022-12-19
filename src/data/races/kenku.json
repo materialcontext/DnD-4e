@@ -1,0 +1,57 @@
+{
+  "name": "Kenku",
+  "height": "5'0\" - 5'6\"",
+  "weight": "110 - 150 lbs",
+  "abilityScores": "+2 Charisma, +2 Dexterity or +2 Intelligence",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, choice of one other",
+  "uniqueFeatures": {
+    "mimicry": "You can imitate sounds and voices you have heard, even sounds that cannot normally be made by humanoids. Each time you attempt to mimic a sound, you must succeed on a Bluff check to fool those who hear the sound into believing it is genuine.",
+    "flockTactics": "You have the flock tactics power.",
+    "flockEffect": "When you have combat advantage against a creature as a result of flanking it, you gain a +3 bonus to attack rolls against it, rather than the normal +2.",
+    "skillBonuses": "+2 Bluff, +2 Stealth.",
+    "vision": "Low-light"
+  },
+  "physTxt": "Kenkus are easily identified by their obviously avian appearance. A kenku’s head resembles that of a raven, complete with small, beady black eyes and a large, dark beak. Sleek black feathers cover its body, ending at the knees and elbows. Its arms and legs are covered in scaly black skin, and its hands and feet end in talons.  Young kenkus hatch from eggs. Within a month they are strong enough to join the flock, and they reach maturity in five years. Most die before reaching their third decade, a consequence of the harsh life in a flock, but extremely hardy or devious kenkus have been known to survive for decades. These rare individuals often become leaders of powerful and well-connected flocks.  Obsessed with avoiding attention, many kenkus garb themselves in drab, loose-fitting clothing that allows them to conceal their features. They favor colors that blend well with shadows and disdain obvious ornamentation. Many kenkus adopt or learn to mimic the mannerisms of nearby peoples.",
+  "refSource": "Monster Manual 2, page ",
+  "flavorTxt": "Cunning survivors, sly allies, hoarders of secrets",
+  "power": "Flock Tactics",
+  "characteristics": [
+    "anxious",
+    "cunning",
+    "deceptive",
+    "gregarious",
+    "sly",
+    "secretive",
+    "stealthy",
+    "tenacious"
+  ],
+  "femNames": [
+    "deidra",
+    "ekra",
+    "karrah",
+    "kelkra",
+    "naldara",
+    "okara",
+    "sedra",
+    "seikra",
+    "tessah",
+    "tristah"
+  ],
+  "mascNames": [
+    "akar",
+    "barok",
+    "elkrek",
+    "hekar",
+    "jedrik",
+    "kalko",
+    "korik",
+    "kynek",
+    "nalik",
+    "norik",
+    "osrik",
+    "rekrok"
+  ],
+  "tipsTxt": "When creating a kenku adventurer, here are a few points to consider. Secrets are your strength. Every kenku knows that knowing what someone else wants hidden gives you power over that person. You always keep your ears open for bits of gossip or little-known information that you might be able to exploit later. Although you don’t hesitate to resort to extortion or bribery, you are careful not to call in all such favors at once. Having options in a crisis makes your secrets all the more useful tools. Allies make you stronger. Life in an aerie is tough. Fledglings survive by forming partnerships and complex alliances. These connections provide information, resources, and future assistance. Although you deal in lies and deceit, you are loath to turn on your companions. You are also always on the lookout for ways to develop your network of contacts and potential allies. Fight to survive. When events turn desperate, you work all the harder. Your people are always pragmatic, recognizing that rare is the situation that leaves no option for survival. This attitude is what allowed ancient kenku rebels to scratch out an existence while on the run from the Raven Queen. Try to avoid notice. Those whom your people have exploited are more than happy to end your life. The best way to escape enemies is to keep hidden. You rarely reveal your true identity, relying on your allies to ask questions while you hide nearby. Only in dire need do you risk letting anyone catch a glimpse of you."
+}

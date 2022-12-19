@@ -1,0 +1,54 @@
+{
+  "name": "Bladeling",
+  "height": "5'8\" - 6'4\"",
+  "weight": "210 - 310 lbs",
+  "abilityScores": "+2 Wisdom, +2 Dexterity or +2 Strength",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common",
+  "uniqueFeatures": {
+    "razorStorm": "You have the razor storm power.",
+    "barbedBody": "Your body has the barbed armor property. Whenever you escape a creature’s grab on your turn, or a creature escapes your grab, it takes damage equal to 2 + one-half your level. If you’re wearing barbed armor or carrying a barbed shield, the creature takes this damage only once.",
+    "acidResistance": "You have acid resistance equal to 5 + one-half your level.",
+    "skillBonuses": "+2 Arcana, +2 Intimidate.",
+    "vision": "Normal"
+  },
+  "physTxt": "Bladelings stand a bit taller than humans, and most have chiseled and athletic bodies. They weigh more than one might expect due to the dense, metallic nature of their skeletons and skin. Bladelings’ coloration ranges from pale green to a dark, bruise-like purple. Many also have rust-colored freckles. A bladeling’s eyes range from silver to pitch-black.  These qualities alone would not set bladelings apart from the countless humanoid variations encountered in the planes. What makes them distinct are the blades and spines that sprout from their flesh. The spurs on their brows and most of their bodies reach about a half-inch to an inch, while longer blades, typically growing on the shoulders and legs, can be more than two feet long. These blades grow continually, much like a fish’s scales, and damage to or removal of one offers only the slightest discomfort to a bladeling. A broken spur crumbles to rust in a matter of minutes.  Through careful pruning and their innate ability to guide the blades’ growth, bladelings can shape their appearance much as humans cut their hair or grow beards. A few of the more radical or antisocial individuals let their blades grow wild, hampering the use of most armor, but these are a minority. The average bladeling is more practical than that, preferring to cultivate shapes designed to impress or intimidate.",
+  "refSource": "Manual of the Planes, page ",
+  "flavorTxt": "",
+  "power": "Razor Storm",
+  "characteristics": [
+    "calculating",
+    "cold",
+    "disciplined",
+    "domineering",
+    "focused",
+    "grim",
+    "severe",
+    "reserved",
+    "withdrawn.<br/>bladeling names are used equally by males and females",
+    "while their family names are variations of the word “black",
+    "” a nod to their creator’s title as the black hand."
+  ],
+  "femNames": [
+    "adamok",
+    "calamir",
+    "damerik",
+    "edimgar",
+    "fazgarok",
+    "ozerin",
+    "razirin",
+    "urlezar"
+  ],
+  "mascNames": [
+    "adamok",
+    "calamir",
+    "damerik",
+    "edimgar",
+    "fazgarok",
+    "ozerin",
+    "razirin",
+    "urlezar"
+  ],
+  "tipsTxt": "When creating a bladeling adventurer, here are a few points to consider. You live in Bane’s shadow. You were molded by the gauntleted hand of the war god, and there’s no denying your origins. You were born for war, but how do you face that predestination? You might embrace your warrior nature and block out all other aspects of your life, or you might search for a purpose outside the battlefield. But if you do fight, what do you fight for? Your homeland is lost. Your people have no homeland to call their own. By leaving Chernoggar behind, you forfeited all claim your people had to it, and it now is overrun by goblins and orcs. Do you seek a new place you can belong to, or do you consider your own body to be your homeland? You are a child of the planes. You belong to the endless cosmos. As befits such a well-traveled race, you are used to seeing the big picture and putting things in perspective. You know that joy and pain, life and death are fleeting things, so you make the most of the present and try not to worry about what you can’t control."
+}

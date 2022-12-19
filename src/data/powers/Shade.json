@@ -2,109 +2,103 @@
   "One with Shadow": {
     "id": "'14032",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Shade",
     "frequency": "At-Will",
     "level": "0",
     "name": "One with Shadow",
     "type": "Racial",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOne with Shadow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14032\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Shade Racial Utility </span>One with Shadow</h1><p class=\\\"flavor\\\"><i>You fade into the darkness, becoming a part of the shadow that swirls around you.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you can make Stealth checks to become hidden when you have any cover or concealment. In addition, you can use cover from your allies to become hidden or to remain hidden.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 121.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shade",
     "flavor": "You fade into the darkness, becoming a part of the shadow that swirls around you.",
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you can make Stealth checks to become hidden when you have any cover or concealment. In addition, you can use cover from your allies to become hidden or to remain hidden.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you can make Stealth checks to become hidden when you have any cover or concealment. In addition, you can use cover from your allies to become hidden or to remain hidden."
   },
   "Fleeting Shade": {
     "id": "'14016",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Shade",
     "frequency": "Encounter",
     "level": "2",
     "name": "Fleeting Shade",
     "type": "Racial",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFleeting Shade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14016\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shade Racial Utility 2</span>Fleeting Shade</h1><p class=\\\"flavor\\\"><i>You cloak yourself with strands of shadow that allow you to fight unseen.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You become invisible until the end of your turn. In addition, you gain a +5 power bonus to Stealth checks until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 124.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shade",
     "flavor": "You cloak yourself with strands of shadow that allow you to fight unseen.",
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You become invisible until the end of your turn. In addition, you gain a +5 power bonus to Stealth checks until the end of your next turn.</p>",
+    "range": "Personal <",
     "effect": "You become invisible until the end of your turn. In addition, you gain a +5 power bonus to Stealth checks until the end of your next turn."
   },
   "Twilight Torch": {
     "id": "'14017",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Shade",
     "frequency": "At-Will",
     "level": "6",
     "name": "Twilight Torch",
     "type": "Racial",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTwilight Torch\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14017\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Shade Racial Utility 6</span>Twilight Torch</h1><p class=\\\"flavor\\\"><i>The light of your soul commingles with the dark shard embedded within it, surrounding you with the concealing power of shadow.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of dim light that lasts until the end of your next turn or until you use this power again.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shade",
     "flavor": "The light of your soul commingles with the dark shard embedded within it, surrounding you with the concealing power of shadow.",
     "keywords": [
       "Shadow, Zone"
     ],
-    "range": "Close burst 1</p><p class=\"flavor\">Effect: The burst creates a zone of dim light that lasts until the end of your next turn or until you use this power again.</p>",
+    "range": "Close burst 1<",
     "effect": "The burst creates a zone of dim light that lasts until the end of your next turn or until you use this power again."
   },
   "Shadow Monsters": {
     "id": "'14018",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Shade",
     "frequency": "Daily",
     "level": "10",
     "name": "Shadow Monsters",
     "type": "Racial",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Monsters\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14018\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shade Racial Utility 10</span>Shadow Monsters</h1><p class=\\\"flavor\\\"><i>You call forth nightmare shadow monsters to strike at your foes’ bodies and minds.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Necrotic</b>, <b>Shadow</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure four shadow monsters in four different unoccupied squares in the burst. The shadow monsters last until the end of the encounter. Once per round as a minor action, you can move the shadow monsters up to 4 squares each.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Enemies take a -2 penalty to attack rolls while adjacent to a shadow monster. Any enemy that ends its turn in the square of or adjacent to one or more shadow monsters takes 10 necrotic damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shade",
     "flavor": "You call forth nightmare shadow monsters to strike at your foes’ bodies and minds.",
     "keywords": [
       "Conjuration, Necrotic, Shadow"
     ],
-    "range": "Close burst 3</p><p class=\"flavor\">Effect: You conjure four shadow monsters in four different unoccupied squares in the burst. The shadow monsters last until the end of the encounter. Once per round as a minor action, you can move the shadow monsters up to 4 squares each.",
+    "range": "Close burst 3<",
     "effect": "You conjure four shadow monsters in four different unoccupied squares in the burst. The shadow monsters last until the end of the encounter. Once per round as a minor action, you can move the shadow monsters up to 4 squares each.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Enemies take a -2 penalty to attack rolls while adjacent to a shadow monster. Any enemy that ends its turn in the square of or adjacent to one or more shadow monsters takes 10 necrotic damage."
   },
   "Shadow Jump": {
     "id": "'14019",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Shade",
     "frequency": "Encounter",
     "level": "16",
     "name": "Shadow Jump",
     "type": "Racial",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Jump\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14019\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shade Racial Utility 16</span>Shadow Jump</h1><p class=\\\"flavor\\\"><i>The planar energy of the Shadowfell lets you slip away from danger, then step back into the world a safe distance away.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport up to your speed.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shade",
     "flavor": "The planar energy of the Shadowfell lets you slip away from danger, then step back into the world a safe distance away.",
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You teleport up to your speed.</p>",
+    "range": "Personal <",
     "effect": "You teleport up to your speed."
   },
   "Five Darknesses": {
     "id": "'14020",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Shade",
     "frequency": "Encounter",
     "level": "22",
     "name": "Five Darknesses",
     "type": "Racial",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFive Darknesses\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14020\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shade Racial Utility 22</span>Five Darknesses</h1><p class=\\\"flavor\\\"><i>The essence of the Shadowfell flows freely within you, transforming you into living shadow that strikes fear into the hearts of nearby creatures.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain 10 temporary hit points. Until the end of your next turn, you gain a fly speed equal to your speed, you are insubstantial and phasing, and creatures take a -2 penalty to attack rolls while adjacent to you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 125.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shade",
     "flavor": "The essence of the Shadowfell flows freely within you, transforming you into living shadow that strikes fear into the hearts of nearby creatures.",
     "keywords": [
       "Fear, Shadow"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You gain 10 temporary hit points. Until the end of your next turn, you gain a fly speed equal to your speed, you are insubstantial and phasing, and creatures take a -2 penalty to attack rolls while adjacent to you.</p>",
+    "range": "Personal <",
     "effect": "You gain 10 temporary hit points. Until the end of your next turn, you gain a fly speed equal to your speed, you are insubstantial and phasing, and creatures take a -2 penalty to attack rolls while adjacent to you."
   }
 }

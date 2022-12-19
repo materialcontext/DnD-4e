@@ -2,19 +2,18 @@
   "Oath of Weakness": {
     "id": "'5357",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Oathsworn",
     "frequency": "Encounter",
     "level": "11",
     "name": "Oath of Weakness",
     "type": "Attack",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOath of Weakness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5357\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Oathsworn Attack 11</span>Oath of Weakness</h1><p class=\\\"flavor\\\"><i>As you strike your sworn foe, the power of your oath saps its strength and will.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: Your oath of enmity target</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Wisdom modifier damage, and the target is weakened until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Oathsworn",
     "flavor": "As you strike your sworn foe, the power of your oath saps its strength and will.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: Your oath of enmity target</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 2[W] + Wisdom modifier damage, and the target is weakened until the end of your next turn.</p>",
+    "range": "Melee weapon<",
     "target": "Your oath of enmity target",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and the target is weakened until the end of your next turn."
@@ -22,38 +21,36 @@
   "Sworn Crusade": {
     "id": "'5358",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Oathsworn",
     "frequency": "Daily",
     "level": "12",
     "name": "Sworn Crusade",
     "type": "Utility",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSworn Crusade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5358\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Oathsworn Utility 12</span>Sworn Crusade</h1><p class=\\\"flavor\\\"><i>The holy nimbus representing your oath against an enemy surrounds your allies too, endowing them with deadly accuracy.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, each target makes two attack rolls and uses the result he or she prefers when making a melee attack against your oath of enmity target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Oathsworn",
     "flavor": "The holy nimbus representing your oath against an enemy surrounds your allies too, endowing them with deadly accuracy.",
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: Until the end of your next turn, each target makes two attack rolls and uses the result he or she prefers when making a melee attack against your oath of enmity target.</p>",
+    "range": "Close burst 5<",
     "target": "Each ally in the burst",
     "effect": "Until the end of your next turn, each target makes two attack rolls and uses the result he or she prefers when making a melee attack against your oath of enmity target."
   },
   "Oath Bond": {
     "id": "'5359",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Oathsworn",
     "frequency": "Daily",
     "level": "20",
     "name": "Oath Bond",
     "type": "Attack",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOath Bond\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5359\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Oathsworn Attack 20</span>Oath Bond</h1><p class=\\\"flavor\\\"><i>You bind a foe with your oath, consigning it to your god’s punishment.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: Your oath of enmity target</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The target gains vulnerable 5 to your attacks (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Oathsworn",
     "flavor": "You bind a foe with your oath, consigning it to your god’s punishment.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: Your oath of enmity target</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier damage.</p><p class=\"powerstat\">Effect: The target gains vulnerable 5 to your attacks (save ends).</p>",
+    "range": "Melee weapon<",
     "target": "Your oath of enmity target",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage.",

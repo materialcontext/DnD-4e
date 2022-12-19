@@ -2,19 +2,18 @@
   "Whispers of the Fey": {
     "id": "'1659",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Feytouched",
     "frequency": "Daily",
     "level": "20",
     "name": "Whispers of the Fey",
     "type": "Attack",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWhispers of the Fey\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1659\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Feytouched Attack 20</span>Whispers of the Fey</h1><p class=\\\"flavor\\\"><i>The disquieting whispers of fey spirits surround you, filling the minds of nearby enemies with deranged thoughts and provoking them to turn on their allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Charm</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target must make a basic attack as a free action against its nearest ally (you choose the target if there are multiple possible targets). If it can’t make the attack, the target takes 2d8 + Charisma modifier psychic damage After it makes its attack or takes psychic damage, the target is dazed (save ends).</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 141, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Feytouched",
     "flavor": "The disquieting whispers of fey spirits surround you, filling the minds of nearby enemies with deranged thoughts and provoking them to turn on their allies.",
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: The target must make a basic attack as a free action against its nearest ally (you choose the target if there are multiple possible targets). If it can’t make the attack, the target takes 2d8 + Charisma modifier psychic damage After it makes its attack or takes psychic damage, the target is dazed (save ends).</p>",
+    "range": "Close burst 5<",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "The target must make a basic attack as a free action against its nearest ally (you choose the target if there are multiple possible targets). If it can’t make the attack, the target takes 2d8 + Charisma modifier psychic damage After it makes its attack or takes psychic damage, the target is dazed (save ends)."
@@ -22,38 +21,36 @@
   "Twilight Teleport": {
     "id": "'1661",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Feytouched",
     "frequency": "Daily",
     "level": "12",
     "name": "Twilight Teleport",
     "type": "Utility",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTwilight Teleport\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1661\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Feytouched Utility 12</span>Twilight Teleport</h1><p class=\\\"flavor\\\"><i>An enemy falls to your curse, and another creature appears in its place, surrounded by motes of twilight.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature within range and affected by your Warlock’s Curse drops to 0 hit points or fewer</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport yourself or another creature in range into the triggering creature’s space.</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 141, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Feytouched",
     "flavor": "An enemy falls to your curse, and another creature appears in its place, surrounded by motes of twilight.",
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Ranged 20</p><p class=\"powerstat\">Trigger: A creature within range and affected by your Warlock’s Curse drops to 0 hit points or fewer</p><p class=\"flavor\">Effect: You teleport yourself or another creature in range into the triggering creature’s space.</p>",
+    "range": "Ranged 20<",
     "trigger": "A creature within range and affected by your Warlock’s Curse drops to 0 hit points or fewer",
     "effect": "You teleport yourself or another creature in range into the triggering creature’s space."
   },
   "Will of the Feywild": {
     "id": "'1695",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Feytouched",
     "frequency": "Encounter",
     "level": "11",
     "name": "Will of the Feywild",
     "type": "Attack",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWill of the Feywild\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1695\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Feytouched Attack 11</span>Will of the Feywild</h1><p class=\\\"flavor\\\"><i>You bend your enemy’s will to your whim. In a blinding flash of golden light, the creature teleports to a location you designate and, in its madness, attacks one of its allies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Charm</b>, <b>Implement</b>, <b>Psychic</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Charisma modifier psychic damage. You can teleport the target 5 squares, whereupon it makes a melee basic attack against an adjacent creature of your choice.</p><br/>Update (8/15/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 141, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Feytouched",
     "flavor": "You bend your enemy’s will to your whim. In a blinding flash of golden light, the creature teleports to a location you designate and, in its madness, attacks one of its allies.",
     "keywords": [
       "Arcane, Charm, Implement, Psychic, Teleportation"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Will</p><p class=\"flavor\">Hit: 2d8 + Charisma modifier psychic damage. You can teleport the target 5 squares, whereupon it makes a melee basic attack against an adjacent creature of your choice.</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier psychic damage. You can teleport the target 5 squares, whereupon it makes a melee basic attack against an adjacent creature of your choice."

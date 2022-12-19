@@ -2,19 +2,18 @@
   "Kelemvor's Sword": {
     "id": "'1898",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Doomguide",
     "frequency": "Daily",
     "level": "20",
     "name": "Kelemvor's Sword",
     "type": "Attack",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nKelemvor's Sword\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1898\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Doomguide Attack 20</span>Kelemvor's Sword</h1><p class=\\\"flavor\\\"><i>You hold your blade high, and a holy fire envelops its length. Your strike is charged with dazzling, radiant power, and you and your allies are healed by Kelemvor’s grace.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength  vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength modifier radiant damage, and the target is dazed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;An undead creature hit by this power is stunned (save ends) rather than dazed.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You and each of your allies within 10 squares regain 15 hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Doomguide",
     "flavor": "You hold your blade high, and a holy fire envelops its length. Your strike is charged with dazzling, radiant power, and you and your allies are healed by Kelemvor’s grace.",
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Attack: Strength  vs. Reflex</p><p class=\"flavor\">Hit: 4[W] + Strength modifier radiant damage, and the target is dazed (save ends).",
+    "range": "Melee weapon<",
     "attack": "Strength  vs. Reflex",
     "onHit": "4[W] + Strength modifier radiant damage, and the target is dazed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;An undead creature hit by this power is stunned (save ends) rather than dazed.",
     "effect": "You and each of your allies within 10 squares regain 15 hit points."
@@ -22,19 +21,18 @@
   "Kelemvor's Circle": {
     "id": "'3535",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Doomguide",
     "frequency": "Encounter",
     "level": "11",
     "name": "Kelemvor's Circle",
     "type": "Attack",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nKelemvor's Circle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3535\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Doomguide Attack 11</span>Kelemvor's Circle</h1><p class=\\\"flavor\\\"><i>You throw your arms wide to fling out a circle of holy radiance. Foes nearby burn, and undead creatures explode into white motes, but your allies are soothed by holy warmth.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Charisma modifier radiant damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Your allies in the burst regain 5 hit points, or 10 hit points if your attack hit at least one undead enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Doomguide",
     "flavor": "You throw your arms wide to fling out a circle of holy radiance. Foes nearby burn, and undead creatures explode into white motes, but your allies are soothed by holy warmth.",
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 2d6 + Charisma modifier radiant damage.</p><p class=\"powerstat\">Effect: Your allies in the burst regain 5 hit points, or 10 hit points if your attack hit at least one undead enemy.</p>",
+    "range": "Close burst 5<",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier radiant damage.",
@@ -43,19 +41,18 @@
   "Unsullied Heart": {
     "id": "'3536",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Doomguide",
     "frequency": "Daily",
     "level": "12",
     "name": "Unsullied Heart",
     "type": "Utility",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnsullied Heart\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=3536\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Doomguide Utility 12</span>Unsullied Heart</h1><p class=\\\"flavor\\\"><i>Kelemvor wards those whom you call friend. With his name you purge your ally of a baleful effect before it takes hold.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You or an ally is hit by an attack against Fortitude or Will defense</p><p class=\\\"flavor\\\"><b>Effect</b>: The target of the attack gains a +5 power bonus to Fortitude or Will defense until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Doomguide",
     "flavor": "Kelemvor wards those whom you call friend. With his name you purge your ally of a baleful effect before it takes hold.",
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: You or an ally is hit by an attack against Fortitude or Will defense</p><p class=\"flavor\">Effect: The target of the attack gains a +5 power bonus to Fortitude or Will defense until the end of your next turn.</p>",
+    "range": "Ranged 10<",
     "trigger": "You or an ally is hit by an attack against Fortitude or Will defense",
     "effect": "The target of the attack gains a +5 power bonus to Fortitude or Will defense until the end of your next turn."
   }

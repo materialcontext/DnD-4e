@@ -2,19 +2,18 @@
   "Debilitating Smite": {
     "id": "'8151",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Gray Guard",
     "frequency": "Encounter",
     "level": "11",
     "name": "Debilitating Smite",
     "type": "Guard",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDebilitating Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8151\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Gray Guard Attack 11</span>Debilitating Smite</h1><p class=\\\"flavor\\\"><i>So painful is the injury to your enemy that it can barely continue to fight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and the target is dazed and slowed until the end of your next turn. If the target makes an attack before then, it is dazed until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Gray Guard",
     "flavor": "So painful is the injury to your enemy that it can barely continue to fight.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and the target is dazed and slowed until the end of your next turn. If the target makes an attack before then, it is dazed until the end of its next turn.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is dazed and slowed until the end of your next turn. If the target makes an attack before then, it is dazed until the end of its next turn."
@@ -22,38 +21,36 @@
   "Relentless Justice": {
     "id": "'8152",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Gray Guard",
     "frequency": "Encounter",
     "level": "12",
     "name": "Relentless Justice",
     "type": "Guard",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRelentless Justice\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8152\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Gray Guard Utility 12</span>Relentless Justice</h1><p class=\\\"flavor\\\"><i>You persevere in your attacks until you make an enemy pay.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You do not hit with a paladin encounter attack power</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain the use of one paladin encounter attack power that you have used during this encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Gray Guard",
     "flavor": "You persevere in your attacks until you make an enemy pay.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You do not hit with a paladin encounter attack power</p><p class=\"flavor\">Effect: You regain the use of one paladin encounter attack power that you have used during this encounter.</p>",
+    "range": "Personal <",
     "trigger": "You do not hit with a paladin encounter attack power",
     "effect": "You regain the use of one paladin encounter attack power that you have used during this encounter."
   },
   "Devastating Smite": {
     "id": "'8153",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Gray Guard",
     "frequency": "Daily",
     "level": "20",
     "name": "Devastating Smite",
     "type": "Guard",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDevastating Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8153\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Gray Guard Attack 20</span>Devastating Smite</h1><p class=\\\"flavor\\\"><i>Divine power charges your strike, tearing through your foe and opening it to your ally’s attack.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength modifier damage. You can expend a use of your lay on hands power (or a power that you took in place of it) to cause the attack to deal extra damage equal to your healing surge value. Until the end of your next turn, the target grants combat advantage to one ally within 5 squares of you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Gray Guard",
     "flavor": "Divine power charges your strike, tearing through your foe and opening it to your ally’s attack.",
     "keywords": [
       "Divine, Reliable, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 4[W] + Strength modifier damage. You can expend a use of your lay on hands power (or a power that you took in place of it) to cause the attack to deal extra damage equal to your healing surge value. Until the end of your next turn, the target grants combat advantage to one ally within 5 squares of you.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. You can expend a use of your lay on hands power (or a power that you took in place of it) to cause the attack to deal extra damage equal to your healing surge value. Until the end of your next turn, the target grants combat advantage to one ally within 5 squares of you."

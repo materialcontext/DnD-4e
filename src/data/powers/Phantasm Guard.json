@@ -2,19 +2,18 @@
   "Wave of Dread": {
     "id": "'11631",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Phantasm Guard",
     "frequency": "Encounter",
     "level": "11",
     "name": "Wave of Dread",
     "type": "Guard",
     "sourceRef": "Dragon Magazine 384",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWave of Dread\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11631\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Phantasm Guard Attack 11</span>Wave of Dread</h1><p class=\\\"flavor\\\"><i>With a wave of your sword, a cloud of ghostly hands and wailing heads swarms out over your enemies, chilling them to the bone.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b>, <b>Illusion</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 59.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Phantasm Guard",
     "flavor": "With a wave of your sword, a cloud of ghostly hands and wailing heads swarms out over your enemies, chilling them to the bone.",
     "keywords": [
       "Arcane, Fear, Illusion, Implement, Psychic"
     ],
-    "range": "Close blast 3</p><p class=\"powerstat\">Target: Each enemy in the blast</p><p class=\"powerstat\">Attack: Intelligence vs. Will</p><p class=\"flavor\">Hit: 2d6 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn.</p>",
+    "range": "Close blast 3<",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn."
@@ -22,19 +21,18 @@
   "Illusory Host": {
     "id": "'11632",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Phantasm Guard",
     "frequency": "Daily",
     "level": "20",
     "name": "Illusory Host",
     "type": "Guard",
     "sourceRef": "Dragon Magazine 384",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nIllusory Host\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11632\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Phantasm Guard Attack 20</span>Illusory Host</h1><p class=\\\"flavor\\\"><i>A horde of ghostly figures appears around you to act at your command, menacing your enemies with a field of blades and claws.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Illusion</b>, <b>Implement</b>, <b>Psychic</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Intelligence modifier psychic damage, and you mark the target until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The burst creates a zone of ghostly warriors that lasts until the end of the encounter. Enemies within the zone grant combat advantage, and you can use the Illusory Host Attack power at will.</p><br/><h1 class=\\\"dailypower\\\"><span class=\\\"level\\\"></span>Illusory Host Attack</h1><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Illusion</b>, <b>Implement</b>, <b>Psychic</b>, <b>Zone</b><br/><b>Opportunity Action</b>&nbsp;&nbsp;</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Illusory Host must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy in the zone shifts or makes an attack that does not include you as a target.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d10 + Intelligence modifier psychic damage, and you mark the target until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 60.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Phantasm Guard",
     "flavor": "A horde of ghostly figures appears around you to act at your command, menacing your enemies with a field of blades and claws.",
     "keywords": [
       "Arcane, Illusion, Implement, Psychic, Zone"
     ],
-    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Intelligence vs. Will</p><p class=\"flavor\">Hit: 3d8 + Intelligence modifier psychic damage, and you mark the target until the end of your next turn.</p><p class=\"powerstat\">Effect: The burst creates a zone of ghostly warriors that lasts until the end of the encounter. Enemies within the zone grant combat advantage, and you can use the Illusory Host Attack power at will.</p>",
+    "range": "Close burst 2<",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "1d10 + Intelligence modifier psychic damage, and you mark the target until the end of its next turn.",
@@ -45,19 +43,18 @@
   "Nightmare Landscape": {
     "id": "'11634",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Phantasm Guard",
     "frequency": "Daily",
     "level": "12",
     "name": "Nightmare Landscape",
     "type": "Guard",
     "sourceRef": "Dragon Magazine 384",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNightmare Landscape\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11634\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Phantasm Guard Utility 12</span>Nightmare Landscape</h1><p class=\\\"flavor\\\"><i>The world darkens and warps. Bushes and trees seem to cling at your enemies, and the earth melts and rises up to engulf their feet.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Illusion</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of illusory nightmare terrain that lasts until the end of the encounter. Enemies treat squares within the zone as difficult terrain, and allies within the zone gain concealment.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/384\\\" target=\\\"_new\\\">Dragon Magazine 384</a>, page(s) 59.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Phantasm Guard",
     "flavor": "The world darkens and warps. Bushes and trees seem to cling at your enemies, and the earth melts and rises up to engulf their feet.",
     "keywords": [
       "Arcane, Illusion, Zone"
     ],
-    "range": "Close burst 3</p><p class=\"flavor\">Effect: The burst creates a zone of illusory nightmare terrain that lasts until the end of the encounter. Enemies treat squares within the zone as difficult terrain, and allies within the zone gain concealment.</p>",
+    "range": "Close burst 3<",
     "effect": "The burst creates a zone of illusory nightmare terrain that lasts until the end of the encounter. Enemies treat squares within the zone as difficult terrain, and allies within the zone gain concealment."
   }
 }

@@ -2,19 +2,18 @@
   "Bloodseeking Strike": {
     "id": "'6583",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Bloodknight",
     "frequency": "Encounter",
     "level": "11",
     "name": "Bloodseeking Strike",
     "type": "Attack",
     "sourceRef": "Dragon Magazine Annual, Dragon Magazine 371",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBloodseeking Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6583\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Bloodknight Attack 11</span>Bloodseeking Strike</h1><p class=\\\"flavor\\\"><i>You strike hard enough to crumple armor and hew the toughest hide, leaving your enemy open to further attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and you grab the target. Until the end of your next turn, you gain a +2 power bonus to Fortitude and Reflex against attempts to break your grab.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/242070000\\\" target=\\\"_new\\\">Dragon Magazine Annual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/371\\\" target=\\\"_new\\\">Dragon Magazine 371</a>, page(s) 36.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Bloodknight",
     "flavor": "You strike hard enough to crumple armor and hew the toughest hide, leaving your enemy open to further attack.",
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and you grab the target. Until the end of your next turn, you gain a +2 power bonus to Fortitude and Reflex against attempts to break your grab.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you grab the target. Until the end of your next turn, you gain a +2 power bonus to Fortitude and Reflex against attempts to break your grab."
@@ -22,37 +21,35 @@
   "Mistblood Form": {
     "id": "'6584",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Bloodknight",
     "frequency": "Daily",
     "level": "12",
     "name": "Mistblood Form",
     "type": "Utility",
     "sourceRef": "Dragon Magazine Annual, Dragon Magazine 371",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMistblood Form\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6584\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Bloodknight Utility 12</span>Mistblood Form</h1><p class=\\\"flavor\\\"><i>You draw upon your ties to vampire nature so that you can step between life and death to slay body and spirit.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain phasing and deal full damage to insubstantial creatures.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/242070000\\\" target=\\\"_new\\\">Dragon Magazine Annual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/371\\\" target=\\\"_new\\\">Dragon Magazine 371</a>, page(s) 36.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Bloodknight",
     "flavor": "You draw upon your ties to vampire nature so that you can step between life and death to slay body and spirit.",
     "keywords": [
       "Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You gain phasing and deal full damage to insubstantial creatures.</p>",
+    "range": "Personal <",
     "effect": "You gain phasing and deal full damage to insubstantial creatures."
   },
   "Dance of Blood": {
     "id": "'6585",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Bloodknight",
     "frequency": "Daily",
     "level": "20",
     "name": "Dance of Blood",
     "type": "Attack",
     "sourceRef": "Dragon Magazine Annual, Dragon Magazine 371",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDance of Blood\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6585\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Bloodknight Attack 20</span>Dance of Blood</h1><p class=\\\"flavor\\\"><i>Your enemies stagger under your imposing gaze and line up for slaughter.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: At the start of your turn, you can slide one adjacent enemy 1 square. You can then make a melee basic attack against that enemy as a free action provided that enemy is within your reach.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/242070000\\\" target=\\\"_new\\\">Dragon Magazine Annual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/371\\\" target=\\\"_new\\\">Dragon Magazine 371</a>, page(s) 36.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Bloodknight",
     "flavor": "Your enemies stagger under your imposing gaze and line up for slaughter.",
     "keywords": [
       "Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: At the start of your turn, you can slide one adjacent enemy 1 square. You can then make a melee basic attack against that enemy as a free action provided that enemy is within your reach.</p>",
+    "range": "Personal <",
     "effect": "At the start of your turn, you can slide one adjacent enemy 1 square. You can then make a melee basic attack against that enemy as a free action provided that enemy is within your reach."
   }
 }

@@ -2,74 +2,70 @@
   "Long View": {
     "id": "'16042",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Elf",
     "frequency": "Encounter",
     "level": "2",
     "name": "Long View",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLong View\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16042\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Elf Racial Utility 2</span>Long View</h1><p class=\\\"flavor\\\"><i>You scan the battlefield for your target. When you find it, you take aim, knowing your next shot will strike true.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one creature you can see. Until the end of your next turn, you gain combat advantage against that creature for any weapon attack you make using a longbow or a shortbow.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elf",
     "flavor": "You scan the battlefield for your target. When you find it, you take aim, knowing your next shot will strike true.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose one creature you can see. Until the end of your next turn, you gain combat advantage against that creature for any weapon attack you make using a longbow or a shortbow.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Choose one creature you can see. Until the end of your next turn, you gain combat advantage against that creature for any weapon attack you make using a longbow or a shortbow.</p>",
+    "range": "Personal <",
     "effect": "Choose one creature you can see. Until the end of your next turn, you gain combat advantage against that creature for any weapon attack you make using a longbow or a shortbow."
   },
   "Leave No Trace": {
     "id": "'16043",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Elf",
     "frequency": "Daily",
     "level": "6",
     "name": "Leave No Trace",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLeave No Trace\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16043\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Elf Racial Utility 6</span>Leave No Trace</h1><p class=\\\"flavor\\\"><i>You use instinct and training to avoid showing signs of your passage and hide all signs of your approach.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the leave no trace stance. Until the stance ends, the DC of any Perception check to find your tracks or the tracks of up to eight allies who travel with you is increased by 10. If your tracks are found, identifying them requires a Nature check against the same DC. In addition, you and allies adjacent to you have a +2 power bonus to Stealth checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This stance ends after 8 hours, when you roll initiative, or when you end this stance as a minor action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elf",
     "flavor": "You use instinct and training to avoid showing signs of your passage and hide all signs of your approach.",
     "keywords": [
       "Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the leave no trace stance. Until the stance ends, the DC of any Perception check to find your tracks or the tracks of up to eight allies who travel with you is increased by 10. If your tracks are found, identifying them requires a Nature check against the same DC. In addition, you and allies adjacent to you have a +2 power bonus to Stealth checks.",
+    "range": "Personal <",
     "effect": "You assume the leave no trace stance. Until the stance ends, the DC of any Perception check to find your tracks or the tracks of up to eight allies who travel with you is increased by 10. If your tracks are found, identifying them requires a Nature check against the same DC. In addition, you and allies adjacent to you have a +2 power bonus to Stealth checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This stance ends after 8 hours, when you roll initiative, or when you end this stance as a minor action."
   },
   "Determined Accuracy": {
     "id": "'16044",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Elf",
     "frequency": "Daily",
     "level": "10",
     "name": "Determined Accuracy",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDetermined Accuracy\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16044\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Elf Racial Utility 10</span>Determined Accuracy</h1><p class=\\\"flavor\\\"><i>Resolved not to put a lie to the legendary accuracy of elves, you call all your powers of focus to the fore.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You use elven accuracy to reroll an attack and dislike the new result.</p><p class=\\\"flavor\\\"><b>Effect</b>: Reroll the attack roll with a +2 power bonus. Use this result, even if it’s lower.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elf",
     "flavor": "Resolved not to put a lie to the legendary accuracy of elves, you call all your powers of focus to the fore.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You use elven accuracy to reroll an attack and dislike the new result.</p><p class=\"flavor\">Effect: Reroll the attack roll with a +2 power bonus. Use this result, even if it’s lower.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You use elven accuracy to reroll an attack and dislike the new result.</p><p class=\"flavor\">Effect: Reroll the attack roll with a +2 power bonus. Use this result, even if it’s lower.</p>",
+    "range": "Personal <",
     "trigger": "You use elven accuracy to reroll an attack and dislike the new result.",
     "effect": "Reroll the attack roll with a +2 power bonus. Use this result, even if it’s lower."
   },
   "Communion": {
     "id": "'16045",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Elf",
     "frequency": "Encounter",
     "level": "16",
     "name": "Communion",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCommunion\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16045\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Elf Racial Utility 16</span>Communion</h1><p class=\\\"flavor\\\"><i>You touch your ally and set your own heart to beat in time, unleashing the healing power of emotional connections.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must have at least one healing surge remaining.</p><p class=\\\"powerstat\\\"><b>Target</b>: One ally</p><p class=\\\"flavor\\\"><b>Effect</b>: You lose a healing surge but gain temporary hit points equal to 3 + one-half your level. In addition, the target regains hit points equal to his or her healing surge value.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elf",
     "flavor": "You touch your ally and set your own heart to beat in time, unleashing the healing power of emotional connections.",
     "keywords": [
       "Healing"
     ],
-    "range": "Melee 1</p><p class=\"flavor\">Requirement: You must have at least one healing surge remaining.</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: You lose a healing surge but gain temporary hit points equal to 3 + one-half your level. In addition, the target regains hit points equal to his or her healing surge value.</p>",
+    "range": "Melee 1<",
     "requirement": "You must have at least one healing surge remaining.",
     "target": "One ally",
     "effect": "You lose a healing surge but gain temporary hit points equal to 3 + one-half your level. In addition, the target regains hit points equal to his or her healing surge value."
@@ -77,19 +73,18 @@
   "Elven Accuracy": {
     "id": "'1450",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Elf",
     "frequency": "Encounter",
     "level": "0",
     "name": "Elven Accuracy",
     "type": "Racial",
     "sourceRef": "Player's Handbook, Heroes of the Fallen Lands",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElven Accuracy\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1450\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Elf Racial Power</span>Elven Accuracy</h1><p class=\\\"flavor\\\"><i>With an instant of focus, you take careful aim at your foe and strike with the legendary accuracy of the elves.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You make an attack roll and dislike the result.</p><p class=\\\"flavor\\\"><b>Effect</b>: Reroll the attack roll. Use the second roll, even if it’s lower.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 40, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 260.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Elf",
     "flavor": "With an instant of focus, you take careful aim at your foe and strike with the legendary accuracy of the elves.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make an attack roll and dislike the result.</p><p class=\"flavor\">Effect: Reroll the attack roll. Use the second roll, even if it’s lower.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You make an attack roll and dislike the result.</p><p class=\"flavor\">Effect: Reroll the attack roll. Use the second roll, even if it’s lower.</p>",
+    "range": "Personal <",
     "trigger": "You make an attack roll and dislike the result.",
     "effect": "Reroll the attack roll. Use the second roll, even if it’s lower."
   }

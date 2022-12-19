@@ -2,19 +2,18 @@
   "Goring Charge": {
     "id": "'2480",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Minotaur",
     "frequency": "Encounter",
     "level": "0",
     "name": "Goring Charge",
     "type": "Racial",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGoring Charge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2480\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Minotaur Racial Power</span>Goring Charge</h1><p class=\\\"flavor\\\"><i>You charge the enemy and gore it with your horns.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Effect</b>: You charge and make the following attack in place of a melee basic attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: One creature</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Strength + 4 vs. AC, Constitution + 4 vs. AC, or Dexterity + 4 vs. AC.<br/>Increase the bonus to attack rolls to +6 at 11th level and +8 at 21st level.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage, and you knock the target prone.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Level 11</b>: 2d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Level 21</b>: 3d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 10.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Minotaur",
     "flavor": "You charge the enemy and gore it with your horns.",
     "keywords": [
       "&nbsp;&nbsp;Melee 1</p><p class=\"flavor\">Effect: You charge and make the following attack in place of a melee basic attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength + 4 vs. AC, Constitution + 4 vs. AC, or Dexterity + 4 vs. AC."
     ],
-    "range": "Melee 1</p><p class=\"flavor\">Effect: You charge and make the following attack in place of a melee basic attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength + 4 vs. AC, Constitution + 4 vs. AC, or Dexterity + 4 vs. AC.",
+    "range": "Melee 1<",
     "effect": "You charge and make the following attack in place of a melee basic attack.",
     "target": "One creature",
     "attack": "Strength + 4 vs. AC, Constitution + 4 vs. AC, or Dexterity + 4 vs. AC.<br/>Increase the bonus to attack rolls to +6 at 11th level and +8 at 21st level.",

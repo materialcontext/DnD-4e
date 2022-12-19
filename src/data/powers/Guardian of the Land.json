@@ -2,37 +2,35 @@
   "Guarded Land": {
     "id": "'12269",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Guardian of the Land",
     "frequency": "Encounter",
     "level": "0",
     "name": "Guarded Land",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGuarded Land\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12269\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Guardian of the Land Feature </span>Guarded Land</h1><p class=\\\"flavor\\\"><i>The land’s spirits awaken, answering your plea for aid.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"flavor\\\"><b>Effect</b>: You mark each enemy in the blast until the end of your next turn. The blast creates a zone that lasts until the end of the encounter, or until a creature uses arcane defiling within the zone. The zone is difficult terrain for your enemies. You can move the zone 1 square as part of a move action, or 3 squares as a move action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 60.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of the Land",
     "flavor": "The land’s spirits awaken, answering your plea for aid.",
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close blast 3</p><p class=\"flavor\">Effect: You mark each enemy in the blast until the end of your next turn. The blast creates a zone that lasts until the end of the encounter, or until a creature uses arcane defiling within the zone. The zone is difficult terrain for your enemies. You can move the zone 1 square as part of a move action, or 3 squares as a move action.</p>",
+    "range": "Close blast 3<",
     "effect": "You mark each enemy in the blast until the end of your next turn. The blast creates a zone that lasts until the end of the encounter, or until a creature uses arcane defiling within the zone. The zone is difficult terrain for your enemies. You can move the zone 1 square as part of a move action, or 3 squares as a move action."
   },
   "Land's Rebuke": {
     "id": "'12270",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Guardian of the Land",
     "frequency": "Encounter",
     "level": "11",
     "name": "Land's Rebuke",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLand's Rebuke\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12270\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Guardian of the Land Attack 11</span>Land's Rebuke</h1><p class=\\\"flavor\\\"><i>The land is your ally, and at your call it rises up to smash your enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> special</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within the zone created by your guarded land and marked by you makes an attack that does not include you as a target.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy within the zone created by guarded land</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability + 6 (9 at 21st level) vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + ability modifier damage, and you slide the target 3 squares to a square within the zone created by guarded land.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 60.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of the Land",
     "flavor": "The land is your ally, and at your call it rises up to smash your enemies.",
     "keywords": [
       "Primal"
     ],
-    "range": "Area special</p><p class=\"powerstat\">Trigger: An enemy within the zone created by your guarded land and marked by you makes an attack that does not include you as a target.</p><p class=\"powerstat\">Target: Each enemy within the zone created by guarded land</p><p class=\"powerstat\">Attack: Primary ability + 6 (9 at 21st level) vs. Fortitude</p><p class=\"flavor\">Hit: 2d10 + ability modifier damage, and you slide the target 3 squares to a square within the zone created by guarded land.</p>",
+    "range": "Area special<",
     "trigger": "An enemy within the zone created by your guarded land and marked by you makes an attack that does not include you as a target.",
     "target": "Each enemy within the zone created by guarded land",
     "attack": "Primary ability + 6 (9 at 21st level) vs. Fortitude",
@@ -41,19 +39,18 @@
   "Awakened Fury": {
     "id": "'12271",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Guardian of the Land",
     "frequency": "Daily",
     "level": "20",
     "name": "Awakened Fury",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAwakened Fury\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12271\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Guardian of the Land Attack 20</span>Awakened Fury</h1><p class=\\\"flavor\\\"><i>The land stirs to violence, snatching and rending your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> special</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy within the zone created by guarded land</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability + 9 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + ability modifier damage, and the target is immobilized and takes ongoing 10 damage (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is immobilized (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 60.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of the Land",
     "flavor": "The land stirs to violence, snatching and rending your enemies.",
     "keywords": [
       "Primal"
     ],
-    "range": "Area special</p><p class=\"powerstat\">Target: Each enemy within the zone created by guarded land</p><p class=\"powerstat\">Attack: Primary ability + 9 vs. Reflex</p><p class=\"flavor\">Hit: 3d8 + ability modifier damage, and the target is immobilized and takes ongoing 10 damage (save ends both).</p><p class=\"powerstat\">Miss: Half damage, and the target is immobilized (save ends).</p>",
+    "range": "Area special<",
     "target": "Each enemy within the zone created by guarded land",
     "attack": "Primary ability + 9 vs. Reflex",
     "onHit": "3d8 + ability modifier damage, and the target is immobilized and takes ongoing 10 damage (save ends both).",
@@ -62,19 +59,18 @@
   "Land Stride": {
     "id": "'12272",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Guardian of the Land",
     "frequency": "At-Will",
     "level": "12",
     "name": "Land Stride",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLand Stride\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12272\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Guardian of the Land Utility 12</span>Land Stride</h1><p class=\\\"flavor\\\"><i>While on or near the lands you guard, nothing can hold you.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You are within the zone created by guarded land or adjacent to it.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You teleport 3 squares to a square within the zone created by guarded land.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 60.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of the Land",
     "flavor": "While on or near the lands you guard, nothing can hold you.",
     "keywords": [
       "Primal, Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You are within the zone created by guarded land or adjacent to it.</p><p class=\"powerstat\">Effect: You teleport 3 squares to a square within the zone created by guarded land.</p>",
+    "range": "Personal <",
     "requirement": "You are within the zone created by guarded land or adjacent to it.",
     "effect": "You teleport 3 squares to a square within the zone created by guarded land."
   }

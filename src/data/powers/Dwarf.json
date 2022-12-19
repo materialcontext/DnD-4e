@@ -2,95 +2,90 @@
   "Avalanche Rush": {
     "id": "'14383",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Dwarf",
     "frequency": "Encounter",
     "level": "2",
     "name": "Avalanche Rush",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 402",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAvalanche Rush\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14383\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dwarf Racial Utility 2</span>Avalanche Rush</h1><p class=\\\"flavor\\\"><i>The mountain’s strength helps you shove an enemy from your path.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You successfully bull rush a target.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can increase the push by a number of squares up to your Constitution modifier, shifting into each square the target of your bull rush leaves.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dwarf",
     "flavor": "The mountain’s strength helps you shove an enemy from your path.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You successfully bull rush a target.</p><p class=\"flavor\">Effect: You can increase the push by a number of squares up to your Constitution modifier, shifting into each square the target of your bull rush leaves.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You successfully bull rush a target.</p><p class=\"flavor\">Effect: You can increase the push by a number of squares up to your Constitution modifier, shifting into each square the target of your bull rush leaves.</p>",
+    "range": "Personal <",
     "trigger": "You successfully bull rush a target.",
     "effect": "You can increase the push by a number of squares up to your Constitution modifier, shifting into each square the target of your bull rush leaves."
   },
   "Dwarven Pride": {
     "id": "'14384",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Dwarf",
     "frequency": "Encounter",
     "level": "6",
     "name": "Dwarven Pride",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 402",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDwarven Pride\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14384\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dwarf Racial Utility 6</span>Dwarven Pride</h1><p class=\\\"flavor\\\"><i>No one shoves you around and gets away with it.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are pulled, pushed, or slid.</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you gain a +1 power bonus to damage rolls for each square of the forced movement.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dwarf",
     "flavor": "No one shoves you around and gets away with it.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are pulled, pushed, or slid.</p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a +1 power bonus to damage rolls for each square of the forced movement.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You are pulled, pushed, or slid.</p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a +1 power bonus to damage rolls for each square of the forced movement.</p>",
+    "range": "Personal <",
     "trigger": "You are pulled, pushed, or slid.",
     "effect": "Until the end of your next turn, you gain a +1 power bonus to damage rolls for each square of the forced movement."
   },
   "Stone Stubborn": {
     "id": "'14385",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Dwarf",
     "frequency": "Encounter",
     "level": "10",
     "name": "Stone Stubborn",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 402",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStone Stubborn\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14385\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dwarf Racial Utility 10</span>Stone Stubborn</h1><p class=\\\"flavor\\\"><i>You steel your mind to the onslaught, determined to go about your business.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An effect would dominate or stun you.</p><p class=\\\"flavor\\\"><b>Effect</b>: You are dazed for the effect’s duration instead of being dominated or stunned.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dwarf",
     "flavor": "You steel your mind to the onslaught, determined to go about your business.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An effect would dominate or stun you.</p><p class=\"flavor\">Effect: You are dazed for the effect’s duration instead of being dominated or stunned.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An effect would dominate or stun you.</p><p class=\"flavor\">Effect: You are dazed for the effect’s duration instead of being dominated or stunned.</p>",
+    "range": "Personal <",
     "trigger": "An effect would dominate or stun you.",
     "effect": "You are dazed for the effect’s duration instead of being dominated or stunned."
   },
   "Mountainborn Tenacity": {
     "id": "'14386",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Dwarf",
     "frequency": "Daily",
     "level": "16",
     "name": "Mountainborn Tenacity",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 402",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMountainborn Tenacity\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14386\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dwarf Racial Utility 16</span>Mountainborn Tenacity</h1><p class=\\\"flavor\\\"><i>Just as no mountain fell from a single strike, no dwarf has fallen from a single blow.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An attack drops you to 0 hit points or fewer.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can spend a healing surge. Until the end of your next turn, you gain resistance to all damage equal to twice your Constitution modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/402\\\" target=\\\"_new\\\">Dragon Magazine 402</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dwarf",
     "flavor": "Just as no mountain fell from a single strike, no dwarf has fallen from a single blow.",
     "keywords": [
       "Healing"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An attack drops you to 0 hit points or fewer.</p><p class=\"flavor\">Effect: You can spend a healing surge. Until the end of your next turn, you gain resistance to all damage equal to twice your Constitution modifier.</p>",
+    "range": "Personal <",
     "trigger": "An attack drops you to 0 hit points or fewer.",
     "effect": "You can spend a healing surge. Until the end of your next turn, you gain resistance to all damage equal to twice your Constitution modifier."
   },
   "Dwarven Resilience": {
     "id": "'13211",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Dwarf",
     "frequency": "Encounter",
     "level": "0",
     "name": "Dwarven Resilience",
     "type": "Racial",
     "sourceRef": "Heroes of the Fallen Lands",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDwarven Resilience\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13211\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dwarf Racial Power</span>Dwarven Resilience</h1><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You use your second wind.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 248.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dwarf",
     "flavor": "",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You use your second wind.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You use your second wind.</p>",
+    "range": "Personal <",
     "effect": "You use your second wind."
   }
 }

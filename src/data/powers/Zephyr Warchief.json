@@ -2,19 +2,18 @@
   "Scouring Strike": {
     "id": "'11023",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Zephyr Warchief",
     "frequency": "Encounter",
     "level": "11",
     "name": "Scouring Strike",
     "type": "Warchief",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nScouring Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11023\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Zephyr Warchief Attack 11</span>Scouring Strike</h1><p class=\\\"flavor\\\"><i>You charge your foe with incredible speed, scouring its flesh with your weapon and spinning it around so your allies can rush into position.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage. You and each ally adjacent to the target can shift 2 squares as a free action.</p><p class=\\\"powerstat\\\"><b>Special</b>: When charging, you can use this power in place of a melee basic attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 103.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Zephyr Warchief",
     "flavor": "You charge your foe with incredible speed, scouring its flesh with your weapon and spinning it around so your allies can rush into position.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage. You and each ally adjacent to the target can shift 2 squares as a free action.</p><p class=\"powerstat\">Special: When charging, you can use this power in place of a melee basic attack.</p>",
+    "range": "Melee weapon<",
     "attack": "Strength vs. AC",
     "target": "One creature",
     "onHit": "3[W] + Strength modifier damage. You and each ally adjacent to the target can shift 2 squares as a free action.",
@@ -23,19 +22,18 @@
   "One Thousand Cuts": {
     "id": "'11024",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Zephyr Warchief",
     "frequency": "Daily",
     "level": "20",
     "name": "One Thousand Cuts",
     "type": "Warchief",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOne Thousand Cuts\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11024\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Zephyr Warchief Attack 20</span>One Thousand Cuts</h1><p class=\\\"flavor\\\"><i>You and your allies assault your foe with attacks from all sides like the full force of the brutal desert wind, giving it no respite from its wounds.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and ongoing 10 damage (save ends). While the target is affected by this ongoing damage, the first time you or an ally damages the target each round, it takes a –2 penalty to saving throws until the end of its next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 10 damage (save ends).</p><p class=\\\"flavor\\\"><b>Special</b>: When charging, you can use this power in place of a melee basic attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 103.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Zephyr Warchief",
     "flavor": "You and your allies assault your foe with attacks from all sides like the full force of the brutal desert wind, giving it no respite from its wounds.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and ongoing 10 damage (save ends). While the target is affected by this ongoing damage, the first time you or an ally damages the target each round, it takes a –2 penalty to saving throws until the end of its next turn.</p><p class=\"powerstat\">Miss: Half damage, and ongoing 10 damage (save ends).</p><p class=\"flavor\">Special: When charging, you can use this power in place of a melee basic attack.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 10 damage (save ends). While the target is affected by this ongoing damage, the first time you or an ally damages the target each round, it takes a –2 penalty to saving throws until the end of its next turn.",
@@ -45,19 +43,18 @@
   "Desert Glide": {
     "id": "'11025",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Zephyr Warchief",
     "frequency": "Encounter",
     "level": "12",
     "name": "Desert Glide",
     "type": "Warchief",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDesert Glide\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11025\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Zephyr Warchief Utility 12</span>Desert Glide</h1><p class=\\\"flavor\\\"><i>You and your allies glide across the battlefield like sand snakes in the dunes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can move his or her speed + 2 as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 103.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Zephyr Warchief",
     "flavor": "You and your allies glide across the battlefield like sand snakes in the dunes.",
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can move his or her speed + 2 as a free action.</p>",
+    "range": "Close burst 3<",
     "target": "You and each ally in the burst",
     "effect": "Each target can move his or her speed + 2 as a free action."
   }

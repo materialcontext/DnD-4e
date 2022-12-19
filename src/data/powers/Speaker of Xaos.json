@@ -2,57 +2,54 @@
   "Elemental Durance": {
     "id": "'16341",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Speaker of Xaos",
     "frequency": "Encounter",
     "level": "11",
     "name": "Elemental Durance",
     "type": "of",
     "sourceRef": "Heroes of the Elemental Chaos",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Durance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16341\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Speaker of Xaos Attack 11</span>Elemental Durance</h1><p class=\\\"flavor\\\"><i>You shape the elemental energy of an attack into a temporary prison.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Varies</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit an enemy with a cold, fire, lightning, or thunder attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: You push the enemy 1 square. If it moves before the end of its next turn, it takes 3d10 damage of the type dealt by the triggering attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 138.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Speaker of Xaos",
     "flavor": "You shape the elemental energy of an attack into a temporary prison.",
     "keywords": [
       "Elemental, Varies"
     ],
-    "range": "Special </p><p class=\"powerstat\">Trigger: You hit an enemy with a cold, fire, lightning, or thunder attack.</p><p class=\"flavor\">Effect: You push the enemy 1 square. If it moves before the end of its next turn, it takes 3d10 damage of the type dealt by the triggering attack.</p>",
+    "range": "Special <",
     "trigger": "You hit an enemy with a cold, fire, lightning, or thunder attack.",
     "effect": "You push the enemy 1 square. If it moves before the end of its next turn, it takes 3d10 damage of the type dealt by the triggering attack."
   },
   "Elemental Chains": {
     "id": "'16342",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Speaker of Xaos",
     "frequency": "Daily",
     "level": "20",
     "name": "Elemental Chains",
     "type": "of",
     "sourceRef": "Heroes of the Elemental Chaos",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Chains\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16342\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Speaker of Xaos Attack 20</span>Elemental Chains</h1><p class=\\\"flavor\\\"><i>The residue of your elemental attacks erupts in light and color, forming chains that wrap around your foe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Varies</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit one or more enemies with an attack dealing cold, fire, lightning, or thunder damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Each enemy you hit with the triggering attack is restrained and takes ongoing 15 damage of the type dealt by the triggering attack (save ends both). Each enemy you missed with the triggering attack is immobilized until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 138.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Speaker of Xaos",
     "flavor": "The residue of your elemental attacks erupts in light and color, forming chains that wrap around your foe.",
     "keywords": [
       "Elemental, Varies"
     ],
-    "range": "Special </p><p class=\"powerstat\">Trigger: You hit one or more enemies with an attack dealing cold, fire, lightning, or thunder damage.</p><p class=\"flavor\">Effect: Each enemy you hit with the triggering attack is restrained and takes ongoing 15 damage of the type dealt by the triggering attack (save ends both). Each enemy you missed with the triggering attack is immobilized until the end of your next turn.</p>",
+    "range": "Special <",
     "trigger": "You hit one or more enemies with an attack dealing cold, fire, lightning, or thunder damage.",
     "effect": "Each enemy you hit with the triggering attack is restrained and takes ongoing 15 damage of the type dealt by the triggering attack (save ends both). Each enemy you missed with the triggering attack is immobilized until the end of your next turn."
   },
   "Repel Elements": {
     "id": "'16343",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Speaker of Xaos",
     "frequency": "Encounter",
     "level": "12",
     "name": "Repel Elements",
     "type": "of",
     "sourceRef": "Heroes of the Elemental Chaos",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRepel Elements\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16343\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Speaker of Xaos Utility 12</span>Repel Elements</h1><p class=\\\"flavor\\\"><i>Your mastery of the elements allows you to inscribe a ward against energy of a particular type.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each elemental enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: You must push each target 1 square. The burst then creates a zone that lasts until the end of your next turn. Elemental enemies cannot willingly enter the zone, and you and each ally in the zone gain a +2 power bonus to all defenses against attacks that deal cold, fire, lightning, or thunder damage, as well as the attacks of elemental enemies.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 138.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Speaker of Xaos",
     "flavor": "Your mastery of the elements allows you to inscribe a ward against energy of a particular type.",
     "keywords": [
       "Elemental, Zone"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each elemental enemy in the burst</p><p class=\"flavor\">Effect: You must push each target 1 square. The burst then creates a zone that lasts until the end of your next turn. Elemental enemies cannot willingly enter the zone, and you and each ally in the zone gain a +2 power bonus to all defenses against attacks that deal cold, fire, lightning, or thunder damage, as well as the attacks of elemental enemies.</p>",
+    "range": "Close burst 1<",
     "target": "Each elemental enemy in the burst",
     "effect": "You must push each target 1 square. The burst then creates a zone that lasts until the end of your next turn. Elemental enemies cannot willingly enter the zone, and you and each ally in the zone gain a +2 power bonus to all defenses against attacks that deal cold, fire, lightning, or thunder damage, as well as the attacks of elemental enemies."
   }

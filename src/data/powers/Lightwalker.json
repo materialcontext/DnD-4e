@@ -2,19 +2,18 @@
   "Illuminate the Adversary": {
     "id": "'7570",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Lightwalker",
     "frequency": "Encounter",
     "level": "11",
     "name": "Illuminate the Adversary",
     "type": "Attack",
     "sourceRef": "Eberron Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nIlluminate the Adversary\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7570\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Lightwalker Attack 11</span>Illuminate the Adversary</h1><p class=\\\"flavor\\\"><i>A golden beam of light shoots from your implement and strikes your foe, which continues to emit sparks for several seconds.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Wisdom modifier radiant damage, and the target takes a -2 penalty to AC and Reflex until the end of your next turn. In addition, squares within 10 squares of the target are illuminated with bright light until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Lightwalker",
     "flavor": "A golden beam of light shoots from your implement and strikes your foe, which continues to emit sparks for several seconds.",
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 2d6 + Wisdom modifier radiant damage, and the target takes a -2 penalty to AC and Reflex until the end of your next turn. In addition, squares within 10 squares of the target are illuminated with bright light until the end of your next turn.</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier radiant damage, and the target takes a -2 penalty to AC and Reflex until the end of your next turn. In addition, squares within 10 squares of the target are illuminated with bright light until the end of your next turn."
@@ -22,38 +21,36 @@
   "Path of Light": {
     "id": "'7571",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Lightwalker",
     "frequency": "Daily",
     "level": "12",
     "name": "Path of Light",
     "type": "Utility",
     "sourceRef": "Eberron Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPath of Light\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7571\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Lightwalker Utility 12</span>Path of Light</h1><p class=\\\"flavor\\\"><i>Sunlight bursts from a crack in the earth and hardens into a tangible, solid path that can also sustain you in times of need.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> wall 8 within 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a path of solid light in unoccupied squares within range. The path is flat, can support any weight, and must have at least 1 square on a solid surface. The path can ascend or descend 1 square vertically for each square it traverses horizontally. The path lasts until the end of your next turn.<br/>Any bloodied ally gains regeneration 10 while occupying one of the path’s squares.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The path persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Lightwalker",
     "flavor": "Sunlight bursts from a crack in the earth and hardens into a tangible, solid path that can also sustain you in times of need.",
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Area wall 8 within 10</p><p class=\"flavor\">Effect: You conjure a path of solid light in unoccupied squares within range. The path is flat, can support any weight, and must have at least 1 square on a solid surface. The path can ascend or descend 1 square vertically for each square it traverses horizontally. The path lasts until the end of your next turn.",
+    "range": "Area wall 8 within 10<",
     "effect": "You conjure a path of solid light in unoccupied squares within range. The path is flat, can support any weight, and must have at least 1 square on a solid surface. The path can ascend or descend 1 square vertically for each square it traverses horizontally. The path lasts until the end of your next turn.<br/>Any bloodied ally gains regeneration 10 while occupying one of the path’s squares.",
     "sustainMinor": "The path persists."
   },
   "Call of Light": {
     "id": "'7572",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Lightwalker",
     "frequency": "Daily",
     "level": "20",
     "name": "Call of Light",
     "type": "Attack",
     "sourceRef": "Eberron Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCall of Light\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7572\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Lightwalker Attack 20</span>Call of Light</h1><p class=\\\"flavor\\\"><i>You draw streams of light from nearby sources, using it to sear the flesh of your enemies while healing an ally.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One, two, or three creatures</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Wisdom modifier radiant damage, and you or one ally within 5 squares of you regains 10 hit points.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and you or one ally within 5 squares of you regains 5 hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Lightwalker",
     "flavor": "You draw streams of light from nearby sources, using it to sear the flesh of your enemies while healing an ally.",
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One, two, or three creatures</p><p class=\"powerstat\">Attack: Wisdom vs. Will</p><p class=\"flavor\">Hit: 2d10 + Wisdom modifier radiant damage, and you or one ally within 5 squares of you regains 10 hit points.</p><p class=\"powerstat\">Miss: Half damage, and you or one ally within 5 squares of you regains 5 hit points.</p>",
+    "range": "Ranged 10<",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier radiant damage, and you or one ally within 5 squares of you regains 10 hit points.",

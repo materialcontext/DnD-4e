@@ -2,19 +2,18 @@
   "Vengeance's Pursuit": {
     "id": "'10884",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Whisperknife",
     "frequency": "Encounter",
     "level": "11",
     "name": "Vengeance's Pursuit",
     "type": "Attack",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVengeance's Pursuit\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10884\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Whisperknife Attack 11</span>Vengeance's Pursuit</h1><p class=\\\"flavor\\\"><i>After slashing your foe, you flip the knife in your hand and prepare to throw it.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Rattling</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a dagger.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The first time the target moves or makes an attack that doesn’t include you as a target before the start of your next turn, you can make a ranged basic attack against the target as a free action. The target grants combat advantage to you for this attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 79.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Whisperknife",
     "flavor": "After slashing your foe, you flip the knife in your hand and prepare to throw it.",
     "keywords": [
       "Martial, Rattling, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding a dagger.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 2[W] + Dexterity modifier damage.</p><p class=\"powerstat\">Effect: The first time the target moves or makes an attack that doesn’t include you as a target before the start of your next turn, you can make a ranged basic attack against the target as a free action. The target grants combat advantage to you for this attack.</p>",
+    "range": "Melee weapon<",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -24,19 +23,18 @@
   "Hateful Knives": {
     "id": "'10885",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Whisperknife",
     "frequency": "Daily",
     "level": "20",
     "name": "Hateful Knives",
     "type": "Attack",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHateful Knives\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10885\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Whisperknife Attack 20</span>Hateful Knives</h1><p class=\\\"flavor\\\"><i>Leaping at your foe, you slash it so badly that it stumbles back in fear.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a dagger.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Dexterity modifier damage, and you push the target 3 squares. You then shift 3 squares to a square adjacent to the target and make a secondary attack against it.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: The target grants combat advantage to you until the end of the encounter.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Miss</b>: The target grants combat advantage to you (save ends).</p><p class=\\\"flavor\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 79.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Whisperknife",
     "flavor": "Leaping at your foe, you slash it so badly that it stumbles back in fear.",
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding a dagger.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Primary Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 4[W] + Dexterity modifier damage, and you push the target 3 squares. You then shift 3 squares to a square adjacent to the target and make a secondary attack against it.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Dexterity vs. Will</p><p class=\"flavor\">&nbsp;&nbsp;Hit: The target grants combat advantage to you until the end of the encounter.</p><p class=\"powerstat\">&nbsp;&nbsp;Miss: The target grants combat advantage to you (save ends).</p><p class=\"flavor\">Miss: Half damage.</p>",
+    "range": "Melee or Ranged weapon<",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -48,19 +46,18 @@
   "Whispered Vengeance": {
     "id": "'10886",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Whisperknife",
     "frequency": "Encounter",
     "level": "12",
     "name": "Whispered Vengeance",
     "type": "Utility",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWhispered Vengeance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10886\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Whisperknife Utility 12</span>Whispered Vengeance</h1><p class=\\\"flavor\\\"><i>When an ally suffers from an enemy’s attack, your thirst for vengeance impels you to close the distance and make your foe pay for the transgression.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits an ally you can see with a melee attack</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you gain a +2 power bonus to speed and a +2 power bonus to attack rolls against the triggering enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 79.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Whisperknife",
     "flavor": "When an ally suffers from an enemy’s attack, your thirst for vengeance impels you to close the distance and make your foe pay for the transgression.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy hits an ally you can see with a melee attack</p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a +2 power bonus to speed and a +2 power bonus to attack rolls against the triggering enemy.</p>",
+    "range": "Personal <",
     "trigger": "An enemy hits an ally you can see with a melee attack",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to speed and a +2 power bonus to attack rolls against the triggering enemy."
   }

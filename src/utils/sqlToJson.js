@@ -38,7 +38,7 @@ const addToObject = (values) => {
 
     // remove backslashes from sourceRef
     target.sourceRef = values[6].replace(/\\/g, '');
-    target.class = values[7];
+    target.powerClass = values[7];
     target.fullText = values[9];
     target.type = values[10];
 

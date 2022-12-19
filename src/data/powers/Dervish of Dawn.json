@@ -2,19 +2,18 @@
   "Whirling Assault": {
     "id": "'7707",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dervish of Dawn",
     "frequency": "Encounter",
     "level": "11",
     "name": "Whirling Assault",
     "type": "of",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWhirling Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7707\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dervish of Dawn Attack 11</span>Whirling Assault</h1><p class=\\\"flavor\\\"><i>You launch into a graceful, spinning dance as you close on your enemy. In the mesmerizing form of your dance, you free yourself from an enemy’s power and inspire your comrade as well.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Effect</b>: Before the attack, you shift 3 squares.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Wisdom modifier radiant damage. You and one ally within 10 squares of you can each choose to do one of the following things:<br/>• Make an escape attempt against a grab as a free action.<br/>• Make a saving throw against an effect that a save can end and that dazes, immobilizes, slows, or stuns.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 21.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dervish of Dawn",
     "flavor": "You launch into a graceful, spinning dance as you close on your enemy. In the mesmerizing form of your dance, you free yourself from an enemy’s power and inspire your comrade as well.",
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Effect: Before the attack, you shift 3 squares.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 2[W] + Wisdom modifier radiant damage. You and one ally within 10 squares of you can each choose to do one of the following things:",
+    "range": "Melee weapon<",
     "effect": "Before the attack, you shift 3 squares.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -23,19 +22,18 @@
   "Dance of Sunrise": {
     "id": "'7709",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dervish of Dawn",
     "frequency": "Daily",
     "level": "20",
     "name": "Dance of Sunrise",
     "type": "of",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDance of Sunrise\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7709\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dervish of Dawn Attack 20</span>Dance of Sunrise</h1><p class=\\\"flavor\\\"><i>As you gracefully carry yourself across the battlefield, your weapon begins to gleam. For the rest of the fight, you glow with the hues of dawn, which scorch your foe with light.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Effect</b>: Before the attack, you shift 3 squares.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier radiant damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, your at-will attack powers against the target deal 1d8 extra radiant damage to it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 21.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dervish of Dawn",
     "flavor": "As you gracefully carry yourself across the battlefield, your weapon begins to gleam. For the rest of the fight, you glow with the hues of dawn, which scorch your foe with light.",
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Effect: Before the attack, you shift 3 squares.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier radiant damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: Until the end of the encounter, your at-will attack powers against the target deal 1d8 extra radiant damage to it.</p>",
+    "range": "Melee weapon<",
     "effect": "Until the end of the encounter, your at-will attack powers against the target deal 1d8 extra radiant damage to it.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -45,19 +43,18 @@
   "Wild Hope": {
     "id": "'8284",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Dervish of Dawn",
     "frequency": "Daily",
     "level": "12",
     "name": "Wild Hope",
     "type": "of",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWild Hope\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8284\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dervish of Dawn Utility 12</span>Wild Hope</h1><p class=\\\"flavor\\\"><i>Your dance inspires you to wild ecstasy. Mortals cannot long endure such joy, but each time you strike your foe, new vigor flows into you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Healing</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, whenever you hit one or more enemies with an attack, you regain hit points equal to your Wisdom modifier. In addition, whenever you miss every target with an attack, you take 3 damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 21.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dervish of Dawn",
     "flavor": "Your dance inspires you to wild ecstasy. Mortals cannot long endure such joy, but each time you strike your foe, new vigor flows into you.",
     "keywords": [
       "Divine, Healing, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the stance ends, whenever you hit one or more enemies with an attack, you regain hit points equal to your Wisdom modifier. In addition, whenever you miss every target with an attack, you take 3 damage.</p>",
+    "range": "Personal <",
     "effect": "Until the stance ends, whenever you hit one or more enemies with an attack, you regain hit points equal to your Wisdom modifier. In addition, whenever you miss every target with an attack, you take 3 damage."
   }
 }

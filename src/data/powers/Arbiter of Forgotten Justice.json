@@ -2,19 +2,18 @@
   "Smiting Blades": {
     "id": "'10269",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Arbiter of Forgotten Justice",
     "frequency": "Encounter",
     "level": "11",
     "name": "Smiting Blades",
     "type": "of",
     "sourceRef": "Dragon Magazine 381",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSmiting Blades\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10269\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arbiter of Forgotten Justice Attack 11</span>Smiting Blades</h1><p class=\\\"flavor\\\"><i>A burst of radiance not only chars your foe, but causes its steps to become unsteady.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 12</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d10 + Wisdom modifier radiant damage. If the target hits or misses you or an ally before the end of your next turn, it falls prone and is slowed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/381\\\" target=\\\"_new\\\">Dragon Magazine 381</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arbiter of Forgotten Justice",
     "flavor": "A burst of radiance not only chars your foe, but causes its steps to become unsteady.",
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 12</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 1d10 + Wisdom modifier radiant damage. If the target hits or misses you or an ally before the end of your next turn, it falls prone and is slowed until the end of your next turn.</p>",
+    "range": "Area burst 2 within 12<",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d10 + Wisdom modifier radiant damage. If the target hits or misses you or an ally before the end of your next turn, it falls prone and is slowed until the end of your next turn."
@@ -22,19 +21,18 @@
   "Soulfire Mantle": {
     "id": "'10270",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Arbiter of Forgotten Justice",
     "frequency": "Daily",
     "level": "20",
     "name": "Soulfire Mantle",
     "type": "of",
     "sourceRef": "Dragon Magazine 381",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoulfire Mantle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10270\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arbiter of Forgotten Justice Attack 20</span>Soulfire Mantle</h1><p class=\\\"flavor\\\"><i>Divine wrath pours from your soul and wraps itself around your foe in a searing shroud of justice.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Wisdom modifier radiant damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: When the target fails a saving throw, it takes 10 radiant damage and you can teleport it 3 squares (save ends).</p><p class=\\\"flavor\\\"><b>Aftereffect</b>: Ongoing 10 radiant damage (save ends).</p><br/>Revision (11/30/2009)<br/>name changed to \\\"Soulfire Mantle\\\" as per instructions from Mike Donais. <br/>Previous name was \\\"No Rest for the Wicked\\\"<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/381\\\" target=\\\"_new\\\">Dragon Magazine 381</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arbiter of Forgotten Justice",
     "flavor": "Divine wrath pours from your soul and wraps itself around your foe in a searing shroud of justice.",
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 20</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 3d6 + Wisdom modifier radiant damage.</p><p class=\"powerstat\">Effect: When the target fails a saving throw, it takes 10 radiant damage and you can teleport it 3 squares (save ends).</p><p class=\"flavor\">Aftereffect: Ongoing 10 radiant damage (save ends).</p>",
+    "range": "Ranged 20<",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d6 + Wisdom modifier radiant damage.",
@@ -44,19 +42,18 @@
   "Favor the Faithful": {
     "id": "'10271",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Arbiter of Forgotten Justice",
     "frequency": "Daily",
     "level": "12",
     "name": "Favor the Faithful",
     "type": "of",
     "sourceRef": "Dragon Magazine 381",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFavor the Faithful\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10271\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arbiter of Forgotten Justice Utility 12</span>Favor the Faithful</h1><p class=\\\"flavor\\\"><i>Through an act of supreme faith, you channel divine power and your own life force to shield your companions from harm.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An attack hits you or an ally within range</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering creature</p><p class=\\\"flavor\\\"><b>Effect</b>: You spend a healing surge but regain no hit points. The target is completely unaffected by the attack, as though the original attack had not included the target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/381\\\" target=\\\"_new\\\">Dragon Magazine 381</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arbiter of Forgotten Justice",
     "flavor": "Through an act of supreme faith, you channel divine power and your own life force to shield your companions from harm.",
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Trigger: An attack hits you or an ally within range</p><p class=\"powerstat\">Target: The triggering creature</p><p class=\"flavor\">Effect: You spend a healing surge but regain no hit points. The target is completely unaffected by the attack, as though the original attack had not included the target.</p>",
+    "range": "Close burst 5<",
     "trigger": "An attack hits you or an ally within range",
     "target": "The triggering creature",
     "effect": "You spend a healing surge but regain no hit points. The target is completely unaffected by the attack, as though the original attack had not included the target."

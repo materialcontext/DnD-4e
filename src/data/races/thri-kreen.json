@@ -1,0 +1,31 @@
+{
+  "name": "Thri-Kreen",
+  "height": "5' 4\" - 6' 6\"",
+  "weight": "180 - 240 lbs",
+  "abilityScores": "+2 Dexterity, +2 Strength or +2 Wisdom",
+  "size": "Medium",
+  "speed": "7 squares.",
+  "languages": "Common, Thri-kreen",
+  "uniqueFeatures": {
+    "torpor": "Rather than sleep, thri-kreen enter a torpid state. In this state, you remain aware of your surroundings, and you require only 4 hours of torpor (rather than 6 hours of sleep) to gain the benefit of an extended rest.",
+    "thri-kreenClaws": "You have the thri-kreen claws power.",
+    "naturalJumper": "A thri-kreen is always considered to have a running start when jumping.",
+    "multipleArms": "Once per turn, you can draw or sheathe a weapon (or retrieve or stow an item stored on your person) as a free action instead of a minor action.",
+    "skillBonuses": "+2 Athletics, +2 Nature.",
+    "vision": "Low-light"
+  },
+  "physTxt": "The insectoid thri-kreen have six limbs and are covered in tough, sandy-colored chitinous plates. Their lowest pair of limbs is used as legs, and their upper pair of limbs serves as arms. The middle set of limbs is small but nimble, and the kreen use them for fine manipulation, leaving heavy work to the stronger upper arms. Both middle and upper hands have three clawed fingers and one opposable thumb. In combat, thri-kreen hold weapons or shields in their upper limbs, since the middle pair lacks the strength and using both sets of limbs would be awkward and unwieldy.",
+  "refSource": "Dark Sun Campaign Setting, page ",
+  "flavorTxt": "Alien to most people of Athas, these desert-dwelling creatures live for the thrill of the hunt",
+  "power": "Thri-kreen Claws",
+  "characteristics": [
+    "distinctive",
+    "dutiful",
+    "inscrutable",
+    "observant",
+    "predatory",
+    "single-minded",
+    "tough"
+  ],
+  "tipsTxt": "Thri-kreen minds, behavior, and physiology often seem bizarre to members of other races. Most Athasians don’t understand the kreen and find them more than a little threatening. However, despite their fierce appearance, the insectlike humanoids can be loyal and courageous companions. Thri-kreen have most of the same needs and morals as do other races; they simply prioritize those needs and morals differently. Most important, thri-kreen judge others solely on physical and mental ability. The lazy and weak deserve contempt, regardless of race; likewise, strength and cleverness merit respect no matter who demonstrates these qualities."
+}

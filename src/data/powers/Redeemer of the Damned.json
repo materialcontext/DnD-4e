@@ -2,38 +2,36 @@
   "Your Doom Awaits": {
     "id": "'10871",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Redeemer of the Damned",
     "frequency": "Encounter",
     "level": "11",
     "name": "Your Doom Awaits",
     "type": "of",
     "sourceRef": "Player's Handbook Races: Tiefling",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nYour Doom Awaits\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10871\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Redeemer of the Damned Attack 11</span>Your Doom Awaits</h1><p class=\\\"flavor\\\"><i>The spirits speak to the souls of your foes, uttering words of the damnation that lies ahead for them.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Implement</b>, <b>Primal</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength or Wisdom vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Strength modifier or Wisdom modifier psychic damage, and the target is dazed until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253830000\\\" target=\\\"_new\\\">Player's Handbook Races: Tiefling</a>, page(s) 21.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Redeemer of the Damned",
     "flavor": "The spirits speak to the souls of your foes, uttering words of the damnation that lies ahead for them.",
     "keywords": [
       "Fear, Implement, Primal, Psychic"
     ],
-    "range": "Close burst 3</p><p class=\"powerstat\">Attack: Strength or Wisdom vs. Will</p><p class=\"flavor\">Hit: 3d10 + Strength modifier or Wisdom modifier psychic damage, and the target is dazed until the end of its next turn.</p>",
+    "range": "Close burst 3<",
     "attack": "Strength or Wisdom vs. Will",
     "onHit": "3d10 + Strength modifier or Wisdom modifier psychic damage, and the target is dazed until the end of its next turn."
   },
   "Spirit of Sacrifice": {
     "id": "'10872",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Redeemer of the Damned",
     "frequency": "Encounter",
     "level": "12",
     "name": "Spirit of Sacrifice",
     "type": "of",
     "sourceRef": "Player's Handbook Races: Tiefling",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpirit of Sacrifice\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10872\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Redeemer of the Damned Utility 12</span>Spirit of Sacrifice</h1><p class=\\\"flavor\\\"><i>Sensing danger, your ancestor spirit whisks an injured person to safety, using its own primal energy to invigorate him or her.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Teleportation</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You or an ally within 10 squares is hit by an attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering character</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport the target 5 squares. The target gains temporary hit points equal to your Strength or Wisdom modifier + one-half your level.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253830000\\\" target=\\\"_new\\\">Player's Handbook Races: Tiefling</a>, page(s) 21.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Redeemer of the Damned",
     "flavor": "Sensing danger, your ancestor spirit whisks an injured person to safety, using its own primal energy to invigorate him or her.",
     "keywords": [
       "Primal, Teleportation"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Trigger: You or an ally within 10 squares is hit by an attack</p><p class=\"powerstat\">Target: The triggering character</p><p class=\"flavor\">Effect: You teleport the target 5 squares. The target gains temporary hit points equal to your Strength or Wisdom modifier + one-half your level.</p>",
+    "range": "Close burst 10<",
     "trigger": "You or an ally within 10 squares is hit by an attack",
     "target": "The triggering character",
     "effect": "You teleport the target 5 squares. The target gains temporary hit points equal to your Strength or Wisdom modifier + one-half your level."
@@ -41,19 +39,18 @@
   "Firesoul Salvation": {
     "id": "'10873",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Redeemer of the Damned",
     "frequency": "Daily",
     "level": "20",
     "name": "Firesoul Salvation",
     "type": "of",
     "sourceRef": "Player's Handbook Races: Tiefling",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFiresoul Salvation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10873\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Redeemer of the Damned Attack 20</span>Firesoul Salvation</h1><p class=\\\"flavor\\\"><i>You entreat the Nine Hells for souls in search of salvation to aid your cause and earn peace.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Fire</b>, <b>Healing</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure four fiery spirits in search of redemption. Each spirit appears in a different square within the burst. The spirits last until the end of your next turn. An enemy that ends its turn adjacent to or within the square of a spirit takes ongoing fire damage equal to your Strength or Wisdom modifier (save ends). An ally who spends a healing surge while adjacent to or within the square of a spirit regains extra hit points equal to 10 + your Strength or Wisdom modifier, and that spirit departs the world.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The spirits persist.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253830000\\\" target=\\\"_new\\\">Player's Handbook Races: Tiefling</a>, page(s) 21.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Redeemer of the Damned",
     "flavor": "You entreat the Nine Hells for souls in search of salvation to aid your cause and earn peace.",
     "keywords": [
       "Conjuration, Fire, Healing, Primal"
     ],
-    "range": "Close burst 10</p><p class=\"flavor\">Effect: You conjure four fiery spirits in search of redemption. Each spirit appears in a different square within the burst. The spirits last until the end of your next turn. An enemy that ends its turn adjacent to or within the square of a spirit takes ongoing fire damage equal to your Strength or Wisdom modifier (save ends). An ally who spends a healing surge while adjacent to or within the square of a spirit regains extra hit points equal to 10 + your Strength or Wisdom modifier, and that spirit departs the world.</p><p class=\"powerstat\">Sustain Minor: The spirits persist.</p>",
+    "range": "Close burst 10<",
     "effect": "You conjure four fiery spirits in search of redemption. Each spirit appears in a different square within the burst. The spirits last until the end of your next turn. An enemy that ends its turn adjacent to or within the square of a spirit takes ongoing fire damage equal to your Strength or Wisdom modifier (save ends). An ally who spends a healing surge while adjacent to or within the square of a spirit regains extra hit points equal to 10 + your Strength or Wisdom modifier, and that spirit departs the world.",
     "sustainMinor": "The spirits persist."
   }

@@ -2,19 +2,18 @@
   "Platinum Wings": {
     "id": "'10360",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Platinum Templar",
     "frequency": "Encounter",
     "level": "11",
     "name": "Platinum Wings",
     "type": "Templar",
     "sourceRef": "Player's Handbook Races: Dragonborn",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPlatinum Wings\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10360\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Platinum Templar Attack 11</span>Platinum Wings</h1><p class=\\\"flavor\\\"><i>Platinum-colored, scaly wings spring from your back and carry you aloft.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you gain a fly speed of 8, and you can hover.<br/>Once before the start of your next turn, you can use the power Platinum Wing Buffet Attack.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Platinum Wing Buffet Attack</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 2</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Platinum Wings must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy enters or leaves an adjacent square.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma + 4 vs. Fortitude (+ 6 at 21st level)</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Charisma modifier damage, and you push the target 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251200000\\\" target=\\\"_new\\\">Player's Handbook Races: Dragonborn</a>, page(s) 15.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Platinum Templar",
     "flavor": "Platinum-colored, scaly wings spring from your back and carry you aloft.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a fly speed of 8, and you can hover.",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you gain a fly speed of 8, and you can hover.<br/>Once before the start of your next turn, you can use the power Platinum Wing Buffet Attack.",
     "requirement": "The power Platinum Wings must be active in order to use this power.",
     "trigger": "An enemy enters or leaves an adjacent square.",
@@ -24,19 +23,18 @@
   "Misty Breath": {
     "id": "'10361",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Platinum Templar",
     "frequency": "Daily",
     "level": "20",
     "name": "Misty Breath",
     "type": "Templar",
     "sourceRef": "Player's Handbook Races: Dragonborn",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMisty Breath\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10361\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Platinum Templar Attack 20</span>Misty Breath</h1><p class=\\\"flavor\\\"><i>Emulating Bahamut’s breath of silvery vapors, you transform your enemies into harmless mist.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Divine</b>, <b>Implement</b>, <b>Polymorph</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom or Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is stunned, weakened, and transformed into fine mist (save ends all). While it is in this mist form, you and your allies can move freely through the target’s space.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The blast creates a zone that lasts until the end of your next turn. A creature that enters the zone or starts its turn there takes 10 cold damage (a creature can take this damage only once per turn). As a move action, you can move the zone 3 squares.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The zone persists.</p><br/>Update (2/15/2012)<br/>Changed in December 2011 updates.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251200000\\\" target=\\\"_new\\\">Player's Handbook Races: Dragonborn</a>, page(s) 15.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Platinum Templar",
     "flavor": "Emulating Bahamut’s breath of silvery vapors, you transform your enemies into harmless mist.",
     "keywords": [
       "Cold, Divine, Implement, Polymorph, Zone"
     ],
-    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each enemy in the blast</p><p class=\"powerstat\">Attack: Wisdom or Charisma vs. Reflex</p><p class=\"flavor\">Hit: The target is stunned, weakened, and transformed into fine mist (save ends all). While it is in this mist form, you and your allies can move freely through the target’s space.</p><p class=\"powerstat\">Effect: The blast creates a zone that lasts until the end of your next turn. A creature that enters the zone or starts its turn there takes 10 cold damage (a creature can take this damage only once per turn). As a move action, you can move the zone 3 squares.</p><p class=\"flavor\">Sustain Minor: The zone persists.</p>",
+    "range": "Close blast 5<",
     "target": "Each enemy in the blast",
     "attack": "Wisdom or Charisma vs. Reflex",
     "onHit": "The target is stunned, weakened, and transformed into fine mist (save ends all). While it is in this mist form, you and your allies can move freely through the target’s space.",
@@ -46,19 +44,18 @@
   "Bahamut's Voice": {
     "id": "'10363",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Platinum Templar",
     "frequency": "Daily",
     "level": "12",
     "name": "Bahamut's Voice",
     "type": "Templar",
     "sourceRef": "Player's Handbook Races: Dragonborn",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBahamut's Voice\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10363\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Platinum Templar Utility 12</span>Bahamut's Voice</h1><p class=\\\"flavor\\\"><i>The words issuing from you belong to no mortal tongue, and they carry the weight of Bahamut’s own voice.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you can speak Supernal as if you were a god or angel, such that any creature that has a language can understand your speech. In addition, you gain a +5 bonus to Diplomacy checks and Intimidate checks while speaking Supernal through this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251200000\\\" target=\\\"_new\\\">Player's Handbook Races: Dragonborn</a>, page(s) 15.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Platinum Templar",
     "flavor": "The words issuing from you belong to no mortal tongue, and they carry the weight of Bahamut’s own voice.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you can speak Supernal as if you were a god or angel, such that any creature that has a language can understand your speech. In addition, you gain a +5 bonus to Diplomacy checks and Intimidate checks while speaking Supernal through this power.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, you can speak Supernal as if you were a god or angel, such that any creature that has a language can understand your speech. In addition, you gain a +5 bonus to Diplomacy checks and Intimidate checks while speaking Supernal through this power."
   }
 }

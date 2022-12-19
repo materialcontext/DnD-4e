@@ -2,55 +2,52 @@
   "Practiced Dilettante": {
     "id": "'12214",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Half-Elf Polymath",
     "frequency": "Encounter",
     "level": "11",
     "name": "Practiced Dilettante",
     "type": "",
     "sourceRef": "Dragon Magazine 385",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPracticed Dilettante\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12214\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Half-Elf Polymath Attack 11</span>Practiced Dilettante</h1><p class=\\\"flavor\\\"><i>You give your enemies a little something extra that they weren’t expecting.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You use the power you gained from your Dilettante racial trait. If you hit, you deal 2[W] extra damage if your Dilettante power is a weapon attack, or 2d8 extra damage if it is not a weapon attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Half-Elf Polymath",
     "flavor": "You give your enemies a little something extra that they weren’t expecting.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You use the power you gained from your Dilettante racial trait. If you hit, you deal 2[W] extra damage if your Dilettante power is a weapon attack, or 2d8 extra damage if it is not a weapon attack.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You use the power you gained from your Dilettante racial trait. If you hit, you deal 2[W] extra damage if your Dilettante power is a weapon attack, or 2d8 extra damage if it is not a weapon attack.</p>",
+    "range": "Personal <",
     "effect": "You use the power you gained from your Dilettante racial trait. If you hit, you deal 2[W] extra damage if your Dilettante power is a weapon attack, or 2d8 extra damage if it is not a weapon attack."
   },
   "Infinite Reflections": {
     "id": "'12215",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Half-Elf Polymath",
     "frequency": "Daily",
     "level": "20",
     "name": "Infinite Reflections",
     "type": "",
     "sourceRef": "Dragon Magazine 385",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInfinite Reflections\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12215\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Half-Elf Polymath Attack 20</span>Infinite Reflections</h1><p class=\\\"flavor\\\"><i>You unleash a flurry of attacks against your foes, taking the best tricks of your allies to use against your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the infinite reflections stance. Until the stance ends, you can use the 1st-level at-will attack powers of any ally within 10 squares of you as though you knew that power. You use all your own statistics to determine the effect of that power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Half-Elf Polymath",
     "flavor": "You unleash a flurry of attacks against your foes, taking the best tricks of your allies to use against your enemies.",
     "keywords": [
       "Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the infinite reflections stance. Until the stance ends, you can use the 1st-level at-will attack powers of any ally within 10 squares of you as though you knew that power. You use all your own statistics to determine the effect of that power.</p>",
+    "range": "Personal <",
     "effect": "You assume the infinite reflections stance. Until the stance ends, you can use the 1st-level at-will attack powers of any ally within 10 squares of you as though you knew that power. You use all your own statistics to determine the effect of that power."
   },
   "Skill Dabbler": {
     "id": "'12216",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Half-Elf Polymath",
     "frequency": "Daily",
     "level": "12",
     "name": "Skill Dabbler",
     "type": "",
     "sourceRef": "Dragon Magazine 385",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSkill Dabbler\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12216\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Half-Elf Polymath Utility 12</span>Skill Dabbler</h1><p class=\\\"flavor\\\"><i>Your diverse set of skills allows you to show amazing proficiency in a variety of areas occasionally.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one skill in which you are not trained. Until the end of the encounter, you are trained in that skill.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Half-Elf Polymath",
     "flavor": "Your diverse set of skills allows you to show amazing proficiency in a variety of areas occasionally.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose one skill in which you are not trained. Until the end of the encounter, you are trained in that skill.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Choose one skill in which you are not trained. Until the end of the encounter, you are trained in that skill.</p>",
+    "range": "Personal <",
     "effect": "Choose one skill in which you are not trained. Until the end of the encounter, you are trained in that skill."
   }
 }

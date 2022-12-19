@@ -2,19 +2,18 @@
   "Tymora Smiles": {
     "id": "'4786",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Harper of Legend",
     "frequency": "Daily",
     "level": "26",
     "name": "Tymora Smiles",
     "type": "of",
     "sourceRef": "Dragon Magazine 367",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTymora Smiles\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4786\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Harper of Legend Utility 26</span>Tymora Smiles</h1><p class=\\\"flavor\\\"><i>The Lady Who Smiles favors you, intervening to shield you from a dire peril.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: When you gain a condition that a save can end, you can end that condition, or when an enemy scores a critical hit against you, you can make that attack a miss instead.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/367\\\" target=\\\"_new\\\">Dragon Magazine 367</a>, page(s) 8.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Harper of Legend",
     "flavor": "The Lady Who Smiles favors you, intervening to shield you from a dire peril.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: When you gain a condition that a save can end, you can end that condition, or when an enemy scores a critical hit against you, you can make that attack a miss instead.</p>",
+    "range": "Personal <",
     "effect": "When you gain a condition that a save can end, you can end that condition, or when an enemy scores a critical hit against you, you can make that attack a miss instead."
   }
 }

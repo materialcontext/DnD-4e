@@ -2,19 +2,18 @@
   "Astral Flood": {
     "id": "'7900",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Astral Savant",
     "frequency": "Encounter",
     "level": "11",
     "name": "Astral Flood",
     "type": "Savant",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAstral Flood\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7900\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Astral Savant Attack 11</span>Astral Flood</h1><p class=\\\"flavor\\\"><i>A wave of raw energy drawn from the Astral Sea flows through you and lashes out at your enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b> ; <b>Cold</b> or <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Wisdom modifier cold or radiant damage (choose one for all targets). The attack has an additional effect based on the damage type.<br/>• Cold: The target takes a -2 penalty to attack rolls until the end of your next turn.<br/>• Radiant: The target cannot see creatures more than 5 squares away from it until the end of your next turn.</p><br/>Update (6/14/2010)<br/>In the power’s Radiant entry in the Hit entry, add “until the end of your next turn” to the end of the sentence.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Astral Savant",
     "flavor": "A wave of raw energy drawn from the Astral Sea flows through you and lashes out at your enemies.",
     "keywords": [
       "Divine, Implement ; Cold or Radiant"
     ],
-    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each enemy in the blast</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 2d8 + Wisdom modifier cold or radiant damage (choose one for all targets). The attack has an additional effect based on the damage type.",
+    "range": "Close blast 5<",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier cold or radiant damage (choose one for all targets). The attack has an additional effect based on the damage type.<br/>• Cold: The target takes a -2 penalty to attack rolls until the end of your next turn.<br/>• Radiant: The target cannot see creatures more than 5 squares away from it until the end of your next turn."
@@ -22,38 +21,36 @@
   "Swim the Astral Sea": {
     "id": "'7901",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Astral Savant",
     "frequency": "Daily",
     "level": "12",
     "name": "Swim the Astral Sea",
     "type": "Savant",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSwim the Astral Sea\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7901\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Astral Savant Utility 12</span>Swim the Astral Sea</h1><p class=\\\"flavor\\\"><i>You and your companion move effortlessly through astral currents, bypassing mundane impediments.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: You and one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target can shift a number of squares equal to his or her speed, ignoring difficult terrain. Each target is unaffected by the immobilized, restrained, and slowed conditions during this movement.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Astral Savant",
     "flavor": "You and your companion move effortlessly through astral currents, bypassing mundane impediments.",
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Target: You and one ally in the burst</p><p class=\"flavor\">Effect: Each target can shift a number of squares equal to his or her speed, ignoring difficult terrain. Each target is unaffected by the immobilized, restrained, and slowed conditions during this movement.</p>",
+    "range": "Close burst 10<",
     "target": "You and one ally in the burst",
     "effect": "Each target can shift a number of squares equal to his or her speed, ignoring difficult terrain. Each target is unaffected by the immobilized, restrained, and slowed conditions during this movement."
   },
   "Astral Terrain": {
     "id": "'7902",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Astral Savant",
     "frequency": "Daily",
     "level": "20",
     "name": "Astral Terrain",
     "type": "Savant",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAstral Terrain\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7902\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Astral Savant Attack 20</span>Astral Terrain</h1><p class=\\\"flavor\\\"><i>You assail your enemies with the raw stuff of the Astral Sea, creating a temporary echo of that plane.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Implement</b> ; <b>Cold</b> or <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Wisdom modifier cold or radiant damage (choose one for all targets).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of shimmering substance that lasts until the end of your next turn. The zone’s effect depends on the attack’s damage type.<br/>• Cold: Any enemy that starts its turn within the zone takes a -2 penalty to all defenses until the end of your next turn.<br/>• Radiant: Any ally within the zone who spends a healing surge regains 2d6 additional hit points.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 45.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Astral Savant",
     "flavor": "You assail your enemies with the raw stuff of the Astral Sea, creating a temporary echo of that plane.",
     "keywords": [
       "Divine, Implement ; Cold or Radiant"
     ],
-    "range": "Area burst 2 within 10 squares</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 3d8 + Wisdom modifier cold or radiant damage (choose one for all targets).</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The burst creates a zone of shimmering substance that lasts until the end of your next turn. The zone’s effect depends on the attack’s damage type.",
+    "range": "Area burst 2 within 10 squares<",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d8 + Wisdom modifier cold or radiant damage (choose one for all targets).",

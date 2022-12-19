@@ -2,38 +2,36 @@
   "Infernal Resurgence": {
     "id": "'2560",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Tiefling Warfiend",
     "frequency": "Daily",
     "level": "12",
     "name": "Infernal Resurgence",
     "type": "Warfiend",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInfernal Resurgence\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2560\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Tiefling Warfiend Utility 12</span>Infernal Resurgence</h1><p class=\\\"flavor\\\"><i>You revitalize yourself with the shreds of a defeated foe’s spirit.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You reduce an enemy to 0 hit points</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain hit points as if you had spent a healing surge.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 35.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling Warfiend",
     "flavor": "You revitalize yourself with the shreds of a defeated foe’s spirit.",
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You reduce an enemy to 0 hit points</p><p class=\"flavor\">Effect: You regain hit points as if you had spent a healing surge.</p>",
+    "range": "Personal <",
     "trigger": "You reduce an enemy to 0 hit points",
     "effect": "You regain hit points as if you had spent a healing surge."
   },
   "Hellfire Reprisal": {
     "id": "'2569",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Tiefling Warfiend",
     "frequency": "Encounter",
     "level": "11",
     "name": "Hellfire Reprisal",
     "type": "Warfiend",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHellfire Reprisal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2569\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Tiefling Warfiend Attack 11</span>Hellfire Reprisal</h1><p class=\\\"flavor\\\"><i>As you strike, your anger at your foe’s attack on an ally manifests as baleful fire on your weapon.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage. If the target has hit an ally with an attack during this encounter, the attack deals fire damage equal to 3 + your Constitution modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 35.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling Warfiend",
     "flavor": "As you strike, your anger at your foe’s attack on an ally manifests as baleful fire on your weapon.",
     "keywords": [
       "Fire, Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage. If the target has hit an ally with an attack during this encounter, the attack deals fire damage equal to 3 + your Constitution modifier.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target has hit an ally with an attack during this encounter, the attack deals fire damage equal to 3 + your Constitution modifier."
@@ -41,19 +39,18 @@
   "Burning Wrath Smite": {
     "id": "'2570",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Tiefling Warfiend",
     "frequency": "Daily",
     "level": "20",
     "name": "Burning Wrath Smite",
     "type": "Warfiend",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBurning Wrath Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2570\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Tiefling Warfiend Attack 20</span>Burning Wrath Smite</h1><p class=\\\"flavor\\\"><i>You pour all your hate and anger into a single attack, leaving your stricken opponent aflame.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b>, <b>Martial</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and ongoing 10 fire damage (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 35.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling Warfiend",
     "flavor": "You pour all your hate and anger into a single attack, leaving your stricken opponent aflame.",
     "keywords": [
       "Fire, Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and ongoing 10 fire damage (save ends).</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 10 fire damage (save ends)."

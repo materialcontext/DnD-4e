@@ -2,19 +2,18 @@
   "Darklord Shadow Stride": {
     "id": "'6599",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Darklord",
     "frequency": "Daily",
     "level": "26",
     "name": "Darklord Shadow Stride",
     "type": "Utility",
     "sourceRef": "Dragon Magazine 372",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDarklord Shadow Stride\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6599\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Darklord Utility 26</span>Darklord Shadow Stride</h1><p class=\\\"flavor\\\"><i>Shadows envelop you, spiriting you off to another location.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b>, <b>Shadow</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can teleport 20 squares. When you appear in your destination square, you are invisible until the end of the encounter or until you are hit by an attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/372\\\" target=\\\"_new\\\">Dragon Magazine 372</a>, page(s) 39.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Darklord",
     "flavor": "Shadows envelop you, spiriting you off to another location.",
     "keywords": [
       "Illusion, Shadow, Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You can teleport 20 squares. When you appear in your destination square, you are invisible until the end of the encounter or until you are hit by an attack.</p>",
+    "range": "Personal <",
     "effect": "You can teleport 20 squares. When you appear in your destination square, you are invisible until the end of the encounter or until you are hit by an attack."
   }
 }

@@ -2,19 +2,18 @@
   "Adamantine Blast": {
     "id": "'11860",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Adamant Instructor",
     "frequency": "Encounter",
     "level": "11",
     "name": "Adamantine Blast",
     "type": "Instructor",
     "sourceRef": "Dragon Magazine 385",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAdamantine Blast\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11860\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Adamant Instructor Attack 11</span>Adamantine Blast</h1><p class=\\\"flavor\\\"><i>You rear back your scaled head and let loose a mighty roar, distracting all those in your path.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma or Wisdom + 6 vs. Reflex<br/>Level 21: Charisma or Wisdom + 9 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Wisdom modifier thunder damage, and the target grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 8.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Adamant Instructor",
     "flavor": "You rear back your scaled head and let loose a mighty roar, distracting all those in your path.",
     "keywords": [
       "Divine, Thunder"
     ],
-    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Charisma or Wisdom + 6 vs. Reflex",
+    "range": "Close blast 5<",
     "target": "Each creature in the blast",
     "attack": "Charisma or Wisdom + 6 vs. Reflex<br/>Level 21: Charisma or Wisdom + 9 vs. Reflex",
     "onHit": "2d8 + Wisdom modifier thunder damage, and the target grants combat advantage until the end of your next turn."
@@ -22,19 +21,18 @@
   "Demand Fealty": {
     "id": "'11861",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Adamant Instructor",
     "frequency": "Daily",
     "level": "20",
     "name": "Demand Fealty",
     "type": "Instructor",
     "sourceRef": "Dragon Magazine 385",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDemand Fealty\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11861\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Adamant Instructor Attack 20</span>Demand Fealty</h1><p class=\\\"flavor\\\"><i>You beckon toward the enemy and impress the will of the Great Teacher upon him.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Divine</b>, <b>Implement</b>, <b>Psychic</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom or Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d10 + Wisdom modifier or Charisma modifier psychic damage, and the target is dominated and takes ongoing 5 thunder damage (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: 1d10 + Wisdom modifier or Charisma modifier psychic damage, and target is dazed and takes ongoing 5 thunder damage (save ends both).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 8.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Adamant Instructor",
     "flavor": "You beckon toward the enemy and impress the will of the Great Teacher upon him.",
     "keywords": [
       "Charm, Divine, Implement, Psychic, Thunder"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom or Charisma vs. Will</p><p class=\"flavor\">Hit: 1d10 + Wisdom modifier or Charisma modifier psychic damage, and the target is dominated and takes ongoing 5 thunder damage (save ends both).</p><p class=\"powerstat\">Miss: 1d10 + Wisdom modifier or Charisma modifier psychic damage, and target is dazed and takes ongoing 5 thunder damage (save ends both).</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Wisdom or Charisma vs. Will",
     "onHit": "1d10 + Wisdom modifier or Charisma modifier psychic damage, and the target is dominated and takes ongoing 5 thunder damage (save ends both).",
@@ -43,19 +41,18 @@
   "Great Speech": {
     "id": "'11862",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Adamant Instructor",
     "frequency": "Daily",
     "level": "12",
     "name": "Great Speech",
     "type": "Instructor",
     "sourceRef": "Dragon Magazine 385",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGreat Speech\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11862\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Adamant Instructor Utility 12</span>Great Speech</h1><p class=\\\"flavor\\\"><i>An inspired speech escapes your scaled lips, inspiring your allies with words reminiscent of the Great Teacher’s instructions.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains a +2 power bonus to all defenses until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 8.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Adamant Instructor",
     "flavor": "An inspired speech escapes your scaled lips, inspiring your allies with words reminiscent of the Great Teacher’s instructions.",
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: The target gains a +2 power bonus to all defenses until the end of the encounter.</p>",
+    "range": "Close burst 5<",
     "target": "You and each ally in the burst",
     "effect": "The target gains a +2 power bonus to all defenses until the end of the encounter."
   }

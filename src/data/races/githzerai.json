@@ -1,0 +1,56 @@
+{
+  "name": "Githzerai",
+  "height": "6'0\" - 6'5\"",
+  "weight": "160 - 190 lbs",
+  "abilityScores": "+2 Wisdom, +2 Dexterity or +2 Intelligence",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, Deep Speech",
+  "uniqueFeatures": {
+    "shiftingFortunes": "When you use your second wind, you can shift 3 squares as a free action.",
+    "ironMind": "You have the Iron Mind Power.",
+    "defendedMind": "You have a +2 racial bonus to saving throws against effects that daze, dominate, or stun.",
+    "dangerSense": "You have a +2 racial bonus to initiative checks.",
+    "skillBonuses": "+2 Acrobatics, +2 Athletics.",
+    "vision": "Normal"
+  },
+  "physTxt": "Characterized by spare frames and an exotic appearance, githzerai are taller than humans and slender to the point of being gaunt. Their skin tends toward yellow tones, occasionally shading into brown or green. They have distinctive angular features and pointed ears, as well as eyes set in deep sockets and flattened noses set high on their faces.",
+  "refSource": "Player\\'s Handbook 3, page ",
+  "flavorTxt": "Ascetic and disciplined, masters of body and mind",
+  "power": "Iron Mind",
+  "characteristics": [
+    "ascetic",
+    "calculating",
+    "calm",
+    "cautious",
+    "cynical",
+    "disciplined",
+    "introspective",
+    "pragmatic",
+    "quiet",
+    "secretive",
+    "suspicious",
+    "terse"
+  ],
+  "femNames": [
+    "adaka",
+    "adeya",
+    "ella",
+    "ezhelya",
+    "immilzin",
+    "izera",
+    "uweya"
+  ],
+  "mascNames": [
+    "dak",
+    "durth",
+    "ferzth",
+    "greth",
+    "hurm",
+    "kalla",
+    "murg",
+    "nurm",
+    "shrakk"
+  ],
+  "tipsTxt": "Githzerai value their heritage. It informs their philosophy, their behavior, and their intolerance for githyanki and mind flayers. Where githyanki crave battle and conquest, githzerai seek inner harmony and self-mastery. They often travel great distances to explore the self and to give up mortal attachments by witnessing the possibilities that existence has to offer."
+}

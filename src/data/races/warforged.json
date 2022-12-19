@@ -1,0 +1,37 @@
+{
+  "name": "Warforged",
+  "height": "6'0\" - 6'6\"",
+  "weight": "270 - 300 lbs",
+  "abilityScores": "+2 Constitution, +2 Intelligence or +2 Strength",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common",
+  "uniqueFeatures": {
+    "warforgedResolve": "You have the warforged resolve power.",
+    "warforgedResilience": "You have a +2 racial bonus to saving throws against ongoing damage. Also, when you make a death saving throw, you can take the better result of your die roll or 10.",
+    "warforgedMind": "You have a +1 racial bonus to your Will.",
+    "unsleepingWatcher": "You do not sleep and instead enter a state of inactivity for 4 hours to gain the benefits of an extended rest. While in this state, you are fully aware of your surroundings and notice approaching enemies and other events as normal.",
+    "livingConstruct": "You are a living construct. You do not need to eat, drink, breathe, or sleep. You never make Endurance checks to resist the effect of starvation, thirst, or suffocation. All other conditions and effects affect you normally.",
+    "skillBonuses": "+2 Endurance, +2 Intimidate.",
+    "vision": "Normal"
+  },
+  "physTxt": "Warforged are bulky humanoids covered in plates of metal and stone. A skeleton of these materials supports woody fiber bundles that comprise a warforged’s muscular system.  Warforged bodies have an internal network of tubes filled with a bloodlike fluid that nourishes and lubricates their systems. Their powerful arms end in hands that each have two fingers and one thumb, and each of their feet has two broad toes.",
+  "refSource": "Eberron Player\\'s Guide, page ",
+  "flavorTxt": "Built for a war that has ended, searching for purpose",
+  "power": "Warforged Resolve",
+  "characteristics": [
+    "aggressive",
+    "alert",
+    "brave",
+    "curious",
+    "forthright",
+    "industrious",
+    "loyal",
+    "methodical",
+    "naïve",
+    "practical",
+    "reserved",
+    "simple"
+  ],
+  "tipsTxt": "Warforged have a straightforward emotional range. Although they experience pain, fear, hatred, and anger like other races, they are reserved and pensive, hiding emotions behind expressionless metal faces. Some warforged lack introspection and are dangerously naïve or emotionally stunted. Many warforged are the opposite, though. They question the purpose  of their existence and consider whether or not they have souls. A few warforged develop sophisticated philosophies about what they perceive and learn. Many warforged fall in with humanoids of similar mindsets, working passionately for an organization or a religion. A warforged typically forms a strong emotional attachment to a small group of comrades."
+}

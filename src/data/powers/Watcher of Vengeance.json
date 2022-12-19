@@ -2,19 +2,18 @@
   "Hidden Danger": {
     "id": "'9284",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Watcher of Vengeance",
     "frequency": "Encounter",
     "level": "11",
     "name": "Hidden Danger",
     "type": "of",
     "sourceRef": "Dragon Magazine 377",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHidden Danger\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9284\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Watcher of Vengeance Attack 11</span>Hidden Danger</h1><p class=\\\"flavor\\\"><i>You attack with nothing more than a whisper, cutting through your enemy and its defenses in one deadly attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature from which you are hidden</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC; if you are hidden when you attack, you remain hidden after the attack.</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier damage</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/377\\\" target=\\\"_new\\\">Dragon Magazine 377</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Watcher of Vengeance",
     "flavor": "You attack with nothing more than a whisper, cutting through your enemy and its defenses in one deadly attack.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One creature from which you are hidden</p><p class=\"powerstat\">Attack: Wisdom vs. AC; if you are hidden when you attack, you remain hidden after the attack.</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier damage</p>",
+    "range": "Melee or Ranged weapon<",
     "target": "One creature from which you are hidden",
     "attack": "Wisdom vs. AC; if you are hidden when you attack, you remain hidden after the attack.",
     "onHit": "3[W] + Wisdom modifier damage"
@@ -22,38 +21,36 @@
   "Just Punishment": {
     "id": "'9285",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Watcher of Vengeance",
     "frequency": "Daily",
     "level": "20",
     "name": "Just Punishment",
     "type": "of",
     "sourceRef": "Dragon Magazine 377",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nJust Punishment\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9285\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Watcher of Vengeance Attack 20</span>Just Punishment</h1><p class=\\\"flavor\\\"><i>You strike your foe in such a way that if it strikes back, its wounds worsen, and if it does nothing, it invites disaster.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are damaged by an attack</p><p class=\\\"flavor\\\"><b>Effect</b>: You make an avenger at-will weapon attack or melee basic attack. On a hit, that attack deals 2[W] extra damage and you can teleport 3 squares. If the attack misses, this power is not expended.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/377\\\" target=\\\"_new\\\">Dragon Magazine 377</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Watcher of Vengeance",
     "flavor": "You strike your foe in such a way that if it strikes back, its wounds worsen, and if it does nothing, it invites disaster.",
     "keywords": [
       "Divine, Reliable, Weapon"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You are damaged by an attack</p><p class=\"flavor\">Effect: You make an avenger at-will weapon attack or melee basic attack. On a hit, that attack deals 2[W] extra damage and you can teleport 3 squares. If the attack misses, this power is not expended.</p>",
+    "range": "Personal <",
     "trigger": "You are damaged by an attack",
     "effect": "You make an avenger at-will weapon attack or melee basic attack. On a hit, that attack deals 2[W] extra damage and you can teleport 3 squares. If the attack misses, this power is not expended."
   },
   "Clarity of Purpose": {
     "id": "'9287",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Watcher of Vengeance",
     "frequency": "Daily",
     "level": "12",
     "name": "Clarity of Purpose",
     "type": "of",
     "sourceRef": "Dragon Magazine 377",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nClarity of Purpose\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9287\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Watcher of Vengeance Utility 12</span>Clarity of Purpose</h1><p class=\\\"flavor\\\"><i>By suffering your enemy’s attack, you gain a renewed sense of purpose and a clear vision of how this foe can be stopped.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are damaged by an attack</p><p class=\\\"flavor\\\"><b>Effect</b>: You take a move or a minor action. Until the end of the encounter, whenever the triggering attacker hits an ally, you gain a +2 bonus to your next attack roll against it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/377\\\" target=\\\"_new\\\">Dragon Magazine 377</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Watcher of Vengeance",
     "flavor": "By suffering your enemy’s attack, you gain a renewed sense of purpose and a clear vision of how this foe can be stopped.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You are damaged by an attack</p><p class=\"flavor\">Effect: You take a move or a minor action. Until the end of the encounter, whenever the triggering attacker hits an ally, you gain a +2 bonus to your next attack roll against it.</p>",
+    "range": "Personal <",
     "trigger": "You are damaged by an attack",
     "effect": "You take a move or a minor action. Until the end of the encounter, whenever the triggering attacker hits an ally, you gain a +2 bonus to your next attack roll against it."
   }

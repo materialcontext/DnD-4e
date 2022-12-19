@@ -2,19 +2,18 @@
   "Breath of the Dragon Soul": {
     "id": "'5325",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dragonsoul Heir",
     "frequency": "Encounter",
     "level": "11",
     "name": "Breath of the Dragon Soul",
     "type": "Heir",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBreath of the Dragon Soul\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5325\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonsoul Heir Attack 11</span>Breath of the Dragon Soul</h1><p class=\\\"flavor\\\"><i>You exhale a mighty blast of elemental essence.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Charisma modifier damage. The damage is the type you resist with your Dragon Soul class feature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonsoul Heir",
     "flavor": "You exhale a mighty blast of elemental essence.",
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Close blast 5</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Charisma vs. Reflex</p><p class=\"flavor\">Hit: 2d8 + Charisma modifier damage. The damage is the type you resist with your Dragon Soul class feature.</p>",
+    "range": "Close blast 5<",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier damage. The damage is the type you resist with your Dragon Soul class feature."
@@ -22,37 +21,35 @@
   "Dragon's Revenge": {
     "id": "'5326",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Dragonsoul Heir",
     "frequency": "Daily",
     "level": "12",
     "name": "Dragon's Revenge",
     "type": "Heir",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragon's Revenge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5326\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dragonsoul Heir Utility 12</span>Dragon's Revenge</h1><p class=\\\"flavor\\\"><i>Elemental power surrounds you and lashes out at those who attack you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b> ; <b>Varies</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, when any enemy hits or misses you with an attack against AC, that enemy takes 1d10 + your Strength modifier damage. The damage is the type you resist with your Dragon Soul class feature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonsoul Heir",
     "flavor": "Elemental power surrounds you and lashes out at those who attack you.",
     "keywords": [
       "Arcane ; Varies"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, when any enemy hits or misses you with an attack against AC, that enemy takes 1d10 + your Strength modifier damage. The damage is the type you resist with your Dragon Soul class feature.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, when any enemy hits or misses you with an attack against AC, that enemy takes 1d10 + your Strength modifier damage. The damage is the type you resist with your Dragon Soul class feature."
   },
   "Veil of the Dragon": {
     "id": "'5327",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dragonsoul Heir",
     "frequency": "Daily",
     "level": "20",
     "name": "Veil of the Dragon",
     "type": "Heir",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVeil of the Dragon\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5327\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dragonsoul Heir Attack 20</span>Veil of the Dragon</h1><p class=\\\"flavor\\\"><i>Elemental forces in the form of a dragon hover around you as you slash your foes with claws of magic.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 6d6 + Charisma modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, any creature that makes a melee attack against you takes 2d6 + your Charisma modifier damage. In addition, you can use the Veil of the Dragon Attack power, which can be used as a melee basic attack.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The effect persists.</p><p class=\\\"powerstat\\\"><b>Special</b>: The damage dealt by this power is the type you resist with your Dragon Soul class feature.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Veil of the Dragon Attack</h1><p class=\\\"flavor\\\"><i>Elemental forces in the form of a dragon hover around you as you slash your foes with claws of magic.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: The Veil of the Dragon power must be active to use this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d6 + Charisma modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonsoul Heir",
     "flavor": "Elemental forces in the form of a dragon hover around you as you slash your foes with claws of magic.",
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Close burst 3</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Reflex</p><p class=\"flavor\">Hit: 6d6 + Charisma modifier damage.</p><p class=\"powerstat\">Effect: Until the end of your next turn, any creature that makes a melee attack against you takes 2d6 + your Charisma modifier damage. In addition, you can use the Veil of the Dragon Attack power, which can be used as a melee basic attack.</p><p class=\"flavor\">Sustain Minor: The effect persists.</p><p class=\"powerstat\">Special: The damage dealt by this power is the type you resist with your Dragon Soul class feature.</p>",
+    "range": "Close burst 3<",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d6 + Charisma modifier damage.",

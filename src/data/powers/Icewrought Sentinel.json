@@ -2,19 +2,18 @@
   "Rime Shackles": {
     "id": "'9946",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Icewrought Sentinel",
     "frequency": "Encounter",
     "level": "11",
     "name": "Rime Shackles",
     "type": "Sentinel",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRime Shackles\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9946\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Icewrought Sentinel Attack 11</span>Rime Shackles</h1><p class=\\\"flavor\\\"><i>Your weapon strikes with bitter cold that freezes the target in its tracks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier cold damage, and the target is immobilized until the end of your next turn. On your next turn, if you hit the target with a primal cold power, the target is immobilized until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 111.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Icewrought Sentinel",
     "flavor": "Your weapon strikes with bitter cold that freezes the target in its tracks.",
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 1[W] + Strength modifier cold damage, and the target is immobilized until the end of your next turn. On your next turn, if you hit the target with a primal cold power, the target is immobilized until the end of its next turn.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier cold damage, and the target is immobilized until the end of your next turn. On your next turn, if you hit the target with a primal cold power, the target is immobilized until the end of its next turn."
@@ -22,19 +21,18 @@
   "Form of the Icewrought Sentinel": {
     "id": "'9947",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Icewrought Sentinel",
     "frequency": "Daily",
     "level": "20",
     "name": "Form of the Icewrought Sentinel",
     "type": "Sentinel",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForm of the Icewrought Sentinel\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9947\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Icewrought Sentinel Attack 20</span>Form of the Icewrought Sentinel</h1><p class=\\\"flavor\\\"><i>A protective sheath of ice covers you and spreads to hinder your foes’ movement, coating your weapon to blind a foe when you strike.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the guardian form of the icewrought sentinel until the end of the encounter. While you are in this form, you gain a +2 bonus to AC and Fortitude. In addition, your enemies cannot charge or run if they start that movement within 2 squares of you, and each square within 2 squares of you, wherever you move, is difficult terrain for your enemies.<br/>Once during this encounter, you can use the Form of the Icewrought Sentinel Attack power while you are in this form.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Form of the Icewrought Sentinel Attack</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Polymorph</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier cold damage, and the target is blinded (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is blinded until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 111.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Icewrought Sentinel",
     "flavor": "A protective sheath of ice covers you and spreads to hinder your foes’ movement, coating your weapon to blind a foe when you strike.",
     "keywords": [
       "Cold, Polymorph, Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the guardian form of the icewrought sentinel until the end of the encounter. While you are in this form, you gain a +2 bonus to AC and Fortitude. In addition, your enemies cannot charge or run if they start that movement within 2 squares of you, and each square within 2 squares of you, wherever you move, is difficult terrain for your enemies.",
+    "range": "Personal <",
     "effect": "You assume the guardian form of the icewrought sentinel until the end of the encounter. While you are in this form, you gain a +2 bonus to AC and Fortitude. In addition, your enemies cannot charge or run if they start that movement within 2 squares of you, and each square within 2 squares of you, wherever you move, is difficult terrain for your enemies.<br/>Once during this encounter, you can use the Form of the Icewrought Sentinel Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -44,19 +42,18 @@
   "Icewrought Armor": {
     "id": "'10042",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Icewrought Sentinel",
     "frequency": "Encounter",
     "level": "12",
     "name": "Icewrought Armor",
     "type": "Sentinel",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nIcewrought Armor\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10042\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Icewrought Sentinel Utility 12</span>Icewrought Armor</h1><p class=\\\"flavor\\\"><i>A shell of ice spreads across your ally, offering protection even as it freezes a foe that dares to strike.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains a +2 bonus to all defenses until the end of your next turn. If the target is hit by a melee attack before the bonus ends, the attacker is immobilized until the end of its next turn, and the bonus ends.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 111.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Icewrought Sentinel",
     "flavor": "A shell of ice spreads across your ally, offering protection even as it freezes a foe that dares to strike.",
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 3</p><p class=\"powerstat\">Target: You or one ally in the burst</p><p class=\"flavor\">Effect: The target gains a +2 bonus to all defenses until the end of your next turn. If the target is hit by a melee attack before the bonus ends, the attacker is immobilized until the end of its next turn, and the bonus ends.</p>",
+    "range": "Close burst 3<",
     "target": "You or one ally in the burst",
     "effect": "The target gains a +2 bonus to all defenses until the end of your next turn. If the target is hit by a melee attack before the bonus ends, the attacker is immobilized until the end of its next turn, and the bonus ends."
   }

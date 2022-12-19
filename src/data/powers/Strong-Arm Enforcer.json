@@ -2,19 +2,18 @@
   "Painful Reminder": {
     "id": "'4736",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Strong-Arm Enforcer",
     "frequency": "Encounter",
     "level": "11",
     "name": "Painful Reminder",
     "type": "",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPainful Reminder\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4736\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Strong-Arm Enforcer Attack 11</span>Painful Reminder</h1><p class=\\\"flavor\\\"><i>You thump your adversary one more time, in case he forgot you’re top dog.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Rattling</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature you hit on your previous turn</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Dexterity modifier damage, and the target is marked until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Ruthless Ruffian</b>: You slide the target 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 98.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Strong-Arm Enforcer",
     "flavor": "You thump your adversary one more time, in case he forgot you’re top dog.",
     "keywords": [
       "Martial, Rattling, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding a light blade.</p><p class=\"powerstat\">Target: One creature you hit on your previous turn</p><p class=\"powerstat\">Attack: Dexterity vs. Will</p><p class=\"flavor\">Hit: 2[W] + Dexterity modifier damage, and the target is marked until the end of your next turn.</p><p class=\"powerstat\">Ruthless Ruffian: You slide the target 1 square.</p>",
+    "range": "Melee weapon<",
     "requirement": "You must be wielding a light blade.",
     "target": "One creature you hit on your previous turn",
     "attack": "Dexterity vs. Will",
@@ -24,37 +23,35 @@
   "Implied Threat": {
     "id": "'4737",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Strong-Arm Enforcer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Implied Threat",
     "type": "",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nImplied Threat\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4737\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Strong-Arm Enforcer Utility 12</span>Implied Threat</h1><p class=\\\"flavor\\\"><i>Even when you manage to be polite, you have a threatening air.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you gain a power bonus to Intimidate checks equal to your Strength modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 98.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Strong-Arm Enforcer",
     "flavor": "Even when you manage to be polite, you have a threatening air.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you gain a power bonus to Intimidate checks equal to your Strength modifier.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, you gain a power bonus to Intimidate checks equal to your Strength modifier."
   },
   "Callous Strike": {
     "id": "'4738",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Strong-Arm Enforcer",
     "frequency": "Daily",
     "level": "20",
     "name": "Callous Strike",
     "type": "",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCallous Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4738\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Strong-Arm Enforcer Attack 20</span>Callous Strike</h1><p class=\\\"flavor\\\"><i>The cruelty of your attack causes other foes to withdraw from you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Rattling</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade.</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage. Make a secondary attack, which has the fear keyword.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: Each enemy within 1 square of you</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Charisma vs. Will</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Hit</b>: The secondary target moves 1 square away from you.</p><p class=\\\"flavor\\\"><b>Miss</b>: Half damage, and no secondary attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 98.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Strong-Arm Enforcer",
     "flavor": "The cruelty of your attack causes other foes to withdraw from you.",
     "keywords": [
       "Martial, Rattling, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding a light blade.</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage. Make a secondary attack, which has the fear keyword.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Target: Each enemy within 1 square of you</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Attack: Charisma vs. Will</p><p class=\"powerstat\">&nbsp;&nbsp;Hit: The secondary target moves 1 square away from you.</p><p class=\"flavor\">Miss: Half damage, and no secondary attack.</p>",
+    "range": "Melee weapon<",
     "requirement": "You must be wielding a light blade.",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. AC",

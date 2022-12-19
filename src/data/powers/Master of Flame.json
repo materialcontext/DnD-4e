@@ -2,19 +2,18 @@
   "Fanning the Flames": {
     "id": "'12557",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Master of Flame",
     "frequency": "Encounter",
     "level": "11",
     "name": "Fanning the Flames",
     "type": "of",
     "sourceRef": "Dragon Magazine 388",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFanning the Flames\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12557\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master of Flame Attack 11</span>Fanning the Flames</h1><p class=\\\"flavor\\\"><i>As flames envelop one of your enemies, you cause the flames to swell and spread to another.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature taking ongoing fire damage</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Intelligence modifier fire damage, and any ongoing fire damage the target is taking increases by 5.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Make a secondary attack in an area burst 1 centered on the primary target.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2d8 + Intelligence modifier fire damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Master of Flame",
     "flavor": "As flames envelop one of your enemies, you cause the flames to swell and spread to another.",
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature taking ongoing fire damage</p><p class=\"powerstat\">Attack: Intelligence vs. Fortitude</p><p class=\"flavor\">Hit: 2d8 + Intelligence modifier fire damage, and any ongoing fire damage the target is taking increases by 5.</p><p class=\"powerstat\">Effect: Make a secondary attack in an area burst 1 centered on the primary target.</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Target: Each creature in the burst</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Intelligence vs. Reflex</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 2d8 + Intelligence modifier fire damage.</p>",
+    "range": "Ranged 10<",
     "target": "One creature taking ongoing fire damage",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier fire damage, and any ongoing fire damage the target is taking increases by 5.",
@@ -26,19 +25,18 @@
   "Furious Immolation": {
     "id": "'12558",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Master of Flame",
     "frequency": "Daily",
     "level": "20",
     "name": "Furious Immolation",
     "type": "of",
     "sourceRef": "Dragon Magazine 388",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFurious Immolation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12558\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master of Flame Attack 20</span>Furious Immolation</h1><p class=\\\"flavor\\\"><i>You summon a titanic column of flame that draws everything nearby toward destruction.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Implement</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Intelligence modifier fire damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of your next turn. Any creature that enters the zone or starts its turn there takes 15 fire damage (a creature can take this damage only once per turn). Make a secondary attack as an area burst 4 with the same origin square.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: Each creature in the burst</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Intelligence vs. Fortitude</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Hit</b>: You pull the target 2 squares toward the attack’s origin square.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The zone persists until the end of your next turn, and you repeat the secondary attack.</p><br/>Update (2/17/2012)<br/>Changed in December 2011 updates.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Master of Flame",
     "flavor": "You summon a titanic column of flame that draws everything nearby toward destruction.",
     "keywords": [
       "Arcane, Fire, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Intelligence vs. Reflex</p><p class=\"flavor\">Hit: 3d6 + Intelligence modifier fire damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The burst creates a zone that lasts until the end of your next turn. Any creature that enters the zone or starts its turn there takes 15 fire damage (a creature can take this damage only once per turn). Make a secondary attack as an area burst 4 with the same origin square.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Target: Each creature in the burst</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Attack: Intelligence vs. Fortitude</p><p class=\"powerstat\">&nbsp;&nbsp;Hit: You pull the target 2 squares toward the attack’s origin square.</p><p class=\"flavor\">Sustain Minor: The zone persists until the end of your next turn, and you repeat the secondary attack.</p>",
+    "range": "Area burst 2 within 10<",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier fire damage.",
@@ -52,19 +50,18 @@
   "Burning Transformation": {
     "id": "'12559",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Master of Flame",
     "frequency": "Daily",
     "level": "12",
     "name": "Burning Transformation",
     "type": "of",
     "sourceRef": "Dragon Magazine 388",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBurning Transformation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12559\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master of Flame Utility 12</span>Burning Transformation</h1><p class=\\\"flavor\\\"><i>You become a creature of pure flame.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Polymorph</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You transform into a creature of fire until the end of the encounter. While in this form you gain the following benefits and limitations: You are insubstantial, you can shift 1 square as a minor action, you are immune to fire, you gain a +5 power bonus to damage rolls with arcane fire attacks, and you cannot use any attack power without the fire keyword. Additionally, whenever an enemy hits you with a melee attack, it takes fire damage equal to 5 + your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Master of Flame",
     "flavor": "You become a creature of pure flame.",
     "keywords": [
       "Arcane, Fire, Polymorph"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You transform into a creature of fire until the end of the encounter. While in this form you gain the following benefits and limitations: You are insubstantial, you can shift 1 square as a minor action, you are immune to fire, you gain a +5 power bonus to damage rolls with arcane fire attacks, and you cannot use any attack power without the fire keyword. Additionally, whenever an enemy hits you with a melee attack, it takes fire damage equal to 5 + your Intelligence modifier.</p>",
+    "range": "Personal <",
     "effect": "You transform into a creature of fire until the end of the encounter. While in this form you gain the following benefits and limitations: You are insubstantial, you can shift 1 square as a minor action, you are immune to fire, you gain a +5 power bonus to damage rolls with arcane fire attacks, and you cannot use any attack power without the fire keyword. Additionally, whenever an enemy hits you with a melee attack, it takes fire damage equal to 5 + your Intelligence modifier."
   }
 }

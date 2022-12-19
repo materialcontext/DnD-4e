@@ -2,19 +2,18 @@
   "First Hunter's Spear": {
     "id": "'9942",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "First Hunter",
     "frequency": "Encounter",
     "level": "11",
     "name": "First Hunter's Spear",
     "type": "Hunter",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFirst Hunter's Spear\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9942\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">First Hunter Attack 11</span>First Hunter's Spear</h1><p class=\\\"flavor\\\"><i>You throw your weapon at your foe, hitting it so hard that it’s distracted when your ally attacks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a thrown weapon.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and one of your allies gains combat advantage against the target until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 110.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "First Hunter",
     "flavor": "You throw your weapon at your foe, hitting it so hard that it’s distracted when your ally attacks.",
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding a thrown weapon.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and one of your allies gains combat advantage against the target until the end of your next turn.</p>",
+    "range": "Ranged weapon<",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -23,19 +22,18 @@
   "Form of the First Hunter": {
     "id": "'9943",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "First Hunter",
     "frequency": "Daily",
     "level": "20",
     "name": "Form of the First Hunter",
     "type": "Hunter",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForm of the First Hunter\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9943\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">First Hunter Attack 20</span>Form of the First Hunter</h1><p class=\\\"flavor\\\"><i>You transform to resemble an ancient predator. You then hinder your foes and make a target vulnerable to your allies’ attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the guardian form of the first hunter until the end of the encounter. While you are in this form, you gain a +2 power bonus to saving throws. In addition, each enemy marked by you is slowed until the mark ends.<br/>Once during this encounter, you can use the Form of the First Hunter Attack power while you are in this form.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Form of the First Hunter Attack</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a thrown weapon if you make a ranged attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage. Until the end of your next turn, your allies gain combat advantage against the target, and they gain a bonus to damage rolls against it equal to your Constitution modifier.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Form of the First Hunter must be active in order to use this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 110.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "First Hunter",
     "flavor": "You transform to resemble an ancient predator. You then hinder your foes and make a target vulnerable to your allies’ attacks.",
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the guardian form of the first hunter until the end of the encounter. While you are in this form, you gain a +2 power bonus to saving throws. In addition, each enemy marked by you is slowed until the mark ends.",
+    "range": "Personal <",
     "effect": "You assume the guardian form of the first hunter until the end of the encounter. While you are in this form, you gain a +2 power bonus to saving throws. In addition, each enemy marked by you is slowed until the mark ends.<br/>Once during this encounter, you can use the Form of the First Hunter Attack power while you are in this form.",
     "requirement": "The power Form of the First Hunter must be active in order to use this power.",
     "target": "One creature",
@@ -46,19 +44,18 @@
   "Marked Prey": {
     "id": "'9945",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "First Hunter",
     "frequency": "Encounter",
     "level": "12",
     "name": "Marked Prey",
     "type": "Hunter",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMarked Prey\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9945\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">First Hunter Utility 12</span>Marked Prey</h1><p class=\\\"flavor\\\"><i>When an enemy tries to slip away, you and a companion hunter close in for the kill.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy marked by you ends its turn farther from you than where it started its turn</p><p class=\\\"flavor\\\"><b>Effect</b>: You and one ally can each shift half your speed as a free action to squares closer to the triggering enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 110.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "First Hunter",
     "flavor": "When an enemy tries to slip away, you and a companion hunter close in for the kill.",
     "keywords": [
       "Primal"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy marked by you ends its turn farther from you than where it started its turn</p><p class=\"flavor\">Effect: You and one ally can each shift half your speed as a free action to squares closer to the triggering enemy.</p>",
+    "range": "Personal <",
     "trigger": "An enemy marked by you ends its turn farther from you than where it started its turn",
     "effect": "You and one ally can each shift half your speed as a free action to squares closer to the triggering enemy."
   }

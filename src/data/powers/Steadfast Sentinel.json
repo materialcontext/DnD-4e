@@ -2,57 +2,54 @@
   "Bounty of Spring": {
     "id": "'13532",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Steadfast Sentinel",
     "frequency": "Daily",
     "level": "12",
     "name": "Bounty of Spring",
     "type": "Sentinel",
     "sourceRef": "Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBounty of Spring\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13532\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Steadfast Sentinel Utility 12</span>Bounty of Spring</h1><p class=\\\"flavor\\\"><i>The primal spirits grant you and your allies a healing boon.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: You and one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, each target has regeneration 5 while bloodied. As a minor action, a target can end this regeneration on himself or herself to spend a healing surge and regain additional hit points equal to your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Steadfast Sentinel",
     "flavor": "The primal spirits grant you and your allies a healing boon.",
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Target: You and one ally in the burst</p><p class=\"flavor\">Effect: Until the end of the encounter, each target has regeneration 5 while bloodied. As a minor action, a target can end this regeneration on himself or herself to spend a healing surge and regain additional hit points equal to your Wisdom modifier.</p>",
+    "range": "Close burst 10<",
     "target": "You and one ally in the burst",
     "effect": "Until the end of the encounter, each target has regeneration 5 while bloodied. As a minor action, a target can end this regeneration on himself or herself to spend a healing surge and regain additional hit points equal to your Wisdom modifier."
   },
   "A Thousand Faces": {
     "id": "'13536",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Steadfast Sentinel",
     "frequency": "At-Will",
     "level": "16",
     "name": "A Thousand Faces",
     "type": "Sentinel",
     "sourceRef": "Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nA Thousand Faces\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13536\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Steadfast Sentinel Utility 16</span>A Thousand Faces</h1><p class=\\\"flavor\\\"><i>Your face and form shift to take on the appearance of another creature flawlessly.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You alter your physical form to take on the appearance of any humanoid of your size category. You retain your game statistics in your new form. You can also transform the physical appearance of your clothing, armor, and possessions, though they must remain present and maintain the same general shape. For example, you could make your bejeweled scimitar look like a rusted relic, but you could not make it appear to be a backpack or cause it to disappear. Your new form lasts until you use this power again or until you end it as a free action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check. You gain a +5 bonus to your check.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power only once per round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Steadfast Sentinel",
     "flavor": "Your face and form shift to take on the appearance of another creature flawlessly.",
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You alter your physical form to take on the appearance of any humanoid of your size category. You retain your game statistics in your new form. You can also transform the physical appearance of your clothing, armor, and possessions, though they must remain present and maintain the same general shape. For example, you could make your bejeweled scimitar look like a rusted relic, but you could not make it appear to be a backpack or cause it to disappear. Your new form lasts until you use this power again or until you end it as a free action.",
+    "range": "Personal <",
     "effect": "You alter your physical form to take on the appearance of any humanoid of your size category. You retain your game statistics in your new form. You can also transform the physical appearance of your clothing, armor, and possessions, though they must remain present and maintain the same general shape. For example, you could make your bejeweled scimitar look like a rusted relic, but you could not make it appear to be a backpack or cause it to disappear. Your new form lasts until you use this power again or until you end it as a free action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check. You gain a +5 bonus to your check.",
     "special": "You can use this power only once per round."
   },
   "Verdant Harmony": {
     "id": "'13546",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Steadfast Sentinel",
     "frequency": "Daily",
     "level": "20",
     "name": "Verdant Harmony",
     "type": "Sentinel",
     "sourceRef": "Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVerdant Harmony\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13546\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Steadfast Sentinel Attack 20</span>Verdant Harmony</h1><p class=\\\"flavor\\\"><i>You and those around you take advantage of your harmony with nature, even as the fury of the primal spirits scours your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Necrotic</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 2 that lasts until the end of the encounter. While in the aura, you and your allies ignore difficult terrain, and each of you gains a +5 power bonus to his or her healing surge value. Any enemy in the aura that hits or misses with an attack takes 10 necrotic damage. An enemy can take this damage only once per turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Steadfast Sentinel",
     "flavor": "You and those around you take advantage of your harmony with nature, even as the fury of the primal spirits scours your foes.",
     "keywords": [
       "Aura, Necrotic, Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You activate an aura 2 that lasts until the end of the encounter. While in the aura, you and your allies ignore difficult terrain, and each of you gains a +5 power bonus to his or her healing surge value. Any enemy in the aura that hits or misses with an attack takes 10 necrotic damage. An enemy can take this damage only once per turn.</p>",
+    "range": "Personal <",
     "effect": "You activate an aura 2 that lasts until the end of the encounter. While in the aura, you and your allies ignore difficult terrain, and each of you gains a +5 power bonus to his or her healing surge value. Any enemy in the aura that hits or misses with an attack takes 10 necrotic damage. An enemy can take this damage only once per turn."
   }
 }

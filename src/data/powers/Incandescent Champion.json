@@ -2,19 +2,18 @@
   "Incandescent Strike": {
     "id": "'13015",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Incandescent Champion",
     "frequency": "Encounter",
     "level": "11",
     "name": "Incandescent Strike",
     "type": "Champion",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nIncandescent Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13015\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Incandescent Champion Attack 11</span>Incandescent Strike</h1><p class=\\\"flavor\\\"><i>When you strike, intense light pours from your weapon, leaching all color from the area and blinding your foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Charisma modifier damage, and the target is blinded until the end of your next turn.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: 2[W] + Charisma modifier damage, and the target is blinded until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: Each enemy within 3 squares of you takes a -2 penalty to attack rolls until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Incandescent Champion",
     "flavor": "When you strike, intense light pours from your weapon, leaching all color from the area and blinding your foe.",
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 1[W] + Charisma modifier damage, and the target is blinded until the end of your next turn.</p>Augment 2",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target is blinded until the end of your next turn.",
@@ -23,19 +22,18 @@
   "Perfect Incandescence": {
     "id": "'13016",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Incandescent Champion",
     "frequency": "Daily",
     "level": "20",
     "name": "Perfect Incandescence",
     "type": "Champion",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPerfect Incandescence\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13016\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Incandescent Champion Attack 20</span>Perfect Incandescence</h1><p class=\\\"flavor\\\"><i>As you attack, your soul’s perfection spills forth, transforming you into a being of pure radiance.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Psionic</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy you can see in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Charisma modifier radiant damage, and the target is blinded (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target takes a -2 penalty to attack rolls (save ends).</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you are insubstantial and gain fly 8 (hover). You emit light from your Incandescent Presence feature out to a number of squares equal to your Charisma modifier (minimum 3).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Incandescent Champion",
     "flavor": "As you attack, your soul’s perfection spills forth, transforming you into a being of pure radiance.",
     "keywords": [
       "Polymorph, Psionic, Radiant, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy you can see in the burst</p><p class=\"powerstat\">Attack: Charisma vs. Fortitude</p><p class=\"flavor\">Hit: 2[W] + Charisma modifier radiant damage, and the target is blinded (save ends).</p><p class=\"powerstat\">Miss: Half damage, and the target takes a -2 penalty to attack rolls (save ends).</p><p class=\"flavor\">Effect: Until the end of the encounter, you are insubstantial and gain fly 8 (hover). You emit light from your Incandescent Presence feature out to a number of squares equal to your Charisma modifier (minimum 3).</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy you can see in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2[W] + Charisma modifier radiant damage, and the target is blinded (save ends).",
@@ -45,19 +43,18 @@
   "Unbearable Countenance": {
     "id": "'13017",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Incandescent Champion",
     "frequency": "Daily",
     "level": "12",
     "name": "Unbearable Countenance",
     "type": "Champion",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnbearable Countenance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13017\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Incandescent Champion Utility 12</span>Unbearable Countenance</h1><p class=\\\"flavor\\\"><i>The perfection of your soul burns so brightly that your terrified enemies cannot bear to look upon you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Polymorph</b>, <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, any enemy that makes an attack that includes you as a target takes a -2 penalty to its attack rolls for that attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 25.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Incandescent Champion",
     "flavor": "The perfection of your soul burns so brightly that your terrified enemies cannot bear to look upon you.",
     "keywords": [
       "Fear, Polymorph, Psionic"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, any enemy that makes an attack that includes you as a target takes a -2 penalty to its attack rolls for that attack.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, any enemy that makes an attack that includes you as a target takes a -2 penalty to its attack rolls for that attack."
   }
 }

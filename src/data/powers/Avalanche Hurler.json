@@ -2,19 +2,18 @@
   "Landslide Strike": {
     "id": "'4679",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Avalanche Hurler",
     "frequency": "Encounter",
     "level": "11",
     "name": "Landslide Strike",
     "type": "Hurler",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLandslide Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4679\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Avalanche Hurler Attack 11</span>Landslide Strike</h1><p class=\\\"flavor\\\"><i>You hurtle forward, lashing out with your weapons at the end of your advance.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Targets</b>: One or two creatures</p><p class=\\\"flavor\\\"><b>Effect</b>: Before the attack, you can shift 2 squares.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), one attack per target</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier + Dexterity modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Avalanche Hurler",
     "flavor": "You hurtle forward, lashing out with your weapons at the end of your advance.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding two melee weapons.</p><p class=\"powerstat\">Targets: One or two creatures</p><p class=\"flavor\">Effect: Before the attack, you can shift 2 squares.</p><p class=\"powerstat\">Attack: Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), one attack per target</p><p class=\"flavor\">Hit: 2[W] + Strength modifier + Dexterity modifier damage.</p>",
+    "range": "Melee or Ranged weapon<",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One or two creatures",
     "effect": "Before the attack, you can shift 2 squares.",
@@ -24,37 +23,35 @@
   "Quick-Draw Trick": {
     "id": "'4680",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Avalanche Hurler",
     "frequency": "At-Will",
     "level": "12",
     "name": "Quick-Draw Trick",
     "type": "Hurler",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nQuick-Draw Trick\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4680\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Avalanche Hurler Utility 12</span>Quick-Draw Trick</h1><p class=\\\"flavor\\\"><i>You draw and stow your weapons with dazzling speed.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You draw or stow one or two weapons.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Avalanche Hurler",
     "flavor": "You draw and stow your weapons with dazzling speed.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You draw or stow one or two weapons.</p>",
+    "range": "Personal <",
     "effect": "You draw or stow one or two weapons."
   },
   "Eruption of Steel": {
     "id": "'4681",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Avalanche Hurler",
     "frequency": "Daily",
     "level": "20",
     "name": "Eruption of Steel",
     "type": "Hurler",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEruption of Steel\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4681\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Avalanche Hurler Attack 20</span>Eruption of Steel</h1><p class=\\\"flavor\\\"><i>After attacking with each of your weapons, you pause just long enough to find new targets for your furious assault.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged)</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] (main weapon) + 2[W] (off-hand weapon) + Strength modifier + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Make a secondary attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One or two creatures other than the primary target</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), one attack per target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Hit</b>: 1[W] + Strength modifier + Dexterity modifier damage.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Miss</b>: Half damage.</p><br/>Update (6/14/2010)<br/>In the Primary Attack entry, delete “, two attacks.” In the Hit entry, add “(main weapon) + 2[W] (off-hand weapon)” after “2[W].” Also in the Hit entry and Miss entry, delete “per attack.”<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 58.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Avalanche Hurler",
     "flavor": "After attacking with each of your weapons, you pause just long enough to find new targets for your furious assault.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding two melee weapons.</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged)</p><p class=\"flavor\">Hit: 2[W] (main weapon) + 2[W] (off-hand weapon) + Strength modifier + Dexterity modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: Make a secondary attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Target: One or two creatures other than the primary target</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Attack: Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), one attack per target</p><p class=\"powerstat\">&nbsp;&nbsp;Hit: 1[W] + Strength modifier + Dexterity modifier damage.</p><p class=\"flavor\">&nbsp;&nbsp;Miss: Half damage.</p>",
+    "range": "Melee or Ranged weapon<",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged)",

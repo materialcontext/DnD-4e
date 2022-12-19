@@ -2,19 +2,18 @@
   "Staggering Staff": {
     "id": "'13505",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Mythic Slayer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Staggering Staff",
     "type": "Slayer",
     "sourceRef": "Dragon Magazine 391",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStaggering Staff\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13505\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mythic Slayer Utility 12</span>Staggering Staff</h1><p class=\\\"flavor\\\"><i>Your staff whirls in your hands, and your enemy stumbles into just the right place.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You miss an enemy with a melee attack using a staff</p><p class=\\\"powerstat\\\"><b>Target</b>: The enemy you missed</p><p class=\\\"flavor\\\"><b>Effect</b>: You slide the target 2 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/391\\\" target=\\\"_new\\\">Dragon Magazine 391</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mythic Slayer",
     "flavor": "Your staff whirls in your hands, and your enemy stumbles into just the right place.",
     "keywords": [
       "Martial"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: You miss an enemy with a melee attack using a staff</p><p class=\"powerstat\">Target: The enemy you missed</p><p class=\"flavor\">Effect: You slide the target 2 squares.</p>",
+    "range": "Melee weapon<",
     "trigger": "You miss an enemy with a melee attack using a staff",
     "target": "The enemy you missed",
     "effect": "You slide the target 2 squares."
@@ -22,19 +21,18 @@
   "Reaping Axe": {
     "id": "'12706",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Mythic Slayer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Reaping Axe",
     "type": "Slayer",
     "sourceRef": "Heroes of the Fallen Lands",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReaping Axe\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12706\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mythic Slayer Utility 12</span>Reaping Axe</h1><p class=\\\"flavor\\\"><i>You strike with such force that even a glancing blow is felt by your enemy.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You miss an enemy with a melee attack using an axe.</p><p class=\\\"powerstat\\\"><b>Target</b>: The enemy you missed</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes damage equal to your Strength modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 162.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mythic Slayer",
     "flavor": "You strike with such force that even a glancing blow is felt by your enemy.",
     "keywords": [
       "Martial"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: You miss an enemy with a melee attack using an axe.</p><p class=\"powerstat\">Target: The enemy you missed</p><p class=\"flavor\">Effect: The target takes damage equal to your Strength modifier.</p>",
+    "range": "Melee weapon<",
     "trigger": "You miss an enemy with a melee attack using an axe.",
     "target": "The enemy you missed",
     "effect": "The target takes damage equal to your Strength modifier."
@@ -42,19 +40,18 @@
   "Serpentine Blade": {
     "id": "'12707",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Mythic Slayer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Serpentine Blade",
     "type": "Slayer",
     "sourceRef": "Heroes of the Fallen Lands",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSerpentine Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12707\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mythic Slayer Utility 12</span>Serpentine Blade</h1><p class=\\\"flavor\\\"><i>Even when a foe avoids your attack, you seize the advantage.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You miss an enemy with a melee attack using a heavy blade.</p><p class=\\\"powerstat\\\"><b>Target</b>: The enemy you missed</p><p class=\\\"flavor\\\"><b>Effect</b>: The target grants combat advantage until the end of your next turn or until you or one of your allies attacks it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247520000\\\" target=\\\"_new\\\">Heroes of the Fallen Lands</a>, page(s) 163.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mythic Slayer",
     "flavor": "Even when a foe avoids your attack, you seize the advantage.",
     "keywords": [
       "Martial"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Trigger: You miss an enemy with a melee attack using a heavy blade.</p><p class=\"powerstat\">Target: The enemy you missed</p><p class=\"flavor\">Effect: The target grants combat advantage until the end of your next turn or until you or one of your allies attacks it.</p>",
+    "range": "Melee weapon<",
     "trigger": "You miss an enemy with a melee attack using a heavy blade.",
     "target": "The enemy you missed",
     "effect": "The target grants combat advantage until the end of your next turn or until you or one of your allies attacks it."

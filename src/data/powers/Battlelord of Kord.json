@@ -2,19 +2,18 @@
   "Tempest of Triumph": {
     "id": "'4740",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Battlelord of Kord",
     "frequency": "Encounter",
     "level": "11",
     "name": "Tempest of Triumph",
     "type": "of",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTempest of Triumph\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4740\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Battlelord of Kord Attack 11</span>Tempest of Triumph</h1><p class=\\\"flavor\\\"><i>Your killing blow sets off a chain reaction of inspired attacks, potentially laying low all your foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier + Charisma modifier damage. If this attack reduces the target to 0 hit points, an ally within 5 squares of you can make a basic attack against a different target as an immediate reaction, adding your Charisma modifier to the damage roll. If that ally’s attack reduces its target to 0 hit points, a different ally within 5 squares of you gains the same benefit. Repeat until an attack fails to reduce a target to 0 hit points or until you run out of allies within 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 118.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Battlelord of Kord",
     "flavor": "Your killing blow sets off a chain reaction of inspired attacks, potentially laying low all your foes.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 1[W] + Strength modifier + Charisma modifier damage. If this attack reduces the target to 0 hit points, an ally within 5 squares of you can make a basic attack against a different target as an immediate reaction, adding your Charisma modifier to the damage roll. If that ally’s attack reduces its target to 0 hit points, a different ally within 5 squares of you gains the same benefit. Repeat until an attack fails to reduce a target to 0 hit points or until you run out of allies within 5 squares.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier + Charisma modifier damage. If this attack reduces the target to 0 hit points, an ally within 5 squares of you can make a basic attack against a different target as an immediate reaction, adding your Charisma modifier to the damage roll. If that ally’s attack reduces its target to 0 hit points, a different ally within 5 squares of you gains the same benefit. Repeat until an attack fails to reduce a target to 0 hit points or until you run out of allies within 5 squares."
@@ -22,37 +21,35 @@
   "Blood-Tested Inspiration": {
     "id": "'4742",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Battlelord of Kord",
     "frequency": "Daily",
     "level": "12",
     "name": "Blood-Tested Inspiration",
     "type": "of",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlood-Tested Inspiration\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4742\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Battlelord of Kord Utility 12</span>Blood-Tested Inspiration</h1><p class=\\\"flavor\\\"><i>Faith in Kord leads you to amazing exploits during the glory of battle.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Expend one use of inspiring word to regain the use of an encounter attack power you have used during this encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 118.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Battlelord of Kord",
     "flavor": "Faith in Kord leads you to amazing exploits during the glory of battle.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Expend one use of inspiring word to regain the use of an encounter attack power you have used during this encounter.</p>",
+    "range": "Personal <",
     "effect": "Expend one use of inspiring word to regain the use of an encounter attack power you have used during this encounter."
   },
   "Path of the Storm": {
     "id": "'4743",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Battlelord of Kord",
     "frequency": "Daily",
     "level": "20",
     "name": "Path of the Storm",
     "type": "of",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPath of the Storm\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4743\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Battlelord of Kord Attack 20</span>Path of the Storm</h1><p class=\\\"flavor\\\"><i>You roam the field like a rogue thunderhead, striking foes as Kord strikes the earth with lightning.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can shift a number of squares equal to your Charisma modifier. During this movement, you can make a number of melee basic attacks equal to your Charisma modifier against any enemies within reach. Each of the at-tacks must target a different creature.</p><br/>Update (4/9/2010)<br/>Replace the attack type and range with “Personal.” Replace the last sentence of the Effect entry with “Each of the attacks must target a different creature.” In addition, delete the weapon keyword.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 118.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Battlelord of Kord",
     "flavor": "You roam the field like a rogue thunderhead, striking foes as Kord strikes the earth with lightning.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You can shift a number of squares equal to your Charisma modifier. During this movement, you can make a number of melee basic attacks equal to your Charisma modifier against any enemies within reach. Each of the at-tacks must target a different creature.</p>",
+    "range": "Personal <",
     "effect": "You can shift a number of squares equal to your Charisma modifier. During this movement, you can make a number of melee basic attacks equal to your Charisma modifier against any enemies within reach. Each of the at-tacks must target a different creature."
   }
 }

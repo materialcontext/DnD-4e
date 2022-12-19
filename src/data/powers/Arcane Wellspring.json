@@ -2,19 +2,18 @@
   "Twin Bolt": {
     "id": "'5319",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Arcane Wellspring",
     "frequency": "Encounter",
     "level": "11",
     "name": "Twin Bolt",
     "type": "Wellspring",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTwin Bolt\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5319\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arcane Wellspring Attack 11</span>Twin Bolt</h1><p class=\\\"flavor\\\"><i>Summoning internal reserves, you hurl a bolt of magic that reflects the two forces that infuse you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can choose to lose both of the resistances provided by your Dragon Soul or Wild Soul class feature and by your Double Resistance path feature for the rest of the encounter. If you do so, you can make two attacks with this power, each against a different target. Each target the attack hits takes 3d12 + your Charisma modifier damage, instead of 3d10 + your Charisma modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 148.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arcane Wellspring",
     "flavor": "Summoning internal reserves, you hurl a bolt of magic that reflects the two forces that infuse you.",
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Reflex</p><p class=\"flavor\">Hit: 3d10 + Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.</p><p class=\"powerstat\">Special: You can choose to lose both of the resistances provided by your Dragon Soul or Wild Soul class feature and by your Double Resistance path feature for the rest of the encounter. If you do so, you can make two attacks with this power, each against a different target. Each target the attack hits takes 3d12 + your Charisma modifier damage, instead of 3d10 + your Charisma modifier.</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d10 + Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.",
@@ -23,37 +22,35 @@
   "Sorcerous Wings": {
     "id": "'5320",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Arcane Wellspring",
     "frequency": "Encounter",
     "level": "12",
     "name": "Sorcerous Wings",
     "type": "Wellspring",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSorcerous Wings\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5320\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arcane Wellspring Utility 12</span>Sorcerous Wings</h1><p class=\\\"flavor\\\"><i>Arcane power surrounds you and spreads out behind you to form wings.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b> ; <b>Varies</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you gain a fly speed of 6, and you can hover, and whenever an enemy makes an opportunity attack against you, that enemy takes 2d10 + your Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 148.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arcane Wellspring",
     "flavor": "Arcane power surrounds you and spreads out behind you to form wings.",
     "keywords": [
       "Arcane ; Varies"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a fly speed of 6, and you can hover, and whenever an enemy makes an opportunity attack against you, that enemy takes 2d10 + your Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you gain a fly speed of 6, and you can hover, and whenever an enemy makes an opportunity attack against you, that enemy takes 2d10 + your Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature."
   },
   "Sorcerous Metamorphosis": {
     "id": "'5321",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Arcane Wellspring",
     "frequency": "Daily",
     "level": "20",
     "name": "Sorcerous Metamorphosis",
     "type": "Wellspring",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSorcerous Metamorphosis\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5321\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arcane Wellspring Attack 20</span>Sorcerous Metamorphosis</h1><p class=\\\"flavor\\\"><i>Your body becomes the energy that courses through you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you become insubstantial, and you gain phasing. In addition, when any creature makes a melee attack against you or when you first enter a creature’s space on your turn, the creature takes 3d6 + your Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 148.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arcane Wellspring",
     "flavor": "Your body becomes the energy that courses through you.",
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you become insubstantial, and you gain phasing. In addition, when any creature makes a melee attack against you or when you first enter a creature’s space on your turn, the creature takes 3d6 + your Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you become insubstantial, and you gain phasing. In addition, when any creature makes a melee attack against you or when you first enter a creature’s space on your turn, the creature takes 3d6 + your Charisma modifier damage. The damage is the two types you resist with your Dragon Soul or Wild Soul class feature and with your Double Resistance path feature."
   }
 }

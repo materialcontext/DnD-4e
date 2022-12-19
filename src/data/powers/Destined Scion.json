@@ -2,38 +2,36 @@
   "Epic Recovery": {
     "id": "'13687",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Destined Scion",
     "frequency": "Daily",
     "level": "26",
     "name": "Epic Recovery",
     "type": "Scion",
     "sourceRef": "Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEpic Recovery\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13687\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Destined Scion Utility 26</span>Epic Recovery</h1><p class=\\\"flavor\\\"><i>Though your enemies thought you defeated, you stand up once again, injured but unbowed.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You start your turn at 0 hit points or fewer.</p><p class=\\\"flavor\\\"><b>Effect</b>: You regain hit points equal to twice your healing surge value. You can then stand up as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 237.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Destined Scion",
     "flavor": "Though your enemies thought you defeated, you stand up once again, injured but unbowed.",
     "keywords": [
       "Healing"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You start your turn at 0 hit points or fewer.</p><p class=\"flavor\">Effect: You regain hit points equal to twice your healing surge value. You can then stand up as a free action.</p>",
+    "range": "Personal <",
     "trigger": "You start your turn at 0 hit points or fewer.",
     "effect": "You regain hit points equal to twice your healing surge value. You can then stand up as a free action."
   },
   "Undeniable Victory": {
     "id": "'13688",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Destined Scion",
     "frequency": "Daily",
     "level": "30",
     "name": "Undeniable Victory",
     "type": "Scion",
     "sourceRef": "Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUndeniable Victory\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13688\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Destined Scion Utility 30</span>Undeniable Victory</h1><p class=\\\"flavor\\\"><i>Time seems to slow as the cosmos aligns to present the perfect opportunity to cut down your foe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You miss a target with an attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: The attack instead hits the target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 237.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Destined Scion",
     "flavor": "Time seems to slow as the cosmos aligns to present the perfect opportunity to cut down your foe.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You miss a target with an attack.</p><p class=\"flavor\">Effect: The attack instead hits the target.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You miss a target with an attack.</p><p class=\"flavor\">Effect: The attack instead hits the target.</p>",
+    "range": "Personal <",
     "trigger": "You miss a target with an attack.",
     "effect": "The attack instead hits the target."
   }

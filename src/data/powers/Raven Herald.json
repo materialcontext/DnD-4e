@@ -2,19 +2,18 @@
   "Unraveling Blow": {
     "id": "'2486",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Raven Herald",
     "frequency": "Encounter",
     "level": "11",
     "name": "Unraveling Blow",
     "type": "Herald",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnraveling Blow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2486\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Raven Herald Attack 11</span>Unraveling Blow</h1><p class=\\\"flavor\\\"><i>You see the threads of fate tying your foe to existence, and you cut them.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Dexterity modifier damage. If the target is bloodied when you make the attack or has the undead keyword, the attack deals 1[W] extra damage and you add one die to Sneak Attack damage dealt through this attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Raven Herald",
     "flavor": "You see the threads of fate tying your foe to existence, and you cut them.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 2[W] + Dexterity modifier damage. If the target is bloodied when you make the attack or has the undead keyword, the attack deals 1[W] extra damage and you add one die to Sneak Attack damage dealt through this attack.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. If the target is bloodied when you make the attack or has the undead keyword, the attack deals 1[W] extra damage and you add one die to Sneak Attack damage dealt through this attack."
@@ -22,38 +21,36 @@
   "Death's Veil": {
     "id": "'2487",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Raven Herald",
     "frequency": "Daily",
     "level": "12",
     "name": "Death's Veil",
     "type": "Herald",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeath's Veil\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2487\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Raven Herald Utility 12</span>Death's Veil</h1><p class=\\\"flavor\\\"><i>With the Raven Queen’s blessing and your nearness to death, you become spiritlike.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy bloodies you</p><p class=\\\"flavor\\\"><b>Effect</b>: You become invisible and insubstantial until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Raven Herald",
     "flavor": "With the Raven Queen’s blessing and your nearness to death, you become spiritlike.",
     "keywords": [
       "Divine"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy bloodies you</p><p class=\"flavor\">Effect: You become invisible and insubstantial until the end of your next turn.</p>",
+    "range": "Personal <",
     "trigger": "An enemy bloodies you",
     "effect": "You become invisible and insubstantial until the end of your next turn."
   },
   "Herald the End": {
     "id": "'2488",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Raven Herald",
     "frequency": "Daily",
     "level": "20",
     "name": "Herald the End",
     "type": "Herald",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHerald the End\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2488\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Raven Herald Attack 20</span>Herald the End</h1><p class=\\\"flavor\\\"><i>Your merciless strike shakes your foe to the core of its being. It then sees an end to its existence.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Dexterity modifier damage, and the target is dazed (save ends). If the target is bloodied or has the undead keyword, it is instead stunned (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and if the target is bloodied or has the undead keyword, it is dazed until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Raven Herald",
     "flavor": "Your merciless strike shakes your foe to the core of its being. It then sees an end to its existence.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 4[W] + Dexterity modifier damage, and the target is dazed (save ends). If the target is bloodied or has the undead keyword, it is instead stunned (save ends).</p><p class=\"powerstat\">Miss: Half damage, and if the target is bloodied or has the undead keyword, it is dazed until the end of its next turn.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "4[W] + Dexterity modifier damage, and the target is dazed (save ends). If the target is bloodied or has the undead keyword, it is instead stunned (save ends).",

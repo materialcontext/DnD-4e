@@ -2,74 +2,70 @@
   "Cloud of Darkness": {
     "id": "'2473",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Encounter",
     "level": "0",
     "name": "Cloud of Darkness",
     "type": "Racial",
     "sourceRef": "Forgotten Realms Player's Guide, Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCloud of Darkness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2473\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Drow Racial Power</span>Cloud of Darkness</h1><p class=\\\"flavor\\\"><i>A shroud of blackness descends around you, hiding you from sight.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a cloud of darkness that remains in place until the end of your next turn. The cloud blocks line of sight, squares within it are totally obscured, and creatures entirely within it are blinded until they exit. You are immune to these effects.</p><br/>Update (11/16/2010)<br/>Updated to match Essentials data.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 8, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 246.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "A shroud of blackness descends around you, hiding you from sight.",
     "keywords": [
       "&nbsp;&nbsp;Close burst 1</p><p class=\"flavor\">Effect: The burst creates a cloud of darkness that remains in place until the end of your next turn. The cloud blocks line of sight, squares within it are totally obscured, and creatures entirely within it are blinded until they exit. You are immune to these effects.</p>"
     ],
-    "range": "Close burst 1</p><p class=\"flavor\">Effect: The burst creates a cloud of darkness that remains in place until the end of your next turn. The cloud blocks line of sight, squares within it are totally obscured, and creatures entirely within it are blinded until they exit. You are immune to these effects.</p>",
+    "range": "Close burst 1<",
     "effect": "The burst creates a cloud of darkness that remains in place until the end of your next turn. The cloud blocks line of sight, squares within it are totally obscured, and creatures entirely within it are blinded until they exit. You are immune to these effects."
   },
   "Glimmering Forms": {
     "id": "'16032",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "At-Will",
     "level": "2",
     "name": "Glimmering Forms",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGlimmering Forms\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16032\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Drow Racial Utility 2</span>Glimmering Forms</h1><p class=\\\"flavor\\\"><i>Bright lights blossom into existence. The way they flicker makes them appear to be burning torches.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: You cause four glowing forms to appear in unoccupied squares in the burst. The forms can appear as torches, lanterns, glowing spheres, or vaguely humanoid shapes. Each form emits dim light to a range of 2 squares. The forms last until the end of your next turn. They also vanish if you use this power again.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The forms persist until the end of your next turn, and you can move two of them up to 5 squares apiece.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "Bright lights blossom into existence. The way they flicker makes them appear to be burning torches.",
     "keywords": [
       "Illusion"
     ],
-    "range": "Area burst 1 within 10 squares</p><p class=\"flavor\">Effect: You cause four glowing forms to appear in unoccupied squares in the burst. The forms can appear as torches, lanterns, glowing spheres, or vaguely humanoid shapes. Each form emits dim light to a range of 2 squares. The forms last until the end of your next turn. They also vanish if you use this power again.</p><p class=\"powerstat\">Sustain Minor: The forms persist until the end of your next turn, and you can move two of them up to 5 squares apiece.</p>",
+    "range": "Area burst 1 within 10 squares<",
     "effect": "You cause four glowing forms to appear in unoccupied squares in the burst. The forms can appear as torches, lanterns, glowing spheres, or vaguely humanoid shapes. Each form emits dim light to a range of 2 squares. The forms last until the end of your next turn. They also vanish if you use this power again.",
     "sustainMinor": "The forms persist until the end of your next turn, and you can move two of them up to 5 squares apiece."
   },
   "Levitation": {
     "id": "'16033",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Encounter",
     "level": "2",
     "name": "Levitation",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLevitation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16033\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Drow Racial Utility 2</span>Levitation</h1><p class=\\\"flavor\\\"><i>Calling on the magic inherent in your bloodline, you rise into the air as lightly as a feather on the wind.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "Calling on the magic inherent in your bloodline, you rise into the air as lightly as a feather on the wind.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage.</p>",
+    "range": "Personal <",
     "effect": "You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage."
   },
   "Continuous Levitation": {
     "id": "'16034",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Daily",
     "level": "6",
     "name": "Continuous Levitation",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nContinuous Levitation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16034\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Drow Racial Utility 6</span>Continuous Levitation</h1><p class=\\\"flavor\\\"><i>With focused concentration, you keep yourself aloft to gain the advantage over your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You use levitation.</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain the ability to sustain levitation. This ability lasts until the end of the encounter.</p><p class=\\\"powerstat\\\"><b>Sustain Move</b>: Levitation persists until the end of your next turn, and you can move up to 3 squares vertically or 1 square horizontally.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "With focused concentration, you keep yourself aloft to gain the advantage over your foes.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You use levitation.</p><p class=\"flavor\">Effect: You gain the ability to sustain levitation. This ability lasts until the end of the encounter.</p><p class=\"powerstat\">Sustain Move: Levitation persists until the end of your next turn, and you can move up to 3 squares vertically or 1 square horizontally.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You use levitation.</p><p class=\"flavor\">Effect: You gain the ability to sustain levitation. This ability lasts until the end of the encounter.</p><p class=\"powerstat\">Sustain Move: Levitation persists until the end of your next turn, and you can move up to 3 squares vertically or 1 square horizontally.</p>",
+    "range": "Personal <",
     "trigger": "You use levitation.",
     "effect": "You gain the ability to sustain levitation. This ability lasts until the end of the encounter.",
     "sustainMove": "Levitation persists until the end of your next turn, and you can move up to 3 squares vertically or 1 square horizontally."
@@ -77,38 +73,36 @@
   "Vanish from View": {
     "id": "'16035",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Encounter",
     "level": "6",
     "name": "Vanish from View",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVanish from View\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16035\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Drow Racial Utility 6</span>Vanish from View</h1><p class=\\\"flavor\\\"><i>You use a moment where your enemy can’t fully see you to avoid an attack and gain the upper hand.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are hit by a melee or a ranged attack while you have cover or concealment from the attacker.</p><p class=\\\"flavor\\\"><b>Effect</b>: You make a Stealth check. If your result exceeds the attack roll, the attack misses you, and you gain combat advantage against the attacker until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "You use a moment where your enemy can’t fully see you to avoid an attack and gain the upper hand.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are hit by a melee or a ranged attack while you have cover or concealment from the attacker.</p><p class=\"flavor\">Effect: You make a Stealth check. If your result exceeds the attack roll, the attack misses you, and you gain combat advantage against the attacker until the end of your next turn.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You are hit by a melee or a ranged attack while you have cover or concealment from the attacker.</p><p class=\"flavor\">Effect: You make a Stealth check. If your result exceeds the attack roll, the attack misses you, and you gain combat advantage against the attacker until the end of your next turn.</p>",
+    "range": "Personal <",
     "trigger": "You are hit by a melee or a ranged attack while you have cover or concealment from the attacker.",
     "effect": "You make a Stealth check. If your result exceeds the attack roll, the attack misses you, and you gain combat advantage against the attacker until the end of your next turn."
   },
   "Quell Magic": {
     "id": "'16036",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Daily",
     "level": "10",
     "name": "Quell Magic",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nQuell Magic\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16036\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Drow Racial Utility 10</span>Quell Magic</h1><p class=\\\"flavor\\\"><i>You snuff out the magic you see before you as easily as a child blows out candles.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each conjuration and zone in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence + 4 or Charisma + 4 vs. the Will of the creator of the conjuration or the zone</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is destroyed. All its effects end, including those that normally last until a target saves.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "You snuff out the magic you see before you as easily as a child blows out candles.",
     "keywords": [
       "&nbsp;&nbsp;Area burst 2 within 10 squares</p><p class=\"powerstat\">Target: Each conjuration and zone in the burst</p><p class=\"powerstat\">Attack: Intelligence + 4 or Charisma + 4 vs. the Will of the creator of the conjuration or the zone</p><p class=\"flavor\">Hit: The target is destroyed. All its effects end, including those that normally last until a target saves.</p>"
     ],
-    "range": "Area burst 2 within 10 squares</p><p class=\"powerstat\">Target: Each conjuration and zone in the burst</p><p class=\"powerstat\">Attack: Intelligence + 4 or Charisma + 4 vs. the Will of the creator of the conjuration or the zone</p><p class=\"flavor\">Hit: The target is destroyed. All its effects end, including those that normally last until a target saves.</p>",
+    "range": "Area burst 2 within 10 squares<",
     "target": "Each conjuration and zone in the burst",
     "attack": "Intelligence + 4 or Charisma + 4 vs. the Will of the creator of the conjuration or the zone",
     "onHit": "The target is destroyed. All its effects end, including those that normally last until a target saves."
@@ -116,38 +110,36 @@
   "Dark Doorway": {
     "id": "'16037",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Daily",
     "level": "16",
     "name": "Dark Doorway",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 405",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDark Doorway\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16037\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Drow Racial Utility 16</span>Dark Doorway</h1><p class=\\\"flavor\\\"><i>You see your moment and seize a pathway of magic that pulls you through shadow to arrive elsewhere.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be hidden from each enemy within 10 squares of you.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You teleport up to 10 squares to a square providing any degree of cover or concealment. You can make a Stealth check to remain hidden when you arrive, ignoring the normal -5 penalty to the check for movement.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/405\\\" target=\\\"_new\\\">Dragon Magazine 405</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "You see your moment and seize a pathway of magic that pulls you through shadow to arrive elsewhere.",
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You must be hidden from each enemy within 10 squares of you.</p><p class=\"powerstat\">Effect: You teleport up to 10 squares to a square providing any degree of cover or concealment. You can make a Stealth check to remain hidden when you arrive, ignoring the normal -5 penalty to the check for movement.</p>",
+    "range": "Personal <",
     "requirement": "You must be hidden from each enemy within 10 squares of you.",
     "effect": "You teleport up to 10 squares to a square providing any degree of cover or concealment. You can make a Stealth check to remain hidden when you arrive, ignoring the normal -5 penalty to the check for movement."
   },
   "Darkfire": {
     "id": "'1831",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Drow",
     "frequency": "Encounter",
     "level": "0",
     "name": "Darkfire",
     "type": "Racial",
     "sourceRef": "Forgotten Realms Player's Guide, Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDarkfire\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1831\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Drow Racial Power</span>Darkfire</h1><p class=\\\"flavor\\\"><i>A flickering halo of purple light surrounds the target, making it easier to hit.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence, Wisdom, or Charisma vs. Reflex. You gain a +4 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +6.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +8.</p><p class=\\\"flavor\\\"><b>Hit</b>: Until the end of your next turn, all attacks against the target have combat advantage, and the target cannot benefit from invisibility or concealment.</p><p class=\\\"powerstat\\\"><b>Special</b>: When you create your character, choose Intelligence, Wisdom, or Charisma as the ability score you use when making attack rolls with this power. This choice remains throughout your character’s life and does not change the power’s other effects.</p><br/>Update (11/16/2010)<br/>Updated to match Essentials data.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 8, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 246.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Drow",
     "flavor": "A flickering halo of purple light surrounds the target, making it easier to hit.",
     "keywords": [
       "&nbsp;&nbsp;Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence, Wisdom, or Charisma vs. Reflex. You gain a +4 bonus to the attack roll."
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence, Wisdom, or Charisma vs. Reflex. You gain a +4 bonus to the attack roll.",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Intelligence, Wisdom, or Charisma vs. Reflex. You gain a +4 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +6.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +8.",
     "onHit": "Until the end of your next turn, all attacks against the target have combat advantage, and the target cannot benefit from invisibility or concealment.",

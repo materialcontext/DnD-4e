@@ -2,19 +2,18 @@
   "Fierce Respite": {
     "id": "'16100",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "White Horn Knight",
     "frequency": "Encounter",
     "level": "11",
     "name": "Fierce Respite",
     "type": "Horn",
     "sourceRef": "Dragon Magazine 406",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFierce Respite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16100\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">White Horn Knight Attack 11</span>Fierce Respite</h1><p class=\\\"flavor\\\"><i>Your weapon glows with a pearlescent light, delivering that radiance to your foe even as it gives respite to a wounded ally.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength or Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier or Charisma modifier radiant damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You or an ally within 5 squares of you can spend a healing surge. If your unicorn destrier is adjacent to you or the ally, that character regains additional hit points equal to your Strength modifier or Charisma modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/406\\\" target=\\\"_new\\\">Dragon Magazine 406</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "White Horn Knight",
     "flavor": "Your weapon glows with a pearlescent light, delivering that radiance to your foe even as it gives respite to a wounded ally.",
     "keywords": [
       "Arcane, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength or Charisma vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier or Charisma modifier radiant damage.</p><p class=\"powerstat\">Effect: You or an ally within 5 squares of you can spend a healing surge. If your unicorn destrier is adjacent to you or the ally, that character regains additional hit points equal to your Strength modifier or Charisma modifier.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength or Charisma vs. AC",
     "onHit": "2[W] + Strength modifier or Charisma modifier radiant damage.",
@@ -23,19 +22,18 @@
   "Blessing of Unicorns": {
     "id": "'16101",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "White Horn Knight",
     "frequency": "Daily",
     "level": "20",
     "name": "Blessing of Unicorns",
     "type": "Horn",
     "sourceRef": "Dragon Magazine 406",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlessing of Unicorns\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16101\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">White Horn Knight Attack 20</span>Blessing of Unicorns</h1><p class=\\\"flavor\\\"><i>The glowing forms of many unicorns appear, trampling your enemies and bolstering you and your allies with fey magic.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength + 5 or Charisma + 5 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Strength modifier or Charisma modifier damage, and the target falls prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You and each ally within 2 squares of you can spend a healing surge and regain additional hit points equal to your Strength modifier or Charisma modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/406\\\" target=\\\"_new\\\">Dragon Magazine 406</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "White Horn Knight",
     "flavor": "The glowing forms of many unicorns appear, trampling your enemies and bolstering you and your allies with fey magic.",
     "keywords": [
       "Arcane, Healing"
     ],
-    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength + 5 or Charisma + 5 vs. Reflex</p><p class=\"flavor\">Hit: 3d10 + Strength modifier or Charisma modifier damage, and the target falls prone.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You and each ally within 2 squares of you can spend a healing surge and regain additional hit points equal to your Strength modifier or Charisma modifier.</p>",
+    "range": "Close burst 2<",
     "target": "Each enemy in the burst",
     "attack": "Strength + 5 or Charisma + 5 vs. Reflex",
     "onHit": "3d10 + Strength modifier or Charisma modifier damage, and the target falls prone.",
@@ -45,19 +43,18 @@
   "Call Unicorn Destrier": {
     "id": "'16102",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "White Horn Knight",
     "frequency": "Daily",
     "level": "12",
     "name": "Call Unicorn Destrier",
     "type": "Horn",
     "sourceRef": "Dragon Magazine 406",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCall Unicorn Destrier\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16102\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">White Horn Knight Utility 12</span>Call Unicorn Destrier</h1><p class=\\\"flavor\\\"><i>A gentle breeze and a flash of otherworldly light marks the arrival of your unicorn companion.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"flavor\\\"><b>Effect</b>: A unicorn destrier appears in an unoccupied space within range. The destrier is an ally to you and your allies, and it serves as a mount to you. While the destrier is serving as a mount, all normal rules for mounted combat apply.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If no one is riding the destrier, it can take only move actions. When the destrier makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties. <br/>&nbsp;&nbsp;&nbsp;&nbsp;The destrier lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, the destrier lasts until you dismiss it as a minor action or until you start an extended rest.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/406\\\" target=\\\"_new\\\">Dragon Magazine 406</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "White Horn Knight",
     "flavor": "A gentle breeze and a flash of otherworldly light marks the arrival of your unicorn companion.",
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 5</p><p class=\"flavor\">Effect: A unicorn destrier appears in an unoccupied space within range. The destrier is an ally to you and your allies, and it serves as a mount to you. While the destrier is serving as a mount, all normal rules for mounted combat apply.",
+    "range": "Ranged 5<",
     "effect": "A unicorn destrier appears in an unoccupied space within range. The destrier is an ally to you and your allies, and it serves as a mount to you. While the destrier is serving as a mount, all normal rules for mounted combat apply.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If no one is riding the destrier, it can take only move actions. When the destrier makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties. <br/>&nbsp;&nbsp;&nbsp;&nbsp;The destrier lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, the destrier lasts until you dismiss it as a minor action or until you start an extended rest."
   }
 }

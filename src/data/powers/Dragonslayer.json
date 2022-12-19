@@ -2,19 +2,18 @@
   "Deflect the Blast": {
     "id": "'8108",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Dragonslayer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Deflect the Blast",
     "type": "Utility",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeflect the Blast\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8108\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonslayer Utility 12</span>Deflect the Blast</h1><p class=\\\"flavor\\\"><i>You take shelter behind your trusty shield, protecting a nearby friend as well.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A close or an area attack against AC or Reflex damages you</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be using a shield.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You take only half damage from the triggering attack. The damage is also halved against one adjacent ally who took damage from the triggering attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonslayer",
     "flavor": "You take shelter behind your trusty shield, protecting a nearby friend as well.",
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1</p><p class=\"powerstat\">Trigger: A close or an area attack against AC or Reflex damages you</p><p class=\"flavor\">Requirement: You must be using a shield.</p><p class=\"powerstat\">Effect: You take only half damage from the triggering attack. The damage is also halved against one adjacent ally who took damage from the triggering attack.</p>",
+    "range": "Melee 1<",
     "trigger": "A close or an area attack against AC or Reflex damages you",
     "requirement": "You must be using a shield.",
     "effect": "You take only half damage from the triggering attack. The damage is also halved against one adjacent ally who took damage from the triggering attack."
@@ -22,19 +21,18 @@
   "Ground the Foe": {
     "id": "'8109",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dragonslayer",
     "frequency": "Daily",
     "level": "20",
     "name": "Ground the Foe",
     "type": "Attack",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGround the Foe\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8109\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dragonslayer Attack 20</span>Ground the Foe</h1><p class=\\\"flavor\\\"><i>The power of your prayer hurls your foe to the ground.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Force</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma + 2 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 5d6 + Charisma modifier force damage, and the target is knocked prone and immobilized (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Aftereffect</b>: The target is slowed and cannot fly (save ends both).</p><p class=\\\"flavor\\\"><b>Miss</b>: Half damage. The target is slowed and is clumsy while flying (save ends both).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonslayer",
     "flavor": "The power of your prayer hurls your foe to the ground.",
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma + 2 vs. Reflex</p><p class=\"flavor\">Hit: 5d6 + Charisma modifier force damage, and the target is knocked prone and immobilized (save ends).</p><p class=\"powerstat\">&nbsp;&nbsp;Aftereffect: The target is slowed and cannot fly (save ends both).</p><p class=\"flavor\">Miss: Half damage. The target is slowed and is clumsy while flying (save ends both).</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Charisma + 2 vs. Reflex",
     "onHit": "5d6 + Charisma modifier force damage, and the target is knocked prone and immobilized (save ends).",
@@ -44,19 +42,18 @@
   "Challenging Smite": {
     "id": "'8110",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dragonslayer",
     "frequency": "Encounter",
     "level": "11",
     "name": "Challenging Smite",
     "type": "Attack",
     "sourceRef": "Divine Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nChallenging Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8110\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonslayer Attack 11</span>Challenging Smite</h1><p class=\\\"flavor\\\"><i>Your strike demands the attention of your chosen enemy, and that enemy ignores you at its peril.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature marked by you</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Charisma modifier damage. Until the start of your next turn, your divine sanction and divine challenge deal 10 extra radiant damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 97.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonslayer",
     "flavor": "Your strike demands the attention of your chosen enemy, and that enemy ignores you at its peril.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature marked by you</p><p class=\"powerstat\">Attack: Charisma vs. AC</p><p class=\"flavor\">Hit: 3[W] + Charisma modifier damage. Until the start of your next turn, your divine sanction and divine challenge deal 10 extra radiant damage.</p>",
+    "range": "Melee weapon<",
     "target": "One creature marked by you",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage. Until the start of your next turn, your divine sanction and divine challenge deal 10 extra radiant damage."

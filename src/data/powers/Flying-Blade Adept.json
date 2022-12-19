@@ -2,19 +2,18 @@
   "Ricochet Blade": {
     "id": "'4728",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Flying-Blade Adept",
     "frequency": "Encounter",
     "level": "11",
     "name": "Ricochet Blade",
     "type": "",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRicochet Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4728\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Flying-Blade Adept Attack 11</span>Ricochet Blade</h1><p class=\\\"flavor\\\"><i>Your blade wounds, then careens off your target and into a nearby foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade with the light thrown property.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage, and an enemy within 3 squares of the target takes damage equal to your Dexterity modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 92.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Flying-Blade Adept",
     "flavor": "Your blade wounds, then careens off your target and into a nearby foe.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding a light blade with the light thrown property.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage, and an enemy within 3 squares of the target takes damage equal to your Dexterity modifier.</p>",
+    "range": "Ranged weapon<",
     "requirement": "You must be wielding a light blade with the light thrown property.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -23,19 +22,18 @@
   "Nimble Deflection": {
     "id": "'4729",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Flying-Blade Adept",
     "frequency": "Encounter",
     "level": "12",
     "name": "Nimble Deflection",
     "type": "",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNimble Deflection\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4729\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Flying-Blade Adept Utility 12</span>Nimble Deflection</h1><p class=\\\"flavor\\\"><i>With a practiced eye, you follow a projectile’s path and knock it out of the air.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature hits you with a ranged attack</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade with the light thrown property.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You make a ranged basic attack, treating the attacking creature’s attack roll as the target AC. If your attack hits, the triggering attack misses.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 92.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Flying-Blade Adept",
     "flavor": "With a practiced eye, you follow a projectile’s path and knock it out of the air.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Trigger: A creature hits you with a ranged attack</p><p class=\"flavor\">Requirement: You must be wielding a light blade with the light thrown property.</p><p class=\"powerstat\">Effect: You make a ranged basic attack, treating the attacking creature’s attack roll as the target AC. If your attack hits, the triggering attack misses.</p>",
+    "range": "Ranged weapon<",
     "trigger": "A creature hits you with a ranged attack",
     "requirement": "You must be wielding a light blade with the light thrown property.",
     "effect": "You make a ranged basic attack, treating the attacking creature’s attack roll as the target AC. If your attack hits, the triggering attack misses."
@@ -43,19 +41,18 @@
   "Bladed Fusillade": {
     "id": "'4731",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Flying-Blade Adept",
     "frequency": "Daily",
     "level": "20",
     "name": "Bladed Fusillade",
     "type": "",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBladed Fusillade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4731\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Flying-Blade Adept Attack 20</span>Bladed Fusillade</h1><p class=\\\"flavor\\\"><i>You unleash a volley of thrown blades.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Rattling</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade with the light thrown property.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/>Revision (1/21/2009)<br/>In the Keywords line, replace “Encounter” with “Daily”.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 92.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Flying-Blade Adept",
     "flavor": "You unleash a volley of thrown blades.",
     "keywords": [
       "Martial, Rattling, Weapon"
     ],
-    "range": "Close blast 5</p><p class=\"flavor\">Requirement: You must be wielding a light blade with the light thrown property.</p><p class=\"powerstat\">Target: Each enemy in the blast you can see</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "range": "Close blast 5<",
     "requirement": "You must be wielding a light blade with the light thrown property.",
     "target": "Each enemy in the blast you can see",
     "attack": "Dexterity vs. AC",

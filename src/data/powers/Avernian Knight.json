@@ -2,19 +2,18 @@
   "Curse Strike": {
     "id": "'10566",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Avernian Knight",
     "frequency": "Encounter",
     "level": "11",
     "name": "Curse Strike",
     "type": "Knight",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCurse Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10566\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Avernian Knight Attack 11</span>Curse Strike</h1><p class=\\\"flavor\\\"><i>Your strike delivers a dark curse, debilitating your foe and lending power to your next attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage. Until the end of your next turn, the target takes a -2 penalty to attack rolls, and your weapon attacks against the target deal 2d6 extra damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Avernian Knight",
     "flavor": "Your strike delivers a dark curse, debilitating your foe and lending power to your next attack.",
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. Will</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage. Until the end of your next turn, the target takes a -2 penalty to attack rolls, and your weapon attacks against the target deal 2d6 extra damage.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, the target takes a -2 penalty to attack rolls, and your weapon attacks against the target deal 2d6 extra damage."
@@ -22,19 +21,18 @@
   "Hellforged Blade": {
     "id": "'10567",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Avernian Knight",
     "frequency": "Daily",
     "level": "20",
     "name": "Hellforged Blade",
     "type": "Knight",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHellforged Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10567\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Avernian Knight Attack 20</span>Hellforged Blade</h1><p class=\\\"flavor\\\"><i>Runes of red fire begin glowing on your weapon. Each foe you strike bursts into flame and is assailed by supernatural dread.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b>, <b>Fire</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and the target is marked, takes a -2 penalty to all defenses, and takes ongoing 10 fire damage (save ends all).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 5 fire damage (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Avernian Knight",
     "flavor": "Runes of red fire begin glowing on your weapon. Each foe you strike bursts into flame and is assailed by supernatural dread.",
     "keywords": [
       "Arcane, Fear, Fire, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and the target is marked, takes a -2 penalty to all defenses, and takes ongoing 10 fire damage (save ends all).</p><p class=\"powerstat\">Miss: Half damage, and ongoing 5 fire damage (save ends).</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is marked, takes a -2 penalty to all defenses, and takes ongoing 10 fire damage (save ends all).",
@@ -43,19 +41,18 @@
   "Avernian Challenge": {
     "id": "'10568",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Avernian Knight",
     "frequency": "Encounter",
     "level": "12",
     "name": "Avernian Challenge",
     "type": "Knight",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAvernian Challenge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10568\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Avernian Knight Utility 12</span>Avernian Challenge</h1><p class=\\\"flavor\\\"><i>You teleport a short distance and challenge nearby enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport 5 squares and then mark each enemy adjacent to you until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Avernian Knight",
     "flavor": "You teleport a short distance and challenge nearby enemies.",
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You teleport 5 squares and then mark each enemy adjacent to you until the end of your next turn.</p>",
+    "range": "Personal <",
     "effect": "You teleport 5 squares and then mark each enemy adjacent to you until the end of your next turn."
   }
 }

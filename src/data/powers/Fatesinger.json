@@ -2,19 +2,18 @@
   "Fragment of the Song": {
     "id": "'5462",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Fatesinger",
     "frequency": "Daily",
     "level": "26",
     "name": "Fragment of the Song",
     "type": "Utility",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFragment of the Song\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5462\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Fatesinger Utility 26</span>Fragment of the Song</h1><p class=\\\"flavor\\\"><i>You sing a verse of the Song of Heroes, honoring champions past, present, and yet to come. Surrounded by its melodies, you and your allies are spurred to incredible heroism.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of emboldening music that lasts until the end of your next turn. While within the zone, you and each ally can spend an action point to take two extra actions, instead of one. As a move action, you can move the zone 3 squares.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 170.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Fatesinger",
     "flavor": "You sing a verse of the Song of Heroes, honoring champions past, present, and yet to come. Surrounded by its melodies, you and your allies are spurred to incredible heroism.",
     "keywords": [
       "Arcane, Zone"
     ],
-    "range": "Close burst 5</p><p class=\"flavor\">Effect: The burst creates a zone of emboldening music that lasts until the end of your next turn. While within the zone, you and each ally can spend an action point to take two extra actions, instead of one. As a move action, you can move the zone 3 squares.</p><p class=\"powerstat\">Sustain Minor: The zone persists.</p>",
+    "range": "Close burst 5<",
     "effect": "The burst creates a zone of emboldening music that lasts until the end of your next turn. While within the zone, you and each ally can spend an action point to take two extra actions, instead of one. As a move action, you can move the zone 3 squares.",
     "sustainMinor": "The zone persists."
   }

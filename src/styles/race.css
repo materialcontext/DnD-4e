@@ -1,0 +1,9 @@
+.name {
+    @apply bg-prussian;
+    @apply text-ivory;
+    @apply leading-none;
+    @apply font-bold;
+    @apply text-3xl;
+    @apply px-2;
+    @apply py-1;
+}

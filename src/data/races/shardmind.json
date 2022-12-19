@@ -1,0 +1,31 @@
+{
+  "name": "Shardmind",
+  "height": "5' 9\" - 6' 2\"",
+  "weight": "180 - 230 lbs",
+  "abilityScores": "+2 Intelligence, +2 Charisma or +2 Wisdom",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, Deep Speech, choice of one other",
+  "uniqueFeatures": {
+    "telepathy": "You can communicate telepathically with any creature within 5 squares of you that has a language.",
+    "shardSwarm": "You have the shard swarm power.",
+    "livingConstruct": "You are a living construct. You do not need to eat, drink, breathe, or sleep. You never make Endurance checks to resist the effect of starvation, thirst, or suffocation. All other conditions and effects affect you normally.",
+    "immortalOrigin": "Your spirit is native to the Astral Sea, so you are considered an immortal creature for the purpose of effects that relate to creature origin.",
+    "crystallineMind": "You have resist 5 psychic. The resistance increases to 10 at 11th level and 15 at 21st level.",
+    "skillBonuses": "+2 Arcana, +2 Endurance, +2 to choice of one other.",
+    "vision": "Normal"
+  },
+  "physTxt": "Shardminds are crystalline creatures consisting of hundreds of small shards of translucent green, white, red, or amber crystal assembled into humanoid form and animated by a force of pure psionic energy. Shardminds choose their forms to mimic the shapes of humanoids; some take on forms that seem more masculine, while others appear more feminine. A shardmind’s animating force glows dimly from within each of its component shards, emanating most brightly from where the eyes of a natural humanoid would be. This inner light sheds dim light in a shardmind’s space, but a shardmind individual can squelch the light with an instant’s concentration—in order to hide in the dark, for example.",
+  "refSource": "Player\\'s Handbook 3, page ",
+  "flavorTxt": "Raw psionic energy barely contained in a body of gleaming crystalline shards",
+  "power": "Shard Swarm",
+  "characteristics": [
+    "detached",
+    "insightful",
+    "intellectual",
+    "logical",
+    "thoughtful",
+    "volatile"
+  ],
+  "tipsTxt": "Shardminds are fragments of pure thought given life and substance. They are logical, emotionally distant, and naive to the ways of society in the world. Some approach life with innocent curiosity, eager to embrace the wealth of experiences the world has to offer, while others remain reserved and aloof, bearing a higher purpose in mind at all times. Though they often seem dispassionate, when a strong emotion seizes them, they experience it powerfully. For example, shardminds don’t get annoyed; they become enraged."
+}

@@ -2,19 +2,18 @@
   "Zealous Strike": {
     "id": "'5175",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Horned Champion",
     "frequency": "Encounter",
     "level": "11",
     "name": "Zealous Strike",
     "type": "Champion",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nZealous Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5175\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Horned Champion Attack 11</span>Zealous Strike</h1><p class=\\\"flavor\\\"><i>With a roar, you charge at your enemies to deliver an overwhelming attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC. If the target is bloodied, you gain a +2 bonus to the attack roll.</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage, and you knock the target prone.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Make the attack one more time against the same target or a different one.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 167.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Horned Champion",
     "flavor": "With a roar, you charge at your enemies to deliver an overwhelming attack.",
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC. If the target is bloodied, you gain a +2 bonus to the attack roll.</p><p class=\"flavor\">Hit: 1[W] + Strength modifier damage, and you knock the target prone.</p><p class=\"powerstat\">Effect: Make the attack one more time against the same target or a different one.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC. If the target is bloodied, you gain a +2 bonus to the attack roll.",
     "onHit": "1[W] + Strength modifier damage, and you knock the target prone.",
@@ -23,37 +22,35 @@
   "Impetuous Stride": {
     "id": "'5176",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Horned Champion",
     "frequency": "Encounter",
     "level": "12",
     "name": "Impetuous Stride",
     "type": "Champion",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nImpetuous Stride\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5176\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Horned Champion Utility 12</span>Impetuous Stride</h1><p class=\\\"flavor\\\"><i>Primal energy surrounds you as you push through the enemies’ ranks. Only a fool would dare strike you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You move your speed. If any creature makes an opportunity attack against you during this movement, that creature takes damage equal to 5 + your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 167.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Horned Champion",
     "flavor": "Primal energy surrounds you as you push through the enemies’ ranks. Only a fool would dare strike you.",
     "keywords": [
       "Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You move your speed. If any creature makes an opportunity attack against you during this movement, that creature takes damage equal to 5 + your Wisdom modifier.</p>",
+    "range": "Personal <",
     "effect": "You move your speed. If any creature makes an opportunity attack against you during this movement, that creature takes damage equal to 5 + your Wisdom modifier."
   },
   "Form of the Leaping Stag": {
     "id": "'5177",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Horned Champion",
     "frequency": "Daily",
     "level": "20",
     "name": "Form of the Leaping Stag",
     "type": "Champion",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForm of the Leaping Stag\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5177\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Horned Champion Attack 20</span>Form of the Leaping Stag</h1><p class=\\\"flavor\\\"><i>Great horns sprout from your head as primal power quickens your step. Your charging assault can leave an enemy senseless.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the guardian form of the leaping stag until the end of the encounter. While you are in this form, you gain a +4 bonus to speed. In addition, as a move action, you can move your speed and gain a +2 power bonus to AC against opportunity attacks until the end of your turn. During this movement, you can move through any enemy’s space, marking that enemy until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Special</b>: Once during this encounter, you can use the Form of the Leaping Stag Attack power while you are in this form.<br/></p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Form of the Leaping Stag Attack</h1><p class=\\\"flavor\\\"><i>Great horns sprout from your head as primal power quickens your step. Your charging assault can leave an enemy senseless.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: The Form of the Leaping Stag power must be active to use this power.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Before the attack, you move your speed.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and the target is stunned until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 167.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Horned Champion",
     "flavor": "Great horns sprout from your head as primal power quickens your step. Your charging assault can leave an enemy senseless.",
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the guardian form of the leaping stag until the end of the encounter. While you are in this form, you gain a +4 bonus to speed. In addition, as a move action, you can move your speed and gain a +2 power bonus to AC against opportunity attacks until the end of your turn. During this movement, you can move through any enemy’s space, marking that enemy until the end of your next turn.</p><p class=\"powerstat\">Special: Once during this encounter, you can use the Form of the Leaping Stag Attack power while you are in this form.",
+    "range": "Personal <",
     "effect": "Before the attack, you move your speed.",
     "special": "Once during this encounter, you can use the Form of the Leaping Stag Attack power while you are in this form.<br/>",
     "requirement": "The Form of the Leaping Stag power must be active to use this power.",

@@ -2,19 +2,18 @@
   "Explosive Outburst": {
     "id": "'9378",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Wrathbearer",
     "frequency": "Encounter",
     "level": "11",
     "name": "Explosive Outburst",
     "type": "Attack",
     "sourceRef": "Dragon Magazine 378",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nExplosive Outburst\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9378\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Wrathbearer Attack 11</span>Explosive Outburst</h1><p class=\\\"flavor\\\"><i>Your wrath reaches a boil and you explode with violence, ripping your weapon through your foes in one savage sweep.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Invigorating</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and if the target is marked by you, it falls prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wrathbearer",
     "flavor": "Your wrath reaches a boil and you explode with violence, ripping your weapon through your foes in one savage sweep.",
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and if the target is marked by you, it falls prone.</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and if the target is marked by you, it falls prone."
@@ -22,19 +21,18 @@
   "Unequaled Might": {
     "id": "'9379",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Wrathbearer",
     "frequency": "Daily",
     "level": "20",
     "name": "Unequaled Might",
     "type": "Attack",
     "sourceRef": "Dragon Magazine 378",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnequaled Might\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9379\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wrathbearer Attack 20</span>Unequaled Might</h1><p class=\\\"flavor\\\"><i>Your attack hits your enemies hard and they cannot find the strength to stand.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Invigorating</b>, <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage, and the target falls prone. Until the end of the encounter, when the target stands up while adjacent to you, you can make a melee basic attack against the target as an opportunity action.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target falls prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wrathbearer",
     "flavor": "Your attack hits your enemies hard and they cannot find the strength to stand.",
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage, and the target falls prone. Until the end of the encounter, when the target stands up while adjacent to you, you can make a melee basic attack against the target as an opportunity action.</p><p class=\"powerstat\">Miss: Half damage, and the target falls prone.</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target falls prone. Until the end of the encounter, when the target stands up while adjacent to you, you can make a melee basic attack against the target as an opportunity action.",
@@ -43,19 +41,18 @@
   "Mocking Target": {
     "id": "'9380",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Wrathbearer",
     "frequency": "Daily",
     "level": "12",
     "name": "Mocking Target",
     "type": "Utility",
     "sourceRef": "Dragon Magazine 378",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMocking Target\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9380\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wrathbearer Utility 12</span>Mocking Target</h1><p class=\\\"flavor\\\"><i>No attack against you is good enough to escape your scathing, infuriating tongue.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, when an enemy attacks you, it is marked until the end of your next turn, unless the attack reduces you to 0 hit points or fewer.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wrathbearer",
     "flavor": "No attack against you is good enough to escape your scathing, infuriating tongue.",
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the stance ends, when an enemy attacks you, it is marked until the end of your next turn, unless the attack reduces you to 0 hit points or fewer.</p>",
+    "range": "Personal <",
     "effect": "Until the stance ends, when an enemy attacks you, it is marked until the end of your next turn, unless the attack reduces you to 0 hit points or fewer."
   }
 }

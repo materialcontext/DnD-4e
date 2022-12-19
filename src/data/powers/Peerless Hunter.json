@@ -2,19 +2,18 @@
   "Hunter's Grasping Trap": {
     "id": "'13613",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Peerless Hunter",
     "frequency": "Encounter",
     "level": "12",
     "name": "Hunter's Grasping Trap",
     "type": "Hunter",
     "sourceRef": "Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHunter's Grasping Trap\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13613\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Peerless Hunter Utility 12</span>Hunter's Grasping Trap</h1><p class=\\\"flavor\\\"><i>You gather wisps of primal magic and form them into a spectral trap, one that lies hidden from your enemies’ view. When a foe stumbles into the trap, a thick vine emerges from the ground to wrap around it.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One square</p><p class=\\\"flavor\\\"><b>Effect</b>: The target becomes a zone that lasts until the end of the encounter or until an enemy enters it. Without a Perception check (DC 10 + your level + your Wisdom modifier) your enemies notice neither the zone nor your use of this power. When an enemy enters the zone, the enemy’s movement ends, you can slide it up to 4 squares, and it is slowed until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 168.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Peerless Hunter",
     "flavor": "You gather wisps of primal magic and form them into a spectral trap, one that lies hidden from your enemies’ view. When a foe stumbles into the trap, a thick vine emerges from the ground to wrap around it.",
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One square</p><p class=\"flavor\">Effect: The target becomes a zone that lasts until the end of the encounter or until an enemy enters it. Without a Perception check (DC 10 + your level + your Wisdom modifier) your enemies notice neither the zone nor your use of this power. When an enemy enters the zone, the enemy’s movement ends, you can slide it up to 4 squares, and it is slowed until the end of its next turn.</p>",
+    "range": "Ranged 10<",
     "target": "One square",
     "effect": "The target becomes a zone that lasts until the end of the encounter or until an enemy enters it. Without a Perception check (DC 10 + your level + your Wisdom modifier) your enemies notice neither the zone nor your use of this power. When an enemy enters the zone, the enemy’s movement ends, you can slide it up to 4 squares, and it is slowed until the end of its next turn."
   }

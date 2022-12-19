@@ -2,19 +2,18 @@
   "Shadowbite Strike": {
     "id": "'4694",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Hellborn Shadow",
     "frequency": "Encounter",
     "level": "11",
     "name": "Shadowbite Strike",
     "type": "Shadow",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadowbite Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4694\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hellborn Shadow Attack 11</span>Shadowbite Strike</h1><p class=\\\"flavor\\\"><i>Just before you loose your attack, you whisper a word of power to make your enemy more vulnerable to your attacks and to cover yourself in a thin veil of darkness.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Target</b>: One or two creatures</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC (main weapon and off-hand weapon), two attacks</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier + Charisma modifier damage per attack, and the target gains vulnerable 5 to your attacks until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain concealment until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 63.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Hellborn Shadow",
     "flavor": "Just before you loose your attack, you whisper a word of power to make your enemy more vulnerable to your attacks and to cover yourself in a thin veil of darkness.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Requirement: You must be wielding two melee weapons.</p><p class=\"powerstat\">Target: One or two creatures</p><p class=\"powerstat\">Attack: Strength vs. AC (main weapon and off-hand weapon), two attacks</p><p class=\"flavor\">Hit: 1[W] + Strength modifier + Charisma modifier damage per attack, and the target gains vulnerable 5 to your attacks until the end of your next turn.</p><p class=\"powerstat\">Effect: You gain concealment until the start of your next turn.</p>",
+    "range": "Melee weapon<",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One or two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -24,37 +23,35 @@
   "Wings of Devilry": {
     "id": "'4695",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Hellborn Shadow",
     "frequency": "Encounter",
     "level": "12",
     "name": "Wings of Devilry",
     "type": "Shadow",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWings of Devilry\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4695\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hellborn Shadow Utility 12</span>Wings of Devilry</h1><p class=\\\"flavor\\\"><i>You surge aloft on tattered, leathery wings. When you land, they dissolve into foul-smelling smoke.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You fly a number of squares equal to your speed and must land at the end of this movement. You then gain concealment until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 63.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Hellborn Shadow",
     "flavor": "You surge aloft on tattered, leathery wings. When you land, they dissolve into foul-smelling smoke.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You fly a number of squares equal to your speed and must land at the end of this movement. You then gain concealment until the end of your next turn.</p>",
+    "range": "Personal <",
     "effect": "You fly a number of squares equal to your speed and must land at the end of this movement. You then gain concealment until the end of your next turn."
   },
   "Balefire Scourge": {
     "id": "'4696",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Hellborn Shadow",
     "frequency": "Daily",
     "level": "20",
     "name": "Balefire Scourge",
     "type": "Shadow",
     "sourceRef": "Martial Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBalefire Scourge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4696\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Hellborn Shadow Attack 20</span>Balefire Scourge</h1><p class=\\\"flavor\\\"><i>With a word of power, infernal flames erupt all over your weapons, lending fire and speed to your attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and the target takes ongoing 10 fire damage and loses any fire resistance or immunity (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain concealment until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 63.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Hellborn Shadow",
     "flavor": "With a word of power, infernal flames erupt all over your weapons, lending fire and speed to your attacks.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"flavor\">Requirement: You must be wielding two melee weapons.</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and the target takes ongoing 10 fire damage and loses any fire resistance or immunity (save ends both).</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You gain concealment until the end of your next turn.</p>",
+    "range": "Close burst 1<",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",

@@ -2,38 +2,36 @@
   "Trace Chance": {
     "id": "'8274",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Rrathmal",
     "frequency": "Encounter",
     "level": "11",
     "name": "Trace Chance",
     "type": "Attack",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTrace Chance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8274\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rrathmal Attack 11</span>Trace Chance</h1><p class=\\\"flavor\\\"><i>By peering into the future, you pick through the possibilities to anticipate your enemy’s next action.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a +2 bonus to the attack roll of the next at-will melee attack you make against the target before the end of your next turn. If that attack hits, it is automatically a critical hit.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 18.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Rrathmal",
     "flavor": "By peering into the future, you pick through the possibilities to anticipate your enemy’s next action.",
     "keywords": [
       "&nbsp;&nbsp;Ranged 5</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: You gain a +2 bonus to the attack roll of the next at-will melee attack you make against the target before the end of your next turn. If that attack hits, it is automatically a critical hit.</p>"
     ],
-    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: You gain a +2 bonus to the attack roll of the next at-will melee attack you make against the target before the end of your next turn. If that attack hits, it is automatically a critical hit.</p>",
+    "range": "Ranged 5<",
     "target": "One creature",
     "effect": "You gain a +2 bonus to the attack roll of the next at-will melee attack you make against the target before the end of your next turn. If that attack hits, it is automatically a critical hit."
   },
   "Vengeance Shroud": {
     "id": "'8275",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Rrathmal",
     "frequency": "Daily",
     "level": "20",
     "name": "Vengeance Shroud",
     "type": "Attack",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVengeance Shroud\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8275\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Rrathmal Attack 20</span>Vengeance Shroud</h1><p class=\\\"flavor\\\"><i>Exerting your will, you force order onto the chaos of battle and turn the hostility of your adversaries into suffering.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psychic</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Targets</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity or Wisdom + 6 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Dexterity or Wisdom modifier psychic damage. The first time the target hits or misses on each of its turns, it takes 10 psychic damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of order that lasts until the end of your next turn. While within the zone, any ally gains the following benefit: The first time the ally makes an attack roll on each of his or her turns, he or she can choose to take 10 on the attack roll, rather than roll a d20</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 18.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Rrathmal",
     "flavor": "Exerting your will, you force order onto the chaos of battle and turn the hostility of your adversaries into suffering.",
     "keywords": [
       "Psychic, Zone"
     ],
-    "range": "Close burst 2</p><p class=\"powerstat\">Targets: Each enemy in the burst</p><p class=\"powerstat\">Attack: Dexterity or Wisdom + 6 vs. Will</p><p class=\"flavor\">Hit: 2d10 + Dexterity or Wisdom modifier psychic damage. The first time the target hits or misses on each of its turns, it takes 10 psychic damage (save ends).</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: The burst creates a zone of order that lasts until the end of your next turn. While within the zone, any ally gains the following benefit: The first time the ally makes an attack roll on each of his or her turns, he or she can choose to take 10 on the attack roll, rather than roll a d20</p><p class=\"powerstat\">Sustain Minor: The zone persists.</p>",
+    "range": "Close burst 2<",
     "targets": "Each enemy in the burst",
     "attack": "Dexterity or Wisdom + 6 vs. Will",
     "onHit": "2d10 + Dexterity or Wisdom modifier psychic damage. The first time the target hits or misses on each of its turns, it takes 10 psychic damage (save ends).",
@@ -44,19 +42,18 @@
   "Rrathmal Pursuit": {
     "id": "'9679",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Rrathmal",
     "frequency": "At-Will",
     "level": "12",
     "name": "Rrathmal Pursuit",
     "type": "Utility",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRrathmal Pursuit\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9679\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Rrathmal Utility 12</span>Rrathmal Pursuit</h1><p class=\\\"flavor\\\"><i>Even as your opponent withdraws, you are in motion, cutting off its retreat.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp;<br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An adjacent enemy shifts away from you</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift your speed to a square adjacent to the triggering enemy.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 18.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Rrathmal",
     "flavor": "Even as your opponent withdraws, you are in motion, cutting off its retreat.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An adjacent enemy shifts away from you</p><p class=\"flavor\">Effect: You shift your speed to a square adjacent to the triggering enemy.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An adjacent enemy shifts away from you</p><p class=\"flavor\">Effect: You shift your speed to a square adjacent to the triggering enemy.</p>",
+    "range": "Personal <",
     "trigger": "An adjacent enemy shifts away from you",
     "effect": "You shift your speed to a square adjacent to the triggering enemy."
   }

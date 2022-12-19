@@ -2,19 +2,18 @@
   "Telekinetic Leap": {
     "id": "'2474",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Githyanki",
     "frequency": "Encounter",
     "level": "0",
     "name": "Telekinetic Leap",
     "type": "Racial",
     "sourceRef": "Monster Manual",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTelekinetic Leap\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2474\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Githyanki Racial Power</span>Telekinetic Leap</h1><p class=\\\"flavor\\\"><i>You hurl yourself or one of your allies safely through the air using your mind.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can fly up to 5 squares. If this power is used on an ally, that ally must remain in your line of sight at all times during the effect.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217207200\\\" target=\\\"_new\\\">Monster Manual</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Githyanki",
     "flavor": "You hurl yourself or one of your allies safely through the air using your mind.",
     "keywords": [
       "&nbsp;&nbsp;Ranged 10</p><p class=\"powerstat\">Target: You or one ally</p><p class=\"flavor\">Effect: The target can fly up to 5 squares. If this power is used on an ally, that ally must remain in your line of sight at all times during the effect.</p>"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: You or one ally</p><p class=\"flavor\">Effect: The target can fly up to 5 squares. If this power is used on an ally, that ally must remain in your line of sight at all times during the effect.</p>",
+    "range": "Ranged 10<",
     "target": "You or one ally",
     "effect": "The target can fly up to 5 squares. If this power is used on an ally, that ally must remain in your line of sight at all times during the effect."
   }

@@ -2,19 +2,18 @@
   "Pillar of Power": {
     "id": "'5965",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Hellbringer",
     "frequency": "Encounter",
     "level": "11",
     "name": "Pillar of Power",
     "type": "Attack",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPillar of Power\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5965\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Hellbringer Attack 11</span>Pillar of Power</h1><p class=\\\"flavor\\\"><i>You call up a pillar of fire that rises from the bowels of the Nine Hells and incinerates your foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Constitution modifier fire damage. Each creature adjacent to the target takes fire damage equal to half the damage dealt.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 91.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Hellbringer",
     "flavor": "You call up a pillar of fire that rises from the bowels of the Nine Hells and incinerates your foe.",
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Constitution vs. Reflex</p><p class=\"flavor\">Hit: 2d8 + Constitution modifier fire damage. Each creature adjacent to the target takes fire damage equal to half the damage dealt.</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "2d8 + Constitution modifier fire damage. Each creature adjacent to the target takes fire damage equal to half the damage dealt."
@@ -22,19 +21,18 @@
   "Gates of Hell": {
     "id": "'5966",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Hellbringer",
     "frequency": "Daily",
     "level": "12",
     "name": "Gates of Hell",
     "type": "Utility",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGates of Hell\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5966\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Hellbringer Utility 12</span>Gates of Hell</h1><p class=\\\"flavor\\\"><i>You open a gate through Hell to connect points on the battlefield. Your allies can pass through it unharmed, but your foes cannot.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Two unoccupied squares</p><p class=\\\"flavor\\\"><b>Effect</b>: You create a dimensional rift between the two target squares that lasts until the end of your next turn. Any creature that enters one of the target squares can move to the other target square as if it were adjacent to that square. A creature cannot pass through the rift if either square is occupied by another creature. Each enemy that moves from one gate square to the other takes 1d10 + your Constitution modifier fire damage.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The gates persist.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 91.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Hellbringer",
     "flavor": "You open a gate through Hell to connect points on the battlefield. Your allies can pass through it unharmed, but your foes cannot.",
     "keywords": [
       "Arcane, Fire"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: Two unoccupied squares</p><p class=\"flavor\">Effect: You create a dimensional rift between the two target squares that lasts until the end of your next turn. Any creature that enters one of the target squares can move to the other target square as if it were adjacent to that square. A creature cannot pass through the rift if either square is occupied by another creature. Each enemy that moves from one gate square to the other takes 1d10 + your Constitution modifier fire damage.</p><p class=\"powerstat\">Sustain Minor: The gates persist.</p>",
+    "range": "Ranged 10<",
     "target": "Two unoccupied squares",
     "effect": "You create a dimensional rift between the two target squares that lasts until the end of your next turn. Any creature that enters one of the target squares can move to the other target square as if it were adjacent to that square. A creature cannot pass through the rift if either square is occupied by another creature. Each enemy that moves from one gate square to the other takes 1d10 + your Constitution modifier fire damage.",
     "sustainMinor": "The gates persist."
@@ -42,19 +40,18 @@
   "Unleash the Inferno": {
     "id": "'5967",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Hellbringer",
     "frequency": "Daily",
     "level": "20",
     "name": "Unleash the Inferno",
     "type": "Attack",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnleash the Inferno\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5967\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Hellbringer Attack 20</span>Unleash the Inferno</h1><p class=\\\"flavor\\\"><i>You call up an earth-shaking column of fire, which burns and knocks down your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Constitution modifier fire damage, and you knock the target prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 91.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Hellbringer",
     "flavor": "You call up an earth-shaking column of fire, which burns and knocks down your foes.",
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Constitution vs. Fortitude</p><p class=\"flavor\">Hit: 2d10 + Constitution modifier fire damage, and you knock the target prone.</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "range": "Close burst 10<",
     "target": "Each enemy in the burst",
     "attack": "Constitution vs. Fortitude",
     "onHit": "2d10 + Constitution modifier fire damage, and you knock the target prone.",

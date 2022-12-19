@@ -1,0 +1,50 @@
+---
+import Head from '../components/Head.astro'
+
+const {name, flavorTxt, height, weight,
+  abilityScores, size, speed, vision,
+  languages, skillBonuses, power,
+  uniqueFeatures, characteristics,
+  femNames, mascNames, physTxt, tipsTxt
+} = Astro.props.data
+
+let uniqueEntries = Object.entries(uniqueFeatures);
+
+---
+<!DOCTYPE html>
+<html lang="en">
+  <Head name={name}/>
+  <div class="p-3">
+    <h1 class="name">{name}</h1>
+    <div class="mb-6 px-2 leading-relaxed">{flavorTxt}</div>
+    <blockquote class="bg-gainsboro mb-6 pb-2 shadow-sm">
+      <div class="font-bold text-lg m-0 bg-pgl-red text-ivory px-2 py-1 mb-2">RACIAL TRAITS</div>
+      <div class="px-2 pb-1"><b>Average Height</b>: {height}</div>
+      <div class="px-2 pb-1"><b>Average Weight</b>: {weight}</div>
+      <div class="px-2 pb-1"><b>Ability scores</b>: {abilityScores}</div>
+      <div class="px-2 pb-1"><b>Size</b>: {size}</div>
+      <div class="px-2 pb-1"><b>Speed</b>: {speed}</div>
+      <div class="px-2 pb-1"><b>Vision</b>: {vision}</div>
+      <div class="px-2 pb-1"><b>Languages</b>: {languages}</div>
+      <div class="px-2 pb-1"><b>Skill Bonuses</b>: {skillBonuses}</div>
+      <ul class="px-2">
+        {uniqueEntries.map(([key, value]) => {
+          key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
+          return <li class="pb-1"><b>{key}</b>: {value}</li>
+        })}
+      </ul>
+    </blockquote>
+    <!-- <h1>{power}</h1> -->
+    <div class="mb-6 px-2 leading-relaxed"><h3 class="text-base font-bold leading-none tracking-normal mb-1">PHYSICAL QUALITIES</h3>{physTxt}</div>
+    <div class="mb-6 px-2 leading-relaxed"><h3 class="text-base font-bold leading-none tracking-normal mb-1">PLAYING A {name.toUpperCase()}</h3> {tipsTxt}</div>
+    <div class="mb-6 px-2"><b>{name} Characteristics</b>: {characteristics.join(', ')}</div>
+    <div class="mb-6 px-2"><b>{femNames.length > 0 && "Female Names"}</b>: {femNames.join(', ')}</div>
+    <div class="mb-6 px-2"><b>{mascNames.length > 0 && "Male Names"}</b>: {mascNames.join(', ')}</div>
+    <p class="px-2 mb-3">
+    Published in <a
+      href="http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000"
+      target="_new">Heroes of the Feywild</a
+    >, page(s) 22.d
+    </p>
+  </div>
+</html>

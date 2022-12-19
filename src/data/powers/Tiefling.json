@@ -2,19 +2,18 @@
   "Infernal Wrath": {
     "id": "'1628",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Tiefling",
     "frequency": "Encounter",
     "level": "0",
     "name": "Infernal Wrath",
     "type": "Racial",
     "sourceRef": "Player's Handbook, Player's Handbook Races: Tiefling, Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nInfernal Wrath\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1628\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Tiefling Racial Power</span>Infernal Wrath</h1><p class=\\\"flavor\\\"><i>You call upon the hellfire burning in your soul to punish your enemy.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within 10 squares of you hits you.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target takes 1d6 + Intelligence modifier or Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Intelligence modifier or Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Intelligence modifier or Charisma modifier fire damage.<br/></p><br/>Update (11/16/2010)<br/>Updated to match Essentials data.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 48, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253830000\\\" target=\\\"_new\\\">Player's Handbook Races: Tiefling</a>, page(s) 6, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 270.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling",
     "flavor": "You call upon the hellfire burning in your soul to punish your enemy.",
     "keywords": [
       "Fire"
     ],
-    "range": "Close burst 10</p><p class=\"powerstat\">Trigger: An enemy within 10 squares of you hits you.</p><p class=\"powerstat\">Target: The triggering enemy in the burst</p><p class=\"flavor\">Effect: The target takes 1d6 + Intelligence modifier or Charisma modifier fire damage.",
+    "range": "Close burst 10<",
     "trigger": "An enemy within 10 squares of you hits you.",
     "target": "The triggering enemy in the burst",
     "effect": "The target takes 1d6 + Intelligence modifier or Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Intelligence modifier or Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Intelligence modifier or Charisma modifier fire damage.<br/>"
@@ -22,74 +21,70 @@
   "Hellish Gaze": {
     "id": "'16387",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Tiefling",
     "frequency": "Encounter",
     "level": "2",
     "name": "Hellish Gaze",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHellish Gaze\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16387\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Tiefling Racial Utility 2</span>Hellish Gaze</h1><p class=\\\"flavor\\\"><i>Seeing doom reflected in your fiery eyes, your enemy turns away from your countenance.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature that can see you</p><p class=\\\"flavor\\\"><b>Effect</b>: Make a Bluff check opposed by the target’s passive Insight. If the check succeeds, you can push the target 1 square, and the target cannot make opportunity attacks against you until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling",
     "flavor": "Seeing doom reflected in your fiery eyes, your enemy turns away from your countenance.",
     "keywords": [
       "Fear"
     ],
-    "range": "Ranged 5</p><p class=\"powerstat\">Target: One creature that can see you</p><p class=\"flavor\">Effect: Make a Bluff check opposed by the target’s passive Insight. If the check succeeds, you can push the target 1 square, and the target cannot make opportunity attacks against you until the start of your next turn.</p>",
+    "range": "Ranged 5<",
     "target": "One creature that can see you",
     "effect": "Make a Bluff check opposed by the target’s passive Insight. If the check succeeds, you can push the target 1 square, and the target cannot make opportunity attacks against you until the start of your next turn."
   },
   "Grim Isolation": {
     "id": "'16388",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Tiefling",
     "frequency": "Daily",
     "level": "6",
     "name": "Grim Isolation",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGrim Isolation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16388\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Tiefling Racial Utility 6</span>Grim Isolation</h1><p class=\\\"flavor\\\"><i>You don’t need help. You can protect yourself just fine.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the grim isolation stance. Until the stance ends, you gain a +2 power bonus to all defenses while no ally is adjacent to you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling",
     "flavor": "You don’t need help. You can protect yourself just fine.",
     "keywords": [
       "Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the grim isolation stance. Until the stance ends, you gain a +2 power bonus to all defenses while no ally is adjacent to you.</p>",
+    "range": "Personal <",
     "effect": "You assume the grim isolation stance. Until the stance ends, you gain a +2 power bonus to all defenses while no ally is adjacent to you."
   },
   "Hellfire Shroud": {
     "id": "'16389",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Tiefling",
     "frequency": "Encounter",
     "level": "10",
     "name": "Hellfire Shroud",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHellfire Shroud\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16389\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Tiefling Racial Utility 10</span>Hellfire Shroud</h1><p class=\\\"flavor\\\"><i>Flickering black flames swirl around you to shield you from harm and punish those who would attack you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you gain a +2 power bonus to all defenses. In addition, whenever an enemy adjacent to you hits you with a melee attack, that enemy takes fire damage equal to your Charisma modifier.</p><br/>Update (4/18/2012)<br/>Updated in March 2012.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling",
     "flavor": "Flickering black flames swirl around you to shield you from harm and punish those who would attack you.",
     "keywords": [
       "Fire"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a +2 power bonus to all defenses. In addition, whenever an enemy adjacent to you hits you with a melee attack, that enemy takes fire damage equal to your Charisma modifier.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to all defenses. In addition, whenever an enemy adjacent to you hits you with a melee attack, that enemy takes fire damage equal to your Charisma modifier."
   },
   "Eternal Returns": {
     "id": "'16390",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Tiefling",
     "frequency": "Daily",
     "level": "16",
     "name": "Eternal Returns",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEternal Returns\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16390\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Tiefling Racial Utility 16</span>Eternal Returns</h1><p class=\\\"flavor\\\"><i>Your defeat opens a door for your return to the world.</i></p><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You drop below 1 hit point.</p><p class=\\\"flavor\\\"><b>Effect</b>: You are removed from play until the start of your next turn. At the start of your next turn, you can spend a healing surge, and you return to play in an unoccupied space within 5 squares of the last space you occupied.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Tiefling",
     "flavor": "Your defeat opens a door for your return to the world.",
     "keywords": [
       "Healing"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You drop below 1 hit point.</p><p class=\"flavor\">Effect: You are removed from play until the start of your next turn. At the start of your next turn, you can spend a healing surge, and you return to play in an unoccupied space within 5 squares of the last space you occupied.</p>",
+    "range": "Personal <",
     "trigger": "You drop below 1 hit point.",
     "effect": "You are removed from play until the start of your next turn. At the start of your next turn, you can spend a healing surge, and you return to play in an unoccupied space within 5 squares of the last space you occupied."
   }

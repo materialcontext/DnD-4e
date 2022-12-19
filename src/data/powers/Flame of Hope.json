@@ -2,19 +2,18 @@
   "Numinous Cascade": {
     "id": "'5201",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Flame of Hope",
     "frequency": "Encounter",
     "level": "11",
     "name": "Numinous Cascade",
     "type": "of",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNuminous Cascade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5201\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Flame of Hope Attack 11</span>Numinous Cascade</h1><p class=\\\"flavor\\\"><i>Brilliant fire streams from you to burn your foe, and cascades past that foe to sear another. Radiance dances across both targets, guiding the attacks of your allies against them.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Fire</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Wisdom modifier fire and radiant damage. Until the end of your next turn, your allies gain a +2 bonus to attack rolls against the primary target.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Make a secondary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature within 5 squares of the primary target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1d10 + Wisdom modifier fire and radiant damage. Until the end of your next turn, your allies gain a +2 bonus to attack rolls against the secondary target.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 116.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Flame of Hope",
     "flavor": "Brilliant fire streams from you to burn your foe, and cascades past that foe to sear another. Radiance dances across both targets, guiding the attacks of your allies against them.",
     "keywords": [
       "Divine, Fire, Implement, Radiant"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Wisdom vs. Reflex</p><p class=\"flavor\">Hit: 2d10 + Wisdom modifier fire and radiant damage. Until the end of your next turn, your allies gain a +2 bonus to attack rolls against the primary target.</p><p class=\"powerstat\">Effect: Make a secondary attack.</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Target: One creature within 5 squares of the primary target</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Wisdom vs. Reflex</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 1d10 + Wisdom modifier fire and radiant damage. Until the end of your next turn, your allies gain a +2 bonus to attack rolls against the secondary target.</p>",
+    "range": "Ranged 10<",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier fire and radiant damage. Until the end of your next turn, your allies gain a +2 bonus to attack rolls against the primary target.",
@@ -26,19 +25,18 @@
   "Sunburst Bulwark": {
     "id": "'5202",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Flame of Hope",
     "frequency": "Daily",
     "level": "20",
     "name": "Sunburst Bulwark",
     "type": "of",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSunburst Bulwark\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5202\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Flame of Hope Attack 20</span>Sunburst Bulwark</h1><p class=\\\"flavor\\\"><i>Radiant fire erupts from you, bringing respite to your allies and searing your foes, rooting your enemies in place.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Fire</b>, <b>Healing</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Wisdom modifier fire and radiant damage, and the target is immobilized until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Each ally in the burst can spend a healing surge and regains additional hit points equal to your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 116.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Flame of Hope",
     "flavor": "Radiant fire erupts from you, bringing respite to your allies and searing your foes, rooting your enemies in place.",
     "keywords": [
       "Divine, Fire, Healing, Implement, Radiant"
     ],
-    "range": "Close burst 3</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 2d8 + Wisdom modifier fire and radiant damage, and the target is immobilized until the end of your next turn.</p><p class=\"powerstat\">Effect: Each ally in the burst can spend a healing surge and regains additional hit points equal to your Intelligence modifier.</p>",
+    "range": "Close burst 3<",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier fire and radiant damage, and the target is immobilized until the end of your next turn.",
@@ -47,19 +45,18 @@
   "Blinding Ward": {
     "id": "'5203",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Flame of Hope",
     "frequency": "Daily",
     "level": "12",
     "name": "Blinding Ward",
     "type": "of",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlinding Ward\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5203\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Flame of Hope Utility 12</span>Blinding Ward</h1><p class=\\\"flavor\\\"><i>Brilliant fire erupts from your ally at your word, blinding the enemy who sought to harm your friend.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy within 10 squares of you makes an attack roll against you or your ally</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is blinded until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 116.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Flame of Hope",
     "flavor": "Brilliant fire erupts from your ally at your word, blinding the enemy who sought to harm your friend.",
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: An enemy within 10 squares of you makes an attack roll against you or your ally</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"flavor\">Effect: The target is blinded until the start of your next turn.</p>",
+    "range": "Ranged 10<",
     "trigger": "An enemy within 10 squares of you makes an attack roll against you or your ally",
     "target": "The triggering enemy",
     "effect": "The target is blinded until the start of your next turn."

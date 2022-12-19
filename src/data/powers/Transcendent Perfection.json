@@ -2,19 +2,18 @@
   "Riddle of Motion [Attack Technique]": {
     "id": "'13292",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Transcendent Perfection",
     "frequency": "Encounter",
     "level": "11",
     "name": "Riddle of Motion [Attack Technique]",
     "type": "Perfection",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRiddle of Motion [Attack Technique]\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13292\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Transcendent Perfection Attack 11</span>Riddle of Motion [Attack Technique]</h1><p class=\\\"flavor\\\"><i>Solving the riddle of motion lets you control your foe’s movement and keeps your enemies from doing the same to you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Full Discipline</b>, <b>Implement</b>, <b>Psionic</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Dexterity modifier psychic damage, and the target is either immobilized until the end of your next turn or you slide the target a number of squares equal to its speed.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Riddle of Motion [Movement Technique]</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Full Discipline</b>, <b>Psionic</b>, <b>Psychic</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one of the following effects. You move twice your speed and gain a +2 power bonus to all defenses against opportunity attacks provoked by this movement; or you can ignore forced movement until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Transcendent Perfection",
     "flavor": "Solving the riddle of motion lets you control your foe’s movement and keeps your enemies from doing the same to you.",
     "keywords": [
       "Full Discipline, Implement, Psionic, Psychic"
     ],
-    "range": "Melee touch</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. Will</p><p class=\"flavor\">Hit: 3d6 + Dexterity modifier psychic damage, and the target is either immobilized until the end of your next turn or you slide the target a number of squares equal to its speed.</p>",
+    "range": "Melee touch<",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3d6 + Dexterity modifier psychic damage, and the target is either immobilized until the end of your next turn or you slide the target a number of squares equal to its speed.",
@@ -23,19 +22,18 @@
   "Riddle of Invulnerability": {
     "id": "'13293",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Transcendent Perfection",
     "frequency": "Daily",
     "level": "20",
     "name": "Riddle of Invulnerability",
     "type": "Perfection",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRiddle of Invulnerability\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13293\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Transcendent Perfection Attack 20</span>Riddle of Invulnerability</h1><p class=\\\"flavor\\\"><i>A pulse of psychic power tears at your enemies, exploiting the weakness of their flesh and enhancing your resilience.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Psionic</b>, <b>Psychic</b>, <b>Stance</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy you can see in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Dexterity modifier psychic damage, and the target gains vulnerable 5 to all damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can enter the riddle of invulnerability stance. Until the stance ends, you gain resist 5 to all damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Transcendent Perfection",
     "flavor": "A pulse of psychic power tears at your enemies, exploiting the weakness of their flesh and enhancing your resilience.",
     "keywords": [
       "Implement, Psionic, Psychic, Stance"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy you can see in the burst</p><p class=\"powerstat\">Attack: Dexterity vs. Will</p><p class=\"flavor\">Hit: 3d10 + Dexterity modifier psychic damage, and the target gains vulnerable 5 to all damage (save ends).</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: You can enter the riddle of invulnerability stance. Until the stance ends, you gain resist 5 to all damage.</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy you can see in the burst",
     "attack": "Dexterity vs. Will",
     "onHit": "3d10 + Dexterity modifier psychic damage, and the target gains vulnerable 5 to all damage (save ends).",
@@ -45,19 +43,18 @@
   "Riddle of Health": {
     "id": "'13295",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Transcendent Perfection",
     "frequency": "Encounter",
     "level": "12",
     "name": "Riddle of Health",
     "type": "Perfection",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRiddle of Health\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13295\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Transcendent Perfection Utility 12</span>Riddle of Health</h1><p class=\\\"flavor\\\"><i>Your knowledge lets you cleanse the body of injury and incapacitation.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target spends a healing surge and makes a saving throw. If the saving throw is against a poison effect, it gains a +5 power bonus.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Transcendent Perfection",
     "flavor": "Your knowledge lets you cleanse the body of injury and incapacitation.",
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Ranged 5</p><p class=\"powerstat\">Target: You or one ally</p><p class=\"flavor\">Effect: The target spends a healing surge and makes a saving throw. If the saving throw is against a poison effect, it gains a +5 power bonus.</p>",
+    "range": "Ranged 5<",
     "target": "You or one ally",
     "effect": "The target spends a healing surge and makes a saving throw. If the saving throw is against a poison effect, it gains a +5 power bonus."
   }

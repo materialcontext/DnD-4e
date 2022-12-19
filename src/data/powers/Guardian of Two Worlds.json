@@ -2,19 +2,18 @@
   "Strike of the Sentinel": {
     "id": "'9977",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Guardian of Two Worlds",
     "frequency": "Encounter",
     "level": "11",
     "name": "Strike of the Sentinel",
     "type": "of",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStrike of the Sentinel\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9977\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Guardian of Two Worlds Attack 11</span>Strike of the Sentinel</h1><p class=\\\"flavor\\\"><i>Your attack forces your enemies to stand their ground and face your threat.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and any enemy adjacent to you and marked by you is immobilized until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of Two Worlds",
     "flavor": "Your attack forces your enemies to stand their ground and face your threat.",
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and any enemy adjacent to you and marked by you is immobilized until the end of its next turn.</p>",
+    "range": "Melee weapon<",
     "attack": "Strength vs. AC",
     "target": "One creature",
     "onHit": "2[W] + Strength modifier damage, and any enemy adjacent to you and marked by you is immobilized until the end of its next turn."
@@ -22,19 +21,18 @@
   "Form of the Stag Knight": {
     "id": "'9978",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Guardian of Two Worlds",
     "frequency": "Daily",
     "level": "20",
     "name": "Form of the Stag Knight",
     "type": "of",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForm of the Stag Knight\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9978\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Guardian of Two Worlds Attack 20</span>Form of the Stag Knight</h1><p class=\\\"flavor\\\"><i>You become the stag knight, a creature of legend that stalks the borderland to protect those who cannot protect themselves.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the form of the guardian of both worlds until the end of the encounter. While in this form, you can use Nature’s Wrath to mark any enemy within 2 squares instead of just adjacent enemies.<br/>Once during this encounter, you can use the Form of the Stag Knight Attack power while you are in this form.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Form of the Stag Knight Attack</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature marked by you hits an ally with a melee attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength modifier damage, and the ally hit with the triggering attack gains a +4 bonus to the defense that the triggering attack targeted until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Special</b>: When you spend an action point to gain an extra action while in this guardian form, and you have already used this attack, you gain another use of this attack this encounter.</p><p class=\\\"powerstat\\\"><b>Requirement</b>: The power Form of the Stag Knight must be active in order to use this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of Two Worlds",
     "flavor": "You become the stag knight, a creature of legend that stalks the borderland to protect those who cannot protect themselves.",
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the form of the guardian of both worlds until the end of the encounter. While in this form, you can use Nature’s Wrath to mark any enemy within 2 squares instead of just adjacent enemies.",
+    "range": "Personal <",
     "effect": "You assume the form of the guardian of both worlds until the end of the encounter. While in this form, you can use Nature’s Wrath to mark any enemy within 2 squares instead of just adjacent enemies.<br/>Once during this encounter, you can use the Form of the Stag Knight Attack power while you are in this form.",
     "trigger": "A creature marked by you hits an ally with a melee attack",
     "target": "The triggering enemy",
@@ -47,19 +45,18 @@
   "Stand of the Protector": {
     "id": "'9980",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Guardian of Two Worlds",
     "frequency": "Daily",
     "level": "12",
     "name": "Stand of the Protector",
     "type": "of",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStand of the Protector\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9980\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Guardian of Two Worlds Utility 12</span>Stand of the Protector</h1><p class=\\\"flavor\\\"><i>Those who stand near you are revived and refreshed by your stalwart presence.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: At the start of your turn, when you use your Font of Life class feature, a single ally adjacent to you can also make a single saving throw against an effect that a save can end as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Guardian of Two Worlds",
     "flavor": "Those who stand near you are revived and refreshed by your stalwart presence.",
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: At the start of your turn, when you use your Font of Life class feature, a single ally adjacent to you can also make a single saving throw against an effect that a save can end as a free action.</p>",
+    "range": "Personal <",
     "effect": "At the start of your turn, when you use your Font of Life class feature, a single ally adjacent to you can also make a single saving throw against an effect that a save can end as a free action."
   }
 }

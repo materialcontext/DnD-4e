@@ -2,19 +2,18 @@
   "Single Combat Assault": {
     "id": "'10719",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Lone Wolf",
     "frequency": "Encounter",
     "level": "11",
     "name": "Single Combat Assault",
     "type": "Wolf",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSingle Combat Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10719\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Lone Wolf Attack 11</span>Single Combat Assault</h1><p class=\\\"flavor\\\"><i>You challenge your foe to combat, riveting its attention on you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, the target is dazed until the end of your next turn, and if the target is within 5 squares of you, you pull it adjacent to you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Lone Wolf",
     "flavor": "You challenge your foe to combat, riveting its attention on you.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, the target is dazed until the end of your next turn, and if the target is within 5 squares of you, you pull it adjacent to you.</p>",
+    "range": "Ranged weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, the target is dazed until the end of your next turn, and if the target is within 5 squares of you, you pull it adjacent to you."
@@ -22,19 +21,18 @@
   "Disperse the Horde": {
     "id": "'10720",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Lone Wolf",
     "frequency": "Daily",
     "level": "20",
     "name": "Disperse the Horde",
     "type": "Wolf",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDisperse the Horde\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10720\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Lone Wolf Attack 20</span>Disperse the Horde</h1><p class=\\\"flavor\\\"><i>Focusing on your true opponent, you push away the insignificant foes surrounding you and clear a path to your prey.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst you can see</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage. If the target is your quarry, the attack deals 2[W] extra damage. Otherwise, you push the target 2 squares and knock it prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, or 2[W] + Strength modifier damage if the target is your quarry.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Lone Wolf",
     "flavor": "Focusing on your true opponent, you push away the insignificant foes surrounding you and clear a path to your prey.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst you can see</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage. If the target is your quarry, the attack deals 2[W] extra damage. Otherwise, you push the target 2 squares and knock it prone.</p><p class=\"powerstat\">Miss: Half damage, or 2[W] + Strength modifier damage if the target is your quarry.</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is your quarry, the attack deals 2[W] extra damage. Otherwise, you push the target 2 squares and knock it prone.",
@@ -43,19 +41,18 @@
   "Escape the Trap": {
     "id": "'10721",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Lone Wolf",
     "frequency": "At-Will",
     "level": "12",
     "name": "Escape the Trap",
     "type": "Wolf",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEscape the Trap\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10721\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Lone Wolf Utility 12</span>Escape the Trap</h1><p class=\\\"flavor\\\"><i>You outmaneuver your foes, slipping past their defenses.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be adjacent to two enemies.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You shift 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 50.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Lone Wolf",
     "flavor": "You outmaneuver your foes, slipping past their defenses.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You must be adjacent to two enemies.</p><p class=\"powerstat\">Effect: You shift 1 square.</p>",
+    "range": "Personal <",
     "requirement": "You must be adjacent to two enemies.",
     "effect": "You shift 1 square."
   }

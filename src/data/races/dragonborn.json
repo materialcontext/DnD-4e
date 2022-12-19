@@ -1,0 +1,62 @@
+{
+  "name": "Dragonborn",
+  "height": "6' 2\" - 6' 8\"",
+  "weight": "220 - 320 lbs",
+  "abilityScores": "+2 Charisma, +2 Constitution or +2 Strength",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, Draconic",
+  "uniqueFeatures": {
+    "dragonbornRacialPower": "When you select dragonborn as your character’s race, choose one of the following powers. Your dragonborn character gains that power.",
+    "dragonbornFury": "While you are bloodied, you gain a +1 racial bonus to attack rolls.",
+    "draconicHeritage": "Your healing surge value is equal to one-quarter of your maximum hit points + your Constitution modifier.",
+    "skillBonuses": "+2 History, +2 Intimidate.",
+    "vision": "Normal"
+  },
+  "physTxt": "Dragonborn resemble humanoid dragons. They’re covered in scaly hide, but they don’t have tails. They are tall and strongly built, often standing close to 6½ feet in height and weighing 300 pounds or more. Their hands and feet are strong, talonlike claws with three fingers and a thumb on each hand. A dragonborn’s head features a blunt snout, a strong brow, and distinctive frills at the cheek and ear. A dragonborn’s eyes are a shade of red or gold. Behind the brow, a crest of hornlike scales of various lengths resembles thick, ropy hair.  A typical dragonborn’s scales can be scarlet, gold, rust, ocher, bronze, or brown. Rarely do an individual’s scales match the hue of a chromatic or metallic dragon, and scale color gives no indication of the type of breath weapon a dragonborn uses. Most dragonborn have very fine scales over most of their body, giving their skin a leathery texture, with regions of larger scales on the forearms, lower legs and feet, shoulders, and thighs.  Young dragonborn grow faster than human children do. They walk hours after hatching, reach the size and development of a ten-year-old human child by the age of three, and reach adulthood by fifteen. They live about as long as humans do.",
+  "refSource": "Player\\'s Handbook, page ",
+  "flavorTxt": "Proud, honorable warriors, born from the blood of an ancient dragon god.",
+  "characteristics": [
+    "driven",
+    "honor-bound",
+    "noble",
+    "perfectionist",
+    "proud",
+    "reliable",
+    "reserved",
+    "rooted in ancient history"
+  ],
+  "femNames": [
+    "akra",
+    "biri",
+    "daar",
+    "harann",
+    "kava",
+    "korinn",
+    "mishann",
+    "nala",
+    "perra",
+    "raiann",
+    "sora",
+    "surina",
+    "thava"
+  ],
+  "mascNames": [
+    "abraxus",
+    "arjhan",
+    "balasar",
+    "bharhash",
+    "donaar",
+    "ghesh",
+    "heskan",
+    "kriv",
+    "medrash",
+    "nadarr",
+    "patrin",
+    "rhasgar",
+    "shamash",
+    "shedinn",
+    "torinn"
+  ],
+  "tipsTxt": "To a dragonborn, honor is more important than life itself. First and foremost, honor is tied to battlefield conduct. Adversaries should be treated with courtesy and respect, even if they are bitter enemies. Caution and discretion are key to a warrior’s survival, but fear is a disease and cowardice is a moral failing. The drive to behave honorably extends into the rest of a dragonborn’s life: Breaking an oath is the height of dishonor, and attention to honesty extends to every word. A commitment made must be carried out. Ultimately, a dragonborn takes responsibility for his or her actions and their consequences. A continual drive for self-improvement reveals an additional aspect of dragonborn honor. Dragonborn value skill and excellence in all endeavors. They hate to fail, and they push themselves to extreme efforts before they give up on something. A dragonborn holds mastery of a particular skill as a lifetime goal. Members of other races who share the same commitment find it easy to earn the respect of a dragonborn. Their draconic heritage gives the dragonborn a strong connection to Bahamut and Tiamat, the gods most closely associated with dragonkind. A rare few dragonborn offer fealty to both deities, but most believe that the two draconic gods represent a choice that every dragonborn must make, between Bahamut’s path of justice and honor and Tiamat’s hunger for greed and vengeance. Similarly, dragonborn often revere dragons, and they might ally themselves with such creatures should the opportunity present itself."
+}

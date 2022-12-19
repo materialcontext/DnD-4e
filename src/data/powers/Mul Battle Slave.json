@@ -2,19 +2,18 @@
   "Challenge of Blades": {
     "id": "'11740",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Mul Battle Slave",
     "frequency": "Encounter",
     "level": "11",
     "name": "Challenge of Blades",
     "type": "Battle",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nChallenge of Blades\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11740\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mul Battle Slave Attack 11</span>Challenge of Blades</h1><p class=\\\"flavor\\\"><i>You plunge into the fray with a strike at the legs of one foe, then shift and make a second strike at another foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength, Constitution, or Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and the target is slowed and marked by you until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You shift 2 squares and make a secondary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Strength, Constitution, or Wisdom vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and the target is slowed and marked by you until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mul Battle Slave",
     "flavor": "You plunge into the fray with a strike at the legs of one foe, then shift and make a second strike at another foe.",
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Primary Target: One creature</p><p class=\"powerstat\">Primary Attack: Strength, Constitution, or Wisdom vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and the target is slowed and marked by you until the end of your next turn.</p><p class=\"powerstat\">Effect: You shift 2 squares and make a secondary attack.</p><p class=\"flavor\">&nbsp;&nbsp;Secondary Target: One creature other than the primary target</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Strength, Constitution, or Wisdom vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 2[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and the target is slowed and marked by you until the end of your next turn.</p>",
+    "range": "Melee weapon<",
     "primaryTarget": "One creature",
     "attack": "Strength, Constitution, or Wisdom vs. AC",
     "onHit": "2[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and the target is slowed and marked by you until the end of your next turn.",
@@ -26,19 +25,18 @@
   "Made of Iron": {
     "id": "'11741",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Mul Battle Slave",
     "frequency": "Daily",
     "level": "20",
     "name": "Made of Iron",
     "type": "Battle",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMade of Iron\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11741\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Mul Battle Slave Attack 20</span>Made of Iron</h1><p class=\\\"flavor\\\"><i>You shrug off attacks; pain only makes you stronger.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Stance</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Effect</b>: You can assume the iron body stance. Until this stance ends, you have resist 5 to all damage.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Constitution, or Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and you mark the target until the stance ends.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mul Battle Slave",
     "flavor": "You shrug off attacks; pain only makes you stronger.",
     "keywords": [
       "Stance, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"flavor\">Effect: You can assume the iron body stance. Until this stance ends, you have resist 5 to all damage.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength, Constitution, or Wisdom vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier, Constitution modifier, or Wisdom modifier damage, and you mark the target until the stance ends.</p>",
+    "range": "Melee weapon<",
     "effect": "You can assume the iron body stance. Until this stance ends, you have resist 5 to all damage.",
     "target": "One creature",
     "attack": "Strength, Constitution, or Wisdom vs. AC",
@@ -47,19 +45,18 @@
   "Sudden Strength": {
     "id": "'11742",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Mul Battle Slave",
     "frequency": "Encounter",
     "level": "12",
     "name": "Sudden Strength",
     "type": "Battle",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSudden Strength\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11742\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mul Battle Slave Utility 12</span>Sudden Strength</h1><p class=\\\"flavor\\\"><i>You exert all the power of your mighty frame.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Special</b>: You can use this power only on your turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, you gain a +5 power bonus to Strength checks and Athletics checks, and your successful attacks also push the target 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Mul Battle Slave",
     "flavor": "You exert all the power of your mighty frame.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Special: You can use this power only on your turn.</p><p class=\"powerstat\">Effect: Until the end of your next turn, you gain a +5 power bonus to Strength checks and Athletics checks, and your successful attacks also push the target 1 square.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Special: You can use this power only on your turn.</p><p class=\"powerstat\">Effect: Until the end of your next turn, you gain a +5 power bonus to Strength checks and Athletics checks, and your successful attacks also push the target 1 square.</p>",
+    "range": "Personal <",
     "special": "You can use this power only on your turn.",
     "effect": "Until the end of your next turn, you gain a +5 power bonus to Strength checks and Athletics checks, and your successful attacks also push the target 1 square."
   }

@@ -2,19 +2,18 @@
   "Lightning Ripple": {
     "id": "'1838",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "War Wizard of Cormyr",
     "frequency": "Encounter",
     "level": "11",
     "name": "Lightning Ripple",
     "type": "Wizard",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLightning Ripple\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1838\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">War Wizard of Cormyr Attack 11</span>Lightning Ripple</h1><p class=\\\"flavor\\\"><i>Thunder claps as you bring your fists together before you. Waves of coursing blue lightning cut a wide swath in the enemy ranks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Lightning</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 6</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Intelligence modifier lightning damage. You gain a +2 power bonus to your next Intelligence-based attack roll on your next turn if you hit any targets with this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "War Wizard of Cormyr",
     "flavor": "Thunder claps as you bring your fists together before you. Waves of coursing blue lightning cut a wide swath in the enemy ranks.",
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close blast 6</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Intelligence vs. Reflex</p><p class=\"flavor\">Hit: 3d8 + Intelligence modifier lightning damage. You gain a +2 power bonus to your next Intelligence-based attack roll on your next turn if you hit any targets with this power.</p>",
+    "range": "Close blast 6<",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier lightning damage. You gain a +2 power bonus to your next Intelligence-based attack roll on your next turn if you hit any targets with this power."
@@ -22,38 +21,36 @@
   "One-Way Barrier": {
     "id": "'1839",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "War Wizard of Cormyr",
     "frequency": "Daily",
     "level": "12",
     "name": "One-Way Barrier",
     "type": "Wizard",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOne-Way Barrier\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1839\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">War Wizard of Cormyr Utility 12</span>One-Way Barrier</h1><p class=\\\"flavor\\\"><i>You erect an impenetrable wall of shimmering force, capable of turning aside a charging giant or a storm of ballistae.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Conjuration</b>, <b>Force</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> wall 4 within 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure an invisible wall of contiguous squares that is permeable to your arcane abilities. The wall can be 4 squares long and 4 squares high. The barrier does not prevent movement, but instead blocks line of effect for ranged and area attacks. However, your ranged and area attack powers ignore this barrier.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The wall persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "War Wizard of Cormyr",
     "flavor": "You erect an impenetrable wall of shimmering force, capable of turning aside a charging giant or a storm of ballistae.",
     "keywords": [
       "Arcane, Conjuration, Force"
     ],
-    "range": "Area wall 4 within 10</p><p class=\"flavor\">Effect: You conjure an invisible wall of contiguous squares that is permeable to your arcane abilities. The wall can be 4 squares long and 4 squares high. The barrier does not prevent movement, but instead blocks line of effect for ranged and area attacks. However, your ranged and area attack powers ignore this barrier.</p><p class=\"powerstat\">Sustain Minor: The wall persists.</p>",
+    "range": "Area wall 4 within 10<",
     "effect": "You conjure an invisible wall of contiguous squares that is permeable to your arcane abilities. The wall can be 4 squares long and 4 squares high. The barrier does not prevent movement, but instead blocks line of effect for ranged and area attacks. However, your ranged and area attack powers ignore this barrier.",
     "sustainMinor": "The wall persists."
   },
   "Storm of Victory": {
     "id": "'1840",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "War Wizard of Cormyr",
     "frequency": "Daily",
     "level": "20",
     "name": "Storm of Victory",
     "type": "Wizard",
     "sourceRef": "Forgotten Realms Player's Guide",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStorm of Victory\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1840\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">War Wizard of Cormyr Attack 20</span>Storm of Victory</h1><p class=\\\"flavor\\\"><i>You unleash the fury of the heavens. Thunder, lightning, and driving razored sleet sear flesh, melt shields, and blast armored plates to shards.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 3 within 20 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d6 + Intelligence modifier thunder damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Each target grants combat advantage to your allies until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 69.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "War Wizard of Cormyr",
     "flavor": "You unleash the fury of the heavens. Thunder, lightning, and driving razored sleet sear flesh, melt shields, and blast armored plates to shards.",
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Area burst 3 within 20 squares</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"powerstat\">Attack: Intelligence vs. Fortitude</p><p class=\"flavor\">Hit: 4d6 + Intelligence modifier thunder damage.</p><p class=\"powerstat\">Effect: Each target grants combat advantage to your allies until the end of your next turn.</p>",
+    "range": "Area burst 3 within 20 squares<",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d6 + Intelligence modifier thunder damage.",

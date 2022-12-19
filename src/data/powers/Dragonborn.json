@@ -2,19 +2,18 @@
   "Dragon Breath": {
     "id": "'1448",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Dragonborn",
     "frequency": "Encounter",
     "level": "0",
     "name": "Dragon Breath",
     "type": "Racial",
     "sourceRef": "Player's Handbook, Heroes of the Forgotten Kingdoms",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragon Breath\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1448\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonborn Racial Power</span>Dragon Breath</h1><p class=\\\"flavor\\\"><i>As you open your mouth with a roar, the deadly power of your draconic kin blasts forth to engulf your foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Varies</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Constitution modifier damage.</p><p class=\\\"powerstat\\\"><b>Special</b>: When you create your character, choose Strength, Constitution, or Dexterity as the ability score you use when making attack rolls with this power. You also choose the power’s damage type: acid, cold, fire, lightning, or poison. These two choices remain throughout your character’s life and do not change the power’s other effects.</p><br/>Update (11/16/2010)<br/>Updated to match Essentials data.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 34, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/247510000\\\" target=\\\"_new\\\">Heroes of the Forgotten Kingdoms</a>, page(s) 240.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonborn",
     "flavor": "As you open your mouth with a roar, the deadly power of your draconic kin blasts forth to engulf your foes.",
     "keywords": [
       "Varies"
     ],
-    "range": "Close blast 3</p><p class=\"powerstat\">Target: Each creature in the blast</p><p class=\"powerstat\">Attack: Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.",
+    "range": "Close blast 3<",
     "target": "Each creature in the blast",
     "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
     "onHit": "1d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Constitution modifier damage.",
@@ -23,19 +22,18 @@
   "Dragonfear": {
     "id": "'12577",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Dragonborn",
     "frequency": "Encounter",
     "level": "0",
     "name": "Dragonfear",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 388",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragonfear\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12577\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonborn Racial Power</span>Dragonfear</h1><p class=\\\"flavor\\\"><i>Your presence causes your enemies to quake and tremble.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5 (increase to close burst 10 at 21st level)</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength +2 vs. Will or Charisma +2 vs. Will<br/>Level 11: Strength + 4 vs. Will or Charisma + 4 vs. Will.<br/>Level 21: Strength + 6 vs. Will or Charisma + 6 vs. Will.</p><p class=\\\"flavor\\\"><b>Hit</b>: The target takes a -2 penalty to attack rolls and grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/388\\\" target=\\\"_new\\\">Dragon Magazine 388</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonborn",
     "flavor": "Your presence causes your enemies to quake and tremble.",
     "keywords": [
       "Fear"
     ],
-    "range": "Close burst 5 (increase to close burst 10 at 21st level)</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength +2 vs. Will or Charisma +2 vs. Will",
+    "range": "Close burst 5 (increase to close burst 10 at 21st level)<",
     "target": "Each enemy in the burst",
     "attack": "Strength +2 vs. Will or Charisma +2 vs. Will<br/>Level 11: Strength + 4 vs. Will or Charisma + 4 vs. Will.<br/>Level 21: Strength + 6 vs. Will or Charisma + 6 vs. Will.",
     "onHit": "The target takes a -2 penalty to attack rolls and grants combat advantage until the end of your next turn."
@@ -43,76 +41,72 @@
   "Dragon’s Dive": {
     "id": "'16379",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Dragonborn",
     "frequency": "Encounter",
     "level": "6",
     "name": "Dragon’s Dive",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDragon’s Dive\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16379\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonborn Racial Utility 6</span>Dragon’s Dive</h1><p class=\\\"flavor\\\"><i>You set your sights on your foe and dive through the fray, heedless of the threats of others.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You charge an enemy.</p><p class=\\\"flavor\\\"><b>Effect</b>: Your movement made as part of the charge does not provoke opportunity attacks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonborn",
     "flavor": "You set your sights on your foe and dive through the fray, heedless of the threats of others.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You charge an enemy.</p><p class=\"flavor\">Effect: Your movement made as part of the charge does not provoke opportunity attacks.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You charge an enemy.</p><p class=\"flavor\">Effect: Your movement made as part of the charge does not provoke opportunity attacks.</p>",
+    "range": "Personal <",
     "trigger": "You charge an enemy.",
     "effect": "Your movement made as part of the charge does not provoke opportunity attacks."
   },
   "Baleful Glance": {
     "id": "'16380",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Dragonborn",
     "frequency": "Encounter",
     "level": "2",
     "name": "Baleful Glance",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBaleful Glance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16380\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonborn Racial Utility 2</span>Baleful Glance</h1><p class=\\\"flavor\\\"><i>You single out an enemy, holding the foe’s gaze with your menacing stare.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 5 (increases to close burst 10 at 21st level)</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy you can see in the burst that is affected by your dragonfear</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is dazed (save ends).</p><br/>Update (4/18/2012)<br/>Updated in March 2012.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonborn",
     "flavor": "You single out an enemy, holding the foe’s gaze with your menacing stare.",
     "keywords": [
       "Fear"
     ],
-    "range": "Close burst 5 (increases to close burst 10 at 21st level)</p><p class=\"powerstat\">Target: One enemy you can see in the burst that is affected by your dragonfear</p><p class=\"flavor\">Effect: The target is dazed (save ends).</p>",
+    "range": "Close burst 5 (increases to close burst 10 at 21st level)<",
     "target": "One enemy you can see in the burst that is affected by your dragonfear",
     "effect": "The target is dazed (save ends)."
   },
   "Arkhosian Resilience": {
     "id": "'16381",
     "action": "Immediate Interrupt",
-    "powerClass": "",
+    "powerClass": "Dragonborn",
     "frequency": "Daily",
     "level": "10",
     "name": "Arkhosian Resilience",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nArkhosian Resilience\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16381\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dragonborn Racial Utility 10</span>Arkhosian Resilience</h1><p class=\\\"flavor\\\"><i>You call forth the elemental forces that power your breath weapon to shield you from harm.</i></p><p class=\\\"powerstat\\\"><b>Daily</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You take damage of a type that matches the damage type you chose for your dragon breath power.</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonborn",
     "flavor": "You call forth the elemental forces that power your breath weapon to shield you from harm.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage of a type that matches the damage type you chose for your dragon breath power.</p><p class=\"flavor\">Effect: You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You take damage of a type that matches the damage type you chose for your dragon breath power.</p><p class=\"flavor\">Effect: You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter.</p>",
+    "range": "Personal <",
     "trigger": "You take damage of a type that matches the damage type you chose for your dragon breath power.",
     "effect": "You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter."
   },
   "Triumphant Roar": {
     "id": "'16382",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Dragonborn",
     "frequency": "Encounter",
     "level": "16",
     "name": "Triumphant Roar",
     "type": "Racial",
     "sourceRef": "Dragon Magazine 408",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTriumphant Roar\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16382\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dragonborn Racial Utility 16</span>Triumphant Roar</h1><p class=\\\"flavor\\\"><i>Your success gives you such enthusiasm that you loose a roar that strikes fear into all the foes around you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: You use dragonfear even if it is already expended.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/408\\\" target=\\\"_new\\\">Dragon Magazine 408</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dragonborn",
     "flavor": "Your success gives you such enthusiasm that you loose a roar that strikes fear into all the foes around you.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.</p><p class=\"flavor\">Effect: You use dragonfear even if it is already expended.</p>"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.</p><p class=\"flavor\">Effect: You use dragonfear even if it is already expended.</p>",
+    "range": "Personal <",
     "trigger": "You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.",
     "effect": "You use dragonfear even if it is already expended."
   }

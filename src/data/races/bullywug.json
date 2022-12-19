@@ -1,0 +1,30 @@
+{
+  "name": "Bullywug",
+  "height": "5'4\" - 6'0\"",
+  "weight": "150 - 240 lbs",
+  "abilityScores": "+2 Constitution, +2 Dexterity",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, Primordial",
+  "uniqueFeatures": {
+    "swampWalk": "A creature that has swamp walk ignores difficult terrain that is mud or shallow water.",
+    "rancidAir": "(Poison) aura 2: Any enemy that spends a healing surge within the aura is weakened until the end of its next turn.",
+    "skillBonuses": "+2 Athletics.",
+    "vision": "Normal"
+  },
+  "physTxt": "",
+  "refSource": "Monster Manual 2, page ",
+  "flavorTxt": "",
+  "femNames": [
+    "duwup",
+    "gibub",
+    "gyup",
+    "wubip"
+  ],
+  "mascNames": [
+    "brup",
+    "lup",
+    "mub",
+    "yub"
+  ]
+}

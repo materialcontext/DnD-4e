@@ -1,0 +1,62 @@
+{
+  "name": "Wild Elf",
+  "height": "5' 4\" - 6'0\"",
+  "weight": "130 - 170 lbs",
+  "abilityScores": "+2 Dexterity, +2 Intelligence or +2 Wisdom",
+  "size": "Medium",
+  "speed": "7 squares.",
+  "languages": "Common, Elven",
+  "uniqueFeatures": {
+    "wildStep": "You ignore difficult terrain when you shift.",
+    "groupAwareness": "You grant non-elf allies within 5 squares of you a +1 racial bonus to Perception checks.",
+    "feyOrigin": "Your ancestors were native to the Feywild, so you are considered a fey creature for the purpose of effects that relate to creature origin.",
+    "elvenWeaponProficiency": "You gain proficiency with the longbow and the shortbow.",
+    "skillBonuses": "+2 Nature, +2 Perception.",
+    "vision": "Low-Light",
+    "subtleStep": "Wild elves train for battle from the time they can walk, and their teachers place early emphasis on evasion and escape. By the time wild elves are of warrior age, those childhood lessons allow them to move deeper into battle as well as to break free of it. Benefits: Once per encounter, you can shift up to your speed as a move action. This benefit replaces elven accuracy."
+  },
+  "physTxt": "Elves are slender, athletic folk about as tall as humans. They have the same range of complexions as humans, tending more toward tan or brown hues. A typical elf ’s hair color is dark brown, autumn orange, mossy green, or deep gold. Elven ears are long and pointed, while an elf ’s eyes are vibrant blue, violet, or green. Elves favor a wild and loose look to their hair.  Elves mature at about the same rate as humans, but they show few effects of age past adulthood. The first sign of an elf ’s advancing age is typically a change in hair color—sometimes graying but usually darkening or taking on more autumnal hues. Most elves live to be well over two hundred years old and remain vigorous almost to the end.",
+  "refSource": "Player\\'s Handbook, page ",
+  "flavorTxt": "Of all the fey folk of the world, wild elves live most closely with nature. Indeed, many wild elves see themselves as the only true examples of their race, since they are the only ones living as their ancient ancestors did. At first glance, because of their body paint and beadwork, wild elves can easily be mistaken for primitive hunter-gatherers. Their culture, however, contains complex and intricate traditions that have survived largely unchanged from the time of the Crown Wars. Wild elves are more isolationist than their sun elf cousins—often violently so. Those wild elves who do interact with members of other races are sometimes seen as tainted from that contact. As such, wild elves who choose to forge strong bonds with others must often forsake close ties with their kin.",
+  "power": "Elven Accuracy",
+  "characteristics": [
+    "agile",
+    "friendly",
+    "intuitive",
+    "joyful",
+    "perceptive",
+    "quick",
+    "quiet",
+    "wild"
+  ],
+  "femNames": [
+    "adrie",
+    "birel",
+    "chaedi",
+    "dara",
+    "enna",
+    "faral",
+    "irann",
+    "keyleth",
+    "lia",
+    "mialee",
+    "shava",
+    "thia",
+    "valna "
+  ],
+  "mascNames": [
+    "adran",
+    "aelar",
+    "beiro",
+    "carric",
+    "erdan",
+    "gennal",
+    "heian",
+    "lucan",
+    "peren",
+    "rolen",
+    "theren",
+    "varis"
+  ],
+  "tipsTxt": "All other cultures are wrong. You might have left your people by your own choice, but that decision has not changed how you view the world. Among your kind, all ways but those of the wild elves represent corruption and iniquity. Though you might be more open to the customs of other folk than most of your kind, it is hard for you to entirely set aside your distrust of those people. The world knows more than any elf. You view the natural world and its primal spirits as cousins and friends. You see portents in the change of the weather, the flight paths of birds, and the health of plants. Those places where the world cannot display its natural order—cities, dungeons, magical terrain—seem dangerous to you, because you cannot depend on signs you cannot read. Birds fly because they have wings. Wild elves are nomads who must constantly wander. Corellon placed that wanderlust in the souls of your people—the impetus that brought the first elves to the world. Just as a bird must fly when its wings are strong enough, so too must you move on when the spirit takes you."
+}

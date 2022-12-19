@@ -2,19 +2,18 @@
   "Impose Your Will": {
     "id": "'12396",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Wielder of the Way",
     "frequency": "Encounter",
     "level": "11",
     "name": "Impose Your Will",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nImpose Your Will\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12396\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Wielder of the Way Attack 11</span>Impose Your Will</h1><p class=\\\"flavor\\\"><i>As your weapon strikes home, the aspect of your psyche imbued into your weapon burns into your foe’s mind and influences its actions.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + ability modifier damage, and the target grants combat advantage until the end of your next turn.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: 2[W] + ability modifier damage. Until the end of your next turn, the target grants combat advantage and any attack it makes provokes opportunity attacks.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wielder of the Way",
     "flavor": "As your weapon strikes home, the aspect of your psyche imbued into your weapon burns into your foe’s mind and influences its actions.",
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 2[W] + ability modifier damage, and the target grants combat advantage until the end of your next turn.</p>Augment 2",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Primary ability vs. AC",
     "onHit": "2[W] + ability modifier damage. Until the end of your next turn, the target grants combat advantage and any attack it makes provokes opportunity attacks."
@@ -22,19 +21,18 @@
   "Subjugate the Will": {
     "id": "'12397",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Wielder of the Way",
     "frequency": "Daily",
     "level": "20",
     "name": "Subjugate the Will",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSubjugate the Will\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12397\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wielder of the Way Attack 20</span>Subjugate the Will</h1><p class=\\\"flavor\\\"><i>With a vicious attack, you fully embed the facet of your soul into your foe, overtaking its mind.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + ability modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The target is dominated (save ends). While it is dominated, the target gains a bonus to attack rolls equal to your primary ability modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wielder of the Way",
     "flavor": "With a vicious attack, you fully embed the facet of your soul into your foe, overtaking its mind.",
     "keywords": [
       "Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 2[W] + ability modifier damage.</p><p class=\"powerstat\">Effect: The target is dominated (save ends). While it is dominated, the target gains a bonus to attack rolls equal to your primary ability modifier.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Primary ability vs. AC",
     "onHit": "2[W] + ability modifier damage.",
@@ -43,19 +41,18 @@
   "Rebind the Will": {
     "id": "'12398",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Wielder of the Way",
     "frequency": "Encounter",
     "level": "12",
     "name": "Rebind the Will",
     "type": "of",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRebind the Will\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12398\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Wielder of the Way Utility 12</span>Rebind the Will</h1><p class=\\\"flavor\\\"><i>You imbue your weapon with more of the untamed parts of your psyche, transferring those reckless emotions to your enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Target</b>: One weapon you are wielding</p><p class=\\\"flavor\\\"><b>Effect</b>: The next melee weapon attack you make with the target weapon dazes any creature it hits until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wielder of the Way",
     "flavor": "You imbue your weapon with more of the untamed parts of your psyche, transferring those reckless emotions to your enemies.",
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch</p><p class=\"powerstat\">Target: One weapon you are wielding</p><p class=\"flavor\">Effect: The next melee weapon attack you make with the target weapon dazes any creature it hits until the end of your next turn.</p>",
+    "range": "Melee touch<",
     "target": "One weapon you are wielding",
     "effect": "The next melee weapon attack you make with the target weapon dazes any creature it hits until the end of your next turn."
   }

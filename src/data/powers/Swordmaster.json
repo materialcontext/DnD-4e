@@ -2,19 +2,18 @@
   "Fantastic Flourish": {
     "id": "'1600",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Swordmaster",
     "frequency": "Encounter",
     "level": "12",
     "name": "Fantastic Flourish",
     "type": "Utility",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFantastic Flourish\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1600\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Swordmaster Utility 12</span>Fantastic Flourish</h1><p class=\\\"flavor\\\"><i>With perfect timing, you flick one enemy’s blood into the eyes of another.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"flavor\\\"><b>Requirement</b>: During this turn you must have hit an enemy with a melee attack using a light blade or heavy blade (not a polearm).</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy other than the one you hit</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is marked until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 88, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Swordmaster",
     "flavor": "With perfect timing, you flick one enemy’s blood into the eyes of another.",
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 5</p><p class=\"flavor\">Requirement: During this turn you must have hit an enemy with a melee attack using a light blade or heavy blade (not a polearm).</p><p class=\"powerstat\">Target: One enemy other than the one you hit</p><p class=\"flavor\">Effect: The target is marked until the end of your next turn.</p>",
+    "range": "Ranged 5<",
     "requirement": "During this turn you must have hit an enemy with a melee attack using a light blade or heavy blade (not a polearm).",
     "target": "One enemy other than the one you hit",
     "effect": "The target is marked until the end of your next turn."
@@ -22,19 +21,18 @@
   "Precision Cut": {
     "id": "'1601",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Swordmaster",
     "frequency": "Encounter",
     "level": "11",
     "name": "Precision Cut",
     "type": "Attack",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrecision Cut\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1601\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Swordmaster Attack 11</span>Precision Cut</h1><p class=\\\"flavor\\\"><i>You slip your blade past an enemy’s armor and slice your foe just so, leaving a bleeding gash.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\"><b>Special</b>: When you make an opportunity attack, you can use this power in place of a melee basic attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 88, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Swordmaster",
     "flavor": "You slip your blade past an enemy’s armor and slice your foe just so, leaving a bleeding gash.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. Reflex</p><p class=\"flavor\">Hit: 3[W] + Strength modifier damage.</p><p class=\"powerstat\">Special: When you make an opportunity attack, you can use this power in place of a melee basic attack.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -43,19 +41,18 @@
   "Crescendo Sword": {
     "id": "'1602",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Swordmaster",
     "frequency": "Daily",
     "level": "20",
     "name": "Crescendo Sword",
     "type": "Attack",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCrescendo Sword\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1602\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Swordmaster Attack 20</span>Crescendo Sword</h1><p class=\\\"flavor\\\"><i>With a tremendous roar, you swing your blade over your head and make lunging strikes at all nearby enemies. At the end of the flurry, you regain some of your power.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must use this power with a light blade or a heavy blade (not a polearm).</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy you can see in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: If you hit at least one target, you regain the use of one daily attack power that you have already used today. If you miss every target, you regain the use of one encounter attack power that you have already used during this encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 88, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Swordmaster",
     "flavor": "With a tremendous roar, you swing your blade over your head and make lunging strikes at all nearby enemies. At the end of the flurry, you regain some of your power.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1</p><p class=\"flavor\">Requirement: You must use this power with a light blade or a heavy blade (not a polearm).</p><p class=\"powerstat\">Target: Each enemy you can see in the burst</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage.</p><p class=\"powerstat\">Effect: If you hit at least one target, you regain the use of one daily attack power that you have already used today. If you miss every target, you regain the use of one encounter attack power that you have already used during this encounter.</p>",
+    "range": "Close burst 1<",
     "requirement": "You must use this power with a light blade or a heavy blade (not a polearm).",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",

@@ -2,19 +2,18 @@
   "Driving Force": {
     "id": "'9289",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Vengeful Crusader",
     "frequency": "Encounter",
     "level": "11",
     "name": "Driving Force",
     "type": "Crusader",
     "sourceRef": "Dragon Magazine 377",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDriving Force\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9289\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Vengeful Crusader Attack 11</span>Driving Force</h1><p class=\\\"flavor\\\"><i>Your enemy falls back under your ferocious attack, but if it thinks it can escape your wrath, it is mistaken.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature you have marked</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and the target is pushed 2 squares. If the target makes an attack that doesn’t include you before the start of your next turn, you can make a charge attack against the target as an immediate interrupt.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/377\\\" target=\\\"_new\\\">Dragon Magazine 377</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Vengeful Crusader",
     "flavor": "Your enemy falls back under your ferocious attack, but if it thinks it can escape your wrath, it is mistaken.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature you have marked</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength modifier damage, and the target is pushed 2 squares. If the target makes an attack that doesn’t include you before the start of your next turn, you can make a charge attack against the target as an immediate interrupt.</p>",
+    "range": "Melee weapon<",
     "target": "One creature you have marked",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is pushed 2 squares. If the target makes an attack that doesn’t include you before the start of your next turn, you can make a charge attack against the target as an immediate interrupt."
@@ -22,19 +21,18 @@
   "Crusader's Vengeance": {
     "id": "'9290",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Vengeful Crusader",
     "frequency": "Daily",
     "level": "20",
     "name": "Crusader's Vengeance",
     "type": "Crusader",
     "sourceRef": "Dragon Magazine 377",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCrusader's Vengeance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9290\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Vengeful Crusader Attack 20</span>Crusader's Vengeance</h1><p class=\\\"flavor\\\"><i>Your hate guides your attack and delivers a punishing strike that reverberates for the final moments the enemy has left to live.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, when the target makes an attack that does not include you, it takes damage equal to your Strength modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/377\\\" target=\\\"_new\\\">Dragon Magazine 377</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Vengeful Crusader",
     "flavor": "Your hate guides your attack and delivers a punishing strike that reverberates for the final moments the enemy has left to live.",
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength vs. AC</p><p class=\"flavor\">Hit: 4[W] + Strength modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p><p class=\"flavor\">Effect: Until the end of the encounter, when the target makes an attack that does not include you, it takes damage equal to your Strength modifier.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -44,19 +42,18 @@
   "Crusader's Stance": {
     "id": "'9294",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Vengeful Crusader",
     "frequency": "Daily",
     "level": "12",
     "name": "Crusader's Stance",
     "type": "Crusader",
     "sourceRef": "Dragon Magazine 377",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCrusader's Stance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9294\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Vengeful Crusader Utility 12</span>Crusader's Stance</h1><p class=\\\"flavor\\\"><i>As your enemies attack, your anger only grows, filling you with righteous indignation that you can use to punish them for their transgressions.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, when an ally you can see takes damage from an enemy’s attack, you gain a +1 bonus to your next attack roll and damage roll before the end of your next turn. This bonus is cumulative, to a maximum of +5.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/377\\\" target=\\\"_new\\\">Dragon Magazine 377</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Vengeful Crusader",
     "flavor": "As your enemies attack, your anger only grows, filling you with righteous indignation that you can use to punish them for their transgressions.",
     "keywords": [
       "Divine, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the stance ends, when an ally you can see takes damage from an enemy’s attack, you gain a +1 bonus to your next attack roll and damage roll before the end of your next turn. This bonus is cumulative, to a maximum of +5.</p>",
+    "range": "Personal <",
     "effect": "Until the stance ends, when an ally you can see takes damage from an enemy’s attack, you gain a +1 bonus to your next attack roll and damage roll before the end of your next turn. This bonus is cumulative, to a maximum of +5."
   }
 }

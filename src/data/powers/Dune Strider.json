@@ -2,19 +2,18 @@
   "Screaming Sand Strike": {
     "id": "'12368",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dune Strider",
     "frequency": "Encounter",
     "level": "11",
     "name": "Screaming Sand Strike",
     "type": "Strider",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nScreaming Sand Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12368\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dune Strider Attack 11</span>Screaming Sand Strike</h1><p class=\\\"flavor\\\"><i>The wind howls when your weapon connects, as the desert spirits clamor for blood to quench their bitter thirst.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Thunder</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + ability modifier thunder damage, and the target is blinded until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain concealment until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dune Strider",
     "flavor": "The wind howls when your weapon connects, as the desert spirits clamor for blood to quench their bitter thirst.",
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 1[W] + ability modifier thunder damage, and the target is blinded until the end of your next turn.</p><p class=\"powerstat\">Effect: You gain concealment until the end of your next turn.</p>",
+    "range": "Melee or Ranged weapon<",
     "target": "One creature",
     "attack": "Primary ability vs. AC",
     "onHit": "1[W] + ability modifier thunder damage, and the target is blinded until the end of your next turn.",
@@ -23,19 +22,18 @@
   "Bane of the Crimson Sun": {
     "id": "'12369",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Dune Strider",
     "frequency": "Daily",
     "level": "20",
     "name": "Bane of the Crimson Sun",
     "type": "Strider",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBane of the Crimson Sun\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12369\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Dune Strider Attack 20</span>Bane of the Crimson Sun</h1><p class=\\\"flavor\\\"><i>The accursed sun lends strength to your attack, leaving your enemy gasping beneath its punishing heat.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + ability modifier damage, and the target is weakened (save ends). Each time the target fails this saving throw, it takes 10 fire damage and is knocked prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is weakened until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dune Strider",
     "flavor": "The accursed sun lends strength to your attack, leaving your enemy gasping beneath its punishing heat.",
     "keywords": [
       "Fire, Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Primary ability vs. AC</p><p class=\"flavor\">Hit: 2[W] + ability modifier damage, and the target is weakened (save ends). Each time the target fails this saving throw, it takes 10 fire damage and is knocked prone.</p><p class=\"powerstat\">Miss: Half damage, and the target is weakened until the end of your next turn.</p>",
+    "range": "Melee or Ranged weapon<",
     "target": "One creature",
     "attack": "Primary ability vs. AC",
     "onHit": "2[W] + ability modifier damage, and the target is weakened (save ends). Each time the target fails this saving throw, it takes 10 fire damage and is knocked prone.",
@@ -44,19 +42,18 @@
   "Dust Storm Dance": {
     "id": "'12370",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Dune Strider",
     "frequency": "Encounter",
     "level": "12",
     "name": "Dust Storm Dance",
     "type": "Strider",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDust Storm Dance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12370\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Dune Strider Utility 12</span>Dust Storm Dance</h1><p class=\\\"flavor\\\"><i>You become a raging dust storm, sending your enemies stumbling as you sweep across the battlefield.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You swap places with a creature of your size or smaller within 3 squares of you. Then you can swap places with a different creature of your size or smaller within 3 squares of you. Each creature you swap places with grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Dune Strider",
     "flavor": "You become a raging dust storm, sending your enemies stumbling as you sweep across the battlefield.",
     "keywords": [
       "Primal"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You swap places with a creature of your size or smaller within 3 squares of you. Then you can swap places with a different creature of your size or smaller within 3 squares of you. Each creature you swap places with grants combat advantage until the end of your next turn.</p>",
+    "range": "Personal <",
     "effect": "You swap places with a creature of your size or smaller within 3 squares of you. Then you can swap places with a different creature of your size or smaller within 3 squares of you. Each creature you swap places with grants combat advantage until the end of your next turn."
   }
 }

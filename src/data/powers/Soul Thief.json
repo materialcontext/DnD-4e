@@ -2,19 +2,18 @@
   "Soul Shadow": {
     "id": "'9493",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Soul Thief",
     "frequency": "Encounter",
     "level": "11",
     "name": "Soul Shadow",
     "type": "Thief",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoul Shadow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9493\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Soul Thief Attack 11</span>Soul Shadow</h1><p class=\\\"flavor\\\"><i>Infused with shadow magic, your weapon slashes into your enemy’s very soul.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can expend a soul shard to prevent the attack roll from ending your shade form.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Soul Thief",
     "flavor": "Infused with shadow magic, your weapon slashes into your enemy’s very soul.",
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. Will</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage.</p><p class=\"powerstat\">Special: You can expend a soul shard to prevent the attack roll from ending your shade form.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -23,19 +22,18 @@
   "Final Ending": {
     "id": "'9494",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Soul Thief",
     "frequency": "Daily",
     "level": "20",
     "name": "Final Ending",
     "type": "Thief",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFinal Ending\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9494\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Soul Thief Attack 20</span>Final Ending</h1><p class=\\\"flavor\\\"><i>The souls you have captured scream in agony as your shadow consumes them to lend power to this attack.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you can expend a soul shard once per round as a free action to gain a +2 bonus to a single attack roll against the target.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Soul Thief",
     "flavor": "The souls you have captured scream in agony as your shadow consumes them to lend power to this attack.",
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: Until the end of the encounter, you can expend a soul shard once per round as a free action to gain a +2 bonus to a single attack roll against the target.</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 5[W] + Dexterity modifier damage.</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "effect": "Until the end of the encounter, you can expend a soul shard once per round as a free action to gain a +2 bonus to a single attack roll against the target.",
     "attack": "Dexterity vs. AC",
@@ -45,19 +43,18 @@
   "Stalking Phantom": {
     "id": "'9495",
     "action": "Move",
-    "powerClass": "",
+    "powerClass": "Soul Thief",
     "frequency": "At-Will",
     "level": "12",
     "name": "Stalking Phantom",
     "type": "Thief",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStalking Phantom\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9495\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Soul Thief Utility 12</span>Stalking Phantom</h1><p class=\\\"flavor\\\"><i>You move like a ghost, passing through your enemies.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be under the effect of shade form.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You shift your speed and can move through enemies’ spaces during the shift.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 33.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Soul Thief",
     "flavor": "You move like a ghost, passing through your enemies.",
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You must be under the effect of shade form.</p><p class=\"powerstat\">Effect: You shift your speed and can move through enemies’ spaces during the shift.</p>",
+    "range": "Personal <",
     "requirement": "You must be under the effect of shade form.",
     "effect": "You shift your speed and can move through enemies’ spaces during the shift."
   }

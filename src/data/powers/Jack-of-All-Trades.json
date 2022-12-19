@@ -2,19 +2,18 @@
   "Scoundrel's Philosophy": {
     "id": "'10856",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Jack-of-All-Trades",
     "frequency": "Encounter",
     "level": "11",
     "name": "Scoundrel's Philosophy",
     "type": "",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nScoundrel's Philosophy\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10856\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Jack-of-All-Trades Attack 11</span>Scoundrel's Philosophy</h1><p class=\\\"flavor\\\"><i>You humble your foe with your fighting prowess, then befuddle it with your vast knowledge of proper fighting techniques.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage, and make a secondary attack against the target.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Dexterity vs. Will</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: The target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 75.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Jack-of-All-Trades",
     "flavor": "You humble your foe with your fighting prowess, then befuddle it with your vast knowledge of proper fighting techniques.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Primary Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage, and make a secondary attack against the target.</p><p class=\"powerstat\">&nbsp;&nbsp;Secondary Attack: Dexterity vs. Will</p><p class=\"flavor\">&nbsp;&nbsp;Hit: The target is dazed until the end of your next turn.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage, and make a secondary attack against the target.",
@@ -24,39 +23,41 @@
   "Every Trick in the Book": {
     "id": "'10857",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Jack-of-All-Trades",
     "frequency": "Daily",
     "level": "20",
     "name": "Every Trick in the Book",
     "type": "",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEvery Trick in the Book\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10857\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Jack-of-All-Trades Attack 20</span>Every Trick in the Book</h1><p class=\\\"flavor\\\"><i>You attack from all angles, using every technique and bit of knowledge you have to defeat your foe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC, Fortitude, Reflex, Will. You make one attack roll and compare the result against all four defenses. A target suffers the effect associated with each defense that the attack hits.</p><p class=\\\"flavor\\\"><b>Hit (AC)</b>: 2[W] damage.</p><p class=\\\"powerstat\\\"><b>Hit (Fortitude)</b>: 1[W] damage, and the target is slowed (save ends).</p><p class=\\\"flavor\\\"><b>Hit (Reflex)</b>: 1[W] damage, and you knock the target prone.</p><p class=\\\"powerstat\\\"><b>Hit (Will)</b>: 1[W] damage, and the target is dazed (save ends).</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 3 squares + 1 square for each defense you hit.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 75.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Jack-of-All-Trades",
     "flavor": "You attack from all angles, using every technique and bit of knowledge you have to defeat your foe.",
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC, Fortitude, Reflex, Will. You make one attack roll and compare the result against all four defenses. A target suffers the effect associated with each defense that the attack hits.</p><p class=\"flavor\">Hit (AC): 2[W] damage.</p><p class=\"powerstat\">Hit (Fortitude): 1[W] damage, and the target is slowed (save ends).</p><p class=\"flavor\">Hit (Reflex): 1[W] damage, and you knock the target prone.</p><p class=\"powerstat\">Hit (Will): 1[W] damage, and the target is dazed (save ends).</p><p class=\"flavor\">Effect: You shift 3 squares + 1 square for each defense you hit.</p>",
+    "range": "Melee or Ranged weapon<",
     "target": "One creature",
     "attack": "Dexterity vs. AC, Fortitude, Reflex, Will. You make one attack roll and compare the result against all four defenses. A target suffers the effect associated with each defense that the attack hits.",
+    "onHit (AC)": "2[W] damage.",
+    "onHit (Fortitude)": "1[W] damage, and the target is slowed (save ends).",
+    "onHit (Reflex)": "1[W] damage, and you knock the target prone.",
+    "onHit (Will)": "1[W] damage, and the target is dazed (save ends).",
     "effect": "You shift 3 squares + 1 square for each defense you hit."
   },
   "Always a Natural": {
     "id": "'10858",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Jack-of-All-Trades",
     "frequency": "Encounter",
     "level": "12",
     "name": "Always a Natural",
     "type": "",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAlways a Natural\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10858\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Jack-of-All-Trades Utility 12</span>Always a Natural</h1><p class=\\\"flavor\\\"><i>You are a natural at everything you do.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You make a skill check and dislike the result</p><p class=\\\"flavor\\\"><b>Effect</b>: You reroll the triggering check and use either result.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 75.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Jack-of-All-Trades",
     "flavor": "You are a natural at everything you do.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You make a skill check and dislike the result</p><p class=\"flavor\">Effect: You reroll the triggering check and use either result.</p>",
+    "range": "Personal <",
     "trigger": "You make a skill check and dislike the result",
     "effect": "You reroll the triggering check and use either result."
   }

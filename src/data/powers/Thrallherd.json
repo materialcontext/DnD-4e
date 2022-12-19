@@ -2,19 +2,18 @@
   "Serve Me Well": {
     "id": "'13407",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Thrallherd",
     "frequency": "Encounter",
     "level": "11",
     "name": "Serve Me Well",
     "type": "Attack",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nServe Me Well\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13407\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thrallherd Attack 11</span>Serve Me Well</h1><p class=\\\"flavor\\\"><i>You drive your thrall into battle to unleash a vicious attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Fear</b>, <b>Implement</b>, <b>Psionic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: Your thrall must be within 10 squares of you.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The thrall moves its speed, then you make an attack through the thrall.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature adjacent to the thrall</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Intelligence modifier damage, and the target takes a -2 penalty to attack rolls against the thrall until the start of your next turn.</p><b>Augment 2</b><br/><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy adjacent to the thrall</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 105.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Thrallherd",
     "flavor": "You drive your thrall into battle to unleash a vicious attack.",
     "keywords": [
       "Augmentable, Fear, Implement, Psionic"
     ],
-    "range": "Melee 1</p><p class=\"flavor\">Requirement: Your thrall must be within 10 squares of you.</p><p class=\"powerstat\">Effect: The thrall moves its speed, then you make an attack through the thrall.</p><p class=\"powerstat\">Target: One creature adjacent to the thrall</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 2[W] + Intelligence modifier damage, and the target takes a -2 penalty to attack rolls against the thrall until the start of your next turn.</p>Augment 2",
+    "range": "Melee 1<",
     "requirement": "Your thrall must be within 10 squares of you.",
     "effect": "The thrall moves its speed, then you make an attack through the thrall.",
     "target": "Each enemy adjacent to the thrall",
@@ -24,38 +23,36 @@
   "Loosen the Chain": {
     "id": "'13408",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Thrallherd",
     "frequency": "Daily",
     "level": "20",
     "name": "Loosen the Chain",
     "type": "Attack",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLoosen the Chain\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13408\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Thrallherd Attack 20</span>Loosen the Chain</h1><p class=\\\"flavor\\\"><i>You loosen your hold on your thrall, letting it fight independently alongside you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Your obedient thrall in range</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, your thrall gains a standard action and a move action during each of your turns. You can use your standard action to give the thrall an extra action over and above its own standard action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 20.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Thrallherd",
     "flavor": "You loosen your hold on your thrall, letting it fight independently alongside you.",
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: Your obedient thrall in range</p><p class=\"flavor\">Effect: Until the end of the encounter, your thrall gains a standard action and a move action during each of your turns. You can use your standard action to give the thrall an extra action over and above its own standard action.</p>",
+    "range": "Ranged 10<",
     "target": "Your obedient thrall in range",
     "effect": "Until the end of the encounter, your thrall gains a standard action and a move action during each of your turns. You can use your standard action to give the thrall an extra action over and above its own standard action."
   },
   "Restore Thrall": {
     "id": "'13410",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Thrallherd",
     "frequency": "Encounter",
     "level": "12",
     "name": "Restore Thrall",
     "type": "Utility",
     "sourceRef": "Psionic Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRestore Thrall\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13410\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thrallherd Utility 12</span>Restore Thrall</h1><p class=\\\"flavor\\\"><i>Your psionic power alleviates your thrall’s injuries, readying it to fight again.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Psionic</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Your obedient thrall in range</p><p class=\\\"flavor\\\"><b>Effect</b>: Your thrall regains hit points equal to your healing surge value.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 105.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Thrallherd",
     "flavor": "Your psionic power alleviates your thrall’s injuries, readying it to fight again.",
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Ranged 5</p><p class=\"powerstat\">Target: Your obedient thrall in range</p><p class=\"flavor\">Effect: Your thrall regains hit points equal to your healing surge value.</p>",
+    "range": "Ranged 5<",
     "target": "Your obedient thrall in range",
     "effect": "Your thrall regains hit points equal to your healing surge value."
   }

@@ -2,19 +2,18 @@
   "Beast Stalker’s Target": {
     "id": "'1686",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Beast Stalker",
     "frequency": "Daily",
     "level": "16",
     "name": "Beast Stalker’s Target",
     "type": "Stalker",
     "sourceRef": "Player's Handbook",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBeast Stalker’s Target\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1686\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Beast Stalker Attack 16</span>Beast Stalker’s Target</h1><p class=\\\"flavor\\\"><i>“This foe is my prey!”</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 4[W] + Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The target is designated as your quarry until the end of the encounter, and you can designate one additional creature as a quarry following the normal Hunter’s Quarry rules.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Beast Stalker",
     "flavor": "“This foe is my prey!”",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 4[W] + Dexterity modifier damage.</p><p class=\"powerstat\">Effect: The target is designated as your quarry until the end of the encounter, and you can designate one additional creature as a quarry following the normal Hunter’s Quarry rules.</p>",
+    "range": "Ranged weapon<",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "4[W] + Dexterity modifier damage.",
@@ -23,19 +22,18 @@
   "Pinpointing Arrow": {
     "id": "'1687",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Beast Stalker",
     "frequency": "Encounter",
     "level": "11",
     "name": "Pinpointing Arrow",
     "type": "Stalker",
     "sourceRef": "Player's Handbook",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPinpointing Arrow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1687\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Beast Stalker Attack 11</span>Pinpointing Arrow</h1><p class=\\\"flavor\\\"><i>Your shot is undeterred by obstructions and magical veils.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature designated as your quarry</p><p class=\\\"flavor\\\"><b>Special</b>: Ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: Hit: 2[W] + Dexterity modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Beast Stalker",
     "flavor": "Your shot is undeterred by obstructions and magical veils.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature designated as your quarry</p><p class=\"flavor\">Special: Ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible.</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: Hit: 2[W] + Dexterity modifier damage.</p>",
+    "range": "Ranged weapon<",
     "target": "One creature designated as your quarry",
     "special": "Ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible.",
     "attack": "Dexterity vs. AC",
@@ -44,19 +42,18 @@
   "Hunter’s Grace": {
     "id": "'2216",
     "action": "No Action",
-    "powerClass": "",
+    "powerClass": "Beast Stalker",
     "frequency": "Daily",
     "level": "12",
     "name": "Hunter’s Grace",
     "type": "Stalker",
     "sourceRef": "Player's Handbook",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHunter’s Grace\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2216\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Beast Stalker Utility 12</span>Hunter’s Grace</h1><p class=\\\"flavor\\\"><i>Even as your allies take stock of the enemies pouring in around them, you move into position and set your plans into motion.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Make a Stealth check and use that as your initiative check result. If you get the first turn in the encounter, you can shift up to your speed as a free action before taking any other actions.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 114.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Beast Stalker",
     "flavor": "Even as your allies take stock of the enemies pouring in around them, you move into position and set your plans into motion.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Make a Stealth check and use that as your initiative check result. If you get the first turn in the encounter, you can shift up to your speed as a free action before taking any other actions.</p>",
+    "range": "Personal <",
     "effect": "Make a Stealth check and use that as your initiative check result. If you get the first turn in the encounter, you can shift up to your speed as a free action before taking any other actions."
   }
 }

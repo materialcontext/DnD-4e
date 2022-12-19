@@ -2,19 +2,18 @@
   "Defense Siphon": {
     "id": "'10230",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Arcane Armorer",
     "frequency": "Encounter",
     "level": "11",
     "name": "Defense Siphon",
     "type": "Armorer",
     "sourceRef": "Dragon Magazine 381",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDefense Siphon\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10230\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arcane Armorer Attack 11</span>Defense Siphon</h1><p class=\\\"flavor\\\"><i>You weave a spell that saps the strength and defenses of your enemy, transferring the power of those defenses to a nearby ally.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Necrotic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Intelligence modifier necrotic damage, and choose one ally within 5 squares of the target. Until the end of your next turn, the target takes a –4 penalty to your choice of Fortitude, Reflex, or Will defense, and the ally you chose gains a +4 power bonus to the same defense.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/381\\\" target=\\\"_new\\\">Dragon Magazine 381</a>, page(s) 62.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arcane Armorer",
     "flavor": "You weave a spell that saps the strength and defenses of your enemy, transferring the power of those defenses to a nearby ally.",
     "keywords": [
       "Arcane, Implement, Necrotic"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. Will</p><p class=\"flavor\">Hit: 3d8 + Intelligence modifier necrotic damage, and choose one ally within 5 squares of the target. Until the end of your next turn, the target takes a –4 penalty to your choice of Fortitude, Reflex, or Will defense, and the ally you chose gains a +4 power bonus to the same defense.</p>",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier necrotic damage, and choose one ally within 5 squares of the target. Until the end of your next turn, the target takes a –4 penalty to your choice of Fortitude, Reflex, or Will defense, and the ally you chose gains a +4 power bonus to the same defense."
@@ -22,19 +21,18 @@
   "Armor of Force": {
     "id": "'10231",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Arcane Armorer",
     "frequency": "Daily",
     "level": "20",
     "name": "Armor of Force",
     "type": "Armorer",
     "sourceRef": "Dragon Magazine 381",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nArmor of Force\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10231\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arcane Armorer Attack 20</span>Armor of Force</h1><p class=\\\"flavor\\\"><i>You lay an enchantment over the armor worn by an ally, which causes the air to ripple with waves of raw force.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Force</b>, <b>Implement</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One ally</p><p class=\\\"flavor\\\"><b>Effect</b>: You infuse the primary target’s armor with the power of arcane force. Until the end of the encounter, the ally gains resist 5 all. In addition, you can use the Armor of Force Attack power once per round until the end of the encounter if the primary target is within 5 squares of you.</p><br/><h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\"></span>Armor of Force Attack</h1><p class=\\\"powerstat\\\"><b>At-Will</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Force</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1 centered on the primary target</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Armor of Force must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Secondary Target</b>: Each enemy in the burst</p><p class=\\\"flavor\\\"><b>Secondary Attack</b>: Intelligence vs. Fortitude</p><p class=\\\"powerstat\\\"><b>Hit</b>: 2d10 + Intelligence modifier force damage, and you push the secondary target away from the primary target a number of squares equal to 1 + your Wisdom modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/381\\\" target=\\\"_new\\\">Dragon Magazine 381</a>, page(s) 63.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arcane Armorer",
     "flavor": "You lay an enchantment over the armor worn by an ally, which causes the air to ripple with waves of raw force.",
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Melee touch</p><p class=\"powerstat\">Primary Target: One ally</p><p class=\"flavor\">Effect: You infuse the primary target’s armor with the power of arcane force. Until the end of the encounter, the ally gains resist 5 all. In addition, you can use the Armor of Force Attack power once per round until the end of the encounter if the primary target is within 5 squares of you.</p>",
+    "range": "Melee touch<",
     "primaryTarget": "One ally",
     "effect": "You infuse the primary target’s armor with the power of arcane force. Until the end of the encounter, the ally gains resist 5 all. In addition, you can use the Armor of Force Attack power once per round until the end of the encounter if the primary target is within 5 squares of you.",
     "requirement": "The power Armor of Force must be active in order to use this power.",
@@ -45,19 +43,18 @@
   "Protective Recall": {
     "id": "'10233",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Arcane Armorer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Protective Recall",
     "type": "Armorer",
     "sourceRef": "Dragon Magazine 381",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nProtective Recall\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10233\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arcane Armorer Utility 12</span>Protective Recall</h1><p class=\\\"flavor\\\"><i>With a flash, your ally appears by your side, shielded by arcane wards.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally is hit and damaged by an attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering ally</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport the target into any unoccupied space adjacent to you. The target gains resist 20 to all damage until the end of his or her next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/381\\\" target=\\\"_new\\\">Dragon Magazine 381</a>, page(s) 63.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Arcane Armorer",
     "flavor": "With a flash, your ally appears by your side, shielded by arcane wards.",
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Trigger: An ally is hit and damaged by an attack</p><p class=\"powerstat\">Target: The triggering ally</p><p class=\"flavor\">Effect: You teleport the target into any unoccupied space adjacent to you. The target gains resist 20 to all damage until the end of his or her next turn.</p>",
+    "range": "Ranged 10<",
     "trigger": "An ally is hit and damaged by an attack",
     "target": "The triggering ally",
     "effect": "You teleport the target into any unoccupied space adjacent to you. The target gains resist 20 to all damage until the end of his or her next turn."

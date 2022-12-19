@@ -2,56 +2,53 @@
   "Turathi Assault": {
     "id": "'11300",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Broken Mirror",
     "frequency": "Encounter",
     "level": "11",
     "name": "Turathi Assault",
     "type": "Mirror",
     "sourceRef": "Dragon Magazine 383",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTurathi Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11300\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Broken Mirror Attack 11</span>Turathi Assault</h1><p class=\\\"flavor\\\"><i>Your inherited power burns your target’s mind with fear, and shrouds it with ill luck.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: If you hit with the next at-will attack you make before the end of your turn, the target you hit takes 2d8 extra damage and falls prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Broken Mirror",
     "flavor": "Your inherited power burns your target’s mind with fear, and shrouds it with ill luck.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: If you hit with the next at-will attack you make before the end of your turn, the target you hit takes 2d8 extra damage and falls prone.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: If you hit with the next at-will attack you make before the end of your turn, the target you hit takes 2d8 extra damage and falls prone.</p>",
+    "range": "Personal <",
     "effect": "If you hit with the next at-will attack you make before the end of your turn, the target you hit takes 2d8 extra damage and falls prone."
   },
   "Cloud of Misfortune": {
     "id": "'11301",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Broken Mirror",
     "frequency": "Daily",
     "level": "20",
     "name": "Cloud of Misfortune",
     "type": "Mirror",
     "sourceRef": "Dragon Magazine 383",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCloud of Misfortune\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11301\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Broken Mirror Attack 20</span>Cloud of Misfortune</h1><p class=\\\"flavor\\\"><i>You encase your foe in a cloud of ill luck so potent it is almost palpable, and it and its friends stumble through every action.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: If you hit with the next at-will attack you make before the end of your turn, the target of that attack takes 3d10 extra damage and falls prone. Regardless of whether you hit, until the end of the encounter, when the target of the attack misses with an attack, you can slide the target 2 squares.</p><p class=\\\"powerstat\\\"><b>Special</b>: You cannot use Turathi assault and cloud of misfortune on the same turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Broken Mirror",
     "flavor": "You encase your foe in a cloud of ill luck so potent it is almost palpable, and it and its friends stumble through every action.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: If you hit with the next at-will attack you make before the end of your turn, the target of that attack takes 3d10 extra damage and falls prone. Regardless of whether you hit, until the end of the encounter, when the target of the attack misses with an attack, you can slide the target 2 squares.</p><p class=\"powerstat\">Special: You cannot use Turathi assault and cloud of misfortune on the same turn.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: If you hit with the next at-will attack you make before the end of your turn, the target of that attack takes 3d10 extra damage and falls prone. Regardless of whether you hit, until the end of the encounter, when the target of the attack misses with an attack, you can slide the target 2 squares.</p><p class=\"powerstat\">Special: You cannot use Turathi assault and cloud of misfortune on the same turn.</p>",
+    "range": "Personal <",
     "effect": "If you hit with the next at-will attack you make before the end of your turn, the target of that attack takes 3d10 extra damage and falls prone. Regardless of whether you hit, until the end of the encounter, when the target of the attack misses with an attack, you can slide the target 2 squares.",
     "special": "You cannot use Turathi assault and cloud of misfortune on the same turn."
   },
   "Aura of Flawed Nature": {
     "id": "'11302",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Broken Mirror",
     "frequency": "Daily",
     "level": "12",
     "name": "Aura of Flawed Nature",
     "type": "Mirror",
     "sourceRef": "Dragon Magazine 383",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAura of Flawed Nature\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11302\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Broken Mirror Utility 12</span>Aura of Flawed Nature</h1><p class=\\\"flavor\\\"><i>You surround yourself with ill luck and ruination.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp;<br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of your next turn, you radiate an infernal energy that twists your enemies’ fortunes for the worst. Each enemy that starts its turn within 2 squares of you takes a -2 penalty to attack rolls and defenses until the start of your next turn. When an enemy ends its turn within 2 squares of you, you can slide it 1 square.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The effect persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 72.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Broken Mirror",
     "flavor": "You surround yourself with ill luck and ruination.",
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you radiate an infernal energy that twists your enemies’ fortunes for the worst. Each enemy that starts its turn within 2 squares of you takes a -2 penalty to attack rolls and defenses until the start of your next turn. When an enemy ends its turn within 2 squares of you, you can slide it 1 square.</p><p class=\"powerstat\">Sustain Minor: The effect persists.</p>"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you radiate an infernal energy that twists your enemies’ fortunes for the worst. Each enemy that starts its turn within 2 squares of you takes a -2 penalty to attack rolls and defenses until the start of your next turn. When an enemy ends its turn within 2 squares of you, you can slide it 1 square.</p><p class=\"powerstat\">Sustain Minor: The effect persists.</p>",
+    "range": "Personal <",
     "effect": "Until the end of your next turn, you radiate an infernal energy that twists your enemies’ fortunes for the worst. Each enemy that starts its turn within 2 squares of you takes a -2 penalty to attack rolls and defenses until the start of your next turn. When an enemy ends its turn within 2 squares of you, you can slide it 1 square.",
     "sustainMinor": "The effect persists."
   }

@@ -2,19 +2,18 @@
   "Spell Strike": {
     "id": "'5792",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Sword of Assault",
     "frequency": "Encounter",
     "level": "11",
     "name": "Spell Strike",
     "type": "of",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpell Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5792\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sword of Assault Attack 11</span>Spell Strike</h1><p class=\\\"flavor\\\"><i>Your magic infuses a normal weapon attack with arcane power that might scorch, freeze, rot, poison, shock, or blast your foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Intelligence modifier plus 2d6 + Strength modifier acid, cold, fire, lightning, necrotic, poison, radiant, or thunder damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Sword of Assault",
     "flavor": "Your magic infuses a normal weapon attack with arcane power that might scorch, freeze, rot, poison, shock, or blast your foe.",
     "keywords": [
       "Arcane, Weapon ; Varies"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 1[W] + Intelligence modifier plus 2d6 + Strength modifier acid, cold, fire, lightning, necrotic, poison, radiant, or thunder damage.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier plus 2d6 + Strength modifier acid, cold, fire, lightning, necrotic, poison, radiant, or thunder damage."
@@ -22,38 +21,36 @@
   "Aegis Reserve": {
     "id": "'5793",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Sword of Assault",
     "frequency": "Encounter",
     "level": "12",
     "name": "Aegis Reserve",
     "type": "of",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAegis Reserve\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5793\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sword of Assault Utility 12</span>Aegis Reserve</h1><p class=\\\"flavor\\\"><i>In the heat of battle, sometimes one aegis is not enough. Luckily, you know a spell that allows you to bestow another.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target is marked by your aegis of assault. Marking the creature does not remove the mark on another target already affected by your aegis of assault.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Sword of Assault",
     "flavor": "In the heat of battle, sometimes one aegis is not enough. Luckily, you know a spell that allows you to bestow another.",
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Target: One creature in the burst</p><p class=\"flavor\">Effect: The target is marked by your aegis of assault. Marking the creature does not remove the mark on another target already affected by your aegis of assault.</p>",
+    "range": "Close burst 5<",
     "target": "One creature in the burst",
     "effect": "The target is marked by your aegis of assault. Marking the creature does not remove the mark on another target already affected by your aegis of assault."
   },
   "Fire and Thunder": {
     "id": "'5794",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Sword of Assault",
     "frequency": "Daily",
     "level": "20",
     "name": "Fire and Thunder",
     "type": "of",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFire and Thunder\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5794\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sword of Assault Attack 20</span>Fire and Thunder</h1><p class=\\\"flavor\\\"><i>Your weapon thrums with fire and thunder, which explode across your foe and leave the creature aflame and senseless.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Thunder</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Intelligence modifier fire and thunder damage, and the target takes ongoing 5 fire damage and is deafened (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 68.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Sword of Assault",
     "flavor": "Your weapon thrums with fire and thunder, which explode across your foe and leave the creature aflame and senseless.",
     "keywords": [
       "Arcane, Fire, Thunder, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 5[W] + Intelligence modifier fire and thunder damage, and the target takes ongoing 5 fire damage and is deafened (save ends both).</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "5[W] + Intelligence modifier fire and thunder damage, and the target takes ongoing 5 fire damage and is deafened (save ends both).",

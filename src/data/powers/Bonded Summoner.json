@@ -2,66 +2,66 @@
   "Planar Gateway": {
     "id": "'5824",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Bonded Summoner",
     "frequency": "Encounter",
     "level": "11",
     "name": "Planar Gateway",
     "type": "Summoner",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPlanar Gateway\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5824\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Bonded Summoner Attack 11</span>Planar Gateway</h1><p class=\\\"flavor\\\"><i>You create a rift between the planes, drawing raw power through it that tumbles your enemies about like skittles.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Conjuration</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a planar gateway that occupies 1 square within range and lasts until the end of your next turn. You can use the Planar Gateway Attack power, using the gateway’s square as the origin square.</p><br/>Revision (10/14/2009)<br/>In the power’s attack component, replace “Free Action” with “Opportunity Action”.<br/><br/>In the Trigger line, replace “in the planar gateway” with “adjacent to the planar gateway.”<br/><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Planar Gateway Attack</h1><p class=\\\"flavor\\\"><i>You create a rift between the planes, drawing raw power through it that tumbles your enemies about like skittles.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Conjuration</b>, <b>Implement</b><br/><b>Opportunity Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"flavor\\\"><b>Requirement</b>: The Planar Gateway power must be active to use this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: A creature starts its turn adjacent to the planar gateway or enters a square adjacent to the planar gateway</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Intelligence modifier damage, and you slide the target 3 squares.</p><br/>Revision (10/14/2009)<br/>In the power’s attack component, replace “Free Action” with “Opportunity Action”.<br/><br/>In the Trigger line, replace “in the planar gateway” with “adjacent to the planar gateway.”<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 117.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Bonded Summoner",
     "flavor": "You create a rift between the planes, drawing raw power through it that tumbles your enemies about like skittles.",
     "keywords": [
       "Arcane, Conjuration, Implement"
     ],
-    "range": "Ranged 10</p><p class=\"flavor\">Effect: You conjure a planar gateway that occupies 1 square within range and lasts until the end of your next turn. You can use the Planar Gateway Attack power, using the gateway’s square as the origin square.</p>",
-    "bonusflavor": "You create a rift between the planes, drawing raw power through it that tumbles your enemies about like skittles.",
-    "bonusrange": "Close burst 1</p><p class=\"flavor\">Requirement: The Planar Gateway power must be active to use this power.</p><p class=\"powerstat\">Trigger: A creature starts its turn adjacent to the planar gateway or enters a square adjacent to the planar gateway</p><p class=\"powerstat\">Target: The triggering creature in the burst</p><p class=\"powerstat\">Attack: Intelligence vs. Reflex</p><p class=\"flavor\">Hit: 3d6 + Intelligence modifier damage, and you slide the target 3 squares.</p>",
-    "bonuskeywords": [
-      "Arcane, Conjuration, Implement"
-    ],
-    "effect": "You conjure a planar gateway that occupies 1 square within range and lasts until the end of your next turn. You can use the Planar Gateway Attack power, using the gateway’s square as the origin square.",
-    "bonusrequirement": "The Planar Gateway power must be active to use this power.",
-    "bonustrigger": "A creature starts its turn adjacent to the planar gateway or enters a square adjacent to the planar gateway",
-    "bonustarget": "The triggering creature in the burst",
-    "bonusattack": "Intelligence vs. Reflex",
-    "bonusOnHit": "3d6 + Intelligence modifier damage, and you slide the target 3 squares."
+    "range": "Ranged 10<",
+    "bonusPower": {
+      "name": "Planar Gateway Attack",
+      "flavor": "You create a rift between the planes, drawing raw power through it that tumbles your enemies about like skittles.",
+      "keywords": [
+        "Arcane, Conjuration, Implement"
+      ],
+      "range": "Close burst 1<",
+      "requirement": "The Planar Gateway power must be active to use this power.",
+      "trigger": "A creature starts its turn adjacent to the planar gateway or enters a square adjacent to the planar gateway",
+      "target": "The triggering creature in the burst",
+      "attack": "Intelligence vs. Reflex",
+      "onHit": "3d6 + Intelligence modifier damage, and you slide the target 3 squares."
+    },
+    "effect": "You conjure a planar gateway that occupies 1 square within range and lasts until the end of your next turn. You can use the Planar Gateway Attack power, using the gateway’s square as the origin square."
   },
   "Enduring Summons": {
     "id": "'5825",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Bonded Summoner",
     "frequency": "Encounter",
     "level": "12",
     "name": "Enduring Summons",
     "type": "Summoner",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEnduring Summons\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5825\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Bonded Summoner Utility 12</span>Enduring Summons</h1><p class=\\\"flavor\\\"><i>You call on the power of the planes to surge through your summoned creature, ensuring its survival.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature you summoned</p><p class=\\\"flavor\\\"><b>Effect</b>: The target regains hit points equal to your healing surge value.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 117.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Bonded Summoner",
     "flavor": "You call on the power of the planes to surge through your summoned creature, ensuring its survival.",
     "keywords": [
       "Arcane, Healing"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature you summoned</p><p class=\"flavor\">Effect: The target regains hit points equal to your healing surge value.</p>",
+    "range": "Ranged 10<",
     "target": "One creature you summoned",
     "effect": "The target regains hit points equal to your healing surge value."
   },
   "Summon Bonded Protector": {
     "id": "'5826",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Bonded Summoner",
     "frequency": "Daily",
     "level": "20",
     "name": "Summon Bonded Protector",
     "type": "Summoner",
     "sourceRef": "Arcane Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSummon Bonded Protector\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5826\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Bonded Summoner Attack 20</span>Summon Bonded Protector</h1><p class=\\\"flavor\\\"><i>You call a massive humanoid-shaped statue of metal and stone that pounds your foes and forces them away from you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Summoning</b>, <b>Teleportation</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"flavor\\\"><b>Effect</b>: You summon a Large bonded protector in an unoccupied 2-square-by-2-square space within range. The bonded protector has reach 2 and a speed of 5. It has a +4 bonus to AC and a +4 bonus to Will. You can give the bonded protector the following special commands.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Standard Action</b>: Close blast 3; targets each creature in the blast; Intelligence vs. Reflex; 2d4 + Intelligence modifier damage, and the target is dazed (save ends).</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Opportunity Attack</b>: Melee 1; targets one creature; Intelligence vs. Reflex; 2d6 + Intelligence modifier damage, and the target is knocked prone. The bonded protector can make this opportunity attack against a creature that attacks you or that attacks a creature you summoned.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Minor Action</b>: You and the bonded protector swap positions.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 117.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Bonded Summoner",
     "flavor": "You call a massive humanoid-shaped statue of metal and stone that pounds your foes and forces them away from you.",
     "keywords": [
       "Arcane, Implement, Summoning, Teleportation"
     ],
-    "range": "Ranged 20</p><p class=\"flavor\">Effect: You summon a Large bonded protector in an unoccupied 2-square-by-2-square space within range. The bonded protector has reach 2 and a speed of 5. It has a +4 bonus to AC and a +4 bonus to Will. You can give the bonded protector the following special commands.</p><p class=\"powerstat\">&nbsp;&nbsp;Standard Action: Close blast 3; targets each creature in the blast; Intelligence vs. Reflex; 2d4 + Intelligence modifier damage, and the target is dazed (save ends).</p><p class=\"flavor\">&nbsp;&nbsp;Opportunity Attack: Melee 1; targets one creature; Intelligence vs. Reflex; 2d6 + Intelligence modifier damage, and the target is knocked prone. The bonded protector can make this opportunity attack against a creature that attacks you or that attacks a creature you summoned.</p><p class=\"powerstat\">&nbsp;&nbsp;Minor Action: You and the bonded protector swap positions.</p>",
+    "range": "Ranged 20<",
     "effect": "You summon a Large bonded protector in an unoccupied 2-square-by-2-square space within range. The bonded protector has reach 2 and a speed of 5. It has a +4 bonus to AC and a +4 bonus to Will. You can give the bonded protector the following special commands.",
     "standardAction": "Close blast 3; targets each creature in the blast; Intelligence vs. Reflex; 2d4 + Intelligence modifier damage, and the target is dazed (save ends).",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 2d6 + Intelligence modifier damage, and the target is knocked prone. The bonded protector can make this opportunity attack against a creature that attacks you or that attacks a creature you summoned.",

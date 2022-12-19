@@ -1,0 +1,30 @@
+{
+  "name": "Duergar",
+  "height": "4'2\" - 4'8\"",
+  "weight": "160 - 220 lbs",
+  "abilityScores": "+2 Constitution, +2 Wisdom",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common, Deep Speech, Dwarven",
+  "uniqueFeatures": {
+    "infernalQuills": "You can use infernal quills as an encounter power.",
+    "skillBonuses": "+2 Dungeoneering.",
+    "vision": "Darkvision"
+  },
+  "physTxt": "",
+  "refSource": "Monster Manual 2, page ",
+  "flavorTxt": "",
+  "power": "Infernal Quills",
+  "femNames": [
+    "drakzi",
+    "murdeza",
+    "shazdri",
+    "zhudraka"
+  ],
+  "mascNames": [
+    "brark",
+    "khazar",
+    "thrinzul",
+    "ungkarzor"
+  ]
+}

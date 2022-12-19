@@ -2,19 +2,18 @@
   "Spirit Beckoned": {
     "id": "'10017",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Shyran Spiritblade",
     "frequency": "Encounter",
     "level": "11",
     "name": "Spirit Beckoned",
     "type": "Spiritblade",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpirit Beckoned\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10017\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Shyran Spiritblade Attack 11</span>Spirit Beckoned</h1><p class=\\\"flavor\\\"><i>As you strike your foe with your blade, your spirit companion senses its weakness.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Intelligence or Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Intelligence or Wisdom modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of your next turn, you gain a +2 power bonus on attack rolls with spirit powers against the target, and a successful attack knocks the target prone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 70.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shyran Spiritblade",
     "flavor": "As you strike your foe with your blade, your spirit companion senses its weakness.",
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Intelligence or Wisdom vs. AC</p><p class=\"flavor\">Hit: 2[W] + Intelligence or Wisdom modifier damage.</p><p class=\"powerstat\">Effect: Until the end of your next turn, you gain a +2 power bonus on attack rolls with spirit powers against the target, and a successful attack knocks the target prone.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Intelligence or Wisdom vs. AC",
     "onHit": "2[W] + Intelligence or Wisdom modifier damage.",
@@ -23,19 +22,18 @@
   "Spiritspell Assault": {
     "id": "'10018",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Shyran Spiritblade",
     "frequency": "Daily",
     "level": "20",
     "name": "Spiritspell Assault",
     "type": "Spiritblade",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpiritspell Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10018\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shyran Spiritblade Attack 20</span>Spiritspell Assault</h1><p class=\\\"flavor\\\"><i>You charge your blade with arcane energy, and as you strike, you focus another spell through your spirit companion.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Force</b>, <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Intelligence vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Intelligence modifier force damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Make a secondary attack with one of your swordmage at-will attack powers, as if you were in your sprit companion’s square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 70.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shyran Spiritblade",
     "flavor": "You charge your blade with arcane energy, and as you strike, you focus another spell through your spirit companion.",
     "keywords": [
       "Arcane, Force, Primal, Weapon"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Primary Attack: Intelligence vs. AC</p><p class=\"flavor\">Hit: 3[W] + Intelligence modifier force damage.</p><p class=\"powerstat\">Effect: Make a secondary attack with one of your swordmage at-will attack powers, as if you were in your sprit companion’s square.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier force damage.",
@@ -44,19 +42,18 @@
   "One with the Blade": {
     "id": "'10019",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Shyran Spiritblade",
     "frequency": "Daily",
     "level": "12",
     "name": "One with the Blade",
     "type": "Spiritblade",
     "sourceRef": "Dragon Magazine 379",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOne with the Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10019\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Shyran Spiritblade Utility 12</span>One with the Blade</h1><p class=\\\"flavor\\\"><i>You coax your spirit companion into your blade, making your attacks more precise.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Spirit</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Your spirit companion disappears. You may spend a healing surge, and you gain a +2 power bonus to melee weapon attacks until the end of the encounter or until you next use call spirit companion.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 70.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Shyran Spiritblade",
     "flavor": "You coax your spirit companion into your blade, making your attacks more precise.",
     "keywords": [
       "Primal, Spirit"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Your spirit companion disappears. You may spend a healing surge, and you gain a +2 power bonus to melee weapon attacks until the end of the encounter or until you next use call spirit companion.</p>",
+    "range": "Personal <",
     "effect": "Your spirit companion disappears. You may spend a healing surge, and you gain a +2 power bonus to melee weapon attacks until the end of the encounter or until you next use call spirit companion."
   }
 }

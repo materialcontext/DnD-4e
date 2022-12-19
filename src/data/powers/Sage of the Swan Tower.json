@@ -2,19 +2,18 @@
   "Knowledge Applied": {
     "id": "'14084",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Sage of the Swan Tower",
     "frequency": "Encounter",
     "level": "26",
     "name": "Knowledge Applied",
     "type": "of",
     "sourceRef": "Dragon Magazine 397",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nKnowledge Applied\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14084\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sage of the Swan Tower Utility 26</span>Knowledge Applied</h1><p class=\\\"flavor\\\"><i>Tapping into the knowledge contained in the Swan Tower, you guide an ally’s actions toward success.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Divine</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally in the burst fails a skill check, an ability check, or a saving throw.</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering ally can make a new roll, with a power bonus equal to your Intelligence or Wisdom modifier. The ally can use either roll.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/397\\\" target=\\\"_new\\\">Dragon Magazine 397</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Sage of the Swan Tower",
     "flavor": "Tapping into the knowledge contained in the Swan Tower, you guide an ally’s actions toward success.",
     "keywords": [
       "Arcane, Divine"
     ],
-    "range": "Close burst 5</p><p class=\"powerstat\">Trigger: An ally in the burst fails a skill check, an ability check, or a saving throw.</p><p class=\"flavor\">Effect: The triggering ally can make a new roll, with a power bonus equal to your Intelligence or Wisdom modifier. The ally can use either roll.</p>",
+    "range": "Close burst 5<",
     "trigger": "An ally in the burst fails a skill check, an ability check, or a saving throw.",
     "effect": "The triggering ally can make a new roll, with a power bonus equal to your Intelligence or Wisdom modifier. The ally can use either roll."
   }

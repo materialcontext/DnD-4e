@@ -2,37 +2,35 @@
   "Torrent of Power": {
     "id": "'5328",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Wild Mage",
     "frequency": "Daily",
     "level": "12",
     "name": "Torrent of Power",
     "type": "Mage",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTorrent of Power\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5328\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wild Mage Utility 12</span>Torrent of Power</h1><p class=\\\"flavor\\\"><i>You open a conduit to the Elemental Chaos. Its surging energy erupts uncontrollably.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, whenever you roll the highest number on any damage die, roll that die again and add its result to the damage total.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 151.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wild Mage",
     "flavor": "You open a conduit to the Elemental Chaos. Its surging energy erupts uncontrollably.",
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, whenever you roll the highest number on any damage die, roll that die again and add its result to the damage total.</p>",
+    "range": "Personal <",
     "effect": "Until the end of the encounter, whenever you roll the highest number on any damage die, roll that die again and add its result to the damage total."
   },
   "Prismatic Bolt": {
     "id": "'5329",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Wild Mage",
     "frequency": "Daily",
     "level": "20",
     "name": "Prismatic Bolt",
     "type": "Mage",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrismatic Bolt\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5329\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Wild Mage Attack 20</span>Prismatic Bolt</h1><p class=\\\"flavor\\\"><i>A beam of colorful light leaps from your hand to cause a debilitating effect.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 5d8 + Charisma modifier damage. Roll a d6 to determine the attack’s damage type and effect.<br/>1. Yellow: Radiant damage, and your ally nearest to the target can spend a healing surge.<br/>2. Black: Necrotic damage, and the target is weakened (save ends).<br/>3. Green: Poison damage, and the target takes ongoing 15 poison damage (save ends).<br/>4. White: Force damage, and the target is restrained (save ends).<br/>5. Blue: Cold damage, and the target is stunned (save ends).<br/>6. Violet: Psychic damage, and the target is dominated (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: 3d8 damage. Roll a d6 to determine the attack’s damage type and effect, as above.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 151.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wild Mage",
     "flavor": "A beam of colorful light leaps from your hand to cause a debilitating effect.",
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Ranged 10</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Charisma vs. Reflex</p><p class=\"flavor\">Hit: 5d8 + Charisma modifier damage. Roll a d6 to determine the attack’s damage type and effect.",
+    "range": "Ranged 10<",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "5d8 + Charisma modifier damage. Roll a d6 to determine the attack’s damage type and effect.<br/>1. Yellow: Radiant damage, and your ally nearest to the target can spend a healing surge.<br/>2. Black: Necrotic damage, and the target is weakened (save ends).<br/>3. Green: Poison damage, and the target takes ongoing 15 poison damage (save ends).<br/>4. White: Force damage, and the target is restrained (save ends).<br/>5. Blue: Cold damage, and the target is stunned (save ends).<br/>6. Violet: Psychic damage, and the target is dominated (save ends).",
@@ -41,19 +39,18 @@
   "Tempest Surge": {
     "id": "'5514",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Wild Mage",
     "frequency": "Encounter",
     "level": "11",
     "name": "Tempest Surge",
     "type": "Mage",
     "sourceRef": "Player's Handbook 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTempest Surge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5514\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Wild Mage Attack 11</span>Tempest Surge</h1><p class=\\\"flavor\\\"><i>Raw energy erupts from your outstretched palm, then curls into a whirling tempest.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1d4 within 20 squares</p><p class=\\\"flavor\\\"><b>Special</b>: Pick the burst’s origin square before rolling to determine the burst’s size.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst. Roll a d4, and you can exclude a number of targets equal to the result.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Charisma modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 151.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Wild Mage",
     "flavor": "Raw energy erupts from your outstretched palm, then curls into a whirling tempest.",
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Area burst 1d4 within 20 squares</p><p class=\"flavor\">Special: Pick the burst’s origin square before rolling to determine the burst’s size.</p><p class=\"powerstat\">Target: Each creature in the burst. Roll a d4, and you can exclude a number of targets equal to the result.</p><p class=\"powerstat\">Attack: Charisma vs. Reflex</p><p class=\"flavor\">Hit: 3d8 + Charisma modifier damage.</p>",
+    "range": "Area burst 1d4 within 20 squares<",
     "special": "Pick the burst’s origin square before rolling to determine the burst’s size.",
     "target": "Each creature in the burst. Roll a d4, and you can exclude a number of targets equal to the result.",
     "attack": "Charisma vs. Reflex",

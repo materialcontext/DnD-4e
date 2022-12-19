@@ -2,19 +2,18 @@
   "Distracting Wound": {
     "id": "'2203",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Master Infiltrator",
     "frequency": "Encounter",
     "level": "11",
     "name": "Distracting Wound",
     "type": "Infiltrator",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDistracting Wound\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2203\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Infiltrator Attack 11</span>Distracting Wound</h1><p class=\\\"flavor\\\"><i>You strike from the shadows, delivering a wound that distracts your foe and makes him drop his guard.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature granting combat advantage to you</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Dexterity modifier damage, and the target grants combat advantage until the end of your next turn.</p><br/>Update (10/4/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 128, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Master Infiltrator",
     "flavor": "You strike from the shadows, delivering a wound that distracts your foe and makes him drop his guard.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\"powerstat\">Target: One creature granting combat advantage to you</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 2[W] + Dexterity modifier damage, and the target grants combat advantage until the end of your next turn.</p>",
+    "range": "Melee or Ranged weapon<",
     "requirement": "You must be wielding a crossbow, a light blade, or a sling.",
     "target": "One creature granting combat advantage to you",
     "attack": "Dexterity vs. AC",
@@ -23,19 +22,18 @@
   "Painful Puncture": {
     "id": "'2205",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Master Infiltrator",
     "frequency": "Daily",
     "level": "20",
     "name": "Painful Puncture",
     "type": "Infiltrator",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPainful Puncture\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=2205\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Master Infiltrator Attack 20</span>Painful Puncture</h1><p class=\\\"flavor\\\"><i>Your weapon bites deep, leaving your enemy with a lingering wound.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage, and ongoing 10 damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/>Update (10/4/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 128, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Master Infiltrator",
     "flavor": "Your weapon bites deep, leaving your enemy with a lingering wound.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"flavor\">Requirement: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Dexterity modifier damage, and ongoing 10 damage (save ends).</p><p class=\"powerstat\">Miss: Half damage.</p>",
+    "range": "Melee or Ranged weapon<",
     "requirement": "You must be wielding a crossbow, a light blade, or a sling.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -45,19 +43,18 @@
   "Impossible to Catch": {
     "id": "'1690",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Master Infiltrator",
     "frequency": "Encounter",
     "level": "12",
     "name": "Impossible to Catch",
     "type": "Infiltrator",
     "sourceRef": "Player's Handbook, Class Compendium",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nImpossible to Catch\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=1690\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Master Infiltrator Utility 12</span>Impossible to Catch</h1><p class=\\\"flavor\\\"><i>With practiced ease, you step into the shadows and disappear from view.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You become invisible until the start of your next turn.</p><br/>Update (10/4/2011)<br/>Updated in Class Compendium.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 128, <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd\\\" target=\\\"_new\\\">Class Compendium</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Master Infiltrator",
     "flavor": "With practiced ease, you step into the shadows and disappear from view.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You become invisible until the start of your next turn.</p>",
+    "range": "Personal <",
     "effect": "You become invisible until the start of your next turn."
   }
 }

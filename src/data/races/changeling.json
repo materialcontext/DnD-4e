@@ -1,0 +1,35 @@
+{
+  "name": "Changeling",
+  "height": "5'7\" - 6'0\"",
+  "weight": "120 - 160 lbs",
+  "abilityScores": "+2 Charisma, +2 Dexterity or +2 Intelligence",
+  "size": "Medium",
+  "speed": "6 squares.",
+  "languages": "Common",
+  "uniqueFeatures": {
+    "shapechanger": "You have the shapechanger subtype; you can alter your appearance. As such, you are subject to effects and conditions that affect shapechangers.",
+    "mentalDefense": "You have a +1 racial bonus to Will.",
+    "changelingTrick": "You have the changeling trick power.",
+    "changeShape": "You have the changeling disguise power.",
+    "skillBonuses": "+2 Bluff, +2 Insight.",
+    "vision": "Normal"
+  },
+  "physTxt": "Changelings wear many masks, concealing their true identities behind false faces. As shape changers, changelings can appear to be members of any humanoid race, playing the part of a dwarf  one day and a dragonborn the next. This propensity for disguise leads people to distrust changelings, so most keep their true nature hidden.",
+  "refSource": "Eberron Player\\'s Guide, page ",
+  "flavorTxt": "Anyone, anywhere, hidden in plain sight",
+  "power": "Changeling Disguise",
+  "characteristics": [
+    "adaptable",
+    "compelling",
+    "cunning",
+    "devious",
+    "evasive",
+    "furtive",
+    "insightful",
+    "mysterious",
+    "prudent",
+    "sly",
+    "subtle"
+  ],
+  "tipsTxt": "Lacking a culture or a civilization to call their own, changelings adopt other races’ societies. They seek out communities that have values and interests that parallel their own. Changelings prefer cities because they are ideal places to blend in with others or to vanish if necessary. Cities also contain people too interested in their own affairs to notice the oddities of strangers."
+}

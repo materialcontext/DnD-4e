@@ -1,0 +1,62 @@
+{
+  "name": "Elf",
+  "height": "5' 4\" - 6'0\"",
+  "weight": "130 - 170 lbs",
+  "abilityScores": "+2 Dexterity, +2 Intelligence or +2 Wisdom",
+  "size": "Medium",
+  "speed": "7 squares.",
+  "languages": "Common, Elven",
+  "uniqueFeatures": {
+    "wildStep": "You ignore difficult terrain when you shift.",
+    "groupAwareness": "You grant non-elf allies within 5 squares of you a +1 racial bonus to Perception checks.",
+    "feyOrigin": "Your ancestors were native to the Feywild, so you are considered a fey creature for the purpose of effects that relate to creature origin.",
+    "elvenWeaponProficiency": "You gain proficiency with the longbow and the shortbow.",
+    "elvenAccuracy": "You have the elven accuracy power.",
+    "skillBonuses": "+2 Nature, +2 Perception.",
+    "vision": "Low-Light"
+  },
+  "physTxt": "Elves are slender, athletic folk about as tall as humans. They have the same range of complexions as humans, tending more toward tan or brown hues. A typical elf ’s hair color is dark brown, autumn orange, mossy green, or deep gold. Elven ears are long and pointed, while an elf ’s eyes are vibrant blue, violet, or green. Elves favor a wild and loose look to their hair.  Elves mature at about the same rate as humans, but they show few effects of age past adulthood. The first sign of an elf ’s advancing age is typically a change in hair color—sometimes graying but usually darkening or taking on more autumnal hues. Most elves live to be well over two hundred years old and remain vigorous almost to the end.",
+  "refSource": "Player\\'s Handbook, page ",
+  "flavorTxt": "Unmatched archers, cunning explorers, protectors of the wild forests",
+  "power": "Elven Accuracy",
+  "characteristics": [
+    "agile",
+    "friendly",
+    "intuitive",
+    "joyful",
+    "perceptive",
+    "quick",
+    "quiet",
+    "wild"
+  ],
+  "femNames": [
+    "adrie",
+    "birel",
+    "chaedi",
+    "dara",
+    "enna",
+    "faral",
+    "irann",
+    "keyleth",
+    "lia",
+    "mialee",
+    "shava",
+    "thia",
+    "valna "
+  ],
+  "mascNames": [
+    "adran",
+    "aelar",
+    "beiro",
+    "carric",
+    "erdan",
+    "gennal",
+    "heian",
+    "lucan",
+    "peren",
+    "rolen",
+    "theren",
+    "varis"
+  ],
+  "tipsTxt": "When creating an elf adventurer, here are a few points to consider. Protect all that is good and beautiful. The natural progression of the universe seems intent on destroying the fleeting grace of beauty, love, and peace. Thus, you must fight to ensure that these things survive. An elf might remain unmoved by the plight of a human city facing an orc invasion, even as an idyllic village of farmers in the horde’s path spurs him to action. Elves appreciate beauty because their history has forced them to watch it gradually fade from the world. From the first days of the bitter fey war, through the rise and fall of a succession of worldly empires, the elves know all too well that anything worth enjoying or loving is worth fighting for. Life is measured in years, not days. You are acutely aware of the unfurling of years and the grand tapestry of history. Elves plan for the long term, and you are no different. “Enjoy the day; prepare for the year,” is a common elf saying that expresses this attitude. You might spend your days in song and drink easily enough, but all the while in the back of your mind, you watch a web of events unfold around you. You understand that an action now leads to a reaction—a change in the world—that might not become evident for years. When you adventure, you keep one eye on the future and your role in the grand scheme of events. The strongest sword is guided with wisdom, not might. The best battles are those that are short, decisive, and as bloodless as possible. The elves are too few in number to wage wars of attrition, and they view risky tactics and frontal assaults as foolish at best. As an elf, you employ the most direct methods to defeat your enemy. Why waste time battling goblin patrols when the entire tribe will scatter with the death of its conquest-minded king? Keep the long-term view in mind, and settle all problems with quick, decisive resolution. Tales and songs. The elves preserve their history through songs and tales told in the oral tradition. As a young elf, you would have heard and memorized these stories of great elf heroes, their legendary deeds, and the struggles of your people. You might draw on the nature, events, or themes of such stories for inspiration, or to express your elven point of view to your allies."
+}

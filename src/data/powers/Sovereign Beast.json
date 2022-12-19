@@ -2,19 +2,18 @@
   "Resplendent Beast": {
     "id": "'9963",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Sovereign Beast",
     "frequency": "At-Will",
     "level": "26",
     "name": "Resplendent Beast",
     "type": "Beast",
     "sourceRef": "Primal Power",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nResplendent Beast\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9963\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Sovereign Beast Utility 26</span>Resplendent Beast</h1><p class=\\\"flavor\\\"><i>Your sudden transformation casts your enemies aside and fills them with terror at what you have become.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Primal</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You use wild shape to change into beast form and increase your size to Large</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: You push each target 1 square. In addition, enemies that have line of sight to you grant combat advantage to you and take a –2 penalty to attack rolls until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 155.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Sovereign Beast",
     "flavor": "Your sudden transformation casts your enemies aside and fills them with terror at what you have become.",
     "keywords": [
       "Fear, Primal"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Trigger: You use wild shape to change into beast form and increase your size to Large</p><p class=\"powerstat\">Target: Each creature in the burst</p><p class=\"flavor\">Effect: You push each target 1 square. In addition, enemies that have line of sight to you grant combat advantage to you and take a –2 penalty to attack rolls until the end of your next turn.</p>",
+    "range": "Close burst 1<",
     "trigger": "You use wild shape to change into beast form and increase your size to Large",
     "target": "Each creature in the burst",
     "effect": "You push each target 1 square. In addition, enemies that have line of sight to you grant combat advantage to you and take a –2 penalty to attack rolls until the end of your next turn."

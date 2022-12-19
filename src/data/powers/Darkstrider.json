@@ -2,19 +2,18 @@
   "Darkstrider Ambush": {
     "id": "'10690",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Darkstrider",
     "frequency": "Encounter",
     "level": "11",
     "name": "Darkstrider Ambush",
     "type": "Attack",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDarkstrider Ambush\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10690\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Darkstrider Attack 11</span>Darkstrider Ambush</h1><p class=\\\"flavor\\\"><i>You exploit your advantage with a single well-aimed strike that momentarily disorients your enemy.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature granting combat advantage to you</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength (melee) or Dexterity (ranged) vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier (melee) or 3[W] + Dexterity modifier (ranged) damage, and the target is dazed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Darkstrider",
     "flavor": "You exploit your advantage with a single well-aimed strike that momentarily disorients your enemy.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One creature granting combat advantage to you</p><p class=\"powerstat\">Attack: Strength (melee) or Dexterity (ranged) vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength modifier (melee) or 3[W] + Dexterity modifier (ranged) damage, and the target is dazed until the end of your next turn.</p>",
+    "range": "Melee or Ranged weapon<",
     "target": "One creature granting combat advantage to you",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC",
     "onHit": "3[W] + Strength modifier (melee) or 3[W] + Dexterity modifier (ranged) damage, and the target is dazed until the end of your next turn."
@@ -22,19 +21,18 @@
   "Death in the Dark": {
     "id": "'10691",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Darkstrider",
     "frequency": "Daily",
     "level": "20",
     "name": "Death in the Dark",
     "type": "Attack",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeath in the Dark\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10691\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Darkstrider Attack 20</span>Death in the Dark</h1><p class=\\\"flavor\\\"><i>With uncanny precision, you lash out at your enemy’s head, seeking to blind the foe.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One or two creatures</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength (melee) or Dexterity (ranged) vs. AC. The attack ignores concealment but not total concealment.</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength (melee) or Dexterity (ranged) modifier damage, and the target is blinded and takes ongoing 5 damage (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: 3[W] + Strength (melee) or Dexterity (ranged) modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Darkstrider",
     "flavor": "With uncanny precision, you lash out at your enemy’s head, seeking to blind the foe.",
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon</p><p class=\"powerstat\">Target: One or two creatures</p><p class=\"powerstat\">Attack: Strength (melee) or Dexterity (ranged) vs. AC. The attack ignores concealment but not total concealment.</p><p class=\"flavor\">Hit: 3[W] + Strength (melee) or Dexterity (ranged) modifier damage, and the target is blinded and takes ongoing 5 damage (save ends both).</p><p class=\"powerstat\">Miss: 3[W] + Strength (melee) or Dexterity (ranged) modifier damage.</p>",
+    "range": "Melee or Ranged weapon<",
     "target": "One or two creatures",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC. The attack ignores concealment but not total concealment.",
     "onHit": "3[W] + Strength (melee) or Dexterity (ranged) modifier damage, and the target is blinded and takes ongoing 5 damage (save ends both).",
@@ -43,19 +41,18 @@
   "Cloaked in Shadow": {
     "id": "'10692",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Darkstrider",
     "frequency": "Encounter",
     "level": "12",
     "name": "Cloaked in Shadow",
     "type": "Utility",
     "sourceRef": "Martial Power 2",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCloaked in Shadow\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10692\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Darkstrider Utility 12</span>Cloaked in Shadow</h1><p class=\\\"flavor\\\"><i>You vanish into the shadowy clefts of the natural rock and stone around you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be adjacent to a wall or other large stone feature, such as a column, a boulder, or a stalagmite.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You are hidden to any enemies that aren’t adjacent to you. You remain hidden until you move or attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Darkstrider",
     "flavor": "You vanish into the shadowy clefts of the natural rock and stone around you.",
     "keywords": [
       "Martial"
     ],
-    "range": "Personal </p><p class=\"flavor\">Requirement: You must be adjacent to a wall or other large stone feature, such as a column, a boulder, or a stalagmite.</p><p class=\"powerstat\">Effect: You are hidden to any enemies that aren’t adjacent to you. You remain hidden until you move or attack.</p>",
+    "range": "Personal <",
     "requirement": "You must be adjacent to a wall or other large stone feature, such as a column, a boulder, or a stalagmite.",
     "effect": "You are hidden to any enemies that aren’t adjacent to you. You remain hidden until you move or attack."
   }

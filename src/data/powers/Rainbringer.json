@@ -2,19 +2,18 @@
   "Hailburst": {
     "id": "'11822",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Rainbringer",
     "frequency": "Encounter",
     "level": "11",
     "name": "Hailburst",
     "type": "Attack",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHailburst\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11822\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rainbringer Attack 11</span>Hailburst</h1><p class=\\\"flavor\\\"><i>You evoke an elemental from the high mountains and deep sky, creating a short-lived shower of magical hailstones to impede your foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d8 + ability modifier cold damage, and the target is weakened until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Rainbringer",
     "flavor": "You evoke an elemental from the high mountains and deep sky, creating a short-lived shower of magical hailstones to impede your foes.",
     "keywords": [
       "Cold, Implement, Primal"
     ],
-    "range": "Close burst 1</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Primary ability vs. Fortitude</p><p class=\"flavor\">Hit: 1d8 + ability modifier cold damage, and the target is weakened until the end of your next turn.</p>",
+    "range": "Close burst 1<",
     "target": "Each enemy in the burst",
     "attack": "Primary ability vs. Fortitude",
     "onHit": "1d8 + ability modifier cold damage, and the target is weakened until the end of your next turn."
@@ -22,19 +21,18 @@
   "Rain Serpent Elemental": {
     "id": "'11823",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Rainbringer",
     "frequency": "Daily",
     "level": "20",
     "name": "Rain Serpent Elemental",
     "type": "Attack",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRain Serpent Elemental\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11823\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Rainbringer Attack 20</span>Rain Serpent Elemental</h1><p class=\\\"flavor\\\"><i>You evoke a mighty elemental spirit, the legendary Rain Serpent. Its lightning tongue strikes down your foes, while its primal power heals your allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Implement</b>, <b>Lightning</b>, <b>Primal</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + ability modifier lightning damage, and the target is dazed (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of your next turn. You can move the zone 4 squares as a move action. All squares within the zone are lightly obscured. Bloodied allies who start their turn within the zone gain regain 10 hit points. Each enemy that starts its turn within the zone takes 2d8 lightning damage and grants combat advantage until the start of its next turn.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Rainbringer",
     "flavor": "You evoke a mighty elemental spirit, the legendary Rain Serpent. Its lightning tongue strikes down your foes, while its primal power heals your allies.",
     "keywords": [
       "Healing, Implement, Lightning, Primal, Zone"
     ],
-    "range": "Area burst 2 within 10 squares</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Primary ability vs. Reflex</p><p class=\"flavor\">Hit: 2d8 + ability modifier lightning damage, and the target is dazed (save ends).</p><p class=\"powerstat\">Effect: The burst creates a zone that lasts until the end of your next turn. You can move the zone 4 squares as a move action. All squares within the zone are lightly obscured. Bloodied allies who start their turn within the zone gain regain 10 hit points. Each enemy that starts its turn within the zone takes 2d8 lightning damage and grants combat advantage until the start of its next turn.</p><p class=\"flavor\">Sustain Minor: The zone persists.</p>",
+    "range": "Area burst 2 within 10 squares<",
     "target": "Each enemy in the burst",
     "attack": "Primary ability vs. Reflex",
     "onHit": "2d8 + ability modifier lightning damage, and the target is dazed (save ends).",
@@ -44,19 +42,18 @@
   "Balm of Rain": {
     "id": "'11824",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Rainbringer",
     "frequency": "Encounter",
     "level": "12",
     "name": "Balm of Rain",
     "type": "Utility",
     "sourceRef": "Dark Sun Campaign Setting",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBalm of Rain\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11824\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Rainbringer Utility 12</span>Balm of Rain</h1><p class=\\\"flavor\\\"><i>Gentle mists form around your allies, concealing them. The touch of the mist brings healing to one of them.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 3 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target gains concealment until the end of your next turn. In addition, one target can spend a healing surge.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 48.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Rainbringer",
     "flavor": "Gentle mists form around your allies, concealing them. The touch of the mist brings healing to one of them.",
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Area burst 3 within 10 squares</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: Each target gains concealment until the end of your next turn. In addition, one target can spend a healing surge.</p>",
+    "range": "Area burst 3 within 10 squares<",
     "target": "Each ally in the burst",
     "effect": "Each target gains concealment until the end of your next turn. In addition, one target can spend a healing surge."
   }

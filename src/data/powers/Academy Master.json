@@ -2,14 +2,13 @@
   "Learned Boost": {
     "id": "'7430",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Academy Master",
     "frequency": "Encounter",
     "level": "11",
     "name": "Learned Boost",
     "type": "Master",
     "sourceRef": "Dragon Magazine 374",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLearned Boost\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7430\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Academy Master Attack 11</span>Learned Boost</h1><p class=\\\"flavor\\\"><i>You masterfully channel arcane energy into one of your simplest powers, imbuing it with surprising power.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Reliable</b> ; <b>Implement</b> or <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;</p><p class=\\\"flavor\\\"><b>Effect</b>: Use one of your arcane at-will attack powers on the target. If you hit, you deal +2[W] damage, or +2 dice of damage if it is a nonweapon attack.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/374\\\" target=\\\"_new\\\">Dragon Magazine 374</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Academy Master",
     "flavor": "You masterfully channel arcane energy into one of your simplest powers, imbuing it with surprising power.",
     "keywords": [
       "Arcane, Reliable ; Implement or Weapon"
@@ -20,33 +19,31 @@
   "Refined Recall": {
     "id": "'7431",
     "action": "Free",
-    "powerClass": "",
+    "powerClass": "Academy Master",
     "frequency": "Encounter",
     "level": "12",
     "name": "Refined Recall",
     "type": "Master",
     "sourceRef": "Dragon Magazine 374",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRefined Recall\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7431\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Academy Master Utility 12</span>Refined Recall</h1><p class=\\\"flavor\\\"><i>A moment of concentration allows you to reclaim the power invested in your faulty effort.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You miss every target when using an arcane encounter attack power.</p><p class=\\\"flavor\\\"><b>Effect</b>: The attack power is not expended.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/374\\\" target=\\\"_new\\\">Dragon Magazine 374</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Academy Master",
     "flavor": "A moment of concentration allows you to reclaim the power invested in your faulty effort.",
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: You miss every target when using an arcane encounter attack power.</p><p class=\"flavor\">Effect: The attack power is not expended.</p>",
+    "range": "Personal <",
     "trigger": "You miss every target when using an arcane encounter attack power.",
     "effect": "The attack power is not expended."
   },
   "Master's Surge": {
     "id": "'7432",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Academy Master",
     "frequency": "Daily",
     "level": "20",
     "name": "Master's Surge",
     "type": "Master",
     "sourceRef": "Dragon Magazine 374",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMaster's Surge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7432\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Academy Master Attack 20</span>Master's Surge</h1><p class=\\\"flavor\\\"><i>With great skill, you increase the power of an oft-used spell to devastating effect.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Reliable</b> ; <b>Implement</b> or <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;</p><p class=\\\"flavor\\\"><b>Effect</b>: Use one of your arcane encounter attack powers on the target. That power is not expended. If you hit, you deal +2[W] damage, or +2 dice of damage if it is a nonweapon attack. You can also increase the duration of any effect the power applies to an enemy to “(save ends).”</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/374\\\" target=\\\"_new\\\">Dragon Magazine 374</a>, page(s) 22.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Academy Master",
     "flavor": "With great skill, you increase the power of an oft-used spell to devastating effect.",
     "keywords": [
       "Arcane, Reliable ; Implement or Weapon"

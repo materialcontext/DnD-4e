@@ -2,19 +2,18 @@
   "Ravaging Shot": {
     "id": "'9546",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Crimson Hunter",
     "frequency": "Encounter",
     "level": "11",
     "name": "Ravaging Shot",
     "type": "Hunter",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRavaging Shot\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9546\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Crimson Hunter Attack 11</span>Ravaging Shot</h1><p class=\\\"flavor\\\"><i>You draw from your ancestors’ insights to guide your shots.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Wisdom modifier damage, and the target gains vulnerable 5 to all damage until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power as a ranged basic attack.</p><br/>Update (6/28/2011)<br/>Changed to match July update.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 130.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Crimson Hunter",
     "flavor": "You draw from your ancestors’ insights to guide your shots.",
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Wisdom vs. AC</p><p class=\"flavor\">Hit: 2[W] + Wisdom modifier damage, and the target gains vulnerable 5 to all damage until the end of your next turn.</p><p class=\"powerstat\">Special: You can use this power as a ranged basic attack.</p>",
+    "range": "Ranged weapon<",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and the target gains vulnerable 5 to all damage until the end of your next turn.",
@@ -23,19 +22,18 @@
   "Bloody Despair": {
     "id": "'9547",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Crimson Hunter",
     "frequency": "Daily",
     "level": "20",
     "name": "Bloody Despair",
     "type": "Hunter",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBloody Despair\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9547\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Crimson Hunter Attack 20</span>Bloody Despair</h1><p class=\\\"flavor\\\"><i>Your careful shot nudges the enemy into despair, robbing it of some of its strength.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One bloodied creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Wisdom modifier damage, and the target is weakened (save ends). The target takes a –5 penalty to saving throws against this effect until the end of its next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 130.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Crimson Hunter",
     "flavor": "Your careful shot nudges the enemy into despair, robbing it of some of its strength.",
     "keywords": [
       "Primal, Reliable, Weapon"
     ],
-    "range": "Ranged weapon</p><p class=\"powerstat\">Target: One bloodied creature</p><p class=\"powerstat\">Attack: Wisdom vs. Fortitude</p><p class=\"flavor\">Hit: 3[W] + Wisdom modifier damage, and the target is weakened (save ends). The target takes a –5 penalty to saving throws against this effect until the end of its next turn.</p>",
+    "range": "Ranged weapon<",
     "target": "One bloodied creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3[W] + Wisdom modifier damage, and the target is weakened (save ends). The target takes a –5 penalty to saving throws against this effect until the end of its next turn."
@@ -43,19 +41,18 @@
   "Hunter's Mobility": {
     "id": "'9548",
     "action": "Immediate Reaction",
-    "powerClass": "",
+    "powerClass": "Crimson Hunter",
     "frequency": "Encounter",
     "level": "12",
     "name": "Hunter's Mobility",
     "type": "Hunter",
     "sourceRef": "Player's Handbook 3",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHunter's Mobility\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9548\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Crimson Hunter Utility 12</span>Hunter's Mobility</h1><p class=\\\"flavor\\\"><i>An enemy’s momentary weakness gives you the chance to adjust your position.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy you can see is bloodied by an attack</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift half your speed.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 130.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Crimson Hunter",
     "flavor": "An enemy’s momentary weakness gives you the chance to adjust your position.",
     "keywords": [
       "Primal"
     ],
-    "range": "Personal </p><p class=\"powerstat\">Trigger: An enemy you can see is bloodied by an attack</p><p class=\"flavor\">Effect: You shift half your speed.</p>",
+    "range": "Personal <",
     "trigger": "An enemy you can see is bloodied by an attack",
     "effect": "You shift half your speed."
   }

@@ -2,19 +2,18 @@
   "Veiled Strike": {
     "id": "'14062",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Veiled Master",
     "frequency": "Encounter",
     "level": "11",
     "name": "Veiled Strike",
     "type": "Master",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVeiled Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14062\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Veiled Master Attack 11</span>Veiled Strike</h1><p class=\\\"flavor\\\"><i>You imbue your weapon with the essence of shadow, unleashing it as an inky cloud that quickly surrounds you.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Weapon</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength or Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength or Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You create a zone in a close burst 2 that lasts until the end of your next turn. For all creatures except you, the zone blocks line of sight and is totally obscured.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 151.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Veiled Master",
     "flavor": "You imbue your weapon with the essence of shadow, unleashing it as an inky cloud that quickly surrounds you.",
     "keywords": [
       "Shadow, Weapon, Zone"
     ],
-    "range": "Melee weapon</p><p class=\"powerstat\">Target: One creature</p><p class=\"powerstat\">Attack: Strength or Dexterity vs. AC</p><p class=\"flavor\">Hit: 2[W] + Strength or Dexterity modifier damage.</p><p class=\"powerstat\">Effect: You create a zone in a close burst 2 that lasts until the end of your next turn. For all creatures except you, the zone blocks line of sight and is totally obscured.</p>",
+    "range": "Melee weapon<",
     "target": "One creature",
     "attack": "Strength or Dexterity vs. AC",
     "onHit": "2[W] + Strength or Dexterity modifier damage.",
@@ -23,19 +22,18 @@
   "Maelstrom of Darkness": {
     "id": "'14063",
     "action": "Standard",
-    "powerClass": "",
+    "powerClass": "Veiled Master",
     "frequency": "Daily",
     "level": "20",
     "name": "Maelstrom of Darkness",
     "type": "Master",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMaelstrom of Darkness\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14063\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Veiled Master Attack 20</span>Maelstrom of Darkness</h1><p class=\\\"flavor\\\"><i>With a sweep of your weapon, you call down the darkness of the Shadowfell to surround you and scour your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Weapon</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength or Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength or Dexterity modifier damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of your next turn. For all creatures except you, the zone blocks line of sight and is totally obscured.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The zone persists until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 151.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Veiled Master",
     "flavor": "With a sweep of your weapon, you call down the darkness of the Shadowfell to surround you and scour your foes.",
     "keywords": [
       "Shadow, Weapon, Zone"
     ],
-    "range": "Close burst 2</p><p class=\"powerstat\">Target: Each enemy in the burst</p><p class=\"powerstat\">Attack: Strength or Dexterity vs. AC</p><p class=\"flavor\">Hit: 3[W] + Strength or Dexterity modifier damage.</p><p class=\"powerstat\">Effect: The burst creates a zone that lasts until the end of your next turn. For all creatures except you, the zone blocks line of sight and is totally obscured.</p><p class=\"flavor\">Sustain Minor: The zone persists until the end of your next turn.</p>",
+    "range": "Close burst 2<",
     "target": "Each enemy in the burst",
     "attack": "Strength or Dexterity vs. AC",
     "onHit": "3[W] + Strength or Dexterity modifier damage.",
@@ -45,19 +43,18 @@
   "Veiled Eyes": {
     "id": "'14064",
     "action": "Minor",
-    "powerClass": "",
+    "powerClass": "Veiled Master",
     "frequency": "Encounter",
     "level": "12",
     "name": "Veiled Eyes",
     "type": "Master",
     "sourceRef": "Heroes of Shadow",
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVeiled Eyes\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14064\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Veiled Master Utility 12</span>Veiled Eyes</h1><p class=\\\"flavor\\\"><i>You close your eyes and expand your senses to engage foes that you could not otherwise perceive.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Shadow</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the veiled eyes stance. Until the stance ends, you have blindsight 3 and immunity to gaze attacks. You cannot see any creature or object outside your blindsight’s range. You can end the stance as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/280880000\\\" target=\\\"_new\\\">Heroes of Shadow</a>, page(s) 151.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
-    "class": "Veiled Master",
     "flavor": "You close your eyes and expand your senses to engage foes that you could not otherwise perceive.",
     "keywords": [
       "Shadow, Stance"
     ],
-    "range": "Personal </p><p class=\"flavor\">Effect: You assume the veiled eyes stance. Until the stance ends, you have blindsight 3 and immunity to gaze attacks. You cannot see any creature or object outside your blindsight’s range. You can end the stance as a free action.</p>",
+    "range": "Personal <",
     "effect": "You assume the veiled eyes stance. Until the stance ends, you have blindsight 3 and immunity to gaze attacks. You cannot see any creature or object outside your blindsight’s range. You can end the stance as a free action."
   }
 }
