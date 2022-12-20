@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "2d8 + Constitution modifier fire damage. Each creature adjacent to the target takes fire damage equal to half the damage dealt."
@@ -32,7 +32,7 @@
     "keywords": [
       "Arcane, Fire"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "Two unoccupied squares",
     "effect": "You create a dimensional rift between the two target squares that lasts until the end of your next turn. Any creature that enters one of the target squares can move to the other target square as if it were adjacent to that square. A creature cannot pass through the rift if either square is occupied by another creature. Each enemy that moves from one gate square to the other takes 1d10 + your Constitution modifier fire damage.",
     "sustainMinor": "The gates persist."
@@ -51,7 +51,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each enemy in the burst",
     "attack": "Constitution vs. Fortitude",
     "onHit": "2d10 + Constitution modifier fire damage, and you knock the target prone.",

@@ -13,7 +13,7 @@
     "keywords": [
       "Beast Form, Implement, Necrotic, Primal"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier necrotic damage, you slide the target 1 square, and the target is dazed until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Beast Form, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Move a number of squares equal to your speed + your Constitution modifier. With this movement, you can move through enemy spaces, you ignore difficult terrain, and without squeezing, you can move through spaces a single maggot could move through. You take half damage from any melee attack that hits you during this movement."
   },
   "Blight Locus": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Beast Form, Implement, Necrotic, Primal"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3d8 + Wisdom modifier necrotic damage, ongoing 10 necrotic damage (save ends), and you slide the target 2 squares.",

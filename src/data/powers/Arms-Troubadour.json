@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "The power Elegant Blade must be active in order to use this power.",
     "target": "One creature",
     "attack": "Primary ability vs. AC",
@@ -34,7 +34,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "The power Poetic Flourish must be active in order to use this power.",
     "trigger": "You hit with a melee weapon attack",
     "target": "Each ally in the burst",
@@ -54,7 +54,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy adjacent to you targets you or an ally with a melee attack.",
     "target": "The triggering enemy",
     "effect": "Choose a different creature within the target's reach. The target now attacks that creature instead."

@@ -13,7 +13,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you grab the target. Until the end of your next turn, you gain a +2 power bonus to Fortitude and Reflex against attempts to break your grab."
@@ -32,7 +32,7 @@
     "keywords": [
       "Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain phasing and deal full damage to insubstantial creatures."
   },
   "Dance of Blood": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "At the start of your turn, you can slide one adjacent enemy 1 square. You can then make a melee basic attack against that enemy as a free action provided that enemy is within your reach."
   }
 }

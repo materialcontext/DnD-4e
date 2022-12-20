@@ -13,7 +13,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy moves to a square where it flanks you",
     "effect": "You shift 1 square and make a basic attack against the triggering enemy. If the attack hits, it deals 1d10 extra damage and knocks the target prone."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence, Wisdom, or Charisma + 6 vs. Will<br/>Level 21: +9.",
     "onHit": "3d10 + Intelligence, Wisdom, or Charisma modifier psychic damage, and the target gains vulnerable 10 to all damage until the end of your next turn.",
@@ -51,7 +51,7 @@
     "keywords": [
       "Conjuration"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You teleport out of a square",
     "target": "The square you just teleported out of in the burst",
     "effect": "You become invisible until you attack or until the end of your next turn. You also conjure a crystal duplicate of yourself on the ground in the target square, and it lasts until the end of your next turn. The crystal duplicate occupies the square, can be attacked, has 1 hit point, and is never damaged by an attack that misses. You move the target up to your speed as part of a minor action and can have the conjuration pick up or manipulate an object as part of a minor action."

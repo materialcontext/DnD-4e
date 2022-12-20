@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the back to back stance. Until the stance ends, while you are adjacent to an ally, you and the ally gain a +1 bonus to attack rolls."
   },
   "Stir the Hornet’s Nest": {
@@ -30,7 +30,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must make this attack with a heavy thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -51,7 +51,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of the encounter, when you charge a creature, choose an ally within 5 squares of where you start the charge. That ally can charge the same creature as an immediate reaction.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -71,7 +71,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Each ally within 5 squares of you gains a +1 power bonus to all defenses until the end of the encounter.",
@@ -91,7 +91,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -111,7 +111,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the end of your next turn, you and each ally within 5 squares of you gain a power bonus to attack rolls against the target equal to 1 + your Intelligence modifier.",
@@ -131,7 +131,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "Strength modifier damage. Choose an ally adjacent to you or to the target. The ally gains a power bonus to the next attack roll and damage roll that he or she makes against the target before the end of his or her next turn. The power bonus equals your Charisma modifier."
@@ -150,7 +150,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -170,7 +170,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -190,7 +190,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and the target falls prone. In addition, each ally within 5 squares of you can take a free action to make a basic attack. If that attack hits, its target takes no damage, but falls prone.",
@@ -210,7 +210,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "special": "Before the attack, an ally adjacent to you or to the target can shift 1 square as a free action.",
     "attack": "Strength vs. AC",
@@ -230,7 +230,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "One of your allies can take a free action to make a melee basic attack against the target. The ally gains a bonus to the damage roll equal to your Intelligence modifier."
   },
@@ -248,7 +248,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -268,7 +268,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. One ally adjacent to you or to the target gains a +2 power bonus to AC against the target’s attacks. The bonus lasts until the end of your next turn.",
@@ -288,7 +288,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, each of your allies gains a +2 bonus to damage rolls against the target.",
@@ -308,7 +308,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. One ally within 5 squares of you gains a +2 power bonus to attack rolls against the target until the end of your next turn.",
@@ -328,7 +328,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, you and your allies can score a critical hit against the target on a roll of 18–20."
@@ -347,7 +347,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. One ally within 5 squares of you can take a free action to make a basic attack with combat advantage against a creature of his or her choice.",
@@ -367,7 +367,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -388,7 +388,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -408,7 +408,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -428,7 +428,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and each ally within 5 squares of you can make a saving throw.",
@@ -448,7 +448,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 5 damage (save ends).",
@@ -468,7 +468,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is dazed until the end of your next turn.",
@@ -488,7 +488,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is weakened until the end of your next turn.",
@@ -508,7 +508,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and one ally within 5 squares of you can take a standard action as a free action.",
@@ -528,7 +528,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you can choose an effect on the target that a save can end. The target fails its next saving throw against that effect."
@@ -547,7 +547,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Each target can spend a healing surge and make a saving throw against one effect that a save can end. In addition, each target gains a +2 power bonus to all defenses until the end of your next turn."
   },
@@ -565,7 +565,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target falls prone. In addition, each ally within 10 squares of you can take a free action to move up to 3 squares and make a melee basic attack. If that attack hits, its target takes no damage, but falls prone.",
@@ -585,7 +585,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -605,7 +605,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the start of your next turn, each ally within 10 squares of you can follow up a standard action with a basic attack made as a free action.",
@@ -626,7 +626,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "trigger": "An ally within 20 squares of you is hit by an enemy",
     "target": "The triggering ally in the burst",
     "effect": "The target regains hit points as if he or she had spent a healing surge and then makes two basic attacks against the attacking enemy as an opportunity action. If either basic attack hits, the enemy is dazed (save ends).",
@@ -646,7 +646,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage, and you and each ally within 10 squares of you can make a saving throw against one effect that a save can end.",
@@ -666,7 +666,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -686,7 +686,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "A creature attacks your ally",
     "effect": "The ally can spend a healing surge immediately after the target's attack.",
     "target": "The triggering creature",
@@ -708,7 +708,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier damage.",
@@ -729,7 +729,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target makes a saving throw with a power bonus equal to your Charisma modifier."
   },
@@ -747,7 +747,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "You or one ally",
     "effect": "The target can spend a healing surge."
   },
@@ -765,7 +765,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "The target can take a move action as a free action."
   },
@@ -783,7 +783,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "Each target regains hit points equal to 10 + your Charisma modifier."
   },
@@ -801,7 +801,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An ally within 10 squares of you charges a creature.",
     "target": "The triggering ally",
     "effect": "If the charge attack hits, the target gains a bonus to the damage roll equal to your Intelligence modifier, and he or she pushes the charged creature up to 2 squares. The target can then shift up to 2 squares to a square adjacent to the creature."
@@ -820,7 +820,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "The target gains a +2 power bonus to speed until the end of the encounter."
   },
@@ -838,7 +838,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An ally is hit by a melee or a ranged attack",
     "target": "The triggering ally",
     "effect": "The ally can take a free action to shift a number of squares up to 1 + your Intelligence modifier."
@@ -857,7 +857,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, allies ignore ongoing damage on any turn they start adjacent to you, neither taking the damage nor making saving throws to end it."
   },
   "White Raven Formation": {
@@ -874,7 +874,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Each target can take a move action as a free action."
   },
@@ -892,7 +892,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Each target can spend a healing surge. Until the end of your next turn, each target gains a +2 power bonus to attack rolls."
   },
@@ -910,7 +910,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target can end one effect on it that a save can end."
   },
@@ -928,7 +928,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You or an ally within 5 squares of you takes damage.",
     "target": "You and each ally in the burst",
     "effect": "Each target can spend a healing surge and regain additional hit points equal to your Charisma modifier."
@@ -947,7 +947,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target gains temporary hit points equal to his or her healing surge value + your Charisma modifier. Until the target loses as many temporary hit points as he or she gained from this power, the target gains a bonus to damage rolls equal to your Charisma modifier and can’t be dazed, immobilized, pulled, pushed, restrained, slid, slowed, stunned, or weakened."
   },
@@ -965,7 +965,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you scores a critical hit.",
     "target": "The triggering ally",
     "effect": "The target gains temporary hit points equal to your Charisma modifier."
@@ -984,7 +984,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier damage. One ally adjacent to the target can make a melee basic attack against it as a free action, with a bonus to the damage roll equal to your Charisma modifier."
@@ -1003,7 +1003,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and one ally within 5 squares of you can shift 1 square as a free action.",
@@ -1023,7 +1023,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1043,7 +1043,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. You (only if you are adjacent to the target) or one ally adjacent to the target can take a free action to swap places with it, sliding it 1 square and shifting 1 square."
@@ -1062,7 +1062,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1082,7 +1082,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you can slide the target 1 square."
@@ -1101,7 +1101,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and one ally within 5 squares of you gains 10 temporary hit points.",
@@ -1121,7 +1121,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each ally within 5 squares of you can make a basic attack against the target as a free action."
@@ -1140,7 +1140,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and each ally who can see you can move up to his or her speed as a free action.",
@@ -1160,7 +1160,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. Choose one or two allies within 10 squares of you. Each of those allies can shift up to his or her speed as a free action."
@@ -1179,7 +1179,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage, and you slide the target up to 2 squares.",
@@ -1199,7 +1199,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and each ally you can see gains 20 temporary hit points.",
@@ -1219,7 +1219,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You charge and make the following attack in place of a melee basic attack.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1239,7 +1239,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Each ally who can see you regains hit points equal to his or her healing surge value + your Charisma modifier.",
@@ -1259,7 +1259,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you can slide an ally adjacent to you 1 square. Until the end of the encounter, immediately after you or an ally within 10 squares of you hits with an attack, that attacker can slide an ally adjacent to him or her 1 square.",
@@ -1279,7 +1279,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. You or one ally within 5 squares makes a saving throw.",
@@ -1299,7 +1299,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1319,7 +1319,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -1340,7 +1340,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5 (10 at 11th level, 15 at 21st level)<",
+    "range": "Close burst 5 (10 at 11th level, 15 at 21st level)",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 6: 2d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 4d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 26: 6d6 additional hit points.",
     "special": "You can use this power twice per encounter, but only once per round. At 16th level, you can use this power three times per encounter."
@@ -1359,7 +1359,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and each ally of yours adjacent to the target can make a melee basic attack against it as a free action.",
@@ -1379,7 +1379,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each enemy you can see in the burst",
     "effect": "You slide the target a number of squares up to your Intelligence modifier, but not into hindering terrain."
   },
@@ -1397,7 +1397,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature flanked by you and an ally",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the ally can make a melee basic attack against the target as a free action. If the ally’s attack hits, you make the secondary attack against the target.",
@@ -1418,7 +1418,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and one ally within 10 squares of you gains a +2 power bonus to speed until the end of your next turn.",
@@ -1439,7 +1439,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a heavy thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1460,7 +1460,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One bloodied creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier + Intelligence modifier damage.",
@@ -1480,7 +1480,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and any ally within 2 squares of you can make a saving throw.",
@@ -1500,7 +1500,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1521,7 +1521,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy within 5 squares of you hits an ally with an opportunity attack",
     "target": "The triggering ally in the burst",
     "effect": "The target makes a melee basic attack against the attacking enemy as a free action. If this attack hits, the attacking enemy rerolls the opportunity attack against a different creature of your choice within its reach.",
@@ -1541,7 +1541,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can shift 2 squares.",
     "attack": "Strength vs. AC",
@@ -1562,7 +1562,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature.",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and each of your allies adjacent to the target can make a saving throw and then shift 1 square as a free action.",
@@ -1582,7 +1582,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and each ally within 10 squares of you regains the use of second wind.",
@@ -1602,7 +1602,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One bloodied creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier + Charisma modifier damage.",
@@ -1622,7 +1622,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. If the target is bloodied or reduced to 0 hit points by this attack, two allies within 5 squares of you can each make a basic attack as a free action.",
@@ -1642,7 +1642,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and each ally within 5 squares of you can make a saving throw.",
@@ -1662,7 +1662,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex.",
     "onHit": "2[W] + Strength modifier damage. Until the start of your next turn, your allies gain combat advantage against the target and a power bonus to damage rolls against it equal to your Intelligence modifier."
@@ -1681,7 +1681,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you mark the target until the end of your next turn.",
@@ -1702,7 +1702,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1723,7 +1723,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1744,7 +1744,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever an enemy adjacent to you attacks an ally of yours and misses, you deal damage to the enemy equal to your Intelligence modifier as a free action.",
     "tacticalPresence": "If the enemy is marked by an ally, deal 1[W] + Intelligence modifier damage instead."
   },
@@ -1762,7 +1762,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy hits you with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. Reflex",
@@ -1784,7 +1784,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "special": "Each target can make a melee basic attack as a free action against a bloodied enemy adjacent to him or her."
   },
@@ -1802,7 +1802,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "One enemy in the burst and you or one ally in the burst",
     "effect": "The targets make opposed initiative checks. The winner gains combat advantage against the loser until the end of the winner’s next turn.",
     "bravuraPresence": "You or your ally gains a power bonus to the initiative check equal to your Charisma modifier."
@@ -1821,7 +1821,7 @@
     "keywords": [
       "Healing, Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you grant combat advantage to all enemies, but any enemies adjacent to you grant combat advantage to your allies.",
     "bravuraPresence": "When an enemy adjacent to you becomes bloodied or is reduced to 0 hit points, you regain hit points equal to your Charisma modifier."
   },
@@ -1839,7 +1839,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier damage, and you push the target 1 square. If the target is then adjacent to any of your allies, those allies can make a melee basic attack against the target as an opportunity action.",
@@ -1859,7 +1859,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you can shift 2 squares.",
@@ -1881,7 +1881,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy hits an ally with an opportunity attack",
     "effect": "The opportunity attack hits you instead.",
     "target": "The triggering enemy",
@@ -1902,7 +1902,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must charge and use this power in place of a melee basic attack.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -1924,7 +1924,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy within 5 squares of you bloodies an ally",
     "target": "The triggering enemy",
     "effect": "Before the attack, you can move your speed.",
@@ -1945,7 +1945,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1968,7 +1968,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when an ally within 5 squares of you misses with an attack, you can take an immediate interrupt to allow the ally to reroll the attack roll with a bonus equal to your Intelligence modifier."
   },
   "Repositioning Command": {
@@ -1985,7 +1985,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "Each target can shift 1 square.",
     "tacticalPresence": "Increase the burst to 10."
@@ -2004,7 +2004,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you choose one ally within 5 squares of you. Until the end of your next turn, if the target makes a melee attack against you or the ally, the ally can make an opportunity attack against the target."
@@ -2023,7 +2023,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you misses with an attack",
     "target": "The triggering ally in the burst",
     "effect": "The target can reroll the attack and has combat advantage for it."
@@ -2042,7 +2042,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each unmarked enemy in the burst",
     "effect": "The targets are marked by an ally of your choice until the end of your next turn.",
     "tacticalPresence": "Increase the burst to 5."
@@ -2061,7 +2061,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature.",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -2083,7 +2083,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, any enemy adjacent to you gains combat advantage against you but grants combat advantage to your allies.",
     "bravuraPresence": "Allies gain a bonus to melee damage rolls against enemies adjacent to you equal to your Charisma modifier."
   },
@@ -2101,7 +2101,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You and your allies make initiative checks at the beginning of an encounter",
     "targets": "You and two allies in the burst or three allies in the burst",
     "effect": "You swap the initiative check results of the targets.",
@@ -2121,7 +2121,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "3[W] + Strength modifier damage, and the target cannot recharge any of its powers or use action points until the end of your next turn.",
@@ -2141,7 +2141,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the marked condition ends on any ally within 10 squares of you. Also, each ally within 10 squares of you automatically saves against a charm or a fear effect that a save can end."
@@ -2160,7 +2160,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, as long as you are adjacent to an ally, roll twice each time you make an attack roll and use the higher result. Any ally adjacent to you gains the same benefit.",
     "tacticalPresence": "You gain the benefit when within 2 squares of an ally, and an ally within 2 squares of you gains the benefit as well."
   },
@@ -2178,7 +2178,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is marked (save ends).",
@@ -2200,7 +2200,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2221,7 +2221,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One, two, or three creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target a number of squares equal to your Intelligence modifier or Wisdom modifier. If the target ends the push adjacent to one of your allies, that ally can make a melee basic attack against the target as an opportunity action."
@@ -2240,7 +2240,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You or an ally adjacent to you takes damage.",
     "target": "The character who takes the damage",
     "effect": "The target can spend a healing surge and regains additional hit points equal to your Charisma modifier."
@@ -2259,7 +2259,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>Increase damage to 2[W] + Strength modifier at 21st level.",
@@ -2279,7 +2279,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "You push the target 1 square. Then choose one ally you can see. That ally either shifts a number of squares equal to your Intelligence modifier or makes a melee basic attack against the target."
@@ -2298,7 +2298,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier damage. Choose another enemy within 5 squares of you and pull it 1 square.",
@@ -2319,7 +2319,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you can shift 1 square. After you shift, one ally within 2 squares of you can shift 1 square as a free action."
@@ -2338,7 +2338,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and one of your allies within 5 squares of you gains a power bonus to damage rolls against the target equal to 1 + your Intelligence modifier until the end of the encounter. You can transfer the bonus to another ally within 5 squares of you as a minor action."
@@ -2357,7 +2357,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2377,7 +2377,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy within 5 squares of you reduces an ally to 0 hit points or fewer",
     "target": "The triggering enemy",
     "effect": "The ally can spend a healing surge and regains an additional 1d6 hit points for every opportunity attack you provoke while moving to the target.",
@@ -2398,7 +2398,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can shift 1 square.",
     "attack": "Strength vs. AC",
@@ -2419,7 +2419,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One ally in the burst",
     "effect": "Until the end of your next turn, the ally gains his or her choice of a power bonus to damage rolls equal to your Intelligence modifier or a power bonus to saving throws equal to your Charisma modifier.",
     "resourcefulPresence": "The ally gains both bonuses."
@@ -2438,7 +2438,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "requirement": "You must be bloodied.",
     "target": "Each ally in the burst",
     "effect": "The target can add your Charisma modifier to damage rolls until you are no longer bloodied. Also, you gain temporary hit points equal to your level + your Charisma modifier."
@@ -2457,7 +2457,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One enemy in the burst granting combat advantage to you or an ally",
     "effect": "Until the start of your next turn, all your allies gain combat advantage against the target.",
     "inspiringPresence": "Until the start of your next turn, your allies add your Charisma modifier to damage rolls against the target."
@@ -2476,7 +2476,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One bloodied ally in the burst",
     "effect": "The target regains the use of second wind and gains a power bonus to his or her next attack roll equal to your Charisma modifier."
   },
@@ -2494,7 +2494,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You if you’re bloodied or one bloodied ally",
     "effect": "The target gains temporary hit points equal to 5 + your Charisma modifier."
   },
@@ -2512,7 +2512,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be flanked.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2533,7 +2533,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy enters a square within your reach",
     "requirement": "You must be wielding a reach weapon.",
     "target": "The triggering enemy",
@@ -2555,7 +2555,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a heavy thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2578,7 +2578,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when you hit with a melee attack, choose a bloodied ally within 5 squares of you. That ally gains temporary hit points equal to 5 + your Charisma modifier.",
     "bravuraPresence": "You can choose to grant the temporary hit points when you miss with a melee attack, but that grants the target of the attack combat advantage against you until the end of your next turn."
   },
@@ -2596,7 +2596,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose one enemy you can see. Until the end of your next turn, any ally who can see or hear you doesn’t take the normal penalty to attack rolls for cover or concealment when attacking that enemy (the penalties for superior cover and total concealment still apply)."
   },
   "Guileful Switch": {
@@ -2613,7 +2613,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must use this power during your turn before you take any other actions.",
     "effect": "You and one ally you can see switch places in the initiative order. Your turn ends when you use this power, and the ally takes his or her next turn immediately, even if he or she has already acted during this round. You then act when your ally would have acted."
   },
@@ -2631,7 +2631,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "Until the stance ends, whenever you are adjacent to any ally who is using a shield, you and the ally gain a +1 power bonus to AC and Reflex."
   },
@@ -2649,7 +2649,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target can spend two healing surges.",
     "inspiringPresence": "The target regains additional hit points equal to 5 + your Charisma modifier."
@@ -2668,7 +2668,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally makes a basic attack, a bull rush, or a charge within 10 squares of you",
     "target": "The triggering ally in the burst",
     "effect": "The target gains a power bonus to the attack roll equal to your Intelligence modifier."
@@ -2687,7 +2687,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target must make a basic attack against you as a free action. If the basic attack misses, an ally of yours can make a basic attack against the target as a free action.",
@@ -2707,7 +2707,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier + Charisma modifier damage. Until the start of your next turn, one ally within 5 squares of you gains a power bonus to his or her next attack roll equal to your Charisma modifier.",
@@ -2727,7 +2727,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the start of your next turn, any ally who can see you gains a +1 power bonus to attack rolls and damage rolls with basic attacks and at-will powers.",
@@ -2747,7 +2747,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged 3<",
+    "range": "Ranged 3",
     "trigger": "An enemy enters a square within 3 squares of you",
     "requirement": "You must be wielding a heavy thrown weapon.",
     "target": "The triggering enemy",
@@ -2770,7 +2770,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "As a free action, the target can make an attack using an encounter attack power that he or she has already used during this encounter. Also, if you have used all your encounter attack powers, you regain the use of a warlord encounter attack power you have used during this encounter."
   },
@@ -2788,7 +2788,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each ally in the burst",
     "effect": "Until the end of your next turn, each target regains additional hit points equal to your Charisma modifier when he or she uses second wind. Each target can also choose to use second wind as a minor action but gain no bonus to defenses from it."
   },
@@ -2806,7 +2806,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, every target gains your choice of a power bonus to  attack rolls equal to your Charisma modifier, a power bonus to speed equal to your Charisma modifier, or a power bonus to all defenses equal to your Intelligence modifier.",
     "resourcefulPresence": "You can grant a different bonus to each target."
@@ -2825,7 +2825,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with a ranged attack",
     "requirement": "You must be using a shield.",
     "effect": "Reduce the attack’s damage by one-half your level. One ally within 5 squares of the attacker can charge the attacker as a free action."
@@ -2844,7 +2844,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, once on each of your turns you can use a move action to  shift 1 square and gain a +2 power bonus to damage rolls until the start of your next turn, or you can use a move action to allow an ally within 5 squares of you to do the same as a free action."
   },
   "Headstrong Bravery": {
@@ -2861,7 +2861,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and you mark the target until the end of your next turn. Until the start of your next turn, you grant combat advantage to all enemies, and your allies gain a +2 power bonus to damage rolls against the target.",
@@ -2882,7 +2882,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "One or two allies in the burst",
     "effect": "Each target can shift 3 squares and make a melee basic attack against an adjacent enemy as a free action. If the target is flanking the enemy, he or she gains a bonus to the damage roll equal to your Charisma modifier.",
     "bravuraPresence": "The target gains a power bonus to the attack roll equal to your Charisma modifier."
@@ -2901,7 +2901,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage. If this attack bloodies the target, two of your adjacent allies can each make a basic attack against the target as a free action.",
@@ -2922,7 +2922,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the end of the encounter, the target takes a –2 penalty to attack rolls against you or any ally who is adjacent to you when it attacks (the target takes no penalty if it is immune to fear).",
@@ -2942,7 +2942,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and the target takes a –2 penalty to attack rolls and grants combat advantage to you and your allies (save ends both)."
@@ -2961,7 +2961,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "targets": "You and each ally in the burst",
     "effect": "Each target can charge or make a basic attack as a free action, with a power bonus to the attack roll and the damage roll equal to your Charisma modifier."
   },
@@ -2979,7 +2979,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One ally",
     "effect": "The target gains temporary hit points equal to 10 + your Charisma modifier. Until the end of your next turn, the target also gains a power bonus to damage rolls, one defense, or saving throws equal to your Charisma modifier."
   },
@@ -2997,7 +2997,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One ally",
     "effect": "Until the stance ends, you and the target both gain a +2 power bonus to attack rolls, AC, and Reflex when you’re adjacent to each other."
   },
@@ -3015,7 +3015,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you is hit by a ranged or an area attack",
     "target": "The triggering ally in the burst",
     "effect": "The target can shift a number of squares equal to 1 + your Intelligence modifier."
@@ -3034,7 +3034,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier damage, and allies within 5 squares of you deal 1[W] extra damage with their at-will weapon attacks that hit until the start of your next turn."
@@ -3053,7 +3053,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and one ally within 5 squares of you can charge the target as a free action.",
@@ -3074,7 +3074,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3095,7 +3095,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3116,7 +3116,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a heavy thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC. The attack can score a critical hit on a roll of 18–20.",
@@ -3137,7 +3137,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You are reduced to 0 hit points or fewer by an enemy",
     "target": "Each ally in the burst",
     "effect": "Each target can spend a healing surge and regain additional hit points equal to your Charisma modifier. Until the end of the encounter, the targets gain a +2 power bonus to attack rolls and damage rolls."
@@ -3156,7 +3156,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you grant combat advantage to all enemies. In addition, you and each ally within 10 squares of you gain a +2 power bonus to attack rolls against bloodied enemies. Also, each time you or an ally within 10 squares of you spends an action point to take an extra action, that character can make a basic attack as a free action before taking the extra action.",
     "bravuraPresence": "You and each ally within 10 squares of you gain a bonus to damage rolls against bloodied enemies equal to your Charisma modifier."
   },
@@ -3174,7 +3174,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You and your allies make initiative checks at the beginning of an encounter",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a power bonus to the initiative check equal to your Intelligence modifier, and during each target’s first turn, he or she gains a bonus to damage rolls equal to your Intelligence modifier."
@@ -3193,7 +3193,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Until the start of your next turn, each target can make basic attacks as minor actions.",
     "resourcefulPresence": "Each target gains a bonus to the basic attack rolls equal to your Intelligence or Charisma modifier."
@@ -3212,7 +3212,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be trained in Diplomacy.",
     "effect": "Until the stance ends, each time you hit an enemy with an attack, allies within 10 squares of you gain temporary hit points equal to 5 + your Charisma modifier. You and your allies gain a bonus to saving throws against fear effects equal to your Charisma modifier.",
     "inspiringPresence": "Each time you hit an enemy with an attack, one ally within 10 squares of you can make a saving throw."
@@ -3231,7 +3231,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "4[W] + Strength modifier damage, and you mark and grant combat advantage to every enemy within 2 squares of you until the end of your next turn. Each of the enemies that attacks you grants combat advantage to your allies until the end of its next turn.",
@@ -3251,7 +3251,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Will",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3271,7 +3271,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3295,7 +3295,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be bloodied.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3315,7 +3315,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One ally in the burst",
     "effect": "As a free action, the target can make an attack using an encounter attack power that he or she has already used during this encounter, and the target gains a +2 bonus to the attack roll. Also, if you have used all your encounter attack powers, you regain the use of a warlord encounter attack power you have used during this encounter."
   },
@@ -3333,7 +3333,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "4[W] + Strength modifier damage, and you push the target 2 squares.",
@@ -3354,7 +3354,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst you can see",
     "effect": "You pull each target 1 square to a space adjacent to you. You can’t pull a target that can’t end adjacent to you. You then attack one of the targets.",
     "attack": "Strength vs. AC",
@@ -3375,7 +3375,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "effect": "Before the attack, you can shift 3 squares.",
     "attack": "Strength vs. AC, one attack per target",
@@ -3396,7 +3396,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you gain an additional use of inspiring word for this encounter.",
@@ -3416,7 +3416,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits you with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. Fortitude",
@@ -3436,7 +3436,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "target": "Each ally in the burst",
     "effect": "Each target gains 20 temporary hit points and can make a basic attack as a free action.",
     "inspiringPresence": "Each target gains additional temporary hit points and a bonus to the basic attack’s damage roll equal to your Charisma modifier."
@@ -3455,7 +3455,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
     "onHit": "6[W] + Strength modifier damage. Until the end of the encounter, your allies gain a bonus to damage rolls against the target equal to your Charisma modifier.<br/>When the target is reduced to 0 hit points, choose another enemy within 5 squares of it, and your allies gain the bonus to damage rolls against that enemy. Each time the chosen enemy is reduced to 0 hit points, choose a different enemy within 5 squares of it."
@@ -3474,7 +3474,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3495,7 +3495,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You or an ally within 5 squares of you uses second wind",
     "target": "One ally in the burst other than the triggering character",
     "effect": "The target can shift 1 square as a free action. In addition, an enemy in the burst is marked by the target until the end of the enemy's next turn.<br/>"
@@ -3514,7 +3514,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier damage, and the target is marked until the end of your next turn.",
@@ -3534,7 +3534,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a polearm.",
     "effect": "Move 4 squares, ignoring difficult and hindering terrain. You can use this power to move through an enemy’s space, but doing so provokes opportunity attacks when leaving a square adjacent to the enemy as normal."
   },
@@ -3552,7 +3552,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a reach weapon.",
     "target": "One creature",
     "effect": "Before the attack, slide the target 3 squares to a square adjacent to you.",
@@ -3574,7 +3574,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a reach weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3594,7 +3594,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Once a turn you can spend a minor action to shift 1 square."
   },
   "Glasya's Stride": {
@@ -3611,7 +3611,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Shift your speed.",
     "targets": "A number of creatures within your melee reach at any point during your move up to your Intelligence modifier (minimum 1).",
     "attack": "Strength vs. AC, one attack per target",
@@ -3632,7 +3632,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "requirement": "You must be wielding a polearm.",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
@@ -3652,7 +3652,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "special": "Before you make the attack, you grant combat advantage to all your enemies until the start of your next turn.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3673,7 +3673,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each bloodied ally in the burst",
     "effect": "Each target gains a +2 power bonus to attack rolls until the end of your next turn.",
     "special": "If you are a dragonborn, the bonus to attack rolls is +3."
@@ -3692,7 +3692,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. Until the end of your next turn, any ally who charges the target deals extra damage equal to your Intelligence modifier.<br/>Level 21: 2[W] + Strength modifier damage.",
@@ -3712,7 +3712,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you add your Charisma modifier to the hit points restored with any warlord healing power you use before the end of your next turn.<br/>Increase damage to 2[W] + Strength modifier at 21st level."
@@ -3731,7 +3731,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target treats all squares as difficult terrain until the end of your next turn. You and your allies ignore difficult terrain until the end of your next turn.",
@@ -3751,7 +3751,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, enemies within your reach grant combat advantage to your allies. You gain a +1 power bonus to melee attack rolls per ally adjacent to a target of your melee attacks, to a maximum of +4."
   },
   "Coordinated Offensive": {
@@ -3768,7 +3768,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "special": "If you used inspiring word on this turn, you gain a +2 power bonus to the attack roll.",
@@ -3789,7 +3789,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally who has line of sight to you and can hear you",
     "effect": "The target makes a charge attack as a free action. This attack deals 1[W] extra damage."
   },
@@ -3807,7 +3807,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee 5<",
+    "range": "Melee 5",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "You pull the target 5 squares, and one, two, or three allies within 5 squares of you who have line of sight to you and can hear you can make charge attacks against the target as free actions."
@@ -3826,7 +3826,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. You slide the target 1 square and slide one ally adjacent to you 3 squares to the square the target vacated. Then the ally can make a melee basic attack against the target as a free action.",
@@ -3847,7 +3847,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and an ally within your line of sight can shift 1 square or move 3 squares as a free action.",
@@ -3867,7 +3867,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3887,7 +3887,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3908,7 +3908,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "trigger": "An attack hits an adjacent ally",
     "target": "The triggering ally",
     "effect": "You and the target switch places. The attack hits you instead, and you or the target can spend a healing surge."
@@ -3927,7 +3927,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You and any ally in the burst",
     "effect": "The target cannot be knocked prone, pushed, pulled, or slid until the end of your next turn. Also until the end of your next turn, when you use inspiring word on an ally, the ally can stand up as a free action."
   },
@@ -3945,7 +3945,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each ally who hits the target before the end of your next turn gives it a cumulative -1 penalty to its attack rolls until the end of your next turn, to a maximum of -5.",
@@ -3966,7 +3966,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You are bloodied by an attack",
     "target": "One ally with line of sight to you",
     "effect": "The target makes a melee basic attack against each enemy adjacent to him or her as a free action. Then the target can shift 1 square for each enemy he or she hit as a free action, but the target must end this movement closer to you."
@@ -3985,7 +3985,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -4006,7 +4006,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Move your speed. At the end of your movement, you grant combat advantage to and are marked by one enemy adjacent to you until the end of your next turn. While you are marked by this enemy, you gain a power bonus to your damage rolls against the enemy equal to your Strength modifier."
   },
   "Warlord's Denial": {
@@ -4023,7 +4023,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You and any ally in the burst",
     "effect": "The target makes a saving throw. Until the end of your next turn, when you use inspiring word on an ally, the ally can make a saving throw."
   },
@@ -4041,7 +4041,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you slide one ally within 5 squares of you 6 squares to a square adjacent to the target. That ally can make a melee basic attack against the target as a free action.",
@@ -4062,7 +4062,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -4084,7 +4084,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must be trained in Intimidate.",
     "target": "One creature",
     "attack": "Strength vs. Will",
@@ -4105,7 +4105,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must be trained in Intimidate.",
     "target": "One enemy",
     "attack": "Strength vs. Will",
@@ -4125,7 +4125,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must be trained in Intimidate.",
     "attack": "Strength vs. Will",
     "target": "One enemy",
@@ -4146,7 +4146,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You roll initiative",
     "target": "You or one ally in the burst",
     "effect": "The target shifts half his or her speed."
@@ -4165,7 +4165,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One ally",
     "effect": "The target makes a basic attack as a free action against an enemy of your choice that you can see and is within 10 squares of you."
   },
@@ -4183,7 +4183,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "1[W] damage. Until the start of your next turn, the next ally who attacks the target and has combat advantage against it gains a +2 power bonus to the attack roll.<br/>Level 21: 2[W] damage."
@@ -4202,7 +4202,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] damage. Until the start of your next turn, your allies gain a power bonus to damage rolls against the target equal to your Intelligence modifier or Wisdom modifier.<br/>Level 21: 2[W] damage."
@@ -4221,7 +4221,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier + Intelligence modifier or Wisdom modifier damage.<br/>Level 21: 2[W] + Strength modifier + Intelligence modifier or Wisdom modifier damage.",
@@ -4241,7 +4241,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, you and your allies gain a power bonus to ranged attack rolls against the target equal to your Intelligence modifier or Wisdom modifier."
@@ -4260,7 +4260,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you is hit by an enemy",
     "target": "The triggering ally in the burst",
     "effect": "The target gains a +2 power bonus to all defenses against the attack. The target can make a melee basic attack against the enemy as a free action.",
@@ -4280,7 +4280,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. One ally you can see can charge the target or make a melee basic attack against the target as a free action.",
@@ -4300,7 +4300,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, while you have combat advantage against the target, you and your allies deal extra damage to the target equal to your Charisma modifier."
@@ -4319,7 +4319,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4340,7 +4340,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you",
     "effect": "You make a basic attack against the triggering enemy, and one ally within 5 squares of you can move his or her speed and make a melee basic attack against the triggering enemy as a free action."
   },
@@ -4358,7 +4358,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target a number of squares equal to your Intelligence modifier. Whenever a pull, a push, or a slide forces the target to move, one of your allies can make a basic attack against the target as an opportunity action (save ends).",
@@ -4378,7 +4378,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. You and each ally you can see gain a +1 power bonus to speed until the end of the encounter.",
@@ -4398,7 +4398,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the end of the encounter, your healing powers restore additional hit points equal to your Intelligence modifier or Wisdom modifier."
@@ -4417,7 +4417,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. As a free action, one ally you can see can make a basic attack against the target with a +2 power bonus to the attack roll."
@@ -4436,7 +4436,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the end of the encounter, your allies gain a power bonus to damage rolls against the target equal to your Intelligence modifier or Wisdom modifier."
@@ -4455,7 +4455,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One ally",
     "effect": "The target can use its second wind and regain additional hit points equal to your Charisma modifier."
   },
@@ -4473,7 +4473,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy is hit by your at-will weapon attack",
     "target": "The enemy you hit",
     "effect": "You knock the target prone or push the target a number of squares equal to your Intelligence modifier or Wisdom modifier."
@@ -4492,7 +4492,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "A surprise round begins, and you are conscious",
     "target": "You and each surprised ally in the burst",
     "effect": "Each target is not surprised and gains a bonus to AC and Reflex equal to your Intelligence modifier until the end of your next turn."
@@ -4511,7 +4511,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You roll initiative",
     "target": "You and each ally in the burst",
     "effect": "Each target can reroll his or her initiative but must use the second result."
@@ -4530,7 +4530,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "You knock the target prone.",
@@ -4550,7 +4550,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, you and each ally adjacent to the target do not provoke opportunity attacks from it."
@@ -4569,7 +4569,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -4590,7 +4590,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An ally misses every target with an encounter or a daily attack",
     "target": "One creature targeted by the triggering ally’s attack",
     "attack": "Strength vs. AC",
@@ -4611,7 +4611,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. The first time the target moves during its next turn, you knock the target prone after the move.",
@@ -4631,7 +4631,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -4652,7 +4652,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -4674,7 +4674,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -4694,7 +4694,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "1[W] + Strength modifier damage, and the target is weakened and grants combat advantage (save ends both). Until the target is no longer affected by this power, your and your allies’ attacks deal 5 extra damage against the target.",
@@ -4714,7 +4714,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -4734,7 +4734,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally",
     "effect": "The target stands up, or you slide the target 1 square."
   },
@@ -4752,7 +4752,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close wall 8<",
+    "range": "Close wall 8",
     "effect": "You designate a wall of defensive ground that lasts until the end of your next turn. The wall is 1 square high, and it must include a square you occupy. You and any ally within the wall gain a +1 power bonus to AC, or a +2 power bonus to AC while adjacent to an ally who is also within the wall.",
     "sustainMinor": "The wall persists."
   },
@@ -4770,7 +4770,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One ally",
     "effect": "The target regains one healing surge and also regains hit points equal to his or her healing surge value."
   },
@@ -4788,7 +4788,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use inspiring word on your ally",
     "effect": "Your inspiring word also grants its target temporary hit points equal to 5 + your Wisdom or Charisma modifier."
   },
@@ -4806,7 +4806,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Each target can shift a number of squares equal to your Intelligence modifier as a free action."
   },
@@ -4824,7 +4824,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy within 3 squares of you hits your ally",
     "effect": "Before your attack, you shift 2 squares.",
     "target": "The triggering enemy",
@@ -4845,7 +4845,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -4865,7 +4865,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An ally makes a close or an area attack",
     "target": "One creature not targeted by the triggering attack",
     "attack": "Strength vs. AC",
@@ -4886,7 +4886,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -4907,7 +4907,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. Each ally within 5 squares of you gains an extra move action to use during his or her next turn."
@@ -4926,7 +4926,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, whenever an ally hits the target, that ally gains temporary hit points equal to your Wisdom modifier or Charisma modifier."
@@ -4945,7 +4945,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of the encounter, whenever you hit with a charge, each ally within 5 squares of you regains 5 hit points.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4967,7 +4967,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target grants combat advantage (save ends).",
@@ -4987,7 +4987,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. The attack deals 1[W] extra damage for each inspiring word you have used during this encounter, up to a maximum of 3[W] extra damage.",
@@ -5007,7 +5007,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you push the target 4 squares.",
@@ -5028,7 +5028,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target cannot make opportunity attacks (save ends).",
@@ -5049,7 +5049,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally makes an area or a close attack that targets an ally within 10 squares of you",
     "target": "One ally in the burst targeted by the triggering attack",
     "effect": "The target shifts a number of squares equal to 3 + your Wisdom modifier or Charisma modifier as a free action."
@@ -5068,7 +5068,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Each target can spend a healing surge. Until the end of the encounter, your healing powers restore the maximum number of hit points possible."
   },
@@ -5086,7 +5086,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You and one ally in the burst",
     "effect": "Each target shifts his or her speed as a free action."
   },
@@ -5104,7 +5104,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you is hit by an enemy’s attack",
     "target": "The triggering ally in the burst",
     "effect": "The target gains a +3 power bonus to all defenses against the enemy’s attack. If the attack misses the target, he or she can make a melee basic attack against the enemy as a free action with a bonus to the damage roll equal to your Wisdom modifier or Charisma modifier.",
@@ -5124,7 +5124,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "You and one ally make a melee basic attack against the target. If both attacks hit, your ally’s attack is a critical hit."
   },
@@ -5142,7 +5142,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5163,7 +5163,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Your inspiring word restores additional hit points equal to your Charisma modifier or Intelligence modifier until the end of your next turn.",
@@ -5183,7 +5183,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you hits an enemy with a melee attack",
     "insightfulPresence": "The triggering ally’s attack deals extra damage equal to your Wisdom modifier or Charisma modifier.",
     "target": "Two allies in the burst adjacent to the enemy",
@@ -5203,7 +5203,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. One ally you can see can charge the target or make a melee basic attack against it as a free action.",
@@ -5223,7 +5223,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -5243,7 +5243,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -5263,7 +5263,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -5284,7 +5284,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "trigger": "An enemy is hit by your ally",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -5305,7 +5305,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "effect": "The blast creates an area of forbidden ground. Until the end of the encounter, whenever an enemy enters the area, you or an ally can charge that enemy or make a melee basic attack against it as an immediate reaction."
   },
   "Help or Hinder": {
@@ -5322,7 +5322,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy within 5 squares of you saves, or an ally within 5 squares of you fails a saving throw",
     "target": "The triggering enemy or ally in the burst",
     "effect": "The target rerolls the saving throw. If the target is an enemy, it takes a penalty to the saving throw equal to your Intelligence modifier or Wisdom modifier. If the target is an ally, he or she gains a bonus to the saving throw equal to your Intelligence modifier or Wisdom modifier."
@@ -5341,7 +5341,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally within 10 squares of you saves against an effect",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, each target gains a power bonus to saving throws equal to your Charisma modifier."
@@ -5360,7 +5360,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally within 10 squares of you is hit by an attack",
     "target": "You or one ally in the burst; the target must be adjacent to the triggering ally",
     "effect": "The target and the triggering ally swap places, and the attack hits the target and misses the triggering ally."
@@ -5379,7 +5379,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each ally adjacent to the target can shift 1 square as a free action. Until the end of your next turn, the target provokes opportunity attacks from your allies whenever it attacks.",
@@ -5399,7 +5399,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits your ally with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -5420,7 +5420,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target a number of squares equal to your Intelligence modifier or Wisdom modifier. After the push, one of your allies adjacent to the target can make a melee basic attack against it as a free action. The attack deals extra damage equal to the number of squares you pushed the target."
@@ -5439,7 +5439,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You miss an enemy with an attack",
     "target": "One ally in the burst",
     "effect": "The target can make a basic attack against the enemy as a free action. The attack deals extra damage equal to 5 + your Intelligence modifier."
@@ -5458,7 +5458,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "An enemy is hit by your ally",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -5479,7 +5479,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -5501,7 +5501,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target grants combat advantage until the end of your next turn.",
@@ -5522,7 +5522,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is stunned (save ends). While the target is stunned by this power, whenever an ally hits the target, he or she can spend a healing surge.",
@@ -5542,7 +5542,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -5563,7 +5563,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An ally drops to 0 hit points or fewer from an enemy’s attack that doesn’t target you",
     "effect": "The attack hits you instead of the target, and the target can spend a healing surge.",
     "target": "The triggering ally"
@@ -5582,7 +5582,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each ally in the blast",
     "effect": "Each ally in the blast gains temporary hit points equal to 5 + your Intelligence modifier or Wisdom modifier. The blast creates an area of defensible terrain. Until the end of the encounter, any ally within the area that has cover except that provided by intervening allies instead has superior cover."
   },
@@ -5600,7 +5600,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you hits with an opportunity attack",
     "target": "The triggering ally in the burst",
     "effect": "The target scores a critical hit with the attack."
@@ -5619,7 +5619,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, any ally you can see can spend an action point, even if that ally already spent one or more during this encounter. An ally can spend only one action point per turn."
   },
   "Defender's Retort": {
@@ -5636,7 +5636,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy within 3 squares of you hits your ally",
     "effect": "Before you attack, you shift 2 squares.",
     "target": "The triggering enemy",
@@ -5657,7 +5657,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "An enemy hits your ally with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -5678,7 +5678,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "trigger": "An enemy is missed by your ally’s attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -5698,7 +5698,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is stunned until the end of your next turn. One ally within 5 squares of you can use his or her second wind as a free action.",
@@ -5718,7 +5718,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage",
@@ -5739,7 +5739,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -5761,7 +5761,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and one ally within 5 squares of you can make a saving throw against each effect on him or her that a save can end.",
@@ -5782,7 +5782,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One, two, or three creatures",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target a number of squares equal to your Intelligence modifier.",
@@ -5802,7 +5802,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, any enemy you hit with a ranged attack gains vulnerable 10 to all damage until the end of your next turn."
   },
   "Vigilant Commander": {
@@ -5819,7 +5819,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. The attack deals 1[W] extra damage for each inspiring word you have used during this encounter, up to a maximum of 4[W].",
@@ -5839,7 +5839,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. One or two allies you can see can choose either to charge the target or to make a ranged basic attack against the target as a free action.",
@@ -5859,7 +5859,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "target": "You and one, two, or three allies in the burst",
     "effect": "Choose an enemy. Each target can make a basic attack against the chosen enemy as a free action.",
     "insightfulPresence": "The basic attacks deal extra damage equal to your Wisdom modifier or Charisma modifier."
@@ -5878,7 +5878,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Each ally you can see gains a power bonus to attack rolls equal to your Intelligence modifier or Wisdom modifier until the end of your next turn."
@@ -5897,7 +5897,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits your ally",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -5918,7 +5918,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you hit an enemy with a ranged attack, one ally who is adjacent to that enemy can shift a number of squares equal to your Intelligence or Wisdom modifier and then make a melee basic attack against it as a free action. If no ally is adjacent to the enemy, one ally can make a ranged basic attack against it as a free action."
   },
   "Legendary Charge": {
@@ -5935,7 +5935,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -5956,7 +5956,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -5976,7 +5976,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target is dazed (save ends).",
@@ -5996,7 +5996,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. The next time an ally hits the target before the end of your next turn, that ally can slide the target 2 squares, shift 2 squares, or deal 4 extra damage to the target."
@@ -6015,7 +6015,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One creature",
     "effect": "The ally shifts 2 squares.",
     "requirement": "The power Destructive Surprise must be active in order to use this power.",
@@ -6037,7 +6037,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy is hit by your attack",
     "target": "Each ally in the burst who can see you",
     "effect": "Until the end of your next turn, any target who spends an action point to make an attack against the triggering enemy gains a +2 power bonus to the attack roll."
@@ -6056,7 +6056,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "Hit: 2[W] + Strength modifier damage, and you mark the target until the end of your next turn. If the target makes an attack before the end of your next turn that does not include you as a target, one ally adjacent to the target can make a basic attack against it as an immediate interrupt. If the ally's attack hits, the target takes a -2 penalty to the attack roll."
@@ -6075,7 +6075,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target grants combat advantage to your allies until the end of your next turn.",
@@ -6095,7 +6095,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -6116,7 +6116,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a martial melee or ranged attack",
     "effect": "You can spend a healing surge. Until the start of your next turn, any ally that hits the same target with an attack gained from an action point can also spend a healing surge."
   },
@@ -6134,7 +6134,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you can shift a number of squares equal to one-half your speed.",
@@ -6154,7 +6154,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. The next time an ally hits the target before the end of your next turn, he or she gains one of the following benefits until the end of his or her next turn: +2 power bonus to all defenses, a +1 power bonus to attack rolls, or a +3 power bonus to damage rolls."
@@ -6173,7 +6173,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One creature",
     "effect": "The target ally can shift 3 squares.",
     "requirement": "The power Coordinated Assault must be active in order to use this power.",
@@ -6194,7 +6194,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "An ally in the burst makes a melee basic attack",
     "target": "The triggering ally",
     "effect": "The target uses one of his or her melee at-will attack powers instead of making a melee basic attack. If the attack hits, the subject of the target’s attack is also dazed until the end of the target’s next turn."
@@ -6213,7 +6213,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -6233,7 +6233,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a melee attack.",
     "target": "One ally adjacent to you",
     "effect": "The target shifts 3 squares as a free action and gains combat advantage against the triggering enemy until the end of your next turn."
@@ -6252,7 +6252,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -6272,7 +6272,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -6292,7 +6292,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally",
     "effect": "The target can shift half his or her speed as a free action to a square where he or she has cover or concealment and make a Stealth check with a +5 power bonus to become hidden."
   },
@@ -6310,7 +6310,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy misses you or an ally you can see with a melee or ranged attack.",
     "target": "The triggering enemy",
     "effect": "The target repeats the attack as a free action against a creature you choose within 2 squares of the target of its original attack. The new target must still be legal for the attack."
@@ -6329,7 +6329,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -6350,7 +6350,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally in the burst misses all targets with an attack when using an action gained by spending an action point",
     "target": "The triggering ally",
     "effect": "The target gains 1 action point. Spending this action point does not count against the limits on action point expenditures for this encounter. If the target does not spend the action point before the end of the encounter, it is lost."
@@ -6369,7 +6369,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy in the burst hits you or an ally with an attack.",
     "target": "One ally adjacent to triggering enemy",
     "effect": "The target makes a melee basic attack as a free action against each enemy adjacent to him or her. If the attack hits, the enemy is also dazed until the end of the target’s next turn."
@@ -6388,7 +6388,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One, two, or three targets that can hear you in the burst",
     "effect": "Each target can choose to spend a healing surge, make a basic attack, or make a charge attack as a free action. Each ally that makes an attack as a result of this effect must choose a different target and deals 1d10 extra damage on a hit."
   },
@@ -6406,7 +6406,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy adjacent to you moves or shifts",
     "target": "You and one ally in the burst adjacent to the triggering enemy",
     "effect": "The target shifts his or her speed and must end this shift in a square adjacent to the triggering enemy."
@@ -6425,7 +6425,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is marked by you until the end of your next turn.",
@@ -6445,7 +6445,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -6466,7 +6466,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy misses you or an ally you can see with a melee or ranged attack",
     "target": "The triggering enemy",
     "effect": "The target repeats the attack as a free action against a creature you choose within 2 squares of the original target of the triggering attack and deals 2d10 extra damage on a hit. The new target must still be legal for the attack."
@@ -6485,7 +6485,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You are bloodied by an attack",
     "target": "You and each ally in the burst",
     "effect": "The target shifts a number of squares as a free action equal to his or her speed."
@@ -6504,7 +6504,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage and you slide the target 5 squares. The target takes 1[W] extra damage for each of your allies adjacent to it at the end of the slide.",
@@ -6524,7 +6524,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy in the burst starts its turn",
     "primaryTarget": "One ally adjacent to the triggering enemy",
     "secondaryTarget": "One ally in the burst",
@@ -6544,7 +6544,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage",
@@ -6564,7 +6564,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you slide the target up to 3 squares. If the target ends this slide in difficult terrain, it falls prone.",

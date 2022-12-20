@@ -1,0 +1,62 @@
+{
+  "Doomsday Portent": {
+    "id": "'5974",
+    "action": "Standard",
+    "powerClass": "Sea Tyrant Oracle",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Doomsday Portent",
+    "type": "Tyrant",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDoomsday Portent\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5974\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sea Tyrant Oracle Attack 11</span>Doomsday Portent</h1><p class=\\\"flavor\\\"><i>You prophesize the demise of your enemy, filling it with horrifying visions of its death.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fear</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is dazed and weakened until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 94.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You prophesize the demise of your enemy, filling it with horrifying visions of its death.",
+    "keywords": [
+      "Arcane, Fear, Implement"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "The target is dazed and weakened until the end of your next turn."
+  },
+  "Prepared by Fate": {
+    "id": "'5975",
+    "action": "No Action",
+    "powerClass": "Sea Tyrant Oracle",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Prepared by Fate",
+    "type": "Tyrant",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrepared by Fate\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5975\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sea Tyrant Oracle Utility 12</span>Prepared by Fate</h1><p class=\\\"flavor\\\"><i>Using your powers of foresight, you anticipate a conflict and are ready for it.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You roll initiative</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain a +20 bonus to the initiative check.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 94.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Using your powers of foresight, you anticipate a conflict and are ready for it.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal",
+    "trigger": "You roll initiative",
+    "effect": "You gain a +20 bonus to the initiative check."
+  },
+  "Vestige of the Sea Tyrant": {
+    "id": "'6895",
+    "action": "Standard",
+    "powerClass": "Sea Tyrant Oracle",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Vestige of the Sea Tyrant",
+    "type": "Tyrant",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVestige of the Sea Tyrant\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6895\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sea Tyrant Oracle Attack 20</span>Vestige of the Sea Tyrant</h1><p class=\\\"flavor\\\"><i>Your magic evokes the wrath of the Sea Tyrant, sweeping your foes away.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + Constitution modifier damage, and you push the target a number of squares equal to your Constitution modifier and knock it prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You gain access to the vestige of the Sea Tyrant.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Sea Tyrant Pact Boon</b>: You slide one creature cursed by you that you can see a number of squares equal to your Constitution modifier.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Eyes of the Vestige Augment</b>: You also slide your eyes of the vestige target a number of squares equal to your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 94.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your magic evokes the wrath of the Sea Tyrant, sweeping your foes away.",
+    "keywords": [
+      "Arcane, Implement"
+    ],
+    "range": "Close blast 5",
+    "target": "Each creature in the blast",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "3d6 + Constitution modifier damage, and you push the target a number of squares equal to your Constitution modifier and knock it prone.",
+    "onMiss": "Half damage.",
+    "effect": "You gain access to the vestige of the Sea Tyrant.",
+    "seaTyrantPactBoon": "You slide one creature cursed by you that you can see a number of squares equal to your Constitution modifier.",
+    "eyesOfTheVestigeAugment": "You also slide your eyes of the vestige target a number of squares equal to your Intelligence modifier."
+  }
+}

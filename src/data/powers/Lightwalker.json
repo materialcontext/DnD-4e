@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier radiant damage, and the target takes a -2 penalty to AC and Reflex until the end of your next turn. In addition, squares within 10 squares of the target are illuminated with bright light until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Area wall 8 within 10<",
+    "range": "Area wall 8 within 10",
     "effect": "You conjure a path of solid light in unoccupied squares within range. The path is flat, can support any weight, and must have at least 1 square on a solid surface. The path can ascend or descend 1 square vertically for each square it traverses horizontally. The path lasts until the end of your next turn.<br/>Any bloodied ally gains regeneration 10 while occupying one of the path’s squares.",
     "sustainMinor": "The path persists."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier radiant damage, and you or one ally within 5 squares of you regains 10 hit points.",

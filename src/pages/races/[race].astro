@@ -2,7 +2,10 @@
 import RaceLayout from "../../layouts/raceLayout.astro";
 import "../../styles/race.css"
 
-let race = Astro.params.race
+// change this to the proper api endpoint
+let response = await fetch(`D:/nodejs_programs/DnD-4e/src/data/races/${Astro.params.race}.json`);
+let data = await response.json();
+
 
 ---
-<RaceLayout data={race}/>
+<RaceLayout data={data}/>

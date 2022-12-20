@@ -1,0 +1,62 @@
+{
+  "Glyph of Warning": {
+    "id": "'8016",
+    "action": "Standard",
+    "powerClass": "Keeper of the Nine",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Glyph of Warning",
+    "type": "of",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGlyph of Warning\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8016\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Keeper of the Nine Attack 11</span>Glyph of Warning</h1><p class=\\\"flavor\\\"><i>A complex glyph appears in the air above you, repelling your enemies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Fear</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target moves its speed away from you as a free action. Any ally who makes an opportunity attack provoked by this movement gains a power bonus to the attack roll and the damage roll equal to 2 + your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 75.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "A complex glyph appears in the air above you, repelling your enemies.",
+    "keywords": [
+      "Divine, Fear"
+    ],
+    "range": "Close burst 10",
+    "target": "Each enemy in the burst",
+    "effect": "Each target moves its speed away from you as a free action. Any ally who makes an opportunity attack provoked by this movement gains a power bonus to the attack roll and the damage roll equal to 2 + your Intelligence modifier."
+  },
+  "The Tenth Seal": {
+    "id": "'8080",
+    "action": "Standard",
+    "powerClass": "Keeper of the Nine",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "The Tenth Seal",
+    "type": "of",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nThe Tenth Seal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8080\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Keeper of the Nine Attack 20</span>The Tenth Seal</h1><p class=\\\"flavor\\\"><i>You conjure a glyph that unleashes the magic of the Tenth Seal, known only to the most powerful Keepers of the Nine. Your enemies are stunned by its thunder.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Divine</b>, <b>Implement</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a glyph of the Tenth Seal in an unoccupied square within range. The glyph lasts until the end of your next turn. When the glyph appears, it makes an attack that is a close burst 3.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Primary Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Primary Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 2d8 + Wisdom modifier thunder damage, and the primary target is stunned (save ends).</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The glyph persists and makes a secondary attack that is a close burst 3.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Wisdom vs. Will</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1d8 + Wisdom modifier thunder damage, and the secondary target is dazed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 75.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You conjure a glyph that unleashes the magic of the Tenth Seal, known only to the most powerful Keepers of the Nine. Your enemies are stunned by its thunder.",
+    "keywords": [
+      "Conjuration, Divine, Implement, Thunder"
+    ],
+    "range": "Ranged 10",
+    "effect": "You conjure a glyph of the Tenth Seal in an unoccupied square within range. The glyph lasts until the end of your next turn. When the glyph appears, it makes an attack that is a close burst 3.",
+    "primaryTarget": "Each enemy in the burst",
+    "attack": "Wisdom vs. Will",
+    "onHit": "2d8 + Wisdom modifier thunder damage, and the primary target is stunned (save ends).",
+    "sustainMinor": "The glyph persists and makes a secondary attack that is a close burst 3.",
+    "secondaryTarget": "Each enemy in the burst",
+    "secondaryAttack": "Wisdom vs. Will",
+    "secondaryOnHit": "1d8 + Wisdom modifier thunder damage, and the secondary target is dazed (save ends)."
+  },
+  "Keeper’s Mantle": {
+    "id": "'8081",
+    "action": "Immediate Interrupt",
+    "powerClass": "Keeper of the Nine",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Keeper’s Mantle",
+    "type": "of",
+    "sourceRef": "Divine Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nKeeper’s Mantle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=8081\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Keeper of the Nine Utility 12</span>Keeper’s Mantle</h1><p class=\\\"flavor\\\"><i>A shimmering blue aura of energy settles over your shoulders, whisking you away from your enemies’ attacks and distracting foes standing too close to you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Teleportation</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You take damage from an enemy’s attack while you are bloodied</p><p class=\\\"flavor\\\"><b>Effect</b>: You teleport 5 squares. Each enemy adjacent to you when you teleport grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949823\\\" target=\\\"_new\\\">Divine Power</a>, page(s) 75.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "A shimmering blue aura of energy settles over your shoulders, whisking you away from your enemies’ attacks and distracting foes standing too close to you.",
+    "keywords": [
+      "Divine, Teleportation"
+    ],
+    "range": "Personal",
+    "trigger": "You take damage from an enemy’s attack while you are bloodied",
+    "effect": "You teleport 5 squares. Each enemy adjacent to you when you teleport grants combat advantage until the end of your next turn."
+  }
+}

@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "Each enemy in the burst",
     "attack": "Intelligence vs. Will, Wisdom vs. Will, or Charisma vs. Will",
     "onHit": "2d8 + Intelligence, Wisdom, or Charisma modifier radiant damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "You and your allies regain hit points equal to 5 + your Charisma modifier.",
     "sustainMinor": "Bloodied allies within 5 squares regain hit points equal to your Charisma modifier."
@@ -52,7 +52,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will, Wisdom vs. Will, or Charisma vs. Will",
     "onHit": "3d10 + Intelligence, Wisdom, or Charisma modifier radiant damage.",

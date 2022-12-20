@@ -13,7 +13,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + 3d8 + Wisdom modifier damage, and the target takes 10 damage whenever it moves on its turn (save ends).",
@@ -33,7 +33,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "level11": "Close burst 2",
     "level21": "Close burst 3",
     "target": "Each enemy in the burst",
@@ -53,7 +53,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss a creature with a ranged attack",
     "effect": "You make a ranged basic attack against an enemy within 5 squares of the creature you missed, using that creature’s space as the attack’s origin square.",
     "special": "You regain the use of this power when you spend an action point."
@@ -72,7 +72,7 @@
     "keywords": [
       "Primal, Varies, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "special": "Choose cold, fire, lightning, or thunder whenever you use this power. Your choice determines the power’s damage type.",
     "attack": "Wisdom vs. AC",
@@ -92,7 +92,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and the target and each enemy adjacent to it take a –2 penalty to attack rolls until the start of your next turn.<br/>Level 21: 2[W] + Wisdom modifier damage.",
@@ -112,7 +112,7 @@
     "keywords": [
       "Poison, Primal, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage. The attack creates a zone in a burst 1 centered on the target. The zone lasts until the start of your next turn. Any creature that ends its turn within the zone takes poison damage equal to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.<br/>"
@@ -131,7 +131,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d6 + Wisdom modifier damage. Until the end of your next turn, the target can’t benefit from cover, concealment, or total concealment, and enemies take a –2 penalty to attack rolls while within 2 squares of the target.",
@@ -151,7 +151,7 @@
     "keywords": [
       "Poison, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier poison damage, and the target is slowed and takes a –2 penalty to all defenses until the end of your next turn."
@@ -170,7 +170,7 @@
     "keywords": [
       "Conjuration, Poison, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "Wisdom modifier poison damage",
@@ -193,7 +193,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 2d6 + Wisdom modifier damage.",
@@ -213,7 +213,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when you make a ranged weapon attack against any creature within 2 squares of you, you can score a critical hit on a roll of 19–20."
   },
   "Stag's Grace": {
@@ -230,7 +230,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose one enemy you can see. Until the end of your next turn, you do not provoke opportunity attacks from that enemy."
   },
   "Escaping Shot": {
@@ -247,7 +247,7 @@
     "keywords": [
       "Primal, Psychic, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + Wisdom modifier psychic damage, and the target is dazed until the end of your next turn.",
@@ -269,7 +269,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + Wisdom modifier cold damage, and the target is immobilized until the end of its next turn.",
@@ -289,7 +289,7 @@
     "keywords": [
       "Primal, Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage.",
@@ -312,7 +312,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "The target is immobilized (save ends).",
@@ -336,7 +336,7 @@
     "keywords": [
       "Illusion, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a blurry form until the end of your next turn. Until this form ends, if you end a move action at least 3 squares from where you started, you gain concealment until the end of your next turn.",
     "sustainMinor": "The form persists."
   },
@@ -354,7 +354,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied or weakened.",
     "effect": "You gain temporary hit points equal to twice your Wisdom modifier. If you are weakened, you can also make a saving throw against as single effect on you that is weakening you.<br/>"
   },
@@ -372,7 +372,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier thunder damage, and the target falls prone and is deafened until the end of your next turn.",
@@ -392,7 +392,7 @@
     "keywords": [
       "Poison, Primal, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d6 + Wisdom modifier poison damage. The attack creates a zone in a burst 1 centered on the target. The zone lasts until the end of your next turn. Any enemy that enters the zone or starts its turn there takes poison damage equal to your Wisdom modifier. An enemy can take this damage only once per turn.",
@@ -412,7 +412,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "Two creatures within 5 squares of each other",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier damage.",
@@ -433,7 +433,7 @@
     "keywords": [
       "Lightning, Primal, Thunder, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + 2d8 + Wisdom modifier lightning damage, and each enemy adjacent to the target takes 5 thunder damage.",
@@ -453,7 +453,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are damaged by an attack",
     "effect": "You assume the form of a cloud of flying sparrows until the start of your next turn, and you fly your speed without provoking opportunity attacks. While in this form, you are insubstantial, you can’t attack, and you can’t pick up or manipulate objects. If you are still airborne at the start of your turn, you land without taking falling damage."
   },
@@ -471,7 +471,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of your next turn. You and your allies have cover while within the zone, and the zone is difficult terrain for your enemies.",
     "sustainMinor": "The zone persists."
   },
@@ -489,7 +489,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier damage. If the target doesn’t end its next turn at least 2 squares away from its starting position, it takes 1d8 damage.",
@@ -509,7 +509,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage. Until the end of your next turn, the target is blinded, and enemies take a –2 penalty to attack rolls while within 2 squares of the target.",
@@ -529,7 +529,7 @@
     "keywords": [
       "Acid, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier acid damage, and the target and each enemy adjacent to it take ongoing 10 acid damage (save ends).",
@@ -550,7 +550,7 @@
     "keywords": [
       "Primal, Sleep, Weapon"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target is dazed (save ends).",
@@ -571,7 +571,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +2 bonus to AC, and any creature that hits you with a melee attack takes 10 + your Wisdom modifier damage."
   },
   "Sure Sight": {
@@ -588,7 +588,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain darkvision, ignore concealment and total concealment, and are immune to the blinded condition."
   },
   "Flesh-Tether Shot": {
@@ -605,7 +605,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage. If the target moves before the end of your next turn, it takes 5 damage and is dazed until the end of its next turn.",
@@ -625,7 +625,7 @@
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and you teleport the target 5 squares. One ally adjacent to the destination space can then make a melee basic attack against the target as an immediate reaction."
@@ -644,7 +644,7 @@
     "keywords": [
       "Conjuration, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "5 + Wisdom modifier damage.",
@@ -667,7 +667,7 @@
     "keywords": [
       "Charm, Primal, Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and the target is dominated (save ends).",
@@ -687,7 +687,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you are phasing."
   },
   "Guiding Spirit": {
@@ -704,7 +704,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to the next ranged attack roll you make before the end of your turn."
   },
   "Stride-Breaking Shot": {
@@ -721,7 +721,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 2d6 + Wisdom modifier damage. Until the end of your next turn, the target takes 5 damage whenever it moves on its turn or uses an attack power.",
@@ -741,7 +741,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 2d8 + Wisdom modifier damage. Make a secondary attack that is an area burst 3 centered on the primary target.",
@@ -763,7 +763,7 @@
     "keywords": [
       "Poison, Primal, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + 2d8 + Wisdom modifier damage, and the target and each enemy adjacent to it are dazed (save ends).",
@@ -783,7 +783,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One or two creatures",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier lightning damage.",
@@ -807,7 +807,7 @@
     "keywords": [
       "Necrotic, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2[W] + Wisdom modifier necrotic damage, and the target and each creature adjacent to it are weakened until the end of your next turn.",
@@ -827,7 +827,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2[W] + Wisdom modifier cold damage. If the target moves more than half its speed on its next turn, it falls prone at the end of that turn.",
@@ -847,7 +847,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + 2d8 + Wisdom modifier damage, and the target is stunned (save ends).",
@@ -868,7 +868,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + 2d8 + Wisdom modifier cold damage, and the target is restrained and gains vulnerable 10 to all damage (save ends both). In addition, any enemy that starts its turn adjacent to the target takes 5 cold damage and is slowed until the start of its next turn.",
@@ -888,7 +888,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon.",
     "trigger": "An enemy misses you with a melee attack",
     "target": "The triggering enemy",
@@ -908,7 +908,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and the target is slowed and can’t shift until the end of its next turn.<br/>Level 21: 2[W] + Wisdom modifier damage.",
@@ -928,7 +928,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -949,7 +949,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d6 + Wisdom modifier damage. If the target moves on its next turn, it falls prone at the end of that turn.",
@@ -969,7 +969,7 @@
     "keywords": [
       "Charm, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + Wisdom modifier damage, and the target makes a melee basic attack as a free action against an enemy adjacent to it. If that attack hits, the target and that enemy are also dazed until the end of your next turn."
@@ -988,7 +988,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1009,7 +1009,7 @@
     "keywords": [
       "Cold, Primal, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier cold damage, and the target is immobilized (save ends).",
@@ -1030,7 +1030,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1051,7 +1051,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1[W] + Wisdom modifier damage.",
@@ -1072,7 +1072,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy you can see saves against an effect that a save can end",
     "target": "One enemy in the burst other than the triggering enemy",
     "effect": "Whenever the target attacks you before the end of the encounter, the target grants combat advantage until the end of its next turn."
@@ -1091,7 +1091,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain resistance to all damage equal to your Strength modifier."
   },
   "Burrowing Shot": {
@@ -1108,7 +1108,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier damage. The first time the target makes an attack before the end of your next turn, each enemy adjacent to the target takes 5 damage."
@@ -1127,7 +1127,7 @@
     "keywords": [
       "Conjuration, Poison, Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1147,7 +1147,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + 1d6 + Wisdom modifier damage, and you push the target 2 squares, then push each enemy adjacent to it 2 squares.",
@@ -1167,7 +1167,7 @@
     "keywords": [
       "Conjuration, Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1189,7 +1189,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + 1d6 + Wisdom modifier damage, and you push the target 2 squares and knock it prone.",
@@ -1209,7 +1209,7 @@
     "keywords": [
       "Fire, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1[W] + Wisdom modifier fire damage, and ongoing 5 fire damage (save ends). Whenever the target takes this ongoing damage, each enemy adjacent to the target takes ongoing 5 fire damage (save ends).",
@@ -1229,7 +1229,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, whenever an adjacent enemy hits you with an opportunity attack, that enemy takes damage equal to your Strength modifier."
   },
   "Eagle's Aim": {
@@ -1246,7 +1246,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you take no penalty to attack rolls for attacking at long range."
   },
   "Feyjump Shot": {
@@ -1263,7 +1263,7 @@
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One or two creatures",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and you teleport the target 3 squares.",
@@ -1283,7 +1283,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier damage. Make a secondary attack that is an area burst 1 centered on the primary target.",
@@ -1305,7 +1305,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + Wisdom modifier damage, and you push the target 2 squares.",
@@ -1325,7 +1325,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1348,7 +1348,7 @@
     "keywords": [
       "Cold, Fire, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier fire damage. Choose either the target or one creature adjacent to it. The creature you choose takes ongoing 5 cold damage and is immobilized (save ends both). Whenever that creature takes this ongoing damage, each enemy adjacent to it takes 5 cold damage.",
@@ -1368,7 +1368,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can use a move action to move either your speed through loose earth or half your speed through solid stone. You must end the move in an unoccupied space."
   },
   "Feywild Jaunt": {
@@ -1385,7 +1385,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You are removed from play. At the start of your next turn, you reappear in an unoccupied space of your choice. That space must be within a number of squares of the space you left equal to your speed."
   },
   "Feymire Trap": {
@@ -1402,7 +1402,7 @@
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1422,7 +1422,7 @@
     "keywords": [
       "Poison, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + Wisdom modifier poison damage. The target must use a free action to charge a creature of your choice. If the charge attack misses or the target can’t charge anyone, the target takes 10 poison damage."
@@ -1441,7 +1441,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and you push the target 2 squares and knock it prone.",
@@ -1462,7 +1462,7 @@
     "keywords": [
       "Primal, Psychic, Teleportation, Weapon, Zone"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "effect": "The burst creates a zone that lasts until the end of the encounter or until you dismiss it as a minor action. Until the zone ends, you can use the Fey Sinkhole Attack power, using a square within the zone as the origin square.",
     "requirement": "The power Fey Sinkhole must be active in order to use this power.",
     "trigger": "A creature starts its turn within the zone",
@@ -1484,7 +1484,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex. Make the attack three times.",
     "onHit": "1[W] + Wisdom modifier damage.",
@@ -1504,7 +1504,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target ignores difficult terrain until the end of your next turn.",
     "sustainMinor": "The effect persists."
@@ -1523,7 +1523,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy damages you with a melee or a close attack",
     "effect": "You fly a number of squares equal to your Wisdom modifier and must land in a square that is farther away from the enemy than where you started. This movement doesn’t provoke opportunity attacks."
   },
@@ -1541,7 +1541,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One or two creatures",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier damage.",
@@ -1561,7 +1561,7 @@
     "keywords": [
       "Polymorph, Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1582,7 +1582,7 @@
     "keywords": [
       "Fire, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 2d8 + Wisdom modifier fire damage, and ongoing 10 fire damage (save ends).",
@@ -1603,7 +1603,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 3d8 + Wisdom modifier damage. The target is then immobilized until it has taken at least 10 damage.",
@@ -1623,7 +1623,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "target": "The triggering enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "5 damage, and the secondary target is restrained (save ends).",
@@ -1646,7 +1646,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You are targeted by an attack",
     "target": "You or you and one ally",
     "effect": "The targets are removed from play. At the start of your next turn, they each reappear in unoccupied spaces within 5 squares of the space you left."
@@ -1665,7 +1665,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 5 within 10 squares<",
+    "range": "Area burst 5 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of your next turn. Each square within the zone requires 2 extra squares of movement to enter. Creatures ignore this effect while flying.",
     "sustainMinor": "The zone persists."
   },
@@ -1683,7 +1683,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + Wisdom modifier thunder damage. Until the end of your next turn, the target is deafened and dazed, and each enemy adjacent to it is deafened."
@@ -1702,7 +1702,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage. Until the end of your next turn, the target is restrained, and enemies adjacent to it are slowed.",
@@ -1722,7 +1722,7 @@
     "keywords": [
       "Fire, Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
@@ -1743,7 +1743,7 @@
     "keywords": [
       "Conjuration, Fear, Primal, Weapon"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "effect": "You conjure four spirit sentinels in four different unoccupied squares in the burst. The sentinels occupy their squares, and they last until the end of your next turn. The sentinels grant cover to you and your allies. As a move action, you can move a single sentinel to a square within 10 squares of you. While the sentinels persist, you can use the Slavering Sentinels Attack power through them.",
     "sustainMinor": "The sentinels persist.",
     "requirement": "The power Slavering Sentinels must be active in order to use this power.",
@@ -1766,7 +1766,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier thunder damage.",
@@ -1789,7 +1789,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + 2d6 + Wisdom modifier damage, and the target is slowed until the start of your next turn. The first time the target takes damage while slowed by this power, the target is instead immobilized until the end of your next turn. The first time the target takes damage while immobilized by this power, the target falls prone."
@@ -1808,7 +1808,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + 2d6 + Wisdom modifier damage, and the target and all enemies within 2 squares of it fall prone."
@@ -1827,7 +1827,7 @@
     "keywords": [
       "Poison, Primal, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1848,7 +1848,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2[W] + Wisdom modifier damage, and you knock the target prone.",
@@ -1868,7 +1868,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "requirement": "You must be wielding a bow.",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. AC",
@@ -1889,14 +1889,15 @@
     "keywords": [
       "Conjuration, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "bonusPower": {
       "name": "Persistent Arrow Attack",
       "flavor": "",
       "keywords": [
         "Conjuration, Primal, Weapon"
       ],
-      "range": "Ranged 5<",
+      "range": "Ranged 5",
+      "frequency": "Daily",
       "requirement": "The power Persistent Arrow must be active in order to use this power.",
       "secondaryTarget": "One creature",
       "secondaryAttack": "Wisdom vs. AC",
@@ -1923,7 +1924,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a bow",
     "trigger": "You would be hit by a melee attack",
     "effect": "You gain a +2 bonus to all defenses until the start of your next turn. If the triggering attack still hit you, the triggering attacker grants combat advantage to you until the start of your next turn."
@@ -1942,7 +1943,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1965,7 +1966,7 @@
     "keywords": [
       "Primal, Psychic, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -1986,7 +1987,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a bow.",
     "trigger": "You miss with the ranged basic attack granted by inevitable shot.",
     "effect": "You regain inevitable shot and you use it immediately."
@@ -2005,7 +2006,7 @@
     "keywords": [
       "Primal, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop a nonminion enemy to 0 hit points with an attack",
     "effect": "You teleport to an unoccupied square adjacent to the triggering enemy."
   },
@@ -2023,7 +2024,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "requirement": "The power Cordon of Thorns must be active in order to use this power.",
     "primaryTarget": "Each creature in the burst",
     "attack": "Wisdom vs. AC",
@@ -2048,14 +2049,15 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "bonusPower": {
       "name": "Arrows of Misfortune Attack",
       "flavor": "",
       "keywords": [
         "Primal, Weapon"
       ],
-      "range": "Ranged 5<",
+      "range": "Ranged 5",
+      "frequency": "Daily",
       "requirement": "The power Arrows of Misfortune must be active in order to use this power.",
       "secondaryTarget": "One creature",
       "secondaryAttack": "Wisdom vs. AC",
@@ -2082,7 +2084,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow.",
     "target": "One or two creatures",
     "attack": "Wisdom vs. AC, two attacks",
@@ -2105,7 +2107,7 @@
     "keywords": [
       "Primal, Psychic, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -2127,7 +2129,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a bow.",
     "effect": "You enter the seeking arrow stance. Until this stance ends, you regain the use of inevitable shot at the start of each of your turns."
   },
@@ -2145,7 +2147,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "The power Biting Wind Arrows must be active in order to use this power.",
     "primaryTarget": "One, two, or three targets",
     "attack": "Wisdom vs. AC",
@@ -2168,7 +2170,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One, two, or three creatures in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.",
@@ -2188,7 +2190,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Area burst 1 within weapon range<",
+    "range": "Area burst 1 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] damage, and you can slide the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] modifier damage."
@@ -2207,7 +2209,7 @@
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One or two creatures",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, you can teleport the target 1 square, and the target takes a penalty to damage rolls equal to your Wisdom modifier until the end of your next turn."
@@ -2226,7 +2228,7 @@
     "keywords": [
       "Poison, Primal, Teleportation, Weapon"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target is weakened and takes ongoing 10 poison damage (save ends both).",
@@ -2246,7 +2248,7 @@
     "keywords": [
       "Cold, Primal, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a light thrown weapon or a heavy thrown weapon to make a melee attack with this power.",
     "target": "One or two creatures",
     "attack": "Wisdom vs. AC",
@@ -2266,7 +2268,7 @@
     "keywords": [
       "Primal, Psychic, Weapon, Zone"
     ],
-    "range": "Aura burst 2 within weapon range<",
+    "range": "Aura burst 2 within weapon range",
     "effect": "The burst creates a zone that lasts until the end of your next turn. The zone is difficult terrain for your enemies, and any enemy that enters the zone or ends its turn there takes 15 psychic damage (an enemy can take this damage only once per turn). You and your allies have partial cover while in the zone."
   },
   "Wisp Shot": {
@@ -2283,7 +2285,7 @@
     "keywords": [
       "Polymorph, Primal, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + 1d8 + Wisdom modifier damage, and the target assumes the form of a Tiny wisp of light (save ends). In this form, the target gains a fly speed of 6 (hover) and is dazed, and it cannot use standard or minor actions. All of the target’s equipment transforms with it.",
@@ -2303,7 +2305,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The secondary target is removed from play until the end of your next turn.",
@@ -2326,7 +2328,7 @@
     "keywords": [
       "Primal, Teleportation, Weapon"
     ],
-    "range": "Area burst 2 within weapon range<",
+    "range": "Area burst 2 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and you can teleport the target to a square within 3 squares of you. In addition, the target takes a -5 penalty to attack rolls until the end of your next turn.",

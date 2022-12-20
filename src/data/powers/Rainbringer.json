@@ -13,7 +13,7 @@
     "keywords": [
       "Cold, Implement, Primal"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Primary ability vs. Fortitude",
     "onHit": "1d8 + ability modifier cold damage, and the target is weakened until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Healing, Implement, Lightning, Primal, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Primary ability vs. Reflex",
     "onHit": "2d8 + ability modifier lightning damage, and the target is dazed (save ends).",
@@ -53,7 +53,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each ally in the burst",
     "effect": "Each target gains concealment until the end of your next turn. In addition, one target can spend a healing surge."
   }

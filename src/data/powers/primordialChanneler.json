@@ -1,0 +1,64 @@
+{
+  "Primordial Rage": {
+    "id": "'5898",
+    "action": "Standard",
+    "powerClass": "Primordial Channeler",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Primordial Rage",
+    "type": "Channeler",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrimordial Rage\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5898\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Primordial Channeler Attack 11</span>Primordial Rage</h1><p class=\\\"flavor\\\"><i>You let loose a bolt of pure primordial chaos, and it feeds off the effects of your wild magic.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Charisma modifier damage. You gain an additional benefit based on the resistance currently provided by your Wild Soul.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Cold</b>: The target is immobilized until the end of your next turn.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Fire</b>: You push the target 1 square and knock it prone.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Lightning</b>: The target is dazed until the end of your next turn.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Thunder</b>: Each creature adjacent to the target takes thunder damage equal to your Dexterity modifier.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Other</b>: The target takes a -2 penalty to attack rolls until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You let loose a bolt of pure primordial chaos, and it feeds off the effects of your wild magic.",
+    "keywords": [
+      "Arcane, Implement ; Varies"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Charisma vs. Reflex",
+    "onHit": "2d10 + Charisma modifier damage. You gain an additional benefit based on the resistance currently provided by your Wild Soul.",
+    "cold": "The target is immobilized until the end of your next turn.",
+    "fire": "You push the target 1 square and knock it prone.",
+    "lightning": "The target is dazed until the end of your next turn.",
+    "thunder": "Each creature adjacent to the target takes thunder damage equal to your Dexterity modifier.",
+    "other": "The target takes a -2 penalty to attack rolls until the end of your next turn."
+  },
+  "Primordial Boon": {
+    "id": "'5899",
+    "action": "Minor",
+    "powerClass": "Primordial Channeler",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Primordial Boon",
+    "type": "Channeler",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrimordial Boon\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5899\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Primordial Channeler Utility 12</span>Primordial Boon</h1><p class=\\\"flavor\\\"><i>You exude a shield of energy that protects you from attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You gain resist 15 cold, resist 15 fire, resist 15 lightning, and resist 15 thunder until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You exude a shield of energy that protects you from attacks.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal",
+    "effect": "You gain resist 15 cold, resist 15 fire, resist 15 lightning, and resist 15 thunder until the end of the encounter."
+  },
+  "Primordial Rift": {
+    "id": "'5900",
+    "action": "Standard",
+    "powerClass": "Primordial Channeler",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Primordial Rift",
+    "type": "Channeler",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrimordial Rift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5900\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Primordial Channeler Attack 20</span>Primordial Rift</h1><p class=\\\"flavor\\\"><i>A spout of matter from the Elemental Chaos emerges in front of you, blasting forth uncontrolled energy.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Cold</b>, <b>Fire</b>, <b>Implement</b>, <b>Lightning</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 2d6</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Charisma modifier cold, fire, lightning, and thunder damage, and the target is stunned until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is dazed until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: Roll on the Wild Soul table. Until the end of the encounter, you gain the Wild Soul benefits of both your current Wild Soul damage type and the new type. (If you get the same result a second time, roll again.) If a later effect changes the damage type of your Wild Soul, you can choose to change either one.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 47.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "A spout of matter from the Elemental Chaos emerges in front of you, blasting forth uncontrolled energy.",
+    "keywords": [
+      "Arcane, Cold, Fire, Implement, Lightning, Thunder"
+    ],
+    "range": "Close blast 2d6",
+    "target": "Each enemy in the blast",
+    "attack": "Charisma vs. Fortitude",
+    "onHit": "2d8 + Charisma modifier cold, fire, lightning, and thunder damage, and the target is stunned until the end of your next turn.",
+    "onMiss": "Half damage, and the target is dazed until the end of your next turn.",
+    "effect": "Roll on the Wild Soul table. Until the end of the encounter, you gain the Wild Soul benefits of both your current Wild Soul damage type and the new type. (If you get the same result a second time, roll again.) If a later effect changes the damage type of your Wild Soul, you can choose to change either one."
+  }
+}

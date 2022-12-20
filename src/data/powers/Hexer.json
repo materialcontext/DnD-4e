@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Charisma or Constitution vs. Will",
     "effect": "You can place your Warlock’s Curse on the target.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy hits or misses you with a ranged or area attack",
     "target": "The triggering enemy",
     "effect": "You place your Warlock’s Curse on the target."
@@ -52,7 +52,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma or Constitution vs. Will",
     "onHit": "3d10 + Charisma or Constitution modifier psychic damage.",

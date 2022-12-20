@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature granting combat advantage to you",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC",
     "onHit": "3[W] + Strength modifier (melee) or 3[W] + Dexterity modifier (ranged) damage, and the target is dazed until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One or two creatures",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC. The attack ignores concealment but not total concealment.",
     "onHit": "3[W] + Strength (melee) or Dexterity (ranged) modifier damage, and the target is blinded and takes ongoing 5 damage (save ends both).",
@@ -52,7 +52,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be adjacent to a wall or other large stone feature, such as a column, a boulder, or a stalagmite.",
     "effect": "You are hidden to any enemies that aren’t adjacent to you. You remain hidden until you move or attack."
   }

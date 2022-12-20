@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon + 1<",
+    "range": "Melee weapon + 1",
     "requirement": "You must be wielding a spear.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -33,7 +33,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a spear.",
     "target": "One creature designated as your quarry",
     "attack": "Strength vs. AC",
@@ -54,7 +54,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you can make a melee basic attack with a spear as an immediate reaction against any enemy that moves adjacent to you during its turn. If you hit with that attack, you score a critical hit."
   }
 }

@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy misses you with a melee attack.</p><p class=\"flavor\">Effect: You shift 1 square.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy misses you with a melee attack.",
     "effect": "You shift 1 square."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One adjacent creature granting combat advantage to you</p><p class=\"flavor\">Effect: You make a Thievery check against the target to pick its pocket or perform sleight of hand.</p>"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One adjacent creature granting combat advantage to you",
     "effect": "You make a Thievery check against the target to pick its pocket or perform sleight of hand."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Requirement: You must be adjacent to a creature.</p><p class=\"powerstat\">Effect: You jump up to your speed horizontally or up to 10 feet vertically.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be adjacent to a creature.",
     "effect": "You jump up to your speed horizontally or up to 10 feet vertically."
   },
@@ -67,7 +67,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You fail a Bluff, Diplomacy, or Intimidate check.</p><p class=\"flavor\">Effect: You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You fail a Bluff, Diplomacy, or Intimidate check.",
     "effect": "You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead."
   },
@@ -85,7 +85,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy hits you with a melee or ranged attack while you are adjacent to your ally.</p><p class=\"flavor\">Effect: You shift 1 square, and the attack hits the ally instead of you.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with a melee or ranged attack while you are adjacent to your ally.",
     "effect": "You shift 1 square, and the attack hits the ally instead of you."
   },
@@ -103,7 +103,7 @@
     "keywords": [
       "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One adjacent Medium or larger enemy</p><p class=\"flavor\">Effect: You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack.</p>"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One adjacent Medium or larger enemy",
     "effect": "You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack."
   },
@@ -121,7 +121,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift."
   }
 }

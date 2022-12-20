@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Your oath of enmity target",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and the target is weakened until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Until the end of your next turn, each target makes two attack rolls and uses the result he or she prefers when making a melee attack against your oath of enmity target."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Your oath of enmity target",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage.",

@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Close burst 3</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: The target gains 5 temporary hit points. If the target is asleep, it wakens. If the target is prone, it can stand up as a free action.</p>"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each ally in the burst",
     "effect": "The target gains 5 temporary hit points. If the target is asleep, it wakens. If the target is prone, it can stand up as a free action."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy’s attack pushes, pulls, or slides you.</p><p class=\"flavor\">Effect: The forced movement does not affect you, and you gain combat advantage against the triggering enemy until the end of your next turn.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy’s attack pushes, pulls, or slides you.",
     "effect": "The forced movement does not affect you, and you gain combat advantage against the triggering enemy until the end of your next turn."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy within 3 squares of you moves without shifting.</p><p class=\"flavor\">Effect: You shift up to 3 squares to a square adjacent to the triggering enemy. You then mark that enemy until the end of your next turn.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy within 3 squares of you moves without shifting.",
     "effect": "You shift up to 3 squares to a square adjacent to the triggering enemy. You then mark that enemy until the end of your next turn."
   },
@@ -67,7 +67,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You use hobgoblin discipline.</p><p class=\"flavor\">Effect: You regain the use of hobgoblin discipline.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use hobgoblin discipline.",
     "effect": "You regain the use of hobgoblin discipline."
   },
@@ -85,7 +85,7 @@
     "keywords": [
       "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: The target can shift up to half its speed.</p>"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "The target can shift up to half its speed."
   },
@@ -103,7 +103,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You start your turn subjected to an effect that a save can end.</p><p class=\"flavor\">Effect: The triggering effect ends.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You start your turn subjected to an effect that a save can end.",
     "effect": "The triggering effect ends."
   }

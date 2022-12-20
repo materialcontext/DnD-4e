@@ -13,7 +13,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You are bloodied by an attack",
     "target": "Each ally in the burst",
     "effect": "Each target can use a free action either to shift 1 square or to move half his or her speed."
@@ -32,7 +32,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Close burst 5 (10 at 16th level)<",
+    "range": "Close burst 5 (10 at 16th level)",
     "target": "You or one ally",
     "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 6: 2d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 4d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 26: 6d6 additional hit points.",
     "mantleOfClarity": "The target gains a +1 bonus to all defenses until the end of your next turn.",
@@ -53,7 +53,7 @@
     "keywords": [
       "Augmentable, Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and you or one ally within 5 squares of you can spend a healing surge."
@@ -72,7 +72,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and you and each ally within 5 squares of you can make a saving throw."
@@ -91,7 +91,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and each ally within 5 squares of you gains a +2 power bonus to all defenses until the end of your next turn."
@@ -110,7 +110,7 @@
     "keywords": [
       "Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2[W] + Charisma modifier damage, and the target is dazed (save ends).",
@@ -131,7 +131,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage.",
@@ -152,7 +152,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "You teleport yourself and the target, swapping positions."
   },
@@ -170,7 +170,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "The target gains temporary hit points equal to his or her healing surge value."
   },
@@ -208,7 +208,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage. When the target attacks you or an ally adjacent to you during its next turn, you can make the following secondary attack against it as an immediate interrupt.",
@@ -229,7 +229,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -250,7 +250,7 @@
     "keywords": [
       "Healing, Psionic, Teleportation"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and one ally in the burst",
     "effect": "The targets teleport, swapping positions, and can then each make a basic attack as a free action, with a +2 power bonus to the attack rolls. For each of these attacks that hits, you or one ally you can see can both spend a healing surge and make a saving throw. If both basic attacks miss, you regain the use of this power."
   },
@@ -268,7 +268,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "trigger": "An ally is hit by an opportunity attack",
     "target": "The triggering ally",
     "effect": "You teleport the target a number of squares equal to your Charisma modifier."
@@ -287,7 +287,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "The target regains hit points as if he or she had spent a healing surge."
   },
@@ -346,7 +346,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target takes a –2 penalty to speed (save ends). Until the penalty ends, it worsens by 2 whenever the target attacks. When the target’s speed reaches 0 in this way, the penalty ends, but the target is restrained and stunned (save ends both).",
@@ -366,7 +366,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -386,7 +386,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One ally",
     "effect": "The target regains hit points as if he or she had spent a healing surge. If the target is dying, he or she regains additional hit points equal to 2d10 + your Charisma modifier. In addition, the target can stand up as a free action."
   },
@@ -404,7 +404,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, each target gains a +2 power bonus to attack rolls and a +2 power bonus to saving throws against fear effects."
   },
@@ -422,7 +422,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. Until the start of your next turn, allies within 5 squares of you can score a critical hit on a roll of 19–20."
@@ -441,7 +441,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. The attack creates a zone in a close burst 2. The zone lasts until the end of your next turn. Any ally who starts his or her turn within the zone can either make a saving throw with a +2 power bonus or gain a power bonus to all defenses equal to your Wisdom modifier until the end of his or her next turn.",
@@ -461,7 +461,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier psychic damage.",
@@ -483,7 +483,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One, two, three, or four creatures",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage.",
@@ -503,7 +503,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "The burst creates a zone that lasts until the end of your next turn. Whenever you regain hit points, each ally within the zone gains temporary hit points equal to half the hit points you regained.",
     "sustainMinor": "The zone persists."
   },
@@ -521,7 +521,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must be taking a short rest.",
     "target": "One creature",
     "effect": "The target gains training in a skill of your choice until you take an extended rest."
@@ -561,7 +561,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target is slowed until the end of your next turn. The attack creates a zone in a close burst 2. The zone lasts until the end of your next turn. While within the zone, you and your allies are insubstantial."
@@ -580,7 +580,7 @@
     "keywords": [
       "Conjuration, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage, and you push the target 2 squares.",
@@ -601,7 +601,7 @@
     "keywords": [
       "Healing, Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -621,7 +621,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "effect": "The target gains resistance to all damage equal to one-half your level until the end of your next turn."
   },
@@ -639,7 +639,7 @@
     "keywords": [
       "Healing, Psionic, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst creates a zone that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. Any ally who starts his or her turn within the zone regains 10 hit points.",
     "sustainMinor": "The zone persists."
   },
@@ -678,7 +678,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage, and the target takes a –3 penalty to all defenses until the end of your next turn. In addition, you and each ally adjacent to you gain blindsight 10 until the end of your next turn."
@@ -697,7 +697,7 @@
     "keywords": [
       "Healing, Psionic, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. While within the zone, allies gain regeneration 5 and a +2 power bonus to attack rolls, and their attacks deal 1d10 extra damage.",
     "sustainMinor": "The zone persists."
   },
@@ -715,7 +715,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage, and you slide the primary target 1 square.",
@@ -738,7 +738,7 @@
     "keywords": [
       "Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "5[W] + Charisma modifier damage.",
@@ -759,7 +759,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each ally in the burst",
     "effect": "Each target can make an at-will attack as a free action, with a power bonus to the damage roll equal to your Wisdom modifier. If a target misses, he or she can make a saving throw."
   },
@@ -798,7 +798,7 @@
     "keywords": [
       "Augmentable, Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "Each target can use a free action either to make a basic attack or to charge, with a power bonus to the damage roll equal to your Wisdom modifier. If a target hits, he or she can make a saving throw."
   },
@@ -816,7 +816,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You are bloodied by an attack",
     "target": "Each enemy in the burst",
     "effect": "Each target grants combat advantage until the start of your next turn."
@@ -835,7 +835,7 @@
     "keywords": [
       "Augmentable, Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage, and the target takes a penalty to all defenses equal to 1 + your Constitution modifier until the end of your next turn.",
@@ -855,7 +855,7 @@
     "keywords": [
       "Augmentable, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One enemy",
     "effect": "One ally within 5 squares of you can use a free action to shift to a square adjacent to the target and then make a melee basic attack against it. If the attack hits, it deals 1d8 extra damage to the target, and the target has vulnerability to all damage equal to 1 + your Charisma modifier until the end of your next turn."
   },
@@ -873,7 +873,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage.",
@@ -894,7 +894,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage.",
@@ -916,7 +916,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target takes a penalty to attack rolls equal to your Wisdom modifier (save ends).",
@@ -937,7 +937,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One ally",
     "effect": "Until the end of your next turn, the target’s reach increases by 1, and the target adds your Wisdom modifier to the range of his or her ranged powers."
   },
@@ -955,7 +955,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally",
     "effect": "You transfer 1 or 2 power points to the target."
   },
@@ -973,7 +973,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "Until the end of the encounter, whenever the target starts his or her turn and is not bloodied, he or she gains temporary hit points equal to 1 + your Constitution modifier."
   },
@@ -991,7 +991,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you shift 1 square.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -1011,7 +1011,7 @@
     "keywords": [
       "Augmentable, Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2[W] + Charisma modifier damage, and you push the target a number of squares equal to 1 + your Constitution modifier. In addition, the target grants combat advantage to your allies adjacent to it at the end of the push."
@@ -1030,7 +1030,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage.",
@@ -1051,7 +1051,7 @@
     "keywords": [
       "Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage, and the target is blinded (save ends).",
@@ -1072,7 +1072,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "Two allies you can see or you and one ally you can see",
     "effect": "Until the end of the encounter, whenever the targets are within 5 squares of each other, neither grants combat advantage for being flanked unless both are flanked."
   },
@@ -1090,7 +1090,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "The target gains temporary hit points equal to 1d12 + your Charisma modifier."
   },
@@ -1108,7 +1108,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst creates a zone that lasts until the end of your next turn. You and your allies gain both resist 3 to all damage and a +2 bonus to saving throws while within the zone."
   },
   "Forward-Thinking Cut": {
@@ -1125,7 +1125,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage, and each ally adjacent to you gains a +1 power bonus to attack rolls until the start of your next turn.",
@@ -1146,7 +1146,7 @@
     "keywords": [
       "Augmentable, Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. Allies who hit the target before the end of your next turn can spend a healing surge."
@@ -1165,7 +1165,7 @@
     "keywords": [
       "Augmentable, Charm, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "1[W] + Charisma modifier psychic damage, and the target makes a melee basic attack as a free action against one or two creatures of your choice."
@@ -1184,7 +1184,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "1[W] + Charisma modifier damage, and ongoing 5 psychic damage (save ends).",
@@ -1206,7 +1206,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "3[W] + Charisma modifier psychic damage.",
@@ -1226,7 +1226,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One enemy in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "The target is dazed (save ends).",
@@ -1246,7 +1246,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An attack damages you or an ally",
     "target": "You or the ally in the burst",
     "effect": "The damage the target takes from the triggering attack is reduced by an amount equal to your level."
@@ -1265,7 +1265,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone that lasts until the end of your next turn. While within the zone, you and your allies gain resist 10 psychic, a +4 power bonus to Will, and a +2 power bonus to AC, Fortitude, and Reflex. In addition, any ally who starts his or her turn within the zone can make a saving throw against a dominating or stunning effect.",
     "sustainMinor": "The zone persists."
   },
@@ -1283,7 +1283,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy you can see in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage, and the target is dazed until the end of your next turn.",
@@ -1305,7 +1305,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage. One ally within 5 squares of you can take a move action as a free action.",
@@ -1325,7 +1325,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and you push the target 1 square. Until the end of your next turn, you and your allies gain a +2 power bonus to attack rolls against the target and any enemies adjacent to it."
@@ -1344,7 +1344,7 @@
     "keywords": [
       "Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "The target is dominated and gains vulnerability to all damage equal to your Wisdom modifier (save ends both).",
@@ -1364,7 +1364,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target is immobilized (save ends). Until the condition ends, any enemy that starts its turn adjacent to the target is immobilized until the start of that enemy’s next turn.",
@@ -1384,7 +1384,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -1405,7 +1405,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You succeed on a saving throw",
     "target": "Each ally in the burst",
     "effect": "The next saving throw each target makes before the end of your next turn gains a bonus equal to your Constitution modifier."
@@ -1424,7 +1424,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst or you and each ally in the burst",
     "effect": "If you target only one creature with this power, the target regains hit points as if he or she had spent two healing surges. If you target more than one creature, each target regains hit points as if he or she had spent a healing surge."
   },
@@ -1442,7 +1442,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You roll initiative",
     "target": "You and each ally in the burst",
     "effect": "Each target can move half his or her speed as a free action."
@@ -1461,7 +1461,7 @@
     "keywords": [
       "Augmentable, Psionic, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier radiant damage.",
@@ -1482,7 +1482,7 @@
     "keywords": [
       "Augmentable, Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage, and you slide the target 1 square. When any ally hits the target before the start of your next turn, you can slide the target 1 square as a free action.",
@@ -1502,7 +1502,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -1523,7 +1523,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage, and the target is slowed and cannot shift (save ends both).",
@@ -1546,7 +1546,7 @@
     "keywords": [
       "Healing, Psionic, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4[W] + Charisma modifier damage. Once before the end of the encounter, when the target starts its turn bloodied or drops to 0 hit points, each ally you can see regains hit points as if he or she had spent a healing surge."
@@ -1565,7 +1565,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "effect": "The target can use a free action to take a standard, a move, and a minor action."
   },
@@ -1583,7 +1583,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "An ally within 3 squares of you makes an opportunity attack",
     "target": "The triggering ally in the burst",
     "effect": "The target gains a power bonus to the attack roll and the damage roll equal to your Charisma modifier."
@@ -1602,7 +1602,7 @@
     "keywords": [
       "Augmentable, Charm, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "1[W] + Charisma modifier psychic damage, and the target makes a melee basic attack as a free action against each of your enemies adjacent to it."
@@ -1621,7 +1621,7 @@
     "keywords": [
       "Augmentable, Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One or two allies in the burst",
     "effect": "Each target can make an at-will attack as a free action. If a target’s attack hits, he or she gains 15 temporary hit points."
   },
@@ -1639,7 +1639,7 @@
     "keywords": [
       "Fire, Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier fire damage, and ongoing 15 fire damage (save ends).",
@@ -1661,7 +1661,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage.",
@@ -1683,7 +1683,7 @@
     "keywords": [
       "Charm, Psionic, Psychic, Weapon"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "You pull the target 4 squares, and it takes 4[W] + your Charisma modifier psychic damage. The enemy then chooses either to be pushed 3 squares or to take a -2 penalty to attack rolls (save ends).",
@@ -1703,7 +1703,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4[W] + Charisma modifier damage, and each ally you can see can make a saving throw."
@@ -1722,7 +1722,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier psychic damage. Until the end of your next turn, the target is weakened and takes a penalty to attack rolls. The penalty equals your Constitution modifier.",
@@ -1744,7 +1744,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage, and you push the target 2 squares.",
@@ -1765,7 +1765,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage, and the target is weakened (save ends).",
@@ -1786,7 +1786,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You are bloodied by an attack",
     "target": "Each ally in the burst",
     "effect": "The target gains a +2 bonus to his or her damage rolls until the start of your next turn.<br/>Level 11: +4 bonus.<br/>Level 21: +6 bonus."
@@ -1805,7 +1805,7 @@
     "keywords": [
       "Augmentable, Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage, and the target is dazed until the end of your next turn."
@@ -1824,7 +1824,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. If the target hits with an attack before the start of your next turn, it takes extra damage equal to your Constitution modifier from each attack that hits it before the end of your next turn."
@@ -1843,7 +1843,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage. The next ally within 5 squares of you to miss the target with an attack before the start of your next turn can reroll the attack roll."
@@ -1882,7 +1882,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and one ally you can see shifts 2 squares as a free action. In addition, whenever the target takes a move action, you or one ally you can see shifts 2 squares as an immediate reaction (save ends).",
@@ -1902,7 +1902,7 @@
     "keywords": [
       "Illusion, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage.",
@@ -1923,7 +1923,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier psychic damage, and you push the target 1 square.",
@@ -1944,7 +1944,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier psychic damage.",
@@ -1965,7 +1965,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One bloodied ally",
     "effect": "The target gains temporary hit points equal to your Charisma modifier."
   },
@@ -1983,7 +1983,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you takes damage from an attack",
     "target": "The triggering ally",
     "effect": "Reduce the damage the target would take by your Wisdom modifier. The target also gains a +2 power bonus to saving throws until the end of his or her next turn."
@@ -2002,7 +2002,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you spends a healing surge",
     "target": "One ally other than the triggering ally",
     "effect": "The target regains hit points as if he or she had spent a healing surge."
@@ -2021,7 +2021,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "When the target charges before the end of its next turn, it gains a +2 power bonus to speed and a power bonus to damage rolls equal to your Wisdom or Constitution modifier on the charge attack."
   },
@@ -2039,7 +2039,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. Until the end of your next turn, any ally more than 1 square away from the target has concealment against it."
@@ -2058,7 +2058,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. If the target willingly moves or shifts before the start of your next turn, one ally adjacent to you or the target can make a basic attack against the target as an immediate interrupt."
@@ -2077,7 +2077,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy targets you with a melee attack",
     "target": "The triggering enemy",
     "attack": "Charisma vs. AC",
@@ -2098,7 +2098,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. Until the end of your next turn, the target deals half damage with any attack that is not a basic attack."
@@ -2117,7 +2117,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage, and the target is slowed (save ends).",
@@ -2139,7 +2139,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "You pull the target 5 squares. Any target pulled to a square adjacent to you is weakened (save ends).",
@@ -2160,7 +2160,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage.",
@@ -2182,7 +2182,7 @@
     "keywords": [
       "Fear, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "1[W] + Charisma modifier psychic damage. Whenever the primary target makes an attack, it takes 10 psychic damage (save ends).",
@@ -2206,7 +2206,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You take damage from an attack",
     "target": "Each ally in the burst",
     "effect": "The target gains temporary hit points equal to 3 + your Charisma modifier."
@@ -2225,7 +2225,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You or one ally in the burst misses with an opportunity attack",
     "target": "The triggering creature",
     "effect": "The target makes another opportunity attack."
@@ -2244,7 +2244,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You roll initiative",
     "target": "Each ally in the burst",
     "effect": "You slide the target 3 squares, and the target gains a +2 power bonus to all defenses until it takes its first action during the encounter."
@@ -2263,7 +2263,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you moves or shifts",
     "target": "One ally other than the triggering ally",
     "effect": "The target shifts a number of squares equal to your Wisdom modifier."
@@ -2282,7 +2282,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of your next turn, each ally who starts his or her turn within 5 squares of you gains a +2 power bonus to speed and can shift 2 squares as a move action.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -2302,7 +2302,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and you mark the target until the end of your next turn. Until the end of your next turn, the target grants combat advantage to allies adjacent to you.",
@@ -2322,7 +2322,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. Until the end of your next turn, the target takes a penalty to damage rolls equal to your Constitution modifier."
@@ -2341,7 +2341,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] modifier damage. One ally you can see charges with a power bonus to the attack roll equal to your Constitution modifier. If the ally hits with this attack, he or she gains a +2 power bonus to all defenses until the start of your next turn and can spend a healing surge.",
@@ -2362,7 +2362,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2[W] + Charisma modifier psychic damage, and the target is affected by your cerebral worm (save ends). While the target is affected by the worm, the first time the target makes an attack roll on each of its turns, it must either take 10 psychic damage or make the attack roll twice and use the lower roll.",
@@ -2382,7 +2382,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2[W] + Charisma modifier damage.",
@@ -2403,7 +2403,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "effect": "You teleport the target 5 squares. One or two allies adjacent to the target at the end of the teleport can each make a melee basic attack against the target as a free action. Each ally who hits the target also gains temporary hit points equal to your Charisma modifier."
   },
@@ -2421,7 +2421,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "After the attack, each ally adjacent to you can shift 1 square or move his or her speed as a free action.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -2441,7 +2441,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You succeed on a saving throw",
     "target": "You and each ally in the burst",
     "effect": "The target gains a +2 power bonus to all defenses until the end of your next turn."
@@ -2460,7 +2460,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally you can see succeeds on a skill check",
     "target": "You and each ally in the burst other than the triggering ally",
     "effect": "The target gains a +2 power bonus to the next skill check he or she makes before the end of your next turn."
@@ -2479,7 +2479,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you hits with a melee attack",
     "target": "The triggering ally in the burst",
     "effect": "The target gains temporary hit points equal to 5 + your Charisma modifier."
@@ -2498,7 +2498,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you becomes bloodied or drops to 0 hit points or fewer",
     "target": "One ally other than the triggering ally",
     "effect": "You teleport the target to a square adjacent to the triggering ally."
@@ -2537,7 +2537,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier damage plus 1d8 psychic damage. One ally within 5 squares of you can spend a healing surge and regain additional hit points equal to your Constitution modifier.",
@@ -2557,7 +2557,7 @@
     "keywords": [
       "Augmentable, Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage. Until the start of your next turn, when an enemy you can see deals damage with an attack, one ally within 5 squares of you gains temporary hit points equal to your Wisdom modifier."
@@ -2576,7 +2576,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage. Until the end of your next turn, allies gain a +2 power bonus to attack rolls while adjacent to you, and enemies take a -2 penalty to attack rolls while adjacent to you.",
@@ -2596,7 +2596,7 @@
     "keywords": [
       "Psionic, Psychic, Teleportation, Weapon"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An ally within 10 squares of you makes a melee attack",
     "effect": "The triggering ally gains combat advantage against the target for its triggering attack, and deals 2d6 extra psychic damage with that attack.",
     "target": "One creature",
@@ -2618,7 +2618,7 @@
     "keywords": [
       "Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One enemy, or two enemies if you are bloodied",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -2639,7 +2639,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally you can see in the burst, to a maximum of five targets",
     "effect": "You apply one of the following effects to each target. Each effect can be used only once.<br/>* The target flies a number of squares equal to your Charisma modifier as a free action. The target must land at the end of this movement.<br/>* The target shifts its speed as a free action.<br/>* The target spends a healing surge.<br/>* The target can make a basic attack as a free action.<br/>* The target can charge as a free action."
   },
@@ -2657,7 +2657,7 @@
     "keywords": [
       "Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage.",
@@ -2677,7 +2677,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Area burst 5 within 10 squares<",
+    "range": "Area burst 5 within 10 squares",
     "trigger": "An ally within 10 squares of you spends a healing surge",
     "target": "Each ally in the burst",
     "effect": "The target gains temporary hit points equal to 10 + your Charisma modifier."
@@ -2696,7 +2696,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "Choose one effect on the target that a save can end. The target is not affected by that effect until the end of its next turn, but it cannot make a saving throw against that effect at the end of that turn. The target gains a +2 power bonus to his or her next saving throw to end that effect."
   },
@@ -2714,7 +2714,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An ally within 10 squares of you is hit by an attack",
     "target": "The triggering ally",
     "effect": "The target is insubstantial until the end of his or her next turn."
@@ -2733,7 +2733,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You and one ally",
     "effect": "Each target gains regeneration 5 until the end of the encounter. If a target starts its turn more than 5 squares away from the other target, this regeneration does not function for the target during that turn."
   },
@@ -2751,7 +2751,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target is blinded until the end of your next turn."
@@ -2790,7 +2790,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage. Critical hits scored against any ally within 5 squares of you before the end of your next turn is treated as a normal hit. In addition, when an enemy within 5 squares of you succeeds on a saving throw, each ally within 5 squares of you can make a saving throw with a bonus equal to your Wisdom modifier."
@@ -2809,7 +2809,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target gains vulnerable 2 to all damage until the end of your next turn. This vulnerability increases by 2 whenever an attack hits or misses the target."
@@ -2828,7 +2828,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage, and ongoing 10 psychic damage (save ends).",
@@ -2849,7 +2849,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. You slide the target 5 squares, and it is restrained (save ends).",
@@ -2870,7 +2870,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier psychic damage, and the target is slowed (save ends).",
@@ -2892,7 +2892,7 @@
     "keywords": [
       "Psionic, Stance, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage.",
@@ -2913,7 +2913,7 @@
     "keywords": [
       "Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "Until the end of the encounter, while the target is bloodied, he or she gains a +1 bonus to speed, a +5 power bonus to Athletics checks and Endurance checks, and deals 5 extra psychic damage with melee attacks."
   },
@@ -2931,7 +2931,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally within 10 squares of you misses with an encounter attack power",
     "effect": "You regain 2 power points."
   },
@@ -2949,7 +2949,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An ally within 10 squares of you drops to 0 hit points or fewer",
     "target": "The triggering ally",
     "effect": "The target regains hit points as if he or she had spent a healing surge, and can stand up and shift a number of squares equal to your Charisma modifier as a free action."
@@ -2968,7 +2968,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you hits an ally with a melee attack",
     "target": "One ally",
     "effect": "The target teleports to an unoccupied square adjacent to the triggering enemy and gains combat advantage against that enemy until the end of the target’s next turn."
@@ -2987,7 +2987,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage. One or two allies within 5 squares of you can each make a basic attack as a free action, with a power bonus to the attack roll equal to your Constitution modifier. Each ally makes its attack against a different target that is not the target of this power."
@@ -3045,7 +3045,7 @@
     "keywords": [
       "Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage.",
@@ -3066,7 +3066,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage.",
@@ -3088,7 +3088,7 @@
     "keywords": [
       "Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "5[W] + Charisma modifier damage.",
@@ -3108,7 +3108,7 @@
     "keywords": [
       "Psionic, Psychic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One or two allies in the burst",
     "effect": "The target can make a basic attack against an enemy as a free action. If the attack hits, the enemy takes 5 extra psychic damage and is also dazed (save ends). If the attack misses, the enemy takes 15 psychic damage and the target slides the enemy 1 square."
   },
@@ -3126,7 +3126,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage. The target chooses either to be immobilized until the end of your next turn or to grant combat advantage until the end of your next turn."
@@ -3145,7 +3145,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "4[W] + Charisma modifier damage. The target is dazed until the end of your next turn or until it takes damage from an attack."
@@ -3185,7 +3185,7 @@
     "keywords": [
       "Psionic, Psychic, Teleportation, Weapon"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "trigger": "An ally you can see is hit by an attack",
     "effect": "Before the attack, you teleport to an unoccupied square adjacent to the triggering ally.",
     "target": "Each enemy in the blast",
@@ -3207,7 +3207,7 @@
     "keywords": [
       "Psionic, Psychic, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target is affected by a lethal delusion (save ends). While the target is affected by the delusion, it takes a -2 penalty to attack rolls, defenses, and saving throws. In addition, the first time the target misses with an attack during each of its turns, it takes 10 psychic damage."
@@ -3226,7 +3226,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "5[W] + Charisma modifier damage.",
@@ -3247,7 +3247,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and the target cannot shift until the end of your next turn.",
@@ -3268,7 +3268,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you takes damage from an attack.",
     "target": "The triggering ally",
     "effect": "The target takes half damage from the triggering attack. If the target would receive an effect that a save can end from the triggering attack, you can choose to have the effect apply to you instead. Until the end of your next turn, you and the target gain a +2 power bonus to defenses while you are within 5 squares of one another."
@@ -3287,7 +3287,7 @@
     "keywords": [
       "Aura, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 5 that lasts until the end of the encounter or until you dismiss it as a minor action. Whenever an enemy in the aura takes damage from an attack, you can take 5 psychic damage that can’t be reduced in any way. If you do so, that enemy grants combat advantage (save ends)."
   },
   "Clarifying Impact": {
@@ -3304,7 +3304,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC. If the target is adjacent to one of your allies, you have combat advantage for this attack.",
     "onHit": "2[W] + Charisma modifier damage.",
@@ -3326,7 +3326,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy hits your ally with an attack.",
     "target": "The triggering enemy",
     "effect": "You subject the target to your unshakable bond until the end of the encounter or until it drops to 0 hit points. While the target is subject to your unshakable bond, you always know its exact location and your attacks against it ignore any cover or concealment."

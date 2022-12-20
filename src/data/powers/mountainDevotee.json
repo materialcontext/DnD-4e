@@ -1,0 +1,63 @@
+{
+  "Tumbling Boulder [Attack Technique]": {
+    "id": "'11263",
+    "action": "Standard",
+    "powerClass": "Mountain Devotee",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Tumbling Boulder [Attack Technique]",
+    "type": "Devotee",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTumbling Boulder [Attack Technique]\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11263\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mountain Devotee Attack 11</span>Tumbling Boulder [Attack Technique]</h1><p class=\\\"flavor\\\"><i>The boulder moves slowly at first, but once it picks up speed, few things can stop it.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Full Discipline</b>, <b>Implement</b>, <b>Psionic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + Dexterity modifier damage, and the target falls prone and can’t stand up until the end of your next turn.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Tumbling Boulder [Movement Technique]</h1><p class=\\\"flavor\\\"><i>The boulder moves slowly at first, but once it picks up speed, few things can stop it.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Full Discipline</b>, <b>Psionic</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You shift half your speed and gain a +2 bonus to all defenses until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "The boulder moves slowly at first, but once it picks up speed, few things can stop it.",
+    "keywords": [
+      "Full Discipline, Implement, Psionic"
+    ],
+    "range": "Melee touch",
+    "target": "One creature",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "2d10 + Dexterity modifier damage, and the target falls prone and can’t stand up until the end of your next turn.",
+    "effect": "You shift half your speed and gain a +2 bonus to all defenses until the end of your next turn."
+  },
+  "Avalanche Throw": {
+    "id": "'11264",
+    "action": "Immediate Reaction",
+    "powerClass": "Mountain Devotee",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Avalanche Throw",
+    "type": "Devotee",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAvalanche Throw\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11264\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Mountain Devotee Attack 20</span>Avalanche Throw</h1><p class=\\\"flavor\\\"><i>You grab the enemy as it moves in to attack, and you throw it across the battlefield, then leap through the air to deliver a devastating attack.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Psionic</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An adjacent enemy hits you with a melee or a close attack</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d10 + Dexterity modifier damage, and you push the target 5 squares and knock it prone.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and you push the target 2 squares.</p><p class=\\\"flavor\\\"><b>Effect</b>: You jump to a square you can see adjacent to the target. This movement doesn’t provoke opportunity attacks. Then make a secondary attack against the target.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Dexterity vs. Fortitude</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1d10 + Dexterity modifier damage, and the target is dazed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You grab the enemy as it moves in to attack, and you throw it across the battlefield, then leap through the air to deliver a devastating attack.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Melee 1",
+    "trigger": "An adjacent enemy hits you with a melee or a close attack",
+    "target": "The triggering enemy",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "1d10 + Dexterity modifier damage, and you push the target 5 squares and knock it prone.",
+    "onMiss": "Half damage, and you push the target 2 squares.",
+    "effect": "You jump to a square you can see adjacent to the target. This movement doesn’t provoke opportunity attacks. Then make a secondary attack against the target.",
+    "secondaryAttack": "Dexterity vs. Fortitude",
+    "secondaryOnHit": "1d10 + Dexterity modifier damage, and the target is dazed (save ends)."
+  },
+  "Root the Mountain": {
+    "id": "'11266",
+    "action": "Minor",
+    "powerClass": "Mountain Devotee",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Root the Mountain",
+    "type": "Devotee",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRoot the Mountain\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11266\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mountain Devotee Utility 12</span>Root the Mountain</h1><p class=\\\"flavor\\\"><i>You assume a wide stance, digging your feet into the ground to become as steadfast as the mountain.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, you can’t be pulled, pushed, slid, or knocked prone unless you want to be. You are slowed while you are in this stance. You can end the stance as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You assume a wide stance, digging your feet into the ground to become as steadfast as the mountain.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "effect": "Until the stance ends, you can’t be pulled, pushed, slid, or knocked prone unless you want to be. You are slowed while you are in this stance. You can end the stance as a free action."
+  }
+}

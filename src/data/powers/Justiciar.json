@@ -13,7 +13,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally within 5 squares of you is attacked",
     "effect": "The attack misses all of your allies it targets, but automatically hits you even if you weren’t a target of the attack."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy marked by you in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier radiant damage, and until the end of your next turn, the target cannot make an attack that does not include you."
@@ -50,7 +50,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier radiant damage, and the target is marked until the end of your next turn.",

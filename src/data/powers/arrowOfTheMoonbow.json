@@ -1,0 +1,80 @@
+{
+  "Break the Bonds": {
+    "id": "'12291",
+    "action": "No Action",
+    "powerClass": "Arrow of the Moonbow",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Break the Bonds",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 386",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBreak the Bonds\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12291\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arrow of the Moonbow Feature </span>Break the Bonds</h1><p class=\\\"flavor\\\"><i>You will not bow to an outside force.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Channel Divinity</b>: You can use only one Channel Divinity power per encounter.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are dominated, immobilized, petrified, or restrained</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering effect ends.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/386\\\" target=\\\"_new\\\">Dragon Magazine 386</a>, page(s) 70.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You will not bow to an outside force.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Personal",
+    "channelDivinity": "You can use only one Channel Divinity power per encounter.",
+    "trigger": "You are dominated, immobilized, petrified, or restrained",
+    "effect": "The triggering effect ends."
+  },
+  "Three Moonbeams": {
+    "id": "'12292",
+    "action": "Standard",
+    "powerClass": "Arrow of the Moonbow",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Three Moonbeams",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 386",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nThree Moonbeams\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12292\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Arrow of the Moonbow Attack 11</span>Three Moonbeams</h1><p class=\\\"flavor\\\"><i>Your arrows glow with moonlight, bathing your targets with a cold radiance and granting your allies a chance to reposition themselves.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a bow.</p><p class=\\\"powerstat\\\"><b>Target</b>: One, two or three creatures</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom or Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Wisdom or Charisma modifier cold and radiant damage per attack, and each ally adjacent to the target can shift 1 square as a free action. If you target only one creature, the attack deals 1[W] extra damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/386\\\" target=\\\"_new\\\">Dragon Magazine 386</a>, page(s) 70.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your arrows glow with moonlight, bathing your targets with a cold radiance and granting your allies a chance to reposition themselves.",
+    "keywords": [
+      "Cold, Divine, Radiant, Weapon"
+    ],
+    "range": "Ranged weapon",
+    "requirement": "You must be wielding a bow.",
+    "target": "One, two or three creatures",
+    "attack": "Wisdom or Charisma vs. AC",
+    "onHit": "1[W] + Wisdom or Charisma modifier cold and radiant damage per attack, and each ally adjacent to the target can shift 1 square as a free action. If you target only one creature, the attack deals 1[W] extra damage."
+  },
+  "Moon Shot": {
+    "id": "'12293",
+    "action": "Standard",
+    "powerClass": "Arrow of the Moonbow",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Moon Shot",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 386",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMoon Shot\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12293\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arrow of the Moonbow Attack 20</span>Moon Shot</h1><p class=\\\"flavor\\\"><i>You gather the moon’s white light around your arrow and fire it at your enemy, chilling it to the bone. To your ally, the light becomes a healing balm.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Cold</b>, <b>Divine</b>, <b>Radiant</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a bow.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom or Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Wisdom or Charisma modifier cold and radiant damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Each ally adjacent to the target can spend a healing surge.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/386\\\" target=\\\"_new\\\">Dragon Magazine 386</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You gather the moon’s white light around your arrow and fire it at your enemy, chilling it to the bone. To your ally, the light becomes a healing balm.",
+    "keywords": [
+      "Cold, Divine, Radiant, Weapon"
+    ],
+    "range": "Ranged weapon",
+    "requirement": "You must be wielding a bow.",
+    "target": "One creature",
+    "attack": "Wisdom or Charisma vs. AC",
+    "onHit": "5[W] + Wisdom or Charisma modifier cold and radiant damage.",
+    "onMiss": "Half damage.",
+    "effect": "Each ally adjacent to the target can spend a healing surge."
+  },
+  "Moon Eye": {
+    "id": "'12294",
+    "action": "Minor",
+    "powerClass": "Arrow of the Moonbow",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Moon Eye",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 386",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMoon Eye\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12294\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Arrow of the Moonbow Utility 12</span>Moon Eye</h1><p class=\\\"flavor\\\"><i>No darkness can blind you when you carry the moon in your heart.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter you gain darkvision and cannot be blinded.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/386\\\" target=\\\"_new\\\">Dragon Magazine 386</a>, page(s) 70.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "No darkness can blind you when you carry the moon in your heart.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter you gain darkvision and cannot be blinded."
+  }
+}

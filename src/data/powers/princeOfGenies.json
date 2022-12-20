@@ -1,0 +1,63 @@
+{
+  "Genie’s Intercession": {
+    "id": "'16335",
+    "action": "Immediate Reaction",
+    "powerClass": "Prince of Genies",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Genie’s Intercession",
+    "type": "of",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGenie’s Intercession\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16335\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Prince of Genies Attack 11</span>Genie’s Intercession</h1><p class=\\\"flavor\\\"><i>An elemental spirit rushes forth to punish your attacker and then propels you and a comrade to safer spots.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Teleportation</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are hit by an enemy adjacent to you.</p><p class=\\\"powerstat\\\"><b>Target</b>: The triggering enemy</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + your highest ability modifier damage, and you push the target up to 2 squares.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You and one ally adjacent to you each teleport up to 5 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 135.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "An elemental spirit rushes forth to punish your attacker and then propels you and a comrade to safer spots.",
+    "keywords": [
+      "Elemental, Teleportation"
+    ],
+    "range": "Melee 1",
+    "trigger": "You are hit by an enemy adjacent to you.",
+    "target": "The triggering enemy",
+    "attack": "Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex",
+    "onHit": "2d6 + your highest ability modifier damage, and you push the target up to 2 squares.",
+    "onMiss": "Half damage.",
+    "effect": "You and one ally adjacent to you each teleport up to 5 squares."
+  },
+  "Genie’s Gift": {
+    "id": "'16336",
+    "action": "Standard",
+    "powerClass": "Prince of Genies",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Genie’s Gift",
+    "type": "of",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGenie’s Gift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16336\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Prince of Genies Attack 20</span>Genie’s Gift</h1><p class=\\\"flavor\\\"><i>The genie’s vessel pops open, releasing a powerful elemental spirit that catches your enemies by surprise.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Elemental</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier + 5 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is dazed (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: The target is dazed until the end of your next turn.</p><p class=\\\"flavor\\\"><b>Effect</b>: You or one ally in the burst gains an action point that must be used before the end of your next turn or it is lost.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 136.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "The genie’s vessel pops open, releasing a powerful elemental spirit that catches your enemies by surprise.",
+    "keywords": [
+      "Charm, Elemental"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy in the burst",
+    "attack": "Highest ability modifier + 5 vs. Will",
+    "onHit": "The target is dazed (save ends).",
+    "onMiss": "The target is dazed until the end of your next turn.",
+    "effect": "You or one ally in the burst gains an action point that must be used before the end of your next turn or it is lost."
+  },
+  "Limited Wish": {
+    "id": "'16337",
+    "action": "Minor",
+    "powerClass": "Prince of Genies",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Limited Wish",
+    "type": "of",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLimited Wish\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16337\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Prince of Genies Utility 12</span>Limited Wish</h1><p class=\\\"flavor\\\"><i>Name your desire, and the genie provides it.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Choose one of the following.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target regains the use of an expended encounter utility power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target treats its next miss before the end of the encounter as a hit.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target gains a +2 power bonus to all defenses until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target gains training in one skill of his or her choice until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 136.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Name your desire, and the genie provides it.",
+    "keywords": [
+      "Elemental"
+    ],
+    "range": "Close burst 1",
+    "target": "You or one ally in the burst",
+    "effect": "Choose one of the following.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target regains the use of an expended encounter utility power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target treats its next miss before the end of the encounter as a hit.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target gains a +2 power bonus to all defenses until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target gains training in one skill of his or her choice until the end of the encounter."
+  }
+}

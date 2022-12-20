@@ -13,7 +13,7 @@
     "keywords": [
       "Charm, Implement, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Charisma + 2 vs. Will",
     "onHit": "1d6 + Charisma modifier psychic damage, and you pull the target up to 3 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Charisma modifier psychic damage."
@@ -32,7 +32,7 @@
     "keywords": [
       "Implement, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d8 + Dexterity modifier necrotic damage, and you gain temporary hit points equal to 2 + your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Dexterity modifier necrotic damage."
@@ -51,7 +51,7 @@
     "keywords": [
       "Implement, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d10 + Dexterity modifier damage, and you can push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Dexterity modifier damage.",
@@ -71,7 +71,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a vampire melee at-will attack power.",
     "target": "The triggering enemy",
     "effect": "The target takes 1d10 extra damage from the triggering attack, and you gain a healing surge.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3d10 extra damage."
@@ -90,7 +90,7 @@
     "keywords": [
       "Implement, Shadow, Teleportation"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d6 + Dexterity modifier damage, and ongoing 5 damage (save ends).",
@@ -111,7 +111,7 @@
     "keywords": [
       "Charm, Shadow"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "One creature in the blast",
     "effect": "Until the end of your next turn, the target cannot make opportunity attacks or take immediate actions. In addition, you gain a +4 bonus to the next Bluff check or Diplomacy check you make against the target before the end of the encounter."
   },
@@ -129,7 +129,7 @@
     "keywords": [
       "Charm, Shadow"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "One creature in the blast",
     "effect": "Until the start of your next turn, the target grants combat advantage while you are adjacent to it. In addition, you gain a +4 bonus to the next Intimidate check you make against the target before the end of the encounter."
   },
@@ -147,7 +147,7 @@
     "keywords": [
       "Implement, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d12 + Dexterity modifier damage.",
@@ -167,7 +167,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to the next Athletics, Endurance, or Strength check you make before the end of your turn.",
     "special": "You can lose a healing surge when you use this power to increase the bonus to +10."
   },
@@ -185,7 +185,7 @@
     "keywords": [
       "Implement, Shadow"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage.",
@@ -206,7 +206,7 @@
     "keywords": [
       "Polymorph, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of a Tiny bat. While you are in this form, you have a speed of 2 and a fly speed of 8, and you cannot make attacks or hold or carry any object. Your equipment becomes part of this form. You use a move action to return to your normal form."
   },
   "Domineering Gaze": {
@@ -223,7 +223,7 @@
     "keywords": [
       "Charm, Implement, Necrotic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "attack": "Charisma + 2 vs. Will",
     "onHit": "The target is dominated (save ends). While the target is dominated by this power, you can use a minor action while adjacent to the target to gain a healing surge and to deal necrotic damage to the target equal to your healing surge value. Doing so ends the domination.",
@@ -243,7 +243,7 @@
     "keywords": [
       "Polymorph, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a gaseous form. While in this form, you are insubstantial and phasing, gain a fly speed of 8, and gain a +10 power bonus to Stealth checks. You cannot attack in this form. The form lasts until the end of your next turn or until you use a minor action to end it.",
     "sustainMinor": "The gaseous form persists until the end of your next turn."
   },
@@ -261,7 +261,7 @@
     "keywords": [
       "Implement, Shadow, Teleportation"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "5d6 + Dexterity modifier damage, and the target is blinded (save ends).",
@@ -282,7 +282,7 @@
     "keywords": [
       "Healing, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have at least one healing surge remaining.",
     "target": "One ally",
     "effect": "You lose a healing surge. The target regains 1 hit point, gains temporary hit points equal to his or her bloodied value, and can make a saving throw with a +2 power bonus."
@@ -301,7 +301,7 @@
     "keywords": [
       "Implement, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d12 + Dexterity modifier damage.",
@@ -321,7 +321,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "The target of your blood drinker power is bloodied or reduced to 0 hit points by that power’s triggering attack.",
     "effect": "You shift up to your speed and can move through enemies’ spaces during this shift. You then use vampire slam with a +2 bonus to the attack roll. If you hit, you also knock the target prone."
   },
@@ -339,7 +339,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce an adjacent enemy to 0 hit points on your turn.",
     "effect": "You use dark beckoning against an enemy within range. If you hit with that power, you also gain combat advantage against the target until the end of your next turn."
   },
@@ -357,7 +357,7 @@
     "keywords": [
       "Charm, Implement, Necrotic, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "attack": "Charisma + 2 vs. Will",
     "onHit": "The target is dominated (save ends). Once while the target is dominated by this power, you can use a minor action while adjacent to the target to gain a healing surge and to deal necrotic damage to the target equal to your healing surge value. Doing so ends the domination.",
@@ -378,7 +378,7 @@
     "keywords": [
       "Implement, Shadow, Teleportation, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "7d6 + Dexterity modifier damage, and the target is blinded (save ends).",

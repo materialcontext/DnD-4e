@@ -13,7 +13,7 @@
     "keywords": [
       "Augmentable, Fear, Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "Your thrall must be within 10 squares of you.",
     "effect": "The thrall moves its speed, then you make an attack through the thrall.",
     "target": "Each enemy adjacent to the thrall",
@@ -34,7 +34,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "Your obedient thrall in range",
     "effect": "Until the end of the encounter, your thrall gains a standard action and a move action during each of your turns. You can use your standard action to give the thrall an extra action over and above its own standard action."
   },
@@ -52,7 +52,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "Your obedient thrall in range",
     "effect": "Your thrall regains hit points equal to your healing surge value."
   }

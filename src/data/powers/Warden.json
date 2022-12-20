@@ -13,7 +13,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. Until the end of your next turn, the target is marked, and it provokes an opportunity attack from you if it makes an attack that does not include you as a target."
@@ -32,7 +32,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy marked by you makes an attack that does not include you as a target",
     "target": "The triggering enemy",
     "attack": "Strength vs. Fortitude",
@@ -52,7 +52,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy marked by you that is within 5 squares of you makes an attack that does not include you as a target",
     "target": "The triggering enemy in the burst",
     "effect": "You slide the target 1 square. The target is slowed and cannot shift until the end of its turn."
@@ -71,7 +71,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you gain a +1 power bonus to AC until the end of your next turn.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -90,7 +90,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you gain temporary hit points equal to your Constitution modifier.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -109,7 +109,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you pull the target 1 square.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -128,7 +128,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is slowed until the end of your next turn.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -147,7 +147,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. Until the end of your next turn, the target’s space and each square adjacent to it are filled with spikes. Any enemy that enters this spike-filled area or starts its turn there takes 5 damage. An enemy can take this damage only once per turn."
@@ -166,7 +166,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier damage.",
@@ -186,7 +186,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier thunder damage. Make a secondary attack that is a close blast 3.",
@@ -209,7 +209,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -230,7 +230,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Before the attack, you shift your speed.",
     "special": "Once during this encounter, you can use the Form of the Fearsome Ram attack power while you are in this form.",
     "requirement": "The Form of the Fearsome Ram power must be active to use this power.",
@@ -253,7 +253,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Before the attack, you shift your speed.",
     "special": "Once during this encounter, you can use the Form of the Relentless Panther Attack power while you are in this form.",
     "requirement": "The Form of the Relentless Panther power must be active to use this power.",
@@ -276,7 +276,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the willow sentinel until the end of the encounter. While you are in this form, you can negate being pulled, pushed, or slid. In addition, any ally gains a +2 power bonus to Fortitude while adjacent to you.",
     "special": "Once during this encounter, you can use the Form of the Willow Sentinel Attack power while you are in this form.",
     "requirement": "The Form of the Willow Sentinel power must be active to use this power.",
@@ -300,7 +300,7 @@
     "keywords": [
       "Cold, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of winter’s herald until the end of the encounter. While you are in this form, you gain a +1 bonus to AC and resist 5 cold. In addition, each square within 2 squares of you, wherever you move, is difficult terrain for your enemies.",
     "special": "Once during this encounter, you can use the Form of Winter's Herald Attack power while you are in this form.",
     "requirement": "The Form of the Winter's Herald power must be active to use this power.",
@@ -323,7 +323,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a Perception check with a +10 power bonus."
   },
   "Mountain Lion Step": {
@@ -340,7 +340,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You ignore difficult terrain until the end of your next turn."
   },
   "Nature's Abundance": {
@@ -357,7 +357,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone of plants that lasts until the end of the encounter. You and your allies have cover while within the zone."
   },
   "Triumphant Vigor": {
@@ -374,7 +374,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have reduced an enemy to 0 hit points during this turn.",
     "effect": "You regain hit points equal to 1d6 + your Wisdom modifier + your Constitution modifier."
   },
@@ -392,7 +392,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target cannot shift until the end of your next turn."
@@ -411,7 +411,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you knock the target prone. The first time the target stands up before the end of your next turn, it takes 1d10 + your Strength modifier damage.",
@@ -431,7 +431,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target shifts before the start of your next turn, you shift 2 squares as an immediate reaction.",
@@ -451,7 +451,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier lightning damage, and you slide the target 3 squares.",
@@ -471,7 +471,7 @@
     "keywords": [
       "Poison, Primal, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast you can see",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier poison damage, and the target takes ongoing 5 poison damage and is slowed (save ends both).",
@@ -491,7 +491,7 @@
     "keywords": [
       "Primal, Teleportation, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you teleport 5 squares.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -512,7 +512,7 @@
     "keywords": [
       "Cold, Primal, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier cold damage, and the target is slowed (save ends).",
@@ -534,7 +534,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop to 0 hit points or fewer",
     "effect": "You regain hit points as if you had spent a healing surge."
   },
@@ -552,7 +552,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +1 power bonus to all defenses."
   },
   "Sea Stride": {
@@ -569,7 +569,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a swim speed equal to your speed until the end of your turn."
   },
   "Windborne Step": {
@@ -586,7 +586,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 2 squares. You ignore difficult terrain during the shift."
   },
   "Earth Gift": {
@@ -603,7 +603,7 @@
     "keywords": [
       "Healing, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you regain 10 hit points."
@@ -622,7 +622,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and the target takes a -2 penalty to melee attack rolls until the end of your next turn.",
@@ -642,7 +642,7 @@
     "keywords": [
       "Poison, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier damage. Make a secondary attack.",
@@ -664,7 +664,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become the target of the triggering attack, even if you aren’t within that attack’s range.",
     "special": "Once during this encounter, you can use the Form of the Oak Sentinel Attack power while you are in this form.",
     "requirement": "The Form of the Oak Sentinel power must be active to use this power.",
@@ -688,14 +688,15 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "bonusPower": {
       "name": "Form of the Frenzied Wolverine Attack",
       "flavor": "You strike wounded foes with particular ferocity. When the time is right, you make a brutal attack against your chosen foe,  opening a bleeding wound.",
       "keywords": [
         "Polymorph, Primal, Weapon"
       ],
-      "range": "Melee weapon<",
+      "range": "Melee weapon",
+      "frequency": "Encounter",
       "requirement": "The Form of the Frenzied Wolverine power must be active to use this power.",
       "target": "One creature",
       "attack": "Strength vs. AC",
@@ -719,7 +720,7 @@
     "keywords": [
       "Healing, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can spend a healing surge.",
     "special": "Once during this encounter, you can use the Form of the Stone Sentinel Attack power while you are in this form.",
     "requirement": "The Form of the Stone Sentinel power must be active to use this power.",
@@ -742,7 +743,7 @@
     "keywords": [
       "Lightning, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Before the attack, you move your speed.",
     "special": "Once during this encounter, you can use the Form of the Storm Eagle Attack power while you are in this form.",
     "requirement": "The Form of the Storm Eagle power must be active to use this power.",
@@ -765,7 +766,7 @@
     "keywords": [
       "Primal, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport a number of squares equal to your Constitution modifier."
   },
   "Returning Strength": {
@@ -782,7 +783,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge and regain additional hit points equal to your Strength modifier."
   },
   "Shield of Stone": {
@@ -799,7 +800,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "You slide the target 5 squares. Until the end of your next turn, the target gains resist 5 to all damage and a +2 power bonus to all defenses."
   },
@@ -817,7 +818,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone of protective vines that lasts until the end of the encounter. While within the zone, you and your allies gain resistance to all damage equal to your Constitution modifier."
   },
   "Creeper's Grasp": {
@@ -834,7 +835,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier damage, and the target is immobilized until the end of your next turn."
@@ -853,7 +854,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier cold damage, and the primary target is slowed until the end of your next turn. Make a secondary attack.",
@@ -875,7 +876,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target provokes an opportunity attack from you if it shifts before the end of your next turn.",
@@ -895,7 +896,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of summer fire until the end of the encounter. While you are in this form, you gain resist 10 fire and a +3 bonus to damage rolls.",
     "special": "Once during this encounter, you can use the Form of Summer Fire Attack power while you are in this form.",
     "requirement": "The Form of Summer Fire power must be active to use this power.",
@@ -918,7 +919,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Before the attack, you move your speed.",
     "special": "Once during this encounter, you can use the Form of the Charging Boar Attack power while you are in this form.",
     "requirement": "The Form of the Charging Boar power must be active to use this power.",
@@ -941,7 +942,7 @@
     "keywords": [
       "Lightning, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the rowan sentinel until the end of the encounter. While you are in this form, you gain resist 10 lightning, and your melee reach increases by 1. In addition, if any enemy starts its turn within 3 squares of you and you are able to take actions, that enemy is marked until the end of your next turn.",
     "special": "Once during this encounter, you can use the Form of the Rowan Sentinel Attack power while you are in this form.",
     "requirement": "The Form of the Rowan Sentinel power must be active to use this power.",
@@ -964,7 +965,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You knock the target prone.",
     "special": "Once during this encounter, you can use the Form of the Stonecrusher Attack power while you are in this form.",
     "requirement": "The Form of the Stonecrusher power must be active to use this power.",
@@ -987,7 +988,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are subjected to an effect that a save can end",
     "effect": "You make a saving throw against the triggering effect, with a power bonus to the saving throw equal to your Strength modifier."
   },
@@ -1005,7 +1006,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your turn, you gain a climb speed equal to half your speed."
   },
   "Primal Leap": {
@@ -1022,7 +1023,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You jump a number of squares equal to your speed + your Strength modifier."
   },
   "Verdant Life": {
@@ -1039,7 +1040,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can spend two healing surges."
   },
   "Call Forth the Harvest": {
@@ -1056,7 +1057,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Make a secondary attack that is a close burst 2.",
@@ -1078,7 +1079,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is immobilized until the end of your next turn.",
@@ -1098,7 +1099,7 @@
     "keywords": [
       "Healing, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you can spend a healing surge."
@@ -1117,7 +1118,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and the target is weakened until the end of your next turn.",
@@ -1137,7 +1138,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier cold damage, and the target is slowed (save ends).",
@@ -1160,7 +1161,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before and after the attack, you shift 1 square.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1181,7 +1182,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier lightning damage, and the target is blinded and dazed (save ends both).",
@@ -1201,7 +1202,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You sprout wings that last until the end of the encounter. While you have the wings, you have a fly speed equal to your speed, and you can hover."
   },
   "Panacea": {
@@ -1218,7 +1219,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a saving throw with a +4 power bonus. You also gain a +4 power bonus to saving throws until the end of the encounter."
   },
   "Renewal": {
@@ -1235,7 +1236,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge. In addition, you regain the use of an encounter attack power you have already used during this encounter."
   },
   "Wellspring of Life": {
@@ -1252,7 +1253,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge. In addition, you gain regeneration equal to 5 + your Strength modifier until the end of the encounter."
   },
   "Nature's Ally": {
@@ -1269,7 +1270,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One creature in the burst",
     "attack": "Strength vs. Reflex",
     "onHit": "You pull the target 2 squares to a space that must be adjacent to you. Make a secondary attack that is a melee attack against the target.",
@@ -1291,7 +1292,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is dazed until the end of your next turn.",
@@ -1311,7 +1312,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1331,7 +1332,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the blood wolf until the end of the encounter. While you are in this form, you gain a +2 bonus to speed and a +4 bonus to damage rolls for melee attacks against bloodied targets. In addition, if you have combat advantage against a target that you hit with a melee attack, you can knock that target prone.",
     "special": "Once during this encounter, you can use the Form of the Blood Wolf Attack power while you are in this form.",
     "requirement": "The Form of the Blood Wolf power must be active to use this power.",
@@ -1354,7 +1355,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Make the attack one more time against the target.",
     "special": "Once during this encounter, you can use the Form of the Displacer Beast Attack power while you are in this form.",
     "requirement": "The Form of the Displacer Beast power must be active to use this power.",
@@ -1377,7 +1378,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the jungle lord until the end of the encounter. While you are in this form, you gain a climb speed equal to your speed and a +2 bonus to Reflex. In addition, whenever you hit a target with a melee attack, you slide the target 2 squares. If that attack already pulls, pushes, or slides the target, you slide the target 2 squares after that forced movement.",
     "special": "Once during this encounter, you can use the Form of the Jungle Lord Attack power while you are in this form.",
     "requirement": "The Form of the Jungle Lord power must be active to use this power.",
@@ -1400,7 +1401,7 @@
     "keywords": [
       "Necrotic, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the autumn reaper until the end of the encounter. While you are in this form, you gain resist 10 necrotic, and your melee reach increases by 1. In addition, your melee attacks deal extra necrotic damage equal to your Strength modifier.",
     "special": "Once during this encounter, you can use the Form of the Autumn Reaper Attack power while you are in this form.",
     "requirement": "The Form of the Autumn Reaper power must be active to use this power.",
@@ -1423,7 +1424,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is knocked prone and can’t stand up until the end of your next turn.",
@@ -1443,7 +1444,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target takes 15 lightning damage if it moves before the end of your next turn.",
@@ -1463,7 +1464,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier damage, and the target is stunned until the end of your next turn."
@@ -1482,7 +1483,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Make a secondary attack that is a close burst 5.",
@@ -1505,7 +1506,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the chimera until the end of the encounter. While you are in this form, flanking enemies don’t gain combat advantage against you. In addition, whenever you hit a target with a charge attack, you can either push the target 1 square or knock it prone.",
     "special": "Once during this encounter, you can use the Form of the Chimera Attack power while you are in this form.",
     "requirement": "The Form of the Chimera power must be active to use this power.",
@@ -1528,7 +1529,7 @@
     "keywords": [
       "Healing, Polymorph, Primal, Radiant"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You regain all your hit points, but you are stunned until the end of your next turn.",
     "special": "Once during this encounter, you can use the Form of Spring Renewal Attack power while you are in this form.",
     "requirement": "The Form of Spring Renewal power must be active to use this power.",
@@ -1551,7 +1552,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the starmetal warrior until the end of the encounter. While you are in this form, you gain a +3 bonus to AC. In addition, while any flying enemy is within 10 squares of you, its fly speed is 1.",
     "special": "Once during this encounter, you can use the Form of the Starmetal Warrior Attack power while you are in this form.<br/>",
     "requirement": "The Form of the Starmetal Warrior power must be active to use this power.",
@@ -1574,7 +1575,7 @@
     "keywords": [
       "Polymorph, Primal, Psychic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Each target is dazed (save ends).",
     "special": "Once during this encounter, you can use the Form of the Soul Serpent Attack power while you are in this form.<br/>",
     "requirement": "The Form of the Soul Serpent power must be active to use this power.",
@@ -1597,7 +1598,7 @@
     "keywords": [
       "Fear, Primal, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you slide the target 1 square. You can slide the target into a second creature’s space and then slide the second creature 1 square.",
@@ -1617,7 +1618,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier thunder damage.",
@@ -1638,7 +1639,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and each ally in the burst gains resist 3 to all damage until the end of your next turn.",
@@ -1658,7 +1659,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon + 1 reach<",
+    "range": "Melee weapon + 1 reach",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you can either pull the target 1 square or knock it prone.",
@@ -1678,7 +1679,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. The target and each enemy adjacent to it are immobilized until the end of your next turn.",
@@ -1698,7 +1699,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. You shift 2 squares and then mark each enemy adjacent to you until the end of your next turn.",
@@ -1718,7 +1719,7 @@
     "keywords": [
       "Fire, Primal, Weapon"
     ],
-    "range": "Close burst 4<",
+    "range": "Close burst 4",
     "target": "Each enemy adjacent to you",
     "effect": "You pull each target 3 squares to a square adjacent to you. Then make the following attack.",
     "attack": "Strength vs. AC",
@@ -1738,7 +1739,7 @@
     "keywords": [
       "Poison, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is restrained until the end of your next turn. Each enemy adjacent to the target takes 5 poison damage and is slowed until the end of your next turn.",
@@ -1758,7 +1759,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon + 2 reach<",
+    "range": "Melee weapon + 2 reach",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1778,7 +1779,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you mark the target until the end of your next turn.",
@@ -1799,7 +1800,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, whenever you make an attack roll or a damage roll with a weapon attack, roll a d6 and add it as a power bonus to the roll."
   },
   "Masking Fog": {
@@ -1816,7 +1817,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each ally in the blast",
     "effect": "Each target gains concealment until the end of your next turn.",
     "sustainMinor": "The effect persists, but it ends on one target of your choice."
@@ -1835,7 +1836,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to your healing surge value. In addition, once per round when you hit with a weapon attack, that attack deals 2[W] extra damage. This effect ends when you have no temporary hit points remaining."
   },
   "Form of the Dread Serpent": {
@@ -1852,7 +1853,7 @@
     "keywords": [
       "Poison, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the dread serpent until the end of the encounter. While you are in this form, you gain resist 5 poison and a +2 bonus to Reflex. In addition, you can shift 1 square as a minor action. Once during this encounter, you can use the Form of the Dread Serpent Attack while you are in this form.",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
@@ -1874,7 +1875,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the entangling spider until the end of the encounter. While you are in this form, you gain a climb speed equal to your speed and a +2 bonus to Fortitude. In addition, each square within 3 squares of you, wherever you move, is difficult terrain for your enemies.<br/>Once during this encounter, you can use the Form of the Entangling Spider Attack power while you are in this form.",
     "target": "One creature in the blast",
     "attack": "Strength vs. AC",
@@ -1896,7 +1897,7 @@
     "keywords": [
       "Healing, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You or an ally within 10 squares of you can spend a healing surge.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1918,7 +1919,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain 10 temporary hit points, and you assume the guardian form of the sand sentinel until the end of the encounter. While you are in this form, you gain a +2 bonus to Fortitude. In addition, when you hit any enemy, an ally within 5 squares of you gains 5 temporary hit points.<br/>Once during this encounter, you can use the Form of the Sand Sentinel Attack power while you are in this form.",
     "target": "Each creature in the blast",
     "attack": "Strength vs. AC",
@@ -1940,7 +1941,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy marked by you in the burst",
     "attack": "Strength vs. Will",
     "onHit": "1[W] + Strength modifier damage."
@@ -1959,7 +1960,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn, when any enemy hits you, an ally within 3 squares of you gains 5 temporary hit points.",
@@ -1979,7 +1980,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the end of your next turn, when any enemy hits you, an ally within 3 squares of you gains 10 temporary hit points.",
@@ -1999,7 +2000,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage. Until the end of your next turn, when any enemy hits you, one ally within 3 squares of you gains 20 temporary hit points and a +2 bonus to all defenses until the end of his or her next turn.",
@@ -2019,7 +2020,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is immobilized until the end of your next turn.",
@@ -2039,7 +2040,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier lightning damage, and one enemy marked by you, other than the target, must choose either to fall prone or to take 5 lightning damage.",
@@ -2059,7 +2060,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the swamp hunter until the end of the encounter. While you are in this form, you gain swamp walk, a swim speed equal to your speed, and a +2 bonus to attack rolls against immobilized creatures. In addition, when you reduce any enemy marked by you to 0 hit points with an attack, you mark one enemy within 5 squares of you until the end of your next turn.<br/><br/>Once during this encounter, you can use the Form of the Swamp Hunter Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -2081,7 +2082,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the laughing killer until the end of the encounter. While you are in this form, you gain a +2 bonus to Will and to saving throws against charm effects and fear effects. In addition, your allies have combat advantage when making melee attacks against any enemy adjacent to you.<br/><br/>Once during this encounter, you can use the Form of the Laughing Killer Attack while you are in this form.",
     "target": "One bloodied creature",
     "attack": "Strength vs. Reflex",
@@ -2103,7 +2104,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage. The target’s space and each square adjacent to it become a zone of difficult terrain for your enemies until the end of the encounter.",
@@ -2124,7 +2125,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The target takes ongoing 10 fire damage (save ends).",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -2145,7 +2146,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "5[W] + Strength modifier damage, and you knock the target prone.",
@@ -2166,7 +2167,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the night hunter until the end of the encounter. While you are in this form, you gain darkvision and a fly speed equal to your speed. In addition, you gain a +2 bonus to your first attack roll each round.<br/>Once during this encounter, you can use the Form of the Night Hunter Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2188,7 +2189,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the shifting ancestor until the end of the encounter. At the start of each of your turns while you are in this form, choose one of the following benefits: a +2 bonus to Fortitude, Reflex, and Will; a +2 bonus to AC; a +2 bonus to attack rolls; or a +4 bonus to saving throws. The benefit you choose lasts until the start of your next turn.<br/>Once during this encounter, you can use the Form of the Shifting Ancestor Attack power while you are in this form.",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
@@ -2210,7 +2211,7 @@
     "keywords": [
       "Fire, Polymorph, Primal, Radiant, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Your current hit point value changes to your bloodied value, and you remove from yourself every effect that a save can end.",
     "trigger": "An enemy attack damages you",
     "target": "Each creature in the burst and each enemy marked by you",
@@ -2233,7 +2234,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "4[W] + Strength modifier lightning damage. Until the start of your next turn, any enemy that enters a square within 2 squares of the target takes 10 lightning damage. An enemy can take this damage only once per turn. If no enemy enters a square within 2 squares of the target, the target takes 10 lightning damage at the start of your next turn.",
@@ -2253,7 +2254,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One ally",
     "effect": "Until the end of your next turn, you take a penalty to AC equal to your Constitution modifier, and the target gains a power bonus to AC equal to your Constitution modifier. If the target has any creatures marked, those marks end, and if the target marks a creature, this effect ends."
   },
@@ -2271,7 +2272,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You succeed on the saving throw granted by your Font of Life class feature",
     "target": "Each enemy in the burst",
     "effect": "You mark each target until the end of your next turn."
@@ -2290,7 +2291,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally targets you with a power that does not include that ally as a target",
     "effect": "The ally also becomes a target of the power."
   },
@@ -2308,7 +2309,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be in a guardian form and must have used that form’s attack during this encounter.",
     "effect": "You regain the use of the guardian form’s attack."
   },
@@ -2326,7 +2327,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy’s attack hits you and damages you",
     "effect": "You take extra damage from the triggering attack equal to one-half your level. The next time you attack any enemy marked by you before the end of the encounter, you gain a bonus equal to your Constitution modifier to the attack roll and the damage roll."
   },
@@ -2344,7 +2345,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier thunder damage, and the target is dazed and deafened until the end of your next turn."
@@ -2363,7 +2364,7 @@
     "keywords": [
       "Primal, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage, and the target is blinded until the end of your next turn.",
@@ -2383,7 +2384,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and an ally adjacent to you gains temporary hit points equal to your Wisdom modifier.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -2402,7 +2403,7 @@
     "keywords": [
       "Lightning, Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier lightning damage, and one enemy within 2 squares of you that is marked by you, other than the target, takes thunder damage equal to your Constitution modifier.<br/>Level 21: 2[W] + Strength modifier lightning damage."
@@ -2421,7 +2422,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each enemy marked by you, other than the target, takes damage equal to your Constitution modifier.",
@@ -2441,7 +2442,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you pull each enemy within 3 squares of you 2 squares."
@@ -2460,7 +2461,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack roll twice and use either result.",
     "onHit": "1[W] + Strength modifier damage. Until the end of your next turn, the target takes a –2 penalty to attack rolls for attacks that don’t include you as a target. If both of your attack rolls would hit, the penalty equals –5.",
@@ -2480,7 +2481,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst creates a zone of rippling earth that lasts until the end of your next turn. Make the following attack.",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
@@ -2501,7 +2502,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The target can’t gain concealment or total concealment (save ends both).",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -2523,7 +2524,7 @@
     "keywords": [
       "Lightning, Polymorph, Primal, Thunder"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Each enemy marked by you takes lightning damage equal to your Strength modifier.",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. Reflex",
@@ -2545,7 +2546,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "Until the end of your next turn, when any enemy marked by you hits or misses the target, that enemy takes 5 damage."
   },
@@ -2563,7 +2564,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One enemy marked by you",
     "effect": "You slide the target 1 square."
   },
@@ -2581,7 +2582,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the squares adjacent to the target become a zone of shifting ground until the end of your next turn. Any enemy marked by you that enters the zone is knocked prone."
@@ -2600,7 +2601,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you move 4 squares.",
     "wildblood": "Add your Wisdom modifier to the number of squares you can move.",
     "target": "One creature",
@@ -2621,7 +2622,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed until the end of your next turn.",
@@ -2641,7 +2642,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is slowed (save ends).",
@@ -2663,7 +2664,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -2685,7 +2686,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2706,7 +2707,7 @@
     "keywords": [
       "Healing, Primal, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and ongoing 5 damage (save ends).",
@@ -2727,7 +2728,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You use your second wind and regain 2d6 additional hit points."
   },
   "Treacherous Ice": {
@@ -2744,7 +2745,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, enemies can’t shift into or out of squares adjacent to you."
   },
   "Guardian's Pounce": {
@@ -2761,7 +2762,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy enters a square adjacent to an ally within 3 squares of you on its turn",
     "wildblood": "Add your Wisdom modifier to the number of squares away from you the ally can be.",
     "effect": "You shift your speed to a square adjacent to the triggering enemy and then make the following attack.",
@@ -2783,7 +2784,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -2804,7 +2805,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier cold damage, and the target is slowed until the end of your next turn.",
@@ -2824,7 +2825,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the sirocco until the end of the encounter. While you are in this form, you gain resist 5 to all damage, and you can shift 2 squares as a move action. In addition, whenever you shift, you can move through enemies’ spaces. <br/>Once during this encounter, you can use the Form of the Sirocco Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -2846,7 +2847,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the hunting shark until the end of the encounter. While you are in this form, you gain a swim speed equal to your speed. In addition, while any ally flanks an enemy with you, he or she gains a +4 bonus to attack rolls against that enemy because of combat advantage, instead of +2.<br/>Once during this encounter, you can use the Form of the Hunting Shark Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2868,7 +2869,7 @@
     "keywords": [
       "Healing, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of paradise’s bounty until the end of the encounter. While you are in this form, you gain resist 5 necrotic and a +2 bonus to Fortitude. In addition, whenever you spend a healing surge, each ally within 2 squares of you regains 5 hit points.<br/>Once during this encounter, you can use the Form of Paradise's Bounty Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -2890,7 +2891,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the stalwart mastodon until the end of the encounter. While you are in this form, you gain a +2 bonus to all defenses while bloodied. In addition, when you push or slide an enemy, you can increase the distance of the forced movement by 1 square.<br/>Once during this encounter, you can use the Form of the Stalwart Mastodon power while you are in this form.",
     "target": "One creature",
     "attack": "Strength + 2 vs. Fortitude.",
@@ -2911,7 +2912,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "An ally within 2 squares of you takes damage from an attack",
     "target": "The triggering ally in the burst",
     "effect": "You take the damage from the attack, instead of the target, but the target takes any other effect caused by the attack."
@@ -2930,7 +2931,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Choose cold, fire, lightning, or thunder. Until the end of your next turn, each target gains resistance to that damage type equal to one-half your level."
   },
@@ -2948,7 +2949,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You start your turn",
     "target": "One ally in the burst",
     "effect": "The target can make a saving throw, and you can’t use your Font of Life class feature during this turn."
@@ -2967,7 +2968,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have used your second wind during this encounter.",
     "effect": "You regain the use of your second wind."
   },
@@ -2985,7 +2986,7 @@
     "keywords": [
       "Healing, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the start of your next turn, when any ally hits the target, that ally regains 2 + your Wisdom modifier hit points.",
@@ -3005,7 +3006,7 @@
     "keywords": [
       "Lightning, Primal, Thunder, Weapon"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One creature in the burst",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier thunder damage, and you slide the target 2 squares. The target is deafened and marked until the end of your next turn. At the start of your next turn, each enemy marked by you that is not adjacent to you takes 5 lightning damage.",
@@ -3025,7 +3026,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the avalanche unleashed until the end of the encounter. While you are in this form, you gain resist 5 to all damage. In addition, each enemy that starts its turn within 2 squares of you is slowed until the start of its next turn.<br/>Once during this encounter, you can use the Form of the Avalanche Unleashed Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3047,7 +3048,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the crushing mountain until the end of the encounter. While you are in this form, you gain a +2 bonus to AC. In addition, enemies adjacent to you cannot shift, and enemies must spend 1 extra square of movement to leave squares adjacent to you.<br/>Once during this encounter, you can use the Form of the Crushing Mountain Attack power while you are in this form.",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
@@ -3069,7 +3070,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the hunting tiger until the end of the encounter. While you are in this form, you gain a +2 bonus to speed and Reflex. In addition, when any enemy marked by you makes an attack roll against any of your allies, you can shift 2 squares toward that enemy as a free action.<br/>Once during this encounter, you can use the Form of the Hunting Tiger Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack roll twice and use either result.",
@@ -3091,7 +3092,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You slide each enemy marked by you 1 square.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3112,7 +3113,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "Until the end of your next turn or until the target moves, the target gains cover, and no enemy can enter a square adjacent to him or her."
   },
@@ -3130,7 +3131,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You and each ally in the burst",
     "effect": "Each target gains 15 temporary hit points."
   },
@@ -3148,7 +3149,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "Until the end of your next turn, when any enemy marked by you makes an attack roll against the target, that enemy is blinded until the end of the turn during which it makes the attack roll."
   },
@@ -3166,7 +3167,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy marked by you ends its movement within 5 squares of you and is flanking your ally",
     "target": "The triggering enemy in the burst",
     "effect": "You slide the target 1 square."
@@ -3185,7 +3186,7 @@
     "keywords": [
       "Fire, Healing, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier fire damage, and an ally within 5 squares of you regains 5 hit points.",
@@ -3205,7 +3206,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy marked by you enters a square adjacent to your ally within 5 squares of you",
     "effect": "You shift your speed to a square adjacent to the triggering enemy. Then make the following attack.",
     "target": "The triggering enemy",
@@ -3227,7 +3228,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you knock the target prone. You then pull each enemy within 5 squares of you that is marked by you 2 squares.",
@@ -3247,7 +3248,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed (save ends).",
@@ -3269,7 +3270,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target and each enemy within 5 squares of you are immobilized (save ends).",
@@ -3289,7 +3290,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each ally in the burst",
     "effect": "You slide each target 2 squares. The burst creates a zone of swirling ash that lasts until the end of your next turn. Creatures have concealment while within the zone."
   },
@@ -3307,7 +3308,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "When any enemy marked by you hits or misses the target before the end of your next turn, that enemy takes 10 damage and gains vulnerable 10 to all damage until the end of its next turn."
   },
@@ -3325,7 +3326,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A nonminion enemy within 10 squares of you drops to 0 hit points",
     "effect": "You regain 10 + your Constitution modifier hit points."
   },
@@ -3343,7 +3344,7 @@
     "keywords": [
       "Fire, Primal, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier fire damage. The blast creates a zone of fiery haze until the end of your next turn. The zone blocks enemies’ line of sight, and any enemy entirely within the zone is blinded. Any enemy that starts its turn within the zone takes 2d10 fire damage when it leaves the zone."
@@ -3362,7 +3363,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. Until the end of your next turn, if the target enters a square adjacent to you or any of your allies, it falls prone.",
@@ -3382,7 +3383,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier cold damage, and the target is immobilized until the start of your next turn. Each enemy marked by you is slowed until the start of your next turn.",
@@ -3402,7 +3403,7 @@
     "keywords": [
       "Healing, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You slide one ally within 5 squares of you 5 squares. That ally can spend a healing surge.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3423,7 +3424,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the world forger until the end of the encounter. While you are in this form, you gain a +2 bonus to AC. In addition, any ally gains a +2 bonus to AC while within 5 squares of you. Any enemy that hits you with a melee attack takes 5 fire damage, and any enemy that hits an ally within 5 squares of you with a melee attack takes 10 fire damage.<br/>Once during this encounter, you can use the Form of the World Forger Attack power while you are in this form.",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Reflex",
@@ -3446,7 +3447,7 @@
     "keywords": [
       "Cold, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier cold damage. Until the end of your next turn, the target and each enemy adjacent to it are restrained.",
@@ -3466,7 +3467,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier lightning damage. Choose three enemies within 10 squares of the target that are marked by you. You slide each of those enemies 3 squares, and you mark them until the end of your next turn. In addition, they each take lightning damage equal to your Constitution modifier.",
@@ -3486,7 +3487,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the squares adjacent to the target become a zone of shifting ground until the end of your next turn. Any enemy that enters the zone takes 2d10 damage and is immobilized until the zone ends."
@@ -3505,7 +3506,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and you mark the target until the end of your next turn. You push the target 3 squares and then slide each enemy adjacent to the target 1 square."
@@ -3524,7 +3525,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the grim harvester until the end of the encounter. While you are in this form, you gain a +2 power bonus to attack rolls against bloodied creatures. In addition, when any nonminion enemy within 5 squares of you drops to 0 hit points, you can make a melee basic attack as a free action.<br/>Once during this encounter, you can use the Form of the Grim Harvester Attack power while you are in this form.",
     "target": "One bloodied creature",
     "attack": "Strength vs. Fortitude",
@@ -3546,7 +3547,7 @@
     "keywords": [
       "Polymorph, Primal, Teleportation, Thunder"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the thunderstorm until the end of the encounter. While you are in this form, you gain resist 20 lightning and resist 20 thunder, and you can teleport your speed as a move action. In addition, whenever you teleport using this power, each enemy adjacent to your destination space takes 10 thunder damage.<br/>Once during this encounter, you can use the Form of the Thunderstorm Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -3567,7 +3568,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the unruly earth until the end of the encounter. While you are in this form, you gain a +2 bonus to Fortitude, and you ignore difficult terrain. Each enemy marked by you is slowed and takes a –4 penalty to AC until the mark ends.<br/>Once during this encounter, you can use the Form of the Unruly Earth Attack power while you are in this form.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3589,7 +3590,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>Level 21: 2[W] + Strength modifier damage.",
@@ -3610,7 +3611,7 @@
     "keywords": [
       "Lightning, Primal, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "requirement": "You must throw your weapon at the target.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -3631,7 +3632,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Two creatures in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage"
@@ -3650,7 +3651,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a shield.",
     "trigger": "You are hit with a melee attack.",
     "target": "The triggering creature",
@@ -3670,7 +3671,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, you pull the target 1 square, and the target is slowed until the end of your next turn."
@@ -3689,7 +3690,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one creature",
     "effect": "The target can spend a healing surge and make a saving throw against each effect it is suffering from that a save can end."
   },
@@ -3707,7 +3708,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must charge and use this power in place of a melee basic attack.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3727,7 +3728,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must charge and use this power in place of a melee basic attack.",
     "special": "You receive a +2 bonus to the attack roll instead of the normal +1 bonus for a charge. You do not provoke opportunity attacks for movement made during this charge.",
     "target": "One creature",
@@ -3750,7 +3751,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift your speed, ignoring difficult terrain and water."
   },
   "Form of the Lightning Lord": {
@@ -3767,7 +3768,7 @@
     "keywords": [
       "Lightning, Polymorph, Primal, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of the lightning lord until the end of the encounter. While in this form, as a move action, you can teleport up your speed. Any enemy you have marked and that is adjacent to you when you start this move takes lightning damage equal to your Strength modifier.<br/>Once during this encounter, you can use the Form of the Lightning Lord Attack power while you are in this form.",
     "target": "One enemy",
     "attack": "Strength + 6 vs. Fortitude",
@@ -3789,7 +3790,7 @@
     "keywords": [
       "Primal, Teleportation, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier damage.",
@@ -3809,7 +3810,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and one enemy marked by you that you can see takes thunder damage equal to your Strength modifier and becomes immobilized until the end of your next turn."
@@ -3828,7 +3829,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The target takes ongoing 5 fire damage and is dazed (save ends). While a target is dazed by this effect, whenever an enemy starts its turn in a square adjacent to the target, that enemy takes fire damage equal to your Constitution modifier or your Wisdom modifier.",
     "requirement": "The power Form of the Walking Conflagration must be active in order to use this power.",
     "target": "One creature",
@@ -3849,7 +3850,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close blast 2<",
+    "range": "Close blast 2",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] damage, and you slide the target 1 square. If the target is marked by you, it takes 1d6 extra damage.",
@@ -3869,7 +3870,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The zone ends.",
     "requirement": "The power Boiling Cloud must be active in order to use this power.",
     "target": "Each enemy in the blast and each enemy adjacent to you",
@@ -3890,7 +3891,7 @@
     "keywords": [
       "Fire, Primal, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage plus 1d12 fire damage.",
@@ -3910,7 +3911,7 @@
     "keywords": [
       "Polymorph, Thunder"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Whenever the target deals damage to you or an ally with an attack, the target takes 5 thunder damage and you slide the target 1 square as a free action (save ends). The target takes a -2 penalty to saving throws to end this condition.",
     "requirement": "The power Form of the Vengeful Storm must be active in order to use this power.",
     "target": "One creature",
@@ -3931,7 +3932,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is immobilized until the end of your next turn.",
@@ -3951,7 +3952,7 @@
     "keywords": [
       "Fire, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the magma brute until the end of the encounter. While you are in this form, your melee attacks deal 1d6 extra fire damage. In addition, whenever you take damage from an attack, each enemy adjacent to you takes fire damage equal to your Strength modifier.<br/>Once during this encounter, you can use the Magma Brute Attack power while you are in this form.",
     "requirement": "The power Form of the Magma Brute must be active in order to use this power.",
     "target": "One creature",
@@ -3974,7 +3975,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target falls prone. If the target stands up or willingly moves from its space before the end of your next turn, it and each enemy adjacent to it takes thunder damage equal to your Strength modifier."
@@ -3993,7 +3994,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and the target takes ongoing 10 damage and is dazed (save ends both). If the target is bloodied or reduced to 0 hit points by this ongoing damage, each enemy adjacent to it takes 10 damage."
@@ -4012,7 +4013,7 @@
     "keywords": [
       "Fire, Primal, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst becomes a zone of ravenous flames that lasts until the end of your next turn. Remove yourself from play until the zone ends. While the zone remains, you can use the Wicked Flames Attack power.",
     "requirement": "The power Wicked Flames must be active in order to use this power.",
     "trigger": "An enemy enters the zone or starts its turn there",
@@ -4034,7 +4035,7 @@
     "keywords": [
       "Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Before the attack, shift one-half your speed.",
     "requirement": "The power Form of the Seething Sandstorm must be active in order to use this power.",
     "target": "One creature",
@@ -4056,7 +4057,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you use the Crimson Agony Tide Attack power as a secondary attack.",
@@ -4079,7 +4080,7 @@
     "keywords": [
       "Fire, Poison, Polymorph, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the guardian form of the erupting volcano until the end of the encounter. While you are in this form, you gain blindsight 10 and your space and all squares within 2 squares of you are heavily obscured by smoke and cinders. Creatures other than you that end their turn in a square obscured by this power take 5 fire and poison damage.<br/>Once during this encounter, you can use the Erupting Volcano Attack power.",
     "requirement": "The power Form of the Erupting Volcano must be active in order to use this power.",
     "target": "Each creature in the burst",
@@ -4102,7 +4103,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage to you until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -4122,7 +4123,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close blast 2<",
+    "range": "Close blast 2",
     "target": "One enemy adjacent to you in the blast",
     "attack": "Strength vs. AC",
     "onHit": "1[W] damage, and each other enemy in the blast takes damage equal to your Strength modifier.",
@@ -4142,7 +4143,7 @@
     "keywords": [
       "Conjuration, Primal"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure a faerie guardian in an unoccupied square within range. The faerie lasts until the end of the encounter or until you dismiss it as a minor action. As a minor action, you can move the faerie up to 5 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Whenever you use your Nature’s Wrath class feature, one enemy adjacent to your faerie guardian also becomes marked by you until the end of your next turn."
   },
   "Fey Congress": {
@@ -4159,7 +4160,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst becomes a zone that lasts until the end of your next turn. Enemies treat the zone as lightly obscured terrain.",
     "sustainMinor": "The zone persists."
   },
@@ -4177,7 +4178,7 @@
     "keywords": [
       "Illusion, Primal, Teleportation"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "You or one ally",
     "effect": "The target becomes invisible until the end of his or her next turn or until he or she makes an attack. When the invisibility ends, the target can teleport up to 3 squares."
   },
@@ -4195,7 +4196,7 @@
     "keywords": [
       "Primal, Weapon, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -4215,7 +4216,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "special": "You ignore blocking terrain when determining line of effect for this attack.",
     "target": "Each creature in the blast",
     "attack": "Strength vs. Fortitude",
@@ -4235,7 +4236,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier thunder damage. If the target is in difficult terrain, it takes extra damage equal to your Constitution modifier.",

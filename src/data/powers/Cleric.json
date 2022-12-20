@@ -13,7 +13,7 @@
     "keywords": [
       "Conjuration, Divine, Implement"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You conjure a wall of spinning astral blades that lasts until the end of your next turn. The wall can be up to 2 squares high. The wall’s squares are difficult terrain. Any creature that enters the wall or starts its turn there takes 3d6 + Wisdom modifier damage, plus ongoing 5 damage (save ends). A creature can take this damage only once per turn.",
     "sustainMinor": "The wall persists until the end of your next turn."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Cold, Divine, Fire, Implement, Lightning, Thunder, Zone"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "primaryTarget": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier lightning damage.",
@@ -55,7 +55,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one creature",
     "effect": "The target gains a +5 bonus to all defenses. The effect lasts until the target attacks or until the end of your next turn."
   },
@@ -73,7 +73,7 @@
     "keywords": [
       "Channel Divinity, Divine, Implement, Radiant"
     ],
-    "range": "Close burst 2 (3 at 11th level, 5 at 21st level)<",
+    "range": "Close burst 2 (3 at 11th level, 5 at 21st level)",
     "target": "Each undead creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d10 + Wisdom modifier radiant damage, and you push the target a number of squares up to 3 + your Charisma modifier. The target is immobilized until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d10 + Wisdom modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d10 + Wisdom modifier radiant damage.",
@@ -94,7 +94,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "Each target regains hit points equal to his or her healing surge value, plus additional hit points equal to your Charisma modifier."
   },
@@ -112,7 +112,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target regains hit points as if he or she had spent two healing surges."
   },
@@ -130,7 +130,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier fire damage, and ongoing 5 + Wisdom modifier fire damage (save ends).",
@@ -150,7 +150,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Choose one ally within 5 squares of you. Until the end of your next turn, the damage of the target’s attacks against that ally is reduced to 0."
@@ -169,7 +169,7 @@
     "keywords": [
       "Conjuration, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1d10 + Wisdom modifier damage.",
@@ -191,7 +191,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "The target makes a saving throw with a bonus equal to your Charisma modifier."
   },
@@ -209,7 +209,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "Until the end of the encounter, the target gains a +2 power bonus to attack rolls and damage rolls, and when the target is first bloodied, he or she can spend a healing surge."
   },
@@ -227,7 +227,7 @@
     "keywords": [
       "Charm, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dazed until the end of your next turn. In addition, you can either slide the target a number of squares up to 3 + your Charisma modifier or knock the target prone."
@@ -246,7 +246,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier radiant damage, and the target is blinded until the end of your next turn."
@@ -265,7 +265,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you or an ally within 5 squares of you regains hit points equal to 15 + your Charisma modifier."
@@ -284,7 +284,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one creature",
     "effect": "The target regains hit points as if it had spent two healing surges."
   },
@@ -302,7 +302,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one creature",
     "effect": "The target regains hit points as if it had spent a healing surge."
   },
@@ -320,7 +320,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one creature",
     "effect": "The target regains hit points as if it had spent three healing surges."
   },
@@ -338,7 +338,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and one ally within 5 squares of you gains a +3 power bonus to melee attack rolls against the target until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
@@ -357,7 +357,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d8 + Wisdom modifier radiant damage, and one ally you can see gains a +2 power bonus to his or her next attack roll against the target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Wisdom modifier radiant damage."
@@ -376,7 +376,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d6 + Wisdom modifier radiant damage, and one ally you can see chooses either to make a saving throw or to gain temporary hit points equal to your Charisma modifier + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Wisdom modifier radiant damage."
@@ -395,7 +395,7 @@
     "keywords": [
       "Divine, Fear, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is compelled to take a free action to move as far away from you as it can, moving a number of squares equal to its speed + your Charisma modifier. It avoids hindering terrain and difficult terrain if it can. This movement is not considered forced movement, so it provokes opportunity attacks."
@@ -414,7 +414,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage, and you mark the target until the end of your next turn. In addition, you or one ally within 5 squares of you can spend a healing surge."
@@ -433,7 +433,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier thunder damage, and the target is dazed until the end of your next turn."
@@ -452,7 +452,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d8 + Wisdom modifier radiant damage.",
@@ -472,7 +472,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier radiant damage.",
@@ -492,7 +492,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage, and ranged attack rolls against the target gain a +4 power bonus until the end of your next turn."
@@ -511,7 +511,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier thunder damage, and you push the target up to 2 squares and knock it prone."
@@ -530,7 +530,7 @@
     "keywords": [
       "Divine, Fear, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "1[W] + Strength modifier damage, and the target is immobilized until the end of your next turn."
@@ -549,7 +549,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. In addition, you and each ally adjacent to the target can spend a healing surge and regain additional hit points equal to your Charisma modifier."
@@ -568,7 +568,7 @@
     "keywords": [
       "Charm, Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier radiant damage, and the target takes a penalty to attack rolls until the end of your next turn. The penalty equals your Charisma modifier."
@@ -587,7 +587,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d8 + Wisdom modifier damage, and the target takes a penalty to all defenses until the end of your next turn. The penalty equals your Charisma modifier."
@@ -606,7 +606,7 @@
     "keywords": [
       "Divine, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier lightning damage.",
@@ -626,7 +626,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier radiant damage, and the target is blinded until the end of your next turn."
@@ -645,7 +645,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d6 + Wisdom modifier thunder damage, and you push the target a number of squares up to 3 + your Charisma modifier.",
@@ -665,7 +665,7 @@
     "keywords": [
       "Charm, Divine, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier psychic damage. Until the end of your next turn, the target is immobilized and cannot attack you."
@@ -684,7 +684,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -703,7 +703,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "6d6 + Wisdom modifier radiant damage."
@@ -722,7 +722,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "3d8 + Wisdom modifier radiant damage.",
@@ -742,7 +742,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
     "onHit": "4[W] + Strength modifier damage. The next attack roll you make against the target gains a +2 power bonus."
@@ -761,7 +761,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 4 vs. AC",
     "onHit": "4[W] + Strength modifier damage."
@@ -780,7 +780,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. In addition, you and each ally within 10 squares of you can spend a healing surge and regain additional hit points equal to your Charisma modifier."
@@ -799,7 +799,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "3d8 + Wisdom modifier radiant damage.",
@@ -819,7 +819,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "4d10 + Wisdom modifier necrotic damage, and the target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -838,7 +838,7 @@
     "keywords": [
       "Divine, Healing, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is weakened until the end of its next turn.",
@@ -858,7 +858,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "3d8 + Wisdom modifier radiant damage, and the target gains vulnerable 5 to all damage from your attacks (save ends).",
@@ -878,7 +878,7 @@
     "keywords": [
       "Charm, Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "1[W] + Strength modifier damage, and the target cannot attack (save ends).",
@@ -898,7 +898,7 @@
     "keywords": [
       "Conjuration, Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure a guardian in an unoccupied square within range. The guardian occupies its square, although creatures can move through it. The guardian lasts until the end of the encounter. Any enemy that ends its turn adjacent to the guardian is subject to a Wisdom vs. Fortitude attack. On a hit, the attack deals 1d8 + Wisdom modifier radiant damage.",
     "moveAction": "You move the guardian up to 3 squares."
   },
@@ -916,7 +916,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst creates a zone that lasts until the end of your next turn. Any enemy that starts its turn in the zone takes 1d6 + your Charisma modifier radiant damage. If you or any ally of yours is bloodied and starts his or her turn in the zone, he or she regains hit points equal to 1 + your Charisma modifier.",
     "sustainMinor": "The zone persists until the end of your next turn."
   },
@@ -934,7 +934,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier radiant damage, and you can push the target 1 square.",
@@ -954,7 +954,7 @@
     "keywords": [
       "Conjuration, Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure two soldiers, each one in a different unoccupied square within range. The soldiers occupy their squares, although creatures can move through them. The soldiers last until the end of the encounter. Each soldier has an opportunity attack that it can use without you taking an opportunity action. When an enemy triggers the attack, the soldier makes a Wisdom vs. Reflex attack against that enemy. On a hit, the attack deals 1d10 + Wisdom modifier radiant damage.",
     "moveAction": "You move one soldier or both a total of 3 squares."
   },
@@ -972,7 +972,7 @@
     "keywords": [
       "Divine, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier lightning damage, and ongoing 10 lightning damage (save ends). Until the ongoing damage ends, any ally of the target that starts its turn within 3 squares of the target takes 2d10 lightning damage.",
@@ -992,7 +992,7 @@
     "keywords": [
       "Divine, Fire, Healing, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier fire damage, and ongoing 10 fire damage (save ends). You or any ally regains hit points equal to 5 + your Charisma modifier when starting his or her turn adjacent to one or more targets taking the ongoing damage.",
@@ -1012,7 +1012,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "4d6 + Wisdom modifier radiant damage, and the target is slowed until the end of your next turn.",
@@ -1034,7 +1034,7 @@
     "keywords": [
       "Conjuration, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a ghostly knight that occupies 1 square within range, and the knight makes the following melee attack. The knight lasts until the end of your next turn. You can move it up to 5 squares as a move action.",
     "target": "One creature adjacent to the ghostly knight",
     "attack": "Wisdom vs. AC",
@@ -1055,7 +1055,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage.",
@@ -1075,7 +1075,7 @@
     "keywords": [
       "Divine, Fire, Implement, Zone"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d10 + Wisdom modifier fire damage.",
@@ -1097,7 +1097,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1118,7 +1118,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "3d10 + Wisdom modifier damage, and the target is stunned and can’t be affected by any attack other than this one until the end of your next turn.",
@@ -1138,7 +1138,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d10 + Wisdom modifier psychic damage, and the target is stunned until the end of your next turn.",
@@ -1158,7 +1158,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier radiant damage.",
@@ -1179,7 +1179,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier radiant damage.",
@@ -1200,7 +1200,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier radiant damage.",
@@ -1220,7 +1220,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "Each target gains a +2 power bonus to AC until the end of the encounter."
   },
@@ -1238,7 +1238,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +1 power bonus to attack rolls until the end of the encounter."
   },
@@ -1256,7 +1256,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "Each target regains the use of his or her second wind."
   },
@@ -1274,7 +1274,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 3<",
+    "range": "Ranged 3",
     "effect": "You conjure a holy lantern in a square within range. The lantern sheds bright light in its square and within a 5-square radius. You and your allies gain a +2 power bonus to Insight checks and Perception checks while in the light. The lantern lasts for 10 hours or until you use this power again.",
     "minorAction": "You move the lantern up to your speed."
   },
@@ -1292,7 +1292,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One willing ally",
     "effect": "The target is removed from play. The target is gone for his or her next two turns and reappears at the start of the third. Until the target reappears, he or she can spend a healing surge on each of his or her turns, but cannot take any actions. When the effect ends, the target reappears in the space he or she last occupied or in the nearest unoccupied space."
   },
@@ -1310,7 +1310,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure four ghostly knights, each occupying a different square within range. The knights last until the end of the encounter. They grant partial cover to you and your allies. Enemies can’t enter the knights’ spaces, but you and your allies can move through them. The knights can’t attack or be attacked or damaged.",
     "moveAction": "You move each knight up to 2 squares."
   },
@@ -1328,7 +1328,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "targets": "You and each ally in the burst",
     "effect": "Each target gains both a +2 power bonus to AC and resist 5 to all damage until the end of the encounter."
   },
@@ -1346,7 +1346,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target gains a +5 power bonus to AC and a +10 power bonus to all other defenses until the end of the encounter. These bonuses end if the target makes an attack."
   },
@@ -1364,7 +1364,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure an astral shield in 1 square within range. The shield lasts until the end of the encounter. You or any ally gains a +2 bonus to AC while in the shield’s square or adjacent to it. The shield can’t be attacked or damaged.",
     "moveAction": "You move the shield up to 3 squares within range."
   },
@@ -1382,7 +1382,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure the likeness of an angel that occupies 1 square within range. The angel grants one ally you can see a fly speed of 8 and a +4 power bonus to AC against opportunity attacks. These benefits last until the angel disappears or until you grant them to a different ally, which you can do as a minor action. When the fly speed ends on an ally, that ally descends safely to the ground if he or she has no means of staying aloft. The angel can’t move or be attacked or damaged, and it lasts until the end of the encounter."
   },
   "Spirit of Health": {
@@ -1399,7 +1399,7 @@
     "keywords": [
       "Conjuration, Divine, Healing"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a spirit that appears in 1 square within range. You or any ally adjacent to the spirit or in its square can spend a healing surge as a minor action. The spirit can heal one target per round and regains its healing ability at the start of each of your turns. Creatures can move through the spirit’s space. The spirit can’t move or be attacked or damaged, and it lasts until the end of the encounter"
   },
   "Cloud Chariot": {
@@ -1416,7 +1416,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 2<",
+    "range": "Ranged 2",
     "effect": "You conjure a chariot of cloudstuff that occupies a 2‑by-2 space within range, and a winged horse of cloudstuff that occupies a 2-by-2 space adjacent to the chariot. The horse and chariot have a fly speed of 8. You can move the chariot up to its speed as a move action. The chariot can carry up to four Small or Medium creatures, and the horse can hold one Small or Medium rider. The chariot grants partial cover to its occupants. The chariot and horse can’t attack or be separated, and they can’t be attacked or damaged. They last until you take an extended rest or until you dismiss them as a free action."
   },
   "Clarion Call of the Astral Sea": {
@@ -1433,7 +1433,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target is removed from play and regains all of his or her hit points. The target can perceive the surroundings of his or her previous location, but can’t take actions. At the start of the target’s next turn, he or she reappears in an unoccupied space chosen by you within 5 squares of his or her previous location."
   },
@@ -1451,7 +1451,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Every effect that a save can end is removed from each target."
   },
@@ -1469,7 +1469,7 @@
     "keywords": [
       "Divine, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and ongoing 5 fire damage (save ends). If the target attacks on its turn, it can’t make a saving throw against the ongoing damage on that turn.",
@@ -1489,7 +1489,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One held weapon",
     "effect": "Until the end of the encounter, the target deals 1d6 extra radiant damage when used to make a weapon attack. In addition, whenever an enemy is hit by a weapon attack using the target, that enemy takes a -2 penalty to AC until the end of the next turn of the target’s wielder."
   },
@@ -1507,7 +1507,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier radiant damage.",
@@ -1527,7 +1527,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target can spend a healing surge and regains additional hit points equal to your Charisma modifier."
   },
@@ -1545,7 +1545,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you is hit by an attack",
     "target": "The triggering ally",
     "effect": "The target gains a +4 power bonus to AC until the end of your next turn."
@@ -1564,7 +1564,7 @@
     "keywords": [
       "Healing"
     ],
-    "range": "Close burst 5 (10 at 11th level, 15 at 21st level)<",
+    "range": "Close burst 5 (10 at 11th level, 15 at 21st level)",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 6: 2d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 4d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 26: 6d6 additional hit points.",
     "special": "You can use this power twice per encounter, but only once per round. At 16th level, you can use this power three times per encounter."
@@ -1583,7 +1583,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you and one ally adjacent to you gains a +1 power bonus to AC until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
@@ -1602,7 +1602,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +1 bonus to your next attack roll or saving throw before the end of your next turn.",
     "special": "You can use only one channel divinity power per encounter."
   },
@@ -1620,7 +1620,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts until the end of the encounter. You and your allies gain a +2 power bonus to attack rolls, saving throws, and all defenses while in the zone."
   },
   "Blades of Holy Fire": {
@@ -1637,7 +1637,7 @@
     "keywords": [
       "Divine, Fire, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each ally in the burst",
     "effect": "The next time the target hits before the end of the encounter, that attack deals 1d6 extra fire and radiant damage."
   },
@@ -1655,7 +1655,7 @@
     "keywords": [
       "Conjuration, Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier radiant damage. You conjure a shield bearer in an unoccupied square adjacent to the target. The shield bearer lasts until the end of your next turn. The shield bearer occupies 1 square, and allies can move through it as if it were an ally. While adjacent to the shield bearer, any ally gains a +2 power bonus to all defenses."
@@ -1674,7 +1674,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One ally",
     "effect": "Until the end of your next turn, the primary target gains a power bonus to all defenses equal to your Charisma modifier. Make a secondary attack that is an area burst 1 centered on the primary target.",
     "secondaryTarget": "Each enemy in the burst",
@@ -1695,7 +1695,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "The target gains a power bonus to his or her next skill check before the end of the encounter. The bonus equals your Charisma modifier."
   },
@@ -1713,7 +1713,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "The target gains a +4 power bonus to a defense of your choice until the end of the encounter."
   },
@@ -1731,7 +1731,7 @@
     "keywords": [
       "Conjuration, Divine, Healing"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a spirit of healing in 1 square within range. The spirit lasts until the end of your next turn. When an ally in the spirit’s square or adjacent to it hits an enemy, that ally regains hit points equal to your Wisdom modifier. As a move action, you can move the spirit 4 squares.",
     "sustainMinor": "The spirit persists."
   },
@@ -1749,7 +1749,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "target": "You or one ally in the burst",
     "effect": "The target gains resist 25 to all damage until the end of your next turn."
   },
@@ -1767,7 +1767,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, the target takes a penalty to attack rolls and all defenses equal to 1 + your Charisma modifier."
@@ -1786,7 +1786,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier radiant damage. The first time any ally hits the target before the end of your next turn, that ally can spend a healing surge."
@@ -1805,7 +1805,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is weakened and dazed until the end of your next turn."
@@ -1824,7 +1824,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier damage. The target is dazed and immobilized (save ends both).",
@@ -1844,7 +1844,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex. The attack ignores concealment and cover.",
     "onHit": "3d6 + Wisdom modifier radiant damage.",
@@ -1864,7 +1864,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target disappears into an extraplanar prison (save ends). The target takes a -2 penalty to saving throws against this effect, or a -5 penalty if it is an aberrant, elemental, fey, immortal, or shadow creature. When the target saves against this effect, it reappears in its original space. If that space is occupied, the target returns to the nearest unoccupied space.",
@@ -1885,7 +1885,7 @@
     "keywords": [
       "Divine, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, each target gains resist 20 necrotic and deals 1 radiant damage to any enemy that attacks him or her.",
     "sustainMinor": "The effect persists."
@@ -1904,7 +1904,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you hits your ally",
     "target": "The triggering enemy",
     "attack": "Wisdom vs. Will",
@@ -1925,7 +1925,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier radiant damage.",
@@ -1945,7 +1945,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "Until the end of your next turn, the target ignores the effects of the immobilized, restrained, and slowed conditions."
   },
@@ -1963,7 +1963,7 @@
     "keywords": [
       "Divine, Teleportation"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One ally",
     "effect": "You teleport the target to a square adjacent to you."
   },
@@ -1981,7 +1981,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain the ability to move on air as if it were a solid surface. If you end your turn more than 2 squares above a solid surface, you descend gently until you are 2 squares above one."
   },
   "Draconic Anathema": {
@@ -1998,7 +1998,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "channelDivinity": "You can use only one channel divinity power per encounter",
     "target": "Each creature with the dragon keyword in the burst",
     "attack": "Wisdom vs. Will",
@@ -2020,7 +2020,7 @@
     "keywords": [
       "Divine, Healing, Implement, Necrotic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large black reaper in an unoccupied 2-by-2-square space within range. The black reaper has reach 2, speed 8, and fly 8 (hover). It has a +4 bonus to AC and a +4 bonus to Will. You can give the black reaper the following special commands.",
     "standardAction": "Reach 2; targets one creature; Wisdom vs. AC; 1d8 + Charisma modifier necrotic damage, and if the black reaper reduces its target to 0 hit points or fewer both the black reaper and one ally within 5 squares of it heal 2d6 + your Wisdom modifier hit points.",
     "opportunityAttack": "Reach 2; targets one creature; Wisdom vs. AC; 2d8 + Charisma modifier necrotic damage, and if the black reaper reduces its target to 0 hit points or fewer both the black reaper and one ally within 5 squares of it heal 2d6 + your Wisdom modifier hit points."
@@ -2039,7 +2039,7 @@
     "keywords": [
       "Divine, Healing, Implement, Necrotic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "3d6 + Wisdom modifier necrotic damage, and if the target is reduced to 0 hit points or fewer by you or one of your allies before the end of your next turn, the creature that killed the target heals 3 hit points."
@@ -2058,7 +2058,7 @@
     "keywords": [
       "Divine, Necrotic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "4[W] + Charisma modifier necrotic damage and one ally within 10 squares of you regains one healing surge.",
@@ -2078,7 +2078,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Area burst 2 within 10<",
+    "range": "Area burst 2 within 10",
     "effect": "This burst creates a zone that death cannot enter. When you or one of your allies within the zone is reduced to 0 hit points or fewer, you do not fall unconscious, begin dying, or die, and may continue to act normally (unconscious creatures within the zone when it is created remain unconscious as normal). No creature is required to make death saves while in the zone. When a creature exits the zone, it succumbs to whatever state its current hit points would put it in at the end of its next turn.",
     "sustainMinor": "The zone persists until the end of your next turn."
   },
@@ -2096,7 +2096,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the next ally who hits the target before the end of your next turn regains hit points equal to your Charisma modifier.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -2115,7 +2115,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, the target gains vulnerability to all damage equal to your Wisdom modifier, and any ally who attacks the target gains temporary hit points equal to your Wisdom modifier."
@@ -2134,7 +2134,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage. Until the end of your next turn, you and your allies have combat advantage against the target."
@@ -2153,7 +2153,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d6 + Wisdom modifier radiant damage.",
@@ -2174,7 +2174,7 @@
     "keywords": [
       "Divine, Implement, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dazed (save ends).",
@@ -2195,7 +2195,7 @@
     "keywords": [
       "Divine, Fear, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "You push the target 3 squares and knock it prone.",
@@ -2216,7 +2216,7 @@
     "keywords": [
       "Divine, Force, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier force damage, and you knock the target prone.",
@@ -2237,7 +2237,7 @@
     "keywords": [
       "Conjuration, Divine, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You conjure a weapon of astral flame in your space. The weapon lasts until the end of your next turn. When you move, the weapon moves with you, remaining in your space. The weapon makes the following primary attack when it appears.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Reflex",
@@ -2261,7 +2261,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose acid, cold, fire, lightning, poison, or thunder. Until the end of the encounter, you gain resist 5 to that damage type, and any ally who ends a move adjacent to you gains resist 5 to that damage type until the start of his or her next turn."
   },
   "Life Transference": {
@@ -2278,7 +2278,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "effect": "You take damage equal to your healing surge value, which can’t be reduced in any way. The target regains hit points equal to twice that value."
   },
@@ -2296,7 +2296,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "trigger": "An ally within 20 squares of you fails a death saving throw",
     "target": "The triggering ally",
     "effect": "The target succeeds on the death saving throw and can spend a healing surge."
@@ -2315,7 +2315,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dazed until the end of your next turn."
@@ -2334,7 +2334,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage. When any ally hits the target before the start of your next turn, the target takes 1d6 extra radiant damage."
@@ -2353,7 +2353,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target takes a -2 penalty to all defenses until the end of your next turn. When any ally hits the target before the end of your next turn, the target is knocked prone.",
@@ -2373,7 +2373,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 5 squares<",
+    "range": "Area burst 1 within 5 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier radiant damage, and each ally in the burst gains a +2 power bonus to AC until the end of your next turn."
@@ -2392,7 +2392,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage. Until the end of your next turn, each ally adjacent to you or to the target gains resistance to all damage equal to your Charisma modifier."
@@ -2411,7 +2411,7 @@
     "keywords": [
       "Divine, Healing, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2432,7 +2432,7 @@
     "keywords": [
       "Divine, Implement, Reliable"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "The target is affected by your halo of consequence (save ends). Until the halo ends, the target takes a -4 penalty to attack rolls, and after the target attacks you or any ally, it is dazed until the end of its next turn. The target takes a -2 penalty to saving throws against the halo."
@@ -2451,7 +2451,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "Until the end of the encounter, the target takes a -4 penalty to melee damage rolls. Whenever the target hits with a melee attack, the penalty worsens by 2 to a maximum of -10.",
@@ -2471,7 +2471,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You take ongoing 5 damage (save ends). This damage can’t be reduced in any way. At the end of your turn, you can choose not to make a saving throw against this ongoing damage. Whenever you take the ongoing damage, an ally within 5 squares of you regains 15 hit points."
   },
   "Bolts of Warding": {
@@ -2488,7 +2488,7 @@
     "keywords": [
       "Divine, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier lightning damage. Until the end of your next turn, any enemy takes 5 lightning damage if it ends its turn adjacent to any ally within 5 squares of you."
@@ -2507,7 +2507,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, the target is dazed and takes a penalty to attack rolls and all defenses equal to your Charisma modifier."
@@ -2526,7 +2526,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy within 5 squares of you hits you or your ally",
     "target": "The triggering enemy",
     "attack": "Wisdom vs. Fortitude",
@@ -2546,7 +2546,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2566,7 +2566,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be bloodied.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2587,7 +2587,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier radiant damage.",
@@ -2609,7 +2609,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target cannot attack (save ends). Until you or any ally attacks the target, it takes a -5 penalty to saving throws against this effect.",
@@ -2629,7 +2629,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "The target gains truesight 5 until the end of the encounter."
   },
@@ -2647,7 +2647,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally",
     "effect": "You transfer to yourself all effects on the target that a save can end. You gain a +4 bonus to saving throws against those effects."
   },
@@ -2665,7 +2665,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2686,7 +2686,7 @@
     "keywords": [
       "Charm, Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target gains vulnerability to all damage equal to 2 + your Wisdom modifier until the end of your next turn. The target then moves its speed toward you, taking the safest path possible."
@@ -2705,7 +2705,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target takes a -2 penalty to all defenses until the end of your next turn."
@@ -2724,7 +2724,7 @@
     "keywords": [
       "Divine, Healing, Implement"
     ],
-    "range": "Area burst 1 within 5 squares<",
+    "range": "Area burst 1 within 5 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, the target gains vulnerable 10 to all damage and is dazed.",
@@ -2744,7 +2744,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target is blinded (save ends).",
@@ -2764,7 +2764,7 @@
     "keywords": [
       "Conjuration, Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2786,7 +2786,7 @@
     "keywords": [
       "Divine, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. You gain a +1 bonus to the attack roll for each ally adjacent to the target.",
     "onHit": "4[W] + Strength modifier damage."
@@ -2805,7 +2805,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each ally in the burst",
     "effect": "Each target gains temporary hit points equal to his or her healing surge value. Until the end of your next turn, each target gains a +4 power bonus to all defenses against fear effects."
   },
@@ -2823,7 +2823,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you drops to 0 hit points or fewer",
     "target": "The triggering ally",
     "effect": "The target can spend a healing surge."
@@ -2842,7 +2842,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "effect": "Until the end of your next turn, the target gains vulnerability to all damage equal to 10 + your Wisdom modifier and cannot regain hit points."
   },
@@ -2860,7 +2860,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d8 + Wisdom modifier radiant damage. Until the end of your next turn, the target is immobilized, cannot teleport, and does not benefit from being insubstantial."
@@ -2879,7 +2879,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2902,7 +2902,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "The target’s attacks deal no damage (save ends).",
@@ -2922,7 +2922,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier radiant damage.",
@@ -2943,7 +2943,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "The target regains all his or her hit points."
   },
@@ -2961,7 +2961,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One bloodied or dying ally or a dead ally who died during this encounter",
     "effect": "The target regains enough hit points to bring his or her current hit point total to his or her bloodied value. If the target is dead, he or she revives, then regains the hit points, and is considered not to have failed any death saving throws during this encounter."
   },
@@ -2979,7 +2979,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier radiant damage.",
@@ -2999,7 +2999,7 @@
     "keywords": [
       "Divine, Fear, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target moves its speed away from you, taking the safest path possible."
@@ -3018,7 +3018,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The first time the target makes an attack before the end of your next turn, each ally within 10 squares of you can make a basic attack against the target as an opportunity action."
@@ -3037,7 +3037,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d10 + Wisdom modifier fire damage.",
@@ -3057,7 +3057,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy within 5 squares of you hits your ally",
     "target": "The triggering enemy",
     "attack": "Wisdom vs. Will",
@@ -3077,7 +3077,7 @@
     "keywords": [
       "Divine, Implement, Teleportation"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy makes an attack roll against your ally within 5 squares of you, and you are not a target of that attack",
     "primaryTarget": "The triggering ally",
     "effect": "You teleport yourself and the primary target, swapping positions with him or her, and the triggering enemy makes the attack roll against you instead. If you take damage from the attack, the primary target gains temporary hit points equal to that damage. You then make the following secondary attack.",
@@ -3099,7 +3099,7 @@
     "keywords": [
       "Divine, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "4[W] + Strength modifier fire damage. The target takes ongoing 10 fire damage and a penalty to all defenses equal to 1 + your Charisma modifier (save ends both).",
@@ -3119,7 +3119,7 @@
     "keywords": [
       "Conjuration, Divine, Healing, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is weakened (save ends).",
@@ -3139,7 +3139,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier radiant damage.",
@@ -3160,7 +3160,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of the encounter, your reach increases by 1, your melee attacks deal 1d6 extra damage, and you gain a +1 power bonus to speed and a +2 power bonus to AC. Then make the following attack.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3180,7 +3180,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier psychic damage, and the target is stunned until the end of your next turn.",
@@ -3200,7 +3200,7 @@
     "keywords": [
       "Divine, Healing, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is stunned until the end of your next turn.",
@@ -3220,7 +3220,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier radiant damage, and the target and each enemy within 2 squares of it gain vulnerable 5 to all damage until the end of your next turn."
@@ -3239,7 +3239,7 @@
     "keywords": [
       "Divine, Radiant, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier radiant damage, and the target disappears into the Astral Sea (save ends). When this effect ends, the target reappears in a space of your choice within 5 squares of its original space.",
@@ -3260,7 +3260,7 @@
     "keywords": [
       "Cold, Divine, Healing, Implement, Radiant"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d8 + Wisdom modifier cold and radiant damage, and you push the target 5 squares. The target is dazed (save ends).",
@@ -3280,7 +3280,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target takes a -5 penalty to attack rolls and is weakened (save ends both).",
@@ -3301,7 +3301,7 @@
     "keywords": [
       "Charm, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dominated (save ends).",
@@ -3322,7 +3322,7 @@
     "keywords": [
       "Divine, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "3[W] + Strength modifier damage, and ongoing 10 damage (save ends). Whenever the target takes the ongoing damage, it and each enemy adjacent to it are blinded until the end of the target’s next turn.",
@@ -3342,7 +3342,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. <br/>Level 21: 2[W] + Strength modifier damage.",
@@ -3362,7 +3362,7 @@
     "keywords": [
       "Divine, Healing, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target regains 15 hit points. The burst creates a zone of healing light that lasts until the end of the encounter. When you or any ally spends a healing surge while within the zone, he or she regains additional hit points equal to 5 + your Charisma modifier."
   },
@@ -3380,7 +3380,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier psychic damage, and your allies gain a +1 power bonus to attack rolls against the target until the end of your next turn. If the target attacks you before the end of your next turn, the bonus increases to +3.<br/>Increase damage to 2d8 + Wisdom modifier at 21st level."
@@ -3399,7 +3399,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Move up to your speed. Each ally adjacent to you at any point during this move gains a +1 power bonus to AC until the end of your next turn. If you are bloodied, the bonus is instead +2."
   },
   "Tree of Creation": {
@@ -3416,7 +3416,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "3d10 + Wisdom modifier radiant damage.",
@@ -3438,7 +3438,7 @@
     "keywords": [
       "Divine, Healing, Implement, Lightning, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "The burst creates a zone of sparking electricity until the end of your next turn. Enemies that enter the zone or start their turns there take 2d10 + Wisdom modifier lightning damage (an enemy can take this damage only once per turn). If an enemy is reduced to 0 hit points while within the zone, you or an ally of your choice can spend a healing surge without taking an action to do so. When you or an ally takes lightning or thunder damage while within the zone, whoever took the damage can use an immediate interrupt to spend a healing surge.",
     "sustainMinor": "The zone persists."
   },
@@ -3456,7 +3456,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "channelDivinity": "You can use only one channel divinity power per encounter",
     "target": "Each bloodied ally in the burst",
     "effect": "Each target can spend a healing surge. You are weakened until the end of your next turn."
@@ -3475,7 +3475,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage. The attack creates a zone of shielding light in a close burst 2. The zone lasts until the end of your next turn. You and your allies gain a +2 power bonus to AC while within the zone."
@@ -3494,7 +3494,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must not be bloodied.",
     "target": "One ally",
     "effect": "The target gains regeneration 10 until you are bloodied or until the end of the encounter."
@@ -3513,7 +3513,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Each target can spend a healing surge and regain 2d6 additional hit points."
   },
@@ -3531,7 +3531,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target gains vulnerable 5 to all damage until the end of the encounter.",
@@ -3551,7 +3551,7 @@
     "keywords": [
       "Divine, Radiant, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage.",
@@ -3571,7 +3571,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage. Until the end of your next turn, the target takes a -4 penalty to attack rolls and cannot make opportunity attacks."
@@ -3590,7 +3590,7 @@
     "keywords": [
       "Divine, Healing, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within 5 squares of you drops to 0 hit points or fewer",
     "primaryTarget": "The triggering ally",
     "effect": "The primary target regains hit points as if he or she had spent a healing surge. Make a secondary attack that is an area burst 2 centered on the primary target.",
@@ -3612,7 +3612,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, each target gains a +2 power bonus to speed, attack rolls, and damage rolls, and can score a critical hit on a roll of 18–20."
   },
@@ -3630,7 +3630,7 @@
     "keywords": [
       "Divine, Necrotic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier necrotic damage, and the target is weakened until the end of your next turn. If the target has resistance or immunity to necrotic damage, it takes no damage and is stunned instead of weakened."
@@ -3649,7 +3649,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier radiant damage, and the target is blinded until the end of your next turn.",
@@ -3669,7 +3669,7 @@
     "keywords": [
       "Divine, Healing, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom +2 vs. Reflex",
     "onHit": "Until the end of your next turn, the target takes a –2 penalty to all defenses. The next ally who hits it before the end of your next turn regains hit points equal to 2 + your Charisma modifier."
@@ -3688,7 +3688,7 @@
     "keywords": [
       "Divine, Fire, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier fire damage, and the target takes a –2 penalty to all defenses until the end of your next turn. If you used healing word this turn, this attack deals extra radiant damage equal to your Charisma modifier."
@@ -3707,7 +3707,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "You conjure a silent, ghostly angel in 1 square in the burst. The angel lasts until the end of your next turn and occupies its square. When an ally adjacent to the angel spends a healing surge, he or she regains 4 extra hit points. For each time you used healing word or a Channel Divinity power since the start of your last turn, you conjure an additional angel in a square that’s not adjacent to another ghostly angel.",
     "sustainMinor": "The effect persists, and you can move each angel 3 squares."
   },
@@ -3725,7 +3725,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d10 + Wisdom modifier radiant damage, and an ally within 5 squares of you gains a +2 power bonus to attack rolls against the target until the end of your next turn. If you use healing word on that ally this turn, the ally also gains a +4 power bonus to damage rolls against the target until the end of your next turn."
@@ -3744,7 +3744,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3765,7 +3765,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "The target makes a saving throw. If you used divine fortune this turn, the ally receives a bonus to the saving throw equal to the bonus your divine fortune grants."
   },
@@ -3783,7 +3783,7 @@
     "keywords": [
       "Divine, Fire, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier fire damage. If you’ve used a Channel Divinity power this encounter, you mark the target until the end of your next turn and an ally within 5 squares of you can spend a healing surge. If you haven’t, the target grants combat advantage and is slowed until the end of your next turn."
@@ -3802,7 +3802,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you takes damage from an attack",
     "target": "The triggering ally in the burst",
     "effect": "Reduce the triggering attack’s damage by 5 + your Charisma modifier.",
@@ -3822,7 +3822,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 10<",
+    "range": "Area burst 2 within 10",
     "target": "Up to four creatures in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "The target is dazed until the end of your turn. If you’ve used a Channel Divinity power this encounter, then the next time the target is hit by an attack before the end of your next turn, that attack deals 5 + your Charisma modifier extra radiant damage."
@@ -3841,7 +3841,7 @@
     "keywords": [
       "Divine, Fear, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "The target cannot attack (save ends).",
@@ -3861,7 +3861,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Area burst 2 within 10<",
+    "range": "Area burst 2 within 10",
     "target": "You and each ally in the burst",
     "effect": "The target gains a +2 power bonus to saving throws. If you used healing word this turn, the target also gains a +2 power bonus to all defenses. If you used a Channel Divinity power since the start of your last turn, the target also gains a +1 power bonus to attack rolls. The effect lasts until the end of the encounter."
   },
@@ -3879,7 +3879,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Strength or Wisdom vs. Will",
     "onHit": "Whenever the target makes an attack roll, it rolls twice and uses the lower result (save ends).",
@@ -3900,7 +3900,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "The target gains temporary hit points equal to 5 + your Wisdom modifier and gains a +2 power bonus to Will until the end of the encounter."
   },
@@ -3918,7 +3918,7 @@
     "keywords": [
       "Cold, Divine, Healing, Implement, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Strength or Wisdom vs. Fortitude",
     "onHit": "1d10 + Wisdom modifier cold and necrotic damage. Choose one, two, or three creatures within 5 squares of the target. One creature can spend a healing surge. Another creature takes 1d10 cold damage. And one creature takes 1d10 necrotic damage."
@@ -3937,7 +3937,7 @@
     "keywords": [
       "Cold, Divine, Implement, Necrotic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Strength or Wisdom vs. Fortitude",
     "onHit": "3d6 + Wisdom modifier cold damage, and the target is immobilized (save ends).",
@@ -3959,7 +3959,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally misses with an attack",
     "target": "The triggering ally",
     "effect": "The ally loses 1 healing surge and rerolls the attack with a bonus to the attack equal to your Wisdom modifier. If the ally doesn’t have a healing surge to lose, he or she instead loses hit points equal to his or her surge value."
@@ -3978,7 +3978,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits an ally with an attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -3998,7 +3998,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is marked until the end of the encounter.",
@@ -4019,7 +4019,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Until the end of your next turn or until an ally within 5 squares of you misses with a melee attack, each ally within 5 squares of you gains a power bonus to melee damage rolls equal to your Charisma modifier."
@@ -4038,7 +4038,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is weakened (save ends).",
@@ -4058,7 +4058,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally",
     "effect": "You take damage equal to your surge value. This damage cannot be reduced by any means. The target gains temporary hit points equal to twice that value."
   },
@@ -4076,7 +4076,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally's weapon",
     "effect": "Until the end of the encounter, all attacks made with this weapon deal extra damage equal to your Strength modifier. When the weapon hits an enemy, that enemy grants combat advantage until the start of the wielder’s next turn."
   },
@@ -4094,7 +4094,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target grants combat advantage (save ends).",
@@ -4114,7 +4114,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure an advisor from your deity that appears in an unoccupied square within range. The advisor occupies 1 square and lasts until the end of your next turn. Allies within 5 squares of the counsel can roll twice on all knowledge checks and keep either result.",
     "sustainMinor": "The effect persists."
   },
@@ -4132,7 +4132,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier, and the next attack that hits the target before the end of your next turn deals extra damage equal to your Strength modifier, or Strength + Wisdom modifier if you are wielding a two-handed weapon."
@@ -4151,7 +4151,7 @@
     "keywords": [
       "Conjuration, Divine, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone centered on you that lasts until the end of your next turn. While within the zone, you and each ally ignore difficult terrain.",
     "sustainMinor": "The zone persists."
   },
@@ -4169,7 +4169,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally’s weapon",
     "effect": "Until the end of the encounter, all attacks made with this weapon deal extra damage equal to 5 + your Strength modifier. When the weapon hits an enemy, that enemy is slowed and grants combat advantage to you until the start of the wielder’s next turn."
   },
@@ -4187,7 +4187,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is weakened (save ends).",
@@ -4207,7 +4207,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and each ally within 5 squares of you can make a saving throw against one effect that a save can end."
@@ -4226,7 +4226,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage. The next attack the target makes before the end of your next turn takes a penalty to the damage roll equal to your Charisma modifier.<br/>Level 21: 2[W] + Wisdom modifier damage.",
@@ -4246,7 +4246,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -4266,7 +4266,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier + Charisma modifier psychic damage, and the target grants combat advantage until the end of your next turn."
@@ -4285,7 +4285,7 @@
     "keywords": [
       "Cold, Divine, Radiant, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -4306,7 +4306,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "effect": "The target grants combat advantage until the end of your next turn, and your allies gain a power bonus to damage rolls against the target equal to your Wisdom modifier until the end of your next turn. The next ally who misses the target before the end of your next turn can reroll the attack."
   },
@@ -4324,7 +4324,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 5 squares<",
+    "range": "Area burst 1 within 5 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is subjected to sundered fortune (save ends). While under the effect of a sundered fortune, the target takes a -2 penalty to attack rolls and takes damage equal to 5 + your Wisdom modifier each time it hits with an attack or succeeds at a saving throw (including the save against this power).",
@@ -4344,7 +4344,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy in the burst scores a critical hit with an attack against you or an ally",
     "effect": "The triggering enemy must re-roll the attack with a penalty to the attack roll equal to your Charisma modifier."
   },
@@ -4362,7 +4362,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy within 5 squares of you misses with an attack",
     "target": "The triggering enemy",
     "attack": "Wisdom vs. Will",
@@ -4382,7 +4382,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 5 squares<",
+    "range": "Area burst 1 within 5 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier damage, and the target takes a -2 penalty to all defenses (save ends).",
@@ -4402,7 +4402,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, each of your allies can roll twice on the first attack he or she makes on his or her turn against the target. If both attack rolls hit, the target takes extra damage equal to 5 + your Charisma modifier."
@@ -4421,7 +4421,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You roll initiative",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +2 bonus to the initiative check and temporary hit points equal to 10 + your Charisma modifier."
@@ -4440,7 +4440,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally misses a target",
     "target": "The triggering target creature",
     "attack": "Wisdom vs. Will",
@@ -4460,7 +4460,7 @@
     "keywords": [
       "Channel Divinity, Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One undead creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2[W] + Wisdom modifier radiant damage, and you push the target a number of squares up to 3 + your Constitution modifier. The target is immobilized until the end of your next turn.<br/>Level 11: 3[W] + Wisdom modifier radiant damage.<br/>Level 21: 4[W] + Wisdom modifier radiant damage.",
@@ -4481,7 +4481,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + Wisdom modifier radiant damage.",
@@ -4501,7 +4501,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + Wisdom modifier radiant damage.",
@@ -4521,7 +4521,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -4542,7 +4542,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge. In addition, the target gains a +4 power bonus to damage rolls until the end of your next turn."
   },
@@ -4560,7 +4560,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target makes a saving throw with a +5 power bonus against each effect on him or her that a save can end. In addition, if the target suffers from a disease, he or she can spend a healing surge to improve the disease by 2 stages. The target regains no hit points for spending the healing surge. If the target is subject to a petrifying effect, that effect ends but the target loses any remaining healing surges."
   },
@@ -4578,7 +4578,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -4599,7 +4599,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -4620,7 +4620,7 @@
     "keywords": [
       "Divine, Radiant, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +5 power bonus to Insight checks and Perception checks until the end of your next turn. The burst also creates a zone of bright light that lasts until the end of your next turn. When any enemy in the zone makes an attack, that enemy takes 5 radiant damage.",
     "sustainMinor": "The zone persists until the end of your next turn."
@@ -4639,7 +4639,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One enemy in the burst",
     "effect": "Until the end of the encounter, you and your allies gain a +2 power bonus to attack rolls and damage rolls against the target."
   },
@@ -4657,7 +4657,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must use this power at the end of an extended rest.",
     "target": "One creature that died no more than 24 hours ago",
     "effect": "The target is restored to life with full hit points and healing surges. The target takes a -1 penalty to attack rolls, skill checks, ability checks, and saving throws until it has reached three milestones or taken three extended rests."
@@ -4676,7 +4676,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage.",
@@ -4696,7 +4696,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage, plus 5 damage per bloodied ally within 5 squares of you.",
@@ -4716,7 +4716,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One enemy",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage.",
@@ -4736,7 +4736,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target regains hit points as if he or she had spent a healing surge. In addition, each target gains a +2 power bonus to attack rolls until the end of your next turn."
   },
@@ -4754,7 +4754,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You or an ally within 5 squares of you takes damage.",
     "target": "The character in the burst who takes the damage",
     "effect": "The damage dealt to the target is reduced to 0. Any other effects still apply."
@@ -4773,7 +4773,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Area wall 8 within 10 squares<",
+    "range": "Area wall 8 within 10 squares",
     "effect": "You conjure a wall that lasts until the end of your next turn. The wall can be up to 4 squares high. While you or any ally is in the wall or adjacent to it, that character gains a +2 power bonus to AC. Any enemy that enters the wall is immobilized until the start of its next turn.",
     "sustainMinor": "The wall persists until the end of your next turn."
   },
@@ -4791,7 +4791,7 @@
     "keywords": [
       "Aura, Divine, Healing, Radiant"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 2 that lasts until the end of your next turn. While in the aura, allies gain a +2 power bonus to all defenses. Any bloodied ally who ends his or her turn in the aura regains hit points equal to your Wisdom modifier. Any enemy that ends its turn in the aura takes radiant damage equal to your Wisdom modifier.",
     "sustainMinor": "The aura persists until the end of your next turn."
   },
@@ -4809,7 +4809,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3[W] + Wisdom modifier radiant damage.",
@@ -4830,7 +4830,7 @@
     "keywords": [
       "Divine, Radiant"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "effect": "Each target takes 10 + Wisdom modifier radiant damage, and you gain that number of temporary hit points. Until the end of the encounter, you gain a +2 power bonus to attack rolls."
   },
@@ -4848,7 +4848,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One ally",
     "effect": "Until the end of the encounter, whenever the target is subjected to an effect that a save can end, the target can make a saving throw against that effect."
   },
@@ -4866,7 +4866,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "Ongoing 20 radiant damage (save ends).",
@@ -4887,7 +4887,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage.",
@@ -4908,7 +4908,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "effect": "Until the end of the encounter, whenever the target damages one of your allies, you can use an immediate reaction to deal half that damage to the target. This damage ignores the target’s immunities and resistances."
   },
@@ -4926,7 +4926,7 @@
     "keywords": [
       "Divine, Radiant"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "effect": "Each target falls prone. Until the end of the encounter, you gain a power bonus to melee damage rolls, to Strength checks, and to Athletics checks equal to your Constitution modifier. Also, until the end of the encounter, any enemy that ends its turn adjacent to you takes 10 radiant damage."
   },
@@ -4944,7 +4944,7 @@
     "keywords": [
       "Divine, Force, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "4[W] + Wisdom modifier force damage, and the target is dazed (save ends).",
@@ -4965,7 +4965,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "7[W] + Wisdom modifier damage.",
@@ -4986,7 +4986,7 @@
     "keywords": [
       "Divine, Fear, Necrotic, Psychic, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "6[W] + Wisdom modifier necrotic and psychic damage.",
@@ -5007,7 +5007,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>Level 21: 2[W] + Wisdom modifier damage.",
@@ -5027,7 +5027,7 @@
     "keywords": [
       "Divine, Lightning, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + Wisdom modifier lightning and thunder damage.<br/>Level 21: 2[W] + Wisdom modifier lightning and thunder damage.",
@@ -5047,7 +5047,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One empty cup, flask, or similar container that can hold up to 1 gallon of liquid",
     "effect": "You cause the container to fill with fresh, potable water."
   },
@@ -5065,7 +5065,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier thunder damage.",
@@ -5085,7 +5085,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You or one ally in the burst",
     "effect": "The next time the target makes a damage roll for a melee weapon attack before the end of your next turn, the target deals 4 extra lightning damage.<br/>Level 11: The extra damage increases to 6.<br/>Level 21: The extra damage increases to 8.",
     "special": "You can use only one channel divinity power per encounter."
@@ -5104,7 +5104,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One enemy",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier thunder damage, and you can push the target 1 square and knock it prone.",
@@ -5124,7 +5124,7 @@
     "keywords": [
       "Divine, Lightning, Teleportation, Thunder, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "requirement": "You must use this power with a melee weapon.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -5145,7 +5145,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier thunder damage.",
@@ -5165,7 +5165,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2[W] + Wisdom modifier thunder damage, and you push the target up to 2 squares and knock it prone.",
@@ -5185,7 +5185,7 @@
     "keywords": [
       "Divine, Lightning, Teleportation, Thunder, Weapon"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "You must use this power with a melee weapon.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -5206,7 +5206,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier thunder damage, and the target is dazed until the end of your next turn.",
@@ -5226,7 +5226,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>Level 21: 2[W] + Wisdom modifier damage.",
@@ -5246,7 +5246,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier radiant damage.<br/>Level 21: 2[W] + Wisdom modifier radiant damage.",
@@ -5266,7 +5266,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One object or unoccupied square",
     "effect": "The target sheds bright light that fills its space and squares within 4 squares of it. The light lasts for 1 hour, until you use this power again, or until you end the light as a free action."
   },
@@ -5284,7 +5284,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier radiant damage.",
@@ -5304,7 +5304,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You or one ally in the burst",
     "effect": "The target makes a saving throw with a +2 power bonus.",
     "special": "You can use only one channel divinity power per encounter."
@@ -5323,7 +5323,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -5343,7 +5343,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier radiant damage, and the target is blinded until the end of your next turn."
@@ -5362,7 +5362,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -5382,7 +5382,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier radiant damage.",
@@ -5402,7 +5402,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier radiant damage, and the target is blinded until the end of your next turn."
@@ -5421,7 +5421,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "4[W] + Wisdom modifier radiant damage.",
@@ -5441,7 +5441,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>Level 21: 2[W] + Wisdom modifier damage.",
@@ -5461,7 +5461,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage and push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -5481,7 +5481,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a Perception check with a +5 power bonus to detect secret doors, hidden objects, and hidden creatures within 10 squares."
   },
   "Earthen Hail": {
@@ -5498,7 +5498,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W] + Wisdom modifier damage, and enemies in a blast 3 that includes the target suffer damage equal to your Constitution modifier. The target also takes this damage.",
@@ -5518,7 +5518,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You or one ally in the burst",
     "effect": "The target gains resist 5 to all damage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Resist 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Resist 15.",
     "special": "You can use only one channel divinity power per encounter."
@@ -5537,7 +5537,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1[W]+ Wisdom modifier damage and push the target 3 squares.",
@@ -5557,7 +5557,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2[W] + Wisdom modifier damage.",
@@ -5577,7 +5577,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2[W] + Wisdom modifier damage, and enemies in a blast 3 that includes the target suffer damage equal to 2 + your Constitution modifier. The target also takes this damage.",
@@ -5597,7 +5597,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2[W] + Wisdom modifier damage and slide the target 3 squares.",
@@ -5617,7 +5617,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3[W] + Wisdom modifier damage.",
@@ -5637,7 +5637,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3[W] + Wisdom modifier damage, and enemies in a blast 3 that includes the target suffer damage equal to 5 + your Constitution modifier. The target also takes this damage. All enemies damaged by this attack are knocked prone.",
@@ -5657,7 +5657,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "effect": "The target takes 3d6 + your Wisdom modifier necrotic damage."
   },
@@ -5675,7 +5675,7 @@
     "keywords": [
       "Divine, Healing, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One dying ally in the burst",
     "effect": "The target can spend up to two healing surges. Until the end of the encounter or until the target is restored to full hit points, the target gains a +2 power bonus to attack rolls and damage rolls but grants combat advantage."
   },
@@ -5693,7 +5693,7 @@
     "keywords": [
       "Divine, Shadow, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of your next turn. The zone is heavily obscured and blocks line of sight.",
     "sustainMinor": "The zone persists until the end of your next turn."
   },
@@ -5711,7 +5711,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier necrotic damage.",
@@ -5732,7 +5732,7 @@
     "keywords": [
       "Divine, Healing, Shadow, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone that lasts until the end of the encounter. You and your allies gain a +2 power bonus to damage rolls against enemies in the zone. Whenever an enemy drops to 0 hit points in the zone, you and each ally in the zone regain 5 hit points."
   },
   "Soul Cage": {
@@ -5749,7 +5749,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy dies within 5 squares of you.",
     "effect": "Once before the end of your next extended rest, you can use a minor action to gain one of the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You can ask the dead enemy one question that it must answer truthfully. Its answer is limited to one hundred words.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +5 power bonus to your next attack roll against an enemy.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* View one room, one similarly sized outdoor location, or one object that the enemy has seen within the past week. The image you see is drawn from the enemy’s memory, and so might not be entirely accurate."
   },
@@ -5767,7 +5767,7 @@
     "keywords": [
       "Divine, Fear, Psychic, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier psychic damage.",
@@ -5788,7 +5788,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Shadow, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier necrotic damage.",
@@ -5809,7 +5809,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target loses a healing surge and gains temporary hit points equal to his or her healing surge value. In addition, until the end of the encounter, each target gains a +2 power bonus to speed and a +5 power bonus to Athletics checks and Acrobatics checks."
   },
@@ -5827,7 +5827,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target is insubstantial and weakened until the end of your next turn.",
     "sustainMinor": "The effect persists until the end of your next turn."
@@ -5846,7 +5846,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "effect": "You take 10 damage, and the target takes 4d10 + Wisdom modifier necrotic damage."
   },
@@ -5864,7 +5864,7 @@
     "keywords": [
       "Divine, Shadow, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts until the end of the encounter. While in the zone, you and your allies have partial concealment and gain a +5 power bonus to Stealth checks. You and your allies can make Stealth checks to hide in the zone without needing to have superior cover or total concealment."
   },
   "Shackles of the Grave": {
@@ -5881,7 +5881,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Shadow, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "5d6 + Wisdom modifier necrotic damage.",
@@ -5902,7 +5902,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "requirement": "You must have at least one healing surge remaining.",
     "target": "One ally in the burst",
     "effect": "You lose one healing surge. The first time the target drops to 0 hit points or fewer before the end of your next extended rest, the target instead drops to 1 hit point."
@@ -5921,7 +5921,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Shadow, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "5d8 + Wisdom modifier necrotic damage.",
@@ -5943,7 +5943,7 @@
     "keywords": [
       "Divine, Fear, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One enemy",
     "attack": "Wisdom vs. AC",
     "onHit": "5[W] + Wisdom modifier damage.",
@@ -5964,7 +5964,7 @@
     "keywords": [
       "Divine, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have at least one healing surge remaining.",
     "target": "One creature",
     "effect": "You lose a healing surge, and the target takes necrotic damage equal to your bloodied value."
@@ -5983,7 +5983,7 @@
     "keywords": [
       "Cold, Divine, Implement, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d8 + Wisdom modifier cold and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Wisdom modifier cold and necrotic damage.",
@@ -6003,7 +6003,7 @@
     "keywords": [
       "Divine, Implement, Psychic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Wisdom modifier psychic damage.",
@@ -6023,7 +6023,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each bloodied enemy in the burst",
     "effect": "You learn which targets have current hit point totals lower than your healing surge value."
   },
@@ -6041,7 +6041,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One enemy",
     "effect": "The next attack made against the target before the end of your next turn deals 2d8 extra damage on a hit or a miss, even if the attack normally deals no damage on a miss. This extra damage cannot benefit from bonuses to damage rolls."
   },
@@ -6059,7 +6059,7 @@
     "keywords": [
       "Channel Divinity, Divine, Shadow"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You or one ally in the burst; the target must be bloodied",
     "effect": "The target gains 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points.",
     "special": "You can use only one channel divinity power per encounter."
@@ -6078,7 +6078,7 @@
     "keywords": [
       "Divine, Implement, Psychic, Shadow"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "A creature within 3 squares of you drops to 0 hit points.",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
@@ -6099,7 +6099,7 @@
     "keywords": [
       "Divine, Healing, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One bloodied enemy",
     "effect": "The target takes 5 + your Wisdom modifier necrotic damage. If this damage reduces the target to 0 hit points, you or one ally within 5 squares of you can spend a healing surge."
   },
@@ -6117,7 +6117,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One enemy in the burst",
     "effect": "The target grants combat advantage until the end of your next turn. In addition, the next attack made against the target before the end of your next turn deals 3d8 extra damage on a hit or a miss, even if the attack normally deals no damage on a miss. This extra damage cannot benefit from bonuses to damage rolls."
   },
@@ -6135,7 +6135,7 @@
     "keywords": [
       "Divine, Implement, Psychic, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "A creature within 5 squares of you drops to 0 hit points.",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
@@ -6156,7 +6156,7 @@
     "keywords": [
       "Divine, Healing, Necrotic, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One bloodied enemy",
     "effect": "The target takes 15 + your Wisdom modifier necrotic damage. If this damage reduces the target to 0 hit points, you and one ally within 10 squares of you can each spend a healing surge."
   },
@@ -6174,7 +6174,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One enemy in the burst",
     "effect": "The target grants combat advantage until the end of your next turn. The next attack made against the target before the end of your next turn deals 4d8 extra damage on a hit or a miss, even if the attack normally deals no damage on a miss. This extra damage cannot benefit from bonuses to damage rolls."
   },
@@ -6192,7 +6192,7 @@
     "keywords": [
       "Channel Divinity, Divine, Teleportation"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and one ally in the burst",
     "effect": "Each target teleports up to 5 squares and must end adjacent to the other.",
     "special": "You can use only one channel divinity power per encounter."
@@ -6211,7 +6211,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -6231,7 +6231,7 @@
     "keywords": [
       "Divine, Force, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "effect": "Before the attack, you can sheathe one weapon and draw another one.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -6251,7 +6251,7 @@
     "keywords": [
       "Aura, Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 5 that lasts until the end of the encounter. While in the aura, you and your allies gain low-light vision and a +2 power bonus to Perception checks."
   },
   "Faerie-Flame Strike": {
@@ -6268,7 +6268,7 @@
     "keywords": [
       "Divine, Fire, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier fire and radiant damage.",
@@ -6288,7 +6288,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One enemy",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier radiant damage.",
@@ -6308,7 +6308,7 @@
     "keywords": [
       "Charm, Divine, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + Wisdom modifier radiant damage. Until the end of your next turn, the target cannot target you with any attack, and it must make opportunity attacks against any creature within its reach that willingly attacks you."
@@ -6327,7 +6327,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex. The attack roll ignores penalties from any cover or concealment.",
     "onHit": "3[W] + Wisdom modifier radiant damage."
@@ -6346,7 +6346,7 @@
     "keywords": [
       "Divine, Force, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier force damage.",
@@ -6366,7 +6366,7 @@
     "keywords": [
       "Divine, Psychic, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier psychic and radiant damage, and the target is blinded until the end of your next turn.",
@@ -6386,7 +6386,7 @@
     "keywords": [
       "Divine, Force, Healing, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier force damage.",
@@ -6406,7 +6406,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You and each ally in the burst",
     "effect": "The next time the target makes a skill check before the end of your next turn, the target gains a +2 power bonus to the check.",
     "special": "You can use only one channel divinity power per encounter."
@@ -6425,7 +6425,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -6445,7 +6445,7 @@
     "keywords": [
       "Divine, Radiant, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier radiant and thunder damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier radiant and thunder damage.",
@@ -6465,7 +6465,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You or one ally in the burst fails a skill check.",
     "target": "The triggering creature",
     "effect": "The target gains a power bonus to the skill check equal to your Wisdom modifier."
@@ -6484,7 +6484,7 @@
     "keywords": [
       "Divine, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier psychic damage.",
@@ -6504,7 +6504,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.",
@@ -6524,7 +6524,7 @@
     "keywords": [
       "Divine, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier psychic damage, and the target is dazed until the end of your next turn."
@@ -6543,7 +6543,7 @@
     "keywords": [
       "Divine, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier psychic damage, and the target is dazed until the end of your next turn.",
@@ -6563,7 +6563,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "effect": "Each target is blinded until the end of your next turn, and each ally within 5 squares of you can make a saving throw."
   },
@@ -6581,7 +6581,7 @@
     "keywords": [
       "Divine, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier psychic damage, and one ally of yours adjacent to the target can make a melee basic attack against the target as a free action.",
@@ -6601,7 +6601,7 @@
     "keywords": [
       "Divine, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier psychic damage, and the target is dazed until the end of your next turn.",
@@ -6621,7 +6621,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier radiant damage.",
@@ -6641,7 +6641,7 @@
     "keywords": [
       "Cold, Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier cold and radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier cold and radiant damage.",
@@ -6661,7 +6661,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One held weapon",
     "effect": "Until the end of the encounter, the weapon sheds bright light in a 5-foot radius, and it is considered a silvered weapon. In addition, any damage dealt by weapon attacks made using the weapon is radiant damage, unless the damage already has a type."
   },
@@ -6679,7 +6679,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -6699,7 +6699,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "Until the end of your next turn, you and each ally in the burst gain resist 5 necrotic, and each enemy in the burst gain vulnerable 5 radiant.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The resistance and the vulnerability equal 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The resistance and the vulnerability equal 15.",
     "special": "You can use only one channel divinity power per encounter."
   },
@@ -6717,7 +6717,7 @@
     "keywords": [
       "Cold, Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier cold and radiant damage.",
@@ -6737,7 +6737,7 @@
     "keywords": [
       "Cold, Divine, Radiant"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "effect": "The next time each target hits or misses you or any of your allies with an attack before the end of its next turn, it takes cold and radiant damage equal to 5 + your Wisdom modifier."
   },
@@ -6755,7 +6755,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier radiant damage.",
@@ -6775,7 +6775,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier radiant damage.",
@@ -6795,7 +6795,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3[W] + Wisdom modifier radiant damage, and you push the target up to 3 squares.",
@@ -6815,7 +6815,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier radiant damage, and the target is dazed until the end of your next turn.",
@@ -6835,7 +6835,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -6855,7 +6855,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -6875,7 +6875,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "The target gains a +4 bonus to its next attack roll against an enemy before the end of your next turn."
   },
@@ -6893,7 +6893,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier thunder damage.",
@@ -6913,7 +6913,7 @@
     "keywords": [
       "Channel Divinity, Divine, Teleportation"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "requirement": "You must be adjacent to an enemy.",
     "target": "One ally in the burst",
     "effect": "You teleport the target to a square where it flanks an enemy adjacent to you. Until the end of your next turn, you and the target gain a +1 bonus to attack rolls against that enemy while you both flank it.",
@@ -6933,7 +6933,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage.",
@@ -6953,7 +6953,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "One ally flanking the target with you can spend a healing surge. Until the end of your next turn, you and that ally gain a +2 power bonus to attack rolls against enemies that you both flank.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
@@ -6973,7 +6973,7 @@
     "keywords": [
       "Divine, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "attack": "Wisdom vs. AC",
     "target": "One creature",
     "onHit": "2[W] + Wisdom modifier thunder damage, and the target falls prone.",
@@ -6993,7 +6993,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier radiant damage.",
@@ -7013,7 +7013,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage, and you push the target up to 2 squares and knock it prone.",
@@ -7033,7 +7033,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target can charge or make a basic attack as a free action. Until the end of your next turn, each target gains a power bonus to all defenses equal to your Constitution modifier."
   },
@@ -7051,7 +7051,7 @@
     "keywords": [
       "Channel Divinity, Divine"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One creature in the burst",
     "effect": "The next time the target misses with an attack roll before the end of your next turn, it can reroll that attack roll. It must use the new result, even if it is lower.",
     "special": "You can use only one channel divinity power per encounter."
@@ -7070,7 +7070,7 @@
     "keywords": [
       "Channel Divinity, Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One undead creature",
     "attack": "Strength vs. Will",
     "onHit": "Charisma modifier radiant damage. In addition, you push the secondary target a number of squares up to 3 + your Charisma modifier",
@@ -7093,7 +7093,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7114,7 +7114,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -7135,7 +7135,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7157,7 +7157,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -7178,7 +7178,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7200,7 +7200,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is dazed until the end of your next turn.",
@@ -7220,7 +7220,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -7241,7 +7241,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7263,7 +7263,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7285,7 +7285,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -7306,7 +7306,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7328,7 +7328,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage, and the target is dazed until the end of your next turn.",
@@ -7349,7 +7349,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -7370,7 +7370,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7392,7 +7392,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
@@ -7414,7 +7414,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -7435,7 +7435,7 @@
     "keywords": [
       "Channel Divinity, Divine, Psychic, Shadow"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You or one ally in the burst",
     "effect": "The target takes 5 psychic damage and can then make a saving throw with a +5 power bonus.",
     "special": "You can use only one channel divinity power per encounter."
@@ -7454,7 +7454,7 @@
     "keywords": [
       "Divine, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +2 power bonus to the next Intimidate check you make before the end of your next turn."
   },
   "Fell Strike": {
@@ -7471,7 +7471,7 @@
     "keywords": [
       "Divine, Fear, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "1[W] + Wisdom modifier damage, and the target falls prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -7491,7 +7491,7 @@
     "keywords": [
       "Divine, Fear, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1[W] + Wisdom modifier damage, and you can push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
@@ -7511,7 +7511,7 @@
     "keywords": [
       "Divine, Fear, Psychic, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and you can push the target 1 square. In addition, until the end of your next turn, the target takes 5 psychic damage the first time it willingly enters a square adjacent to you or any of your allies."
@@ -7530,7 +7530,7 @@
     "keywords": [
       "Divine, Fear, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One enemy",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and the target falls prone. Until the end of your next turn, the target provokes opportunity attacks whenever it stands up."
@@ -7549,7 +7549,7 @@
     "keywords": [
       "Conjuration, Divine, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier psychic damage.",
@@ -7569,7 +7569,7 @@
     "keywords": [
       "Divine, Fear, Psychic, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage. If the target ends its next turn adjacent to you or any of your allies, it takes psychic damage equal to your Wisdom modifier."
@@ -7588,7 +7588,7 @@
     "keywords": [
       "Divine, Fear, Shadow, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier damage, and the target falls prone. Until the end of your next turn, the target provokes opportunity attacks whenever it stands up.",
@@ -7608,7 +7608,7 @@
     "keywords": [
       "Divine, Psychic, Weapon, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1[W] + Wisdom modifier damage plus 2d8 psychic damage.",
@@ -7628,7 +7628,7 @@
     "keywords": [
       "Divine, Fear, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "3[W] + Wisdom modifier damage, and the target is immobilized until the end of your next turn and falls prone. Until the end of your next turn, the target provokes opportunity attacks whenever it stands up."
@@ -7647,7 +7647,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Poison"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Strength or Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier necrotic damage, and the target takes ongoing 5 poison damage and grants combat advantage (save ends both).",

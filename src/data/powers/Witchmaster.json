@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Psychic, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each enemy adjacent to the target takes psychic damage equal to your Charisma modifier.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane, Weapon, Zone"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -53,7 +53,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally misses on an opportunity attack",
     "target": "You or one ally you can see",
     "effect": "The target gains an action point. This action point must be spent before the end of the encounter or it is lost. Using this action point does not count against the normal limit on action point expenditure."

@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Implement, Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares misses you with an attack",
     "target": "The triggering attacker and each enemy adjacent to it",
     "attack": "Charisma vs. Reflex",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane, Implement, Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "Before making the following attack, choose 1–10 or 11–20. If the result on the die for the attack roll is within the range you chose, this attack deals 2d12 extra damage, even on a miss.",
     "attack": "Charisma vs. Reflex",
@@ -54,7 +54,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You, an ally, or an enemy in the burst makes an attack roll, skill check, or saving throw.",
     "effect": "Roll 1d6, and either add or subtract the result from the triggering roll."
   }

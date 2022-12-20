@@ -8,14 +8,15 @@ const {name, flavorTxt, height, weight,
   femNames, mascNames, physTxt, tipsTxt
 } = Astro.props.data
 
+console.log(name);
 let uniqueEntries = Object.entries(uniqueFeatures);
 
 ---
 <!DOCTYPE html>
 <html lang="en">
   <Head name={name}/>
-  <div class="p-3">
-    <h1 class="name">{name}</h1>
+  <div class="p-3 bg-offwhite">
+    <h1 class="name text-ivory">{name}</h1>
     <div class="mb-6 px-2 leading-relaxed">{flavorTxt}</div>
     <blockquote class="bg-gainsboro mb-6 pb-2 shadow-sm">
       <div class="font-bold text-lg m-0 bg-pgl-red text-ivory px-2 py-1 mb-2">RACIAL TRAITS</div>

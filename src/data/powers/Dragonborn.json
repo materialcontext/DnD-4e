@@ -13,7 +13,7 @@
     "keywords": [
       "Varies"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
     "onHit": "1d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Constitution modifier damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Fear"
     ],
-    "range": "Close burst 5 (increase to close burst 10 at 21st level)<",
+    "range": "Close burst 5 (increase to close burst 10 at 21st level)",
     "target": "Each enemy in the burst",
     "attack": "Strength +2 vs. Will or Charisma +2 vs. Will<br/>Level 11: Strength + 4 vs. Will or Charisma + 4 vs. Will.<br/>Level 21: Strength + 6 vs. Will or Charisma + 6 vs. Will.",
     "onHit": "The target takes a -2 penalty to attack rolls and grants combat advantage until the end of your next turn."
@@ -52,7 +52,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You charge an enemy.</p><p class=\"flavor\">Effect: Your movement made as part of the charge does not provoke opportunity attacks.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You charge an enemy.",
     "effect": "Your movement made as part of the charge does not provoke opportunity attacks."
   },
@@ -70,7 +70,7 @@
     "keywords": [
       "Fear"
     ],
-    "range": "Close burst 5 (increases to close burst 10 at 21st level)<",
+    "range": "Close burst 5 (increases to close burst 10 at 21st level)",
     "target": "One enemy you can see in the burst that is affected by your dragonfear",
     "effect": "The target is dazed (save ends)."
   },
@@ -88,7 +88,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage of a type that matches the damage type you chose for your dragon breath power.</p><p class=\"flavor\">Effect: You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage of a type that matches the damage type you chose for your dragon breath power.",
     "effect": "You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter."
   },
@@ -106,7 +106,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.</p><p class=\"flavor\">Effect: You use dragonfear even if it is already expended.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.",
     "effect": "You use dragonfear even if it is already expended."
   }

@@ -13,7 +13,7 @@
     "keywords": [
       "Charm"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You hit an enemy with an attack.",
     "effect": "You slide the enemy up to 3 squares, but not into hindering terrain. The enemy grants combat advantage until the end of your next turn."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You jump with a +10 power bonus to the Athletics check. When you make this jump, you are always considered to have a running start. The distance you jump cannot exceed your speed.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You jump with a +10 power bonus to the Athletics check. When you make this jump, you are always considered to have a running start. The distance you jump cannot exceed your speed."
   },
   "Bending the Balance": {
@@ -48,7 +48,7 @@
     "keywords": [
       "&nbsp;&nbsp;Ranged 10</p><p class=\"powerstat\">Trigger: A creature within 10 squares of you regains hit points or takes damage from an attack that hits it.</p><p class=\"powerstat\">Target: The triggering creature</p><p class=\"flavor\">Effect: The target either regains 2d6 additional hit points or takes 2d6 extra damage.</p>"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "A creature within 10 squares of you regains hit points or takes damage from an attack that hits it.",
     "target": "The triggering creature",
     "effect": "The target either regains 2d6 additional hit points or takes 2d6 extra damage."
@@ -67,7 +67,7 @@
     "keywords": [
       "Aura, Charm"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be playing a musical instrument.",
     "effect": "You activate an aura 5 that lasts until the end of the encounter. Any enemy must roll twice when making saving throws against charm effects while in the aura, using the lower result. The aura is deactivated if you are not playing your musical instrument at the end of your turn, but you can reactivate the aura as a minor action."
   },
@@ -85,7 +85,7 @@
     "keywords": [
       "Charm"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you drops below 1 hit point.",
     "target": "The triggering enemy",
     "effect": "The target instead has 1 hit point, and it is dominated by you until the end of the encounter. The target cannot regain hit points, and a missed attack cannot damage it. If the target still has 1 hit point at the end of the encounter, it drops to 0 hit points. You choose whether it dies or is unconscious."
@@ -104,7 +104,7 @@
     "keywords": [
       "Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You transform into the form of a satyr of the night, and you remain in that form until the end of the encounter. While in this form, you have partial concealment, and when you would normally have partial concealment because of dim light, you are instead invisible. Additionally, you take only half damage from necrotic attacks."
   }
 }

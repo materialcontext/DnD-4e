@@ -1,0 +1,60 @@
+{
+  "Deepdark Strike": {
+    "id": "'10020",
+    "action": "Standard",
+    "powerClass": "Underchasm Darkwatcher",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Deepdark Strike",
+    "type": "Darkwatcher",
+    "sourceRef": "Dragon Magazine 379",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeepdark Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10020\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Underchasm Darkwatcher Attack 11</span>Deepdark Strike</h1><p class=\\\"flavor\\\"><i>Your weapon is wreathed in an impenetrable blackness, which darkens your enemy’s eyes when you strike.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Constitution modifier damage, and the target is blinded until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your weapon is wreathed in an impenetrable blackness, which darkens your enemy’s eyes when you strike.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is blinded until the end of your next turn."
+  },
+  "Form of the Umber Hulk": {
+    "id": "'10021",
+    "action": "Minor",
+    "powerClass": "Underchasm Darkwatcher",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Form of the Umber Hulk",
+    "type": "Darkwatcher",
+    "sourceRef": "Dragon Magazine 379",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForm of the Umber Hulk\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10021\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Underchasm Darkwatcher Attack 20</span>Form of the Umber Hulk</h1><p class=\\\"flavor\\\"><i>Your eyes take on an insectlike appearance, you sprout antennae from atop your head, and a pair of sharp mandibles grows out from your mouth. At the moment you choose, you can gaze upon your enemies and sow confusion in their ranks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the guardian form of the umber hulk. While you are in this form, you gain a +2 power bonus to AC and Fortitude defense. In addition, you also gain tremorsense 5 and a burrow speed of 2.<br/>Once during this encounter, you can use the Form of the Umber Hulk Attack power while you are in this form.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Form of the Umber Hulk Attack</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution or Charisma vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: Target slides 1 square and is dazed (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Target slides 1 square.</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Form of the Umber Hulk must be active in order to use this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your eyes take on an insectlike appearance, you sprout antennae from atop your head, and a pair of sharp mandibles grows out from your mouth. At the moment you choose, you can gaze upon your enemies and sow confusion in their ranks.",
+    "keywords": [
+      "Polymorph, Primal"
+    ],
+    "range": "Personal",
+    "effect": "You assume the guardian form of the umber hulk. While you are in this form, you gain a +2 power bonus to AC and Fortitude defense. In addition, you also gain tremorsense 5 and a burrow speed of 2.<br/>Once during this encounter, you can use the Form of the Umber Hulk Attack power while you are in this form.",
+    "target": "Each enemy in the blast",
+    "attack": "Constitution or Charisma vs. Will",
+    "onHit": "Target slides 1 square and is dazed (save ends).",
+    "onMiss": "Target slides 1 square.",
+    "requirement": "The power Form of the Umber Hulk must be active in order to use this power."
+  },
+  "Cursefire Light": {
+    "id": "'10023",
+    "action": "Minor",
+    "powerClass": "Underchasm Darkwatcher",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Cursefire Light",
+    "type": "Darkwatcher",
+    "sourceRef": "Dragon Magazine 379",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCursefire Light\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10023\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Underchasm Darkwatcher Utility 12</span>Cursefire Light</h1><p class=\\\"flavor\\\"><i>Your body is ablaze in an eerie green flame that feeds off your curses, bolstering you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, whenever an enemy cursed by you hits you with an attack, you can choose to gain 5 temporary hit points or make a saving throw.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/379\\\" target=\\\"_new\\\">Dragon Magazine 379</a>, page(s) 71.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your body is ablaze in an eerie green flame that feeds off your curses, bolstering you.",
+    "keywords": [
+      "Arcane, Stance"
+    ],
+    "range": "Personal",
+    "effect": "Until the stance ends, whenever an enemy cursed by you hits you with an attack, you can choose to gain 5 temporary hit points or make a saving throw."
+  }
+}

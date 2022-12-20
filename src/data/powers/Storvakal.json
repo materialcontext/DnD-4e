@@ -13,7 +13,7 @@
     "keywords": [
       "Psionic, Psychic, Teleportation"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the burst",
     "attack": "Your highest ability modifier + 4 vs. Will<br/>Level 21: Your highest ability modifier + 6 vs. Will",
     "onHit": "3d10 + your highest ability modifier psychic damage, and you teleport the target a number of squares equal to 1 + your Wisdom modifier.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Psionic, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Your highest ability modifier + 6 vs. Fortitude",
     "onHit": "3d10 + your highest ability modifier psychic damage, and the target loses all resistances and immunities (save ends). This damage ignores resist psychic and insubstantial.",
@@ -54,7 +54,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy misses you with a ranged attack",
     "effect": "The attacking creature rerolls the attack against a creature of your choice within 5 squares of you. You then teleport up to 5 squares plus a number of squares equal to your Wisdom modifier, as long as you arrive in a square within 5 squares of the triggering enemy."
   }

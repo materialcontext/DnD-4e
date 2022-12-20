@@ -1,0 +1,19 @@
+{
+  "Trick of Knowledge": {
+    "id": "'6932",
+    "action": "Minor",
+    "powerClass": "Sage of Ages",
+    "frequency": "Encounter",
+    "level": "26",
+    "name": "Trick of Knowledge",
+    "type": "of",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTrick of Knowledge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=6932\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sage of Ages Utility 26</span>Trick of Knowledge</h1><p class=\\\"flavor\\\"><i>Your vast learning grants you different insightful advantages in different situations.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You make an Arcana check and gain a benefit based on your check result until the end of the encounter. <br/>30 or lower: No effect<br/>31–35: +5 bonus to saving throws<br/>36–40: +2 bonus to all defenses<br/>41–45: +2 bonus to attack rolls with arcane powers<br/>46–50: Make saving throws at the start of your turn instead of the end of your turn<br/>51–55: Pick two benefits you can gain from a roll of 31 through 50<br/>56–60: Pick three benefits you can gain from a roll of 31 through 50<br/>61 or higher: Gain all four benefits you can gain from a roll of 31 through 50</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 150.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your vast learning grants you different insightful advantages in different situations.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal",
+    "effect": "You make an Arcana check and gain a benefit based on your check result until the end of the encounter. <br/>30 or lower: No effect<br/>31–35: +5 bonus to saving throws<br/>36–40: +2 bonus to all defenses<br/>41–45: +2 bonus to attack rolls with arcane powers<br/>46–50: Make saving throws at the start of your turn instead of the end of your turn<br/>51–55: Pick two benefits you can gain from a roll of 31 through 50<br/>56–60: Pick three benefits you can gain from a roll of 31 through 50<br/>61 or higher: Gain all four benefits you can gain from a roll of 31 through 50"
+  }
+}

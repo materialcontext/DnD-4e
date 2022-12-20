@@ -13,7 +13,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally spends an action point to take an extra action",
     "effect": "You gain an action point that you must spend before the end of your next turn."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An adjacent enemy shifts or moves",
     "target": "The enemy",
     "attack": "Strength vs. AC",
@@ -51,7 +51,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "special": "You can spend a healing surge before attacking.",
     "primaryTarget": "One creature",

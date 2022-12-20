@@ -13,7 +13,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "special": "You can shift 2 squares before making this attack.",
     "target": "One creature",
     "attack": "Strength vs. AC or Dexterity vs. AC",
@@ -33,7 +33,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are grabbed.</p><p class=\"flavor\">Effect: You escape the grab and shift 2 squares.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are grabbed.",
     "effect": "You escape the grab and shift 2 squares."
   },
@@ -51,7 +51,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC or Dexterity vs. AC",
     "special": "When using this power, you score a critical hit on a natural attack roll of 18 or higher.",

@@ -13,7 +13,7 @@
     "keywords": [
       "Psionic, Psychic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy leaves a square that is adjacent to you or one of your allies",
     "target": "The triggering enemy",
     "attack": "Intelligence, Wisdom, or Charisma + 6 vs. Fortitude<br/>Level 21: +9.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Psionic, Psychic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy leaves a square that is adjacent to you or one of your allies",
     "target": "The triggering enemy",
     "attack": "Intelligence, Wisdom, or Charisma + 6 vs. Fortitude<br/>Level 21: +9.",
@@ -55,7 +55,7 @@
     "keywords": [
       "Teleportation"
     ],
-    "range": "Area wall 4 within 10 squares<",
+    "range": "Area wall 4 within 10 squares",
     "effect": "The area of the wall becomes your chosen threshold that lasts until the end of your next turn. Any enemy that enters the area of the wall is immobilized (save ends). Once before the end of your next turn, as a move action you can teleport to any square of the wall, or any square adjacent to the wall, even if you do not have line of sight or line of effect to the square to which you are teleporting."
   }
 }

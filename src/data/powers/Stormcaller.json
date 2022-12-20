@@ -13,7 +13,7 @@
     "keywords": [
       "Implement, Lightning, Primal"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "One or two creatures in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier lightning damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Implement, Primal, Spirit, Zone"
     ],
-    "range": "Close burst spirit 2<",
+    "range": "Close burst spirit 2",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d8 + Wisdom modifier damage, and the target falls prone.",
@@ -54,7 +54,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 2 within 5<",
+    "range": "Area burst 2 within 5",
     "effect": "The burst creates a zone that lasts until the end of the encounter. Each ally within the zone gains concealment. Each enemy that enters the zone or starts its turn there gains vulnerable 5 lightning and vulnerable 5 thunder."
   }
 }

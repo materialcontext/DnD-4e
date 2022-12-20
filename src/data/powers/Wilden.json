@@ -13,7 +13,7 @@
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a close or area attack",
     "effect": "You teleport 3 squares. Choose a single enemy you hit with the attack. You and one ally you can see gain combat advantage against that enemy until the end of your next turn."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: A bloodied enemy attacks you or your ally adjacent to you</p><p class=\"flavor\">Effect: You either make a melee basic attack against the triggering enemy or charge it. If your attack hits, the enemy is also dazed until the end of your next turn.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A bloodied enemy attacks you or your ally adjacent to you",
     "effect": "You either make a melee basic attack against the triggering enemy or charge it. If your attack hits, the enemy is also dazed until the end of your next turn."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy within 2 squares of you moves on its turn</p><p class=\"flavor\">Effect: You shift 3 squares. Until the end of your next turn, you deal 1d6 extra damage to the triggering enemy when you hit it, and you don’t take the –2 penalty to attack rolls for attacking it when it has cover or concealment.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy within 2 squares of you moves on its turn",
     "effect": "You shift 3 squares. Until the end of your next turn, you deal 1d6 extra damage to the triggering enemy when you hit it, and you don’t take the –2 penalty to attack rolls for attacking it when it has cover or concealment."
   }

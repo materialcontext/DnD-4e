@@ -1,0 +1,58 @@
+{
+  "Worldly Strike": {
+    "id": "'4697",
+    "action": "Standard",
+    "powerClass": "Horizon Walker",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Worldly Strike",
+    "type": "Walker",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWorldly Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4697\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Horizon Walker Attack 11</span>Worldly Strike</h1><p class=\\\"flavor\\\"><i>You put the arcane energy of the earth into your strike, strengthening your blow against otherworldly creatures.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC (melee) or Dexterity vs. AC (ranged)</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged). If the target has an origin other than natural, the attack deals extra damage equal to your Wisdom modifier, and the target is dazed until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You put the arcane energy of the earth into your strike, strengthening your blow against otherworldly creatures.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
+    "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged). If the target has an origin other than natural, the attack deals extra damage equal to your Wisdom modifier, and the target is dazed until the start of your next turn."
+  },
+  "Fey Strider": {
+    "id": "'4698",
+    "action": "Move",
+    "powerClass": "Horizon Walker",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Fey Strider",
+    "type": "Walker",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFey Strider\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4698\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Horizon Walker Utility 12</span>Fey Strider</h1><p class=\\\"flavor\\\"><i>The piece of the Feywild you carry in your heart allows you to transcend space for a moment.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Teleportation</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can teleport a number of squares equal to 3 + your Wisdom modifier. If you’re in the Feywild, you can teleport an additional 3 squares.</p><p class=\\\"powerstat\\\"><b>Special</b>: If you have a beast companion and it is adjacent to you, it can teleport with you when you use this power.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "The piece of the Feywild you carry in your heart allows you to transcend space for a moment.",
+    "keywords": [
+      "Arcane, Teleportation"
+    ],
+    "range": "Personal",
+    "effect": "You can teleport a number of squares equal to 3 + your Wisdom modifier. If you’re in the Feywild, you can teleport an additional 3 squares.",
+    "special": "If you have a beast companion and it is adjacent to you, it can teleport with you when you use this power."
+  },
+  "Elemental Chaos Smite": {
+    "id": "'4699",
+    "action": "Standard",
+    "powerClass": "Horizon Walker",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Elemental Chaos Smite",
+    "type": "Walker",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Chaos Smite\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4699\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Horizon Walker Attack 20</span>Elemental Chaos Smite</h1><p class=\\\"flavor\\\"><i>Elemental energy swirls within you, and you unleash it as you strike an enemy.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b> ; <b>Acid</b>, <b>Cold</b>, <b>Fire</b>, <b>Radiant</b> or <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weaopn</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC (melee) or Dexterity vs. AC (ranged)</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Strength modifier damage (melee) or 3[W] + Dexterity modifier damage (ranged). The damage type is your choice of acid, cold, fire, radiant, or thunder, and the target takes ongoing 10 damage of that damage type (save ends). If you’re in the Elemental Chaos, the target instead takes ongoing 20 damage of that damage type (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and no ongoing damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 64.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Elemental energy swirls within you, and you unleash it as you strike an enemy.",
+    "keywords": [
+      "Arcane, Weapon ; Acid, Cold, Fire, Radiant or Thunder"
+    ],
+    "range": "Melee or Ranged weaopn",
+    "target": "One creature",
+    "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
+    "onHit": "3[W] + Strength modifier damage (melee) or 3[W] + Dexterity modifier damage (ranged). The damage type is your choice of acid, cold, fire, radiant, or thunder, and the target takes ongoing 10 damage of that damage type (save ends). If you’re in the Elemental Chaos, the target instead takes ongoing 20 damage of that damage type (save ends).",
+    "onMiss": "Half damage, and no ongoing damage."
+  }
+}

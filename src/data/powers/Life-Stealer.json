@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "3d8 + Constitution modifier fire and necrotic damage. If the target creature has the same origin as a life spark you possess, you can expend a single life spark matching that origin to deal an extra 10 damage to the target."
@@ -32,7 +32,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "Expend a life spark you possess. Place the creature from which you received that life spark back in the encounter within the power’s range. It has 10 hit points and acts on your next turn with a full set of actions as an independent creature that you control. The creature can do nothing except make basic attacks and move. It drops to 0 hit points again, dies, and fades away at the end of your next turn."
   },
   "Soultheft": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "targets": "One, two, or three creatures",
     "attack": "Constitution vs. Fortitude, one attack per target",
     "onHit": "4d8 + Constitution modifier necrotic damage, and you gain a life spark from any target that drops to 0 hit points or fewer as a result of this attack, even if the target isn’t cursed by you.",

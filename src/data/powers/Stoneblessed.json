@@ -13,7 +13,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier + Constitution modifier damage."
@@ -32,7 +32,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of your next turn, you have threatening reach.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you have threatening reach."
   },
   "Avalanche Assault": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "4[W] + Strength modifier damage.",

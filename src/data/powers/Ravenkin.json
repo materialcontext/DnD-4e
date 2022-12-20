@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy within 5 squares of you targets you with a ranged attack.",
     "target": "The triggering enemy in the burst",
     "attack": "Wisdom or Charisma vs. Reflex",
@@ -34,7 +34,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Necrotic, Shadow"
     ],
-    "range": "Close burst 3 centered on you or your shadow raven<",
+    "range": "Close burst 3 centered on you or your shadow raven",
     "target": "Each enemy in the burst",
     "attack": "Wisdom or Charisma vs. Reflex. If the target is bloodied or undead, you gain a +2 power bonus to the attack roll.",
     "onHit": "2d8 + Wisdom or Charisma modifier cold and necrotic damage, and the target is immobilized (save ends).",
@@ -55,7 +55,7 @@
     "keywords": [
       "Arcane, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "Your shadow raven familiar must be in active mode.",
     "effect": "One creature adjacent to your shadow raven familiar grants combat advantage until the end of your next turn."
   }

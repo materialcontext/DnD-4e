@@ -13,7 +13,7 @@
     "keywords": [
       "Full Discipline, Implement, Necrotic, Psionic, Teleportation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One enemy",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d6 + Dexterity modifier necrotic damage, and the target is weakened until the end of your next turn.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Psionic, Stance, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you have concealment. When any enemy misses you with a melee attack, you can use a free action to teleport to a square adjacent to that enemy and gain combat advantage against it until the end of your next turn."
   },
   "Vengeful Ghost": {
@@ -50,7 +50,7 @@
     "keywords": [
       "Implement, Psionic, Teleportation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One enemy granting combat advantage to you",
     "attack": "Dexterity vs. Will",
     "onHit": "2d10 + Dexterity modifier damage, and the target is stunned (save ends).",

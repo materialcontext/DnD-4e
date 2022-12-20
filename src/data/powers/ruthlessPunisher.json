@@ -1,0 +1,60 @@
+{
+  "Crippling Shot": {
+    "id": "'4703",
+    "action": "Standard",
+    "powerClass": "Ruthless Punisher",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Crippling Shot",
+    "type": "Punisher",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCrippling Shot\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4703\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Ruthless Punisher Attack 11</span>Crippling Shot</h1><p class=\\\"flavor\\\"><i>A blow to the vitals causes your victim to stagger and whimper in pain.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Reflex (melee) or Dexterity vs. Reflex (ranged)</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage (melee) or 1[W] + Dexterity modifier damage (ranged), and the target is slowed until the end of your next turn. If the target is a humanoid, it is also weakened until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "A blow to the vitals causes your victim to stagger and whimper in pain.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "target": "One creature",
+    "attack": "Strength vs. Reflex (melee) or Dexterity vs. Reflex (ranged)",
+    "onHit": "1[W] + Strength modifier damage (melee) or 1[W] + Dexterity modifier damage (ranged), and the target is slowed until the end of your next turn. If the target is a humanoid, it is also weakened until the end of your next turn."
+  },
+  "Named Dread": {
+    "id": "'4704",
+    "action": "Minor",
+    "powerClass": "Ruthless Punisher",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Named Dread",
+    "type": "Punisher",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNamed Dread\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4704\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Ruthless Punisher Utility 12</span>Named Dread</h1><p class=\\\"flavor\\\"><i>Your name is terror among your humanoid foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fear</b>, <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: Each humanoid enemy in the burst that can hear you</p><p class=\\\"flavor\\\"><b>Effect</b>: You speak your name, and the targets take a –2 penalty to attack rolls against you until the end of the encounter. If you’re trained in Intimidate, you also gain combat advantage against the targets until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your name is terror among your humanoid foes.",
+    "keywords": [
+      "Fear, Martial"
+    ],
+    "range": "Close burst 10",
+    "target": "Each humanoid enemy in the burst that can hear you",
+    "effect": "You speak your name, and the targets take a –2 penalty to attack rolls against you until the end of the encounter. If you’re trained in Intimidate, you also gain combat advantage against the targets until the end of your next turn."
+  },
+  "Bleed Away": {
+    "id": "'4705",
+    "action": "Standard",
+    "powerClass": "Ruthless Punisher",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Bleed Away",
+    "type": "Punisher",
+    "sourceRef": "Martial Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBleed Away\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4705\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Ruthless Punisher Attack 20</span>Bleed Away</h1><p class=\\\"flavor\\\"><i>If your adversary fails to give ground under your assault, your wounding blows feed the earth with blood.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. Reflex (melee) or Dexterity vs. Reflex (ranged), three attacks</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage (melee) or 1[W] + Dexterity modifier damage (ranged) per attack. You slide the target 2 squares and can shift 2 squares after each hit.</p><p class=\\\"powerstat\\\"><b>Miss</b>: No damage, and you slide the target 1 square and can shift 1 square after each miss.</p><p class=\\\"flavor\\\"><b>Effect</b>: The target can negate each slide as a free action, but it then takes ongoing 10 damage (save ends) per square of forced movement negated.</p><br/>Addition (2/26/2009)<br/>In the Effect line, add “(save ends)” after “ongoing 10 damage”.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217897200\\\" target=\\\"_new\\\">Martial Power</a>, page(s) 66.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "If your adversary fails to give ground under your assault, your wounding blows feed the earth with blood.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "target": "One creature",
+    "attack": "Strength vs. Reflex (melee) or Dexterity vs. Reflex (ranged), three attacks",
+    "onHit": "1[W] + Strength modifier damage (melee) or 1[W] + Dexterity modifier damage (ranged) per attack. You slide the target 2 squares and can shift 2 squares after each hit.",
+    "onMiss": "No damage, and you slide the target 1 square and can shift 1 square after each miss.",
+    "effect": "The target can negate each slide as a free action, but it then takes ongoing 10 damage (save ends) per square of forced movement negated."
+  }
+}

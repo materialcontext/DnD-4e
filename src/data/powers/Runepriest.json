@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Healing, Runic"
     ],
-    "range": "Close burst 5 (10 at 11th level, 15 at 21st level)<",
+    "range": "Close burst 5 (10 at 11th level, 15 at 21st level)",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge.<br/>Level 6: The target regains 1d6 additional hit points.<br/>Level 11: The target regains 2d6 additional hit points.<br/>Level 16: The target regains 3d6 additional hit points.<br/>Level 21: The target regains 4d6 additional hit points.<br/>Level 26: The target regains 5d6 additional hit points.",
     "runeOfDestruction": "You and each ally in the burst gain a +2 power bonus to damage rolls (+4 power bonus at 11th level and +6 power bonus at 21st level) until the end of your next turn.",
@@ -34,7 +34,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "Strength modifier damage, and the target is immobilized until the end of your next turn or until you aren’t adjacent to it.",
@@ -55,7 +55,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -76,7 +76,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -97,7 +97,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -118,7 +118,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier damage. Until the start of your next turn, you have resist 5 to all damage against the target’s attacks.",
@@ -139,7 +139,7 @@
     "keywords": [
       "Divine, Runic, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier thunder damage.",
@@ -160,7 +160,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. Your allies gain a +2 bonus to damage rolls against the target until the end of your next turn.",
@@ -181,7 +181,7 @@
     "keywords": [
       "Divine, Fire, Healing, Runic, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier fire damage.",
@@ -202,7 +202,7 @@
     "keywords": [
       "Divine, Fire, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier fire and radiant damage, and the target is blinded until the end of your next turn.",
@@ -223,7 +223,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed and cannot shift (save ends both).",
@@ -244,7 +244,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage.",
@@ -266,7 +266,7 @@
     "keywords": [
       "Divine, Varies, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier necrotic or radiant damage.",
@@ -287,7 +287,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst creates a zone that lasts until the end of your next turn. You and your allies gain a +2 power bonus to attack rolls while within the zone.",
     "sustainMinor": "The zone persists."
   },
@@ -305,7 +305,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "Until the end of your next turn, the target gains a +5 power bonus to his or her next untrained skill check or a +2 power bonus to his or her next trained skill check."
   },
@@ -323,7 +323,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One bloodied ally",
     "effect": "Until the end of your next turn, the target gains a +5 power bonus to all defenses."
   },
@@ -341,7 +341,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target loses a healing surge. One or two allies within 5 squares of the target regain hit points as if they had each spent a healing surge. The target and each ally who regained hit points gain a +5 power bonus to AC until the end of your next turn."
   },
@@ -359,7 +359,7 @@
     "keywords": [
       "Divine, Radiant, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier radiant damage, and one ally adjacent to the target becomes invisible to it until the end of your next turn.",
@@ -380,7 +380,7 @@
     "keywords": [
       "Divine, Healing, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -401,7 +401,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -422,7 +422,7 @@
     "keywords": [
       "Divine, Radiant, Runic, Weapon"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy makes an attack roll against your ally",
     "target": "The triggering enemy in the burst",
     "attack": "Strength vs. Fortitude",
@@ -444,7 +444,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier radiant damage.",
@@ -466,7 +466,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage, and the target grants combat advantage when targeted by area attacks and ranged attacks and has vulnerable 5 to all damage from area attacks and ranged attacks (save ends both).",
@@ -488,7 +488,7 @@
     "keywords": [
       "Divine, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier fire damage.",
@@ -509,7 +509,7 @@
     "keywords": [
       "Divine, Varies, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier necrotic or radiant damage.",
@@ -530,7 +530,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "Until the end of the encounter, whenever the target takes damage, you can use an immediate interrupt to take the damage in the target’s place."
   },
@@ -548,7 +548,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +5 power bonus to Diplomacy checks and Insight checks until the end of your next turn. The effect ends if any target makes an attack."
   },
@@ -566,7 +566,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged sight<",
+    "range": "Ranged sight",
     "trigger": "You roll initiative",
     "target": "You and each ally",
     "effect": "Each target gains a +10 bonus to his or her initiative check."
@@ -585,7 +585,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One ally",
     "effect": "The target gains a +2 power bonus to all defenses until the end of your next turn or until he or she is no longer adjacent to you."
   },
@@ -603,7 +603,7 @@
     "keywords": [
       "Divine, Lightning, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst other than the primary target",
     "attack": "Strength vs. Reflex",
     "onHit": "Strength modifier lightning damage.",
@@ -626,7 +626,7 @@
     "keywords": [
       "Divine, Fire, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier fire damage.",
@@ -647,7 +647,7 @@
     "keywords": [
       "Divine, Fear, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage.",
@@ -668,7 +668,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage.",
@@ -689,7 +689,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -710,7 +710,7 @@
     "keywords": [
       "Divine, Varies, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. Will",
     "onHit": "The secondary target is dazed (save ends).",
@@ -733,7 +733,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -754,7 +754,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Fortitude",
     "onHit": "1[W] + Strength modifier radiant damage, and you push the target 4 squares.",
@@ -776,7 +776,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "Until the end of the encounter, the target gains 5 temporary hit points whenever he or she hits with an attack."
   },
@@ -794,7 +794,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "The targets don’t grant combat advantage until the end of your next turn."
   },
@@ -812,7 +812,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Choose a skill. Until the end of the encounter, whenever each target makes a check with that skill, he or she uses the highest bonus for that skill from among all the targets."
   },
@@ -830,7 +830,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally",
     "effect": "You slide the target 4 squares.",
     "special": "You can use this power only once per round."
@@ -849,7 +849,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you mark the target until the end of your next turn.",
@@ -871,7 +871,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage until the end of your next turn.",
@@ -892,7 +892,7 @@
     "keywords": [
       "Divine, Radiant, Runic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier radiant damage, and you slide the target 1 square.",
@@ -913,7 +913,7 @@
     "keywords": [
       "Divine, Runic, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier thunder damage.",
@@ -934,7 +934,7 @@
     "keywords": [
       "Divine, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier lightning damage.",
@@ -955,7 +955,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "1[W] damage.",
@@ -978,7 +978,7 @@
     "keywords": [
       "Divine, Weapon, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1000,7 +1000,7 @@
     "keywords": [
       "Divine, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1021,7 +1021,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Two allies in the burst or you and one ally in the burst",
     "effect": "Each target gains resist 5 to all damage until the end of your next turn. In addition, each target can spend a healing surge."
   },
@@ -1039,7 +1039,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target regains hit points as if he or she had spent a healing surge and gains a +4 power bonus to all defenses until the end of your next turn."
   },
@@ -1057,7 +1057,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +5 power bonus to Perception checks until the end of the encounter."
   },
@@ -1075,7 +1075,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "Choose up to four unoccupied squares in the burst. Until the end of your next turn, you and your allies don’t provoke opportunity attacks when leaving those squares."
   },
   "Rune of the Astral Phalanx": {
@@ -1092,7 +1092,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and each ally adjacent to the target can make a melee basic attack against it as a free action.",
@@ -1113,7 +1113,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push each enemy within 3 squares of the target 3 squares away from it.",
@@ -1134,7 +1134,7 @@
     "keywords": [
       "Divine, Runic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed until the end of your next turn.",
@@ -1155,7 +1155,7 @@
     "keywords": [
       "Divine, Healing, Runic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One or two allies in the burst",
     "effect": "Each target can make a basic attack as a free action. If a target’s attack hits, he or she can also spend a healing surge and regain 2d10 additional hit points.",
     "runeOfDestruction": "The basic attacks each deal extra damage equal to your Constitution modifier.",
@@ -1175,7 +1175,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1196,7 +1196,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1219,7 +1219,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1240,7 +1240,7 @@
     "keywords": [
       "Divine, Radiant, Weapon, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of your next turn. You and your allies have cover while within the zone. While the zone persists, you can use the Warding Light Attack power, using the burst’s origin square as the attack’s origin square.",
     "sustainMinor": "The zone persists.",
     "requirement": "The power Rune of Warding Light must be active in order to use this power.",
@@ -1263,7 +1263,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, the dying condition doesn’t cause the targets to fall unconscious. Each target instead falls unconscious when he or she fails a death saving throw."
   },
@@ -1281,7 +1281,7 @@
     "keywords": [
       "Divine, Healing, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts until the end of your next turn. While within the zone, you and your allies have regeneration 5 while bloodied. While within the zone, your enemies have vulnerable 5 to all damage.",
     "sustainMinor": "The zone persists."
   },
@@ -1299,7 +1299,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target gains temporary hit points equal to his or her current hit point total and can take a standard action as a free action."
   },
@@ -1317,7 +1317,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each bloodied ally in the burst",
     "effect": "You slide each target 5 squares. Until the end of your next turn, each target gains a power bonus to all defenses equal to your Wisdom modifier."
   },
@@ -1335,7 +1335,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1356,7 +1356,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "Three of your allies can each make a basic attack against the target as a free action once during each of their next turns.",
@@ -1377,7 +1377,7 @@
     "keywords": [
       "Divine, Radiant, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier radiant damage.",
@@ -1398,7 +1398,7 @@
     "keywords": [
       "Divine, Fear, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1419,7 +1419,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -1440,7 +1440,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -1461,7 +1461,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "The target is stunned (save ends).",
@@ -1482,7 +1482,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Reflex",
     "onHit": "4[W] + Strength modifier damage, and the target doesn’t benefit from resistances or immunities until the end of the encounter. In addition, the target takes a -10 penalty to damage rolls that deal acid, cold, fire, lightning, or thunder damage (save ends).",
@@ -1502,7 +1502,7 @@
     "keywords": [
       "Divine, Radiant, Runic, Weapon, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "Before the attack, the burst creates a zone that lasts until the end of your next turn.",
     "target": "One, two, or three enemies in the burst",
     "attack": "Strength vs. Reflex",
@@ -1524,7 +1524,7 @@
     "keywords": [
       "Divine, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1545,7 +1545,7 @@
     "keywords": [
       "Divine, Runic, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier thunder damage.",
@@ -1566,7 +1566,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier radiant damage, and each ally within 5 squares of you can spend a healing surge.",
@@ -1587,7 +1587,7 @@
     "keywords": [
       "Divine, Varies, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier necrotic or radiant damage.",
@@ -1608,7 +1608,7 @@
     "keywords": [
       "Divine, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage, and three allies you can see regain all their hit points.",
@@ -1628,7 +1628,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "5[W] + Strength modifier damage, and the target cannot attack (save ends).",
@@ -1648,7 +1648,7 @@
     "keywords": [
       "Divine, Fear, Runic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you can push the target 1 square.",
@@ -1670,7 +1670,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target regains hit points equal to his or her healing surge value. In addition, the target gains a +2 power bonus to saving throws until the end of his or her next turn."
   },
@@ -1688,7 +1688,7 @@
     "keywords": [
       "Divine, Lightning, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1709,7 +1709,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge but regain no hit points. Instead, you create a palm-sized protective scroll that lasts until it is expended or until the end of your next extended rest. A creature carrying the scroll can use a minor action to expend the scroll and regain hit points equal to your healing surge value. The creature also gains a +5 power bonus to all defenses until the end of its next turn."
   },
   "Words of Fiery Fidelity": {
@@ -1726,7 +1726,7 @@
     "keywords": [
       "Divine, Fire, Healing, Runic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier fire damage, and you and each ally adjacent to the target regain 10 hit points.",
@@ -1748,7 +1748,7 @@
     "keywords": [
       "Divine, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "3[W] + Strength modifier radiant damage, and the target falls prone.",
@@ -1769,7 +1769,7 @@
     "keywords": [
       "Aura, Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",

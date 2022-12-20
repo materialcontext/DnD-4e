@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You miss with an attack or fail a saving throw.</p><p class=\"flavor\">Effect: You gain a +4 racial bonus to the attack roll or the saving throw.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss with an attack or fail a saving throw.",
     "effect": "You gain a +4 racial bonus to the attack roll or the saving throw."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make a saving throw and dislike the result.</p><p class=\"flavor\">Effect: Reroll the saving throw with a +2 power bonus. The next saving throw you make before the end of the encounter takes a -2 penalty.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make a saving throw and dislike the result.",
     "effect": "Reroll the saving throw with a +2 power bonus. The next saving throw you make before the end of the encounter takes a -2 penalty."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Take a move action.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Take a move action."
   },
   "Flush with Success": {
@@ -66,7 +66,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You hit with an attack on your turn.</p><p class=\"flavor\">Effect: After the attack is resolved, you gain 5 temporary hit points and can then shift up to half your speed."
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit with an attack on your turn.",
     "effect": "After the attack is resolved, you gain 5 temporary hit points and can then shift up to half your speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 22: 15 temporary hit points."
   },
@@ -84,7 +84,7 @@
     "keywords": [
       "Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy bloodies you with an attack or hits you while you are bloodied.",
     "effect": "You can spend a healing surge and shift up to your speed. Until the start of your next turn, you gain a +2 power bonus to all defenses."
   }

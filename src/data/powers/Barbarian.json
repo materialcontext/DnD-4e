@@ -13,7 +13,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop to 0 hit points or fewer and don’t die",
     "effect": "You are dying but don’t fall unconscious because of that condition. At the end of your next turn, you fall unconscious if you are still dying.",
     "sustainMinor": "You take 5 damage and don’t fall unconscious."
@@ -32,7 +32,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Athletics.",
     "effect": "You make an Athletics check to jump with a +5 power bonus. You are considered to have a running start and can move as far as the check allows."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a melee weapon in two hands.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -71,7 +71,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage + 1 damage for each enemy adjacent to you."
@@ -90,7 +90,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are subjected to an effect that a save can end",
     "effect": "You make a saving throw against the triggering effect. If you succeed, you shift 1 square as a free action."
   },
@@ -108,7 +108,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. Repeat the attack until you miss or until you make three attacks. As soon as an attack misses, this power ends."
@@ -127,7 +127,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be raging and have at least one unused rage power.",
     "target": "One creature",
     "attack": "Strength vs. AC. To make this attack, you expend an unused barbarian rage power.",
@@ -149,7 +149,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "Your attack reduces an enemy to 0 hit points",
     "effect": "You charge an enemy."
   },
@@ -167,7 +167,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and you push the target 2 squares and knock it prone. Then one enemy adjacent to the target takes 1d8 + your Strength modifier damage."
@@ -186,7 +186,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can take 1d10 damage. If you do so, you gain a bonus to the damage roll equal to the damage you take + your Constitution modifier.",
     "attack": "Strength vs. Fortitude",
@@ -206,7 +206,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "effect": "You knock the primary target prone. You then shift 3 squares and can move through prone enemies’ spaces during the shift. Make a secondary attack.",
@@ -229,7 +229,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can take 3d6 damage. If you do so, you gain a +1 bonus to the attack roll and do not expend this power if you miss.",
     "ragebloodVigor": "If you take the damage, you also gain a bonus to the damage roll equal to your Constitution modifier.",
@@ -250,7 +250,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can take 2d8 damage. If you do so, the attack deals 2d8 extra damage.",
     "ragebloodVigor": "You can take 1d8 damage instead of 2d8.",
@@ -271,7 +271,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each enemy in the burst",
     "attack": "Strength vs. Fortitude",
     "onHit": "You push the primary target 2 squares and knock it prone.",
@@ -294,7 +294,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You grant combat advantage until the start of your next turn. You then move your speed and make the following attack. If an enemy makes an opportunity attack against you as a result of this movement, your attack deals 1[W] extra damage.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -314,7 +314,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you can take 5d6 damage to gain a +2 bonus to the attack roll. If you do so, you do not expend this power if you miss.",
     "ragebloodVigor": "You can take 3d6 damage instead of 5d6.",
     "target": "One creature",
@@ -335,7 +335,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a melee weapon in two hands.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -356,7 +356,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you shift 2 squares. You can move through an enemy’s space during the shift, but you can’t end there.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -376,7 +376,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a melee weapon in two hands.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -396,7 +396,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -417,7 +417,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -438,7 +438,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -459,7 +459,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to one-half your level + your Constitution modifier. If you are raging, the number of temporary hit points you gain equals one-half your level + twice your Constitution modifier."
   },
   "Blade Sweep": {
@@ -476,7 +476,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each bloodied enemy adjacent to you takes damage equal to your Constitution modifier.",
@@ -496,7 +496,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and you knock the target prone."
@@ -515,7 +515,7 @@
     "keywords": [
       "Cold, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "You enter the rage of the frost wolf. Until the rage ends, any enemy that hits you with a melee attack takes cold damage equal to 3 + your Constitution modifier.",
     "attack": "Strength vs. AC",
@@ -536,7 +536,7 @@
     "keywords": [
       "Primal, Rage, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "You knock the secondary target prone.",
@@ -558,7 +558,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll initiative at the beginning of an encounter",
     "effect": "You gain a +5 power bonus to your initiative. You also gain a +2 power bonus to your first attack roll during the encounter."
   },
@@ -576,7 +576,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each enemy within 5 squares of you takes a -2 penalty to attack rolls until the end of your next turn."
@@ -595,7 +595,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. The attack deals 1 extra damage for each enemy adjacent to you.",
@@ -615,7 +615,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you knock the target prone.",
@@ -636,7 +636,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -657,7 +657,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are pulled, pushed, or slid",
     "effect": "You negate the forced movement. Until the stance ends, you can negate forced movement against you."
   },
@@ -675,7 +675,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to one-half your level + your Constitution modifier. In addition, if you are marked, that condition ends."
   },
   "Blade Whirlwind": {
@@ -692,7 +692,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -712,7 +712,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and the target is dazed until the end of your next turn."
@@ -731,7 +731,7 @@
     "keywords": [
       "Fire, Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier fire damage, and ongoing 5 fire damage (save ends).",
@@ -752,7 +752,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you knock the target prone.",
@@ -773,7 +773,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "Each square in the burst becomes difficult terrain until the end of your next turn."
   },
   "Spur the Cycle": {
@@ -790,7 +790,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points during your turn",
     "effect": "You take a standard action."
   },
@@ -808,7 +808,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and you push the target 1 square. You then shift 1 square and make a secondary attack.",
@@ -831,7 +831,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you gain temporary hit points equal to one-half your level.",
@@ -851,7 +851,7 @@
     "keywords": [
       "Lightning, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier lightning damage, and ongoing 10 lightning damage (save ends).",
@@ -872,7 +872,7 @@
     "keywords": [
       "Cold, Healing, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier cold damage, and ongoing 10 cold damage (save ends).",
@@ -893,7 +893,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain blindsight 10 until the end of the encounter."
   },
   "Untouched": {
@@ -910,7 +910,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a saving throw against each effect on you that a save can end. You gain a bonus to each saving throw equal to your Constitution modifier."
   },
   "Crater Fall": {
@@ -927,7 +927,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target 3 squares and knock it prone. This forced movement ignores hindering terrain, such as a pit, between the target’s starting square and its destination. If you push the target through squares occupied by other enemies, those enemies are knocked prone.",
@@ -947,7 +947,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target cannot regain hit points until the start of your next turn.",
@@ -967,7 +967,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier, and the target is dazed (save ends).",
@@ -988,7 +988,7 @@
     "keywords": [
       "Primal, Rage, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier thunder damage, and you knock the target prone.",
@@ -1009,7 +1009,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1029,7 +1029,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and ongoing 10 damage (save ends).",
@@ -1050,7 +1050,7 @@
     "keywords": [
       "Cold, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier cold damage, and ongoing 10 cold damage (save ends).",
@@ -1071,7 +1071,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you grab the target.",
@@ -1092,7 +1092,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy charges you or an ally",
     "effect": "You enter the rage of the flying serpent. Until the rage ends, you can shift 2 squares as a move action. In addition, after making a charge attack on your turn, you can take further actions during that turn.",
     "target": "The triggering enemy",
@@ -1114,7 +1114,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you slide the target 4 squares.",
@@ -1135,7 +1135,7 @@
     "keywords": [
       "Fire, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is blinded until the end of your next turn.",
@@ -1156,7 +1156,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy enters a square adjacent to you",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -1178,7 +1178,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and you push the target a number of squares equal to your Constitution modifier.",
@@ -1200,7 +1200,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you grab the target.",
@@ -1221,7 +1221,7 @@
     "keywords": [
       "Lightning, Primal, Rage, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 15 lightning damage (save ends).",
@@ -1242,7 +1242,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move your speed + 2, or your speed + 6 if you are bloodied."
   },
   "Snarling Defiance": {
@@ -1259,7 +1259,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit and damaged by an attack",
     "effect": "You take half damage from the attack and gain a +2 power bonus to attack rolls against the attacker until the end of your next turn."
   },
@@ -1277,7 +1277,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +4 power bonus to speed when charging."
   },
   "Totemic Scarification": {
@@ -1294,7 +1294,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you take a –2 penalty to all defenses but gain a +1 bonus to attack rolls."
   },
   "Raging Resurgence": {
@@ -1311,7 +1311,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy misses you with an attack",
     "effect": "You spend a healing surge and regain additional hit points equal to your Constitution modifier."
   },
@@ -1329,7 +1329,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "You either gain 3 + your Constitution modifier temporary hit points or end one dazing or weakening effect on yourself. The target then takes 2[W] + your Strength modifier damage."
@@ -1348,7 +1348,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make either an escape attempt or a saving throw against an effect that immobilizes, restrains, or slows you. You gain a bonus to the roll equal to your Strength modifier."
   },
   "Climber's Claws": {
@@ -1365,7 +1365,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a climb speed equal to your speed."
   },
   "Barbaric Instinct": {
@@ -1382,7 +1382,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are subjected to a dazing or a stunning effect",
     "effect": "If the effect would have dazed you, you aren’t dazed. If the effect would have stunned you, you are dazed instead."
   },
@@ -1400,7 +1400,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy bloodies you",
     "effect": "Until the end of your next turn, you gain a bonus equal to your Constitution modifier to damage rolls and your healing surge value."
   },
@@ -1418,7 +1418,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "Your attack damages an enemy",
     "effect": "You spend a healing surge. If the triggering attack reduced an enemy to 0 hit points, you regain additional hit points equal to one-half your level + your Charisma modifier."
   },
@@ -1436,7 +1436,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst, or each ally in the burst if you have reduced an enemy to 0 hit points during this turn",
     "effect": "You slide each target 2 squares. You then shift 3 squares."
   },
@@ -1454,7 +1454,7 @@
     "keywords": [
       "Poison, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier poison damage, and ongoing 5 poison damage (save ends).",
@@ -1475,7 +1475,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1496,7 +1496,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. If the target is already bloodied, the attack deals 1[W] extra damage.",
@@ -1517,7 +1517,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -1538,7 +1538,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. You make two attack rolls and use either result.",
     "onHit": "5[W] + Strength modifier damage.",
@@ -1559,7 +1559,7 @@
     "keywords": [
       "Fear, Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "Your attack reduces an enemy to 0 hit points",
     "target": "Each enemy in the burst",
     "effect": "Each target takes a -2 penalty to all defenses until the end of your next turn."
@@ -1578,7 +1578,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is bloodied, the attack deals extra damage equal to your Constitution modifier."
@@ -1597,7 +1597,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + 1d6 + Strength modifier damage.",
@@ -1618,7 +1618,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier damage, and you knock the target prone.",
@@ -1639,7 +1639,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. If the target is bloodied, you gain a +2 bonus to the attack roll.",
     "onHit": "3[W] + Strength modifier damage.",
@@ -1660,7 +1660,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move your speed + 4. You gain a +4 bonus to all defenses against any opportunity attack you provoke with this movement."
   },
   "Stonebreaker": {
@@ -1677,7 +1677,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +5 bonus to Strength checks to break objects, and you deal double damage against objects."
   },
   "Blood Strike": {
@@ -1694,7 +1694,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If you or the target is bloodied, the attack deals 1[W] extra damage."
@@ -1713,7 +1713,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1734,7 +1734,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target takes a -2 penalty to AC until the end of your next turn.",
@@ -1754,7 +1754,7 @@
     "keywords": [
       "Fire, Healing, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier fire damage, and ongoing 5 fire damage (save ends).",
@@ -1775,7 +1775,7 @@
     "keywords": [
       "Lightning, Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier lightning damage.",
@@ -1796,7 +1796,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss with an attack",
     "requirement": "You must be raging.",
     "effect": "You reroll the attack."
@@ -1815,7 +1815,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy misses you with you an attack",
     "target": "The triggering enemy",
     "effect": "Until the end of the target’s next turn, the target takes a penalty to attack rolls against you equal to your Charisma modifier."
@@ -1834,7 +1834,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy adjacent to you hits or misses you",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -1855,7 +1855,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1875,7 +1875,7 @@
     "keywords": [
       "Acid, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier acid damage, and ongoing 5 acid damage (save ends).",
@@ -1896,7 +1896,7 @@
     "keywords": [
       "Cold, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier cold damage, and the target is immobilized (save ends).",
@@ -1917,7 +1917,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop to 0 hit points or fewer and don’t die",
     "effect": "You are dying but don’t fall unconscious because of that condition. At the end of your next turn, you fall unconscious if you are still dying."
   },
@@ -1935,7 +1935,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you hit with an at-will attack power, the attack deals extra damage equal to your Charisma modifier."
   },
   "Terror's Cry": {
@@ -1952,7 +1952,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage. Make a secondary attack that is a close burst 1.",
@@ -1975,7 +1975,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target 1 square and knock it prone.",
@@ -1995,7 +1995,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -2016,7 +2016,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target a number of squares equal to your Strength modifier.",
@@ -2037,7 +2037,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Each enemy adjacent to you can make an opportunity attack against you. Until the end of your next turn, you gain a bonus to attack rolls equal to +2 for each enemy that makes the opportunity attack."
   },
   "Primal Resistance": {
@@ -2054,7 +2054,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain resist 10 against a damage type of your choice: acid, cold, fire, lightning, or thunder."
   },
   "Devastating Blow": {
@@ -2071,7 +2071,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target takes a -2 penalty to AC until the end of your next turn.",
@@ -2091,7 +2091,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is immobilized and grants combat advantage to you until the end of your next turn."
@@ -2110,7 +2110,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2130,7 +2130,7 @@
     "keywords": [
       "Poison, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 10 poison damage (save ends).",
@@ -2151,7 +2151,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target is dazed (save ends).",
@@ -2172,7 +2172,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "Until the end of your next turn, you gain resistance to all damage equal to one-half your level + your Constitution modifier."
   },
@@ -2190,7 +2190,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and each enemy adjacent to you takes a -2 penalty to attack rolls until the end of your next turn.",
@@ -2210,7 +2210,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and the target is stunned until the end of your next turn."
@@ -2229,7 +2229,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier damage, and you push the<br/>target a number of squares equal to your Constitution<br/>modifier.",
@@ -2250,7 +2250,7 @@
     "keywords": [
       "Lightning, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and ongoing 10 lightning damage (save ends).",
@@ -2271,7 +2271,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy leaves a square adjacent to you",
     "target": "The triggering enemy",
     "attack": "Strength vs. Fortitude",
@@ -2291,7 +2291,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage. Until the end of your next turn, you can make a melee basic attack as a free action against any enemy adjacent to you that hits or misses you.",
@@ -2311,7 +2311,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the primary target 1 square.",
@@ -2334,7 +2334,7 @@
     "keywords": [
       "Fire, Healing, Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier fire damage, and ongoing 10 fire damage (save ends).",
@@ -2355,7 +2355,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier damage.",
@@ -2377,7 +2377,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2397,7 +2397,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each creature in the burst",
     "attack": "Strength vs. AC (main weapon)",
@@ -2419,7 +2419,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2441,7 +2441,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2462,7 +2462,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2483,7 +2483,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2504,7 +2504,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2525,7 +2525,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to attack rolls against any enemy marked by any of your allies. Then make the following attack.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2546,7 +2546,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2567,7 +2567,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2588,7 +2588,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy and don’t reduce it to 0 hit points",
     "target": "The enemy you hit",
     "effect": "You mark the target until the end of your next turn. Until the mark ends, you and the target deal 1d8 extra damage against each other."
@@ -2607,7 +2607,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "Your attack reduces an enemy to 0 hit points",
     "effect": "You shift 2 squares and then deal 1[W] damage (off-hand weapon) to an enemy adjacent to you that you can see."
   },
@@ -2625,7 +2625,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift a number of squares equal to your Constitution modifier. You gain 1d10 temporary hit points plus 1 additional temporary hit point for each enemy within 2 squares of you."
   },
   "Feral Scythe": {
@@ -2642,7 +2642,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage."
@@ -2661,7 +2661,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. You gain a +2 bonus to the attack roll if the target is bloodied.",
     "onHit": "5[W] + Strength modifier damage, and you gain a +2 bonus to attack rolls until the end of your next turn.",
@@ -2681,7 +2681,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Ranged 5/10<",
+    "range": "Ranged 5/10",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and the target is slowed until the end of your next turn.",
@@ -2701,7 +2701,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2722,7 +2722,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2743,7 +2743,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. If you have reduced at least one non-minion enemy to 0 hit points during this encounter, this attack deals 1d8 extra damage. While raging, you instead deal 1d10 extra damage.<br/>Increase damage to 2[W] + Strength modifier at 21st level."
@@ -2762,7 +2762,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an enemy’s attack.",
     "effect": "Reduce the triggering attack’s damage by an amount equal to your Constitution modifier. You gain a +2 power bonus to your next attack roll and damage roll against the triggering enemy made before the end of your next turn."
   },
@@ -2780,7 +2780,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. Each enemy in the blast, other than the target, takes thunder damage equal to your Constitution modifier. If you are raging, the thunder damage equals 3 + your Constitution modifier. <br/>Level 21: 2[W] + Strength modifier damage, and add 5 to the thunder damage, whether or not you are raging."
@@ -2799,7 +2799,7 @@
     "keywords": [
       "Fear, Primal"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "trigger": "Your attack reduces an enemy to 0 hit points",
     "target": "Each enemy in the blast",
     "effect": "You push each target 1 square."
@@ -2818,7 +2818,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2839,7 +2839,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If you take damage before the start of your next turn, you gain a +2 bonus to the attack rolls and the damage rolls of your next attack.",
@@ -2859,7 +2859,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. Each enemy in the blast is slowed until the end of your next turn.",
@@ -2879,7 +2879,7 @@
     "keywords": [
       "Healing, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2900,7 +2900,7 @@
     "keywords": [
       "Fear, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "2[W] + Strength modifier damage, and the target is dazed (save ends).",
@@ -2921,7 +2921,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are conscious and fail a saving throw",
     "effect": "You take 2d6 damage and succeed on the saving throw."
   },
@@ -2939,7 +2939,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you move your speed. If an enemy makes an opportunity attack against you as a result of this movement, you gain combat advantage against the target of this attack.",
     "ragebloodVigor": "Add your Constitution modifier to the distance you can move.",
     "target": "One creature",
@@ -2960,7 +2960,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. Each enemy in the blast takes 1d6 thunder damage and is pushed 1 square.",
@@ -2980,7 +2980,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3001,7 +3001,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -3021,7 +3021,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target 1 square.",
@@ -3042,7 +3042,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3063,7 +3063,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain 5 + your Constitution modifier temporary hit points."
   },
   "Fearsome Smash": {
@@ -3080,7 +3080,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target takes a –2 penalty to attack rolls until the end of your next turn.",
@@ -3101,7 +3101,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. Each enemy in the blast gains vulnerable 5 to all damage until the end of your next turn.",
@@ -3121,7 +3121,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is marked by an ally, the attack deals 1[W] extra damage. You then mark the target until the end of your next turn.",
@@ -3141,7 +3141,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target gains vulnerable 5 to all damage (save ends).",
@@ -3162,7 +3162,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is weakened (save ends).",
@@ -3183,7 +3183,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target 3 squares.",
@@ -3204,7 +3204,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You bloody an enemy or reduce it to 0 hit points",
     "effect": "You make a saving throw against one effect that a save can end, with a bonus equal to your Charisma modifier (minimum +1)."
   },
@@ -3222,7 +3222,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss with an attack while raging",
     "effect": "You gain a +2 power bonus to melee attack rolls and melee damage rolls until the end of your next turn."
   },
@@ -3240,7 +3240,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target gains vulnerable 5 to all damage until the end of your next turn.",
@@ -3260,7 +3260,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. You can reroll the attack. If the reroll hits, the attack deals 1[W] extra damage. If the reroll misses, the attack deals 1[W] less damage."
@@ -3279,7 +3279,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. Each enemy in the blast takes a penalty to all defenses equal to your Constitution modifier until the end of your next turn.",
@@ -3299,7 +3299,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3320,7 +3320,7 @@
     "keywords": [
       "Cold, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier cold damage, and the target is slowed (save ends).",
@@ -3341,7 +3341,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3362,7 +3362,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3383,7 +3383,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are dying at the start of your turn",
     "effect": "You spend a healing surge, and you can stand up as a free action. Until the end of your next turn, you gain a +2 bonus to attack rolls and a +4 bonus to damage rolls."
   },
@@ -3401,7 +3401,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 5 squares and can move through enemies’ spaces during the shift."
   },
   "Rampant Malice": {
@@ -3418,7 +3418,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your turn, you gain combat advantage against any enemy that is marked by an ally of yours."
   },
   "Strength of Enduring Pain": {
@@ -3435,7 +3435,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take ongoing damage",
     "effect": "Until the end of your turn, you gain a bonus to damage rolls equal to the ongoing damage (if you are taking multiple types of ongoing damage, the bonus equals the highest of them)."
   },
@@ -3453,7 +3453,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each creature in the burst",
     "attack": "Strength vs. AC (main weapon)",
@@ -3474,7 +3474,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and each enemy adjacent to you takes a –2 penalty to attack rolls until the end of your next turn.",
@@ -3494,7 +3494,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. Each enemy in the blast takes 2d6 thunder damage and grants combat advantage until the end of your next turn.",
@@ -3514,7 +3514,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -3535,7 +3535,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "No enemies are adjacent to you.",
     "effect": "You shift your speed. You gain 1d8 + your Constitution modifier temporary hit points, plus 1d8 temporary hit points for each bloodied enemy adjacent to you at the end of the shift."
   },
@@ -3553,7 +3553,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy scores a critical hit against you",
     "effect": "You gain a +4 power bonus to attack rolls until the end of your next turn."
   },
@@ -3571,7 +3571,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You hit or miss an enemy with a charge attack",
     "target": "Each ally in the burst",
     "effect": "As a free action, each target can shift 3 squares to a square closer to the enemy."
@@ -3590,7 +3590,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You score a critical hit with a barbarian attack power and haven’t used Rampage during this round",
     "effect": "In place of making a melee basic attack as a result of Rampage, you can take an additional standard action on your next turn."
   },
@@ -3608,7 +3608,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. You then howl in a blast 3 that includes the target. You slide each enemy in the blast 3 squares.",
@@ -3628,7 +3628,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target takes a penalty to AC equal to your Constitution modifier (save ends).",
@@ -3649,7 +3649,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target gains vulnerable 5 to all damage until the start of your next turn.",
@@ -3670,7 +3670,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and the target takes a –2 penalty to attack rolls and grants combat advantage until the end of your next turn."
@@ -3689,7 +3689,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier thunder damage. You then howl in a blast 3 that includes the target. Each enemy in the blast is immobilized until the end of your next turn.",
@@ -3709,7 +3709,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -3730,7 +3730,7 @@
     "keywords": [
       "Force, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and each enemy, other than the target, within 5 squares of you takes 2[W] force damage.",
@@ -3751,7 +3751,7 @@
     "keywords": [
       "Primal, Rage, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You enter the rage of the thundering rhino. Until the rage ends, whenever you hit an enemy with a basic attack, that attack deals 1[W] extra thunder damage, and you push that enemy 1 square.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -3772,7 +3772,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength damage, and you knock the target prone.",
@@ -3793,7 +3793,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3814,7 +3814,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3835,7 +3835,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage",
@@ -3856,7 +3856,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3877,7 +3877,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and target is slowed (save ends).",
@@ -3898,7 +3898,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and deal the same amount of damage to a different enemy within 5 squares.",
@@ -3919,7 +3919,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3940,7 +3940,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3961,7 +3961,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3981,7 +3981,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "effect": "You push each enemy adjacent to you 1 square.",
     "target": "One creature",
@@ -4002,7 +4002,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "special": "When charging, you can use this power in place of a melee basic attack. When you do so, you gain a bonus to the damage roll equal to the number of squares you moved during the charge.",
     "target": "One creature",
@@ -4023,7 +4023,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "target": "Each enemy you can see and is not adjacent to you in the burst",
     "attack": "Strength vs. AC",
@@ -4045,7 +4045,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4065,7 +4065,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4085,7 +4085,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
@@ -4107,7 +4107,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a two-handed reach weapon.",
     "trigger": "You score a critical hit with a barbarian attack power",
     "effect": "You have threatening reach with the weapon used in the triggering attack until the end of your next turn. You also gain a bonus to damage rolls with opportunity attacks equal to 3 + your Constitution modifier until the end of your next turn."
@@ -4126,7 +4126,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a two-handed reach weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4146,7 +4146,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the next time the target takes damage before the start of your next turn, it takes 1d6 extra damage and you slide it 1 square.",
@@ -4166,7 +4166,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "You spend a healing surge",
     "target": "Each ally in the burst that can see you",
     "effect": "The target gains temporary hit points equal to your Charisma modifier."
@@ -4185,7 +4185,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you make a close blast 3 secondary attack.",
@@ -4207,7 +4207,7 @@
     "keywords": [
       "Fear, Healing, Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst that you can see",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, the target falls prone, and you regain 1 hit point.",
@@ -4227,7 +4227,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, you can slide the target 1 square, and the target gains vulnerable 5 to the next attack that hits it before the start of your next turn.",
@@ -4247,7 +4247,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "thanebornTriumph": "The burst is equal to 1 + your Charisma modifier.",
     "trigger": "You reduce an enemy to 0 hit points",
     "target": "Each ally in the burst that can hear you",
@@ -4267,7 +4267,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you make a close blast 3 secondary attack.",
@@ -4289,7 +4289,7 @@
     "keywords": [
       "Fear, Healing, Primal, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst that you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, you push the target 3 squares and knock it prone, and you regain 2 hit points.",
@@ -4309,7 +4309,7 @@
     "keywords": [
       "Fear, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you slide the target 1 square. Whenever the target is damaged by an attack before the start of your next turn, the target takes 1d6 extra damage and you slide the target 1 square."
@@ -4328,7 +4328,7 @@
     "keywords": [
       "Fire, Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] damage + Strength modifier. The target takes ongoing 5 fire damage and is immobilized (save ends both).",
@@ -4350,7 +4350,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you push the target 1 square. You then shift 1 square into the space the target just left.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -4370,7 +4370,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -4390,7 +4390,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -4410,7 +4410,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You shift up to 2 squares before the attack.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4431,7 +4431,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you knock the target prone."
@@ -4450,7 +4450,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + 1d8 + Strength modifier damage."
@@ -4469,7 +4469,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -4490,7 +4490,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you knock the target prone.",
@@ -4510,7 +4510,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage.",
     "effect": "You gain temporary hit points equal to the triggering damage."
   },
@@ -4528,7 +4528,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to your speed + 4. During this move, you ignore difficult terrain."
   },
   "Implacable Advance": {
@@ -4545,7 +4545,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. In addition, the first time the target moves before the end of your next turn, you can shift up to your speed to a square adjacent to the target as a free action after its movement."
@@ -4564,7 +4564,7 @@
     "keywords": [
       "Primal, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and each enemy adjacent to the target takes 5 thunder damage."
@@ -4583,7 +4583,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -4604,7 +4604,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "effect": "You can shift up to your speed after the first attack.",
     "attack": "Strength vs. AC",
@@ -4625,7 +4625,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the cull weakness stance. Until the stance ends, bloodied enemies grant combat advantage to you, and you gain a +4 power bonus to damage rolls against them."
   },
   "Wilderness Step": {
@@ -4642,7 +4642,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You start your turn subject to an immobilized, restrained, or slowed condition that a save can end.",
     "effect": "You make a saving throw with a +2 power bonus against one triggering condition."
   },
@@ -4660,7 +4660,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is immobilized until the end of your next turn."
@@ -4679,7 +4679,7 @@
     "keywords": [
       "Force, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier force damage. This damage ignores the insubstantial quality."
@@ -4698,7 +4698,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -4719,7 +4719,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -4740,7 +4740,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One enemy subject to your defender aura",
     "effect": "As a free action, each of your allies adjacent to the target can shift up to 2 squares to a square that is not adjacent to the target. Additionally, until the start of your next turn, when you hit the target with an opportunity attack or a vengeful guardian attack, you immobilize it until the end of its next turn."
   },
@@ -4758,7 +4758,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You start your turn subject to a dazing or dominating effect.",
     "effect": "You end the triggering effect. Until the end of your next turn you are immune to effects that daze or dominate you."
   },
@@ -4776,7 +4776,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you slide the target up to 2 squares and knock it prone."
@@ -4795,7 +4795,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + 2d8 + Strength modifier damage."
@@ -4814,7 +4814,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -4835,7 +4835,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is immobilized until the end of your next turn.",
@@ -4855,7 +4855,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift up to half your speed. If you end this shift adjacent to an enemy, each of your allies adjacent to that enemy can shift up to 3 squares as a free action to a square that is not adjacent to that enemy."
   },
   "Path of the Predator": {
@@ -4872,7 +4872,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift up to twice your speed. During this shift, you can make Athletics checks to climb, jump, and swim. If you end this shift adjacent to an enemy, that enemy grants combat advantage to you until the end of your next turn."
   },
   "Forceful Spirits": {
@@ -4889,7 +4889,7 @@
     "keywords": [
       "Force, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. In addition, each enemy adjacent to the target takes 5 force damage and is pushed up to 2 squares from the target."
@@ -4908,7 +4908,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. In addition, at the end of the target’s next turn, if it is not adjacent to you, you can shift up to your speed + 2 to a square adjacent to the target as a free action."
@@ -4927,7 +4927,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -4948,7 +4948,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You shift up to your speed. During the shift, you can make the following attack once against each creature to which you move adjacent.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4969,7 +4969,7 @@
     "keywords": [
       "Martial, Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to your speed. During this movement, you can jump horizontally a number of squares up to your speed without needing to make an Athletics check, and you can climb and swim at full speed rather than half speed. Your total distance moved cannot exceed your speed. Additionally, any falling damage you take is reduced by 20 until the end of the turn.",
     "special": "You can use this power only once per round."
   },
@@ -4987,7 +4987,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. This attack ignores the insubstantial quality and the target’s resistances."
@@ -5006,7 +5006,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Until the end of your next turn, the target takes damage equal to your Strength modifier for each square of voluntary movement it undertakes."
@@ -5025,7 +5025,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -5047,7 +5047,7 @@
     "keywords": [
       "Force, Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + 3d8 + Strength modifier force damage, and the target loses all resistances until the end of your next turn."
@@ -5066,7 +5066,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you knock the target prone. Until the end of your next turn, the target provokes opportunity attacks whenever it stands up."
@@ -5085,7 +5085,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -5107,7 +5107,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy subject to your defender aura either shifts or makes an attack that targets an ally of yours, without targeting you or an ally who has an active defender aura.",
     "effect": "You make a melee basic attack against the triggering enemy and deal 1d8 extra damage to it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 extra damage. On a miss, the attack deals half damage to the triggering enemy."
   },
@@ -5125,7 +5125,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target up to 2 squares. If the target ends this push adjacent to blocking terrain, the target takes damage equal to your Strength modifier.",

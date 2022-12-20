@@ -1,0 +1,60 @@
+{
+  "Font of Despair": {
+    "id": "'15967",
+    "action": "Standard",
+    "powerClass": "Idol of Darkness",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Font of Despair",
+    "type": "of",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFont of Despair\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15967\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Idol of Darkness Attack 11</span>Font of Despair</h1><p class=\\\"flavor\\\"><i>You raise your weapon above your head and pronounce doom upon nearby foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Fear</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage, and the target takes a -2 penalty to attack rolls and all defenses until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You can either make a saving throw, with a power bonus equal to the number of enemies you hit with this attack, or gain resistance to all damage until the start of your next turn. The resistance equals your Strength modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You raise your weapon above your head and pronounce doom upon nearby foes.",
+    "keywords": [
+      "Divine, Fear, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy in the burst",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier damage, and the target takes a -2 penalty to attack rolls and all defenses until the end of your next turn.",
+    "effect": "You can either make a saving throw, with a power bonus equal to the number of enemies you hit with this attack, or gain resistance to all damage until the start of your next turn. The resistance equals your Strength modifier."
+  },
+  "Dark Burden": {
+    "id": "'15968",
+    "action": "Standard",
+    "powerClass": "Idol of Darkness",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Dark Burden",
+    "type": "of",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDark Burden\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15968\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Idol of Darkness Attack 20</span>Dark Burden</h1><p class=\\\"flavor\\\"><i>As an enemy crumples beneath your devastating attack, the evil within escapes to torment all around you.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Necrotic</b>, <b>Psychic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 5[W] + Strength modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Each creature adjacent to you other than the target takes ongoing 10 necrotic and psychic damage (save ends). At the start of each of your turns, you can slide each creature taking this ongoing damage up to a number of squares equal to your Charisma modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "As an enemy crumples beneath your devastating attack, the evil within escapes to torment all around you.",
+    "keywords": [
+      "Divine, Necrotic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Strength vs. AC",
+    "onHit": "5[W] + Strength modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Each creature adjacent to you other than the target takes ongoing 10 necrotic and psychic damage (save ends). At the start of each of your turns, you can slide each creature taking this ongoing damage up to a number of squares equal to your Charisma modifier."
+  },
+  "Unholy Aura": {
+    "id": "'15969",
+    "action": "Minor",
+    "powerClass": "Idol of Darkness",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Unholy Aura",
+    "type": "of",
+    "sourceRef": "The Book of Vile Darkness",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nUnholy Aura\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=15969\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Idol of Darkness Utility 12</span>Unholy Aura</h1><p class=\\\"flavor\\\"><i>You whisper a prayer asking for protection. The evil within grows until none can bear to linger in your presence.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Divine</b>, <b>Fear</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 1 that lasts until the end of the encounter. Whenever a creature ends its turn in the aura, you can push that creature 1 square as an opportunity action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/34416000\\\" target=\\\"_new\\\">The Book of Vile Darkness</a>, page(s) 1-26.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You whisper a prayer asking for protection. The evil within grows until none can bear to linger in your presence.",
+    "keywords": [
+      "Aura, Divine, Fear"
+    ],
+    "range": "Personal",
+    "effect": "You activate an aura 1 that lasts until the end of the encounter. Whenever a creature ends its turn in the aura, you can push that creature 1 square as an opportunity action."
+  }
+}

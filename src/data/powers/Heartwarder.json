@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "The target is dominated until the end of your next turn or until the target is attacked."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "targets": "Two allies within 5 squares of each other, or an ally within 5 squares of you and yourself",
     "effect": "Until the end of the encounter, any time one of the targets takes damage, the other target can choose to take half that damage in the first target’s stead."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Charisma + 2 vs. Will",
     "onHit": "You push the target 4 squares, and the target is dazed (save ends). In addition, until the end of the encounter or until you are reduced to 0 hit points or fewer, each time you take damage, the target takes half as much damage as you took.",

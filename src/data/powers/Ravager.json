@@ -13,7 +13,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push each enemy within 3 squares of you, other than the target, 1 square."
@@ -32,7 +32,7 @@
     "keywords": [
       "Healing, Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy bloodies you with a melee attack",
     "effect": "Until the stance ends, you take a –2 penalty to all defenses, but you gain a +2 power bonus to melee attack rolls. Whenever you reduce an enemy to 0 hit points, you regain hit points equal to your Constitution modifier."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Invigorating, Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and ongoing 15 damage (save ends). Until the target is not marked by you, it takes a –2 penalty to saving throws against the ongoing damage."

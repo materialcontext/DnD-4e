@@ -13,7 +13,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "requirement": "During this turn you must have hit an enemy with a melee attack using a light blade or heavy blade (not a polearm).",
     "target": "One enemy other than the one you hit",
     "effect": "The target is marked until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -52,7 +52,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must use this power with a light blade or a heavy blade (not a polearm).",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",

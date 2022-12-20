@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d10 + Wisdom modifier radiant damage, and ongoing 10 radiant damage (save ends).",
@@ -35,7 +35,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "covenantOfWrath": "You gain a +1 bonus to the attack roll if any bloodied allies are in the burst.",
@@ -57,7 +57,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d10 + Wisdom modifier radiant damage. If a bloodied ally is adjacent to the target, the attack deals extra radiant damage equal to your Constitution modifier.<br/>Level 21: 2d10 + Wisdom modifier radiant damage.",
@@ -77,7 +77,7 @@
     "keywords": [
       "Divine, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d6 + Wisdom modifier lightning damage.<br/>Level 21: 2d6 + Wisdom modifier lightning damage."
@@ -96,7 +96,7 @@
     "keywords": [
       "Divine, Implement, Lightning"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d6 + Wisdom modifier lightning damage. Whenever the target makes an opportunity attack before the end of your next turn, the target takes lightning damage equal to your Intelligence modifier.<br/>Level 21: 2d6 + Wisdom modifier lightning damage."
@@ -115,7 +115,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "Wisdom modifier radiant damage, and the target is slowed until the end of your next turn.<br/>Level 21: 1d10 + Wisdom modifier radiant damage."
@@ -134,7 +134,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d6 + Wisdom modifier thunder damage, or 2d6 + Wisdom modifier thunder damage if you target only one creature. In addition, the target is dazed until the end of your next turn.",
@@ -154,7 +154,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d10 + Wisdom modifier radiant damage, and the target is immobilized until the end of your next turn."
@@ -173,7 +173,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d6 + Wisdom modifier radiant damage. Whenever the target attacks before the end of your next turn, the target takes 5 radiant damage.",
@@ -193,7 +193,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "6d6 + Wisdom modifier radiant damage.",
@@ -214,7 +214,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You conjure a wall of divine energy. The wall is 1 square high, and it lasts until the end of your next turn. While within the wall, any ally gains a +1 power bonus to AC, and each ally who starts his or her turn in the wall gains 5 temporary hit points.",
     "sustainMinor": "The wall persists."
   },
@@ -232,7 +232,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two allies who each have two healing surges or fewer",
     "effect": "Each target regains a healing surge."
   },
@@ -250,7 +250,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you makes an attack roll against your ally",
     "target": "The triggering enemy",
     "effect": "The target takes a -3 penalty to the triggering attack roll. If the attack hits and deals damage, you slide the ally 1 square after the damage is dealt."
@@ -269,7 +269,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two allies",
     "effect": "You pull each target 3 squares."
   },
@@ -287,7 +287,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to your next Diplomacy check or Intimidate check during this encounter. If you make this check as part of a skill challenge, you gain 2 successes if the check is successful and don't gain a failure if the check fails."
   },
   "Offering of Justice": {
@@ -304,7 +304,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "If the target attacks you or your allies before the end of its next turn, the target takes 2d10 + your Wisdom modifier radiant damage at the end of that turn. If the target doesn't attack you or your allies before the end of its next turn, the target instead gains 5 temporary hit points at the end of that turn."
   },
@@ -322,7 +322,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier radiant damage. If the target moves before the end of its next turn, the target takes 5 radiant damage."
@@ -341,7 +341,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d10 + Wisdom modifier radiant damage. If any bloodied allies are in the burst, the attack deals 2 extra radiant damage."
@@ -360,7 +360,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier fire damage, and if the target moves before the end of your next turn, it takes 10 fire damage.",
@@ -380,7 +380,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "effect": "Before the attack, each target can fall prone as a free action. The attack automatically misses a prone target.",
     "covenantOfWrath": "Each prone target takes 1d6 psychic damage.",
@@ -401,7 +401,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d10 + Wisdom modifier radiant damage. Until the end of your next turn, the target doesn’t have line of sight to any creature more than 3 squares away from it."
@@ -420,7 +420,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier thunder damage, and you push the target 1 square.",
@@ -440,7 +440,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier psychic damage, and the target takes a -2 penalty to attack rolls until the end of its next turn."
@@ -459,7 +459,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier psychic damage, and you push the target 2 squares.",
@@ -480,7 +480,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d6 + Wisdom modifier force damage, and the target is immobilized (save ends).",
@@ -500,7 +500,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d10 + Wisdom modifier fire damage, and ongoing 10 fire damage (save ends).",
@@ -520,7 +520,7 @@
     "keywords": [
       "Charm, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is unable to make attacks (save ends). Whenever the target is attacked, it can make a saving throw against this effect.",
@@ -540,7 +540,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d8 + Wisdom modifier radiant damage, and the target is blinded (save ends).",
@@ -561,7 +561,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dazed (save ends).",
@@ -582,7 +582,7 @@
     "keywords": [
       "Divine, Implement, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon a Medium blade angel in an unoccupied square within range. The angel has speed 6 and fly 6 (hover). It has a +4 bonus to AC. You can give the angel the following special commands.",
     "minorAction": "Melee 1; targets one creature; Wisdom vs. Fortitude; 1d8 + Wisdom modifier damage.",
     "opportunityAttack": "Melee 1; targets one creature; Wisdom vs. Reflex; 1d8 + Wisdom modifier damage, and the target is slowed until the end of its turn."
@@ -601,7 +601,7 @@
     "keywords": [
       "Divine, Polymorph"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "Until the end of the encounter, the target gains a fly speed of 8 and can hover."
   },
@@ -619,7 +619,7 @@
     "keywords": [
       "Divine, Teleportation"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "You teleport each target 3 squares.",
     "covenantOfPreservation": "The number of squares you teleport each target equals 3 + your Intelligence modifier."
@@ -638,7 +638,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "A creature within 10 squares of you makes a saving throw",
     "target": "The triggering creature",
     "effect": "The target rerolls the saving throw and must use the new result."
@@ -657,7 +657,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a symbol of hope in an unoccupied square within range. The symbol lasts until the end of your next turn. Any ally within 5 squares of the symbol gains a +2 power bonus to saving throws, and any ally who starts his or her turn within 5 squares of the symbol gains 5 temporary hit points.",
     "sustainMinor": "The symbol persists."
   },
@@ -675,7 +675,7 @@
     "keywords": [
       "Divine, Fear"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy within 5 squares of you makes an attack roll against you",
     "target": "The triggering enemy",
     "effect": "The target takes a -2 penalty to the triggering attack roll. After the attack is resolved, you push the target 3 squares."
@@ -694,7 +694,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d6 + Wisdom modifier damage, and you either slide the target 2 squares or knock it prone.",
@@ -714,7 +714,7 @@
     "keywords": [
       "Divine, Fire, Implement, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d6 + Wisdom modifier fire damage.",
@@ -734,7 +734,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "3d8 + Wisdom modifier psychic damage, and the target is dazed until the end of your next turn.",
@@ -754,7 +754,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier damage, or 3d8 + Wisdom modifier damage if you target only one creature. The target takes a -5 penalty to a saving throw of your choice before the end of your next turn.",
@@ -774,7 +774,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "effect": "If the target attacks before the end of your next turn, it takes 4d10 + your Wisdom modifier radiant damage. If you or an ally attacks the target before the end of your next turn, the target gains 10 temporary hit points and a +5 bonus to its next attack roll.",
     "covenantOfPreservation": "You and your allies gain a +2 power bonus to all defenses until the end of your next turn."
@@ -793,7 +793,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier damage. If the target moves more than 1 square before the end of your next turn, the target takes 5 damage.",
@@ -813,7 +813,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "3d10 + Wisdom modifier radiant damage. Until the end of your next turn, each creature that the target attacks gains a +2 bonus to its next attack roll against the target.",
@@ -833,7 +833,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier damage, and the target is dazed and immobilized until the end of your next turn."
@@ -852,7 +852,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "3d8 + Wisdom modifier psychic damage, and the target moves half its speed away from you, avoiding unsafe squares and difficult terrain if it can.",
@@ -872,7 +872,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "5d6 + Wisdom modifier damage, and the target is dazed until the end of your next turn.",
@@ -892,7 +892,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier radiant damage, and the target is blinded until the end of your next turn."
@@ -911,7 +911,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "4d10 + Wisdom modifier damage."
@@ -930,7 +930,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex. Make a number of attack rolls equal to the number of targets, and then assign each roll to a target.",
     "onHit": "4d8 + Wisdom modifier radiant damage."
@@ -949,7 +949,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "5d6 + Wisdom modifier thunder damage, and you slide the target to any unoccupied space in the burst."
@@ -968,7 +968,7 @@
     "keywords": [
       "Divine, Fire, Implement, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon a Medium angel of fire in an unoccupied square within range. The angel has speed 6 and fly 6 (hover). You can give the angel the following special commands.",
     "standardAction": "Close burst 1; targets each creature in the burst; Wisdom vs. Reflex; 1d8 + Wisdom modifier fire damage.",
     "opportunityAttack": "Melee 1; targets one creature; Wisdom vs. Reflex; 1d8 + Wisdom modifier fire damage."
@@ -987,7 +987,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d6 + Wisdom modifier radiant damage.",
@@ -1009,7 +1009,7 @@
     "keywords": [
       "Conjuration, Divine, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst conjures a tomb of white stone. The tomb fills the burst and must be on a solid surface. The tomb is a solid obstacle, and it can be attacked as an object: AC 6, Fortitude 10, Reflex 5, and 60 hit points. When the tomb is destroyed, it crumbles into difficult terrain.<br/>&nbsp;&nbsp;&nbsp;&nbsp;As the tomb appears, make the following attack.",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
@@ -1030,7 +1030,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "7d6 + Wisdom modifier radiant damage.",
@@ -1051,7 +1051,7 @@
     "keywords": [
       "Divine, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "6d6 + Wisdom modifier damage.",
@@ -1073,7 +1073,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium angel of light in an unoccupied square within range. The angel has speed 6 and fly 8 (hover). It has a +4 bonus to AC and a +2 bonus to its other defenses. Any enemy that starts its turn adjacent to the angel is marked by the angel until the end of your next turn. You can give the angel the following special commands.",
     "minorAction": "Melee 1; targets one creature; Wisdom vs. Reflex; 1d10 + Wisdom modifier radiant damage, and until the end of your next turn, the target doesn’t have line of sight to creatures more than 5 squares away from it.",
     "opportunityAttack": "Melee 1; targets one creature; Wisdom vs. Reflex; 1d10 + Wisdom modifier radiant damage."
@@ -1092,7 +1092,7 @@
     "keywords": [
       "Divine, Implement, Summoning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You summon a Medium angel of victory in an unoccupied square within range. The angel has speed 6 and fly 8 (hover). It has a +4 bonus to AC and a +2 bonus to its other defenses. You can give the angel the following special commands.",
     "minorAction": "Melee 1; targets one creature; Wisdom vs. Will; 2d10 + Wisdom modifier damage, and the target takes a -2 penalty to all defenses until the end of your next turn.",
     "standardAction": "Close burst 2; targets each enemy in the burst; Wisdom vs. Reflex; the angel pulls the target 1 square, and the target is slowed until the end of your next turn.",
@@ -1112,7 +1112,7 @@
     "keywords": [
       "Charm, Divine, Implement, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dominated (save ends).",
@@ -1133,14 +1133,15 @@
     "keywords": [
       "Conjuration, Divine, Implement, Radiant"
     ],
-    "range": "Area wall 8 within 20 squares<",
+    "range": "Area wall 8 within 20 squares",
     "bonusPower": {
       "name": "Wall of Blades Attack",
       "flavor": "You draw shards of astral steel into the world and arrange them into a deadly wall of spinning blades. You then command parts of the wall to fly at your enemies.",
       "keywords": [
         "Conjuration, Divine, Implement, Radiant"
       ],
-      "range": "Ranged 10<",
+      "range": "Ranged 10",
+      "frequency": "Encounter",
       "requirement": "The Wall of Blades power must be active to use this power.",
       "effect": "Before the attack, remove a square of the wall.",
       "target": "One creature",
@@ -1164,7 +1165,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d8 + Wisdom modifier damage, and the target is dazed and takes 10 extra damage whenever it is hit by a melee attack (save ends both).",
@@ -1184,7 +1185,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "4d6 + Wisdom modifier radiant damage.",
@@ -1205,7 +1206,7 @@
     "keywords": [
       "Divine, Implement, Thunder, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "4d6 + Wisdom modifier thunder damage.",
@@ -1227,7 +1228,7 @@
     "keywords": [
       "Divine, Fire, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d10 + Wisdom modifier fire damage.",
@@ -1249,7 +1250,7 @@
     "keywords": [
       "Divine, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier damage, and the target takes ongoing 10 damage and is blinded (save ends both).",
@@ -1270,7 +1271,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "5d6 + Wisdom modifier damage.",
@@ -1290,7 +1291,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "7d6 + Wisdom modifier damage, and you slide the target 5 squares and knock it prone.",
@@ -1310,7 +1311,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An ally within 10 squares of you takes damage from an attack",
     "target": "The triggering ally",
     "effect": "You or an ally within 10 squares of you takes the damage from the triggering attack instead of the target, but the target takes any other effect caused by the attack."
@@ -1329,7 +1330,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "The target gains phasing until the end of your next turn.",
     "sustainMinor": "The effect persists."
@@ -1348,7 +1349,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Area burst 5 within 20 squares<",
+    "range": "Area burst 5 within 20 squares",
     "effect": "The burst creates a zone of golden light that lasts until the end of the encounter. While within the zone, any ally gains a +5 bonus to death saving throws, and if the ally rolls a natural 20 on a death saving throw, that ally can spend two healing surges rather than one."
   },
   "Covenant of Endurance": {
@@ -1365,7 +1366,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, whenever an ally within 10 squares of you has an opportunity to spend a healing surge, you can spend a healing surge on that ally’s behalf as a free action. You spend the healing surge but regain no hit points, and the ally regains hit points as if he or she had spent a healing surge."
   },
   "Covenant of Vengeance": {
@@ -1382,7 +1383,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You or one ally in the burst",
     "effect": "All of the target’s marks end. Until the end of the encounter or until the target marks a creature, if a creature attacks the target, you and your allies gain a +4 power bonus to attack rolls against that creature until the end of your next turn."
   },
@@ -1400,7 +1401,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You or one ally in the burst",
     "effect": "Until the end of the encounter, you and your allies can use second wind either to gain the normal benefits or to grant the benefits to the target. A donor character uses his or her second wind but neither regains hit points nor gains a bonus to all defenses, and the target regains hit points as if he or she had spent a healing surge and gains a +2 bonus to all defenses until the start of the donor’s next turn."
   },
@@ -1418,7 +1419,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One ally",
     "effect": "The target can take an extra standard action during his or her next turn."
   },
@@ -1436,7 +1437,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you makes an attack roll against your ally",
     "target": "The triggering enemy",
     "effect": "The target takes a -4 penalty to the triggering attack roll. Until the end of your next turn, any attacker gains a +2 power bonus to attack rolls against the target."
@@ -1455,7 +1456,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You and your allies roll initiative at the beginning of an encounter",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a bonus to the initiative check equal to 2 + your Intelligence modifier."
@@ -1474,7 +1475,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d8 + Wisdom modifier radiant damage, and you slide the target 1 square.<br/>Level 21: 2d8 + Wisdom modifier radiant damage.",
@@ -1494,7 +1495,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "channelDivinity": "You can use only one channel divinity power per encounter.",
     "target": "Each undead creature in the blast",
     "attack": "Wisdom vs. Will",
@@ -1515,7 +1516,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d6 + Wisdom modifier psychic damage, and you push the target 2 squares."
@@ -1534,7 +1535,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d6 + Wisdom modifier radiant damage.",
@@ -1555,7 +1556,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "The target is slowed (save ends).",
@@ -1575,7 +1576,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can speak with a thunderous voice that allows creatures within 500 feet of you to hear you clearly. Before the end of your turn, you gain a power bonus to your next Intimidate check equal to your Constitution modifier."
   },
   "Chains of Carceri": {
@@ -1592,7 +1593,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier damage, and the target is slowed until the end of your next turn."
@@ -1611,7 +1612,7 @@
     "keywords": [
       "Conjuration, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "Before the attack, you move the blade to a square adjacent to the triggering enemy.",
     "sustainMinor": "The blade persists, and you can move it 5 squares.",
     "requirement": "The Blade of Vengeance power must be active to use this power.",
@@ -1634,7 +1635,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An ally within 10 squares of you is hit by an area or a close attack",
     "effect": "The triggering attack hits you instead of the ally."
   },
@@ -1652,7 +1653,7 @@
     "keywords": [
       "Divine, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier damage.",
@@ -1672,7 +1673,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can spend two healing surges, and you are immune to all damage until the start of your next turn. If you willingly attack before the end of your next turn, you take damage equal to your bloodied value."
   },
   "Maledictor's Doom": {
@@ -1689,7 +1690,7 @@
     "keywords": [
       "Divine, Fear"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "channelDivinity": "You can use only one channel divinity power per encounter",
     "target": "Each enemy in the blast",
     "effect": "Each target takes a -1 penalty to attack rolls and saving throws until the end of your next turn. In addition, whenever the target is hit by a fear attack before the end of your next turn, you push the target 1 square as a free action."
@@ -1708,7 +1709,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures<br/>Level 21: Target an additional creature.",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d4 + Wisdom modifier radiant damage."
@@ -1727,7 +1728,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "1d6 + Wisdom modifier radiant damage. If the target is marked, the penalty to attack rolls it takes from the marked condition is -4 instead of -2.<br/>Level 21: 2d6 + Wisdom modifier radiant damage."
@@ -1746,7 +1747,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "1d6 + Wisdom modifier psychic damage, and the target takes a -1 penalty to all defenses until the start of your next turn.<br/>Level 21: 2d6 + Wisdom modifier psychic damage."
@@ -1765,7 +1766,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d6 + Wisdom modifier thunder damage, and you push the target 1 square.",
@@ -1785,7 +1786,7 @@
     "keywords": [
       "Divine, Implement, Lightning"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier lightning damage, and the target takes a -1 penalty to all defenses until the end of your next turn.",
@@ -1805,7 +1806,7 @@
     "keywords": [
       "Charm, Divine, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One or two creatures in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modiier radiant damage, and you pull the target 3 squares.",
@@ -1826,7 +1827,7 @@
     "keywords": [
       "Divine, Fear, Implement, Psychic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, the target takes a -2 penalty to attack rolls, and whenever the target misses with an attack, it takes 5 psychic damage.",
@@ -1846,7 +1847,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier radiant damage.",
@@ -1866,7 +1867,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One or two creatures in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier damage, or 2d8 + Wisdom modifier damage if you target only one creature. The target takes ongoing 10 damage (save ends).",
@@ -1887,7 +1888,7 @@
     "keywords": [
       "Cold, Divine, Fire, Implement, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier cold and fire damage.",
@@ -1908,7 +1909,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d6 + Wisdom modifier thunder damage, and the target is stunned (save ends).",
@@ -1929,7 +1930,7 @@
     "keywords": [
       "Divine, Implement, Lightning, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d8 + Wisdom modifier thunder damage. The target takes ongoing 5 lightning damage and is dazed (save ends both).",
@@ -1949,7 +1950,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you don’t provoke opportunity attacks."
   },
   "Encouraging Chant": {
@@ -1966,7 +1967,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone of hope that lasts until the end of your next turn. While within the zone, you and any allies gain a power bonus to saving throws equal to your Intelligence modifier."
   },
   "Know Weakness": {
@@ -1983,7 +1984,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose a creature within 10 squares of you. You know that creature’s current resistances and vulnerabilities, if any."
   },
   "Lore of Shom": {
@@ -2000,7 +2001,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make an Arcana check, a History check, or a Religion check and dislike the result",
     "effect": "You reroll the skill check with a power bonus equal to your Intelligence modifier and use either result."
   },
@@ -2018,7 +2019,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are damaged by an enemy’s attack",
     "effect": "The damage is reduced by 5. One ally within 5 squares of you gains a +1 power bonus to attack rolls until the start of your next turn."
   },
@@ -2036,7 +2037,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One or two creatures",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d10 + Wisdom modifier force damage, or 2d12 + Wisdom modifier force damage if you target only one creature. You push the target 1 square.",
@@ -2057,7 +2058,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier radiant damage. The next time the target deals damage before the end of your next turn, choose another enemy within 10 squares of you. That enemy takes 5 radiant damage.",
@@ -2077,7 +2078,7 @@
     "keywords": [
       "Charm, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "Until the end of your next turn, the target cannot use any attack power that requires a standard action, other than basic attacks.",
@@ -2097,7 +2098,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier psychic damage, and the target is dazed and slowed until the end of your next turn.",
@@ -2117,7 +2118,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy within 5 squares of you is damaged by a melee or a ranged attack",
     "target": "The triggering enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
@@ -2139,7 +2140,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier psychic damage, and the target grants combat advantage and cannot shift (save ends both).",
@@ -2159,7 +2160,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier damage, and the target is blinded (save ends).",
@@ -2180,7 +2181,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier radiant damage, and the target is dazed until the end of its next turn. If this power targets only one creature, the target is dazed (save ends).",
@@ -2200,7 +2201,7 @@
     "keywords": [
       "Divine, Fire, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier fire and radiant damage, and you knock the target prone.",
@@ -2221,7 +2222,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you and any allies adjacent to you gain a +2 bonus to AC and Reflex.",
     "sustainMinor": "The effect persists."
   },
@@ -2239,7 +2240,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a guardian angel in 1 square within range. The angel lasts until the end of your next turn. Any ally in the angel’s space or adjacent to it gains a +2 power bonus to AC. In addition, when you or an ally is hit by an attack while in the angel’s space or adjacent to it, you can dismiss the angel as an immediate interrupt and reduce the damage by half.",
     "sustainMinor": "The angel persists, and you can move it 5 squares."
   },
@@ -2257,7 +2258,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy makes a melee or a ranged attack roll against you",
     "effect": "You gain temporary hit points equal to 5 + your Wisdom modifier, and you gain a +2 power bonus to AC until the end of your next turn."
   },
@@ -2275,7 +2276,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "effect": "The burst creates a zone of dense fog that lasts until the end of your next turn. The zone is difficult terrain and heavily obscured.",
     "sustainMinor": "The zone persists, and you can increase its size by 1 to a maximum of blast 5."
   },
@@ -2293,7 +2294,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d6 + Wisdom modifier damage, and the target gains vulnerable 5 to all damage until the end of your next turn.",
@@ -2313,7 +2314,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d6 + Wisdom modifier damage, and the target is slowed until the end of your next turn.",
@@ -2333,7 +2334,7 @@
     "keywords": [
       "Divine, Fear, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d6 + Wisdom modifier thunder damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.",
@@ -2353,7 +2354,7 @@
     "keywords": [
       "Divine, Fire, Implement, Radiant"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d6 + Wisdom modifier radiant damage, and ongoing 5 fire damage (save ends).",
@@ -2374,7 +2375,7 @@
     "keywords": [
       "Conjuration, Divine, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure fiery symbols in 1 square within range. The symbols last until the end of your next turn. Any enemy that starts its turn within 5 squares of the symbols and does not end its turn at least 6 squares away from them takes fire damage equal to 10 + your Wisdom modifier."
   },
   "Baleful Admonishment": {
@@ -2391,7 +2392,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Will",
     "onHit": "1d10 + Wisdom modifier damage, and the target is affected by your baleful admonishment (save ends). Whenever the target hits with an attack before the baleful admonishment ends, you can take 5 damage as a free action to force the target to reroll the attack and use the second result. If the rerolled attack misses, the target takes 5 + your Constitution modifier damage.",
@@ -2411,7 +2412,7 @@
     "keywords": [
       "Divine, Implement, Thunder, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in burs",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d6 + Wisdom modifier thunder damage, and you push the target a number of squares equal to your Intelligence modifier.",
@@ -2433,7 +2434,7 @@
     "keywords": [
       "Divine, Implement, Lightning, Thunder, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d6 + Wisdom modifier lightning and thunder damage, and you slide the target 2 squares.",
@@ -2455,7 +2456,7 @@
     "keywords": [
       "Divine, Fear, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier damage. The target takes ongoing 10 damage and is immobilized (save ends both).",
@@ -2477,7 +2478,7 @@
     "keywords": [
       "Charm, Divine, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier psychic damage. The only attacks the target can make during its next turn are basic attacks. If your attack hits only one enemy, the only attacks it can make during its turn are basic attacks (save ends).",
@@ -2498,7 +2499,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "You roll initiative",
     "target": "You and one ally",
     "effect": "Each target gains a bonus to his or her initiative check equal to your Intelligence modifier. In addition, neither target is surprised."
@@ -2517,7 +2518,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you can increase the size of your close blast or close burst attacks by 1."
   },
   "Prayer of Vengeance": {
@@ -2534,7 +2535,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone of retribution that lasts until the end of your next turn. When any ally within the zone takes damage from an attack, that ally gains a +2 power bonus to attack rolls against the attacker until the end of the ally’s next turn.",
     "sustainMinor": "The zone persists."
   },
@@ -2552,7 +2553,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You use an area or a close attack power and an ally within 10 squares of you is in the area of effect",
     "target": "The triggering ally in the burst",
     "effect": "The target can shift a number of squares equal to your Intelligence modifier as a free action."
@@ -2571,7 +2572,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "1d10 + Wisdom modifier psychic damage, and the target is dazed and slowed until the end of your next turn. The first time the target attacks before the end of your next turn, it takes 10 psychic damage.",
@@ -2591,7 +2592,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier psychic damage. If the target is hit again before the end of your next turn, it is dazed until the end of its next turn.",
@@ -2611,7 +2612,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d8 + Wisdom modifier damage, and you knock the target prone.",
@@ -2632,7 +2633,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "trigger": "You are hit by an enemy attack",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
@@ -2652,7 +2653,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d8 + Wisdom modifier radiant damage, and the target is blinded until the end of your next turn.",
@@ -2673,7 +2674,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier damage, and ongoing 10 damage (save ends).",
@@ -2695,7 +2696,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "4d10 + Wisdom modifier necrotic damage, and the target vanishes from this world (save ends). You can end the effect as a minor action. When the effect ends, the target reappears in the space it last occupied or in the nearest unoccupied space.",
@@ -2716,7 +2717,7 @@
     "keywords": [
       "Cold, Divine, Implement, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier cold damage.",
@@ -2738,7 +2739,7 @@
     "keywords": [
       "Divine, Implement, Lightning, Thunder"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d8 + Wisdom modifier lightning and thunder damage, and the target is blinded and deafened (save ends both).",
@@ -2758,7 +2759,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, when any enemy makes a melee attack roll against you, it must roll twice and use the lower result."
   },
   "Pennant of Heaven's Armies": {
@@ -2775,7 +2776,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a shining banner in 1 square within range. The banner lasts until the end of your next turn. Any ally who has line of sight to the banner gains a bonus to saving throws against fear effects, and damage rolls. The bonus equals your Intelligence modifier.",
     "sustainMinor": "The banner persists."
   },
@@ -2793,7 +2794,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each ally in the burst",
     "effect": "The target doesn’t provoke opportunity attacks until the end of your next turn."
   },
@@ -2811,7 +2812,7 @@
     "keywords": [
       "Conjuration, Divine"
     ],
-    "range": "Area wall 10 within 10 squares<",
+    "range": "Area wall 10 within 10 squares",
     "effect": "You conjure a wall of divine energy. The wall can be up to 2 squares high, and it lasts until the end of your next turn. The wall is a solid obstacle, and it blocks line of sight. It can be climbed with an Athletics check (DC 20 + one-half your level).",
     "sustainMinor": "The wall persists."
   },
@@ -2829,7 +2830,7 @@
     "keywords": [
       "Divine, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy makes an attack against you",
     "effect": "You negate the triggering enemy’s attack against you and teleport 10 squares. You are dazed until the end of your next turn. If you were the only target of the triggering enemy’s attack, the attacker can take a different action."
   },
@@ -2847,7 +2848,7 @@
     "keywords": [
       "Divine, Fire, Implement, Radiant"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier fire and radiant damage. If the target doesn’t move away from you before the end of its next turn, it takes 5 fire and radiant damage and a -2 penalty to all defenses until the end of your next turn."
@@ -2866,7 +2867,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d6 + Wisdom modifier fire damage. Make a secondary attack that is an area burst 2 centered on the primary target.",
@@ -2888,7 +2889,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d10 + Wisdom modifier necrotic damage. The first time the target moves before the start of your next turn, it takes 5 necrotic damage.",
@@ -2908,7 +2909,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d6 + Wisdom modifier thunder damage, and the target is pushed 1 square and deafened until the end of its next turn."
@@ -2927,7 +2928,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier psychic damage, and the target is weakened until the end of your next turn.",
@@ -2948,7 +2949,7 @@
     "keywords": [
       "Charm, Divine, Implement, Psychic, Reliable"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier psychic damage, and the target is dominated (save ends). Until this domination ends, you grant combat advantage.",
@@ -2968,7 +2969,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "4d8 + Wisdom modifier radiant damage.",
@@ -2989,7 +2990,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d10 + Wisdom modifier thunder damage, and you push the target 5 squares and knock it prone. In addition, the target is deafened (save ends).",
@@ -3011,7 +3012,7 @@
     "keywords": [
       "Divine, Implement, Psychic, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d6 + Wisdom modifier psychic damage, and ongoing 10 psychic damage (save ends).",
@@ -3032,7 +3033,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a bonus to all defenses equal to your Intelligence modifier. Each time an attack misses you, the bonus is reduced by 1. This effect lasts until the end of the encounter or until the bonus is 0."
   },
   "Herald of God": {
@@ -3049,7 +3050,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +10 power bonus to Bluff checks, Diplomacy checks, and Intimidate checks."
   },
   "Invoke Sight": {
@@ -3066,7 +3067,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "The target gains truesight until the end of your next turn. If the target is blinded, that condition ends.",
     "sustainMinor": "The truesight persists."
@@ -3085,7 +3086,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you makes an attack on its turn",
     "target": "The triggering enemy",
     "attack": "Wisdom vs. Will",
@@ -3106,7 +3107,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier necrotic damage. You teleport the target 5 squares, and it is immobilized until the end of your next turn. If you target only one creature, the attack deals 1d8 extra necrotic damage, and you teleport the target 10 squares instead of 5."
@@ -3125,7 +3126,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "Whenever the target deals damage with an attack before the end of your next turn, it takes 15 force damage and is dazed until the end of your next turn."
@@ -3144,7 +3145,7 @@
     "keywords": [
       "Divine, Implement, Poison, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d6 + Wisdom modifier poison damage. The target’s space becomes a zone of poison gas that lasts until the end of your next turn. Any creature that starts its turn within the zone or adjacent to it takes 5 poison damage.",
@@ -3164,7 +3165,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d10 + Wisdom modifier psychic damage, and the target is stunned until the end of your next turn.",
@@ -3185,7 +3186,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d10 + Wisdom modifier damage. The target loses all resistances and gains vulnerable 20 to all damage (save ends both).",
@@ -3206,7 +3207,7 @@
     "keywords": [
       "Conjuration, Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a radiant sphere in an unoccupied square within range. The sphere occupies 1 square, and it lasts until the end of your next turn. Any enemy that starts its turn adjacent to the sphere takes 1d8 + your Wisdom modifier radiant damage. While adjacent to the sphere, any ally gains a +2 power bonus to all defenses. As a move action, you can move the sphere 8 squares. When the sphere appears, it makes the following attack.",
     "target": "One creature adjacent to the sphere",
     "attack": "Wisdom vs. Reflex",
@@ -3227,7 +3228,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d6 + Wisdom modifier force damage, and the target takes ongoing 20 force damage and is immobilized (save ends both).",
@@ -3248,7 +3249,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One target",
     "attack": "Wisdom vs. Will",
     "onHit": "8d6 + Wisdom modifier psychic damage. The only attacks the target can make are basic attacks (save ends).",
@@ -3269,7 +3270,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Wisdom vs. Reflex",
     "onHit": "4d6 + Wisdom modifier fire damage. The first time the target is hit by a melee or a close attack before the end of your next turn, it takes 10 fire damage.",
@@ -3289,7 +3290,7 @@
     "keywords": [
       "Charm, Divine, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is dominated until the end of your next turn.",
@@ -3310,7 +3311,7 @@
     "keywords": [
       "Cold, Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "Two creatures",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d8 + Wisdom modifier cold damage. Whenever the target deals damage before the end of your next turn, the other target of this power takes 15 cold damage."
@@ -3329,7 +3330,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "4d10 + Wisdom modifier necrotic damage.",
@@ -3350,7 +3351,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "4d8 + Wisdom modifier force damage, and the target is dazed (save ends).",
@@ -3371,7 +3372,7 @@
     "keywords": [
       "Divine, Implement, Zone ; Varies"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude, Reflex, Will. You make one attack roll per target, comparing the result against all three defenses. A target might be hit up to three times, depending on which defenses are hit.",
     "onHit (Fortitude)": "1d8 + Wisdom modifier force damage, and ongoing 5 cold damage (save ends).",
@@ -3393,7 +3394,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d10 + Wisdom modifier fire damage, and ongoing 20 fire damage (save ends).",
@@ -3414,7 +3415,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d8 + Wisdom modifier force damage, and the target is stunned (save ends).",
@@ -3435,7 +3436,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d6 + Wisdom modifier damage, and you push the target 1 square. If the target moves nearer to you on its next turn, it takes extra damage equal to your Constitution modifier.<br/>Level 21: 2d6 + Wisdom modifier damage."
@@ -3454,7 +3455,7 @@
     "keywords": [
       "Divine, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d8 + Wisdom modifier thunder damage. Roll a d8 to determine an effect.<br/>1. The target takes ongoing 10 damage (save ends).<br/>2. You push the target 1 square, and it takes ongoing 10 damage (save ends).<br/>3. You push the target 2 squares, and it takes ongoing 10 damage (save ends).<br/>4. You push the target 3 squares, and it takes ongoing 10 damage (save ends).<br/>5. You push the target 3 squares, and it takes ongoing 10 damage and is slowed (save ends both).<br/>6. You push the target 3 squares and knock it prone, and it takes ongoing 10 damage (save ends).<br/>7. You push the target 3 squares, and it takes ongoing 10 damage and is dazed (save ends both).<br/>8. The target takes 2d8 extra thunder damage.",
@@ -3474,7 +3475,7 @@
     "keywords": [
       "Divine, Healing, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone of divine power that lasts until the end of your next turn. When a nonbloodied ally within the zone becomes bloodied or drops to 0 hit points or fewer, that creature can spend a healing surge."
   },
   "Death's Dread Whisper": {
@@ -3491,7 +3492,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target is dazed and takes a −2 penalty to attack rolls until the end of your next turn."
@@ -3510,7 +3511,7 @@
     "keywords": [
       "Divine, Implement, Necrotic, Poison"
     ],
-    "range": "Area burst 5 within 10 squares<",
+    "range": "Area burst 5 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target suffers the vile plague (save ends). A target suffering from the vile plague is dazed, slowed, and takes ongoing 10 necrotic and poison damage. In addition, all creatures adjacent to the target suffering from the vile plague at the end of their turn take 5 necrotic damage.",
@@ -3530,7 +3531,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One dead ally",
     "effect": "The target becomes an undead ally until the end of the encounter. The target regains hit points equal to its bloodied value and gains the undead keyword. It is slowed, immune to disease and poison, has resist 10 necrotic and vulnerable 5 radiant, and its melee attacks deal extra necrotic damage equal to your Wisdom modifier. The target is otherwise unchanged and can act normally. At the end of the encounter, the ally dies, but can be brought back to life with the Raise Dead ritual or similar means."
   },
@@ -3548,7 +3549,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d10 + Wisdom necrotic damage, and the target is slowed and weakened until the end of your next turn."
@@ -3567,7 +3568,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "7d10 + Wisdom modifier necrotic damage. If this attack bloodies the target, it takes 1d10 extra damage.",
@@ -3591,7 +3592,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "Until the end of the encounter, you can determine lines of sight and effect for your divine ranged or area at-will or encounter attacks from the target, rather than from yourself, as long as you have line of sight to the target."
   },
@@ -3609,7 +3610,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Teleportation"
     ],
-    "range": "Area burst 2 within 10<",
+    "range": "Area burst 2 within 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "4d6 + Wisdom modifier radiant damage, and you teleport the target to any other space in or adjacent to the burst.",
@@ -3630,7 +3631,7 @@
     "keywords": [
       "Divine, Teleportation"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy pushes, pulls, slides, or teleports you or an ally within range",
     "target": "The creature subjected to forced movement",
     "effect": "When the enemy moves the target, you teleport the target 5 squares instead of that movement."
@@ -3649,7 +3650,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d8 + Wisdom modifier radiant damage, and the target bears Amoth’s penance (save ends). The first time on each of its turns that a creature bearing Amoth’s penance makes a damage roll against an ally, that creature takes radiant damage equal to the damage rolled.",
@@ -3669,7 +3670,7 @@
     "keywords": [
       "Divine, Implement, Lightning, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "4d6 + Wisdom modifier lightning damage, and the target takes a -2 penalty to attack rolls (save ends).",
@@ -3690,7 +3691,7 @@
     "keywords": [
       "Divine, Implement, Lightning"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d8 + Wisdom lightning damage, and the target is dazed until the end of your next turn."
@@ -3709,7 +3710,7 @@
     "keywords": [
       "Divine, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d8 + Wisdom modifier lightning damage, and the target slides 2 squares. Any creature that starts its turn adjacent to the target takes 5 lightning damage."
@@ -3728,7 +3729,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy damages you with an attack",
     "effect": "You gain temporary hit points equal to your healing surge value. Add the lightning and thunder damage types to the next attack you make before the end of your next turn. The power also gains those keywords. If the next attack you make before the end of your next turn hits the triggering enemy, it is dazed (save ends)."
   },
@@ -3746,7 +3747,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d10 + Wisdom modifier damage, and the target slides 3 squares. Make a secondary attack.",
@@ -3768,7 +3769,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom +2 vs. AC",
     "onHit": "1d8 + Wisdom modifier damage.",
@@ -3790,7 +3791,7 @@
     "keywords": [
       "Divine, Implement, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon a Medium angelic protector in an unoccupied square within range. The angel has speed 6 and has a +2 bonus to AC. You can give the angel the following special commands.",
     "standardAction": "Melee 1; Wisdom vs. Reflex; 2d12 + Wisdom modifier damage, and the target is marked until the end of your next turn.",
     "opportunityAttack": "Melee 1; targets one creature; Wisdom vs. Fortitude; the target is immobilized until the end of your next turn."
@@ -3809,7 +3810,7 @@
     "keywords": [
       "Divine, Fear, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "The target takes ongoing 10 radiant damage (save ends).",
@@ -3831,7 +3832,7 @@
     "keywords": [
       "Divine, Radiant, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You enter the altar of confinement stance. Until the stance ends, whenever you use a divine encounter or daily power, one enemy you can see that is not adjacent to any creature takes radiant damage equal to the higher of your Constitution or Intelligence modifiers."
   },
   "Heaven's Bountiful Reward": {
@@ -3848,7 +3849,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "You drop a non-minion enemy to 0 hit points with an invoker attack power",
     "target": "You and each ally in the burst",
     "effect": "The target gains temporary hit points equal to your Wisdom modifier."
@@ -3867,7 +3868,7 @@
     "keywords": [
       "Divine, Implement, Radiant, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "1d6 + Wisdom modifier radiant damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.",
@@ -3887,7 +3888,7 @@
     "keywords": [
       "Divine, Implement, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon a Medium celestial lion in an unoccupied square within range. The lion has speed 6 and gains a +2 bonus to speed when charging. It has a +2 bonus to AC and Reflex. You can give the lion the following special commands.",
     "standardAction": "The celestial lion charges and makes the following attack: Wisdom + 1 vs. Fortitude; 1d12 + Wisdom modifier damage, and the target is knocked prone.",
     "opportunityAttack": "Melee 1; targets one creature; Wisdom + 1 vs. Fortitude; 1d12 + Wisdom modifier damage, and the celestial lion shifts 1 square."
@@ -3906,7 +3907,7 @@
     "keywords": [
       "Divine, Fire, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, three, four, or five creatures",
     "attack": "Wisdom vs. Reflex",
     "onHit": "1d4 + Wisdom modifier fire and radiant damage.",
@@ -3929,7 +3930,7 @@
     "keywords": [
       "Divine, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You enter the altar of defense stance. Until the stance ends, whenever you use an invoker encounter or daily power, one ally within 10 squares that you can see gains a +2 bonus to all defenses until the end of your next turn."
   },
   "Patron's Blessing": {
@@ -3946,7 +3947,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You regain the use of an expended Channel Divinity power. You may use Channel Divinity a second time during this encounter."
   },
   "Curse of the Divine Plague": {
@@ -3963,7 +3964,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "The target is dazed, and afflicted by the divine plague until the end of your next turn.",
@@ -3983,7 +3984,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "effect": "The target can choose to become blinded until the end of your next turn. If it does, then it not subject to the following attack.",
     "attack": "Wisdom vs. Will",
@@ -4003,7 +4004,7 @@
     "keywords": [
       "Divine, Fire, Implement"
     ],
-    "range": "Melee or Ranged 5<",
+    "range": "Melee or Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d12 + Wisdom modifier fire damage",
@@ -4023,7 +4024,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d10 + Wisdom modifier damage, and the target is knocked prone.",
@@ -4043,7 +4044,7 @@
     "keywords": [
       "Divine, Healing, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon an angelic messenger in an unoccupied square within range. The angelic messenger has speed 6, and fly 8 (hover). You can give the angelic messenger the following special commands.",
     "standardAction": "Melee 1; targets one ally; the ally regains 1d6 hit points.",
     "moveAction": "The angelic messenger and one ally adjacent to it fly 8 squares. The ally must land at the end of this movement, or he or she falls."
@@ -4062,7 +4063,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone of locusts that lasts until the end of your next turn. The zone moves with you, remaining centered on your space. Squares inside the zone are heavily obscured and whenever a creature is bloodied by an attack while inside the zone, that creature becomes dazed until the end of its next turn.",
     "sustainMinor": "The zone persists."
   },
@@ -4080,7 +4081,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "2d8 + Wisdom modifier radiant damage, and if the target ends its next turn adjacent to an ally, it takes 5 radiant damage."
@@ -4099,7 +4100,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn. If the target is a shapechanger, it is instead dazed (save ends)."
@@ -4118,7 +4119,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. Will",
     "onHit": "1d8 + Wisdom modifier psychic damage, and at the start of the target’s next turn, the target takes a free action to make a basic attack against its nearest ally. If it cannot do so, it takes another 5 psychic damage and becomes dazed until the end of its turn.",
@@ -4138,7 +4139,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy ends its turn within 5 squares of you.",
     "target": "The triggering enemy",
     "attack": "Wisdom vs. Reflex",

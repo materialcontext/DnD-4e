@@ -13,14 +13,15 @@
     "keywords": [
       "Augmentable, Conjuration, Fire, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "bonusPower": {
       "name": "Hungry Flames Attack",
       "flavor": "",
       "keywords": [
         "Augmentable, Fire, Implement, Psionic"
       ],
-      "range": "Melee 1<",
+      "range": "Melee 1",
+      "frequency": "Encounter",
       "requirement": "The power Hungry Flames must be active in order to use this power.",
       "trigger": "An enemy starts its turn in a square adjacent to a hungry flame",
       "target": "The triggering enemy",
@@ -43,7 +44,7 @@
     "keywords": [
       "Fire, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "The creature with your psychic spark",
     "effect": "You place a psychic spark inside the target. The spark lasts until the end of the encounter or until expended. Until the spark ends, the target has vulnerable 10 fire and you can use the Spontaneous Combustion Attack power. If you drop to 0 hit points or fewer before the spark ends, you make this attack as an immediate interrupt.",
     "requirement": "The power Spontaneous Combustion must be active in order to use this power.",
@@ -66,7 +67,7 @@
     "keywords": [
       "Fire, Implement, Psionic"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "requirement": "The feature Fiery Nimbus must be active in order to use this power.",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
@@ -86,7 +87,7 @@
     "keywords": [
       "Fire, Psionic, Zone"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move your speed + 4. Each square you leave during that movement becomes a zone that lasts until the start of your next turn. Any creature that enters the zone takes 5 fire damage."
   }
 }

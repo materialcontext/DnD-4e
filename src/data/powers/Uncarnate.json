@@ -13,7 +13,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d12 + Intelligence modifier psychic damage, and you pull the target 5 squares. If you pull the target to a square adjacent to you, the target is immobilized until the end of your next turn. If the target is insubstantial, it loses the insubstantial quality until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become a being of thought until the end of the encounter. In this form, you are insubstantial, gain fly 6 (hover, maximum altitude 2) and a +2 power bonus to AC and Reflex, and can’t take standard actions. You can end the effect as a minor action."
   },
   "Dissolve the Flesh": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d6 + Intelligence modifier damage, and ongoing 10 damage (save ends).",

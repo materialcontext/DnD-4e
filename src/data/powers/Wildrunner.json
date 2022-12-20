@@ -13,7 +13,7 @@
     "keywords": [
       "Primal, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you shift 3 squares.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points",
     "effect": "You shift a number of squares equal to your Strength modifier."
   },
@@ -51,7 +51,7 @@
     "keywords": [
       "Primal, Rage, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the primary target is immobilized until the end of your next turn.",

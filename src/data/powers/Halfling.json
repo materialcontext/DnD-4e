@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are hit by an attack.</p><p class=\"flavor\">Effect: The attacker must reroll the attack and use the second roll, even if it is lower.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack.",
     "effect": "The attacker must reroll the attack and use the second roll, even if it is lower."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: A creature you can see starts its turn.</p><p class=\"flavor\">Effect: You shift up to 2 squares.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A creature you can see starts its turn.",
     "effect": "You shift up to 2 squares."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "You assume the minor threat stance. Until the stance ends and while you are bloodied, you have a +2 power bonus to all defenses and to Stealth checks."
   },
@@ -67,7 +67,7 @@
     "keywords": [
       "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: An enemy flanked by you moves out of the flanked position.</p><p class=\"flavor\">Effect: Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn.</p>"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "An enemy flanked by you moves out of the flanked position.",
     "effect": "Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn."
   },
@@ -85,7 +85,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn."
   }
 }

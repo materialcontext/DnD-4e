@@ -1,0 +1,62 @@
+{
+  "Command of the Abyss": {
+    "id": "'11310",
+    "action": "Standard",
+    "powerClass": "Umbral Cabalist",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Command of the Abyss",
+    "type": "Cabalist",
+    "sourceRef": "Dragon Magazine 383",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCommand of the Abyss\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11310\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Umbral Cabalist Attack 11</span>Command of the Abyss</h1><p class=\\\"flavor\\\"><i>Calling forth lore that bound the powerful demon Kulnoghrim, you rend your foe’s mind and leave it less able to ward off outside influences.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d6 + Constitution psychic damage, and you stun the target until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 42.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Calling forth lore that bound the powerful demon Kulnoghrim, you rend your foe’s mind and leave it less able to ward off outside influences.",
+    "keywords": [
+      "Arcane, Implement, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "1d6 + Constitution psychic damage, and you stun the target until the end of your next turn."
+  },
+  "Vestige of Kulnoghrim": {
+    "id": "'11311",
+    "action": "Standard",
+    "powerClass": "Umbral Cabalist",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Vestige of Kulnoghrim",
+    "type": "Cabalist",
+    "sourceRef": "Dragon Magazine 383",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVestige of Kulnoghrim\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11311\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Umbral Cabalist Attack 20</span>Vestige of Kulnoghrim</h1><p class=\\\"flavor\\\"><i>You don the awesome fury of Kulnoghrim the Terrible, bringing his fiery wrath and madness down on your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Fire</b>, <b>Implement</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10 squares</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 fire damage and ongoing 10 fire damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage and ongoing 5 fire damage (save ends).</p><p class=\\\"flavor\\\"><b>Vestige Pact</b>: You gain access to the vestige of Kulnoghrim.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Kulnoghrim Pact Boon</b>: One creature within 5 squares or affected by your Warlock’s Curse makes a basic attack against a target of your choice as a free action.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Eyes of the Vestige Augment</b>: If your eyes of the vestige target doesn’t end its next turn farther from you than it began the turn, it takes fire damage equal to your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 42.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You don the awesome fury of Kulnoghrim the Terrible, bringing his fiery wrath and madness down on your enemies.",
+    "keywords": [
+      "Arcane, Fire, Implement"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "3d10 fire damage and ongoing 10 fire damage (save ends).",
+    "onMiss": "Half damage and ongoing 5 fire damage (save ends).",
+    "vestigePact": "You gain access to the vestige of Kulnoghrim.",
+    "kulnoghrimPactBoon": "One creature within 5 squares or affected by your Warlock’s Curse makes a basic attack against a target of your choice as a free action.",
+    "eyesOfTheVestigeAugment": "If your eyes of the vestige target doesn’t end its next turn farther from you than it began the turn, it takes fire damage equal to your Intelligence modifier."
+  },
+  "Clarifying Rebuke": {
+    "id": "'11312",
+    "action": "Immediate Interrupt",
+    "powerClass": "Umbral Cabalist",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Clarifying Rebuke",
+    "type": "Cabalist",
+    "sourceRef": "Dragon Magazine 383",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nClarifying Rebuke\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11312\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Umbral Cabalist Utility 12</span>Clarifying Rebuke</h1><p class=\\\"flavor\\\"><i>You rally your will, calling upon the secrets of the cabal’s Grand Jailer to stay in control.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An effect dominates you, or you are subject to a charm or fear effect that a save can end</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering effect doesn’t affect you. You can place your Warlock’s Curse on the creature that caused the triggering effect, if any.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 42.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You rally your will, calling upon the secrets of the cabal’s Grand Jailer to stay in control.",
+    "keywords": [
+      "Arcane"
+    ],
+    "range": "Personal",
+    "trigger": "An effect dominates you, or you are subject to a charm or fear effect that a save can end",
+    "effect": "The triggering effect doesn’t affect you. You can place your Warlock’s Curse on the creature that caused the triggering effect, if any."
+  }
+}

@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. One enemy within 5 squares of you other than the target is marked until the end of your next turn.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane, Force"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "targets": "You and each ally in the burst",
     "effect": "All affected creatures gain a +2 bonus to AC and Reflex defense until the end of your next turn."
   },
@@ -51,7 +51,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "targets": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier force damage.<br/>Increase damage to 2d6 + Intelligence modifier at 21st level."
@@ -70,7 +70,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage. Make a secondary attack.",
@@ -92,7 +92,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage, and the target is immobilized until the end of your next turn.",
@@ -112,7 +112,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier fire damage, and you deal fire damage equal to your Strength modifier to all enemies adjacent to the target. <br/>Increase damage to 2[W] + Intelligence modifier at 21st level."
@@ -131,7 +131,7 @@
     "keywords": [
       "Arcane, Thunder, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage, and if the target is adjacent to you at the start of its next turn and moves away during that turn, it takes 1d6 + Constitution modifier thunder damage.<br/>Increase damage to 2[W] + Intelligence modifier at 21st level."
@@ -150,7 +150,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage. Make a secondary attack.",
@@ -172,7 +172,7 @@
     "keywords": [
       "Arcane, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1[W] + Intelligence modifier thunder damage, and you push the target 2 squares.",
@@ -193,7 +193,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier lightning damage."
@@ -212,7 +212,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier cold damage, and the target is slowed until the end of your next turn."
@@ -231,7 +231,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier damage, and the target is immobilized until the end of your next turn."
@@ -250,7 +250,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier cold damage, and the target takes cold damage equal to your Constitution modifier each time it attacks until the start of your next turn."
@@ -269,7 +269,7 @@
     "keywords": [
       "Acid, Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier acid damage, and enemies adjacent to the target take 1d6 + Strength modifier acid damage.",
@@ -289,7 +289,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1[W] + Intelligence modifier damage, and the target is weakened until the end of your next turn. If the target attacks while it is weakened, it takes cold damage equal to 5 + your Constitution modifier."
@@ -308,7 +308,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and you teleport the target into a space adjacent to you.",
@@ -328,7 +328,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier fire damage. Make a secondary attack.",
@@ -351,7 +351,7 @@
     "keywords": [
       "Arcane, Conjuration, Fire, Implement"
     ],
-    "range": "Area wall 3 within 1 square<",
+    "range": "Area wall 3 within 1 square",
     "effect": "You conjure a wall of contiguous squares filled with leaping flames that lasts until the start of your next turn. The wall can be 3 squares long and no more than 1 square high. Only 1 square of the wall must be within 1 square of you.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that enters the wall’s space or starts its turn there takes 1d8 + Constitution modifier fire damage. A creature can take this damage only once per turn."
   },
   "Lightning Lure": {
@@ -368,7 +368,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 3<",
+    "range": "Ranged 3",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier lightning damage, and you pull the target to the  nearest unoccupied space adjacent to you.<br/>Increase damage to 2d6 + Intelligence modifier at 21st level.",
@@ -388,7 +388,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "requirement": "You must throw your melee weapon at the target.",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
@@ -410,7 +410,7 @@
     "keywords": [
       "Arcane, Fire, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier fire damage. If the target is within 5 squares of you at the end of its next turn, as a free action you can teleport to a space that must be adjacent to the target.",
@@ -430,7 +430,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you and an ally who is adjacent to you teleport 5 squares to spaces that must be adjacent to the target.",
     "attack": "Intelligence vs. AC",
@@ -450,7 +450,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier force damage. The target takes damage equal to your Strength modifier if it does not end its turn adjacent to you (save ends).",
@@ -470,7 +470,7 @@
     "keywords": [
       "Arcane, Poison, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you hit an enemy with a melee attack, each enemy adjacent to the target of that attack takes poison damage equal to your Constitution modifier. Also, whenever you hit an enemy marked by your Swordmage Aegis power with a melee attack, it takes poison damage equal to your Constitution modifier."
   },
   "Eldritch Chains": {
@@ -487,7 +487,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier force damage. Until the end of the encounter, whenever you end your turn adjacent to the target, the target is immobilized until the end of your next turn.",
@@ -508,7 +508,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "effect": "The target is marked by your Swordmage Aegis power. Marking the target does not remove the mark on another target already affected by your Swordmage Aegis. If you mark only one target with this power, you do not expend the power but cannot use it again during this encounter."
   },
@@ -526,7 +526,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you are automatically aware of each creature within 5 squares of you, including those that are hidden or invisible. You know the squares that any of those creatures occupy, but this knowledge does not negate the effects of cover, superior cover, concealment, or total concealment."
   },
   "Aegis of Lost Souls": {
@@ -543,7 +543,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Area burst 2 centered on the triggering enemy<",
+    "range": "Area burst 2 centered on the triggering enemy",
     "trigger": "An enemy within 10 squares of you drops to 0 hit points",
     "target": "Each enemy in the burst",
     "effect": "The target is marked by your Swordmage Aegis power. Marking the target does not remove the mark on another target already affected by your Swordmage Aegis. Using this power does not provoke opportunity attacks."
@@ -562,7 +562,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You fly a number of squares equal to your speed."
   },
   "Aegis of Assault": {
@@ -579,7 +579,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "One creature in the burst",
     "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark other creatures using other powers, the target is still marked. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your marked target makes an attack that doesn’t include you as a target, it takes a –2 penalty to attack rolls. If that attack hits and the marked target is within 10 squares of you, you can use an immediate reaction to teleport to a square adjacent to the target and make a melee basic attack against it. If no unoccupied space exists adjacent to the target, you can’t use this immediate reaction."
   },
@@ -597,7 +597,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "One creature in the burst",
     "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark other creatures using other powers, the target is still marked. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your marked target makes an attack that doesn’t include you as a target, it takes a –2 penalty to attack rolls. If that attack hits and the marked target is  within 10 squares of you, you can use an immediate interrupt to reduce the damage dealt by that attack to any one creature by an amount equal to 5 + your Constitution modifier.<br/>At 11th level, reduce the damage dealt by 10 + your Constitution modifier. At 21st level, reduce the damage dealt by 15 + your Constitution modifier."
   },
@@ -615,7 +615,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier + Strength modifier fire damage."
@@ -634,7 +634,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier fire damage.",
@@ -654,7 +654,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An adjacent creature hits you",
     "target": "The creature that hit you",
     "attack": "Intelligence vs. Reflex",
@@ -675,7 +675,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "requirement": "You must throw your melee weapon at the target.",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
@@ -696,7 +696,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Use this power before rolling initiative. You gain a +5 power bonus to your initiative roll. You can take an extra move action during the first round of combat (or during the surprise round, if you are allowed to act during that round)."
   },
   "Fear No Elements": {
@@ -713,7 +713,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose acid, cold, fire, lightning, or thunder. Until the end of the encounter, you gain resist 5 + your Constitution modifier to that damage type."
   },
   "Mythal Recovery": {
@@ -730,7 +730,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Make a saving throw against an effect that a save can end."
   },
   "Corrosive Ruin": {
@@ -747,7 +747,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier acid damage."
@@ -766,7 +766,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2[W] + Intelligence modifier damage.",
@@ -786,7 +786,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage.",
@@ -806,7 +806,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex, one attack per target",
     "onHit": "1d8 + Intelligence modifier damage, and ongoing 5 lightning damage (save ends).",
@@ -826,7 +826,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Teleport 5 squares. If you end this move adjacent to an enemy, you gain a +2 power bonus to the next attack roll you make against that enemy during your turn."
   },
   "Dimensional Warding": {
@@ -843,7 +843,7 @@
     "keywords": [
       "Arcane, Stance, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts as long as the stance persists. Enemies within the zone cannot teleport. Enemies outside the zone cannot teleport into it.",
     "special": "The zone remains centered on you, even if you move."
   },
@@ -861,7 +861,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, any effect that a save can end that you place on an enemy causes a –2 penalty to saving throws against the effect."
   },
   "Electrified Lash": {
@@ -878,7 +878,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier lightning damage."
@@ -897,7 +897,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier force damage. If the target moves before the end of its next turn, it takes force damage equal to 5 + your Strength modifier.",
@@ -917,7 +917,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage, and the target is blinded (save ends).",
@@ -937,7 +937,7 @@
     "keywords": [
       "Arcane, Reliable, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and you teleport the target 5 squares."
@@ -956,7 +956,7 @@
     "keywords": [
       "Arcane, Conjuration, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] +Intelligence modifier damage.",
@@ -976,7 +976,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you do not grant combat advantage to any of your enemies."
   },
   "Dimensional Dodge": {
@@ -993,7 +993,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy within 20 squares of you hits you with a ranged attack.",
     "effect": "You teleport adjacent to the enemy."
   },
@@ -1011,7 +1011,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Your warding provides its bonus to all your defenses, not just AC."
   },
   "Dimensional Slash": {
@@ -1028,7 +1028,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. Teleport yourself and your target anumber of squares equal to 1 + your Constitution modifier. You must appear in a square adjacent to the target."
@@ -1047,7 +1047,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage, and you push the target a number of squares equal to your Constitution modifier + 2. Make a secondary attack.",
@@ -1070,7 +1070,7 @@
     "keywords": [
       "Acid, Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and ongoing 10 acid damage (save ends).",
@@ -1090,7 +1090,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Relfex",
     "onHit": "2d10 + Intelligence modifier fire damage, and ongoing 5 fire damage (save ends).",
@@ -1110,7 +1110,7 @@
     "keywords": [
       "Arcane, Lightning, Stance, Thunder"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "An enemy that starts its turn adjacent to you and moves away takes 2d8 lightning and thunder damage."
   },
   "Bolstering Warding": {
@@ -1127,7 +1127,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "At the end of your turn, before making saving throws, remove one effect on yourself that a save can end."
   },
   "Elemental Protection": {
@@ -1144,7 +1144,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose acid, cold, fire, lightning, or thunder. Until the end of the encounter, you gain resist 10 + your Constitution modifier to that damage type."
   },
   "Ironskin": {
@@ -1161,7 +1161,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain resist 5 to all damage."
   },
   "Sudden Escape": {
@@ -1178,7 +1178,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You would be hit by an attack",
     "effect": "Teleport 2 squares."
   },
@@ -1196,7 +1196,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier damage.",
@@ -1216,7 +1216,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier fire damage.",
@@ -1240,7 +1240,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and ongoing 10 lightning damage (save ends). When the target takes ongoing damage from this power, enemies adjacent to the target take 10 lightning damage.",
@@ -1260,7 +1260,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +5 power bonus to Perception checks, you ignore attack penalties for targets that have concealment or total concealment, and you can see invisible targets as if they were visible.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While this power is active, you can force an enemy within line of sight to reroll an attack roll made against you or an ally, with a penalty equal to your Constitution modifier. The enemy must use the new result. Using this benefit ends the power’s effects immediately."
   },
   "Giant's Might": {
@@ -1277,7 +1277,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Your size category becomes the next larger one, such as from Medium to Large. You gain a +5 power bonus to Strength ability checks, a +2 power bonus to melee attack rolls, and a +5 power bonus to melee damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If this power increases your size to Large, Huge, or Colossal, your space increases to match the new size and your reach also increases by 1. If there is insufficient room for your space to increase, this power automatically fails.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This transformation persists until the end of the encounter or until you choose to end it as a minor aciton."
   },
   "Shackled Warding": {
@@ -1294,7 +1294,7 @@
     "keywords": [
       "Arcane, Stance, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts as long as the stance persists. Enemies wtihin the zone cannot teleport. Enemies outside the zone cannot teleport into it. Enemies who begin their turn within the zone are slowed untl the end of their turn.",
     "special": "The zone remains centered on you, even if you move."
   },
@@ -1312,7 +1312,7 @@
     "keywords": [
       "Arcane, Thunder, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "trigger": "An adjacent creature hits you with an attack",
     "target": "Each creature in the blast. The creature that triggered this power must be in the area of the blast.",
     "attack": "Intelligence vs. Fortitude",
@@ -1333,7 +1333,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier lightning damage.",
@@ -1357,7 +1357,7 @@
     "keywords": [
       "Arcane, Cold, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "4[W] + Intelligence modifier damage, and ongoing 10 cold damage (save ends). Each time the target takes a move action before it has saved against the ongoing cold damage, the target takes extra cold damage equal to your Constitution modifier."
@@ -1376,7 +1376,7 @@
     "keywords": [
       "Arcane, Reliable, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One enemy",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1[W] + Intelligence modifier damage, and you push the target a number of squares equal to 1 + your Strength modifier. Make a secondary attack.",
@@ -1398,7 +1398,7 @@
     "keywords": [
       "Arcane, Fire, Lightning, Thunder, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier fire, lightning and thunder damage.",
@@ -1418,7 +1418,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2[W] + Intelligence modifier force damage, and you push the target 3 squares.",
@@ -1438,7 +1438,7 @@
     "keywords": [
       "Arcane, Fire, Lightning, Teleportation, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before making the attack, you can teleport 10 squares to a space adjacent to the target. If you do, the attack is a charge.",
     "attack": "Intelligence vs. AC",
@@ -1458,7 +1458,7 @@
     "keywords": [
       "Arcane, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier thunder damage.",
@@ -1482,7 +1482,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "5[W] + Intelligence modifier damage.",
@@ -1506,7 +1506,7 @@
     "keywords": [
       "Arcane, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "7[W] + Intelligence modifier damage",
@@ -1526,7 +1526,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 lightning damage. If the target moves during its next turn, it takes lightning damage equal to your Intelligence modifier."
@@ -1545,7 +1545,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage, and you can swap positions with the target.",
@@ -1565,7 +1565,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier cold damage, and the target is immobilized (save ends).",
@@ -1585,7 +1585,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you shift, you can shift 1 additional square."
   },
   "Host of Shields": {
@@ -1602,7 +1602,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +2 power bonus to AC and Reflex."
   },
   "Blazing Lunge": {
@@ -1619,7 +1619,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2[W] + Intelligence modifier fire damage.",
@@ -1640,7 +1640,7 @@
     "keywords": [
       "Arcane, Poison, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. Until the end of your next turn, when the target uses a move action, it takes poison damage equal to your Constitution modifier."
@@ -1659,7 +1659,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier force damage, and the target is immobilized until the end of your next turn.",
@@ -1679,7 +1679,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage.",
@@ -1700,7 +1700,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move 12 squares."
   },
   "Dazing Rebuke": {
@@ -1717,7 +1717,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy within 5 squares of you hits or misses an ally",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Will",
@@ -1738,7 +1738,7 @@
     "keywords": [
       "Arcane, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. You can spend a healing surge.",
@@ -1758,7 +1758,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage. Each creature other than you that is adjacent to the target takes damage equal to your Intelligence modifier + your Strength modifier."
@@ -1777,7 +1777,7 @@
     "keywords": [
       "Arcane, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. Until the end of the encounter, you gain regeneration equal to 2 + your Constitution modifier while you are bloodied.",
@@ -1799,7 +1799,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier thunder damage, and you knock the target prone."
@@ -1818,7 +1818,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +2 power bonus to speed and a +2 power bonus to Athletics checks, Acrobatics checks, and Stealth checks, and you ignore difficult terrain."
   },
   "Spider's Leap": {
@@ -1835,7 +1835,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make an Athletics check to jump with a +10 power bonus. You are considered to have a running start and can move as far as the check allows.",
     "aegisOfEnsnarement": "When you charge, you can use this power as a free action."
   },
@@ -1853,7 +1853,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "Intelligence modifier psychic damage, and the target is stunned until the end of your next turn.",
@@ -1873,7 +1873,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d10 + Intelligence modifier lightning damage, and you pull the target a number of squares equal to your Constitution modifier.",
@@ -1893,7 +1893,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d10 + Intelligence modifier force damage.",
@@ -1914,7 +1914,7 @@
     "keywords": [
       "Arcane, Fire, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. Until the end of the encounter, each creature that starts its turn adjacent to you takes 5 fire damage.",
@@ -1934,7 +1934,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A melee attack damages you",
     "effect": "The triggering attack deals half damage to you."
   },
@@ -1952,7 +1952,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier fire damage. Each enemy adjacent to the target takes fire damage equal to your Strength modifier.",
@@ -1973,7 +1973,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "End any effects on you that impose the following conditions: grabbed, immobilized, restrained, slowed, and petrified. Until the end of the encounter, you gain a +5 power bonus to saving throws against any effects that include those conditions."
   },
   "Oni's Gift": {
@@ -1990,7 +1990,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You are invisible until the end of your next turn or until you attack.",
     "sustainMinor": "You stay invisible or, if you are no longer invisible because you attacked, you become invisible again."
   },
@@ -2008,7 +2008,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d8 + Intelligence modifier force damage. Until the end of your next turn, the target is marked by your Swordmage Aegis power. Marking the target does not remove the mark on another target already affected by your Swordmage Aegis."
@@ -2027,7 +2027,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Sleep"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target is slowed and weakened (save ends both).",
@@ -2048,7 +2048,7 @@
     "keywords": [
       "Arcane, Charm, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "4[W] + Intelligence modifier damage. The target can use only basic attacks to attack (save ends).",
@@ -2068,7 +2068,7 @@
     "keywords": [
       "Arcane, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier damage. Until the end of the encounter, you gain regeneration 10 while you are bloodied.",
@@ -2091,7 +2091,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "Intelligence modifier fire damage, and you push the target a number of squares equal to your Constitution modifier. Also, the target is dazed until the end of your next turn."
@@ -2110,7 +2110,7 @@
     "keywords": [
       "Arcane, Thunder, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2[W] + Intelligence modifier thunder damage. If the target moves before the end of your next turn, it takes 2d8 + your Constitution modifier thunder damage.",
@@ -2130,7 +2130,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a number of mirror images of yourself equal to your Constitution modifier (minimum 1) within range. Each mirror image occupies 1 square. Enemies cannot move through an image’s space, but allies can.<br/>You can make attacks, including opportunity attacks, as though you occupied the same space as a mirror image. A mirror image still provokes opportunity attacks as normal for using a ranged or an area attack.<br/>A mirror image can be targeted by attacks. It has the same defenses, resistances, and immunities as you. A mirror image has 1 hit point, and a missed attack never damages it. A mirror image reduced to 0 hit points is destroyed. Otherwise, the conjurations last until the end of your next turn.",
     "sustainMinor": "The effect persists."
   },
@@ -2148,7 +2148,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "4[W] + Intelligence modifier damage.",
@@ -2170,7 +2170,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become insubstantial and gain phasing until the end of your next turn."
   },
   "Freezing Swordburst": {
@@ -2187,7 +2187,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier cold damage, and the target is immobilized until the end of your next turn. Make a secondary attack that is an area burst 1 implement attack centered on the primary target. The secondary attack does not provoke opportunity attacks.",
@@ -2210,7 +2210,7 @@
     "keywords": [
       "Arcane, Healing, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier damage. You can spend a healing surge and regain additional hit points equal to your Constitution modifier. You can also roll a saving throw."
@@ -2229,7 +2229,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You and one ally in the burst or two allies in the burst",
     "effect": "Each target teleports into the other’s space. Both targets must occupy the same size space, or the power fails."
   },
@@ -2247,7 +2247,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d10 + Intelligence modifier acid damage."
@@ -2266,7 +2266,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Once per round, you can make a melee basic attack as a minor action."
   },
   "Frigid Blade": {
@@ -2283,7 +2283,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier cold damage. If the target starts its next turn adjacent to you, it takes a penalty to speed equal to your Constitution modifier until the end of its next turn.<br/>Increase damage to 2[W] + Intelligence modifier at 21st level."
@@ -2302,7 +2302,7 @@
     "keywords": [
       "Arcane, Teleportation, Thunder, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "effect": "Each enemy adjacent to you gains ongoing 5 thunder damage (save ends).",
@@ -2322,7 +2322,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy you have marked attacks an ally.",
     "target": "One ally in the burst.",
     "effect": "Choose a damage type: acid, cold, fire, lightning, or thunder. Your ally gains resistance to that damage type equal to 5 + your Constitution modifier until the end of your next turn."
@@ -2341,7 +2341,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Area burst 1 within 5 squares<",
+    "range": "Area burst 1 within 5 squares",
     "requirement": "You must throw your melee weapon at the origin square.",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
@@ -2362,7 +2362,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d10 + Constitution modifier fire damage, and the creature is marked as if from your Swordmage Aegis power until the end of the encounter. This does not end existing marks placed by your Swordmage Aegis power, and using your Swordmage Aegis power to mark another enemy does not end this mark. Another creature’s mark supersedes this one.",
@@ -2383,7 +2383,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose a damage type: acid, cold, fire, lightning, or thunder. You have resistance to that damage type equal to your Constitution modifier. As a minor action, you can change the type of resistance to any other listed damage type. This resistance lasts until the end of the encounter."
   },
   "Sleet Strike": {
@@ -2400,7 +2400,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature.",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Strength modifier cold damage. The target and each enemy adjacent to the target fall prone after shifting until the end of your next turn."
@@ -2419,7 +2419,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1d10 + Intelligence modifier fire damage, and ongoing 5 fire damage (save ends, see below).",
@@ -2440,7 +2440,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Constitution modifier cold damage, and you slide the target 3 squares to a square adjacent to you.",
@@ -2460,7 +2460,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You can teleport 3 squares, and then make a secondary attack.",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
@@ -2486,7 +2486,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "One creature in the burst",
     "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark another creature using other powers, the target is still marked.<br/>Until the mark ends, if the target makes any attack that does not include you as a target, it takes a -2 penalty to the attack roll.<br/>If a target marked by this power is within 10 squares of you when it hits with an attack that does not include you as a target, you can use an immediate reaction after the target’s entire attack is resolved to teleport the target to any space adjacent to you. In addition, the target grants combat advantage to all creatures until the end of your next turn. If no unoccupied space exists adjacent to you, you can’t use this immediate reaction, and the target doesn’t grant combat advantage as a result of this effect."
   },
@@ -2504,7 +2504,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage, and the target is marked until the end of your next turn. Until the mark ends, if the target makes an attack that does not include you as a target, it takes force damage equal to your Intelligence modifier after the attack is resolved.",
@@ -2524,7 +2524,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and the target cannot make opportunity attacks or shift (save ends).",
@@ -2544,7 +2544,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "You teleport using a swordmage power",
     "target": "One ally in the burst",
     "effect": "The target teleports to a space adjacent to the space you teleport to."
@@ -2563,7 +2563,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An attack hits you or an ally within 10 squares of you",
     "target": "The creature hit by the triggering attack",
     "effect": "You reduce the damage the target takes from the triggering attack by 5 + your Constitution modifier.",
@@ -2583,7 +2583,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy marked by you hits you with a melee attack",
     "effect": "You gain a +4 power bonus to AC and Reflex until the end of your next turn. If the triggering enemy’s attack hits you despite the bonus, the triggering enemy is blinded until the end of your next turn."
   },
@@ -2601,7 +2601,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy hits an ally with a melee attack",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Will",
@@ -2622,7 +2622,7 @@
     "keywords": [
       "Arcane, Lightning, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier lightning damage, and the target is marked until the end of your next turn.",
@@ -2646,7 +2646,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier damage.",
@@ -2666,7 +2666,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2[W] + Intelligence modifier damage.",
@@ -2686,7 +2686,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage.",
@@ -2707,7 +2707,7 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and ongoing 5 fire damage (save ends). When the target takes the ongoing fire damage, each enemy adjacent to the target takes 5 fire damage.",
@@ -2727,7 +2727,7 @@
     "keywords": [
       "Arcane, Healing"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You or one ally in the burst",
     "effect": "The target either rolls a saving throw or regains hit points equal to 5 + your Constitution modifier."
   },
@@ -2745,7 +2745,7 @@
     "keywords": [
       "Arcane, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "The triggering enemy’s attack misses the ally.",
@@ -2768,7 +2768,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "requirement": "You must throw your melee weapon at the target.",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
@@ -2790,7 +2790,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier force damage, and you push the target a number of squares equal to your Strength modifier and knock it prone.",
@@ -2810,7 +2810,7 @@
     "keywords": [
       "Arcane, Fire, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1[W] + Intelligence modifier fire damage.",
@@ -2833,7 +2833,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are knocked prone or fall",
     "effect": "You take no falling damage, and you are not knocked prone."
   },
@@ -2851,7 +2851,7 @@
     "keywords": [
       "Arcane, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier radiant damage. Each enemy adjacent to you other than the target is immobilized until the end of your next turn.",
@@ -2871,7 +2871,7 @@
     "keywords": [
       "Arcane, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier radiant damage. Until the end of your next turn, all your allies are invisible to the target.",
@@ -2891,14 +2891,15 @@
     "keywords": [
       "Arcane, Fire, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "bonusPower": {
       "name": "Assault of Fiery Cuts Secondary Attack",
       "flavor": "From those cuts, you summon flames to engulf your foe.",
       "keywords": [
         "Arcane, Fire, Implement"
       ],
-      "range": "Area burst 3<",
+      "range": "Area burst 3",
+      "frequency": "Daily",
       "target": "Each enemy in the burst",
       "attack": "Intelligence vs. Reflex",
       "onHit": "1d6 + Intelligence modifier fire damage."
@@ -2922,7 +2923,7 @@
     "keywords": [
       "Arcane, Necrotic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier necrotic damage. The target takes ongoing 5 necrotic damage, cannot regain hit points, cannot recharge powers, and cannot spend action points (save ends all).",
@@ -2942,7 +2943,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3[W] + Intelligence modifier damage, and the target is immobilized until the end of your next turn.",
@@ -2963,7 +2964,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the start of your next turn, when you make an attack roll or a saving throw, you roll twice and use either result."
   },
   "Shared Fortune": {
@@ -2980,7 +2981,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose an ally within 3 squares of you. Until the end of the encounter or until you drop to 0 hit points or fewer, whenever that ally succeeds on a saving throw while you are within his or her line of sight, you can end one effect on you that a save can end."
   },
   "Shield of Besieged Tower": {
@@ -2997,7 +2998,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +1 power bonus to AC. If at least two enemies are within 3 squares of you, this bonus increases to +3."
   },
   "Dazzling Display": {
@@ -3014,7 +3015,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1[W] + Intelligence modifier damage. Until the end of your next turn, the target grants combat advantage to you and your allies.",
@@ -3034,7 +3035,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier poison damage. If the target ends its next turn in a space that is not adjacent to you, it takes 1d8 + your Constitution modifier poison damage."
@@ -3053,7 +3054,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you hits an ally with a melee attack",
     "target": "One creature other than the triggering enemy or the ally who was hit",
     "attack": "Intelligence vs. Fortitude. If the target is an ally, you do not make an attack roll.",
@@ -3073,7 +3074,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier thunder damage, and you pull the target 2 squares. The target is marked until the end of your next turn.",
@@ -3093,7 +3094,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier force damage, and you push the target a number of squares equal to your Constitution modifier.",
@@ -3113,7 +3114,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapoon<",
+    "range": "Melee weapoon",
     "effect": "Until the end of the encounter, you can see the target of this power even if it is invisible or hidden. You take no penalty to attack rolls against the target for any concealment, total concealment, cover, or superior cover it has, but you cannot see through walls or any other solid barriers. In addition, you gain the benefit of flanking against the target as long as you and at least one ally are adjacent to it.",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
@@ -3133,7 +3134,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage. You teleport the target 10 squares, and the target is stunned (save ends).",
@@ -3153,7 +3154,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy hits an ally within 5 squares of you",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Reflex",
@@ -3176,7 +3177,7 @@
     "keywords": [
       "Arcane, Stance, Teleportation, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "Until the stance ends, once during each of your turns as a free action, you can mark one enemy that is adjacent to you. The mark lasts until the end of your next turn.",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. AC",
@@ -3197,7 +3198,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a speed of fly 8 (hover). When the effect ends, you float to the ground and do not take falling damage.",
     "sustainMinor": "The effect persists."
   },
@@ -3215,7 +3216,7 @@
     "keywords": [
       "Arcane, Lightning, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier lightning damage, and you teleport 10 squares.",
@@ -3239,7 +3240,7 @@
     "keywords": [
       "Arcane, Lightning, Necrotic, Weapon"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "You must throw your melee weapon at the target.",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
@@ -3262,7 +3263,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "4[W] + Intelligence modifier damage.",
@@ -3283,7 +3284,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy within 5 squares of you hits an ally with a melee attack",
     "requirement": "You must throw your melee weapon at the target.",
     "target": "The triggering enemy",
@@ -3305,7 +3306,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier cold damage, and the target is immobilized until the end of your next turn. In addition, you either slide the target 3 squares or knock it prone.",
@@ -3325,7 +3326,7 @@
     "keywords": [
       "Arcane, Lightning, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can teleport 20 squares to a space that must be adjacent to the target. You do not need line of sight to your destination.",
     "attack": "Intelligence vs. AC",
@@ -3346,7 +3347,7 @@
     "keywords": [
       "Arcane, Necrotic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4[W] + Intelligence modifier necrotic damage. The target takes ongoing 10 necrotic damage, cannot regain hit points, cannot recharge powers, and cannot spend action points (save ends all).",
@@ -3366,7 +3367,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] damage. You shift 1 square and slide the target 1 square into the space you occupied.<br/>Level 21: 2[W] damage.",
@@ -3386,7 +3387,7 @@
     "keywords": [
       "Arcane, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier radiant damage, and the target is marked until the end of your next turn.",
@@ -3407,7 +3408,7 @@
     "keywords": [
       "Arcane, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier damage. The attack creates a zone of whirling blades in a burst 3 centered on the target. The zone lasts until the end of your next turn or until you dismiss it as a minor action. Each enemy that enters the zone or starts its turn there takes 10 damage. An enemy can take this damage only once per turn."
@@ -3426,7 +3427,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "A creature attacks an ally",
     "target": "Triggering creature",
     "attack": "Intelligence vs. Will",
@@ -3447,7 +3448,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3[W] + Intelligence modifier damage. This damage ignores insubstantial.",
@@ -3467,7 +3468,7 @@
     "keywords": [
       "Arcane, Healing, Implement, Necrotic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "You become bloodied or brought to 0 or fewer hit points",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
@@ -3489,7 +3490,7 @@
     "keywords": [
       "Arcane, Necrotic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and you make a secondary attack with combat advantage against the same target.",
@@ -3512,7 +3513,7 @@
     "keywords": [
       "Arcane, Cold, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier cold damage. A different enemy marked by you within 3 squares of you takes cold damage equal to your Constitution modifier.<br/>Level 21: 2[W] + Intelligence modifier cold damage."
@@ -3531,7 +3532,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] + Intelligence modifier force damage, and the target slides 2 squares.",
@@ -3551,7 +3552,7 @@
     "keywords": [
       "Arcane, Stance, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain teleport 3 as an additional movement mode, but you must end such teleports adjacent to an enemy."
   },
   "Blades of Fiery Wrath": {
@@ -3568,7 +3569,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "You used a swordmage at-will attack power this turn and did not hit any target with it",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
@@ -3588,7 +3589,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "trigger": "You used a swordmage at-will attack power this turn and did not hit any target with it",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Fortitude",
@@ -3608,7 +3609,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target is immobilized (save ends).",
@@ -3630,7 +3631,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2[W] + Intelligence modifier force damage.",
@@ -3651,7 +3652,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +2 power bonus to damage rolls against slowed or immobilized targets.",
     "aegisOfEnsnarement": "You also gain a +1 power bonus to attack rolls against slowed or immobilized targets."
   },
@@ -3669,7 +3670,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, your allies gain a +1 power bonus to AC while adjacent to you.",
     "aegisOfShielding": "Allies instead gain a +1 power bonus to all defenses while adjacent to you."
   },
@@ -3687,7 +3688,7 @@
     "keywords": [
       "Arcane, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when you hit with a melee weapon attack you gain a +1 power bonus to all defenses until the start of your next turn.",
     "aegisOfAssault": "Increase the power bonus to +2."
   },
@@ -3705,7 +3706,7 @@
     "keywords": [
       "Arcane, Lightning, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An ally within 5 squares of you is hit by an enemy you have marked",
     "target": "The triggering enemy",
     "effect": "You teleport the target to a square adjacent to you and make the following attack.",
@@ -3727,7 +3728,7 @@
     "keywords": [
       "Arcane, Varies"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each weapon you or an ally is wielding in the burst",
     "effect": "Choose fire, cold, lightning, or force. The targeted weapon deals this kind of damage until the end of your next turn.",
     "sustainMinor": "The effect persists until the end of your next turn."
@@ -3746,7 +3747,7 @@
     "keywords": [
       "Arcane, Force, Implement, Teleportation"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier force damage, and you can teleport the target to a square adjacent to you."
@@ -3765,7 +3766,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence cold damage. You weaken the target until the start of your next turn and can teleport the target to a square adjacent to you."
@@ -3784,7 +3785,7 @@
     "keywords": [
       "Arcane, Cold, Fire, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You can teleport 5 squares and make a secondary attack.",
     "primaryTarget": "Each enemy adjacent to you that you can see",
     "attack": "Intelligence vs. AC",
@@ -3809,7 +3810,7 @@
     "keywords": [
       "Arcane, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of the encounter. While in the zone, you and each ally gain resistance to fire, cold, and lightning damage equal to your twice your Intelligence modifier."
   },
   "Elemental Detention": {
@@ -3826,7 +3827,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier lightning damage, and the target is restrained until the end of your next turn."
@@ -3845,7 +3846,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d10 + Intelligence modifier cold damage, and the target is slowed and dazed until the end of your next turn."
@@ -3864,7 +3865,7 @@
     "keywords": [
       "Arcane, Force, Teleportation, Weapon"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. AC",
     "onHit": "5[W] + Intelligence modifier force damage, and you can teleport the target to any square in the burst.",
@@ -3885,7 +3886,7 @@
     "keywords": [
       "Arcane, Illusion, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage, and the target is marked until the end of your next turn.",
@@ -3906,7 +3907,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 thunder damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 thunder damage.",
@@ -3926,7 +3927,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You teleport an enemy to a square adjacent to you on your turn.",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. AC",
@@ -3947,7 +3948,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature marked by your Swordmage Aegis power",
     "effect": "The target is immobilized (save ends).",
     "aftereffect": "You can use a free action to teleport up to 10 squares to a square adjacent to the target and use a melee at-will attack power against it.",
@@ -3967,7 +3968,7 @@
     "keywords": [
       "Arcane, Aura"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 2 that lasts until the end of the encounter or until you deactivate it as a free action. The ground in the aura is difficult terrain for your enemies.",
     "aegisOfEnsnarement": "When you deactivate the aura, one enemy within 2 squares of you is immobilized until the end of your next turn."
   },
@@ -3985,7 +3986,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy that you can see and that is marked by your Swordmage Aegis power willingly moves away from you.",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Reflex",
@@ -4006,7 +4007,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature marked by your Swordmage Aegis power",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier force damage, and the target is not considered an ally to its allies and vice versa for the purpose of powers and auras. This effect lasts until the end of the encounter or until the target is no longer marked by your Swordmage Aegis power.",
@@ -4027,7 +4028,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You teleport an enemy to a square adjacent to you on your turn.",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. AC",
@@ -4048,7 +4049,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You teleport an enemy to a square adjacent to you on your turn.",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. AC",

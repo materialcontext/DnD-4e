@@ -1,0 +1,20 @@
+{
+  "Divine Resistance": {
+    "id": "'10390",
+    "action": "No Action",
+    "powerClass": "Avatar of Io",
+    "frequency": "Encounter",
+    "level": "26",
+    "name": "Divine Resistance",
+    "type": "of",
+    "sourceRef": "Player's Handbook Races: Dragonborn",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Resistance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=10390\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Avatar of Io Utility 26</span>Divine Resistance</h1><p class=\\\"flavor\\\"><i>Summoning the divine spark within you, you shrug off what might have been a debilitating effect.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp;<br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An attack applies an effect to you that a save can end</p><p class=\\\"flavor\\\"><b>Effect</b>: Make a saving throw against the triggering effect.</p><br/>Update (2/15/2012)<br/>Changed in December 2011 updates.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251200000\\\" target=\\\"_new\\\">Player's Handbook Races: Dragonborn</a>, page(s) 32.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Summoning the divine spark within you, you shrug off what might have been a debilitating effect.",
+    "keywords": [
+      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An attack applies an effect to you that a save can end</p><p class=\"flavor\">Effect: Make a saving throw against the triggering effect.</p>"
+    ],
+    "range": "Personal",
+    "trigger": "An attack applies an effect to you that a save can end",
+    "effect": "Make a saving throw against the triggering effect."
+  }
+}

@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "attack": "Strength  vs. Reflex",
     "onHit": "4[W] + Strength modifier radiant damage, and the target is dazed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;An undead creature hit by this power is stunned (save ends) rather than dazed.",
     "effect": "You and each of your allies within 10 squares regain 15 hit points."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier radiant damage.",
@@ -52,7 +52,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "You or an ally is hit by an attack against Fortitude or Will defense",
     "effect": "The target of the attack gains a +5 power bonus to Fortitude or Will defense until the end of your next turn."
   }

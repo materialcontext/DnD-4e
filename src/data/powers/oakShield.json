@@ -1,0 +1,61 @@
+{
+  "Steadfast Resolve": {
+    "id": "'14367",
+    "action": "Standard",
+    "powerClass": "Oak Shield",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Steadfast Resolve",
+    "type": "Shield",
+    "sourceRef": "Dragon Magazine 401",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSteadfast Resolve\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14367\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Oak Shield Attack 11</span>Steadfast Resolve</h1><p class=\\\"flavor\\\"><i>Your prayers to Melora strengthen your resolve, allowing you to stand your ground.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + highest ability modifier damage, and you push the target up to 2 squares.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You or one ally within 5 squares of you is immune to forced movement until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/401\\\" target=\\\"_new\\\">Dragon Magazine 401</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your prayers to Melora strengthen your resolve, allowing you to stand your ground.",
+    "keywords": [
+      "Divine, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Highest ability modifier vs. AC",
+    "onHit": "2[W] + highest ability modifier damage, and you push the target up to 2 squares.",
+    "effect": "You or one ally within 5 squares of you is immune to forced movement until the end of your next turn."
+  },
+  "Renewing Vines": {
+    "id": "'14368",
+    "action": "Standard",
+    "powerClass": "Oak Shield",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Renewing Vines",
+    "type": "Shield",
+    "sourceRef": "Dragon Magazine 401",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRenewing Vines\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14368\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Oak Shield Attack 20</span>Renewing Vines</h1><p class=\\\"flavor\\\"><i>When you raise your weapon, vines launch from the ground, piercing your enemies with poisonous thorns and refreshing your allies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Poison</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + highest ability modifier poison damage, and the target is immobilized (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is slowed (save ends).</p><p class=\\\"flavor\\\"><b>Effect</b>: You and each ally in the burst gain temporary hit points equal to 2 + one-half your level and a +2 bonus to a single saving throw, skill check, or attack roll of his or her choice before the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/401\\\" target=\\\"_new\\\">Dragon Magazine 401</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "When you raise your weapon, vines launch from the ground, piercing your enemies with poisonous thorns and refreshing your allies.",
+    "keywords": [
+      "Divine, Poison, Weapon"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy in the burst",
+    "attack": "Highest ability modifier vs. Fortitude",
+    "onHit": "2[W] + highest ability modifier poison damage, and the target is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is slowed (save ends).",
+    "effect": "You and each ally in the burst gain temporary hit points equal to 2 + one-half your level and a +2 bonus to a single saving throw, skill check, or attack roll of his or her choice before the end of the encounter."
+  },
+  "Whirling Leaves": {
+    "id": "'14369",
+    "action": "Minor",
+    "powerClass": "Oak Shield",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Whirling Leaves",
+    "type": "Shield",
+    "sourceRef": "Dragon Magazine 401",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWhirling Leaves\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14369\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Oak Shield Utility 12</span>Whirling Leaves</h1><p class=\\\"flavor\\\"><i>Your prayer takes the form of leaves in a strong wind, obscuring you and your allies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: You and each ally in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target has partial concealment until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/401\\\" target=\\\"_new\\\">Dragon Magazine 401</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your prayer takes the form of leaves in a strong wind, obscuring you and your allies.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Close burst 5",
+    "target": "You and each ally in the burst",
+    "effect": "Each target has partial concealment until the end of your next turn."
+  }
+}

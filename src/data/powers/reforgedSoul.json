@@ -1,0 +1,62 @@
+{
+  "Elemental Cascade": {
+    "id": "'16338",
+    "action": "Standard",
+    "powerClass": "Reforged Soul",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Elemental Cascade",
+    "type": "Soul",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Cascade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16338\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Reforged Soul Attack 11</span>Elemental Cascade</h1><p class=\\\"flavor\\\"><i>You release the potential raging within you as a crackling cascade of untamed energy.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee 1 or Ranged 10</b> </p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d10 + your highest ability modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: Roll a d20. On a 10 or higher, you can repeat this attack once against a different target within range.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 136.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You release the potential raging within you as a crackling cascade of untamed energy.",
+    "keywords": [
+      "Elemental"
+    ],
+    "range": "Melee 1 or Ranged 10",
+    "target": "One creature",
+    "attack": "Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex",
+    "onHit": "2d10 + your highest ability modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Roll a d20. On a 10 or higher, you can repeat this attack once against a different target within range."
+  },
+  "Elemental Flood": {
+    "id": "'16339",
+    "action": "Standard",
+    "powerClass": "Reforged Soul",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Elemental Flood",
+    "type": "Soul",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Flood\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16339\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Reforged Soul Attack 20</span>Elemental Flood</h1><p class=\\\"flavor\\\"><i>Energy pours out from you in a terrible flood, burning, freezing, and destroying anything in its path.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Elemental</b>, <b>Varies</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier + 5 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + your highest ability modifier damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of your next turn. Any enemy that enters the zone or ends its turn there takes 10 damage of the types rolled for your Chaos-Touched feature (a creature can take this damage only once per turn).</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 137.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Energy pours out from you in a terrible flood, burning, freezing, and destroying anything in its path.",
+    "keywords": [
+      "Elemental, Varies, Zone"
+    ],
+    "range": "Close burst 3",
+    "target": "Each enemy in the burst",
+    "attack": "Highest ability modifier + 5 vs. Reflex",
+    "onHit": "3d8 + your highest ability modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. Any enemy that enters the zone or ends its turn there takes 10 damage of the types rolled for your Chaos-Touched feature (a creature can take this damage only once per turn).",
+    "sustainMinor": "The zone persists until the end of your next turn."
+  },
+  "Flowing Chaos": {
+    "id": "'16340",
+    "action": "Minor",
+    "powerClass": "Reforged Soul",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Flowing Chaos",
+    "type": "Soul",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFlowing Chaos\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16340\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Reforged Soul Utility 12</span>Flowing Chaos</h1><p class=\\\"flavor\\\"><i>You exude the power of the elements to aid your nearby allies by enhancing the lethality of their attacks.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Aura</b>, <b>Elemental</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 1 that lasts until the end of the encounter. While in the aura, you and each ally gain a +3 power bonus to damage rolls that include acid, cold, fire, lightning, or thunder.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/356170000\\\" target=\\\"_new\\\">Heroes of the Elemental Chaos</a>, page(s) 137.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You exude the power of the elements to aid your nearby allies by enhancing the lethality of their attacks.",
+    "keywords": [
+      "Aura, Elemental"
+    ],
+    "range": "Personal",
+    "effect": "You activate an aura 1 that lasts until the end of the encounter. While in the aura, you and each ally gain a +3 power bonus to damage rolls that include acid, cold, fire, lightning, or thunder."
+  }
+}

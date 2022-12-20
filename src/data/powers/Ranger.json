@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Your speed increases by 2."
   },
   "Blade Cascade": {
@@ -30,7 +30,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One or more creatures",
     "attack": "Strength vs. AC. Alternate main and off-hand weapon attacks until you miss or until you make five attacks .As soon as an attack misses, this power ends.",
@@ -50,7 +50,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "special": "You can shift 2 squares before making this attack.",
     "primaryTarget": "One creature",
@@ -75,7 +75,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -95,7 +95,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "requirement": "You must be wielding a ranged weapon.",
     "target": "Each enemy in the blast you can see",
     "attack": "Dexterity vs. AC",
@@ -116,7 +116,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. In addition, you push the target a number of squares equal to your Strength modifier, and it is knocked prone.",
@@ -136,7 +136,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy moves adjacent to you",
     "effect": "You can shift 1 square and then move a number of squares equal to 1 + your Wisdom modifier. You can’t end your move adjacent to the triggering enemy."
   },
@@ -154,7 +154,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One, two, or three creatures",
     "attack": "Strength + 2 vs. AC, three attacks",
@@ -176,7 +176,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Shift a number of squares equal to your Wisdom modifier."
   },
   "Momentary Respite": {
@@ -193,7 +193,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Shift a number of squares equal to your Wisdom modifier and make a saving throw. You are no longer marked by any enemy."
   },
   "Attacks on the Run": {
@@ -210,7 +210,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "targets": "One or two creatures",
     "attack": "You can move your speed. At any point during your move, you can make two Strength vs. AC attacks with a melee weapon or two Dexterity vs. AC attacks with a ranged weapon.",
     "onHit": "3[W] + Strength modifier damage (melee) or 3[W] + Dexterity modifier damage (ranged) per attack.",
@@ -230,7 +230,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (off-hand weapon)",
@@ -253,7 +253,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged 1<",
+    "range": "Ranged 1",
     "target": "One adjacent enemy",
     "attack": "Dexterity vs. AC. This attack does not provoke opportunity attacks.",
     "onHit": "4[W] + Dexterity modifier damage.",
@@ -273,7 +273,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature of your size or smaller",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2[W] + Dexterity modifier damage, and the target is knocked prone."
@@ -292,7 +292,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. If the target is your quarry, the attack hits if the attack roll hits the target’s AC or Reflex.",
     "onHit": "2[W] + Dexterity modifier damage."
@@ -311,7 +311,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with a melee attack",
     "effect": "Shift 1 square away from the enemy."
   },
@@ -329,7 +329,7 @@
     "keywords": [
       "Illusion, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "When it is not your turn, enemies treat you as invisible if you have cover or concealment from them. An enemy still knows the square you occupy if it saw you in that square at any point during a round. This effect lasts until the end of the encounter or for 5 minutes."
   },
   "Swirling Leaves of Steel": {
@@ -346,7 +346,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -367,7 +367,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Your movement is not hindered by difficult terrain."
   },
   "Weave a Web of Steel": {
@@ -384,7 +384,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits you with a melee attack",
     "requirement": "You must be wielding two melee weapons.",
     "target": "The triggering enemy",
@@ -406,7 +406,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy moves adjacent to you",
     "effect": "You can shift a number of squares equal to your Wisdom modifier."
   },
@@ -424,7 +424,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy damages you with a melee attack",
     "effect": "You can shift a number of squares equal to your Wisdom modifier. Gain a +2 power bonus to all defenses until the end of your next turn."
   },
@@ -442,7 +442,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "trigger": "An enemy makes a melee attack against you",
     "attack": "You can shift 1 square, then make a basic attack against the enemy.",
     "special": "Gain a power bonus to your basic attack roll equal to your Wisdom modifier."
@@ -461,7 +461,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -481,7 +481,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -502,7 +502,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -522,7 +522,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -542,7 +542,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged), and the target is slowed and takes ongoing 5 damage (save ends both).",
@@ -562,7 +562,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -583,7 +583,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One or two creatures",
     "attack": "Strength vs. Fortitude (main weapon and off-hand weapon), two attacks",
@@ -604,7 +604,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. AC, three attacks",
     "onHit": "1[W] + Dexterity modifier damage per attack. A target hit once is dazed (save ends). A target hit twice is stunned (save ends). A target hit three times is stunned (save ends) and takes +2[W] damage.",
@@ -624,7 +624,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One, two, or three creatures",
     "attack": "Dexterity vs. AC, three attacks",
     "onHit": "1[W] + Dexterity modifier damage per attack, and ongoing 5 damage (save ends). A target hit twice takes ongoing 10 damage (save ends). A target hit three times takes ongoing 15 damage (save ends).",
@@ -644,7 +644,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks per target",
@@ -665,7 +665,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. You can reroll the attack roll but must use the second result.",
     "onHit": "3[W] + Dexterity modifier damage. You can reroll each damage die once but must use the second result."
@@ -684,7 +684,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can make a basic attack against an enemy you choose as an immediate interrupt if it attacks you."
   },
   "Follow-Up Blow": {
@@ -701,7 +701,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding two melee weapons.",
     "effect": "Until the stance ends, when you hit with a melee attack, you can use a free action to make melee basic attack with your off-hand weapon. You can do this once per round, and the off-hand weapon attack takes a -2 penalty to its attack roll."
   },
@@ -719,7 +719,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC (melee) or Dexterity + 2 vs. AC (ranged).",
@@ -739,7 +739,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "special": "Shift 1 square before or after you attack.",
     "attack": "Dexterity vs. AC",
@@ -759,7 +759,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One or two creatures",
     "attack": "Dexterity vs. AC, one attack per target",
     "onHit": "2[W] + Dexterity modifier damage (first shot) and 1[W] + Dexterity modifier damage (second shot)."
@@ -778,7 +778,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage, and the target is weakened (save ends).",
@@ -798,7 +798,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An ally within range that you can see or hear makes a skill check using a skill in which you’re trained",
     "effect": "Grant the ally the ability to reroll the skill check, with a power bonus equal to your Wisdom modifier."
   },
@@ -816,7 +816,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy misses you with a melee attack",
     "effect": "You slide the enemy three squares into a square adjacent to you and gain combat advantage against it until the end of your next turn."
   },
@@ -834,7 +834,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged sight<",
+    "range": "Ranged sight",
     "effect": "At the start of a surprise round in which any allies are surprised, use this power to allow a number of allies equal to your Wisdom modifier to avoid being surprised."
   },
   "Skilled Companion": {
@@ -851,7 +851,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "Choose a skill in which you are trained but the target is not. Until the end of the encounter, the target gains a power bonus to checks with that skill equal to your Wisdom modifier. The target must see or hear you to gain this bonus when making a check."
   },
@@ -869,7 +869,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, your speed increases by 4, and when you shift, you can shift 1 additional square."
   },
   "Hit the Dirt": {
@@ -886,7 +886,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an area attack or a close attack",
     "effect": "Shift a number of squares equal to your Wisdom modifier."
   },
@@ -904,7 +904,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "target": "One or two creatures",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -925,7 +925,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "special": "You can shift a number of squares equal to 1 + your Wisdom modifier either before or after the attack.",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
@@ -945,7 +945,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -965,7 +965,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "trigger": "You or an ally is attacked by a creature",
     "target": "The attacking creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
@@ -985,7 +985,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst",
     "attack": "Strength vs. AC",
@@ -1005,7 +1005,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged). Gain a power bonus to this attack equal to your Wisdom modifier. Ignore any penalties from cover or concealment (but not superior cover or total concealment).",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged)."
@@ -1024,7 +1024,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>Increase damage to 2[W] + Strength modifier at 21st level.",
@@ -1044,7 +1044,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -1064,7 +1064,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature that is your quarry",
     "attack": "Strength vs. Reflex (melee) or Dexterity vs. Reflex (ranged)",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged)."
@@ -1083,7 +1083,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon),  two attacks",
@@ -1103,7 +1103,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -1123,7 +1123,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -1143,7 +1143,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One, two, or three creatures",
     "attack": "Dexterity vs. AC, three attacks",
     "onHit": "1[W] + Dexterity modifier damage per attack."
@@ -1162,7 +1162,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "A creature within range attacks your ally",
     "target": "The attacking creature",
     "attack": "Dexterity vs. AC, and you gain a power bonus to this attack equal to your Wisdom modifier.",
@@ -1182,7 +1182,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "A creature makes a melee attack against you",
     "target": "The attacking creature",
     "attack": "Strength vs. AC",
@@ -1203,7 +1203,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "4[W] + Dexterity modifier damage, and you push the target a number of squares equal to 2 + your Wisdom modifier."
@@ -1222,7 +1222,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC, three attacks",
     "onHit": "1[W] + Dexterity modifier damage per attack. If two attacks hit, deal an extra 1[W] damage. If all three attacks hit, deal an extra 2[W] damage."
@@ -1241,7 +1241,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -1262,7 +1262,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -1282,7 +1282,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "One creature you can see has just taken damage",
     "target": "The creature that took damage",
     "attack": "Dexterity vs. AC",
@@ -1302,7 +1302,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "Each enemy in range",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage."
@@ -1321,7 +1321,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -1341,7 +1341,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "Two creatures within 3 squares of each other",
     "attack": "Dexterity vs. AC. Make two attack rolls, take the higher result, and apply it to both targets.",
     "onHit": "2[W] + Dexterity modifier damage."
@@ -1360,7 +1360,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -1380,7 +1380,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage, and the target takes a –2 penalty to attack rolls until the end of the encounter.",
@@ -1400,7 +1400,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC, two attacks. If the first attack hits, you gain a +5 bonus to the attack roll for the second attack. If the first attack misses, make the second attack normally.",
     "onHit": "2[W] + Dexterity modifier damage per attack.",
@@ -1420,7 +1420,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a bonus to damage rolls equal to your Wisdom modifier."
   },
   "Bloodstorm": {
@@ -1437,7 +1437,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -1459,7 +1459,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "requirement": "You must be wielding a ranged weapon.",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. AC",
@@ -1480,7 +1480,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC, three attacks. If the first attack hits, you gain a +5 bonus to the second and third attack rolls. If the first attack misses, roll the second and third attacks normally.",
     "onHit": "2[W] + Dexterity modifier damage per attack.",
@@ -1500,7 +1500,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (off-hand weapon)",
@@ -1520,7 +1520,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One or two creatures",
     "attack": "Dexterity vs. AC, one attack per target. If you target one creature, you gain a +2 bonus to the damage roll. If you target two creatures, you take a –2 penalty to both attack rolls.",
     "onHit": "1[W] + Dexterity modifier damage."
@@ -1539,7 +1539,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One or two creatures",
     "attack": "Dexterity vs. AC, one attack per target. If you target one creature, you gain a +2 bonus to the damage roll. If you target two creatures, you take a –2 penalty to both attack rolls.",
     "onHit": "1[W] + Dexterity modifier damage, and you slide the target 1 square."
@@ -1558,7 +1558,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One or two creatures",
     "attack": "Dexterity vs. Fortitude, one attack per target. If you target one creature, you gain a +2 bonus to the damage roll. If you target two creatures, you take a –2 penalty to both attack rolls.",
     "onHit": "2[W] + Dexterity modifier damage, and you knock the target prone."
@@ -1577,7 +1577,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "targets": "One or two creatures",
     "attack": "Dexterity vs. AC, one attack per target. If you target one creature, you gain a +2 bonus to the damage roll. If you target two creatures, you take a –2 penalty to both attack rolls.",
     "onHit": "3[W] + Dexterity modifier damage, and the target is dazed until the end of your next turn."
@@ -1596,7 +1596,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>Increase damage to 2[W] + Strength modifier at 21st level.",
@@ -1616,7 +1616,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature adjacent to you",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "1[B] + beast’s Strength modifier + your Wisdom modifier damage.<br/>Increase damage to 2[B] + beast’s Strength modifier + your Wisdom modifier at 21st level."
@@ -1635,7 +1635,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature designated as your quarry",
     "effect": "Before the attack, both you and your beast companion can shift 2 squares.",
     "attack": "Strength vs. AC",
@@ -1656,7 +1656,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If you’re flanking the target, the attack deals extra damage equal to your Wisdom modifier."
@@ -1675,7 +1675,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. If no creatures are adjacent to the target, the attack deals extra damage equal to your Wisdom modifier."
@@ -1694,7 +1694,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "1[B] + beast’s Strength modifier damage.",
@@ -1717,7 +1717,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged), and you gain temporary hit points equal to your Wisdom modifier.",
@@ -1738,7 +1738,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1760,7 +1760,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One bloodied creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged). If the target is your quarry, the attack can score a critical hit on a roll of 19–20.",
     "onHit": "3[W] + Strength modifier damage (melee) or 3[W] + Dexterity modifier damage (ranged).",
@@ -1780,7 +1780,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -1801,7 +1801,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "2[B] + beast’s Strength modifier damage.",
@@ -1822,7 +1822,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be flanking an enemy.",
     "effect": "You gain combat advantage against the flanked enemy until the end of your next turn."
   },
@@ -1840,7 +1840,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit a target with a melee attack and the target is marked by an ally",
     "effect": "You can shift 1 square, and you gain a +2 power bonus to all defenses against your target’s attacks until the end of your next turn."
   },
@@ -1858,7 +1858,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "target": "Your beast companion in the burst",
     "effect": "The target makes a saving throw.",
     "beast": "If the target is a bear or a boar, it gains a bonus to the saving throw equal to your Wisdom modifier."
@@ -1877,7 +1877,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make an initiative check at the beginning of an encounter and your check result is higher than any other combatant’s",
     "effect": "Until the stance ends, you add 3 to the extra damage you deal with Hunter’s Quarry."
   },
@@ -1895,7 +1895,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "targets": "You and your beast companion in the burst",
     "effect": "The targets each make a Perception check and share the better result. Also, if your beast companion becomes aware of a target, you do as well, and vice versa.",
     "beast": "If your companion is a cat, a raptor, or a wolf, the targets gain a +2 bonus to the Perception checks."
@@ -1914,7 +1914,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1935,7 +1935,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC, two attacks",
@@ -1955,7 +1955,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1976,7 +1976,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (off-hand weapon)",
@@ -1996,7 +1996,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1[W] + Dexterity modifier damage, and the target is slowed and takes a –2 penalty to attack rolls until the end of your next turn."
@@ -2015,7 +2015,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "target": "One or two creatures",
     "attack": "Strength vs. AC (melee; main weapon and off-hand weapon) or Dexterity vs. AC (ranged), two attacks",
@@ -2036,7 +2036,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "trigger": "An enemy bloodies you or your beast companion",
     "target": "The triggering enemy",
     "effect": "Before the attack, your beast companion can shift 5 squares.",
@@ -2058,7 +2058,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "An enemy enters a square adjacent to you",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. AC",
@@ -2080,7 +2080,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2102,7 +2102,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can make a ranged basic attack as an immediate reaction against any enemy within 5 squares of you that moves closer to you."
   },
   "Tag the Prey": {
@@ -2119,7 +2119,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. This attack ignores the target’s cover but not superior cover.",
     "onHit": "2[W] + Dexterity modifier damage, and you designate the target as your quarry until the end of your next turn. If the target was already your quarry, the attack deals 1[W] extra damage.",
@@ -2139,7 +2139,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can run a number of squares equal to your speed + 4, instead of your speed + 2, and you do not grant combat advantage from running."
   },
   "Boundless Energy": {
@@ -2156,7 +2156,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll an Endurance check and dislike the result",
     "prerequisite": "You must be trained in Endurance.",
     "effect": "Reroll the Endurance check. You decide whether to make the reroll before the DM announces the result."
@@ -2175,7 +2175,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "trigger": "Your beast companion is hit by an attack within 20 squares of you",
     "target": "Your beast companion in the burst",
     "effect": "The target gains a +4 power bonus to the defense targeted by the attack.",
@@ -2195,7 +2195,7 @@
     "keywords": [
       "Beast, Healing, Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "Your beast companion",
     "effect": "The target regains hit points as if it had spent a healing surge.",
     "beast": "If your companion is a boar or a lizard, it regains additional hit points equal to your Wisdom modifier."
@@ -2214,7 +2214,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be within 2 squares of at least two enemies.",
     "effect": "You can shift a number of squares equal to 1 + your Wisdom modifier. Until the end of your next turn, you gain a power bonus to all defenses equal to the number of enemies you were adjacent to at any time during this shift."
   },
@@ -2232,7 +2232,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "effect": "You make a secondary attack against the target.",
     "attack": "Beast’s attack bonus vs. AC",
@@ -2255,7 +2255,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One or two creatures",
     "attack": "Dexterity vs. Reflex, two attacks. Each attack can score a critical hit on a roll of 18–20.",
     "onHit": "1[W] + Dexterity modifier damage per attack."
@@ -2274,7 +2274,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2295,7 +2295,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. Reflex (main weapon and off-hand weapon). Make two attack rolls—one with each weapon— and use the higher result.",
@@ -2315,7 +2315,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. Reflex (main weapon and off-hand weapon), two attacks",
@@ -2335,7 +2335,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2356,7 +2356,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude, three attacks",
     "onHit": "1[W] damage per attack, and you push the target 1 square.",
@@ -2376,7 +2376,7 @@
     "keywords": [
       "Beast, Fear, Martial, Psychic"
     ],
-    "range": "Close burst 2 (beast)<",
+    "range": "Close burst 2 (beast)",
     "target": "Each enemy in the burst",
     "attack": "Beast’s attack bonus vs. Will",
     "onHit": "1d8 + beast’s Wisdom modifier psychic damage, and the target is immobilized (save ends).",
@@ -2397,7 +2397,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature that is surprised or unaware of your presence",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "3[W] + Strength modifier + Wisdom modifier damage (melee) or 3[W] + Dexterity modifier + Wisdom modifier damage (ranged), and you can shift 2 squares. If you were hidden from the target when you made the attack, you remain hidden if you have any cover or concealment.",
@@ -2417,7 +2417,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged).",
@@ -2437,7 +2437,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "targets": "You and your beast companion in the burst",
     "effect": "You can move your speed, and your beast companion can shift its speed.",
     "beast": "If your companion is a raptor or a wolf, you can move 1 extra square, and it can shift 1 extra square."
@@ -2456,7 +2456,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, each time you miss your quarry with an attack, you can choose an ally within 5 squares of the quarry. If that ally hits the quarry before the start of your next turn, the ally’s attack deals extra damage equal to your Hunter’s Quarry damage."
   },
   "Prime Shift": {
@@ -2473,7 +2473,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can shift a number of squares equal to your Wisdom modifier as a move action whenever you hit an enemy with a ranged attack that has the bonus from the Prime Shot class feature."
   },
   "Quick Recovery": {
@@ -2490,7 +2490,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "trigger": "Your beast companion receives an effect that a save can end within 20 squares of you",
     "target": "Your beast companion in the burst",
     "effect": "The target makes a saving throw against the effect, with a bonus to the saving throw equal to your Wisdom modifier."
@@ -2509,7 +2509,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be marked.",
     "effect": "The marked condition ends, and you can shift 1 square."
   },
@@ -2527,7 +2527,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One bloodied creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "3[W] + Strength modifier + Wisdom modifier damage (melee) or 3[W] + Dexterity modifier + Wisdom modifier damage (ranged)."
@@ -2546,7 +2546,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. Fortitude",
     "onHit": "1[B] + beast’s Strength modifier damage, and your beast companion can shift 2 squares toward you and then pull the target 2 squares. The target grants combat advantage to you until the end of your next turn.",
@@ -2566,7 +2566,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature designated as your quarry",
     "effect": "Before the attack, your beast companion can shift its speed.",
     "attack": "Strength vs. AC",
@@ -2587,7 +2587,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (off-hand weapon)",
@@ -2607,7 +2607,7 @@
     "keywords": [
       "Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3[W] + Dexterity modifier damage."
@@ -2626,7 +2626,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier damage (ranged), and ongoing 10 damage (save ends).<br/>Aftereffect: Ongoing 5 damage (save ends)."
@@ -2645,7 +2645,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -2667,7 +2667,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "3[B] + beast’s Strength modifier damage.",
@@ -2687,7 +2687,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC (main) and Strength vs. AC (offhand), two attacks per target",
@@ -2708,7 +2708,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -2728,7 +2728,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss with a ranged at-will attack",
     "effect": "You reroll the attack."
   },
@@ -2746,7 +2746,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "prerequisite": "You must be trained in Stealth.",
     "requirement": "You and your beast companion must have cover or concealment.",
     "targets": "You and your beast companion in the burst",
@@ -2767,7 +2767,7 @@
     "keywords": [
       "Beast, Healing, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and your beast companion in the burst",
     "effect": "Each target regains hit points as if spending a healing surge."
   },
@@ -2785,7 +2785,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you take no attack roll penalty because of concealment or total concealment when you attack your quarry."
   },
   "Wary Shooter": {
@@ -2802,7 +2802,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, any ranged attack you make does not provoke opportunity attacks."
   },
   "Blade and Fang": {
@@ -2819,7 +2819,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2842,7 +2842,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons or a ranged weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
@@ -2862,7 +2862,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target provokes opportunity attacks from you if it shifts or attacks on its next turn.",
@@ -2883,7 +2883,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC, three attacks",
     "onHit": "1[W] + Dexterity modifier damage per attack. If two of the attacks hit, the target takes 1d6 extra damage. If three of the attacks hit, the target is also immobilized until the end of your next turn."
@@ -2902,7 +2902,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC (main weapon and off-hand weapon), two attacks",
@@ -2922,7 +2922,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One bloodied creature designated as your quarry",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "5[W] + Strength modifier damage (melee) or 4[W] + Dexterity modifier damage (ranged)."
@@ -2941,7 +2941,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "An enemy makes a charge attack against you",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. Reflex",
@@ -2963,7 +2963,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2988,7 +2988,7 @@
     "keywords": [
       "Beast, Fear, Martial, Psychic"
     ],
-    "range": "Close burst 2 (beast)<",
+    "range": "Close burst 2 (beast)",
     "target": "Each enemy in the burst",
     "attack": "Beast’s attack bonus vs. Will",
     "onHit": "2d8 + Wisdom modifier psychic damage, and the target is pushed 1 square and dazed (save ends).",
@@ -3009,7 +3009,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "2[B] + beast’s Strength modifier damage, and the target is immobilized (save ends).",
@@ -3030,7 +3030,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "One, two, or three creatures",
     "attack": "Strength vs. AC, three attacks (at least one attack with each weapon)",
@@ -3052,7 +3052,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are reduced to 0 hit points or fewer",
     "effect": "You spend a healing surge and can shift 1 square."
   },
@@ -3070,7 +3070,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "effect": "Until the end of your next turn, you designate each target as your quarry and can deal your Hunter’s Quarry damage against each one you hit."
   },
@@ -3088,7 +3088,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Perception.",
     "effect": "Until the stance ends, you gain blindsight 5 and a +5 power bonus to Perception checks."
   },
@@ -3106,7 +3106,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "You or your adjacent beast companion is damaged by an attack",
     "targets": "You and your beast companion in the burst",
     "effect": "The target damaged by the triggering attack takes only half of the damage, and the other target takes the remainder. (If both targets were damaged by the triggering attack, one target can take half of the other’s damage.) The target taking the remainder of the other’s damage gains temporary hit points equal to your level."
@@ -3125,7 +3125,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "Your beast companion is hit by an attack or an enemy enters a square within 5 squares of you",
     "effect": "Your beast companion can shift its speed."
   },
@@ -3143,7 +3143,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you slide the target 2 squares. Your beast companion can shift 4 squares and must end adjacent to the target.",
@@ -3163,7 +3163,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "4[W] + Dexterity modifier damage, and the target is slowed until the start of your next turn. If the target is your quarry, it is instead immobilized until the start of your next turn."
@@ -3182,7 +3182,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude (off-hand weapon)",
@@ -3202,7 +3202,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage to your beast companion until the end of your next turn.",
@@ -3225,7 +3225,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "targets": "One or two creatures that are surprised or that you are hidden from",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged), one attack per target",
     "onHit": "5[W] + Strength modifier + Wisdom modifier damage (melee) or 5[W] + Dexterity modifier + Wisdom modifier damage (ranged), and you can shift your speed. If you are hidden from the target when you make the attack, you remain hidden if you have any cover or concealment.",
@@ -3245,7 +3245,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "requirement": "You and your beast companion must charge and use this power in place of a melee basic attack.",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
@@ -3270,7 +3270,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -3291,7 +3291,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "4[W] + Strength modifier damage (melee) or 4[W] + Dexterity modifier damage (ranged).",
@@ -3311,7 +3311,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Ranged sight<",
+    "range": "Ranged sight",
     "target": "One creature",
     "attack": "Dexterity – 2 vs. AC",
     "onHit": "5[W] + Dexterity modifier damage."
@@ -3330,7 +3330,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. If you and your beast companion are both flanking the target, the target is immobilized until the start of your next turn.",
@@ -3350,7 +3350,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. Reflex",
     "onHit": "1[B] + beast’s Strength modifier damage, and the target is knocked prone.",
@@ -3373,7 +3373,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage. If the target attacks or moves more than 1 square before the start of your next turn, it takes 4[W] extra damage."
@@ -3392,7 +3392,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One, two, three, four, or five creatures",
     "attack": "Dexterity vs. AC, five attacks",
     "onHit": "2[W] + Dexterity modifier damage per attack. If you hit a target at least twice, you push it 1 square. If you hit a target at least four times, you also knock it prone. If you hit a target five times, it is also immobilized (save ends).",
@@ -3413,7 +3413,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude (melee) or Dexterity vs. Fortitude (ranged)",
     "onHit": "4[W] + Strength modifier damage or 4[W] + Dexterity modifier damage, and ongoing 20 damage (save ends).",
@@ -3433,7 +3433,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3458,7 +3458,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One bloodied creature",
     "effect": "Before the attack, you can shift a number of squares equal to your Wisdom modifier.",
     "attack": "Strength vs. AC",
@@ -3479,7 +3479,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -3500,7 +3500,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3520,7 +3520,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. If two or more allies are adjacent to the target, you gain combat advantage against the target with the attack.",
     "onHit": "1[W] + Dexterity modifier damage. Increase damage to 2[W] + Dexterity modifier at 21st level."
@@ -3539,7 +3539,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main) and Strength vs. AC (offhand)",
@@ -3560,7 +3560,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when you make a melee attack against a target that grants combat advantage to you, the target is knocked prone if you hit."
   },
   "Bending Branch": {
@@ -3577,7 +3577,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are pulled, pushed, or slid",
     "effect": "You negate the forced movement. In addition, you gain a +2 bonus to your next melee attack roll before the end of your next turn"
   },
@@ -3595,7 +3595,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice, once with your main weapon and once with your off-hand weapon",
@@ -3615,7 +3615,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice, once with your main weapon and once with your off-hand weapon",
@@ -3635,7 +3635,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce your quarry to 0 hit points",
     "effect": "Choose one enemy within 5 squares of you. You designate that enemy as your quarry, and you gain combat advantage against it until the end of your next turn"
   },
@@ -3653,7 +3653,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice, once with your main weapon and once with your off-hand weapon",
@@ -3673,7 +3673,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce your quarry to 0 hit points",
     "effect": "You regain hit points equal to your healing surge value + your Strength modifier"
   },
@@ -3691,7 +3691,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice, once with your main weapon and once with your off-hand weapon",
@@ -3711,7 +3711,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +1 bonus to all defenses against melee attacks and ranged attacks while you are wielding two melee weapons"
   },
   "Canopy of Blades": {
@@ -3728,7 +3728,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice, once with your main weapon and once with your off-hand weapon",
@@ -3749,7 +3749,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge but regain no hit points. You instead end each effect on you that a save can end"
   },
   "Crashing Blades": {
@@ -3766,7 +3766,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -3789,7 +3789,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -3812,7 +3812,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "prerequisite": "You must be trained in Athletics.",
     "target": "One creature",
     "requirement": "You must charge the primary target and use this power in place of a melee basic attack.",
@@ -3834,7 +3834,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must be trained in Athletics.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -3855,7 +3855,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "prerequisite": "You must be trained in Athletics.",
     "requirement": "You must begin with your beast companion adjacent to you. You charge a target and use the following attack in place of a melee basic attack. Your movement during this charge does not provoke opportunity attacks.",
     "primaryTarget": "One creature",
@@ -3880,7 +3880,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage, and you shift 2 squares to a square that is not adjacent to the target.<br/>Level 21: 2[W] + Dexterity modifier damage.",
@@ -3900,7 +3900,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier + Wisdom modifier damage.<br/>Level 21: 2[W] + Strength modifier + Wisdom modifier damage.",
@@ -3920,7 +3920,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding both a thrown weapon and a melee weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (thrown weapon)",
@@ -3941,7 +3941,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "1[B] + beast’s Strength modifier damage. If you and your beast companion are flanking the target, the attack deals 1[B] extra damage.",
@@ -3961,7 +3961,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you shift 2 squares.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -3981,7 +3981,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged <",
+    "range": "Ranged",
     "requirement": "You must be wielding both a thrown weapon and a melee weapon.",
     "target": "One creature",
     "effect": "You charge the target.",
@@ -4002,7 +4002,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you move your speed. You don’t provoke opportunity attacks for leaving a square at the start of this movement.",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
@@ -4022,7 +4022,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "effect": "Before the attack, you move your speed.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -4042,7 +4042,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -4063,7 +4063,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. If this hit reduces the target to 0 hit points, this power is not expended.",
@@ -4087,7 +4087,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is not your quarry, you can push it a number of squares equal to your Wisdom modifier.",
@@ -4107,7 +4107,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Make a secondary attack against each target.",
     "target": "One or two creatures",
     "attack": "Strength or Dexterity vs. AC",
@@ -4131,7 +4131,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you move at least 4 squares away from where you started your turn, you gain a +2 power bonus to AC and Reflex until the start of your next turn, and your next attack before the end of your next turn deals 1d8 extra damage."
   },
   "Begin the Hunt": {
@@ -4148,7 +4148,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll initiative",
     "effect": "You gain a +2 bonus to the initiative check, and using your Hunter’s Quarry, you designate one creature you can see as your quarry. You gain a +2 power bonus to attack rolls against that creature until it is no longer your quarry."
   },
@@ -4166,7 +4166,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift a number of squares equal to your Wisdom modifier and must not end the shift adjacent to any enemy. You can use your second wind."
   },
   "Terrain Advantage": {
@@ -4183,7 +4183,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +4 power bonus to all defenses while you occupy a square of difficult terrain."
   },
   "Avenging Charge": {
@@ -4200,7 +4200,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy attacks your ally",
     "effect": "You charge the triggering enemy and make the following attack in place of a melee basic attack.",
     "target": "The triggering enemy",
@@ -4221,7 +4221,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you slide the target 1 square. You can shift 1 square.",
@@ -4241,7 +4241,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and the target is slowed until the end of your next turn.",
@@ -4261,7 +4261,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. If you are hidden when you attack, you can make a Stealth check to remain hidden if you have any cover or any concealment.",
     "onHit": "2[W] + Dexterity modifier damage."
@@ -4280,7 +4280,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -4303,7 +4303,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (thrown weapon)",
@@ -4323,7 +4323,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a thrown weapon in your off hand and a melee weapon in your main hand.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -4350,7 +4350,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Using your Hunter’s Quarry, you designate the target as your quarry. You and your beast companion charge the target. You can make the following attack in place of a melee basic attack.",
     "attack": "Strength vs. AC",
@@ -4371,7 +4371,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -4392,7 +4392,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever an enemy hits or misses you with a close or a melee attack, you can make a melee basic attack against it as an immediate reaction. You can then shift 3 squares but must not end the shift adjacent to any enemy."
   },
   "Tracing Shot": {
@@ -4409,7 +4409,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier + Wisdom modifier damage.",
@@ -4429,7 +4429,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -4451,7 +4451,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and one ally in the burst",
     "effect": "Each target shifts 1 square as a free action.",
     "beast": "If your beast companion is a target, add your Wisdom modifier to the number of squares it can shift."
@@ -4470,7 +4470,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally",
     "effect": "You make a Heal check. The target regains hit points equal to half the result of your check. The target can make a saving throw against one poison effect on him or her that a save can end."
   },
@@ -4488,7 +4488,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +1 power bonus to AC while you are conscious and wielding two melee weapons. If you do not make an off-hand attack during your turn, the bonus is instead +2 until the start of your next turn."
   },
   "Stealthy Escape": {
@@ -4505,7 +4505,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Stealth.",
     "trigger": "You make a Stealth check and dislike the result",
     "effect": "Reroll the Stealth check with a bonus equal to your Wisdom modifier. You can use the higher of the two rolls. If the second result is lower than the first, you do not expend this power."
@@ -4524,7 +4524,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. Reflex (off-hand weapon)",
@@ -4546,7 +4546,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Ranged weapon (beast 1)<",
+    "range": "Ranged weapon (beast 1)",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature adjacent to your beast companion",
     "attack": "Strength vs. AC (thrown weapon)",
@@ -4568,7 +4568,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. If the target is bloodied or prone, the attack deals 2[W] extra damage."
@@ -4587,7 +4587,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (thrown weapon). The target grants combat advantage to you if it is adjacent to an ally of yours who can take free actions.",
@@ -4607,7 +4607,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you move your speed.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4627,7 +4627,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "2[B] + beast’s Strength modifier damage, and your beast companion pushes the target 1 square.",
@@ -4648,7 +4648,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature",
     "effect": "Using your Hunter’s Quarry, you designate the target as your quarry.",
@@ -4670,7 +4670,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -4691,7 +4691,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC",
     "onHit": "3[W] + Strength modifier (melee) or 3[W] + Dexterity modifier (ranged) damage, and you mark the target until the end of your next turn. Until the end of the encounter, your Hunter’s Quarry deals two extra dice of Hunter’s Quarry damage against the target."
@@ -4710,7 +4710,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is immobilized (save ends).",
@@ -4730,7 +4730,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "An enemy moves during its turn to a square adjacent to you",
     "effect": "The target is immobilized (save ends).",
     "target": "The triggering enemy",
@@ -4751,7 +4751,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack that makes you slowed, immobilized, restrained, or dazed",
     "effect": "You gain a +4 power bonus to all defenses against the triggering attack."
   },
@@ -4769,7 +4769,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your turn, you don’t take a penalty to Stealth checks for moving, and if you don’t hit with an attack while you are hidden, you remain hidden."
   },
   "Resume the Hunt": {
@@ -4786,7 +4786,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points",
     "effect": "You move your speed. You don’t provoke opportunity attacks for leaving a square at the start of this movement. Until the end of your next turn, you gain a +2 bonus to all defenses."
   },
@@ -4804,7 +4804,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain resistance to all damage equal to your Wisdom modifier while you are bloodied."
   },
   "Answer with Steel": {
@@ -4821,7 +4821,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy moves during its turn to a square adjacent to you",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. AC",
@@ -4841,7 +4841,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "effect": "Before the attack, you shift 1 square.",
     "target": "One creature you have not attacked during this turn",
@@ -4862,7 +4862,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "2[B] + beast’s Strength modifier damage, and any enemy adjacent to your beast companion takes damage equal to 5 + your Wisdom modifier."
@@ -4881,7 +4881,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. You shift a number of squares equal to your Wisdom modifier.",
@@ -4901,7 +4901,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "effect": "You shift 2 squares and make a ranged secondary attack. This attack doesn’t provoke opportunity attacks.",
     "primaryTarget": "One creature",
@@ -4926,7 +4926,7 @@
     "keywords": [
       "Martial, Poison, Reliable, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC",
     "onHit": "2[W] + Strength (melee) or Dexterity (ranged) modifier damage. The target is weakened and takes ongoing 10 poison damage (save ends both)."
@@ -4945,7 +4945,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "3[B] + beast’s Dexterity modifier damage.",
@@ -4966,7 +4966,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and the target is dazed (save ends).",
@@ -4987,7 +4987,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "You roll initiative",
     "target": "One creature",
     "effect": "Using your Hunter’s Quarry, you designate the target as your quarry.",
@@ -5009,7 +5009,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage.",
@@ -5029,7 +5029,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you hit your quarry with a melee attack, your next ranged attack against your quarry before the end of the encounter deals extra damage equal to your Wisdom modifier. Whenever you hit your quarry with a ranged attack, your next melee attack against your quarry before the end of the encounter deals extra damage equal to your Wisdom modifier."
   },
   "Ranger's Parry": {
@@ -5046,7 +5046,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding two melee weapons.",
     "trigger": "An enemy hits you with a melee or a ranged attack",
     "effect": "You gain a +4 bonus to AC and Reflex against the attack, and you gain 10 temporary hit points."
@@ -5065,7 +5065,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you can move at full speed while climbing or balancing, or you can jump a distance up to your speed. You do not grant combat advantage while climbing or balancing, and you can jump down a number of squares equal to your speed without having to make an Acrobatics check to reduce falling damage."
   },
   "Vengeful Oath": {
@@ -5082,7 +5082,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy bloodies your ally or reduces your ally to 0 hit points or fewer",
     "effect": "You can spend a healing surge and can make a saving throw against an effect that a save can end. Using your Hunter’s Quarry, you designate the triggering enemy as your quarry."
   },
@@ -5100,7 +5100,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "trigger": "An enemy makes a melee attack against you",
     "effect": "You shift a number of squares equal to your Wisdom modifier.",
     "target": "The triggering enemy",
@@ -5121,7 +5121,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength (melee or thrown weapon) vs. AC",
     "onHit": "3[W] + Strength modifier damage. If a bloodied ally is adjacent to the target, you push the target 1 square and knock it prone."
@@ -5140,7 +5140,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and the target is immobilized until the end of your next turn.",
@@ -5160,7 +5160,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You shift 2 squares and make a secondary attack.",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. AC",
@@ -5184,7 +5184,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One or two creatures",
     "attack": "Dexterity vs. AC. Make two attack rolls and use the higher result.",
     "onHit": "2[W] + Dexterity modifier damage, and the target is weakened (save ends).",
@@ -5204,7 +5204,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Ranged weapon (beast 1)<",
+    "range": "Ranged weapon (beast 1)",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature",
     "attack": "Strength (thrown weapon) vs. AC",
@@ -5228,7 +5228,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "4[W] + Dexterity modifier damage.",
@@ -5249,7 +5249,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 5 damage (save ends). If you have combat advantage against the target, it is also dazed (save ends)."
@@ -5268,7 +5268,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each enemy in the burst",
     "effect": "Using your Hunter’s Quarry, you designate one target you can see as your quarry.",
     "attack": "Dexterity vs. AC",
@@ -5288,7 +5288,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Athletics.",
     "effect": "You shift your speed and have a +10 power bonus to Athletics checks to jump during the shift."
   },
@@ -5306,7 +5306,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 1 square. You can then make a Stealth check to become hidden if you have any cover or any concealment."
   },
   "Fleet of Foot": {
@@ -5323,7 +5323,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you do not provoke opportunity attacks for moving. In addition, you don’t take a penalty to attack rolls or grant combat advantage for running."
   },
   "Sharpen the Senses": {
@@ -5340,7 +5340,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +5 power bonus to Perception checks. In addition, you can see invisible creatures unless they are invisible as a result of being hidden."
   },
   "Tested Analysis": {
@@ -5357,7 +5357,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you miss your quarry with an attack, you gain a +2 power bonus to attack rolls against it until the end of your next turn."
   },
   "Avalanche of Fury": {
@@ -5374,7 +5374,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -5398,7 +5398,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage, and the target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -5417,7 +5417,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (thrown weapon)",
@@ -5440,7 +5440,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "effect": "Before the attack, you shift your speed.",
     "target": "One or two creatures",
     "attack": "Dexterity vs. AC. The target grants combat advantage to you for this attack.",
@@ -5460,7 +5460,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "effect": "Before the attack, you move your speed.",
     "target": "One creature",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC. If the target couldn’t see you before you moved, it grants combat advantage to you for this attack.",
@@ -5480,7 +5480,7 @@
     "keywords": [
       "Beast, Martial, Stance, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature adjacent to your beast companion",
     "attack": "Strength vs. AC (thrown weapon)",
@@ -5502,7 +5502,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "effect": "You shift 2 squares and make a secondary attack against the target. The target grants combat advantage to you for this attack.",
     "target": "One creature",
@@ -5529,7 +5529,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy moves during its turn to a square adjacent to you",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. AC",
@@ -5551,7 +5551,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "4[W] + Dexterity modifier damage.",
@@ -5571,7 +5571,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "effect": "Make the following attack four times against the target.",
     "attack": "Dexterity vs. Reflex. The attack can score a critical hit on a roll of 18–20.",
@@ -5591,7 +5591,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "effect": "Before the attack, you shift a number of squares equal to your Wisdom modifier.",
     "target": "One or two creatures",
     "attack": "Dexterity vs. AC. This attack doesn’t provoke opportunity attacks.",
@@ -5611,7 +5611,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a thrown weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC (thrown weapon)",
@@ -5631,7 +5631,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you shift 3 squares.",
     "target": "One, two, or three creatures",
     "attack": "Strength vs. AC",
@@ -5651,7 +5651,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon (beast 1)<",
+    "range": "Melee weapon (beast 1)",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage to your beast companion until the end of your next turn.",
@@ -5674,7 +5674,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 1 (beast)<",
+    "range": "Close burst 1 (beast)",
     "target": "Each enemy in the burst",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "5[B] + beast’s Strength modifier damage.",
@@ -5694,7 +5694,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -5716,7 +5716,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "effect": "Before the attack, you shift your speed. During this movement, you can shift through enemies’ squares. Make a melee basic attack against each enemy whose space you enter. No enemy can be attacked more than once from a single use of this power.",
     "target": "One creature",
@@ -5737,7 +5737,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "6[W] + Dexterity modifier damage. If you reduce the target to 0 hit points, this power is not expended.",
@@ -5757,7 +5757,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "4[W] + Dexterity modifier damage.",
@@ -5778,7 +5778,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage, and choose 1 square in or adjacent to the primary target’s space. If a creature moves into that square before the start of your next turn, you can make a secondary attack against the new target as an immediate action.<br/>Level 21: 2[W] + Dexterity modifier damage.",
@@ -5801,7 +5801,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and the target is slowed until the end of your next turn."
@@ -5820,7 +5820,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage.",
@@ -5841,7 +5841,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a bow or a crossbow.",
     "effect": "Choose 5 contiguous squares of a vertical surface within your weapon range that you can see. The DC for climbing these squares is reduced by twice your Dexterity modifier until the end of the encounter."
   },
@@ -5859,7 +5859,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Area burst 1 within 20<",
+    "range": "Area burst 1 within 20",
     "requirement": "You must be wielding a bow or a crossbow.",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. AC",
@@ -5879,7 +5879,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage.",
@@ -5900,7 +5900,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow or a crossbow.",
     "trigger": "A creature in range falls and has a wall or floor within 1 square of it",
     "target": "The triggering creature",
@@ -5920,7 +5920,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage. The target and one enemy adjacent to the target are immobilized until the end of your next turn."
@@ -5939,7 +5939,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Area burst 1 within 20<",
+    "range": "Area burst 1 within 20",
     "requirement": "You must be wielding a bow or a crossbow.",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. AC",
@@ -5960,7 +5960,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow or a crossbow.",
     "trigger": "An ally is hit by an attack",
     "target": "The triggering ally",
@@ -5980,7 +5980,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. If the target moves into a space adjacent to an ally before the start of your next turn, you can make a ranged basic attack with a weapon against the target as an immediate reaction."
@@ -5999,7 +5999,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -6020,7 +6020,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must be wielding a bow or a crossbow.",
     "trigger": "An ally misses an enemy within range with a ranged attack.",
     "target": "The triggering ally",
@@ -6040,7 +6040,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Area burst 1 within 20<",
+    "range": "Area burst 1 within 20",
     "requirement": "You must be wielding a bow or a crossbow.",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. AC",
@@ -6060,7 +6060,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, as an immediate reaction when an enemy within 5 squares of you moves, you can use the Surprising Arrow Attack power.",
     "requirement": "The power Surprising Arrow Stance must be active in order to use this power.",
     "target": "The triggering enemy",
@@ -6081,7 +6081,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. When an enemy moves into a square within 2 squares of the target before the start of your next turn, you can make a ranged basic attack with a weapon against that enemy as a free action."
@@ -6100,7 +6100,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Area burst 1 within 20<",
+    "range": "Area burst 1 within 20",
     "requirement": "You must be wielding a bow or a crossbow.",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. AC. Make two attack rolls.",
@@ -6120,7 +6120,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. If the target makes an attack before the start of your next turn, make the secondary attack as an immediate interrupt against it.",
@@ -6141,7 +6141,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "5[W] + Dexterity modifier damage.",
@@ -6162,7 +6162,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you and your beast companion gain combat advantage against any foe to whom you are both adjacent. If you and your companion are also flanking the target, you deal 2 extra damage on Hunter’s Quarry damage rolls against it."
   },
   "Deceptive Steel": {
@@ -6179,7 +6179,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "trigger": "You make an opportunity attack against an enemy.",
     "target": "The triggering enemy",
@@ -6200,7 +6200,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature designated as your quarry",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -6220,7 +6220,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. the lowest of the target’s AC, Reflex, or Fortitude",
@@ -6241,7 +6241,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Ranged weapon (beast 1)<",
+    "range": "Ranged weapon (beast 1)",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -6264,7 +6264,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you use a ranger power that allows you to make multiple melee attacks, you can shift 1 square after each such successful attack."
   },
   "Vengeful Fangs Stance": {
@@ -6281,7 +6281,7 @@
     "keywords": [
       "Beast, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, your beast companion can score a critical hit on a roll of 18–20, and it gains a power bonus to damage rolls equal to your Strength modifier or Dexterity modifier. As an opportunity action when an enemy hits you with an attack, you can command your beast companion to make a melee basic attack or a charge attack against that enemy. The beast does not provoke opportunity attacks if it charges during this action. Your beast companion gains combat advantage on this attack if the target is also your quarry."
   },
   "Ferocious Insight": {
@@ -6298,7 +6298,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "2[B] + your beast’s Strength modifier damage. If you and your beast companion are flanking the target, the first time the target moves or shifts before the end of your next turn, you and your beast companion can shift 3 squares as an immediate reaction."
@@ -6317,7 +6317,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
     "onHit": "The target falls prone.",
@@ -6339,7 +6339,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Melee beast 1<",
+    "range": "Melee beast 1",
     "requirement": "You must be bloodied.",
     "target": "One or two creatures",
     "attack": "Beast’s attack bonus vs. AC",
@@ -6361,7 +6361,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of the encounter, you can command your beast companion to make an opportunity attack as an opportunity action instead of an immediate interrupt. In addition, you can command your beast companion to use the Shepherding Slice Attack power once per turn until the end of the encounter.",
     "target": "One creature",
     "attack": "Beast’s attack bonus vs. AC",
@@ -6383,7 +6383,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -6409,7 +6409,7 @@
     "keywords": [
       "Beast, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is blinded until the end of your next turn.",
@@ -6433,7 +6433,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 3 (beast)<",
+    "range": "Close burst 3 (beast)",
     "target": "Each enemy in the blast",
     "attack": "Beast’s attack bonus vs. Will",
     "onHit": "1[B] + beast’s Strength modifier damage, and the target is slowed until the end of your next turn.",
@@ -6455,7 +6455,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a ranged basic attack with a weapon, ignoring the penalty to attack rolls imposed by partial cover and partial concealment. In addition, the penalty to attack rolls imposed by superior cover and total concealment is no worse than -2 for this attack."
   },
   "Clever Shot": {
@@ -6472,7 +6472,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a ranged basic attack with a weapon. If the attack hits, the target is also subject to one of the following effects of your choice:<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You slide the target up to 2 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target falls prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The target is slowed (save ends)."
   },
   "Rapid Shot": {
@@ -6489,7 +6489,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a ranged basic attack with a weapon against each creature in or adjacent to a square within the attack’s range. You take a -2 penalty to the attack rolls."
   },
   "Disruptive Shot": {
@@ -6506,7 +6506,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage, and you choose for the target to be either immobilized (save ends) or dazed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2[W] + Dexterity modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3[W] + Dexterity modifier damage.",
@@ -6526,7 +6526,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the cunning fox. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You take only half damage from attacks made against you during your turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Whenever you hit or miss with a melee attack or a ranged attack on your turn, you can take a free action to shift up to 2 squares."
   },
   "Aspect of the Dancing Serpent": {
@@ -6543,7 +6543,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the dancing serpent. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You can take a free action at the end of each of your turns to shift 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* When you make a basic attack against an enemy that has none of its allies adjacent to it, you gain a +1 power bonus to the attack roll and damage roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus to the damage roll increases to +2.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus to the damage roll increases to +3."
   },
   "Aspect of the Pouncing Lynx": {
@@ -6560,7 +6560,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the pouncing lynx. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +4 power bonus to initiative checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* During your first turn in an encounter, you gain a +2 power bonus to attack rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a power bonus to all defenses against opportunity attacks that you provoke by moving. The bonus equals your Wisdom modifier."
   },
   "Aspect of the Lone Wolf": {
@@ -6577,7 +6577,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the lone wolf. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* When you make a basic attack against a bloodied enemy, you gain a +2 power bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* At the start of each of your turns, you learn the location of every hidden, bloodied enemy within 5 squares of you."
   },
   "Aspect of the Lurking Spider": {
@@ -6594,7 +6594,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the lurking spider. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to Stealth checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +5 power bonus to Athletics checks made to climb.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* While you have combat advantage against an enemy, you gain a +2 power bonus to damage rolls against it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus to damage rolls increases to +3.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus to damage rolls increases to +4."
   },
   "Aspect of the Regal Lion": {
@@ -6611,7 +6611,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the regal lion. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* When you make a basic attack against an enemy that is Large or larger, you gain a +2 power bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to all defenses against such enemies."
   },
   "Aspect of the Seeking Falcon": {
@@ -6628,7 +6628,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the seeking falcon. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You ignore the penalty to attack rolls for making a ranged weapon attack at long range.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to Perception checks."
   },
   "Aspect of the Pack Wolf": {
@@ -6645,7 +6645,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the pack wolf. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You do not provoke opportunity attacks when leaving squares adjacent to your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* When you make a basic attack against an enemy adjacent to two or more of your allies, you gain a +1 power bonus to the attack roll. You also gain a power bonus to the damage roll against that enemy. The bonus equals the number of your allies adjacent to the enemy.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus to damage rolls increases to 1 + the number of adjacent allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus to damage rolls increases to 2 + the number of adjacent allies."
   },
   "Bridge of Roots": {
@@ -6662,7 +6662,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. At least one square of the zone must be on a solid surface. You and your allies can ignore hindering terrain and difficult terrain in the zone. In addition, any portion of a pit, chasm, or similar feature within the zone becomes safe, passable ground.",
     "moveAction": "You move the zone up to 5 squares, keeping at least one square on a solid surface."
   },
@@ -6680,7 +6680,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. The ground in the zone is difficult terrain for your enemies. When any enemy charges, its movement cannot include any square of the ground in the zone."
   },
   "Stalker's Mist": {
@@ -6697,7 +6697,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. Squares in the zone are heavily obscured to your enemies.",
     "moveAction": "You move the zone up to 5 squares."
   },
@@ -6715,7 +6715,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy you can see ends its turn adjacent to you.",
     "effect": "You shift a number of squares up to your Wisdom modifier."
   },
@@ -6733,7 +6733,7 @@
     "keywords": [
       "Healing, Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target can spend a healing surge."
   },
@@ -6751,7 +6751,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. Any enemy that ends its turn in the zone takes damage equal to your Wisdom modifier.",
     "moveAction": "You move the zone up to 5 squares."
   },
@@ -6769,7 +6769,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Each target gains both darkvision and a +2 power bonus to Perception checks until the end of the encounter."
   },
@@ -6787,7 +6787,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One square",
     "effect": "The target becomes a zone that lasts until the end of the encounter or until an enemy enters it. Without a Perception check (DC 10 + your level + your Wisdom modifier), your enemies notice neither the zone nor your use of this power. When an enemy enters the zone, the enemy takes 5 + your Wisdom modifier damage, and it is immobilized until the end of your next turn."
   },
@@ -6805,7 +6805,7 @@
     "keywords": [
       "Fire, Primal, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. Enemies grant combat advantage and take a –5 penalty to Stealth checks while in the zone. Any enemy that ends its turn in the zone takes fire damage equal to your Wisdom modifier.",
     "moveAction": "You move the zone up to 5 squares."
   },
@@ -6823,7 +6823,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "Until the end of the encounter, the target has darkvision, cannot be blinded, never grants combat advantage, and can see all creatures within 10 squares of him or her."
   },
@@ -6841,7 +6841,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you are surrounded by howling winds. Once on each of your turns, you can take a free action to slide an enemy within 10 squares of you a number of squares equal to your Wisdom modifier."
   },
   "Wall of Earth": {
@@ -6858,7 +6858,7 @@
     "keywords": [
       "Conjuration, Primal"
     ],
-    "range": "Area wall 8 within 10 squares<",
+    "range": "Area wall 8 within 10 squares",
     "effect": "You conjure a wall of earth that lasts until the end of your next turn. The wall can be up to 2 squares high and must be on a solid surface. When you use this power, any creature in the wall slides to the nearest unoccupied space outside the wall, sliding the shortest distance possible. The creature then falls prone. The wall is blocking terrain and is immune to damage. When the wall ends, its area becomes difficult terrain until the end of the encounter.",
     "sustainMinor": "The wall persists until the end of your next turn."
   },
@@ -6876,7 +6876,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. The zone blocks line of sight for your enemies.",
     "moveAction": "You move the zone up to 5 squares."
   },
@@ -6894,7 +6894,7 @@
     "keywords": [
       "Primal, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. The ground in the zone is difficult terrain, and enemies cannot shift, teleport, or charge in or through it. An enemy that ends its turn on the ground in the zone is restrained (save ends)."
   },
   "Dual Weapon Attack": {
@@ -6911,7 +6911,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "trigger": "You hit with a melee basic attack on your turn.",
     "target": "One creature",
@@ -6933,7 +6933,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the charging ram. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Your movement during a charge doesn’t provoke opportunity attacks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* If you hit with a charge attack, you can knock the target prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to the damage rolls of charge attacks."
   },
   "Aspect of the Hungry Shark": {
@@ -6950,7 +6950,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the hungry shark. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* When you make a basic attack against a bloodied enemy, you gain a +2 power bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You can take a move action to shift up to 3 squares to a square adjacent to a bloodied enemy.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +5 power bonus to Athletics checks made to swim."
   },
   "Aspect of the Soaring Hawk": {
@@ -6967,7 +6967,7 @@
     "keywords": [
       "Primal, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a stance, the aspect of the soaring hawk. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You ignore the penalty to attack rolls imposed by partial cover and partial concealment, and you take no worse than a -2 penalty to attack rolls against targets that have superior cover or total concealment.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to Perception checks."
   },
   "Oak Skin": {
@@ -6984,7 +6984,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain resistance to all damage until the end of the encounter. The resistance equals your Wisdom modifier."
   },
   "Ranger's Agility": {
@@ -7001,7 +7001,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +2 power bonus to speed, and whenever you shift, the distance you can shift increases by 1 square."
   },
   "Safe Passage": {
@@ -7018,7 +7018,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, each target ignores difficult terrain and gains a +2 power bonus to speed."
   },
@@ -7036,7 +7036,7 @@
     "keywords": [
       "Primal, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport up to 5 squares, then gain a +5 power bonus to all defenses until the end of your next turn."
   },
   "Root Gate": {
@@ -7053,7 +7053,7 @@
     "keywords": [
       "Primal, Teleportation, Zone"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "You create two zones, each one in an unoccupied square in the burst. The zones last until the end of the encounter. When you or any of your allies enters either of the zones, that character can teleport to the other zone as a free action, as long as the destination zone is unoccupied."
   },
   "Iron Endurance": {
@@ -7070,7 +7070,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to your healing surge value + 10."
   },
   "Word of Warning": {
@@ -7087,7 +7087,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "You and your allies roll initiative.",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +5 power bonus to the initiative check and gains combat advantage until the end of his or her next turn."
@@ -7106,7 +7106,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +6 power bonus to speed until the end of the encounter."
   },
   "Stepping Through the Veil": {
@@ -7123,7 +7123,7 @@
     "keywords": [
       "Primal"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, whenever you end your turn not adjacent to any enemies, you are invisible until the start of your next turn."
   },
   "Avian Grace": {
@@ -7140,7 +7140,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have a raptor beast companion",
     "effect": "Until the end of the encounter, you can make long jumps as if you had a running start, and you gain a +2 power bonus on your fly speed (if any)."
   },
@@ -7158,7 +7158,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "prerequisite": "You must have a horse beast companion",
     "target": "You and your beast companion.",
     "effect": "Until the end of your next turn, while you are mounted on your beast companion, squeezing does not cause you or your beast companion to take a -5 penalty on attack rolls, grant combat advantage, or move at half speed."
@@ -7177,7 +7177,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack that targets AC or Reflex",
     "prerequisite": "You must have a cat beast companion",
     "effect": "You gain a +4 bonus to AC and Reflex until the end of your next turn. If the triggering attack misses you because of this bonus, you can shift a number of squares equal to your Wisdom modifier (minimum 1)."
@@ -7196,7 +7196,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have a simian beast companion.",
     "effect": "Until the end of the encounter or until your beast companion is killed or becomes unconscious, you gain a climb speed equal to your speed, and a +4 power bonus on Acrobatics checks."
   },
@@ -7214,7 +7214,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You or your beast companion are pushed, pulled, or slid.",
     "prerequisite": "You must have a lizard beast companion",
     "target": "You and your beast companion",
@@ -7234,7 +7234,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have a serpent beast companion.",
     "effect": "Until the end of the encounter or until your beast companion is killed or becomes unconscious, you can shift 2 squares as a move action and ignore difficult terrain when you shift. If you already ignore difficult terrain when shifting, you can shift 3 squares instead of 2."
   },
@@ -7252,7 +7252,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from a melee attack.",
     "prerequisite": "You must have a boar beast companion.",
     "effect": "Reduce the damage you take from the triggering attack by a number equal to half your level + Wisdom modifier (minimum 1). If you take no damage from the attack because of this reduction, then you are not affected by any conditions or effects this attack would have caused on a hit."
@@ -7271,7 +7271,7 @@
     "keywords": [
       "Beast, Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have a bear beast companion.",
     "effect": "Until the stance ends, when you hit a creature with a melee attack, you can push that creature 1 square."
   },
@@ -7289,7 +7289,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have a spider beast companion",
     "requirement": "Your beast companion must be within 5 squares of you and able to make opportunity attacks.",
     "trigger": "You make an Athletics check while climbing or because you took damage while climbing, or you make a saving throw to avoid being forced into hindering terrain or over a precipice.",
@@ -7309,7 +7309,7 @@
     "keywords": [
       "Beast, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from a melee attack.",
     "prerequisite": "You must have a wolf beast companion",
     "requirement": "Your beast companion must be adjacent to the triggering enemy and able to make opportunity attacks.",
@@ -7329,7 +7329,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC",
     "onHit": "1[W] + Strength modifier damage (melee) or 1[W] + Dexterity modifier damage (ranged), and the target is blinded and cannot shift (save ends both). Until this effect ends, you can shift 1 square as a free action whenever the target misses with an attack.",
@@ -7349,7 +7349,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength (melee) or Dexterity (ranged) vs. AC",
     "onHit": "2[W] + Strength modifier damage (melee) or Dexterity modifier damage (ranged), and the target is dazed (save ends).",

@@ -13,7 +13,7 @@
     "keywords": [
       "Fire"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy within 10 squares of you hits you.",
     "target": "The triggering enemy in the burst",
     "effect": "The target takes 1d6 + Intelligence modifier or Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Intelligence modifier or Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Intelligence modifier or Charisma modifier fire damage.<br/>"
@@ -32,7 +32,7 @@
     "keywords": [
       "Fear"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature that can see you",
     "effect": "Make a Bluff check opposed by the target’s passive Insight. If the check succeeds, you can push the target 1 square, and the target cannot make opportunity attacks against you until the start of your next turn."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the grim isolation stance. Until the stance ends, you gain a +2 power bonus to all defenses while no ally is adjacent to you."
   },
   "Hellfire Shroud": {
@@ -67,7 +67,7 @@
     "keywords": [
       "Fire"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to all defenses. In addition, whenever an enemy adjacent to you hits you with a melee attack, that enemy takes fire damage equal to your Charisma modifier."
   },
   "Eternal Returns": {
@@ -84,7 +84,7 @@
     "keywords": [
       "Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop below 1 hit point.",
     "effect": "You are removed from play until the start of your next turn. At the start of your next turn, you can spend a healing surge, and you return to play in an unoccupied space within 5 squares of the last space you occupied."
   }

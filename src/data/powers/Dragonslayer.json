@@ -13,7 +13,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "A close or an area attack against AC or Reflex damages you",
     "requirement": "You must be using a shield.",
     "effect": "You take only half damage from the triggering attack. The damage is also halved against one adjacent ally who took damage from the triggering attack."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma + 2 vs. Reflex",
     "onHit": "5d6 + Charisma modifier force damage, and the target is knocked prone and immobilized (save ends).",
@@ -53,7 +53,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature marked by you",
     "attack": "Charisma vs. AC",
     "onHit": "3[W] + Charisma modifier damage. Until the start of your next turn, your divine sanction and divine challenge deal 10 extra radiant damage."

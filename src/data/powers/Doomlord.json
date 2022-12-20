@@ -13,7 +13,7 @@
     "keywords": [
       "Elemental, Necrotic"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You hit an enemy with a melee weapon attack.",
     "effect": "The attack deals 1[W] extra necrotic damage, and the target cannot regain hit points or gain temporary hit points until the end of your next turn."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Elemental, Necrotic"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You hit an enemy with a melee weapon attack.",
     "effect": "The enemy takes 2[W] extra damage, and it takes ongoing 20 necrotic damage (save ends). If any of this damage reduces the enemy to 10 hit points or fewer, it dies.",
     "aftereffect": "Ongoing 10 necrotic damage (save ends)."
@@ -50,7 +50,7 @@
     "keywords": [
       "Elemental, Teleportation, Zone"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport up to 5 squares, and the space you leave becomes a zone that lasts until the end of your next turn. Creatures in the zone or adjacent to it take a -2 penalty to attack rolls and saving throws."
   },
   "Entropic Harbinger": {
@@ -67,7 +67,7 @@
     "keywords": [
       "Aura, Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce a nonminion enemy to 0 hit points.",
     "effect": "You activate an aura 2 that lasts until the end of your next turn. Enemies in the aura cannot regain hit points or gain temporary hit points."
   }

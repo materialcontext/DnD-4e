@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Rattling, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -34,7 +34,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -57,7 +57,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits an ally you can see with a melee attack",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to speed and a +2 power bonus to attack rolls against the triggering enemy."
   }

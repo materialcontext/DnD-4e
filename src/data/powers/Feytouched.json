@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "The target must make a basic attack as a free action against its nearest ally (you choose the target if there are multiple possible targets). If it can’t make the attack, the target takes 2d8 + Charisma modifier psychic damage After it makes its attack or takes psychic damage, the target is dazed (save ends)."
@@ -32,7 +32,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "trigger": "A creature within range and affected by your Warlock’s Curse drops to 0 hit points or fewer",
     "effect": "You teleport yourself or another creature in range into the triggering creature’s space."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier psychic damage. You can teleport the target 5 squares, whereupon it makes a melee basic attack against an adjacent creature of your choice."

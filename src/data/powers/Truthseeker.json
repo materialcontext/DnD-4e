@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d10 + Wisdom modifier radiant damage, and the target cannot use fear, illusion, or polymorph powers until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone of planar interference that lasts until the end of your next turn. Enemies cannot teleport into the zone. While within the zone, enemies cannot teleport and cannot benefit from phasing or being insubstantial."
   },
   "Moment of Truth": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Divine, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "The target is stunned and helpless until the end of your next turn.",

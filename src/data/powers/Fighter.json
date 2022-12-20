@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You hit an enemy with a melee attack",
     "requirement": "You must be using a shield.",
     "target": "The triggering enemy",
@@ -54,7 +54,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice against the target.",
     "onHit": "1[W] damage.",
@@ -74,7 +74,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength +2 vs. Reflex",
@@ -95,7 +95,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "weapon": "If you’re wielding an axe, a flail, a heavy blade, or a pick, you gain a bonus to the attack roll equal to one-half your Strength modifier.",
@@ -115,7 +115,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature grabbed by you",
     "effect": "You move your speed, pulling the target with you. The target remains grabbed, and you do not provoke an opportunity attack from the target for this movement.",
     "attack": "Strength vs. Fortitude (unarmed)",
@@ -135,7 +135,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target takes a –2 penalty to AC until the end of your next turn."
@@ -154,7 +154,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage",
@@ -174,7 +174,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "weapon": "If you’re wielding a light blade or a spear, you gain a bonus to the damage roll equal to your Dexterity modifier.",
@@ -194,7 +194,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy moves away from you",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -215,7 +215,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "You hit an enemy with a melee basic attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. Reflex",
@@ -236,7 +236,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and an enemy adjacent to you other than the target takes damage equal to your Strength modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
@@ -255,7 +255,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
@@ -275,7 +275,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -295,7 +295,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you knock the target prone."
@@ -314,7 +314,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed and cannot shift until the end of your next turn."
@@ -333,7 +333,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you can shift 1 square. Make the secondary attack.",
@@ -355,7 +355,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -375,7 +375,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -395,7 +395,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is dazed until the end of your next turn.",
@@ -415,7 +415,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target takes a -2 penalty to all defenses until the end of your next turn.",
@@ -435,7 +435,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. Make the secondary attack.",
@@ -458,7 +458,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you can push the target 1 square.",
@@ -479,7 +479,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is slowed until the end of your next turn.",
@@ -499,7 +499,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -520,7 +520,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -543,7 +543,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "4[W] + Strength modifier damage, and the target takes a -2 penalty to AC until the end of your next turn."
@@ -562,7 +562,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target is dazed until the end of your next turn.",
@@ -582,7 +582,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "4[W] + Strength modifier damage.",
@@ -602,7 +602,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -622,7 +622,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. Make the secondary attack.",
@@ -645,7 +645,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is slowed (save ends)."
@@ -664,7 +664,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC. If you target only one creature, you can attack it twice.",
     "onHit": "3[W] + Strength modifier damage.",
@@ -684,7 +684,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "7[W] + Strength modifier damage."
@@ -703,7 +703,7 @@
     "keywords": [
       "Healing, Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the unyielding avalanche stance. Until the stance ends, you gain regeneration equal to your Constitution modifier while you are bloodied and a +1 power bonus to AC and saving throws. In addition, any enemy that starts its turn adjacent to you takes 1[W] damage and is slowed until the end of its turn, but only if you are able to make opportunity attacks."
   },
   "Reaper's Stance": {
@@ -720,7 +720,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the reaper’s stance. Until the stance ends, whenever you use a fighter attack power, you can score a critical hit on a roll of 19–20, and you gain a power bonus to damage rolls equal to your Dexterity modifier. In addition, any enemy that starts its turn adjacent to you takes 1[W] damage, plus ongoing 10 damage (save ends), but only if you can make opportunity attacks."
   },
   "Reign of Terror": {
@@ -737,7 +737,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage, and you mark each enemy you can see until the end of your next turn."
@@ -756,7 +756,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the force the battle stance. Until the stance ends, your fighter at-will and encounter weapon attack powers deal 1[W] extra damage. In addition, once per round when an enemy starts its turn adjacent to you, you can use a fighter at-will attack power against it as a free action, but only if you are able to make opportunity attacks."
   },
   "Supremacy of Steel": {
@@ -773,7 +773,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage. Until the end of your next turn, the only attacks that the target can make are basic attacks."
@@ -792,7 +792,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One or two creatures",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -812,7 +812,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to 2d6 + your Constitution modifier."
   },
   "Get Over Here": {
@@ -829,7 +829,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One ally",
     "effect": "You slide the target up to 2 squares to a square adjacent to you."
   },
@@ -847,7 +847,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy attacks you and has combat advantage against you.",
     "effect": "You don’t grant combat advantage for the attack."
   },
@@ -865,7 +865,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An ally adjacent to you is hit by an attack.",
     "target": "The triggering ally",
     "effect": "The target gains a +2 power bonus to AC and Reflex against the triggering attack. If you are using a shield, the bonus increases to +4."
@@ -884,7 +884,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge, regain additional hit points equal to 2d6 + your Constitution modifier, and you can make a saving throw against one effect on you that a save can end."
   },
   "Surprise Step": {
@@ -901,7 +901,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy leaves a square adjacent to you.",
     "effect": "You shift into the square that the triggering enemy left, and you have combat advantage against that enemy until the end of your next turn."
   },
@@ -919,7 +919,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "An ally within 10 squares of you must be dying, and you must not have spent an action point during this encounter.",
     "effect": "You gain an action point that you must spend this turn."
   },
@@ -937,7 +937,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop to 0 hit points or fewer",
     "effect": "You regain enough hit points to bring you to half your maximum hit points. However, you take a -2 penalty to attack rolls until the end of the encounter."
   },
@@ -955,7 +955,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and an ally of yours adjacent to the target can shift up to 2 squares as a free action."
@@ -974,7 +974,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength -2 vs. AC",
     "onHit": "3[W] + Strength modifier damage."
@@ -993,7 +993,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you gain a +2 power bonus to attack rolls and a +4 power bonus to damage rolls against the target until the end of the encounter.",
@@ -1013,7 +1013,7 @@
     "keywords": [
       "Healing, Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you can spend a healing surge."
@@ -1032,7 +1032,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target takes ongoing 5 damage and a -2 penalty to AC (save ends both)."
@@ -1051,7 +1051,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is immobilized (save ends)."
@@ -1070,7 +1070,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the rain of steel stance. Until the stance ends, any enemy that starts its turn adjacent to you takes 1[W] damage, but only if you’re able to make opportunity attacks."
   },
   "Shift the Battlefield": {
@@ -1087,7 +1087,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "targets": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you can slide the target 1 square.",
@@ -1107,7 +1107,7 @@
     "keywords": [
       "Healing, Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you regain hit points equal to your healing surge value."
@@ -1126,7 +1126,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the defensive training stance. Until the stance ends, you gain a +2 power bonus to Fortitude, Reflex, and Will."
   },
   "Battle Awareness": {
@@ -1143,7 +1143,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll initiative and dislike the result.",
     "effect": "You gain a +10 bonus to your initiative check."
   },
@@ -1161,7 +1161,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit and damaged by an attack.",
     "effect": "The damage against you is reduced by 5 + your Constitution modifier."
   },
@@ -1179,7 +1179,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the stalwart guard stance. Until the stance ends, allies gain a +1 shield bonus to AC while adjacent to you. If you are using a shield, allies instead gain a +2 shield bonus to AC and Reflex while adjacent to you."
   },
   "Last Ditch Evasion": {
@@ -1196,7 +1196,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack.",
     "effect": "You take no damage from the attack, but you are stunned and take a -2 penalty to all defenses until the end of your next turn."
   },
@@ -1214,7 +1214,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to 3 squares, but only if you can end the move adjacent to an enemy."
   },
   "Warrior’s Challenge": {
@@ -1231,7 +1231,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target up to 2 squares.",
@@ -1251,7 +1251,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -1271,7 +1271,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target up to 3 squares.",
@@ -1291,7 +1291,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you can push the target 1 square and knock it prone."
@@ -1310,7 +1310,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -1330,7 +1330,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1351,7 +1351,7 @@
     "keywords": [
       "Healing, Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the boundless endurance stance. Until the stance ends, you have regeneration while you are bloodied. The regeneration equals 2 + your Constitution modifier."
   },
   "Serpent Dance Strike": {
@@ -1368,7 +1368,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you knock the target prone if it is your size or smaller.",
@@ -1388,7 +1388,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage."
@@ -1407,7 +1407,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -1431,7 +1431,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength damage, and you can push the target 1 square."
@@ -1450,7 +1450,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -1470,7 +1470,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
     "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
@@ -1489,7 +1489,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "weapon": "If you’re wielding a pick, a polearm, or a spear, you can score a critical hit on a roll of 18–20.",
@@ -1509,7 +1509,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and enemies adjacent to the target are marked until the end of your next turn.",
@@ -1529,7 +1529,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1550,7 +1550,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can spend a healing surge. Until the start of your next turn, you gain a bonus to AC equal to your Dexterity modifier."
   },
   "Avalanche of Steel": {
@@ -1567,7 +1567,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1590,7 +1590,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to AC and Reflex and do not grant combat advantage to creatures flanking you."
   },
@@ -1608,7 +1608,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a light blade.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -1628,7 +1628,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee Weapon<",
+    "range": "Melee Weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>Increase damage to 2[W] + Strength modifier at 21st level."
@@ -1647,7 +1647,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "The target is dazed until the end of your next turn.",
@@ -1667,7 +1667,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -1691,7 +1691,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. You can shift 1 square and slide the target 1 square into the space you left.<br/>Increase damage to 2[W] + Strength modifier at 21st level."
@@ -1710,7 +1710,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy misses you or an ally with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -1730,7 +1730,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "Two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), one attack per target",
@@ -1750,7 +1750,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target grants combat advantage to you until the end of your next turn.",
@@ -1770,7 +1770,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before the attack, you can shift 1 square.",
     "weapon": "If you’re wielding a light blade or a spear, you can either shift 2 squares before the attack or shift 1 square before and 1 square after.",
@@ -1791,7 +1791,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy enters a square within 2 squares of you",
     "target": "The triggering enemy",
     "effect": "Before the attack, you can shift 2 squares.",
@@ -1813,7 +1813,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -1833,7 +1833,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You pick an adjacent enemy and move up to your speed. As long as you end this movement in a square adjacent to that enemy, your movement does not provoke opportunity attacks from that enemy."
   },
   "Harrier's Ploy": {
@@ -1850,7 +1850,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage",
@@ -1870,7 +1870,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. If you have combat advantage against the target, the attack deals extra damage equal to your Dexterity modifier.",
@@ -1890,7 +1890,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed (save ends). If the target is already slowed, it is instead immobilized (save ends).",
@@ -1911,7 +1911,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "The target is blinded until the end of your next turn.",
@@ -1931,7 +1931,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits an ally with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -1952,7 +1952,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by a ranged attack",
     "effect": "You spend a healing surge and regain additional hit points equal to twice your Wisdom modifier."
   },
@@ -1970,7 +1970,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target 2 squares and knock it prone.",
@@ -1990,7 +1990,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you slide the target 1 square.",
@@ -2010,7 +2010,7 @@
     "keywords": [
       "Healing, Invigorating, Martial, Reliable, Weapon"
     ],
-    "range": "Melee Weapon<",
+    "range": "Melee Weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you can spend a healing surge."
@@ -2029,7 +2029,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -2050,7 +2050,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -2074,7 +2074,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 4 vs. AC",
     "onHit": "1[W] + Strength modifier damage."
@@ -2093,7 +2093,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. Will",
     "onHit": "You pull the target up to 2 squares, but only if it can end the pull adjacent to you. If the target is adjacent to you after the pull, it takes 1[W] damage."
@@ -2112,7 +2112,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 6 vs. AC",
     "onHit": "2[W] + Strength modifier damage."
@@ -2131,7 +2131,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "2[W] + Strength modifier damage, and the target drops one item it is holding. You can choose to catch the item in a free hand or have it land in your space."
@@ -2150,7 +2150,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2174,7 +2174,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must charge and use this power in place of a melee basic attack. While charging, you can move through enemies’ squares but must end your movement in an unoccupied space.",
     "targets": "One creature and each enemy whose space you move through",
     "attack": "Strength vs. AC, one attack per target",
@@ -2197,7 +2197,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 4<",
+    "range": "Close burst 4",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. Will",
     "onHit": "You pull the target up to 3 squares, but only if it can end the pull adjacent to you. If the target is adjacent to you after the pull, it takes 2[W] + your Strength modifier damage."
@@ -2216,7 +2216,7 @@
     "keywords": [
       "Invigorating, Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2237,7 +2237,7 @@
     "keywords": [
       "Fear, Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy damages you with a melee attack",
     "targets": "Each enemy in the burst you can see",
     "effect": "The target is marked until the end of the encounter, until you are knocked unconscious, or until another mark supersedes this one. Until this mark ends, the target grants combat advantage to you."
@@ -2256,7 +2256,7 @@
     "keywords": [
       "Invigorating, Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is knocked prone and dazed until the end of your next turn. Make a secondary attack.",
@@ -2279,7 +2279,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever an enemy marked by you makes an attack that doesn’t include you as a target, that enemy grants combat advantage to your allies until the start of its next turn."
   },
   "Rock Steady": {
@@ -2296,7 +2296,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you cannot be knocked prone, and if you are subject to a pull, a push, or a slide, you can reduce the forced movement by 1 square."
   },
   "Strong Focus": {
@@ -2313,7 +2313,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a power bonus to Athletics checks and Strength ability checks equal to your Wisdom modifier."
   },
   "Giant's Stride": {
@@ -2330,7 +2330,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can shift your speed. You ignore difficult terrain during this shift and can move through occupied squares, as long as you end in an unoccupied space."
   },
   "Victor's Stance": {
@@ -2347,7 +2347,7 @@
     "keywords": [
       "Healing, Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, each time you reduce an enemy to 0 hit points, you can use a free action to spend a healing surge, make a saving throw, or both. You gain a bonus to the saving throw equal to your Wisdom modifier."
   },
   "Dance of Blades": {
@@ -2364,7 +2364,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -2388,7 +2388,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target 2 squares. You can then shift 2 squares.",
@@ -2408,7 +2408,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -2428,7 +2428,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy adjacent to you hits an ally with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -2449,7 +2449,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
@@ -2469,7 +2469,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding a light blade.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC. If you’re wielding two melee weapons, you can attack each target with both your main weapon and your off-hand weapon.",
@@ -2489,7 +2489,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "targets": "Two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), one attack per target",
@@ -2509,7 +2509,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can shift half your speed (or your speed if you aren’t wearing heavy armor) and make a melee basic attack as a standard action. If you have combat advantage against the target of the attack and hit, the attack deals extra damage equal to your Wisdom modifier."
   },
   "Gale of Steel": {
@@ -2526,7 +2526,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -2547,7 +2547,7 @@
     "keywords": [
       "</h1><p class=\"flavor\"><i>Your battle cry wracks your enemies’ nerves and draws their attention to you.</i></p><p class=\"powerstat\">Daily&nbsp;&nbsp; <img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "effect": "You gain a +1 power bonus to attack rolls against the target and it is marked (save ends both)."
   },
@@ -2565,7 +2565,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "requirement": "You must be wielding a light blade.",
@@ -2587,7 +2587,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. Reflex",
     "onHit": "4[W] + Strength modifier damage. If you have combat advantage against the target, the attack deals extra damage equal to your Dexterity modifier.",
@@ -2608,7 +2608,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -2629,7 +2629,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Intimidate.",
     "effect": "Until the stance ends, any enemy that begins its turn adjacent to you is marked until the start of its next turn."
   },
@@ -2647,7 +2647,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee Weapon<",
+    "range": "Melee Weapon",
     "target": "One creature",
     "attack": "Strength +2 vs. AC",
     "onHit": "1[W] + Strength modifier damage.<br/>Increase damage to 2[W] + Strength modifier at 21st level.",
@@ -2668,7 +2668,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "weapon": "If you’re wielding a light blade, heavy blade or a spear, you gain a bonus to the attack roll equal to your Dexterity modifier.",
@@ -2688,7 +2688,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "All enemies in the burst",
     "attack": "Strength vs. AC",
     "weapon": "If you’re wielding a light blade, heavy blade or a spear, you gain a bonus to the attack roll equal to your Dexterity modifier.",
@@ -2708,7 +2708,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is knocked prone.",
@@ -2728,7 +2728,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "weapon": "If you’re wielding a light blade, heavy blade or a spear, you gain a bonus to the attack roll equal to your Dexterity modifier.",
@@ -2749,7 +2749,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "weapon": "If you’re wielding a light blade, heavy blade or a spear, you gain a bonus to the attack roll equal to your Dexterity modifier.",
@@ -2769,7 +2769,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "All enemies in the burst",
     "attack": "Strength vs. Reflex",
     "weapon": "If you’re wielding a light blade, heavy blade or a spear, you gain a bonus to the attack roll equal to your Dexterity modifier.",
@@ -2790,7 +2790,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is bloodied, the attack deals extra damage equal to your Wisdom modifier"
@@ -2809,7 +2809,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon +1 reach<",
+    "range": "Melee weapon +1 reach",
     "target": "One creature",
     "attack": "Strength -1 vs. AC",
     "onHit": "2[W] + Strength modifier damage."
@@ -2828,7 +2828,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature you’re flanking",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage. For each ally adjacent to the target, the attack deals extra damage equal to your Dexterity modifier.",
@@ -2848,7 +2848,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is marked until the end of the encounter or until you are knocked unconscious. No mark can supersede this one."
@@ -2867,7 +2867,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. If you have combat advantage against the target, the attack deals extra damage equal to your Dexterity modifier.",
@@ -2887,7 +2887,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "effect": "The target is marked until the end of your next turn. The target can then make a melee basic attack against you as a free action, with a –2 penalty to the attack roll. One ally adjacent to the target can shift its speed as a free action."
   },
@@ -2905,7 +2905,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you are slowed and gain a +2 power bonus to AC. Whenever an enemy misses you with a melee attack, you can shift 1 square as an immediate reaction. You can end this stance as a free action."
   },
   "Shrewd Repositioning": {
@@ -2922,7 +2922,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You can shift a number of squares equal to your Wisdom modifier."
   },
@@ -2940,7 +2940,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "1[W] + Strength modifier damage, and you gain a +4 power bonus to attack rolls against the target until the end of your next turn.",
@@ -2960,7 +2960,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must charge and use this power in place of a melee basic attack. If you’re using a shield, the movement during your charge does not provoke opportunity attacks.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -2980,7 +2980,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is dazed and immobilized (save ends both).",
@@ -3001,7 +3001,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage",
@@ -3021,7 +3021,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "prerequisite": "You must be trained in Athletics.",
     "requirement": "You must charge and use this power in place of a melee basic attack.",
     "target": "One creature",
@@ -3043,7 +3043,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a reach weapon.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -3065,7 +3065,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target is immobilized until you are not adjacent to it.",
@@ -3086,7 +3086,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can shift 2 squares and must end adjacent to an enemy. If you aren’t wearing heavy armor, you can shift 3 squares."
   },
   "Settling the Score": {
@@ -3103,7 +3103,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with an attack",
     "effect": "You gain a +2 power bonus to attack rolls against the triggering enemy until the end of the encounter."
   },
@@ -3121,7 +3121,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "Until the stance ends, you take a –1 penalty to AC and Reflex, but each ally gains a +2 power bonus to AC and Reflex while adjacent to you.",
     "special": "If you are a dragonborn, your adjacent allies instead gain a +3 power bonus to AC and Reflex."
@@ -3140,7 +3140,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is prone, the attack deals extra damage equal to your Dexterity modifier, and the target can’t stand up until the end of your next turn."
@@ -3159,7 +3159,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3179,7 +3179,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy marked by you becomes bloodied",
     "target": "The triggering enemy",
     "attack": "Strength vs. AC",
@@ -3199,7 +3199,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and if the target moves before the end of your next turn, it takes extra damage equal to your Strength modifier.",
@@ -3219,7 +3219,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "Until the stance ends, you are slowed, but you gain cover against all attacks. You can end this stance as a free action."
   },
@@ -3237,7 +3237,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "You gain a +4 power bonus to melee damage rolls, Athletics checks, and Endurance checks until the end of the encounter or until you are no longer bloodied.",
     "special": "If you are a dragonborn, you instead gain a +5 power bonus."
@@ -3256,7 +3256,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature granting combat advantage to you",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3277,7 +3277,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. If the target attacked you or an ally since the end of your last turn, you gain a +2 bonus to the attack roll.",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3298,7 +3298,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Will",
     "onHit": "Until the end of your turn, you gain a power bonus to melee attack rolls and melee damage rolls against the target equal to your Wisdom modifier.",
@@ -3321,7 +3321,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy within 5 squares of you becomes bloodied",
     "target": "The triggering enemy",
     "effect": "Before the attack, you can move your speed.",
@@ -3343,7 +3343,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to your speed + 2 squares, ending in a square adjacent to an ally. You then gain temporary hit points equal to 2d8 + your Constitution modifier."
   },
   "Immovable Mountain": {
@@ -3360,7 +3360,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, if you are subject to a pull, a push, or a slide and you have moved no more than 2 squares since the start of your turn, you can reduce the forced movement by 2 squares.",
     "special": "If you are a dwarf, you can reduce the forced movement by 5 squares."
   },
@@ -3378,7 +3378,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target takes a –2 penalty to attack rolls until the end of your next turn.",
@@ -3398,7 +3398,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you can shift 2 squares and make a secondary attack.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you have combat advantage against the primary target, the primary attack deals extra damage equal to your Dexterity modifier.",
@@ -3421,7 +3421,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -3443,7 +3443,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you grant combat advantage to all enemies until the start of your next turn.",
@@ -3463,7 +3463,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a polearm or a spear.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3488,7 +3488,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3510,7 +3510,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy marked by you is reduced to 0 hit points",
     "effect": "You can spend a healing surge and shift 3 squares."
   },
@@ -3528,7 +3528,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when an attack causes you to take an effect that a save can end, you can make a saving throw against that effect as an immediate reaction."
   },
   "Unyielding": {
@@ -3545,7 +3545,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You spend two healing surges and restore your hit points to their maximum value.",
     "special": "If you are a dragonborn, you also gain a +1 power bonus to attack rolls and all defenses until the end of your next turn."
@@ -3564,7 +3564,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -3585,7 +3585,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage.",
@@ -3606,7 +3606,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC. You gain a +1 cumulative bonus to the attack roll against each target after the first.",
     "onHit": "2[W] + Strength modifier damage.",
@@ -3626,7 +3626,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is immobilized (save ends). Make a secondary attack against the target.",
@@ -3649,7 +3649,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -3669,7 +3669,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One bloodied or prone creature",
     "attack": "Strength + 2 vs. AC",
     "onHit": "6[W] + Strength modifier damage.",
@@ -3689,7 +3689,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. If the target is bloodied when you make the attack, the attack deals extra damage equal to your Constitution modifier.",
@@ -3709,7 +3709,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy marked by you leaves an adjacent square",
     "requirement": "You must be wielding a melee weapon.",
     "target": "The triggering enemy",
@@ -3730,7 +3730,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage, and you take a –2 penalty to attack rolls until the end of your next turn.",
@@ -3750,7 +3750,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
@@ -3773,7 +3773,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier + Dexterity modifier damage, and the target is dazed (save ends).",
@@ -3794,7 +3794,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC, three attacks",
     "onHit": "2[W] + Strength modifier damage per attack. If you hit twice, you deal 1d10 extra damage to the target. If you hit three times, you instead deal 2d10 extra damage to the target.",
@@ -3814,7 +3814,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and ongoing 20 damage (save ends). Until the target saves against this ongoing damage, the target has a –2 penalty to saving throws."
@@ -3833,7 +3833,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and the target is stunned (save ends).",
@@ -3855,7 +3855,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An adjacent enemy marked by you drops to 0 hit points",
     "effect": "You move a number of squares equal to your Dexterity modifier. You can mark one enemy that is adjacent to you after this movement. The mark lasts until the end of your next turn."
   },
@@ -3873,7 +3873,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "Until the end of your next turn, while any ally is adjacent to you, that ally gains a +2 shield bonus to AC and Reflex and you gain a +2 power bonus to melee attack rolls."
   },
@@ -3891,7 +3891,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see.",
     "effect": "The target is marked until the end of your next turn. You gain temporary hit points equal to your Constitution modifier + the number of targets in the burst."
   },
@@ -3909,7 +3909,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "Strength modifier damage, and you knock the target prone.",
@@ -3929,7 +3929,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee <",
+    "range": "Melee",
     "effect": "Whenever an enemy marked by you is adjacent to you and shifts or makes an attack that does not include you as a target, you can make a melee basic attack against that enemy."
   },
   "Bloodspike Sweep": {
@@ -3946,7 +3946,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and ongoing 5 damage (save ends)",
@@ -3967,7 +3967,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "You slide the target 1 square into a square adjacent to you, and then make an attack against the target. You cannot slide the target into hindering terrain.",
     "weapon": "If you’re wielding an axe, pick, or polearm, you can slide the target a number of squares equal to your Constitution modifier into a square adjacent to you.",
@@ -3989,7 +3989,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a power bonus to saving throws equal to your Wisdom modifier, and while you are bloodied you gain resistance to all damage equal to 5 + your Constitution modifier."
   },
   "Ruinous Assault": {
@@ -4006,7 +4006,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -4032,7 +4032,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "effect": "Until the stance ends, once per round when you hit with an attack using your main weapon, you can make a melee basic attack with your off-hand weapon against a different target or shift 1 square and gain a +2 power bonus to AC and Reflex until the start of your next turn."
   },
@@ -4050,7 +4050,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -4077,7 +4077,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One or two creatures",
     "attack": "Strength vs. AC (main weapon)",
@@ -4102,7 +4102,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "trigger": "An enemy marked by you would hit you with a melee attack.",
     "target": "The triggering enemy",
@@ -4126,7 +4126,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack twice, once with your main weapon and once with your off-hand weapon.",
@@ -4146,7 +4146,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -4172,7 +4172,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC. Make the attack four times, twice with your main weapon and twice with your off-hand weapon.",
@@ -4193,7 +4193,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon. You must charge and use this power in place of the melee basic attack.",
     "effect": "Any enemy that attacks you with an opportunity attack triggered by your charge takes damage equal to your Constitution modifier.",
     "target": "One creature",
@@ -4214,7 +4214,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "effect": "Before the attack, you slide the target 1 square, and you shift into the square the target vacated.",
@@ -4236,7 +4236,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature marked by you",
     "attack": "Strength -2 vs. AC",
@@ -4257,7 +4257,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have reduced a nonminion enemy to 0 hit points during this turn.",
     "effect": "You shift up to your speed and gain a bonus to your next damage roll made before the end of your next turn equal to the number of squares you moved from your starting position."
   },
@@ -4275,7 +4275,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength -2 vs. AC",
@@ -4295,7 +4295,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4317,7 +4317,7 @@
     "keywords": [
       "Martial, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be trained in Intimidate.",
     "target": "One creature",
     "effect": "The burst creates a zone that lasts until the end of the encounter or until you leave the zone. Any enemy inside the zone grants combat advantage to you."
@@ -4336,7 +4336,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength -2 vs. AC",
@@ -4356,7 +4356,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4378,7 +4378,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can spend a healing surge, and you also gain a +2 power bonus to all defenses and a +1 power bonus to attack rolls until the end of your next turn. Until the end of the encounter, each time you spend a healing surge, you gain a +2 power bonus to all defenses and a +1 power bonus to attack rolls until the end of your next turn."
   },
   "Leaping Assault": {
@@ -4395,7 +4395,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "prerequisite": "You must be trained in Athletics.",
     "requirement": "You must be wielding a two-handed weapon.",
     "effect": "Before the attack, you move up to your speed. This movement does not provoke opportunity attacks from any enemy marked by you.",
@@ -4417,7 +4417,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding a two-handed weapon.",
     "primaryTarget": "Each enemy in the burst that you can see",
     "attack": "Strength vs. AC",
@@ -4441,7 +4441,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a two-handed weapon.",
     "effect": "You gain a bonus equal to your Constitution modifier to AC and Fortitude until the start of your next turn."
   },
@@ -4459,7 +4459,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding a two-handed weapon.",
     "primaryTarget": "Each enemy in the burst",
     "attack": "Strength vs. Fortitude",
@@ -4483,7 +4483,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -4508,7 +4508,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you would regain hit points, you gain any hit points in excess of your maximum value as temporary hit points. Each time you regain hit points, you gain a bonus to your next damage roll equal to your Constitution modifier."
   },
   "Slash and Kick": {
@@ -4525,7 +4525,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4548,7 +4548,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4570,7 +4570,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One, two, or three creatures",
     "attack": "Strength -2 vs. AC",
@@ -4590,7 +4590,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength -2 vs. AC",
     "onHit": "5[W] + Strength modifier + twice your Constitution modifier damage.",
@@ -4611,7 +4611,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "prerequisite": "You must be trained in Endurance.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4632,7 +4632,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must be trained in Endurance.",
     "trigger": "An enemy within 4 squares of you damages you with an attack",
     "target": "The triggering creature",
@@ -4654,7 +4654,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Endurance.",
     "effect": "Until the stance ends, whenever you make a melee basic attack, you can use any of your at-will melee attack or melee encounter attack powers in place of the basic attack."
   },
@@ -4672,7 +4672,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4692,7 +4692,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before making this attack, you may sheathe a weapon and draw a different one as a free action.",
     "attack": "Strength vs. AC",
@@ -4716,7 +4716,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +2 power bonus to damage rolls with weapon attacks but suffer a -2 penalty to AC. The bonus damage from this stance increases to +4 at 11th level and +6 at 21st level.",
     "special": "This stance ends when you spend a healing surge. You can end this stance as a free action during your turn but not on the same turn that you activated it."
   },
@@ -4734,7 +4734,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4754,7 +4754,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Whenever an ally adjacent to you takes damage, as a free action reduce that damage by 5. You must use this ability anytime you are able. When you do so, you take 5 damage; this damage that can’t be reduce of redirected in any way.",
     "special": "You can end this stance as a free action during your turn."
   },
@@ -4772,7 +4772,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before making this attack, you may sheathe a weapon and draw a different one as a free action.",
     "attack": "Strength vs. AC",
@@ -4796,7 +4796,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, your allies have cover when adjacent to you. Your enemies gain combat advantage against you.",
     "special": "You can end this stance as a free action during your turn."
   },
@@ -4814,7 +4814,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4834,7 +4834,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "You gain a +2 power bonus to all defenses and are immune to forced movement.",
     "special": "This stance ends if you move during your turn. You can end this stance as a free action during your turn."
@@ -4853,7 +4853,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Before making this attack, you may sheathe a weapon and draw a different one as a free action.",
     "attack": "Strength vs. AC",
@@ -4877,7 +4877,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you use a fighter at-will attack power or basic attack that has the weapon keyword, you may reroll the attack roll. Use the second roll, even if it’s lower.",
     "special": "This stance ends if you spend a healing surge. You can end this stance as a free action during your turn."
   },
@@ -4895,7 +4895,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4915,7 +4915,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy adjacent to you takes an action that provokes an opportunity attack",
     "effect": "After the triggering enemy completes the action, you shift a number of squares equal to your Dexterity modifier. You must end the shift closer to the target than you were when you began the shift. Then make the following attack.",
     "target": "The triggering enemy",
@@ -4936,7 +4936,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -4957,7 +4957,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -4979,7 +4979,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] damage, and you mark each enemy adjacent to you until the end of your next turn.<br/>Level 21: 2[W] damage.",
@@ -4999,7 +4999,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5019,7 +5019,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -5042,7 +5042,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage. Until the end of your next turn, the target takes a penalty to attack rolls equal to your Dexterity modifier.",
@@ -5062,7 +5062,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. Reflex (main weapon)",
@@ -5084,7 +5084,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
@@ -5105,7 +5105,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -5129,7 +5129,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target 1 square. You then shift 1 square to a square the target vacated. Make a secondary attack against the target.",
@@ -5151,7 +5151,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5172,7 +5172,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
@@ -5192,7 +5192,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you hit any creature with a melee weapon attack, you push that creature 1 square and can shift 1 square to a square the creature vacated."
   },
   "Forceful Drag": {
@@ -5209,7 +5209,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have a creature grabbed.",
     "effect": "You move your speed. For each square you move, you slide a creature grabbed by you 1 square to a square adjacent to you. The creature remains grabbed, and you do not provoke an opportunity attack from the grabbed creature for this movement. At the end of the move, you can end the grab to knock the creature prone."
   },
@@ -5227,7 +5227,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The reach of the next melee weapon attack you make before the end of your turn increases by 1."
   },
   "Mighty Leap": {
@@ -5244,7 +5244,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your turn, you gain a +5 power bonus to Athletics checks to jump. In addition, any jump you make is considered to have a running start, and you can make an Athletics check instead of an Acrobatics check to reduce falling damage."
   },
   "Quick Escape": {
@@ -5261,7 +5261,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make an escape attempt, or you make a saving throw against an effect that immobilizes or restrains you and that a save can end."
   },
   "Snagging Grip": {
@@ -5278,7 +5278,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy adjacent to you knocks you prone or forces you to move",
     "target": "The triggering enemy in the burst",
     "effect": "If the target forced you to move, you can pull it to a square adjacent to you. If the target knocked you prone, you knock it prone."
@@ -5297,7 +5297,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage, and you push the target 1 square. You then shift 1 square to a square the target vacated. Make a secondary attack against the target.",
@@ -5319,7 +5319,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target moves before the end of your next turn, it takes extra damage equal to your Constitution modifier.",
@@ -5339,7 +5339,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "trigger": "An enemy adjacent to you hits or misses you with a close or a melee attack",
     "target": "The triggering enemy",
@@ -5361,7 +5361,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature grabbed by you",
     "effect": "You move your speed. For each square you move, you slide the target 1 square to a square adjacent to you. The creature remains grabbed, and you do not provoke an opportunity attack from the target during this movement.",
     "attack": "Strength vs. Fortitude (unarmed)",
@@ -5381,7 +5381,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "Each enemy in the burst you can see",
     "attack": "Strength vs. Reflex (main weapon)",
@@ -5405,7 +5405,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can use the Bare-Knuckled Rebuke Attack power.",
     "requirement": "You must have a hand free.",
     "trigger": "An enemy adjacent to you misses you with a melee attack",
@@ -5427,7 +5427,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "2[W] + Strength modifier damage. Until the end of the encounter, the target cannot move on its turn if it was grabbed by you at the start of its turn.",
@@ -5448,7 +5448,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -5469,7 +5469,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5490,7 +5490,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have a hand free.",
     "trigger": "An enemy hits you with a close or a melee attack",
     "effect": "You gain a a bonus to defenses against the attack equal to your Dexterity modifer."
@@ -5509,7 +5509,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can use a free action to mark any enemy that makes a melee attack against you. The mark lasts until the end of the enemy’s next turn."
   },
   "Rejoin the Fray": {
@@ -5526,7 +5526,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally uses a healing power on you",
     "effect": "If you are prone, you stand up and shift 1 square. If you are standing, you instead shift 3 squares."
   },
@@ -5544,7 +5544,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "trigger": "An enemy misses you with a melee attack",
     "target": "The triggering enemy",
     "effect": "The target takes a -2 penalty to attack rolls and all defenses until the end of its next turn."
@@ -5563,7 +5563,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is bloodied, it is dazed until the end of your next turn.",
@@ -5583,7 +5583,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5605,7 +5605,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. If the target is adjacent to you at the start of your next turn, as a free action you can make a melee basic attack against the target as the first action you take during your turn.",
@@ -5625,7 +5625,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and the target takes a –2 penalty to attack rolls until the end of your next turn.",
@@ -5645,7 +5645,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -5669,7 +5669,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -5689,7 +5689,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is slowed and weakened (save ends both).",
@@ -5709,7 +5709,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -5729,7 +5729,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5750,7 +5750,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy moves during its turn to a square adjacent to you",
     "requirement": "You must be using a shield.",
     "target": "The triggering enemy",
@@ -5773,7 +5773,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you ignore the effects of the dazed, immobilized, slowed, and weakened conditions."
   },
   "Body Shield (Fighter)": {
@@ -5790,7 +5790,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy hits you with a melee or a ranged attack",
     "requirement": "You must have a hand free.",
     "target": "One creature other than the triggering enemy",
@@ -5810,7 +5810,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, your unarmed attacks deal extra damage equal to your Dexterity modifier."
   },
   "Grappler's Stance": {
@@ -5827,7 +5827,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, any creature grabbed by you is restrained until the grab ends."
   },
   "Steely Persuasion": {
@@ -5844,7 +5844,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make an Intimidate check or a Streetwise check",
     "requirement": "You must be wielding a melee weapon.",
     "effect": "You gain a bonus to the skill check equal to the weapon’s proficiency bonus plus the weapon’s enhancement bonus."
@@ -5863,7 +5863,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC. You make the attack twice, distributing the attacks between the targets or making both attacks against one.",
     "onHit": "1[W] + Strength modifier damage, and the target is dazed until the end of your next turn. If you hit the same target twice with this power, the second attack deals extra damage equal to your Dexterity modifier."
@@ -5882,7 +5882,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before or after the attack, you jump 2 squares. You do not provoke opportunity attacks during the jump.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5902,7 +5902,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -5925,7 +5925,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5946,7 +5946,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -5970,7 +5970,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and the target is weakened until the end of your next turn.",
@@ -5990,7 +5990,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6011,7 +6011,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy within 2 squares of you is bloodied by your or your ally’s attack or suffers a critical hit from you or your ally",
     "effect": "Before the attack, you shift 3 squares.",
     "target": "The triggering enemy",
@@ -6034,7 +6034,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you don’t grant combat advantage while you are conscious."
   },
   "Fury's Resurgence": {
@@ -6051,7 +6051,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You score a critical hit or reduce an enemy to 0 hit points",
     "effect": "You spend a healing surge and regain additional hit points equal to your Constitution modifier. You make a saving throw against each effect on you that a save can end, and you gain a bonus to the saving throws equal to your Constitution modifier."
   },
@@ -6069,7 +6069,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have a creature grabbed.",
     "effect": "You move your speed. For each square you move, you slide a creature grabbed by you 1 square to a square adjacent to you. The creature remains grabbed, and you do not provoke an opportunity attack from the grabbed creature for this movement. The grabbed creature grants combat advantage until the end of your next turn."
   },
@@ -6087,7 +6087,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "You hit or miss an enemy with an opportunity attack",
     "target": "The triggering enemy",
     "effect": "You knock the target prone. You mark the target (save ends)."
@@ -6106,7 +6106,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Athletics.",
     "requirement": "You must be grabbed.",
     "effect": "You attempt to escape a grab and gain a +5 bonus to the Athletics check to escape. If you escape, you can shift half your speed instead of the normal 1 square."
@@ -6125,7 +6125,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC (main weapon)",
@@ -6149,7 +6149,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you push the target 1 square and shift 1 square to a square the target vacated. Make a secondary attack against the target.",
@@ -6171,7 +6171,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "trigger": "An enemy adjacent to you hits or misses you with a close or a melee attack",
     "target": "The triggering enemy",
@@ -6193,7 +6193,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6216,7 +6216,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier damage.",
@@ -6237,7 +6237,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must have a hand free.",
     "primaryTarget": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -6261,7 +6261,7 @@
     "keywords": [
       "Martial, Reliable"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength + 4 vs. Fortitude<br/>Level 21: Strength + 6 vs. Fortitude",
@@ -6281,7 +6281,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, once per turn when you miss with a melee attack roll, you can reroll the attack roll."
   },
   "Pugilist's Resolve": {
@@ -6298,7 +6298,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have a hand free.",
     "effect": "Until the stance ends, you can use the power Pugilist's Resolve Attack.",
     "trigger": "An enemy adjacent to you misses you with a melee attack",
@@ -6320,7 +6320,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can make an escape attempt, or you can make a saving throw against an effect that immobilizes or restrains you and that a save can end."
   },
   "Prescient Shield": {
@@ -6337,7 +6337,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield",
     "effect": "Until the stance ends, whenever an enemy adjacent to you hits you, you can gain a bonus to AC and Reflex against the attack equal to your Wisdom modifier as an immediate interrupt."
   },
@@ -6355,7 +6355,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You stop grabbing an enemy",
     "target": "The enemy you released",
     "effect": "You knock the target prone, and the target is dazed (save ends)."
@@ -6374,7 +6374,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One or two creatures marked by you",
     "effect": "Until the end of your next turn, the target cannot make any attack that does not include you as a target."
   },
@@ -6392,7 +6392,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is dazed until the end of your next turn.",
@@ -6413,7 +6413,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and you push the target a number of squares equal to your Constitution modifier.",
@@ -6433,7 +6433,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must have a hand free.",
     "trigger": "An enemy misses you with a melee attack",
     "target": "The triggering enemy",
@@ -6454,7 +6454,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "The power Opportunist's Trap must be active in order to use this power.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -6479,7 +6479,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6502,7 +6502,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target is blinded (save ends). Until the target is no longer blinded, whenever it misses with a melee attack, you can slide the target 1 square as an opportunity action, and the target then makes a melee basic attack against one creature of your choice as a free action.",
@@ -6522,7 +6522,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "trigger": "An enemy misses you with a melee attack",
     "target": "The triggering enemy",
@@ -6543,7 +6543,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6564,7 +6564,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6587,7 +6587,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -6609,7 +6609,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding two melee weapons.",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon)",
@@ -6632,7 +6632,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage.",
@@ -6652,7 +6652,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier + Constitution modifier damage."
@@ -6671,7 +6671,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6691,7 +6691,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength + 6 vs. Fortitude",
@@ -6712,7 +6712,7 @@
     "keywords": [
       "Healing, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and you can spend a healing surge.",
@@ -6733,7 +6733,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6756,7 +6756,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One, two, or three creatures",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage.",
@@ -6777,7 +6777,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy within 2 squares of you is bloodied by your or your ally’s attack or suffers a critical hit from you or your ally",
     "effect": "You shift your speed to a square adjacent to the triggering enemy.",
     "target": "The triggering enemy",
@@ -6800,7 +6800,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee <",
+    "range": "Melee",
     "requirement": "You must have a hand free.",
     "target": "One creature",
     "effect": "The target grants combat advantage to you until the end of your next turn.",
@@ -6821,7 +6821,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -6841,7 +6841,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "trigger": "An enemy adjacent to you hits or misses you or an ally with a melee attack",
     "target": "The triggering enemy",
@@ -6862,7 +6862,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "primaryTarget": "One creature",
     "attack": "Strength + 3 vs. Fortitude<br/>Level 11: Strength + 6 vs. Fortitude<br/>Level 21: Strength + 9 vs. Fortitude",
@@ -6887,7 +6887,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One ally",
     "effect": "You push the target 3 squares. Then you can mark an enemy adjacent to you until the end of your next turn."
@@ -6906,7 +6906,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "trigger": "An enemy adjacent to you hits you or an ally with a melee attack",
     "target": "The triggering enemy",
@@ -6927,7 +6927,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength + 4 vs. AC<br/>Level 11: Strength + 6 vs. AC<br/>Level 21: Strength + 9 vs. AC",
@@ -6949,7 +6949,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be using a shield.",
     "effect": "Until the stance ends, enemies take a -2 penalty to Fortitude while adjacent to you."
   },
@@ -6967,7 +6967,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "effect": "You move your speed. At one point during this movement, you can make the following attack.",
     "target": "One enemy",
@@ -6988,7 +6988,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "target": "One creature that is prone, adjacent to blocking terrain, or adjacent to an ally",
     "attack": "Strength + 6 vs. Fortitude<br/>Level 21: Strength + 9 vs. Fortitude",
@@ -7010,7 +7010,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An attack against your AC or Reflex misses you",
     "effect": "Choose a creature within 2 squares of you and within range of the triggering attack, including the triggering attacker. The attacker repeats the attack against that creature."
   },
@@ -7028,7 +7028,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be using a shield.",
     "trigger": "An enemy hits you or an ally adjacent to you with a melee attack",
     "effect": "You can shift 2 squares to a square adjacent to the triggering enemy.",
@@ -7050,7 +7050,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be using a shield.",
     "effect": "You move your speed. Each time you enter a square adjacent to an enemy, make the following attack against that enemy. You cannot attack the same enemy more than once with this power.",
     "target": "One enemy",
@@ -7072,7 +7072,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "requirement": "You must be using a shield.",
     "target": "Each enemy in the burst you can see",
     "effect": "You mark the target until the end of your next turn. In addition, when the target makes an attack that does not include you as a target before the end of your next turn, you can charge the target as an immediate interrupt. If you hit the target with the attack at the end of the charge, the target also falls prone."
@@ -7091,7 +7091,7 @@
     "keywords": [
       "Aura"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 1 that lasts until you end it as a minor action or until you fall unconscious. While in the aura, any enemy takes a -2 penalty to attack rolls when it makes an attack that does not include among its targets either you or an ally of yours who has this aura active. Marked enemies are not subject to this aura."
   },
   "Battle Guardian": {
@@ -7108,7 +7108,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy subject to your defender aura either shifts or makes an attack that targets an ally of yours but not you or an ally who has an active defender aura.",
     "effect": "You make a melee basic attack against the triggering enemy. If the attack misses, the enemy still takes damage equal to your Strength modifier."
   },
@@ -7126,7 +7126,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the battle wrath stance. Until the stance ends, you gain a +2 power bonus to the damage rolls of basic attacks using a weapon.<br/>Level 11: +3 power bonus.<br/>Level 21: +4 power bonus."
   },
   "Cleaving Assault": {
@@ -7143,7 +7143,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the cleaving assault stance. Until the stance ends, whenever you hit with a melee basic attack using a weapon, one enemy adjacent to you other than the target of that attack takes damage equal to your Constitution modifier."
   },
   "Defend the Line": {
@@ -7160,7 +7160,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the defend the line stance. Until the stance ends, whenever you hit an enemy with a melee basic attack using a weapon, that enemy is slowed until the end of your next turn."
   },
   "Hammer Hands": {
@@ -7177,7 +7177,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the hammer hands stance. Until the stance ends, whenever you hit an enemy with a melee basic attack using a weapon, you can use a free action to push that enemy 1 square and then shift the same distance to a square adjacent to the enemy."
   },
   "Measured Cut": {
@@ -7194,7 +7194,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the measured cut stance. Until the stance ends, whenever you hit an enemy with a melee basic attack using a weapon, you can shift 1 square as a free action."
   },
   "Poised Assault": {
@@ -7211,7 +7211,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the poised assault stance. Until the stance ends, you gain a +1 power bonus to the attack rolls of basic attacks using a weapon."
   },
   "Power Strike": {
@@ -7228,7 +7228,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You hit an enemy with a melee basic attack using a weapon.",
     "target": "The enemy you hit",
     "effect": "The target takes 1[W] extra damage from the triggering attack.<br/>Level 17: 2[W] extra damage.<br/>Level 27: 3[W] extra damage."
@@ -7247,7 +7247,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "prerequisite": "You must have training in Diplomacy.",
     "target": "Each ally in the burst",
     "effect": "Each target can shift 1 square as a free action."
@@ -7266,7 +7266,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "prerequisite": "You must have training in Intimidate.",
     "target": "Each enemy in the burst",
     "effect": "Until the end of your next turn, each target takes a -5 penalty to attack rolls against any creature other than you."
@@ -7285,7 +7285,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Endurance.",
     "requirement": "You must be bloodied.",
     "effect": "You gain 5 temporary hit points.<br/>Level 11: 10 temporary hit points.<br/>Level 21: 15 temporary hit points."
@@ -7304,7 +7304,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Athletics.",
     "effect": "You shift up to 3 squares to a square adjacent to an enemy."
   },
@@ -7322,7 +7322,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "prerequisite": "You must have training in Intimidate.",
     "target": "One enemy in the burst whose Will is equal to or lower than 12 + your level",
     "effect": "You pull the target up to 2 squares. You cannot pull the target into hindering terrain."
@@ -7341,7 +7341,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Endurance.",
     "trigger": "You make a saving throw and dislike the result.",
     "effect": "You can reroll the saving throw but must use the second result."
@@ -7360,7 +7360,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must have training in Heal.",
     "target": "One ally",
     "effect": "The target makes a saving throw."
@@ -7379,7 +7379,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Athletics.",
     "effect": "You move a number of squares up to your speed + your Constitution modifier."
   },
@@ -7397,7 +7397,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must use this power with a shield.",
     "trigger": "An attack hits or misses you or an ally adjacent to you and deals damage",
     "target": "The character hit or missed by the triggering attack",
@@ -7417,7 +7417,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must have training in Heal.",
     "target": "You or one ally",
     "effect": "The target can spend a healing surge."
@@ -7436,7 +7436,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Athletics.",
     "effect": "You gain a +2 power bonus to all defenses until the end of your next turn, and you shift up to your speed to a square adjacent to an enemy."
   },
@@ -7454,7 +7454,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Endurance.",
     "trigger": "You take damage.",
     "effect": "You take only half of the triggering damage."
@@ -7473,7 +7473,7 @@
     "keywords": [
       "Fear, Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "prerequisite": "You must have training in Intimidate.",
     "target": "Each enemy in the burst",
     "effect": "Each target grants combat advantage until it hits or misses you or until the end of your next turn."
@@ -7492,7 +7492,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "You can spend a healing surge. In addition, you gain a +2 power bonus to attack rolls and saving throws. The bonus lasts until the end of your next turn."
   },
@@ -7510,7 +7510,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the berserker's charge stance. Until the stance ends, you gain a +2 power bonus to your speed when charging and a +2 power bonus to the attack rolls of your charge attacks."
   },
   "Duelist's Assault": {
@@ -7527,7 +7527,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the duelist’s assault stance. Until the stance ends, you gain a +4 power bonus to melee weapon damage rolls with basic attacks against a target that has no creatures adjacent to it other than you.<br/>Level 11: +6 power bonus.<br/>Level 21: +8 power bonus."
   },
   "Mobile Blade": {
@@ -7544,7 +7544,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the mobile blade stance. Until the stance ends, whenever you hit an enemy with a basic attack using a weapon, you can move a number of squares up to your Dexterity modifier as a free action."
   },
   "Unfettered Fury": {
@@ -7561,7 +7561,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the unfettered fury stance. Until the stance ends, you take a -2 penalty to attack rolls with weapon powers and gain a +4 power bonus to the damage rolls of basic attacks using a weapon.<br/>Level 11: +6 power bonus.<br/>Level 21: +8 power bonus."
   },
   "Crowd Fighting": {
@@ -7578,7 +7578,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must have training in Streetwise.",
     "trigger": "An enemy misses you with a melee attack.",
     "target": "One creature other than the triggering enemy",
@@ -7598,7 +7598,7 @@
     "keywords": [
       "Fear, Martial"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "prerequisite": "You must have training in Intimidate.",
     "target": "One enemy",
     "effect": "The target grants combat advantage to you until the end of your next turn."
@@ -7617,7 +7617,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Athletics.",
     "effect": "You move a number of squares up to your Dexterity modifier to a square adjacent to an enemy."
   },
@@ -7635,7 +7635,7 @@
     "keywords": [
       "Healing, Martial"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must have training in Heal.",
     "target": "One dying ally",
     "effect": "The target can spend a healing surge. He or she can then stand up as a free action."
@@ -7654,7 +7654,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Endurance.",
     "trigger": "You start your turn immobilized, slowed, or weakened by an effect that a save can end.",
     "effect": "You make a saving throw with a +5 power bonus against the effect."
@@ -7673,7 +7673,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Athletics.",
     "effect": "You move up to your speed. During this movement, you gain a +5 power bonus to all defenses against opportunity attacks."
   },
@@ -7691,7 +7691,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Streetwise.",
     "trigger": "An enemy hits you with a melee attack.",
     "effect": "You gain a +2 power bonus to all defenses against the triggering enemy. The bonus lasts until the end of the triggering enemy’s next turn."
@@ -7710,7 +7710,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Endurance.",
     "trigger": "You start your turn dazed, dominated, or stunned by an effect that a save can end.",
     "effect": "You make a saving throw with a +5 power bonus against the triggering effect."
@@ -7729,7 +7729,7 @@
     "keywords": [
       "Fear, Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "prerequisite": "You must have training in Intimidate.",
     "target": "Each enemy in the burst whose Will is equal to or less than 12 + your level",
     "effect": "You can push each target 1 square."
@@ -7748,7 +7748,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Athletics.",
     "trigger": "You are pulled, pushed, slid, or knocked prone.",
     "effect": "You are not pulled, pushed, slid, or knocked prone."
@@ -7767,7 +7767,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have training in Heal.",
     "trigger": "You take ongoing damage at the start of your turn.",
     "effect": "You do not take the ongoing damage this turn. In addition, you make a saving throw against the ongoing damage, with a +5 power bonus."
@@ -7786,7 +7786,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points.",
     "effect": "You shift up to 3 squares."
   },
@@ -7804,7 +7804,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "Until the end of your next turn, whenever you hit or miss with a melee attack, the target of the attack takes damage equal to your Dexterity modifier. This damage is in addition to any damage dealt normally by the hit or miss."
   },
@@ -7822,7 +7822,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage, and you mark an enemy adjacent to you until the end of your next turn.<br/>Level 21: 2[W] + Strength modifier damage."
@@ -7841,7 +7841,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you shift 2 squares. In addition, you mark one or two enemies adjacent to you until the end of your next turn."
@@ -7860,7 +7860,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -7880,7 +7880,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy ends its move in a square adjacent to you.",
     "effect": "You shift 3 squares to a square adjacent to the triggering enemy. You gain a +2 power bonus to your next attack roll against the triggering enemy before the end of your next turn."
   },
@@ -7898,7 +7898,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage. The target and each enemy adjacent to either you or the target take a -2 penalty to attack rolls until the end of your next turn."
@@ -7917,7 +7917,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and you push the target 3 squares and knock it prone.",
@@ -7938,7 +7938,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "effect": "You mark each target until the end of your next turn. In addition, you gain resistance to all damage equal to your Dexterity modifier until the end of your next turn."
   },
@@ -7956,7 +7956,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier + Dexterity modifier damage. In addition, whenever an enemy ends its move adjacent to the target, you can slide that enemy 1 square as an opportunity action. This effect lasts until the end of your next turn."
@@ -7975,7 +7975,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Reflex",
     "onHit": "3[W] + Strength modifier damage, and the target takes a -2 penalty to AC and Reflex (save ends)."
@@ -7994,7 +7994,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack.",
     "effect": "You shift your speed + 4."
   },
@@ -8012,7 +8012,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Close blast 2<",
+    "range": "Close blast 2",
     "effect": "Until the end of your next turn, enemies take a -2 penalty to attack rolls while adjacent to you.",
     "target": "Each enemy you can see in the blast",
     "attack": "Strength vs. AC",
@@ -8032,7 +8032,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
     "onHit": "1[W] + Strength modifier damage.",
@@ -8057,7 +8057,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the Tyrian battle stance. Until the stance ends, you do not provoke opportunity attacks and you gain a +2 power bonus to AC and Reflex as long as you are able to make opportunity attacks."
   },
   "Cruelest Chains": {
@@ -8074,7 +8074,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy able to take actions and within 4 squares of you makes an attack that doesn’t include you as a target.",
     "effect": "The triggering enemy can shift 6 squares as a free action to a square adjacent to you. If the enemy makes this shift, you make the following attack. Otherwise, your next weapon attack against that enemy that hits before the end of your next turn deals 4[W] extra damage.",
     "target": "The triggering enemy",
@@ -8095,7 +8095,7 @@
     "keywords": [
       "Martial, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage.",
@@ -8116,7 +8116,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the Urikite warmaster stance. Until the stance ends, you can use an opportunity action to deal damage equal to 5 + your Dexterity modifier to any enemy that ends its turn adjacent to you. In addition, while you are in this stance and adjacent to an enemy, you can shift 3 squares as a move action to a square adjacent to that enemy."
   },
   "Executioner's Gambit": {
@@ -8133,7 +8133,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage. You gain a +5 power bonus to attack rolls and damage rolls with opportunity attacks against the target until the end of your next turn."
@@ -8152,7 +8152,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "4[W] + Strength modifier damage, and the target is blinded (save ends). Until this condition ends, whenever any creature starts its turn adjacent to the target, the target must use a free action to make a melee basic attack against that creature.",
@@ -8172,7 +8172,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "Until the start of your next turn, any enemy that willingly leaves a square adjacent to you falls prone.",
     "target": "Each enemy you can see in the burst",
     "attack": "Strength vs. AC",
@@ -8192,7 +8192,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy able to take actions and within 4 squares of you makes an attack that doesn’t include you as a target.",
     "effect": "The triggering enemy can shift 6 squares as a free action to a square adjacent to you. If the enemy makes this shift, you make the following attack. Otherwise, you charge the enemy and make the following attack in place of a melee basic attack.",
     "target": "The triggering enemy",
@@ -8214,7 +8214,7 @@
     "keywords": [
       "Martial, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be eladrin.",
     "trigger": "An enemy subject to your defender aura either shifts or makes an attack that does not include among its targets either you or an ally who has an active defender aura.",
     "effect": "You teleport up to 2 squares to an unoccupied square adjacent to the triggering enemy and then make a melee basic attack against that enemy."
@@ -8233,7 +8233,7 @@
     "keywords": [
       "Martial, Stance, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be eladrin, and you must have the fey step power.",
     "effect": "You assume the glimmering blade stance. Until the stance ends, each time you hit an enemy with a melee basic attack using a weapon, you can teleport up to 2 squares to an unoccupied square adjacent to that enemy."
   },
@@ -8251,7 +8251,7 @@
     "keywords": [
       "Arcane, Martial, Teleportation"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "prerequisite": "You must be eladrin.",
     "target": "You and one ally in the burst",
     "effect": "Each target teleports, swapping positions."
@@ -8270,7 +8270,7 @@
     "keywords": [
       "Arcane, Charm, Martial"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "prerequisite": "You must be eladrin.",
     "trigger": "One enemy in the burst makes an attack roll against an ally you can see.",
     "target": "The triggering enemy",
@@ -8290,7 +8290,7 @@
     "keywords": [
       "Arcane, Martial"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "prerequisite": "You must be eladrin.",
     "trigger": "You take acid, cold, fire, lightning, or thunder damage.",
     "target": "You and each ally in the burst",
@@ -8310,7 +8310,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have at least one hand free.",
     "target": "One creature",
     "attack": "Strength vs. Reflex",

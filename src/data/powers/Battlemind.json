@@ -13,7 +13,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and the target is blinded until the end of your next turn.",
@@ -53,7 +53,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -76,7 +76,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of this turn, you ignore difficult terrain and can both move across liquid and stand on it as if it were solid ground. In addition, you move 3 squares."
   },
   "Spectral Legion": {
@@ -93,7 +93,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. Until the end of your next turn, the target is immobilized, and it grants combat advantage to your allies while they are adjacent to it."
@@ -112,7 +112,7 @@
     "keywords": [
       "Augmentable, Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and you push the target a number of squares equal to your Charisma modifier. After the push, you slide each enemy adjacent to the target 1 square."
@@ -131,7 +131,7 @@
     "keywords": [
       "Augmentable, Fear, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier psychic damage, and the target can’t make opportunity attacks until the end of your next turn."
@@ -150,7 +150,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage. At the end of the target’s turn, you can use a free action to pull the target a number of squares equal to its speed.",
@@ -173,7 +173,7 @@
     "keywords": [
       "Fear, Psionic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and you slide the target 1 square.",
@@ -194,7 +194,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make an Athletics check to jump with a +5 bonus. You are considered to have a running start."
   },
   "Winged Weapon": {
@@ -211,7 +211,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose a weapon you are holding. The next melee attack you make with that weapon before the end of your next turn becomes a ranged attack with a range of 10. The weapon returns to your hand after you make that attack."
   },
   "Lightning Rush": {
@@ -228,7 +228,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy within 5 squares of you targets an ally with an attack",
     "effect": "You get your normal standard action on your next turn.",
     "target": "The triggering enemy",
@@ -249,7 +249,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One, two, or three creatures",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage.",
@@ -269,7 +269,7 @@
     "keywords": [
       "Psionic, Psychic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] damage, and the target fails its first saving throw at the end of this turn.<br/>Level 21: 2[W] + Constitution modifier damage.",
@@ -292,7 +292,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and the target is dazed until the end of your next turn. In addition, you regain 2 power points.",
@@ -312,7 +312,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent ally takes damage",
     "target": "The triggering ally",
     "effect": "You slide the target 1 square."
@@ -331,7 +331,7 @@
     "keywords": [
       "Conjuration, Illusion, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure an illusory duplicate of yourself in an unoccupied square within range. The duplicate lasts until the end of the encounter. You gain a +4 power bonus to all defenses against any attack that doesn’t include both you and the duplicate. As part of a move action, you can move the duplicate 5 squares.<br/>The duplicate can be targeted by melee attacks and ranged attacks, although it lacks hit points. The duplicate disappears if a melee or a ranged attack deals any damage to it."
   },
   "Brutal Barrage": {
@@ -348,7 +348,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC. Make the attack four times.",
     "onHit": "Constitution modifier + Charisma modifier damage.",
@@ -368,7 +368,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you pull each enemy within 2 squares of you 1 square. As a free action, you can use your battlemind’s demand power against each enemy adjacent to you.",
@@ -388,7 +388,7 @@
     "keywords": [
       "Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "2[W] + Constitution modifier damage. Whenever the target attacks, it can use only basic attacks and must include you as a target (save ends both).",
@@ -408,7 +408,7 @@
     "keywords": [
       "Fear, Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and the target is immobilized until the end of your next turn.<br/>Level 21: 2[W] + Constitution modifier damage.",
@@ -431,7 +431,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts until the end of the encounter. When you move, the zone moves with you, remaining centered on you. You and your allies gain a +4 power bonus to Will and saving throws while within the zone."
   },
   "Sudden Rush": {
@@ -448,7 +448,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport to a square adjacent to a creature marked by you."
   },
   "Battlemind's Demand": {
@@ -465,7 +465,7 @@
     "keywords": [
       "Augmentable, Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One or two creatures in the burst",
     "effect": "You mark the target until you use this power again or until the end of the encounter."
   },
@@ -483,7 +483,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An adjacent enemy marked by you shifts",
     "effect": "You shift 1 square.",
     "special": "You can use this power only once per turn."
@@ -502,7 +502,7 @@
     "keywords": [
       "Force, Psionic, Psychic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy marked by you deals damage to your ally with an attack that doesn’t include you as a target",
     "target": "The triggering enemy",
     "effect": "The target takes force and psychic damage equal to the damage that its attack dealt to your ally."
@@ -521,7 +521,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll initiative",
     "effect": "You move a number of squares equal to 3 + your Charisma modifier.",
     "special": "You can use this power even if you’re surprised."
@@ -540,7 +540,7 @@
     "keywords": [
       "Charm, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier psychic damage, and the target makes a melee basic attack as a free action against a creature of your choice.",
@@ -560,7 +560,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "effect": "You mark each target until the end of your next turn."
   },
@@ -578,7 +578,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage. If the target moves away from you on its next turn, you can use a free action to teleport to a square adjacent to the target after its move.",
@@ -598,7 +598,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage. Until the end of your next turn, when any enemy starts its turn within 2 squares of you but ends its turn more than 2 squares away from you, you can teleport that enemy 3 squares as a free action, and it is immobilized until the end of its next turn.",
@@ -618,7 +618,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and the target is dazed until the end of your next turn.<br/>Level 21: 2[W] + Constitution modifier damage.",
@@ -641,7 +641,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "4[W] + Constitution modifier damage.",
@@ -662,7 +662,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy adjacent to you targets one of your allies with a melee attack",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
@@ -683,7 +683,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC. If you weren’t adjacent to the target at the start of this turn, the target grants combat advantage to you for this attack.",
     "onHit": "3[W] + Constitution modifier damage, and you are invisible to the target until the end of your next turn."
@@ -702,7 +702,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 12 squares and can move through enemies’ spaces during the shift."
   },
   "Tactical Supremacy": {
@@ -719,7 +719,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, enemies grant combat advantage to you."
   },
   "Deadly Haste Strike": {
@@ -736,7 +736,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. You shift half your speed and make a melee basic attack against a different enemy.",
@@ -759,7 +759,7 @@
     "keywords": [
       "Charm, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "3[W] + Constitution modifier psychic damage, and the target is dominated (save ends). Until this domination ends, you can use a free action at the start of each of the target’s turns to slide the target a number of squares equal to its speed.",
@@ -779,7 +779,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "An enemy you missed with an attack during this turn",
     "attack": "Constitution vs. Reflex",
     "onHit": "3[W] + Constitution modifier damage.",
@@ -799,7 +799,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and the target is stunned until the end of your next turn.",
@@ -819,7 +819,7 @@
     "keywords": [
       "Psionic, Psychic, Stance, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. You slide the target 3 squares to a square adjacent to you, and it is immobilized (save ends).",
@@ -842,7 +842,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "7[W] + Constitution modifier damage. If you have no power points remaining, the damage increases by 2[W].",
@@ -862,7 +862,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An attack hits or misses you for the first time during an encounter",
     "effect": "Until the end of your next turn, you gain resistance to all damage equal to 3 + your Wisdom modifier.<br/>Level 11: Resist 6 + your Wisdom modifier.<br/>Level 21: Resist 9 + your Wisdom modifier."
   },
@@ -880,7 +880,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -900,7 +900,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy you can see in the blast",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and you push the target 1 square.",
@@ -921,7 +921,7 @@
     "keywords": [
       "Healing, Polymorph, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -942,7 +942,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. As a free action at the end of the target’s turn, you can teleport the target to a square adjacent to you (save ends).",
@@ -962,7 +962,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to 5 + your Charisma modifier."
   },
   "Mind Snare": {
@@ -979,7 +979,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. Until the end of your next turn, your allies are invisible to the target while they aren’t adjacent to it."
@@ -998,7 +998,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "2[W] + Constitution modifier damage, and the target doesn’t benefit from being insubstantial until the end of your next turn."
@@ -1017,7 +1017,7 @@
     "keywords": [
       "Polymorph, Psionic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and you knock the target prone.",
@@ -1038,7 +1038,7 @@
     "keywords": [
       "Fear, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -1059,7 +1059,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature marked by you",
     "effect": "You teleport to a square adjacent to the target. The target grants combat advantage to you until the end of your turn."
   },
@@ -1077,7 +1077,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you know the location of all living creatures within 10 squares of you. Until this effect ends, you don’t grant combat advantage to those creatures, and if they have cover or concealment when you attack them, you don’t take the -2 penalty to attack rolls against them."
   },
   "Ego Crush": {
@@ -1094,7 +1094,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and the target cannot gain combat advantage until the end of your next turn.",
@@ -1115,7 +1115,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage. The next time the target makes a melee attack before the end of your next turn, you can choose which creature it attacks (not including itself )."
@@ -1134,7 +1134,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "1[W] + Constitution modifier damage, and you knock the target prone.",
@@ -1154,7 +1154,7 @@
     "keywords": [
       "Polymorph, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "2[W] + Constitution modifier damage, and the target takes a penalty to attack rolls and saving throws equal to your Wisdom modifier (save ends). The penalty also ends if the target ends its turn without having made an attack during that turn.",
@@ -1175,7 +1175,7 @@
     "keywords": [
       "Polymorph, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "The target is stunned and immune to all damage but psychic damage (save ends both).",
@@ -1195,7 +1195,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "3[W] + Constitution modifier damage, and you push the target 2 squares.",
@@ -1215,7 +1215,7 @@
     "keywords": [
       "Polymorph, Psionic, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain resist 5 to all damage and can teleport 3 squares as a move action."
   },
   "Iron Warding": {
@@ -1232,7 +1232,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from an attack",
     "effect": "The damage is reduced to 0, but you are subject to all other effects of the attack, if any."
   },
@@ -1250,7 +1250,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and the target is dazed until the end of your next turn."
@@ -1269,7 +1269,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon + 1 reach<",
+    "range": "Melee weapon + 1 reach",
     "target": "One creature",
     "attack": "As above, and you ignore the -2 penalty for attacking an enemy that has cover.",
     "onHit": "2[W] + Constitution modifier damage. You slide each creature adjacent to the target 1 square and then slide the target 2 squares."
@@ -1288,7 +1288,7 @@
     "keywords": [
       "Augmentable, Charm, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier psychic damage. Until the end of your next turn, when any enemy attacks any ally of yours who is adjacent to the target, the enemy also makes the attack against the target."
@@ -1307,7 +1307,7 @@
     "keywords": [
       "Fire, Polymorph, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and ongoing 5 fire and psychic damage (save ends).",
@@ -1328,7 +1328,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "The target falls unconscious (save ends).",
@@ -1349,7 +1349,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to your next Insight check or Perception check during this encounter."
   },
   "Mind of Endurance": {
@@ -1366,7 +1366,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge. In addition, until the end of the encounter, you have regeneration 5 while you’re bloodied."
   },
   "Dazzling Assault": {
@@ -1383,7 +1383,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy marked by you shifts",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
@@ -1404,7 +1404,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage. When you hit any enemy before the end of your next turn, you slide that enemy 2 squares."
@@ -1423,7 +1423,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and your next psionic attack against the target before the end of your next turn deals 1d6 extra psychic damage."
@@ -1442,7 +1442,7 @@
     "keywords": [
       "Charm, Polymorph, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage.",
@@ -1463,7 +1463,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "3[W] + Constitution modifier damage.",
@@ -1484,7 +1484,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to your bloodied value."
   },
   "Perfect Eye": {
@@ -1501,7 +1501,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you ignore all barriers to line of effect and line of sight that are within 20 squares of you. In addition, you ignore the -2 penalty for attacking enemies that have concealment or cover within that range."
   },
   "Might of the Ogre": {
@@ -1518,7 +1518,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] damage, and the target is dazed until the end of your next turn. You knock the target prone, and if it stands up before the end of your next turn, it provokes opportunity attacks for doing so.",
@@ -1538,7 +1538,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and the target is immobilized and grants combat advantage to your allies until the end of your next turn."
@@ -1557,7 +1557,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and the target is blinded until the end of your next turn."
@@ -1576,7 +1576,7 @@
     "keywords": [
       "Polymorph, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "Until the end of your next turn, you gain a +2 bonus to all defenses against the targets of the at-will attack. In addition, choose a single creature hit by the at-will attack. That creature takes extra damage equal to your Wisdom modifier."
   },
@@ -1594,7 +1594,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "5[W] + Constitution modifier psychic damage.",
@@ -1615,7 +1615,7 @@
     "keywords": [
       "Augmentable, Charm, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and the target is dominated until the end of your next turn. Until this domination ends, the target has combat advantage against itself and your enemies."
@@ -1634,7 +1634,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Each enemy in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "4[W] + Constitution modifier damage.",
@@ -1655,7 +1655,7 @@
     "keywords": [
       "Polymorph, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "3[W] + Constitution modifier damage, and ongoing 20 damage (save ends).",
@@ -1676,7 +1676,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "6[W] + Constitution modifier damage. The damage increases by 5 for each effect on the target that a save can end.",
@@ -1696,7 +1696,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy starts its first turn during an encounter.",
     "target": "The triggering enemy in the burst",
     "effect": "You pull the target a number of squares equal to your Charisma modifier and mark it until the end of your next turn."
@@ -1734,7 +1734,7 @@
     "keywords": [
       "Force, Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier force damage, and you push the target a number of squares equal to your Charisma modifier.",
@@ -1755,7 +1755,7 @@
     "keywords": [
       "Force, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "Until the end of your next turn, your unaugmented psionic attacks deal 1d6 extra force damage."
   },
@@ -1773,7 +1773,7 @@
     "keywords": [
       "Augmentable, Force, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier force damage, and you slide the target 3 squares to a square adjacent to you.",
@@ -1793,7 +1793,7 @@
     "keywords": [
       "Force, Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier force damage, and the target is slowed (save ends).",
@@ -1814,7 +1814,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the stance of surging durability. Until the stance ends, whenever you hit with an augmented power, you gain temporary hit points equal to the number of power points you spent to augment that power."
   },
   "Forceful Reversal": {
@@ -1831,7 +1831,7 @@
     "keywords": [
       "Augmentable, Force, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits you.",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
@@ -1852,7 +1852,7 @@
     "keywords": [
       "Force, Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier force damage.",
@@ -1874,7 +1874,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, your weapon attacks deal extra damage equal to your Charisma modifier and deal cold, fire, lightning, and thunder damage in addition to their normal damage types."
   },
   "Kinetic Fist": {
@@ -1891,7 +1891,7 @@
     "keywords": [
       "Augmentable, Force, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and one enemy marked by you other than the target takes force damage equal to your Charisma modifier.",
@@ -1911,7 +1911,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -1935,7 +1935,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy marked by you in the burst",
     "effect": "Until the end of your next turn, when the target completes a willing move without teleporting, you can shift an equal number of squares as a free action."
   },
@@ -1953,7 +1953,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you push the target a number of squares equal to your Charisma modifier. In addition, until the end of your next turn, the target is immobilized and you can use a free action to slide the target 1 square whenever you take damage.",
@@ -1973,7 +1973,7 @@
     "keywords": [
       "Force, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and the target takes 1d6 extra force and psychic damage from your attacks, not including this one (save ends).",
@@ -1995,7 +1995,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce a nonminion enemy to 0 hit points.",
     "effect": "You gain temporary hit points equal to your healing surge value."
   },
@@ -2032,7 +2032,7 @@
     "keywords": [
       "Fire, Psionic, Stance, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "The triggering enemy",
     "attack": "Constitution vs. AC",
     "onHit": "5[W] + Constitution modifier fire damage, and you push the target a number of squares equal to your Charisma modifier.",
@@ -2055,7 +2055,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "6[W] + Constitution modifier damage, and you gain temporary hit points equal to 10 + your Constitution modifier.",
@@ -2076,7 +2076,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits or misses you with an attack for the first time during an encounter",
     "target": "The triggering enemy",
     "special": "You can attack the target with this melee attack even if the target is outside your melee reach.",
@@ -2097,7 +2097,7 @@
     "keywords": [
       "Augmentable, Lightning, Psionic, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "2[W] + Constitution modifier lightning damage. Until the start of your next turn, the target takes lightning damage equal to your Constitution modifier whenever it hits one of your allies."
@@ -2116,7 +2116,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. You are no longer immobilized, marked, or slowed, and you cannot be immobilized, marked, or slowed until the end of your next turn."
@@ -2154,7 +2154,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you teleport to a square adjacent to the target.",
@@ -2174,7 +2174,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of the encounter, you gain a +2 power bonus to speed. In addition, when you shift, you shift 1 extra square.",
     "target": "One creature",
     "attack": "Constitution vs. AC. You have combat advantage for this attack.",
@@ -2195,7 +2195,7 @@
     "keywords": [
       "Augmentable, Cold, Polymorph, Psionic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Constitution vs. Fortitude",
     "onHit": "1[W] + Constitution modifier cold damage, you push the target 1 square, and the target is immobilized (save ends).",
@@ -2216,7 +2216,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage.",
@@ -2237,7 +2237,7 @@
     "keywords": [
       "Psionic, Psychic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "2[W] + Constitution modifier damage, and the target takes 5 psychic damage if it moves more than half its speed when it moves (save ends).",
@@ -2258,7 +2258,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You and one ally",
     "effect": "You slide one target 1 square and teleport the other target 3 squares."
   },
@@ -2276,7 +2276,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A close or an area attack hits you",
     "effect": "You shift 1 square. If the shift places you outside the area of the triggering attack, you take only half damage from the attack."
   },
@@ -2294,7 +2294,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain resist 3 to all damage until the end of the encounter."
   },
   "Wild Savagery": {
@@ -2311,7 +2311,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "The power Wild Savagery must be active in order to use this attack.",
     "effect": "Make a melee basic attack or a charge attack against the triggering enemy. On a hit, the enemy is also knocked prone.",
     "trigger": "An enemy marked by you deals damage to an ally with an attack that doesn’t include you as a target."
@@ -2349,7 +2349,7 @@
     "keywords": [
       "Augmentable, Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -2388,7 +2388,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage.",
@@ -2408,7 +2408,7 @@
     "keywords": [
       "Polymorph, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "1[W] + Constitution modifier damage plus 1d12 psychic damage.",
@@ -2430,7 +2430,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You take damage from an attack",
     "target": "Each enemy in the burst",
     "attack": "Constitution vs. Will",
@@ -2452,7 +2452,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "primaryTarget": "One creature",
     "effect": "You teleport yourself and the primary target, swapping positions. Make a secondary attack that is a melee weapon attack.",
     "secondaryTarget": "One creature",
@@ -2475,7 +2475,7 @@
     "keywords": [
       "Psionic, Stance, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -2497,7 +2497,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from an attack.",
     "effect": "You take half damage from the triggering attack. Until the end of the encounter, you radiate bright light that fills your space and all squares within 5 squares of you."
   },
@@ -2515,7 +2515,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You cannot be slowed, immobilized, or restrained until the end of the encounter."
   },
   "Relentless Hostility": {
@@ -2532,7 +2532,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points during your turn",
     "effect": "You shift 1 square.",
     "special": "You can use this power once during each of your turns."
@@ -2551,7 +2551,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are surprised",
     "effect": "You are no longer surprised. In addition, you shift half your speed and mark one creature adjacent to you at the end of the shift until the end of your next turn."
   },
@@ -2569,7 +2569,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] damage, and choose any square within 5 squares of you. You occupy that square in addition to your normal square until the start of your next turn. While you occupy multiple squares through this power, you can attack from either square. You can flank from either square and can flank with yourself. You can be targeted in either square, but close and area attacks that affect both squares target you only once. When the effect ends, you choose whether to occupy your original square or your double’s square."
@@ -2607,7 +2607,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of your next turn.",
@@ -2628,7 +2628,7 @@
     "keywords": [
       "Augmentable, Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "1[W] + Constitution modifier damage, and you mark the target until the end of your next turn. You then teleport yourself and one ally within 5 squares of you, swapping positions."
@@ -2647,7 +2647,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "2[W] + Constitution modifier damage, and you teleport the target 5 squares. The target is then dazed (save ends).",
@@ -2667,7 +2667,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must charge and use this power in place of a melee basic attack.",
     "target": "One or two creatures",
     "attack": "Constitution vs. AC",
@@ -2689,7 +2689,7 @@
     "keywords": [
       "Psionic, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -2716,7 +2716,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "Constitution modifier damage, and the target is weakened (save ends).",
@@ -2737,7 +2737,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One weapon",
     "effect": "Until the end of the encounter, the weapon gains the brutal 1 property. In addition, critical hits with the weapon deal 1d10 extra damage."
   },
@@ -2755,7 +2755,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can move across any horizontal or vertical surface without having to climb. You can walk on walls and ceilings as if they were floors. You fall if you end the stance while on a surface on which you could not normally stand."
   },
   "Ubiquitous Vision": {
@@ -2772,7 +2772,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, enemies cannot gain combat advantage by flanking you, and you gain a +5 power bonus to Perception checks."
   },
   "Uncanny Senses": {
@@ -2789,7 +2789,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you can see invisible creatures and objects, and you gain a +5 power bonus to Insight checks and Perception checks."
   },
   "Intellect Snap": {
@@ -2806,7 +2806,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Will",
     "onHit": "2[W] + Constitution modifier psychic damage, and the target is dazed until the end of your next turn. In addition, you or one ally within 5 squares of you can make a saving throw against an effect that dazes or stuns."
@@ -2825,7 +2825,7 @@
     "keywords": [
       "Augmentable, Force, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy hits you or an ally with an attack",
     "target": "The triggering enemy",
     "attack": "Constitution vs. Fortitude",
@@ -2885,7 +2885,7 @@
     "keywords": [
       "Lightning, Polymorph, Psionic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and ongoing 5 lightning damage (save ends).",
@@ -2907,7 +2907,7 @@
     "keywords": [
       "Force, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -2931,7 +2931,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution + 4 vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of the encounter. No other mark can supersede this mark unless you permit it.",
@@ -2952,7 +2952,7 @@
     "keywords": [
       "Psionic, Thunder, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "You shift twice your speed and make the following attack at any point during this movement.",
     "target": "Each creature in the burst",
     "attack": "Constitution vs. Fortitude",
@@ -2973,7 +2973,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "You or an ally adjacent to you is hit by an attack",
     "effect": "The burst creates a zone that lasts until the end of your next turn. You and your allies gain resist 5 to all damage while within the zone. Any enemy that starts or ends its turn within the zone is pushed 1 square from the center of the zone. The zone is difficult terrain for enemies.",
     "sustainMinor": "The zone persists."
@@ -2992,7 +2992,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift your speed.",
     "special": "You can use this power only as the first or the last action of your turn."
   },
@@ -3010,7 +3010,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to your Constitution modifier + one-half your level and remove one effect that a save can end. You then shift 1 square."
   },
   "Teleport Trigger": {
@@ -3027,7 +3027,7 @@
     "keywords": [
       "Conjuration, Psionic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure four shimmering teleport triggers in unoccupied squares within range. Each teleport trigger lasts until the end of the encounter or until expended. When you or an ally enters a square containing a teleport trigger, that character can expend the trigger as a free action to teleport 5 squares."
   },
   "Cloud of Dancing Blades": {
@@ -3069,7 +3069,7 @@
     "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDancing Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13078\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Battlemind Attack 17</span>Dancing Strike</h1><p class=\\\"flavor\\\"><i>In the aftermath of your attack, you deftly stay ahead of your foes’ ttempts to move around you.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Augmentable</b>, <b>Psionic</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Constitution modifier damage. When you use your blurred step power before the end of your next turn, you can shift a number of squares equal to your Charisma modifier instead of shifting 1 square.</p><b>Augment 1</b><br/><p class=\\\"powerstat\\\"><b>Hit</b>: As above, and you mark the target until the end of your next turn.</p><b>Augment 4</b><br/><p class=\\\"flavor\\\"><b>Keywords</b>: Force, Psychic</p><p class=\\\"powerstat\\\"><b>Hit</b>: 3[W] + Constitution modifier damage. When you use your blurred step power before the end of your next turn, you can shift a number of squares equal to your Charisma modifier instead of shifting 1 square, and the creature that triggers your blurred step takes 5 force and psychic damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 44.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
     "flavor": "In the aftermath of your attack, you deftly stay ahead of your foes’ ttempts to move around you.",
     "keywords": "Force, Psychic",
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage. When you use your blurred step power before the end of your next turn, you can shift a number of squares equal to your Charisma modifier instead of shifting 1 square, and the creature that triggers your blurred step takes 5 force and psychic damage."
@@ -3088,7 +3088,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and the target cannot move or be pulled, pushed, or slid more than 2 squares from its current space until the end of your next turn."
@@ -3107,7 +3107,7 @@
     "keywords": [
       "Augmentable, Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon + 2 reach<",
+    "range": "Melee weapon + 2 reach",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you teleport to a square adjacent to the target.",
@@ -3127,7 +3127,7 @@
     "keywords": [
       "Fear, Polymorph, Psionic, Psychic, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you push the target 3 squares.",
@@ -3148,7 +3148,7 @@
     "keywords": [
       "Psionic, Psychic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon + 3 reach<",
+    "range": "Melee weapon + 3 reach",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
     "onHit": "5 + Constitution modifier psychic damage, and you slide the target 1 square.",
@@ -3173,7 +3173,7 @@
     "keywords": [
       "Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage plus 3d10 psychic damage, and you mark the target until the end of the encounter. No other mark can supersede this mark unless you permit it.",
@@ -3194,7 +3194,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC. Make the attack twice.",
     "onHit": "2[W] + Constitution modifier damage.",
@@ -3215,7 +3215,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from an attack",
     "effect": "You are insubstantial until the end of your next turn."
   },
@@ -3233,7 +3233,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You are no longer marked, and you assume the fearless mind set stance. Until the stance ends, you gain a +4 power bonus to Will, a +5 power bonus to saving throws against fear effects, and you cannot be marked."
   },
   "Mental Haven": {
@@ -3250,7 +3250,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You are removed from play. At the end of your next turn, you regain hit points equal to your bloodied value or you regain the use of an encounter power you have already used in this encounter. You then reappear in any unoccupied space within 5 squares of the space you last occupied."
   },
   "Wings of Elevated Thought": {
@@ -3267,7 +3267,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the wings of elevated thought stance. Until the stance ends, you gain a fly speed of 6, but you descend safely to the ground at the end of each of your turns."
   },
   "Crushing Vortex": {
@@ -3284,7 +3284,7 @@
     "keywords": [
       "Augmentable, Force, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage.",
@@ -3305,7 +3305,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and the target is dazed until the end of your next turn. Also until the end of your next turn, when you or any ally hits the target, you can teleport yourself or the target 3 squares as a free action.",
@@ -3364,7 +3364,7 @@
     "keywords": [
       "Fire, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "You shift three times your speed and make the following attack against one, two, or three creatures during this movement.",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
@@ -3385,7 +3385,7 @@
     "keywords": [
       "Healing, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. Fortitude",
     "onHit": "4[W] + Constitution modifier damage. In addition, the target is weakened, and you regain 10 hit points at the start of each of the target’s turns (save ends both). While the target is adjacent to you, it takes a -2 penalty to saving throws against this effect.",
@@ -3405,7 +3405,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "6[W] + Constitution modifier damage.",
@@ -3426,7 +3426,7 @@
     "keywords": [
       "Psionic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and you teleport the target to a square adjacent to you.",
@@ -3488,7 +3488,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "3[W] + Constitution modifier damage, and the target cannot shift until the end of your next turn. In addition, you gain a +3 power bonus to opportunity attack rolls against the target until the end of your next turn."
@@ -3507,7 +3507,7 @@
     "keywords": [
       "Augmentable, Necrotic, Psionic, Psychic, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Constitution vs. Fortitude",
     "onHit": "3[W] + Constitution modifier necrotic and psychic damage. In addition, if the target moves more than 2 squares away from you on its next turn, it takes 10 necrotic and psychic damage."
@@ -3526,7 +3526,7 @@
     "keywords": [
       "Psionic, Stance, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One, two, or three creatures",
     "attack": "Constitution vs. Reflex",
     "onHit": "3[W] + Constitution modifier damage, and the target is dazed (save ends). If the target is already dazed, the attack deals 5 extra damage.",
@@ -3549,7 +3549,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Until the end of the encounter, you gain a +4 power bonus to speed, and you are invisible while moving.",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
@@ -3570,7 +3570,7 @@
     "keywords": [
       "Psionic, Psychic, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "4[W] + Constitution modifier damage.",
@@ -3591,7 +3591,7 @@
     "keywords": [
       "Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "trigger": "An enemy marked by you targets you with a melee attack",
     "effect": "If you have no power points remaining, you regain 2 power points.",
     "target": "The triggering enemy",
@@ -3613,7 +3613,7 @@
     "keywords": [
       "Augmentable, Psionic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage. Until you end your turn in a square not adjacent to the target, you and allies adjacent to you have concealment against the target."
@@ -3632,7 +3632,7 @@
     "keywords": [
       "Illusion, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature marked by you",
     "effect": "You become invisible to the target, then shift 5 squares to a square adjacent to the target. This invisibility last until the end of your turn or until you make an attack."
   },
@@ -3650,7 +3650,7 @@
     "keywords": [
       "Psionic, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Constitution vs. AC",
     "onHit": "2[W] + Constitution modifier damage, and the target is dazed and gains vulnerable 5 psychic (save ends both).",

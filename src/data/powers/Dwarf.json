@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You successfully bull rush a target.</p><p class=\"flavor\">Effect: You can increase the push by a number of squares up to your Constitution modifier, shifting into each square the target of your bull rush leaves.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You successfully bull rush a target.",
     "effect": "You can increase the push by a number of squares up to your Constitution modifier, shifting into each square the target of your bull rush leaves."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are pulled, pushed, or slid.</p><p class=\"flavor\">Effect: Until the end of your next turn, you gain a +1 power bonus to damage rolls for each square of the forced movement.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are pulled, pushed, or slid.",
     "effect": "Until the end of your next turn, you gain a +1 power bonus to damage rolls for each square of the forced movement."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An effect would dominate or stun you.</p><p class=\"flavor\">Effect: You are dazed for the effect’s duration instead of being dominated or stunned.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An effect would dominate or stun you.",
     "effect": "You are dazed for the effect’s duration instead of being dominated or stunned."
   },
@@ -67,7 +67,7 @@
     "keywords": [
       "Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An attack drops you to 0 hit points or fewer.",
     "effect": "You can spend a healing surge. Until the end of your next turn, you gain resistance to all damage equal to twice your Constitution modifier."
   },
@@ -85,7 +85,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You use your second wind.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You use your second wind."
   }
 }

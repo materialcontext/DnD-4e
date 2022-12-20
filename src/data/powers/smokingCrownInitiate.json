@@ -1,0 +1,60 @@
+{
+  "Fuming Cloud": {
+    "id": "'11825",
+    "action": "Standard",
+    "powerClass": "Smoking Crown Initiate",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Fuming Cloud",
+    "type": "Crown",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFuming Cloud\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11825\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Smoking Crown Initiate Attack 11</span>Fuming Cloud</h1><p class=\\\"flavor\\\"><i>You scour your foes with the breath of the volcano.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b>, <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + ability modifier fire damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Choose one ally within 5 squares of you. The target is marked by that ally until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 49.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You scour your foes with the breath of the volcano.",
+    "keywords": [
+      "Fire, Implement, Primal"
+    ],
+    "range": "Close blast 3",
+    "target": "Each creature in the blast",
+    "attack": "Primary ability vs. Reflex",
+    "onHit": "3d8 + ability modifier fire damage.",
+    "effect": "Choose one ally within 5 squares of you. The target is marked by that ally until the end of your next turn."
+  },
+  "Magma Fissures": {
+    "id": "'11826",
+    "action": "Standard",
+    "powerClass": "Smoking Crown Initiate",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Magma Fissures",
+    "type": "Crown",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMagma Fissures\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11826\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Smoking Crown Initiate Attack 20</span>Magma Fissures</h1><p class=\\\"flavor\\\"><i>Jagged fissures full of spouting lava surround your ally, searing your foes and trapping them close to that ally.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b>, <b>Implement</b>, <b>Primal</b>, <b>Thunder</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 within 10 centered on one of your allies</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + ability modifier fire and thunder damage, and the target is slowed (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: The burst creates a zone centered on your ally that lasts until the end of your next turn. The zone moves with your ally. The zone is difficult terrain for your enemies, and enemies within the zone that move away from your ally on their turn take 2d10 fire damage and are slowed until the end of their next turn.</p><p class=\\\"flavor\\\"><b>Sustain Minor</b>: The zone persists.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 49.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Jagged fissures full of spouting lava surround your ally, searing your foes and trapping them close to that ally.",
+    "keywords": [
+      "Fire, Implement, Primal, Thunder, Zone"
+    ],
+    "range": "Area burst 2 within 10 centered on one of your allies",
+    "target": "Each enemy in the burst",
+    "attack": "Primary ability vs. Reflex",
+    "onHit": "3d8 + ability modifier fire and thunder damage, and the target is slowed (save ends).",
+    "effect": "The burst creates a zone centered on your ally that lasts until the end of your next turn. The zone moves with your ally. The zone is difficult terrain for your enemies, and enemies within the zone that move away from your ally on their turn take 2d10 fire damage and are slowed until the end of their next turn.",
+    "sustainMinor": "The zone persists."
+  },
+  "Blasted Ground": {
+    "id": "'11827",
+    "action": "Minor",
+    "powerClass": "Smoking Crown Initiate",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Blasted Ground",
+    "type": "Crown",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlasted Ground\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11827\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Smoking Crown Initiate Utility 12</span>Blasted Ground</h1><p class=\\\"flavor\\\"><i>You call up broken, red-hot rubble from below the ground in a wide circle around you, creating a formidable obstacle.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Fire</b>, <b>Primal</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of the encounter. The zone is difficult terrain for your enemies. Any enemy that ends its turn within the zone or that falls prone within the zone takes 1d10 fire damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 49.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You call up broken, red-hot rubble from below the ground in a wide circle around you, creating a formidable obstacle.",
+    "keywords": [
+      "Fire, Primal, Zone"
+    ],
+    "range": "Close burst 3",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. The zone is difficult terrain for your enemies. Any enemy that ends its turn within the zone or that falls prone within the zone takes 1d10 fire damage."
+  }
+}

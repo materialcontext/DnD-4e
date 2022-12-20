@@ -1,0 +1,62 @@
+{
+  "Overwhelming Radiance": {
+    "id": "'11313",
+    "action": "Standard",
+    "powerClass": "Astral Ascendant",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Overwhelming Radiance",
+    "type": "Ascendant",
+    "sourceRef": "Dragon Magazine 383",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nOverwhelming Radiance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11313\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Astral Ascendant Attack 11</span>Overwhelming Radiance</h1><p class=\\\"flavor\\\"><i>You blast your foe with searing radiant energy, leaving it temporarily open to your allies’ attacks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Constitution modifier radiant damage, and the target grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 43.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You blast your foe with searing radiant energy, leaving it temporarily open to your allies’ attacks.",
+    "keywords": [
+      "Arcane, Implement, Radiant"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "3d10 + Constitution modifier radiant damage, and the target grants combat advantage until the end of your next turn."
+  },
+  "Vestige of the Ascendant Commander": {
+    "id": "'11314",
+    "action": "Standard",
+    "powerClass": "Astral Ascendant",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Vestige of the Ascendant Commander",
+    "type": "Ascendant",
+    "sourceRef": "Dragon Magazine 383",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nVestige of the Ascendant Commander\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11314\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Astral Ascendant Attack 20</span>Vestige of the Ascendant Commander</h1><p class=\\\"flavor\\\"><i>You strike down your enemies with the wrath of the Ascendant Commander, leaving them reeling as your radiance burns into them.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b>, <b>Implement</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10 squares</p><p class=\\\"powerstat\\\"><b>Attack</b>: Constitution vs. Reflex</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Constitution modifier radiant damage, and you daze the target (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: If you hit at least one target, each ally in the burst can spend a healing surge. If you miss all targets, one ally in the burst can spend a healing surge.</p><p class=\\\"powerstat\\\"><b>Vestige Pact</b>: You gain access to the vestige of the Ascendant Commander.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Ascendant Commander Pact Boon</b>: You gain a +2 power bonus to AC until the end of your next turn. If you are bloodied, increase the bonus to +4.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Eyes of the Vestige Augment</b>: Until the end of your next turn, allies’ attacks against the target deal 5 extra radiant damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 43.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You strike down your enemies with the wrath of the Ascendant Commander, leaving them reeling as your radiance burns into them.",
+    "keywords": [
+      "Arcane, Healing, Implement, Radiant"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "attack": "Constitution vs. Reflex",
+    "target": "Each enemy in the burst",
+    "onHit": "3d8 + Constitution modifier radiant damage, and you daze the target (save ends).",
+    "onMiss": "Half damage.",
+    "effect": "If you hit at least one target, each ally in the burst can spend a healing surge. If you miss all targets, one ally in the burst can spend a healing surge.",
+    "vestigePact": "You gain access to the vestige of the Ascendant Commander.",
+    "ascendantCommanderPactBoon": "You gain a +2 power bonus to AC until the end of your next turn. If you are bloodied, increase the bonus to +4.",
+    "eyesOfTheVestigeAugment": "Until the end of your next turn, allies’ attacks against the target deal 5 extra radiant damage."
+  },
+  "Angelic Aura": {
+    "id": "'11315",
+    "action": "Minor",
+    "powerClass": "Astral Ascendant",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Angelic Aura",
+    "type": "Ascendant",
+    "sourceRef": "Dragon Magazine 383",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAngelic Aura\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11315\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Astral Ascendant Utility 12</span>Angelic Aura</h1><p class=\\\"flavor\\\"><i>Radiant energy surrounds you, lifting you into the air and mending your allies’ wounds.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Healing</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, you gain a fly speed of 6 and can hover. Any bloodied ally that starts its turn within 5 squares of you regains hit points equal to your Intelligence modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/383\\\" target=\\\"_new\\\">Dragon Magazine 383</a>, page(s) 43.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Radiant energy surrounds you, lifting you into the air and mending your allies’ wounds.",
+    "keywords": [
+      "Arcane, Healing"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, you gain a fly speed of 6 and can hover. Any bloodied ally that starts its turn within 5 squares of you regains hit points equal to your Intelligence modifier."
+  }
+}

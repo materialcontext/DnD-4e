@@ -13,7 +13,7 @@
     "keywords": [
       "Augmentable, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. AC",
     "onHit": "1[W] + Charisma modifier psychic damage, and the target is dazed and immobilized until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Healing, Psionic, Psychic, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2[W] + Charisma modifier psychic damage.",
@@ -53,7 +53,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A creature within 10 squares of you that you can see drops to 0 hit points or fewer",
     "effect": "You gain temporary hit points equal to your Charisma modifier. Each ally adjacent to you gains temporary hit points equal to your Wisdom modifier."
   }

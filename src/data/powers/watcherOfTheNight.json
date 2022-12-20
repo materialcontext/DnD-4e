@@ -1,0 +1,63 @@
+{
+  "Arcane Blade": {
+    "id": "'4239",
+    "action": "Standard",
+    "powerClass": "Watcher of the Night",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Arcane Blade",
+    "type": "of",
+    "sourceRef": "Dragon Magazine Annual, Dragon Magazine 366",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nArcane Blade\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4239\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Watcher of the Night Attack 11</span>Arcane Blade</h1><p class=\\\"flavor\\\"><i>You snatch arcane power from the Feywild, wreathing your dagger in energy.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Martial</b>, <b>Weapon</b> ; <b>Varies</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light blade.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"flavor\\\"><b>Special</b>: Choose cold, fire, lightning, or thunder whenever you use this power. Your choice determines the power’s damage type.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage.</p><br/>Update (6/28/2011)<br/>Changed to match July update.<br/><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/242070000\\\" target=\\\"_new\\\">Dragon Magazine Annual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/366\\\" target=\\\"_new\\\">Dragon Magazine 366</a>, page(s) 16.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You snatch arcane power from the Feywild, wreathing your dagger in energy.",
+    "keywords": [
+      "Arcane, Martial, Weapon ; Varies"
+    ],
+    "range": "Melee weapon",
+    "requirement": "You must be wielding a light blade.",
+    "target": "One creature",
+    "special": "Choose cold, fire, lightning, or thunder whenever you use this power. Your choice determines the power’s damage type.",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "3[W] + Dexterity modifier damage."
+  },
+  "No More Secrets": {
+    "id": "'4240",
+    "action": "Minor",
+    "powerClass": "Watcher of the Night",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "No More Secrets",
+    "type": "of",
+    "sourceRef": "Dragon Magazine Annual, Dragon Magazine 366",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNo More Secrets\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4240\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Watcher of the Night Utility 12</span>No More Secrets</h1><p class=\\\"flavor\\\"><i>You find the weak point in an enemy’s defenses and exploit it.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One enemy in the burst</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains vulnerable 10 cold, vulnerable 10 fire, vulnerable 10 lightning, or vulnerable 10 thunder (your choice) until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/242070000\\\" target=\\\"_new\\\">Dragon Magazine Annual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/366\\\" target=\\\"_new\\\">Dragon Magazine 366</a>, page(s) 16.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You find the weak point in an enemy’s defenses and exploit it.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Close burst 10",
+    "target": "One enemy in the burst",
+    "effect": "The target gains vulnerable 10 cold, vulnerable 10 fire, vulnerable 10 lightning, or vulnerable 10 thunder (your choice) until the end of your next turn."
+  },
+  "Glaring Wound": {
+    "id": "'4241",
+    "action": "Standard",
+    "powerClass": "Watcher of the Night",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Glaring Wound",
+    "type": "of",
+    "sourceRef": "Dragon Magazine Annual, Dragon Magazine 366",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nGlaring Wound\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=4241\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Watcher of the Night Attack 20</span>Glaring Wound</h1><p class=\\\"flavor\\\"><i>Your blade cuts deep, leaving a gaping wound.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a crossbow, a light blade, or a sling.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier damage, and the target is slowed and takes ongoing 10 damage (save ends both).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: The target gains vulnerability 10 to attacks with the weapon keyword (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/242070000\\\" target=\\\"_new\\\">Dragon Magazine Annual</a>, <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/366\\\" target=\\\"_new\\\">Dragon Magazine 366</a>, page(s) 16.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your blade cuts deep, leaving a gaping wound.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "requirement": "You must be wielding a crossbow, a light blade, or a sling.",
+    "target": "One creature",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "3[W] + Dexterity modifier damage, and the target is slowed and takes ongoing 10 damage (save ends both).",
+    "onMiss": "Half damage.",
+    "effect": "The target gains vulnerability 10 to attacks with the weapon keyword (save ends)."
+  }
+}

@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Close burst 2</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target can shift 1 square as a free action.</p>"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You and each ally in the burst",
     "effect": "Each target can shift 1 square as a free action."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Close burst 2</p><p class=\"flavor\">Effect: Each ally in the burst gains a +2 power bonus to all defenses against opportunity attacks until the end of your next turn. You then shift up to your speed.</p>"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "Each ally in the burst gains a +2 power bonus to all defenses against opportunity attacks until the end of your next turn. You then shift up to your speed."
   },
   "Load Slingpot": {
@@ -48,7 +48,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You load your sling with a random type of ammunition. The next time you hit with a ranged basic attack with this sling before the end of your next turn, it has one of the following additional effects. Roll a d6 to determine the ammunition type."
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You load your sling with a random type of ammunition. The next time you hit with a ranged basic attack with this sling before the end of your next turn, it has one of the following additional effects. Roll a d6 to determine the ammunition type.<br/>&nbsp;&nbsp;&nbsp;&nbsp;1–2 Stinkpot: The target takes a -2 penalty to attack rolls until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;3–4 Firepot (Fire): The target takes ongoing 2 fire damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;5–6 Gluepot: The target is immobilized until the end of its next turn."
   },
   "Tunnel Scuttle": {
@@ -65,7 +65,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You move up to your speed. During this movement, you have a climb speed equal to your speed, and can move at full speed while squeezing.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to your speed. During this movement, you have a climb speed equal to your speed, and can move at full speed while squeezing."
   },
   "Frantic Shift": {
@@ -82,7 +82,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You shift 1 square.</p><p class=\"powerstat\">Special: The first time you are bloodied in an encounter, you regain the use of this power.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 1 square.",
     "special": "The first time you are bloodied in an encounter, you regain the use of this power."
   },
@@ -100,7 +100,7 @@
     "keywords": [
       "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: You are damaged by an attack from a trap or a hazard while a nonminion creature is adjacent to you.</p><p class=\"flavor\">Effect: You take only half damage from the triggering attack, and one nonminion creature adjacent to you takes the other half.</p>"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You are damaged by an attack from a trap or a hazard while a nonminion creature is adjacent to you.",
     "effect": "You take only half damage from the triggering attack, and one nonminion creature adjacent to you takes the other half."
   }

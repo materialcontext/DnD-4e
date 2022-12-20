@@ -1,0 +1,57 @@
+{
+  "Skald's Tale": {
+    "id": "'9266",
+    "action": "Standard",
+    "powerClass": "Mythic Skald",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Skald's Tale",
+    "type": "Skald",
+    "sourceRef": "Dragon Magazine 376",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSkald's Tale\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9266\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mythic Skald Attack 11</span>Skald's Tale</h1><p class=\\\"flavor\\\"><i>You sing the great epics as you fight. When your weapon connects, a nearby ally becomes inspired to equal the bold deeds you recount.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Charisma modifier damage, and one ally adjacent to you makes a melee basic attack. If this attack hits, it deals an extra +1[W] damage, and your ally pushes the target 4 squares.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/376\\\" target=\\\"_new\\\">Dragon Magazine 376</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You sing the great epics as you fight. When your weapon connects, a nearby ally becomes inspired to equal the bold deeds you recount.",
+    "keywords": [
+      "Primal, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Charisma vs. AC",
+    "onHit": "1[W] + Charisma modifier damage, and one ally adjacent to you makes a melee basic attack. If this attack hits, it deals an extra +1[W] damage, and your ally pushes the target 4 squares."
+  },
+  "Manifest the Mighty Hero": {
+    "id": "'9267",
+    "action": "Standard",
+    "powerClass": "Mythic Skald",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Manifest the Mighty Hero",
+    "type": "Skald",
+    "sourceRef": "Dragon Magazine 376",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nManifest the Mighty Hero\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9267\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Mythic Skald Attack 20</span>Manifest the Mighty Hero</h1><p class=\\\"flavor\\\"><i>A hero honored in your tales answers your call and lends its strength to your cause.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: You or one ally</p><p class=\\\"flavor\\\"><b>Effect</b>: The target makes an at-will melee attack as a free action, and deals an extra +2[W] damage on a hit. Whether the attack hits or misses, the target gains 20 temporary hit points, a +2 power bonus to attack rolls and defenses and a +5 power bonus to damage rolls until the end of the encounter.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/376\\\" target=\\\"_new\\\">Dragon Magazine 376</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "A hero honored in your tales answers your call and lends its strength to your cause.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Melee 1",
+    "target": "You or one ally",
+    "effect": "The target makes an at-will melee attack as a free action, and deals an extra +2[W] damage on a hit. Whether the attack hits or misses, the target gains 20 temporary hit points, a +2 power bonus to attack rolls and defenses and a +5 power bonus to damage rolls until the end of the encounter."
+  },
+  "Mythic Destiny": {
+    "id": "'9268",
+    "action": "Minor",
+    "powerClass": "Mythic Skald",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Mythic Destiny",
+    "type": "Skald",
+    "sourceRef": "Dragon Magazine 376",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMythic Destiny\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9268\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Mythic Skald Utility 12</span>Mythic Destiny</h1><p class=\\\"flavor\\\"><i>Primal spirits summoned by your recital coax a comrade to rejoin the battle and find glory in the enemy’s defeat.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One dying ally</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, dying does not cause the target to be unconscious. The target must continue making death saving throws while it is dying and still dies if it fails three death saving throws or if its hit points are reduced to its bloodied value expressed as a negative number.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/376\\\" target=\\\"_new\\\">Dragon Magazine 376</a>, page(s) 57.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Primal spirits summoned by your recital coax a comrade to rejoin the battle and find glory in the enemy’s defeat.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Ranged 5",
+    "target": "One dying ally",
+    "effect": "Until the end of the encounter, dying does not cause the target to be unconscious. The target must continue making death saving throws while it is dying and still dies if it fails three death saving throws or if its hit points are reduced to its bloodied value expressed as a negative number."
+  }
+}

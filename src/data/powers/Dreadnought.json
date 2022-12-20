@@ -13,7 +13,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "targets": "One or two creatures",
     "effect": "You can shift 1 square before each attack.",
     "attack": "Strength vs. AC, two attacks",
@@ -34,7 +34,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude",
     "onHit": "3[W] + Strength modifier damage, and you slide the target 3 squares to an adjacent space. The target is dazed (save ends).",
@@ -54,7 +54,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You become bloodied",
     "effect": "You gain resist 5 to all damage until the end of the encounter."
   }

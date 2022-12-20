@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a light blade.",
     "target": "One creature",
     "effect": "Before the attack, you teleport 5 squares to a space adjacent to the target and gain combat advantage against it until the end of your turn.",
@@ -34,7 +34,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You create two dimensional gates in two unoccupied squares within range. The gates last until the end of your next turn. You and your allies can move from one gate’s square to the other gate’s square as if the squares were adjacent to each other. Movement through the gates is impossible if either gate’s square is occupied.",
     "sustainMinor": "The gates persist. As a move action, you can move a gate 4 squares and must move it to a square within 20 squares of you."
   },
@@ -52,7 +52,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "effect": "You make an attack from a square within 10 squares of you, gaining any benefits or penalties associated with that square, such as combat advantage from flanking.",
     "attack": "Dexterity vs. AC",

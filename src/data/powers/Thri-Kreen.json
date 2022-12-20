@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One, two, or three enemies</p><p class=\"powerstat\">Attack: Strength + 3 vs. AC, Dexterity + 3 vs. AC, or Wisdom + 3 vs. AC"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One, two, or three enemies",
     "attack": "Strength + 3 vs. AC, Dexterity + 3 vs. AC, or Wisdom + 3 vs. AC<br/>Level 11: Strength + 6 vs. AC, Dexterity + 6 vs. AC, or Wisdom + 6 vs. AC<br/>Level 21: Strength + 9 vs. AC, Dexterity + 9 vs. AC, or Wisdom + 9 vs. AC",
     "onHit": "1d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage. You gain a bonus to the damage roll equal to the number of targets.<br/>Level 11: 2d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage<br/>Level 21: 3d8 + Strength modifier, Dexterity modifier, or Wisdom modifier damage."
@@ -32,7 +32,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You jump a number of squares equal to your speed. This movement does not provoke opportunity attacks.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You jump a number of squares equal to your speed. This movement does not provoke opportunity attacks."
   },
   "Pheromone Release": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Charm"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to the next Bluff, Diplomacy, or Intimidate check you make before the end of your next turn. You can also gain this bonus to Nature checks made to calm or influence a beast."
   },
   "Chameleon Chitin": {
@@ -66,7 +66,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a Stealth check. If you have any cover or concealment, you gain a +5 power bonus to this check. You can remain hidden without cover or concealment as long as you make no attacks and you take no action that requires you to make another Stealth check."
   },
   "Mantis Dodge": {
@@ -83,7 +83,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage from an area attack or a ranged attack against AC or Reflex.</p><p class=\"flavor\">Effect: You take only half damage from the triggering attack. After the attack is resolved, you can jump up to half your speed. This movement does not provoke opportunity attacks.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from an area attack or a ranged attack against AC or Reflex.",
     "effect": "You take only half damage from the triggering attack. After the attack is resolved, you can jump up to half your speed. This movement does not provoke opportunity attacks."
   },
@@ -101,7 +101,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain blindsight 10 until the end of your next turn.</p><p class=\"powerstat\">Special: If you have the Thri-Kreen Antennae feat, you can use this power as an immediate reaction when you are blinded or otherwise deprived of sight.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain blindsight 10 until the end of your next turn.",
     "special": "If you have the Thri-Kreen Antennae feat, you can use this power as an immediate reaction when you are blinded or otherwise deprived of sight."
   },
@@ -119,7 +119,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You start your turn dazed, dominated, stunned, or unconscious, and you have at least 1 hit point.",
     "effect": "You ignore the triggering effect until the end of this turn.",
     "special": "If you have the Thri-Kreen Wild Talent feat, you can sustain this effect until the end of your next turn by taking a minor action and spending 1 power point."
@@ -138,7 +138,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, each target cannot be flanked and gains a +2 power bonus to saving throws. Unless a creature or an object is invisible to or hidden from all targets, it is invisible to or hidden from none of them. Each target also gains telepathy 10 until the end of the encounter, but can use this telepathy only on other targets of this power.",
     "special": "If you have the Thri-Kreen Antennae feat, each target also gains the benefit of that feat while the effect lasts."
@@ -157,7 +157,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage.",
     "effect": "You gain resist 10 to all damage until the end of your next turn."
   }

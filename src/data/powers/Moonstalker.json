@@ -13,7 +13,7 @@
     "keywords": [
       "Fear, Psychic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Wisdom + 4 vs. Will<br/>Level 21: Wisdom + 6 vs. Will",
     "onHit": "1d8 + Wisdom modifier psychic damage, and the target grants combat advantage until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of a gray wolf or a tiger of your size until the end of the encounter, until you fall unconscious, or until you drop to 0 hit points or fewer. In this form, you add your Wisdom modifier to your speed. In addition, whenever you walk as a move action, you can shift 1 square as a free action before doing so."
   },
   "Circle the Prey": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength or Dexterity vs. Reflex",
     "onHit": "3[W] + Strength or Dexterity modifier damage, and ongoing 10 damage (save ends). In addition, you knock the target prone.",

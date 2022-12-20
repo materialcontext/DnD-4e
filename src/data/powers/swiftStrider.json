@@ -1,0 +1,68 @@
+{
+  "Blurring Offensive": {
+    "id": "'11518",
+    "action": "Standard",
+    "powerClass": "Swift Strider",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Blurring Offensive",
+    "type": "Strider",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlurring Offensive\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11518\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Swift Strider Attack 11</span>Blurring Offensive</h1><p class=\\\"flavor\\\"><i>You move with such speed and attack with such force that your enemy finds it impossible to track your movements.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Before the attack, you shift 1 square. If you are marked, that condition ends on you before the shift.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Wisdom modifier damage, and the target grants combat advantage to you until the end of your next turn. In addition, you slide the target 1 square, and you shift 1 square.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 133.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You move with such speed and attack with such force that your enemy finds it impossible to track your movements.",
+    "keywords": [
+      "Primal, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
+    "effect": "Before the attack, you shift 1 square. If you are marked, that condition ends on you before the shift.",
+    "target": "One creature",
+    "attack": "Wisdom vs. Fortitude",
+    "onHit": "2[W] + Wisdom modifier damage, and the target grants combat advantage to you until the end of your next turn. In addition, you slide the target 1 square, and you shift 1 square."
+  },
+  "Striding Barrage": {
+    "id": "'11519",
+    "action": "Standard",
+    "powerClass": "Swift Strider",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Striding Barrage",
+    "type": "Strider",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStriding Barrage\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11519\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Swift Strider Attack 20</span>Striding Barrage</h1><p class=\\\"flavor\\\"><i>You speed across the battlefield, loosing shot after shot as you move.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee or Ranged</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Before the primary attack, you shift 2 squares.</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Wisdom vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + 2d6 + Wisdom modifier damage, and the primary target is slowed (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: You shift 2 squares and make a secondary attack.</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Wisdom - 1 vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1[W] + 2d6 + Wisdom modifier damage, and the secondary target is slowed (save ends).</p><p class=\\\"powerstat\\\"><b>Effect</b>: You shift 2 squares and make a tertiary attack</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Tertiary Target</b>: One creature other than the primary and secondary targets</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Tertiary Attack</b>: Wisdom - 2 vs. AC</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1[W] + 2d6 + Wisdom modifier damage, and the tertiary target is slowed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 133.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You speed across the battlefield, loosing shot after shot as you move.",
+    "keywords": [
+      "Primal, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "requirement": "You must be wielding a light thrown or a heavy thrown weapon to make a melee attack with this power.",
+    "effect": "You shift 2 squares and make a secondary attack.",
+    "primaryTarget": "One creature",
+    "attack": "Wisdom vs. AC",
+    "onHit": "1[W] + 2d6 + Wisdom modifier damage, and the primary target is slowed (save ends).",
+    "secondaryTarget": "One creature other than the primary target",
+    "secondaryAttack": "Wisdom - 1 vs. AC",
+    "secondaryOnHit": "1[W] + 2d6 + Wisdom modifier damage, and the tertiary target is slowed (save ends).",
+    "secondaryeffect": "You shift 2 squares and make a tertiary attack",
+    "tertiaryTarget": "One creature other than the primary and secondary targets",
+    "tertiaryAttack": "Wisdom - 2 vs. AC"
+  },
+  "Swift Vengeance": {
+    "id": "'11520",
+    "action": "Immediate Reaction",
+    "powerClass": "Swift Strider",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Swift Vengeance",
+    "type": "Strider",
+    "sourceRef": "Player's Handbook 3",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSwift Vengeance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11520\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Swift Strider Utility 12</span>Swift Vengeance</h1><p class=\\\"flavor\\\"><i>After being hit, you adjust your position to prepare your revenge.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy hits you with a melee attack</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 1 square. Until the end of your next turn, the triggering enemy grants combat advantage to you, and you can score a critical hit on a roll of 19–20 against that enemy when you make weapon attacks against it.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndlist&brand=All&year=All&type=CoreGameProducts\\\" target=\\\"_new\\\">Player's Handbook 3</a>, page(s) 133.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "After being hit, you adjust your position to prepare your revenge.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Personal",
+    "trigger": "An enemy hits you with a melee attack",
+    "effect": "You shift 1 square. Until the end of your next turn, the triggering enemy grants combat advantage to you, and you can score a critical hit on a roll of 19–20 against that enemy when you make weapon attacks against it."
+  }
+}

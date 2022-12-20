@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic, Shadow"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence or Charisma vs. Will",
     "onHit": "2d6 + Intelligence or Charisma modifier psychic damage, and the target is slowed and grants combat advantage until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Arcane, Illusion, Shadow, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of your next turn. Your allies gain partial concealment while in the zone. In addition, you can place the following illusions anywhere in the zone: 2 squares of difficult terrain that allies can ignore, and one wall 3 of blocking terrain.",
     "sustainMinor": "The zone persists until the end of your next turn."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Arcane, Illusion, Psychic, Shadow"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence or Charisma vs. Will",
     "onHit": "3d6 + Intelligence or Charisma psychic damage.",

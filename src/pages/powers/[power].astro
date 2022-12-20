@@ -1,0 +1,23 @@
+---
+import PowerLayout from "../../layouts/powerLayout.astro";
+
+let response = await fetch(`D:/nodejs_programs/DnD-4e/src/data/powers/${Astro.params.power}.json`);
+let data = await response.json();
+
+
+const entries = Object.entries(data).map(([key, value]) => {
+  let bonusPower = value["bonusPower"];
+  let power = value;
+  delete power["bonusPower"];
+  return [key, [power, bonusPower]]
+ });
+---
+
+{
+  entries.map(([key, value]) => {
+    return value[1] ? (
+        <PowerLayout data={value[0]}/>
+        <PowerLayout data={value[1]}/>
+        ) : <PowerLayout data={value[0]}/>
+  })
+}

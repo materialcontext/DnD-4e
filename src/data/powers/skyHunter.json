@@ -1,0 +1,61 @@
+{
+  "Blinding Talons": {
+    "id": "'5090",
+    "action": "Standard",
+    "powerClass": "Sky Hunter",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Blinding Talons",
+    "type": "Hunter",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlinding Talons\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5090\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Sky Hunter Attack 11</span>Blinding Talons</h1><p class=\\\"flavor\\\"><i>Changing into a flying raptor’s form, you swoop at your enemy’s eyes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Beast Form</b>, <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the form of an eagle that is your size, fly twice your speed, and make the following melee touch attack at any point during the movement. You don’t provoke an opportunity attack for moving away from the attack’s target. After the attack, you return to your normal beast form.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: One creature</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1d10 + Wisdom modifier damage, and the target is blinded until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Changing into a flying raptor’s form, you swoop at your enemy’s eyes.",
+    "keywords": [
+      "Beast Form, Implement, Primal"
+    ],
+    "range": "Personal",
+    "effect": "You assume the form of an eagle that is your size, fly twice your speed, and make the following melee touch attack at any point during the movement. You don’t provoke an opportunity attack for moving away from the attack’s target. After the attack, you return to your normal beast form.",
+    "target": "One creature",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "1d10 + Wisdom modifier damage, and the target is blinded until the end of your next turn."
+  },
+  "Soaring Falcon": {
+    "id": "'5091",
+    "action": "Free",
+    "powerClass": "Sky Hunter",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Soaring Falcon",
+    "type": "Hunter",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSoaring Falcon\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5091\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sky Hunter Utility 12</span>Soaring Falcon</h1><p class=\\\"flavor\\\"><i>You can take the form of a swift bird of prey to soar above your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Free Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Prerequisite</b>: You must have the wild shape power.</p><p class=\\\"powerstat\\\"><b>Effect</b>: Until the end of the encounter, you can use wild shape to assume the form of a Tiny falcon. In this form, you gain a fly speed equal to your speed. You also gain a +5 bonus to Perception checks and a +4 bonus to AC against opportunity attacks. You can’t attack, pick up anything, or manipulate objects.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Until this power ends, you can use wild shape to change among this form, another beast form, and your humanoid form.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You can take the form of a swift bird of prey to soar above your foes.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Personal",
+    "prerequisite": "You must have the wild shape power.",
+    "effect": "Until the end of the encounter, you can use wild shape to assume the form of a Tiny falcon. In this form, you gain a fly speed equal to your speed. You also gain a +5 bonus to Perception checks and a +4 bonus to AC against opportunity attacks. You can’t attack, pick up anything, or manipulate objects.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Until this power ends, you can use wild shape to change among this form, another beast form, and your humanoid form."
+  },
+  "Primal Eagle": {
+    "id": "'5092",
+    "action": "Standard",
+    "powerClass": "Sky Hunter",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Primal Eagle",
+    "type": "Hunter",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPrimal Eagle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5092\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Sky Hunter Attack 20</span>Primal Eagle</h1><p class=\\\"flavor\\\"><i>You transform into a dire eagle, swooping from the air to batter your foes with the thunder of your wings.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Beast Form</b>, <b>Implement</b>, <b>Primal</b>, <b>Thunder</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the form of an eagle that is your size, fly your speed, and then make the following attack, which is a close burst 5. You then return to your normal beast form. Until the end of the encounter, while you are in beast form you can assume this eagle form and fly your speed as a move action. At the end of that action, you must land, and you return to your normal beast form.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Wisdom vs. Fortitude</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 4d6 + Wisdom modifier thunder damage, and the target is slowed (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Miss</b>: Half damage, and the target is slowed until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 99.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You transform into a dire eagle, swooping from the air to batter your foes with the thunder of your wings.",
+    "keywords": [
+      "Beast Form, Implement, Primal, Thunder"
+    ],
+    "range": "Personal",
+    "effect": "You assume the form of an eagle that is your size, fly your speed, and then make the following attack, which is a close burst 5. You then return to your normal beast form. Until the end of the encounter, while you are in beast form you can assume this eagle form and fly your speed as a move action. At the end of that action, you must land, and you return to your normal beast form.",
+    "target": "Each enemy in the burst",
+    "attack": "Wisdom vs. Fortitude",
+    "onHit": "4d6 + Wisdom modifier thunder damage, and the target is slowed (save ends).",
+    "onMiss": "Half damage, and the target is slowed until the end of your next turn."
+  }
+}

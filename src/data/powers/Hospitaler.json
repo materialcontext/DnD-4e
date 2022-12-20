@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Healing"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of this encounter, when you attack on your turn and hit at least one enemy, you heal an ally. Choose one ally within 10 squares of you. That ally regains a number of hit points equal to 1d6 x your Wisdom modifier."
   },
   "Warding Blow": {
@@ -30,7 +30,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature that is marked by you",
     "attack": "Charisma vs. AC",
     "onHit": "2[W] + Charisma modifier damage, and each ally within 5 squares of you can make a saving throw."
@@ -49,7 +49,7 @@
     "keywords": [
       "Divine, Healing, Radiant, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4[W] + Charisma modifier radiant damage.",

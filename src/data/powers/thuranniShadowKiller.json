@@ -1,0 +1,63 @@
+{
+  "Descending Shadows": {
+    "id": "'7610",
+    "action": "Standard",
+    "powerClass": "Thuranni Shadow Killer",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Descending Shadows",
+    "type": "Shadow",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDescending Shadows\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7610\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thuranni Shadow Killer Attack 11</span>Descending Shadows</h1><p class=\\\"flavor\\\"><i>Darkness explodes from your dagger and rises above your enemy before raining down ebon sheets that cling to the creature’s form.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex and Will. You make one attack roll and compare the result against both defenses. The target might be hit one or two times, depending on which defenses are hit.</p><p class=\\\"flavor\\\"><b>Hit (Reflex)</b>: 1[W] + Dexterity modifier damage, and the target is slowed until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Hit (Will)</b>: 1[W] + Dexterity modifier damage, and the target is blinded until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Darkness explodes from your dagger and rises above your enemy before raining down ebon sheets that cling to the creature’s form.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Dexterity vs. Reflex and Will. You make one attack roll and compare the result against both defenses. The target might be hit one or two times, depending on which defenses are hit.",
+    "onHit (Reflex)": "1[W] + Dexterity modifier damage, and the target is slowed until the end of your next turn.",
+    "onHit (Will)": "1[W] + Dexterity modifier damage, and the target is blinded until the end of your next turn."
+  },
+  "Shadowstep": {
+    "id": "'7611",
+    "action": "Standard",
+    "powerClass": "Thuranni Shadow Killer",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Shadowstep",
+    "type": "Shadow",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadowstep\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7611\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Thuranni Shadow Killer Utility 12</span>Shadowstep</h1><p class=\\\"flavor\\\"><i>You point at a spot, and the light retreats from it. Then you disappear and step out of the shadows you’ ve created.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Teleportation</b>, <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 1 within 10 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone of darkness that lasts until the end of your next turn. The zone blocks line of sight for creatures without darkvision. You gain darkvision until the end of your next turn and teleport to the burst’s origin square.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The darkvision and the zone persist.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You point at a spot, and the light retreats from it. Then you disappear and step out of the shadows you’ ve created.",
+    "keywords": [
+      "Teleportation, Zone"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "effect": "The burst creates a zone of darkness that lasts until the end of your next turn. The zone blocks line of sight for creatures without darkvision. You gain darkvision until the end of your next turn and teleport to the burst’s origin square.",
+    "sustainMinor": "The darkvision and the zone persist."
+  },
+  "Spectral Garrote": {
+    "id": "'7612",
+    "action": "Standard",
+    "powerClass": "Thuranni Shadow Killer",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Spectral Garrote",
+    "type": "Shadow",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpectral Garrote\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=7612\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Thuranni Shadow Killer Attack 20</span>Spectral Garrote</h1><p class=\\\"flavor\\\"><i>A translucent garrote forms between your hands as you snare a foe to use as your shield.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> 1</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature granting combat advantage to you</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d8 + Dexterity modifier damage, and you grab the target. Until the grab ends, you have cover and can use the Spectral Garrot attack action.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: You sustain the grab, and the target takes 2d8 + Dexterity modifier damage.</p><br/><h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Thuranni Shadow Killer Attack 20</span>Spectral Garrote Attack</h1><p class=\\\"flavor\\\"><i>A translucent garrote forms between your hands as you snare a foe to use as your shield.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Reliable</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: The Spectral Garrote power must be active to use this power.</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy makes a melee or ranged attack roll against you that targets AC or Reflex</p><p class=\\\"flavor\\\"><b>Effect</b>: The triggering attack targets the creature grabbed by you.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 78.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "A translucent garrote forms between your hands as you snare a foe to use as your shield.",
+    "keywords": [
+      "Reliable, Weapon"
+    ],
+    "range": "Melee 1",
+    "target": "One creature granting combat advantage to you",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "3d8 + Dexterity modifier damage, and you grab the target. Until the grab ends, you have cover and can use the Spectral Garrot attack action.",
+    "sustainMinor": "You sustain the grab, and the target takes 2d8 + Dexterity modifier damage.",
+    "requirement": "The Spectral Garrote power must be active to use this power.",
+    "trigger": "An enemy makes a melee or ranged attack roll against you that targets AC or Reflex",
+    "effect": "The triggering attack targets the creature grabbed by you."
+  }
+}

@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will, Wisdom vs. Will, or Charisma vs. Will",
     "onHit": "While you are bloodied, deal 3d10 + Intelligence, Wisdom, or Charisma modifier psychic damage. If you are not bloodied, the target is instead stunned until the start of its next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, darkness within 6 squares of you counts as dim light."
   },
   "Moonfire": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Divine, Healing, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex, Wisdom vs. Reflex, or Charisma vs. Reflex",
     "onHit": "4d10 + Intelligence, Wisdom, or Charisma modifier radiant damage, and all allies within 5 squares of the target regain hit points equal to one-half your level + your Charisma modifier.",

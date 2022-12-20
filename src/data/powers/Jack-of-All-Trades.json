@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage, and make a secondary attack against the target.",
@@ -34,7 +34,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC, Fortitude, Reflex, Will. You make one attack roll and compare the result against all four defenses. A target suffers the effect associated with each defense that the attack hits.",
     "onHit (AC)": "2[W] damage.",
@@ -57,7 +57,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make a skill check and dislike the result",
     "effect": "You reroll the triggering check and use either result."
   }

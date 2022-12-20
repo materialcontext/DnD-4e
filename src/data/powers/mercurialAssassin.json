@@ -1,0 +1,64 @@
+{
+  "Fluid Counterattack": {
+    "id": "'11857",
+    "action": "Immediate Interrupt",
+    "powerClass": "Mercurial Assassin",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Fluid Counterattack",
+    "type": "Assassin",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFluid Counterattack\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11857\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Mercurial Assassin Attack 11</span>Fluid Counterattack</h1><p class=\\\"flavor\\\"><i>You become liquid metal and move to the other side of your attacker, striking it before it has time to discover your whereabouts.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Polymorph</b>, <b>Weapon</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Trigger</b>: An enemy makes a melee attack against you</p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 3 squares to a square adjacent to the triggering enemy.</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Dexterity modifier damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 7.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You become liquid metal and move to the other side of your attacker, striking it before it has time to discover your whereabouts.",
+    "keywords": [
+      "Polymorph, Weapon"
+    ],
+    "range": "Melee weapon",
+    "trigger": "An enemy makes a melee attack against you",
+    "effect": "You shift 3 squares to a square adjacent to the triggering enemy.",
+    "attack": "Dexterity vs. AC",
+    "onHit": "2[W] + Dexterity modifier damage."
+  },
+  "Streaking Mercury": {
+    "id": "'11858",
+    "action": "Standard",
+    "powerClass": "Mercurial Assassin",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Streaking Mercury",
+    "type": "Assassin",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nStreaking Mercury\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11858\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Mercurial Assassin Attack 20</span>Streaking Mercury</h1><p class=\\\"flavor\\\"><i>Your weapon drips with quicksilver, and you attack the foe in front of you, moving swiftly to the next target, throwing the poisonous metal into its eyes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Poison</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Dexterity vs. AC</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + Dexterity modifier poison damage, and ongoing 5 poison damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You can shift your speed and make a secondary attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature other than the primary target</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Dexterity vs. AC</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Hit</b>: 3[W] + Dexterity modifier damage, and the target cannot see you (save ends).</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 7.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your weapon drips with quicksilver, and you attack the foe in front of you, moving swiftly to the next target, throwing the poisonous metal into its eyes.",
+    "keywords": [
+      "Poison, Weapon"
+    ],
+    "range": "Melee weapon",
+    "primaryTarget": "One creature",
+    "attack": "Dexterity vs. AC",
+    "onHit": "3[W] + Dexterity modifier poison damage, and ongoing 5 poison damage.",
+    "onMiss": "Half damage.",
+    "effect": "You can shift your speed and make a secondary attack.",
+    "secondaryTarget": "One creature other than the primary target",
+    "secondaryAttack": "Dexterity vs. AC",
+    "onsecondaryHit": "3[W] + Dexterity modifier damage, and the target cannot see you (save ends).",
+    "secondaryOnMiss": "Half damage."
+  },
+  "Mercurial Disguise": {
+    "id": "'11859",
+    "action": "Minor",
+    "powerClass": "Mercurial Assassin",
+    "frequency": "At-Will",
+    "level": "12",
+    "name": "Mercurial Disguise",
+    "type": "Assassin",
+    "sourceRef": "Dragon Magazine 385",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMercurial Disguise\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=11859\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Mercurial Assassin Utility 12</span>Mercurial Disguise</h1><p class=\\\"flavor\\\"><i>Your form ripples as if it were water disturbed by a stone, and your appearance changes.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Illusion</b>, <b>Polymorph</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You can assume the form of any Medium humanoid, and you disguise your clothing and equipment to reflect this change. You retain your statistics in your new form. The new form lasts until you change form again.<br/>Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 bonus to your check.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/385\\\" target=\\\"_new\\\">Dragon Magazine 385</a>, page(s) 7.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your form ripples as if it were water disturbed by a stone, and your appearance changes.",
+    "keywords": [
+      "Illusion, Polymorph"
+    ],
+    "range": "Personal",
+    "effect": "You can assume the form of any Medium humanoid, and you disguise your clothing and equipment to reflect this change. You retain your statistics in your new form. The new form lasts until you change form again.<br/>Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 bonus to your check."
+  }
+}

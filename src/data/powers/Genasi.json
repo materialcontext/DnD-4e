@@ -13,7 +13,7 @@
     "keywords": [
       "Fire"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy hits you with a melee attack",
     "target": "The triggering enemy",
     "attack": "Strength +2 vs. Reflex, Constitution +2 vs. Reflex, or Dexterity +2 vs. Reflex<br/>Increase to +4 bonus at 11th level, and to +6 at 21st level.",
@@ -34,7 +34,7 @@
     "keywords": [
       "&nbsp;&nbsp;Close burst 1</p><p class=\"powerstat\">Target: Enemies in the burst that are touching the ground</p><p class=\"powerstat\">Attack: Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Enemies in the burst that are touching the ground",
     "attack": "Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude<br/>Increase to +4 bonus at 11th level, and to +6 bonus at 21st level.",
     "onHit": "The target is knocked prone",
@@ -54,7 +54,7 @@
     "keywords": [
       "Lightning, Thunder"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you deal 1d8 extra damage when you hit with a thunder attack or a lightning attack.<br/>At 11th level, increase your extra damage to 2d8. At 21st level, increase your extra damage to 3d8."
   },
   "Swiftcurrent": {
@@ -71,7 +71,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you."
   },
   "Windwalker": {
@@ -88,7 +88,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage."
   },
   "Acid Surge": {
@@ -105,7 +105,7 @@
     "keywords": [
       "Acid"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift half your speed over ground or liquid terrain and through squares occupied by enemies. You must end your movement in an unoccupied square. You make the attack against each creature whose space you enter.",
     "attack": "Strength + 3 vs. Reflex, Constitution + 3 vs. Reflex, or Dexterity + 3 vs. Reflex<br/>Level 11: The bonus on the attack increases to + 6<br/>Level 21: The bonus on the attack increases to + 9",
     "onHit": "1d8 + Strength, Constitution, or Dexterity modifier acid damage.<br/>Level 11: 2d8 + Strength, Constitution, or Dexterity modifier acid damage.<br/>Level 21: 3d8 + Strength, Constitution, or Dexterity modifier acid damage."
@@ -124,7 +124,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage</p><p class=\"flavor\">Effect: All damage dice rolled for the triggering attack are considered to have a result of 1.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage",
     "effect": "All damage dice rolled for the triggering attack are considered to have a result of 1."
   },
@@ -142,7 +142,7 @@
     "keywords": [
       "Poison"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, any creature that starts its turn adjacent to you takes 5 poison damage.<br/>Level 11: 10 poison damage.<br/>Level 21: 15 poison damage."
   },
   "Void Assumption": {
@@ -159,7 +159,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left."
   },
   "Ashfall Evasion": {
@@ -176,7 +176,7 @@
     "keywords": [
       "Fire, Polymorph, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "You take damage from an attack.",
     "effect": "The burst creates a zone that lasts until the start of your next turn, and you are removed from play until the zone ends. The zone is lightly obscured, and any enemy that ends its turn in the zone takes fire damage equal to your Intelligence, Wisdom, or Charisma modifier (your choice). When you return to play, you do so in an unoccupied square of your choice that was in the zone."
   },
@@ -194,7 +194,7 @@
     "keywords": [
       "Aura, Fire, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a molten form until the end of your next turn. While in this form, you are slowed, you are immune to fire, and you cannot be pulled, pushed, or slid unless you choose to be. In addition, you create an aura 1 that lasts as long as the form does. Any creature that ends its turn in the aura takes fire damage equal to your Strength, Constitution, or Dexterity modifier (your choice). <br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: A creature that ends its turn in the aura takes 3 + Strength, Constitution, or Dexterity modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: A creature that ends its turn in the aura takes 6 + Strength, Constitution, or Dexterity modifier fire damage."
   },
   "Sandslide": {
@@ -211,7 +211,7 @@
     "keywords": [
       "Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of living sand until the start of your next turn. While in this form, you are insubstantial, can enter enemies’ squares without provoking opportunity attacks, and can squeeze through any opening large enough to permit a single grain of sand."
   },
   "Sun Flare": {
@@ -228,7 +228,7 @@
     "keywords": [
       "Fire, Radiant"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "You are hit by an attack while bloodied.",
     "target": "Each creature in the burst",
     "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",

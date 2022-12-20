@@ -13,7 +13,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One enemy you can see in the burst",
     "effect": "You subject the target to your shroud. If any of your shrouds are already on the target, you subject it to an additional shroud, up to a maximum of four. The shrouds last until you use this power against a different enemy or until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Before you make an attack roll against the target, you choose to invoke either all your shrouds on it or none of them. If you invoke your shrouds, the attack deals 1d6 damage per shroud, minus one shroud if the attack misses, and all your shrouds then vanish from the target. This damage roll never benefits from bonuses to damage rolls, and is in addition to the attack’s damage, if any.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 1d6 + 3 damage per shroud.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 1d6 + 6 damage per shroud.",
     "special": "You can use this power only on your turn and only once per turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be adjacent to a creature.",
     "effect": "You teleport 3 squares to a square adjacent to a different creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Teleport 4 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Teleport 5 squares."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a shadowy form that lasts until you make an attack roll or until the end of your next turn. While in this form, you are insubstantial, and you gain vulnerable 5 radiant. In addition, you can make Stealth checks to become hidden if you have any cover or concealment, and you can use cover granted by your allies both to become hidden and to remain hidden.",
     "sustainMinor": "The form persists."
   },
@@ -68,7 +68,7 @@
     "keywords": [
       "Force, Implement, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d6 + Dexterity modifier force damage, and you pull the target 2 squares. The target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Dexterity modifier force damage."
@@ -87,7 +87,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon +2 reach<",
+    "range": "Melee weapon +2 reach",
     "target": "One creature",
     "attack": "Dexterity vs. AC. The attack ignores cover and superior cover.",
     "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
@@ -106,7 +106,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage. If you didn’t invoke your shrouds on the target, it takes 1 extra damage for each of your shrouds on it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage, and 2 extra damage for each of your shrouds on the target."
@@ -125,7 +125,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "1[W] + Dexterity modifier damage, plus 1 damage for each creature adjacent to the target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage, plus 2 damage for each creature adjacent to the target."
@@ -144,7 +144,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. Until the end of your next turn, you are invisible while within 2 squares of the target."
@@ -163,7 +163,7 @@
     "keywords": [
       "Fear, Implement, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "2d8 + Dexterity modifier psychic damage, and the target grants combat advantage to you until the end of your next turn.",
@@ -183,7 +183,7 @@
     "keywords": [
       "Cold, Implement, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex. Make three attack rolls. If any of them hit, resolve them as a single hit, and all of them must miss for the attack to miss.",
     "onHit": "1d8 cold damage if one of the attack rolls hits, 2d8 cold damage if two hit, or 3d8 cold damage if three hit."
@@ -202,7 +202,7 @@
     "keywords": [
       "Illusion, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and the target is slowed until the end of your next turn.",
@@ -222,7 +222,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and ongoing 5 damage (save ends). Whenever the target takes this ongoing damage, the target falls prone.",
@@ -243,7 +243,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1[W] + Dexterity modifier damage, and the target takes ongoing 5 damage and is immobilized (save ends both).",
@@ -264,7 +264,7 @@
     "keywords": [
       "Cold, Implement, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3d8 + Dexterity modifier cold damage.",
@@ -285,7 +285,7 @@
     "keywords": [
       "Fear, Implement, Psychic, Shadow"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "primaryTarget": "One creature adjacent to you in the blast",
     "attack": "Dexterity vs. Will",
     "onHit": "2d8 + Dexterity modifier psychic damage, and the primary target is immobilized (save ends).",
@@ -310,7 +310,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you both gain darkvision and douse one light source that is within 10 squares of you and no larger than a lantern."
   },
   "Cloak of Shades": {
@@ -327,7 +327,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain concealment against all creatures and are invisible to creatures that are more than 5 squares away from you."
   },
   "Lurking Shadow": {
@@ -344,7 +344,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be in dim light or darkness.",
     "effect": "You become invisible and silent until the end of your next turn, until you move more than 2 squares on your turn, or until you enter a square of bright light. If a creature tries to enter your space before the effect ends, you can either shift 1 square as a free action or remain where you are. If you remain where you are, the effect ends.",
     "sustainStandard": "The effect persists."
@@ -363,7 +363,7 @@
     "keywords": [
       "Shadow, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, allies within 5 squares of you can use your Stealth modifier for their Stealth checks."
   },
   "Army of the Night": {
@@ -380,7 +380,7 @@
     "keywords": [
       "Fear, Illusion, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "1[W] + Dexterity modifier damage. Until the end of your next turn, the target makes a melee basic attack as an opportunity action against any enemy that ends its turn adjacent to the target.",
@@ -400,7 +400,7 @@
     "keywords": [
       "Cold, Implement, Shadow"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier cold damage.",
@@ -420,7 +420,7 @@
     "keywords": [
       "Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "Before the attack, you teleport 5 squares to a square adjacent to your assassin’s shroud target.",
     "target": "Your assassin’s shroud target",
     "attack": "Dexterity vs. AC",
@@ -440,7 +440,7 @@
     "keywords": [
       "Fear, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2[W] + Dexterity modifier damage, and you slide the target 2 squares. Until the end of your next turn, you can slide the target 1 square as a free action whenever the target is hit.",
@@ -460,7 +460,7 @@
     "keywords": [
       "Poison, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and ongoing 5 poison damage (save ends). Whenever the target takes this ongoing damage, each enemy within 2 squares of it takes 5 poison damage.",
@@ -480,7 +480,7 @@
     "keywords": [
       "Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage.",
@@ -502,7 +502,7 @@
     "keywords": [
       "Implement, Psychic, Shadow"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Will",
     "onHit": "2d6 + Dexterity modifier psychic damage, and the target grants combat advantage (save ends). Until the target saves against this effect, enemies grant combat advantage while adjacent to the target.",
@@ -522,7 +522,7 @@
     "keywords": [
       "Conjuration, Implement, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3 damage, or 6 damage if the secondary target is your assassin’s shroud target.",
@@ -544,7 +544,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be hidden.",
     "effect": "You move your speed. You remain hidden from each enemy against which you have cover, superior cover, concealment, or total concealment at the end of the movement."
   },
@@ -562,7 +562,7 @@
     "keywords": [
       "Illusion, Shadow, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of your next turn. You have concealment while you are within the zone. When you leave the zone, you become invisible until the end of your turn."
   },
   "Slayer's Escape": {
@@ -579,7 +579,7 @@
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You teleport 5 squares, and you become invisible until the start of your next turn."
   },
@@ -597,7 +597,7 @@
     "keywords": [
       "Shadow, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can shift 1 square as a minor action."
   },
   "Captured Shadow": {
@@ -614,7 +614,7 @@
     "keywords": [
       "Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. Once before the end of your next turn, you can use a free action to teleport the target to a square adjacent to you. That square cannot be hindering terrain."
@@ -633,7 +633,7 @@
     "keywords": [
       "Implement, Psychic, Shadow, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "1d10 + Dexterity modifier psychic damage. At the end of its next turn, the target takes 10 psychic damage if any creatures are within 2 squares of it.",
@@ -653,7 +653,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage, and you shift 1 square into the target’s space and remain there until the start of your next turn. While there, you are insubstantial, you move with the target (this movement doesn’t provoke opportunity attacks), and any melee or ranged attack that misses you hits the target instead, unless the target is the attacker. At the start of your next turn, you slide 1 square to a square adjacent to the target."
@@ -672,7 +672,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Your assassin’s shroud target",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage. Until the end of your next turn, you can use your assassin’s shroud against the target whenever you are hit.",
@@ -692,7 +692,7 @@
     "keywords": [
       "Implement, Reliable, Shadow"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "You grab the target. Until the grab ends, the target takes a –5 penalty to all escape attempts and a –2 penalty to attack rolls against you. When the grab ends, the target takes 1d10 + your Dexterity modifier damage.",
@@ -713,7 +713,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2[W] + Dexterity modifier damage.",
@@ -734,7 +734,7 @@
     "keywords": [
       "Illusion, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -755,7 +755,7 @@
     "keywords": [
       "Cold, Conjuration, Implement, Shadow, Teleportation"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You conjure a wall of darkness that lasts until the end of your next turn. The wall can be up to 2 squares high, and it blocks line of sight for creatures other than you. Any creature that enters the wall or starts its turn there takes 1d6 + your Dexterity modifier cold damage (a creature can take this damage only once per turn). If you are in the wall or adjacent to it, you can use a move action to teleport to another square in the wall or adjacent to it.",
     "sustainMinor": "The wall persists."
   },
@@ -773,7 +773,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 6 squares, and you gain phasing during the shift."
   },
   "Promise of Retribution": {
@@ -790,7 +790,7 @@
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you",
     "target": "The triggering enemy",
     "effect": "You teleport 10 squares. Once before the end of the encounter, you can use a move action to teleport to a square adjacent to the target. When you do so, you gain a +2 power bonus to attack rolls against the target and a +5 power bonus to damage rolls against it until the end of your turn."
@@ -809,7 +809,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll initiative",
     "effect": "You gain a +4 power bonus to your next damage roll. In addition, you become invisible and silent until you hit an enemy or until the end of the encounter. After hitting the enemy, you remain invisible and silent until the end of your next turn."
   },
@@ -827,7 +827,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The first time an enemy takes damage from your assassin’s shroud before the end of your next turn, you gain 5 temporary hit points for each shroud on that enemy."
   },
   "Dark Step Ambush": {
@@ -844,7 +844,7 @@
     "keywords": [
       "Illusion, Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "Before the attack, you teleport 5 squares to a square adjacent to your assassin’s shroud target.",
     "target": "Your assassin's shroud target",
     "attack": "Dexterity vs. AC",
@@ -864,7 +864,7 @@
     "keywords": [
       "Implement, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "Before the attack, you fly your speed to a square adjacent to an enemy. This movement doesn’t provoke opportunity attacks.",
     "target": "One enemy",
     "attack": "Dexterity vs. Reflex. Make three attack rolls. If any of them hit, resolve them as a single hit, and all of them must miss for the attack to miss.",
@@ -884,7 +884,7 @@
     "keywords": [
       "Fear, Implement, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "1d10 + Dexterity modifier psychic damage, and the target is blinded until the end of your next turn. Until this blindness ends, you can use an opportunity action to compel the target to make a melee basic attack as a free action against any enemy that enters a square adjacent to the target. The target makes the attack without the penalty to attack rolls from being blinded.",
@@ -904,7 +904,7 @@
     "keywords": [
       "Cold, Implement, Shadow, Teleportation"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier cold damage, and you pull the target 2 squares.",
@@ -925,7 +925,7 @@
     "keywords": [
       "Conjuration, Force, Implement, Shadow, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "4d6 + Dexterity modifier force damage.",
@@ -946,7 +946,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -967,7 +967,7 @@
     "keywords": [
       "Poison, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier poison damage.",
@@ -988,7 +988,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. Until the end of the encounter, you gain a +2 power bonus to attack rolls against the target, and you can make melee attacks against the target even when it is beyond your melee reach.",
@@ -1008,7 +1008,7 @@
     "keywords": [
       "Illusion, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "Your assassin’s shroud target hits you",
     "effect": "You gain a +2 power bonus to all defenses against the triggering enemy’s attack. After the attack is resolved, you become invisible until the end of your next turn."
   },
@@ -1026,7 +1026,7 @@
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you",
     "effect": "You take half damage from the attack. At the end of the triggering enemy’s current turn, you can use a free action to teleport to a square adjacent to it."
   },
@@ -1044,7 +1044,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift 2 squares. Until the start of your next turn, enemies cannot attack you, and they have neither line of sight nor line of effect to you."
   },
   "Thief of Names": {
@@ -1061,7 +1061,7 @@
     "keywords": [
       "Illusion, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose a Medium or smaller humanoid creature that you have seen. You become an illusory duplicate of that creature, though you still carry your own gear. This illusion lasts until you end it as a free action or until your next extended rest. You gain a +5 power bonus to Bluff checks to convince others that you are the creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you take damage from a melee or a ranged attack while you are adjacent to the creature, you take only half damage, and the creature takes the same amount of damage. You gain this benefit neither against the creature’s attacks nor against attacks that target both of you."
   },
   "Mob of Shadows": {
@@ -1078,7 +1078,7 @@
     "keywords": [
       "Shadow, Weapon, Zone"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2[W] + Dexterity modifier damage. The attack creates a zone that fills the squares adjacent to the target. The zone lasts until the end of your next turn. When any enemy enters the zone, you can use an opportunity action to deal damage to that enemy equal to your Dexterity modifier. If you do so, that enemy is slowed until the end of your next turn.",
@@ -1098,7 +1098,7 @@
     "keywords": [
       "Fire, Illusion, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. Make three attack rolls. If any of them hit, resolve them as a single hit, and all of them must miss for the attack to miss.",
     "onHit": "1[W] + Dexterity modifier fire damage if one of the attack rolls hits, 2[W] + Dexterity modifier fire damage if two hit, and 3[W] + Dexterity modifier fire damage if three hit. In addition, you become invisible until the end of your next turn."
@@ -1117,7 +1117,7 @@
     "keywords": [
       "Fear, Implement, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3d10 + Dexterity modifier psychic damage, and the target cannot attack you until the end of your next turn.",
@@ -1137,7 +1137,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. During the target’s next turn, the target falls prone after moving without shifting or after making a ranged or an area attack."
@@ -1156,7 +1156,7 @@
     "keywords": [
       "Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -1178,7 +1178,7 @@
     "keywords": [
       "Reliable, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Your assassin's shroud target",
     "attack": "Dexterity vs. AC",
     "onHit": "5[W] + Dexterity modifier damage.",
@@ -1198,7 +1198,7 @@
     "keywords": [
       "Conjuration, Implement, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "You conjure three shadowy duplicates of yourself in 3 unoccupied squares in the burst. The duplicates occupy their spaces, and they last until the end of your next turn. Whenever you use a move action, you can also move each duplicate 5 squares. You can flank enemies with the duplicates, but your allies cannot. Any enemy that starts its turn adjacent to one or more of the duplicates takes 5 damage.",
     "sustainMinor": "The duplicates persist, and each one makes the following melee attack against a different creature.",
     "target": "One creature adjacent to the duplicate",
@@ -1219,7 +1219,7 @@
     "keywords": [
       "Illusion, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "4[W] + Dexterity modifier damage.",
@@ -1240,7 +1240,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you ignore penalties to your attack rolls and damage rolls, and you ignore the weakened condition and your targets’ resistances."
   },
   "Claim the Dead": {
@@ -1257,7 +1257,7 @@
     "keywords": [
       "Healing, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You reduce your assassin’s shroud target to 0 hit points on your turn",
     "effect": "You can spend a healing surge and regain 15 additional hit points. In addition, you gain an extra move action that you can use during either this turn or your next turn."
   },
@@ -1275,7 +1275,7 @@
     "keywords": [
       "Illusion, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become invisible until the end of your next turn.",
     "sustainMinor": "The invisibility persists."
   },
@@ -1293,7 +1293,7 @@
     "keywords": [
       "Healing, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop to 0 hit points or fewer",
     "effect": "You regain hit points as if you had spent a healing surge. In addition, you use your assassin’s shroud up to four times against an enemy you can see."
   },
@@ -1311,7 +1311,7 @@
     "keywords": [
       "Fear, Psychic, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3[W] + Dexterity modifier psychic damage. Until the end of your next turn, you can slide the target 3 squares as a free action when any creature ends its turn adjacent to the target.",
@@ -1331,7 +1331,7 @@
     "keywords": [
       "Implement, Poison, Shadow"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Fortitude. If the target is your assassin’s shroud target, you gain a +2 bonus to the attack roll.",
     "onHit": "3d8 + Dexterity modifier poison damage."
@@ -1350,7 +1350,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. The next time you are subjected to an effect that a save can end before the end of your next turn, the target is also subjected to that effect.",
@@ -1370,7 +1370,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "effect": "Before the attack, you fly your speed + 4, and you gain phasing and become insubstantial during the movement.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -1390,7 +1390,7 @@
     "keywords": [
       "Reliable, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC. You can score a critical hit on a roll of 18–20. After making the attack roll, you can turn the attack into a miss.",
     "onHit": "6[W] + Dexterity modifier damage."
@@ -1409,7 +1409,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "5[W] + Dexterity modifier damage.",
@@ -1431,7 +1431,7 @@
     "keywords": [
       "Implement, Necrotic, Shadow"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "Ongoing 25 necrotic damage (save ends).",
@@ -1453,7 +1453,7 @@
     "keywords": [
       "Conjuration, Implement, Necrotic, Shadow"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You conjure a wall of darkness that lasts until the end of your next turn. The wall can be up to 4 squares high, and it blocks line of sight for creatures other than you. Any enemy that starts its turn in the wall or adjacent to it takes 15 necrotic damage, plus 5 damage for each of your shrouds on that enemy. Whenever a creature drops to 0 hit points or fewer within 5 squares of the wall, the wall’s length can increase by 2 squares.",
     "sustainMinor": "The wall persists."
   },
@@ -1471,7 +1471,7 @@
     "keywords": [
       "Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "Before the attack, you teleport 20 squares to a square adjacent to your assassin’s shroud target. This teleportation does not require line of sight.",
     "target": "Your assassin’s shroud target",
     "attack": "Dexterity vs. Reflex",
@@ -1491,7 +1491,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "Your assassin’s shroud target",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage.",
@@ -1511,7 +1511,7 @@
     "keywords": [
       "Fear, Implement, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3d10 + Dexterity modifier psychic damage, and the target is immobilized until the end of your next turn. In addition, you slide each enemy within 5 squares of the target 1 square.",
@@ -1531,7 +1531,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "3[W] + Dexterity modifier damage. Until the end of your next turn, the target takes 3 damage each time it takes any action other than a free action.",
@@ -1551,7 +1551,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "7[W] + Dexterity modifier damage.",
@@ -1572,7 +1572,7 @@
     "keywords": [
       "Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One enemy that has four of your shrouds on it",
     "attack": "Dexterity vs. Reflex",
     "onHit": "Damage equal to your bloodied value, or twice that if the target is helpless.",
@@ -1592,7 +1592,7 @@
     "keywords": [
       "Charm, Implement, Psychic, Shadow"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "4d8 + Dexterity modifier psychic damage, and the target is dominated (save ends). Until the target saves against this effect, when any enemy leaves a square adjacent to the target or makes a ranged attack while adjacent to it, you can use an opportunity action to compel the target to make a melee basic attack as a free action against that enemy.",
@@ -1612,7 +1612,7 @@
     "keywords": [
       "Poison, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2[W] + Dexterity modifier damage, and the target is weakened (save ends) and takes ongoing 15 poison damage (save ends).",
@@ -1687,7 +1687,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are targeted by a melee or ranged attack",
     "effect": "You gain concealment until the end of your next turn. If the Triggering attack misses, you can make a Stealth check to hide."
   },
@@ -1705,7 +1705,7 @@
     "keywords": [
       "Shadow, Teleportation, Zone"
     ],
-    "range": "Area burst 1 within 5 squares<",
+    "range": "Area burst 1 within 5 squares",
     "effect": "After the Triggering attack is resolved, teleport 5 squares into an unoccupied square adjacent to or inside the zone.",
     "sustainMinor": "The zone persists.",
     "requirement": "The power Darkening Veil must be active in order to use this power.",
@@ -1725,7 +1725,7 @@
     "keywords": [
       "Fear, Implement, Necrotic, Shadow"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Will",
     "onHit": "2d6 + Dexterity modifier necrotic damage. Until the end of your next turn, the target cannot take opportunity actions, and you can slide the target 1 square as a free action each time it takes damage.",
@@ -1745,7 +1745,7 @@
     "keywords": [
       "Conjuration, Shadow, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
     "special": "If you are hidden from the target, you can teleport 2 squares to a square adjacent to the target before the attack.",
@@ -1767,7 +1767,7 @@
     "keywords": [
       "Conjuration, Shadow, Teleportation"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "You teleport to a square that one gloaming you can see is in and become invisible until the start of your next turn. That gloaming is consumed.",
     "requirement": "The power Gloaming Call must be active in order to use this power.",
     "trigger": "You take damage from an attack"
@@ -1786,7 +1786,7 @@
     "keywords": [
       "Shadow, Teleportation, Weapon, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "Before the attack, you can shift 1 square.",
     "requirement": "The power Shadow Knives must be active in order to use this power.",
     "trigger": "An enemy starts its turn within the zone",
@@ -1810,7 +1810,7 @@
     "keywords": [
       "Fear, Implement, Psychic, Shadow, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon a Medium murderous shadow in a square adjacent to one enemy in range. The murderous shadow has the adjacent enemy’s speed and all its movement modes. The shadow also has insubstantial, phasing, and vulnerable 5 radiant. You can give the murderous shadow the following special commands.",
     "standardAction": "The shadow teleports 5 squares and makes the following attack at the end of this movement: close burst 1 (creatures in the burst); Dexterity vs. Will; 1d6 + Dexterity modifier psychic damage, and the shade slides the target 1 square.",
     "instinctiveEffect": "If you haven’t given the shadow any commands by the end of your turn, it uses its first attack against a random creature adjacent to it."
@@ -1829,7 +1829,7 @@
     "keywords": [
       "Shadow, Stance, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You enter the stance of the twilight dance. Until the stance ends, add 2 to the number of squares you teleport using shadow step. In addition, whenever you miss your assassin’s shroud target with an attack in which you invoked your shrouds, you become invisible until the start of your next turn."
   },
   "Garrote Strangle": {
@@ -1846,7 +1846,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a garrote.",
     "effect": "You shift up to 2 squares before the attack.",
     "target": "One creature you are hidden from",
@@ -1868,7 +1868,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -1889,7 +1889,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "You shift 1 square before the attack.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -1909,7 +1909,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must use this power with a bola.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -1929,7 +1929,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must use this power with a blowgun.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -1950,7 +1950,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged 1<",
+    "range": "Ranged 1",
     "requirement": "You must use this power with a hand crossbow.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -1972,7 +1972,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit a creature within 5 squares of you with an attack using a weapon.",
     "target": "The creature you hit",
     "effect": "The target takes 1d10 extra damage from the triggering attack. If the target is helpless, this damage is maximized.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 3: 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 7: 3d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 4d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 5d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 6d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 7d10 extra damage.",
@@ -1992,7 +1992,7 @@
     "keywords": [
       "Illusion, Shadow"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "You create the illusion of a Medium creature of your choice in an unoccupied square in the burst. The illusion is silent but moves and acts as though it was the creature it appears to be. Creatures that closely examine the illusion can make an Insight check to discover the illusion for what it really is. The check is opposed by a Bluff check that you make when you create the illusion. The illusion lasts until the end of your next turn.",
     "sustainMinor": "The illusion persists until the end of your next turn, and you can move it up to 6 squares."
   },
@@ -2010,7 +2010,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be hidden.",
     "effect": "You move up to your speed to a square within 2 squares of an enemy. You remain hidden until the end of this turn or until you make an attack."
   },
@@ -2028,7 +2028,7 @@
     "keywords": [
       "Shadow, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone of lightly obscured squares that lasts until the end of the encounter."
   },
   "Ghost of the Rooftops": {
@@ -2045,7 +2045,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You climb or make a long jump, moving a number of squares up to your speed, without making an Athletics check.",
     "special": "You can use this power only once per round."
   },
@@ -2063,7 +2063,7 @@
     "keywords": [
       "Shadow, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of your next turn. To creatures other than you, the zone is totally obscured and blocks line of sight.",
     "sustainMinor": "The zone persists until the end of your next turn. You must be in the zone to sustain it."
   },
@@ -2081,7 +2081,7 @@
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack.",
     "effect": "You become invisible until the start of your next turn, and you teleport up to your speed."
   },
@@ -2099,7 +2099,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have a hand free and use this power with a light blade.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -2120,7 +2120,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One creature in the burst",
     "effect": "Until the end of your next extended rest, you always know the direction and approximate distance to the target. In addition, the target cannot become invisible to you."
   },
@@ -2138,7 +2138,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose a square within 5 squares of you, even a square on the other side of blocking terrain. Until the end of your next turn, you can see and hear from that square, as well as from your own."
   },
   "Walk Through Shadow": {
@@ -2155,7 +2155,7 @@
     "keywords": [
       "Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport up to 5 squares. You do not need line of sight to the destination space. If you try to teleport into a space that you cannot occupy, the teleportation is negated."
   },
   "Untraceable Step": {
@@ -2172,7 +2172,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become invisible and move up to your speed. You remain invisible until the end of your next turn."
   },
   "Shadow Coffin": {
@@ -2189,7 +2189,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You kill an adjacent creature and don’t already have a corpse trapped by this power.",
     "target": "The creature’s corpse",
     "effect": "The target disappears and is trapped in a nonmagical object of your choice on your person (such as a handheld mirror, a small gem, or a piece of jewelry). The target remains trapped until you release it or until the object is destroyed. To release the target into an adjacent square, you must hold the object and concentrate for 1 minute."
@@ -2208,7 +2208,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You are phasing until the end of the encounter."
   },
   "Assassin's Strike (Hybrid)": {
@@ -2225,7 +2225,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You hit a creature within 5 squares of you with an attack using a weapon.",
     "target": "The creature you hit",
     "effect": "The target takes 1d10 extra damage from the triggering attack. If the target is helpless, this damage is maximized.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d10 extra damage.",
@@ -2245,7 +2245,7 @@
     "keywords": [
       "Fire, Necrotic, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a dark, fiery form that lasts until you make an attack roll or until the end of your next turn. While in this form, you gain resist 5 to all damage, and any creature that hits you with a melee attack takes 5 fire and necrotic damage. When you assume this form, you can use your assassin’s shroud power once as part of the same action. This use of assassin’s shroud does not count against the limit on the number of times per round you can use that power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The resistance and damage increase to 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The resistance and damage increase to 15.",
     "sustainMinor": "The form persists until the end of your next turn."
   },
@@ -2263,7 +2263,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a short sword.",
     "target": "One creature",
     "attack": "Dexterity vs. AC. If you have jumped, fallen, or flown this turn, you gain combat advantage against the target for this attack.",
@@ -2284,7 +2284,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "requirement": "You must use this power with shuriken.",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. AC",
@@ -2305,7 +2305,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must use this power with a kusari-gama.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -2328,7 +2328,7 @@
     "keywords": [
       "Shadow, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "An enemy enters a square adjacent to you.",
     "effect": "The burst creates a lightly obscured zone that lasts until the end of your next turn. You can then shift up to your speed."
   },
@@ -2346,7 +2346,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the start of your next turn, you float an inch above the ground. You ignore difficult terrain and can both move across liquid and stand on it as if it were solid ground."
   },
   "Veil of a Thousand Faces": {
@@ -2363,7 +2363,7 @@
     "keywords": [
       "Illusion, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must have the Flawless Disguise class feature.",
     "effect": "You craft a new disguise. You gain a +2 power bonus to the Bluff checks made to prevent detection."
   },
@@ -2381,7 +2381,7 @@
     "keywords": [
       "Illusion, Implement, Psychic, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "2d10 + Dexterity modifier psychic damage.",

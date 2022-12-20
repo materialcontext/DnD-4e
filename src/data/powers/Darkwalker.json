@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier necrotic damage, and you become insubstantial until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "4d10 + Charisma modifier psychic and necrotic damage, and ongoing 10 psychic and necrotic damage (save ends).",
@@ -52,7 +52,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Use this power when your use your Darkspiral Aura. You become insubstantial until the end of your next turn."
   }
 }

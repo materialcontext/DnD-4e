@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Charm, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One enemy adjacent to your quasit companion",
     "attack": "Intelligence or Charisma vs. Will",
     "onHit": "You slide the target up to a number of squares equal to its speed. The target then makes a melee basic attack as a free action against a creature you choose. The target has combat advantage for the attack and a +4 power bonus to the damage roll. If the attack misses, the attacker is dazed until the end of its next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Arcane, Implement, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence or Charisma vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier or Charisma modifier damage, and the target falls prone.",
@@ -53,7 +53,7 @@
     "keywords": [
       "Arcane, Fear"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "An enemy that can see you hits you while within 3 squares of you.",
     "target": "The triggering enemy in the burst",
     "effect": "The target takes a -4 penalty to the attack roll and grants combat advantage to you until the end of your next turn."

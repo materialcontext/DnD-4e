@@ -13,7 +13,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. Fortitude (melee) or Dexterity vs. AC (ranged)",
     "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier (ranged). You can also deal +1[W], or the target cannot fly until the end of your next turn. If the target is flying when it loses the ability to fly, it falls."
@@ -32,7 +32,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy targets you with a close or area attack.</p><p class=\"flavor\">Effect: You shift a number of squares equal to your speed.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy targets you with a close or area attack.",
     "effect": "You shift a number of squares equal to your speed."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
     "onHit": "3[W] + Strength modifier damage (melee) or 3[W] + Dexterity modifier (ranged). In addition, your next attack that hits the target, if it occurs before the end of your next turn, deals +3[W] damage."

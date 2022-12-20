@@ -32,7 +32,7 @@
     "keywords": [
       "Fear, Implement, Psionic, Psychic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large Far Realm abomination in unoccupied squares within range. The abomination has speed 5. Any enemy not immune to fear that starts its turn within 3 squares of the abomination takes a -2 penalty to attack rolls until the start of the enemy’s next turn. You can give the abomination the following special commands.",
     "standardAction": "Melee 2; targets a creature grabbed by the abomination; Intelligence vs. Fortitude; 5d6 + Intelligence modifier damage, and the target is knocked prone.",
     "instinctiveEffect": "If you haven’t given the abomination any commands by the end of your turn, it makes the following attack: Close burst 3; targets each creature in the burst; Intelligence vs. Will; 1d12 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn."
@@ -51,7 +51,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You regain 2 power points. Until the end of the encounter, you take a -2 penalty to all defenses."
   }
 }

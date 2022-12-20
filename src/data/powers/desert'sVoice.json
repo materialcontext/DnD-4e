@@ -1,0 +1,61 @@
+{
+  "Wrath of the Ravaged": {
+    "id": "'14077",
+    "action": "Standard",
+    "powerClass": "Desert's Voice",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Wrath of the Ravaged",
+    "type": "",
+    "sourceRef": "Dragon Magazine 396",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWrath of the Ravaged\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14077\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Desert's Voice Attack 11</span>Wrath of the Ravaged</h1><p class=\\\"flavor\\\"><i>You release the vengeful spirits in punishing wind, abrading sand, boiling rock, and suffocating ash.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Constitution, or Intelligence vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d6 + Strength, Constitution, or Intelligence modifier damage. You push the target up to 5 squares, and it takes a -2 penalty to attack rolls until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/396\\\" target=\\\"_new\\\">Dragon Magazine 396</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You release the vengeful spirits in punishing wind, abrading sand, boiling rock, and suffocating ash.",
+    "keywords": [
+      "Implement, Primal"
+    ],
+    "range": "Close blast 5",
+    "target": "Each creature in the blast",
+    "attack": "Strength, Constitution, or Intelligence vs. Fortitude",
+    "onHit": "2d6 + Strength, Constitution, or Intelligence modifier damage. You push the target up to 5 squares, and it takes a -2 penalty to attack rolls until the end of your next turn."
+  },
+  "Cataclysm": {
+    "id": "'14078",
+    "action": "Minor",
+    "powerClass": "Desert's Voice",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Cataclysm",
+    "type": "",
+    "sourceRef": "Dragon Magazine 396",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCataclysm\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14078\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Desert's Voice Attack 20</span>Cataclysm</h1><p class=\\\"flavor\\\"><i>The spirits answer your cry and they surge from the broken landscape to bring elemental death to your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Zone</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b>  burst 2 within 20 squares</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a zone that lasts until the end of your next turn. The zone is difficult terrain and lightly obscured. Any creature that ends its turn in the zone takes 5 damage. While the zone remains, you can use the secondary power at will.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The zone persists until the end of your next turn.</p><br/><h1 class=\\\"dailypower\\\"><span class=\\\"level\\\"></span>Cataclysm Secondary Power</h1><p class=\\\"powerstat\\\"><b>Daily</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Area</b> burst 2 centered on the zone’s origin square</p><p class=\\\"flavor\\\"><b>Requirement</b>: The power Cataclysm must be active in order to use this power.</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength, Constitution, or Intelligence vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Strength, Constitution, or Intelligence modifier damage. In addition, the target is slowed and takes ongoing 10 damage (save ends both).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/396\\\" target=\\\"_new\\\">Dragon Magazine 396</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "The spirits answer your cry and they surge from the broken landscape to bring elemental death to your foes.",
+    "keywords": [
+      "Primal, Zone"
+    ],
+    "range": "Area  burst 2 within 20 squares",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. The zone is difficult terrain and lightly obscured. Any creature that ends its turn in the zone takes 5 damage. While the zone remains, you can use the secondary power at will.",
+    "sustainMinor": "The zone persists until the end of your next turn.",
+    "requirement": "The power Cataclysm must be active in order to use this power.",
+    "target": "Each creature in the burst",
+    "attack": "Strength, Constitution, or Intelligence vs. Fortitude",
+    "onHit": "2d8 + Strength, Constitution, or Intelligence modifier damage. In addition, the target is slowed and takes ongoing 10 damage (save ends both)."
+  },
+  "Elemental Resurgence": {
+    "id": "'14080",
+    "action": "Minor",
+    "powerClass": "Desert's Voice",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Elemental Resurgence",
+    "type": "",
+    "sourceRef": "Dragon Magazine 396",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Resurgence\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=14080\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Desert's Voice Utility 12</span>Elemental Resurgence</h1><p class=\\\"flavor\\\"><i>Elemental energy responds to your agony and floods into you in a sudden rush of power.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be bloodied.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You gain 5 temporary hit points, and you regain the use of one genasi racial encounter power that you have already used during this encounter. <br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: You gain 10 temporary hit points.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/396\\\" target=\\\"_new\\\">Dragon Magazine 396</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Elemental energy responds to your agony and floods into you in a sudden rush of power.",
+    "keywords": [
+      "Primal"
+    ],
+    "range": "Personal",
+    "requirement": "You must be bloodied.",
+    "effect": "You gain 5 temporary hit points, and you regain the use of one genasi racial encounter power that you have already used during this encounter. <br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: You gain 10 temporary hit points."
+  }
+}

@@ -13,7 +13,7 @@
     "keywords": [
       "Elemental"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "You hit with a melee attack.",
     "target": "Each creature in the burst",
     "effect": "Each target takes 10 damage, and you can push it 1 square."
@@ -32,7 +32,7 @@
     "keywords": [
       "Elemental, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to one-half your level, and you assume the demonic stigmata form until the end of the encounter or until you end this effect as a minor action. While in this form, you gain the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Darkvision<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; An additional use of demonic resilience during this encounter<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Use of the secondary power once per round",
     "requirement": "You must have hit with a melee attack during this turn.",
     "target": "One creature",
@@ -53,7 +53,7 @@
     "keywords": [
       "Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are bloodied by an attack or are hit while bloodied.",
     "effect": "Reduce the damage from the triggering attack by 10. Until the end of your next turn, your melee attacks deal 1d6 extra damage."
   }

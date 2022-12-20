@@ -1,0 +1,58 @@
+{
+  "Surge of Poison": {
+    "id": "'16623",
+    "action": "No Action",
+    "powerClass": "Fang of Zehir",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Surge of Poison",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 415",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSurge of Poison\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16623\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Fang of Zehir Attack 11</span>Surge of Poison</h1><p class=\\\"flavor\\\"><i>As you whisper a prayer to Zehir, your attack is imbued with a debilitating poison that cripples your foe.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Poison</b>, <b>Shadow</b><br/><b>No Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Special</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You hit a creature with a melee attack.</p><p class=\\\"flavor\\\"><b>Effect</b>: The creature takes 2d10 extra poison damage from the attack and grants combat advantage until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/415\\\" target=\\\"_new\\\">Dragon Magazine 415</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "As you whisper a prayer to Zehir, your attack is imbued with a debilitating poison that cripples your foe.",
+    "keywords": [
+      "Divine, Poison, Shadow"
+    ],
+    "range": "Special",
+    "trigger": "You hit a creature with a melee attack.",
+    "effect": "The creature takes 2d10 extra poison damage from the attack and grants combat advantage until the end of your next turn."
+  },
+  "Fingers of Zehir": {
+    "id": "'16624",
+    "action": "Standard",
+    "powerClass": "Fang of Zehir",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Fingers of Zehir",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 415",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFingers of Zehir\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16624\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Fang of Zehir Attack 20</span>Fingers of Zehir</h1><p class=\\\"flavor\\\"><i>With shocking suddenness, your weapon transforms into a clutch of writhing serpents that lash out against your foes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Poison</b>, <b>Shadow</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close blast</b> 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the blast</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 3[W] + your highest ability modifier poison damage, and ongoing 10 poison damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/415\\\" target=\\\"_new\\\">Dragon Magazine 415</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "With shocking suddenness, your weapon transforms into a clutch of writhing serpents that lash out against your foes.",
+    "keywords": [
+      "Divine, Poison, Shadow, Weapon"
+    ],
+    "range": "Close blast 3",
+    "target": "Each enemy in the blast",
+    "attack": "Highest ability modifier vs. Fortitude",
+    "onHit": "3[W] + your highest ability modifier poison damage, and ongoing 10 poison damage (save ends).",
+    "onMiss": "Half damage."
+  },
+  "Shadow Serpent Form": {
+    "id": "'16625",
+    "action": "Minor",
+    "powerClass": "Fang of Zehir",
+    "frequency": "At-Will",
+    "level": "12",
+    "name": "Shadow Serpent Form",
+    "type": "of",
+    "sourceRef": "Dragon Magazine 415",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Serpent Form\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16625\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"atwillpower\\\"><span class=\\\"level\\\">Fang of Zehir Utility 12</span>Shadow Serpent Form</h1><p class=\\\"flavor\\\"><i>Zehir rewards your growing devotion by granting you the ability to become a living manifestation of his power.</i></p><p class=\\\"powerstat\\\"><b>At-Will</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Divine</b>, <b>Polymorph</b>, <b>Shadow</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You change from your humanoid form to the form of a shadow serpent or vice versa. When you change from serpent form to humanoid form, you can shift 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in serpent form, you retain your game statistics and size, you cannot attack, and you have darkvision and a +5 power bonus to Stealth checks, which you can make using any cover or concealment, including cover from your allies. Also, your movement imposes no penalty on your Stealth checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your equipment becomes part of this form, and you continue to gain the benefit of the equipment you wear, except shields and item powers. While equipment is part of your serpent form, it cannot be removed, and anything in a container that is part of your serpent form is inaccessible.</p><p class=\\\"powerstat\\\"><b>Special</b>: You can use this power only once per round.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/415\\\" target=\\\"_new\\\">Dragon Magazine 415</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Zehir rewards your growing devotion by granting you the ability to become a living manifestation of his power.",
+    "keywords": [
+      "Divine, Polymorph, Shadow"
+    ],
+    "range": "Personal",
+    "effect": "You change from your humanoid form to the form of a shadow serpent or vice versa. When you change from serpent form to humanoid form, you can shift 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in serpent form, you retain your game statistics and size, you cannot attack, and you have darkvision and a +5 power bonus to Stealth checks, which you can make using any cover or concealment, including cover from your allies. Also, your movement imposes no penalty on your Stealth checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your equipment becomes part of this form, and you continue to gain the benefit of the equipment you wear, except shields and item powers. While equipment is part of your serpent form, it cannot be removed, and anything in a container that is part of your serpent form is inaccessible.",
+    "special": "You can use this power only once per round."
+  }
+}

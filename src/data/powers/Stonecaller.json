@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Fortitude",
     "onHit": "3d6 + Wisdom modifier damage, and the target is knocked prone.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "You or an ally within 2 squares of you is bloodied, pulled, pushed, or slid by an enemy attack",
     "target": "The triggering character",
     "effect": "The target can use his or her second wind and isn’t subject to the forced movement, if any."
@@ -52,7 +52,7 @@
     "keywords": [
       "Conjuration, Divine, Implement, Necrotic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You conjure a black obelisk that fills an unoccupied square within range. The obelisk must be on a solid surface and is a 10-foot-high solid obstacle. It lasts until the end of your next turn. Any enemy that starts its turn adjacent to the obelisk is weakened until the start of its next turn. When the obelisk appears, it makes an attack that is a close burst 4.",
     "target": "One creature in the burst",
     "attack": "Wisdom vs. Will",

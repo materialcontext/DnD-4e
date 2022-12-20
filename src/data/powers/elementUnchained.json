@@ -1,0 +1,57 @@
+{
+  "Elemental Eruption": {
+    "id": "'13476",
+    "action": "Standard",
+    "powerClass": "Element Unchained",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Elemental Eruption",
+    "type": "Unchained",
+    "sourceRef": "Dragon Magazine 391",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Eruption\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13476\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Element Unchained Attack 11</span>Elemental Eruption</h1><p class=\\\"flavor\\\"><i>You disappear into a burst of energy and reform elsewhere.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Acid</b>, <b>Cold</b>, <b>Fire</b>, <b>Lightning</b>, <b>Poison</b>, <b>Psychic</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each creature in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability + 6 vs. Reflex<br/>Level 21: Primary ability + 9 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + primary ability modifier acid, cold, fire, lightning, poison, and psychic damage.</p><p class=\\\"powerstat\\\"><b>Effect</b>: You teleport to any square in the burst or any square adjacent to the burst.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/391\\\" target=\\\"_new\\\">Dragon Magazine 391</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You disappear into a burst of energy and reform elsewhere.",
+    "keywords": [
+      "Acid, Cold, Fire, Lightning, Poison, Psychic, Teleportation"
+    ],
+    "range": "Close burst 2",
+    "target": "Each creature in the burst",
+    "attack": "Primary ability + 6 vs. Reflex<br/>Level 21: Primary ability + 9 vs. Reflex",
+    "onHit": "2d8 + primary ability modifier acid, cold, fire, lightning, poison, and psychic damage.",
+    "effect": "You teleport to any square in the burst or any square adjacent to the burst."
+  },
+  "Duplicate Escape": {
+    "id": "'13477",
+    "action": "Standard",
+    "powerClass": "Element Unchained",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Duplicate Escape",
+    "type": "Unchained",
+    "sourceRef": "Dragon Magazine 391",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDuplicate Escape\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13477\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Element Unchained Attack 20</span>Duplicate Escape</h1><p class=\\\"flavor\\\"><i>The elements that compose you are everywhere, and you manipulate them into simulacra of you to confound your enemies.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Conjuration</b>, <b>Teleportation</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 5</p><p class=\\\"flavor\\\"><b>Effect</b>: You conjure a duplicate of you in up to 4 squares in the burst. Each duplicate makes a single-target at-will ranged or melee attack against a different creature using your basic attack. A duplicate lasts until the end of your next turn, is indistinguishable from you, and can be attacked. A duplicate that takes damage is destroyed.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: You and any one duplicate can teleport, swapping places, then each duplicate moves your speed. In addition, the duplicates persist until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/391\\\" target=\\\"_new\\\">Dragon Magazine 391</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "The elements that compose you are everywhere, and you manipulate them into simulacra of you to confound your enemies.",
+    "keywords": [
+      "Conjuration, Teleportation"
+    ],
+    "range": "Close burst 5",
+    "effect": "You conjure a duplicate of you in up to 4 squares in the burst. Each duplicate makes a single-target at-will ranged or melee attack against a different creature using your basic attack. A duplicate lasts until the end of your next turn, is indistinguishable from you, and can be attacked. A duplicate that takes damage is destroyed.",
+    "sustainMinor": "You and any one duplicate can teleport, swapping places, then each duplicate moves your speed. In addition, the duplicates persist until the end of your next turn."
+  },
+  "Elemental Transposition": {
+    "id": "'13478",
+    "action": "Standard",
+    "powerClass": "Element Unchained",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Elemental Transposition",
+    "type": "Unchained",
+    "sourceRef": "Dragon Magazine 391",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElemental Transposition\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13478\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Element Unchained Utility 12</span>Elemental Transposition</h1><p class=\\\"flavor\\\"><i>You dissipate into your constituent elements, reforming once danger is past.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Zone</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 2</p><p class=\\\"flavor\\\"><b>Effect</b>: The burst creates a lightly obscured zone that lasts until the end of your next turn. You are removed from play until the start of your next turn, when you return to a square within the zone.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/391\\\" target=\\\"_new\\\">Dragon Magazine 391</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You dissipate into your constituent elements, reforming once danger is past.",
+    "keywords": [
+      "Zone"
+    ],
+    "range": "Close burst 2",
+    "effect": "The burst creates a lightly obscured zone that lasts until the end of your next turn. You are removed from play until the start of your next turn, when you return to a square within the zone."
+  }
+}

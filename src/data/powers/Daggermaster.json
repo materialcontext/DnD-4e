@@ -13,7 +13,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, your dagger’s damage die increases by one size."
   },
   "Deep Dagger Wound": {
@@ -30,7 +30,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
@@ -51,7 +51,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger and must have scored a critical hit with a dagger against an enemy during this turn.",
     "target": "The enemy you critically hit",
     "attack": "Dexterity vs. AC",

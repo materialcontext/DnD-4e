@@ -1,0 +1,63 @@
+{
+  "Tiger Claw Rake [Attack Technique]": {
+    "id": "'13288",
+    "action": "Standard",
+    "powerClass": "Tiger Claw Master",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Tiger Claw Rake [Attack Technique]",
+    "type": "Claw",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTiger Claw Rake [Attack Technique]\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13288\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Tiger Claw Master Attack 11</span>Tiger Claw Rake [Attack Technique]</h1><p class=\\\"flavor\\\"><i>You sprint across the battlefield, and your tiger claw tears your foe and leaves it in debilitating agony.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Full Discipline</b>, <b>Implement</b>, <b>Psionic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d10 + Dexterity modifier damage, and the target takes a -2 penalty to attack rolls until the end of your next turn. If the target moves more than 2 squares on its next turn, it takes 5 damage.</p><p class=\\\"powerstat\\\"><b>Special</b>: When charging, you can use this power in place of a melee basic attack.</p><br/><h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\"></span>Tiger Claw Rake [Movement Technique]</h1><p class=\\\"powerstat\\\"><b>Encounter</b> <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Full Discipline</b>, <b>Psionic</b><br/><b>Move Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You move your speed + 2, ignoring difficult terrain. Any enemy that hits you with an opportunity attack provoked by this movement takes damage equal to your Strength modifier, and you mark the enemy until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You sprint across the battlefield, and your tiger claw tears your foe and leaves it in debilitating agony.",
+    "keywords": [
+      "Full Discipline, Implement, Psionic"
+    ],
+    "range": "Melee touch",
+    "target": "One creature",
+    "attack": "Dexterity vs. Reflex",
+    "onHit": "3d10 + Dexterity modifier damage, and the target takes a -2 penalty to attack rolls until the end of your next turn. If the target moves more than 2 squares on its next turn, it takes 5 damage.",
+    "special": "When charging, you can use this power in place of a melee basic attack.",
+    "effect": "You move your speed + 2, ignoring difficult terrain. Any enemy that hits you with an opportunity attack provoked by this movement takes damage equal to your Strength modifier, and you mark the enemy until the start of your next turn."
+  },
+  "Awaken the Celestial Tiger": {
+    "id": "'13289",
+    "action": "Standard",
+    "powerClass": "Tiger Claw Master",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Awaken the Celestial Tiger",
+    "type": "Claw",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAwaken the Celestial Tiger\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13289\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Tiger Claw Master Attack 20</span>Awaken the Celestial Tiger</h1><p class=\\\"flavor\\\"><i>As you spring at your enemy, your body transforms into the celestial tiger—a relentless force of unearthly fury.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Polymorph</b>, <b>Psionic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> touch</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must charge and use this power in place of a melee basic attack.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Dexterity vs. Reflex. Make the attack twice.</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d10 + Dexterity modifier damage, and you knock the target prone. If you hit with both attacks, the target takes 2d10 extra damage.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage.</p><p class=\\\"flavor\\\"><b>Effect</b>: You assume the form of the celestial tiger until the end of the encounter. While in this form, you are immune to fear effects, your Flurry of Blows power deals extra damage equal to your Strength modifier, and you gain a +2 power bonus to speed.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "As you spring at your enemy, your body transforms into the celestial tiger—a relentless force of unearthly fury.",
+    "keywords": [
+      "Implement, Polymorph, Psionic"
+    ],
+    "range": "Melee touch",
+    "requirement": "You must charge and use this power in place of a melee basic attack.",
+    "target": "One creature",
+    "attack": "Dexterity vs. Reflex. Make the attack twice.",
+    "onHit": "4d10 + Dexterity modifier damage, and you knock the target prone. If you hit with both attacks, the target takes 2d10 extra damage.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the form of the celestial tiger until the end of the encounter. While in this form, you are immune to fear effects, your Flurry of Blows power deals extra damage equal to your Strength modifier, and you gain a +2 power bonus to speed."
+  },
+  "Tiger Frenzy": {
+    "id": "'13291",
+    "action": "Immediate Reaction",
+    "powerClass": "Tiger Claw Master",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Tiger Frenzy",
+    "type": "Claw",
+    "sourceRef": "Psionic Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTiger Frenzy\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=13291\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Tiger Claw Master Utility 12</span>Tiger Frenzy</h1><p class=\\\"flavor\\\"><i>Pain clarifies your mind, letting you strike with ease at foes that come too close.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Psionic</b>, <b>Stance</b><br/><b>Immediate Reaction</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: You are bloodied by an attack</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the stance ends, any enemy that ends its turn adjacent to you takes damage equal to your Strength modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/210940000\\\" target=\\\"_new\\\">Psionic Power</a>, page(s) 77.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Pain clarifies your mind, letting you strike with ease at foes that come too close.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "trigger": "You are bloodied by an attack",
+    "effect": "Until the stance ends, any enemy that ends its turn adjacent to you takes damage equal to your Strength modifier."
+  }
+}

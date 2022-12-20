@@ -1,0 +1,59 @@
+{
+  "Forceful Transformation": {
+    "id": "'16103",
+    "action": "Standard",
+    "powerClass": "Moon Hunter",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Forceful Transformation",
+    "type": "Hunter",
+    "sourceRef": "Dragon Magazine 406",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForceful Transformation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16103\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Moon Hunter Attack 11</span>Forceful Transformation</h1><p class=\\\"flavor\\\"><i>Your weapon glows silver as you strike your foe, sending it reeling and causing it intense pain if it is a shapechanger.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier vs. Fortitude</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + your highest ability modifier damage, and the target is dazed until the end of your next turn. If the target has the shapechanger subtype, it is instead dazed and takes ongoing 5 damage (save ends both).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/406\\\" target=\\\"_new\\\">Dragon Magazine 406</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Your weapon glows silver as you strike your foe, sending it reeling and causing it intense pain if it is a shapechanger.",
+    "keywords": [
+      "Arcane, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Highest ability modifier vs. Fortitude",
+    "onHit": "2[W] + your highest ability modifier damage, and the target is dazed until the end of your next turn. If the target has the shapechanger subtype, it is instead dazed and takes ongoing 5 damage (save ends both)."
+  },
+  "Reflect the Full Moon": {
+    "id": "'16104",
+    "action": "Standard",
+    "powerClass": "Moon Hunter",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Reflect the Full Moon",
+    "type": "Hunter",
+    "sourceRef": "Dragon Magazine 406",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReflect the Full Moon\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16104\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Moon Hunter Attack 20</span>Reflect the Full Moon</h1><p class=\\\"flavor\\\"><i>You project a silver disc of moonlight around yourself. Your enemies’ eyes alight with the white radiance, making them incapable of seeing anything but that brilliance.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Radiant</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close burst</b> 2</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Highest ability modifier +4 vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 3d6 + your highest ability modifier radiant damage, and the target is blinded (save ends). If the target has the shapechanger subtype or is currently subjected to a polymorph effect, it takes a -2 penalty to saving throws against this effect.</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and the target is blinded until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/406\\\" target=\\\"_new\\\">Dragon Magazine 406</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You project a silver disc of moonlight around yourself. Your enemies’ eyes alight with the white radiance, making them incapable of seeing anything but that brilliance.",
+    "keywords": [
+      "Arcane, Radiant"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy in the burst",
+    "attack": "Highest ability modifier +4 vs. Reflex",
+    "onHit": "3d6 + your highest ability modifier radiant damage, and the target is blinded (save ends). If the target has the shapechanger subtype or is currently subjected to a polymorph effect, it takes a -2 penalty to saving throws against this effect.",
+    "onMiss": "Half damage, and the target is blinded until the end of your next turn."
+  },
+  "Maiden’s Light": {
+    "id": "'16105",
+    "action": "Minor",
+    "powerClass": "Moon Hunter",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Maiden’s Light",
+    "type": "Hunter",
+    "sourceRef": "Dragon Magazine 406",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMaiden’s Light\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=16105\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Moon Hunter Utility 12</span>Maiden’s Light</h1><p class=\\\"flavor\\\"><i>You shed a bright silver light that reveals your enemies and disturbs those not in their natural forms.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Aura</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You activate an aura 3 of bright light that lasts until the end of your next turn. Enemies that have the shapechanger subtype or are subject to a polymorph effect grant combat advantage while in the aura.</p><p class=\\\"powerstat\\\"><b>Sustain Minor</b>: The aura persists until the end of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/406\\\" target=\\\"_new\\\">Dragon Magazine 406</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You shed a bright silver light that reveals your enemies and disturbs those not in their natural forms.",
+    "keywords": [
+      "Arcane, Aura"
+    ],
+    "range": "Personal",
+    "effect": "You activate an aura 3 of bright light that lasts until the end of your next turn. Enemies that have the shapechanger subtype or are subject to a polymorph effect grant combat advantage while in the aura.",
+    "sustainMinor": "The aura persists until the end of your next turn."
+  }
+}

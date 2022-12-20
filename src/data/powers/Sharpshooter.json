@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must be wielding a bow or a crossbow.",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. AC",
@@ -36,7 +36,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a ranged weapon.",
     "effect": "Until the end of your next turn, your next ranged attack gains a power bonus to the attack and damage rolls equal to your Wisdom modifier. If you move or take damage before making a ranged attack, the bonus is lost."
   },
@@ -54,7 +54,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Ranged weapon<",
+    "range": "Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. AC",
     "onHit": "2[W] + Dexterity modifier damage.",

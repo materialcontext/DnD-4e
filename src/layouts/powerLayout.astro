@@ -1,0 +1,74 @@
+---
+import Head from '../components/Head.astro';
+
+const { name, powerClass, type, level, flavor,
+        frequency, keywords, action, range, 
+        primaryTarget, target, primaryAttack, attack, 
+        fullText, sourceRef, id,
+        ...props
+} = Astro.props.data
+
+let padding = " px-5"
+let entries = Object.entries(props);
+
+function hasAtk() {
+    return primaryAttack 
+        ? "Primary Attack:"
+        : attack 
+            ? "Attack:"
+            : false
+}
+
+function hasTgt() {
+    return primaryTarget 
+        ? "Primary Target:"
+        : target 
+            ? "Target:"
+            : false
+}
+
+function setItem(key) {
+    if (key === "onHit" || key === "secondaryOnHit") return "Hit";
+    if (key === "onMiss" || key === "secondaryOnMiss") return "Miss";
+
+    return key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/, ' $1');
+}
+---
+
+<!DOCTYPE HTML>
+<html>
+    <Head name={"putANameHere"} />
+    <body>
+        <div class="p-3 shadow">
+            <div class="flex justify-between bg-pgl-red px-5 py-1">
+                <h3 class="font-bold text-xl text-ivory mb-0">{name}</h3>
+                <h3 class="font-bold text-xl text-ivory mb-0">{powerClass} {type} {level}</h3>
+            </div>
+            <div class="bg-gainsboro px-5 py-1">{flavor}</div>
+            <div class="bg-ivory py-1">
+                <div class="px-5 flex font-medium">
+                    <span class="mr-4">{frequency}</span> ✦ <span class="ml-4">{keywords}</span>
+                </div>
+                <div class="px-5 flex font-medium">
+                    <span class="mr-8">{action} Action</span><span>{range}</span>
+                </div>
+                <ul>
+                    <li class="px-5 flex">
+                        <span class="mr-2  font-medium">{hasTgt()}</span><span>{primaryTarget || target}</span>
+                    </li>
+                    <li class="px-5 flex">
+                        <span class="mr-2  font-medium">{hasAtk()}</span><span>{primaryAttack || attack}</span>
+                    </li>
+                    {
+                        entries.map(([key, value]) => {
+                                return (<li class={"flex odd:bg-gainsboro" + padding}>
+                                    <span class="font-medium mr-2">{setItem(key)}:</span>
+                                    <span>{value}</span>
+                                </li>)})
+                    }
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
+    

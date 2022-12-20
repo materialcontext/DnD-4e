@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. If the target is a demon, you gain a +2 bonus to the attack roll.",
     "onHit": "3[W] + Strength modifier damage, and the target loses its resistances until the end of your next turn.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you",
     "effect": "You gain resist 5 against damage dealt by the triggering enemy until the end of the encounter. If the triggering enemy is a demon, the resistance increases to 10, and the enemy is subject to your divine sanction until the end of the encounter.<br/>Level 21: Resist 10, or resist 15 if the triggering enemy is a demon."
   },
@@ -51,7 +51,7 @@
     "keywords": [
       "Divine, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target is affected by your edict of destruction (save ends). Until the edict ends, roll a d4 at the start of each of the target’s turns to determine the edict’s effect at that time. If the target is a demon, roll two times and apply both results (if you roll the same number twice, roll again).<br/>1. The target and each enemy adjacent to it take 1d10 + your Strength modifier damage.<br/>2. The target gains vulnerable 5 to all damage until the end of your next turn.<br/>3. The target is blinded until the end of your next turn.<br/>4. The target takes a -2 penalty to attack rolls until the end of your next turn.",

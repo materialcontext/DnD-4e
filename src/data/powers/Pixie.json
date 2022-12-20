@@ -13,7 +13,7 @@
     "keywords": [
       "&nbsp;&nbsp;Ranged 5</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: The target can fly up to 6 squares as a free action.</p>"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One ally",
     "effect": "The target can fly up to 6 squares as a free action."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One object that is sized for a Medium or Small creature, is not inside a container, does not contain anything, and is not held, worn, or carried by anyone other than you.</p><p class=\"flavor\">Effect: The target shrinks to a size appropriate for a Tiny creature’s use. The new size ends at the end of your next extended rest unless the shrunken target is on your person. The size also ends if you or another pixie uses this power on the shrunken target. While shrunk, the target keeps its game statistics, such as damage dice and weight. A shrunken weapon, however, becomes an improvised one-handed weapon for a non-Tiny creature.</p>"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One object that is sized for a Medium or Small creature, is not inside a container, does not contain anything, and is not held, worn, or carried by anyone other than you.",
     "effect": "The target shrinks to a size appropriate for a Tiny creature’s use. The new size ends at the end of your next extended rest unless the shrunken target is on your person. The size also ends if you or another pixie uses this power on the shrunken target. While shrunk, the target keeps its game statistics, such as damage dice and weight. A shrunken weapon, however, becomes an improvised one-handed weapon for a non-Tiny creature."
   },
@@ -49,7 +49,7 @@
     "keywords": [
       "Illusion"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature that isn’t deafened",
     "effect": "Roll a d6 to determine the power’s effect."
   },
@@ -67,7 +67,7 @@
     "keywords": [
       "Illusion"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become invisible until you attack or until the end of your next turn."
   },
   "Gift of Flight": {
@@ -84,7 +84,7 @@
     "keywords": [
       "&nbsp;&nbsp;Close burst 1</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: Each target gains a fly speed of 6 until the end of his or her next turn. If the target doesn’t land at the end of this movement, he or she descends to the ground without taking falling damage.</p>"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each ally in the burst",
     "effect": "Each target gains a fly speed of 6 until the end of his or her next turn. If the target doesn’t land at the end of this movement, he or she descends to the ground without taking falling damage."
   },
@@ -102,7 +102,7 @@
     "keywords": [
       "Aura, Charm"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 2 that lasts until the end of your next turn. Any ally who starts his or her turn in the aura can shift 1 square during that turn as a free action. Any enemy that starts its turn in the aura is slowed until the start of its next turn.",
     "sustainMinor": "The aura persists until the end of your next turn."
   },
@@ -120,7 +120,7 @@
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, whenever an enemy attacks you, you can use an immediate reaction to teleport up to 5 squares."
   }
 }

@@ -13,7 +13,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "2[W] + Strength modifier damage, and if the target is marked by you, it falls prone."
@@ -32,7 +32,7 @@
     "keywords": [
       "Invigorating, Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target falls prone. Until the end of the encounter, when the target stands up while adjacent to you, you can make a melee basic attack against the target as an opportunity action.",
@@ -52,7 +52,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when an enemy attacks you, it is marked until the end of your next turn, unless the attack reduces you to 0 hit points or fewer."
   }
 }

@@ -13,7 +13,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated (save ends).",
@@ -34,7 +34,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each ally in the burst",
     "effect": "You slide each target a number of squares equal to 1 + your Wisdom modifier. In addition, the immobilized, restrained, and slowed conditions end on each target, and if a target is grabbed, the grab ends."
   },
@@ -52,7 +52,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature<br/>Level 11: One or two creatures<br/>Level 21: One, two, or three creatures",
     "effect": "The target grants combat advantage to the next creature that attacks it before the end of your next turn."
   },
@@ -70,7 +70,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature that shares a language with you",
     "effect": "You send a mental message of 25 words or fewer to the target. The target can respond in kind as a free action."
   },
@@ -88,7 +88,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target takes a penalty to attack rolls equal to your Charisma modifier until the end of your next turn."
@@ -126,7 +126,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage, and the target takes a penalty to all defenses equal to your Charisma modifier until the end of your next turn.",
@@ -146,7 +146,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage.",
@@ -167,7 +167,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends).",
@@ -191,7 +191,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "Choose a defense. Until the end of your next turn, you gain a power bonus to that defense equal to your Charisma modifier."
   },
@@ -209,7 +209,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "Choose a skill. The target gains a +3 power bonus to checks using that skill until the end of the encounter."
   },
@@ -227,7 +227,7 @@
     "keywords": [
       "Augmentable, Charm, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "You slide the target a number of squares equal to your Charisma modifier to a square adjacent to an enemy. The target then makes a melee basic attack as a free action against that enemy, with a bonus to the attack roll and the damage roll equal to your Charisma modifier. The target is also dazed until the end of your next turn."
@@ -246,7 +246,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage. If an attack hits the target’s Fortitude before the end of your next turn, that attack deals extra damage equal to your Charisma modifier."
@@ -265,7 +265,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier psychic damage, and the target makes a melee basic attack as a free action against a creature of your choice, with a bonus to the attack roll and the damage roll equal to your Charisma modifier.",
@@ -285,7 +285,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target is dazed (save ends).",
@@ -305,7 +305,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until you hit any creature with an attack or until the end of the encounter, you are invisible to your enemies if you are not their nearest enemy."
   },
   "Steadfast Stanchion": {
@@ -322,7 +322,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become immune to forced movement until the end of your next turn. In addition, your allies are immune to forced movement while within 5 squares of you. If you move, the effect ends.",
     "sustainMinor": "The effect persists."
   },
@@ -340,7 +340,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier force damage, and the target is immobilized until the end of your next turn."
@@ -359,7 +359,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target gains vulnerability to psychic damage equal to 5 + your Charisma modifier until the end of your next turn.",
@@ -379,7 +379,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is stunned (save ends).",
@@ -399,7 +399,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends).",
@@ -420,7 +420,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature.",
     "effect": "Until the end of the encounter, whenever the target takes psychic damage while within 10 squares of you, you gain temporary hit points equal to 5 + your Charisma modifier."
   },
@@ -438,7 +438,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An effect dazes, dominates, or stuns you",
     "effect": "You make a saving throw against the triggering effect. If you save, the triggering effect doesn’t affect you."
   },
@@ -456,7 +456,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn."
@@ -475,7 +475,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage, and the target takes a penalty equal to your Charisma modifier to the next attack roll it makes before the end of your next turn."
@@ -494,7 +494,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends). If the target is bloodied, it is also dazed (save ends).",
@@ -514,7 +514,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d8 + Intelligence modifier psychic damage, and the target is dazed (save ends). While the target is dazed by this power, you gain temporary hit points equal to 1d8 + your Charisma modifier whenever the target deals damage to another creature.",
@@ -534,7 +534,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Roll a d20. Once during this encounter, you can use that roll’s result in place of one of your attack rolls, saving throws, skill checks, or ability checks or in place of an enemy’s attack roll against you."
   },
   "Psychic Chirurgery": {
@@ -551,7 +551,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "trigger": "You or an ally is subjected to an effect that a save can end.",
     "target": "You or the ally",
     "effect": "The target isn’t subjected to the effect until the end of his or her next turn and can’t start making saving throws against the effect until after that turn."
@@ -570,7 +570,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "Each of your allies adjacent to the target can make an opportunity attack against it as a free action, with a bonus to the attack roll and the damage roll equal to your Charisma modifier."
@@ -589,7 +589,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage. Until the end of your next turn, the target cannot benefit from concealment or total concealment, and it gains vulnerability to all damage equal to your Charisma modifier.",
@@ -609,7 +609,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage, and the target makes a basic attack as a free action against a creature of your choice. If that attack hits, you gain temporary hit points equal to the damage it deals.",
@@ -630,7 +630,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a fly speed of 8 and can hover until the end of the encounter."
   },
   "Rejuvenate the Mind": {
@@ -647,7 +647,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use your second wind.",
     "effect": "You regain 2 power points."
   },
@@ -665,7 +665,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "4d8 + Intelligence modifier psychic damage, and the target takes psychic damage equal to your Charisma modifier for each square it moves on its next turn."
@@ -684,7 +684,7 @@
     "keywords": [
       "Augmentable, Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated until the end of your next turn. Until the domination ends, the target gains a bonus to attack rolls and damage rolls equal to your Charisma modifier."
@@ -703,7 +703,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target takes ongoing 10 psychic damage and is stunned (save ends both). While the target is stunned by this power, you can use a square in the target’s space as the origin square of your psionic implement powers.",
@@ -723,7 +723,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated (save ends).",
@@ -744,7 +744,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier force damage, and the target is stunned until the end of your next turn."
@@ -782,7 +782,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "5d8 + Intelligence modifier psychic damage, and the target is deafened (save ends), blinded (save ends), and slowed (save ends).",
@@ -803,7 +803,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated (save ends).",
@@ -824,7 +824,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One object that weighs 20 pounds or less and isn’t carried by another creature",
     "effect": "You either move the target to a square within range or manipulate it. When you move the target with this power, you can cause the target to remain aloft until the end of your next turn. If you are holding the target when you use this power, you can put it into a container that’s on your person and simultaneously move a second object that you’re carrying to your hand. The second object then becomes the target if it weighs 20 pounds or less.",
     "sustainMinor": "You either move the target to a square within range or manipulate it."
@@ -843,7 +843,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "You slide the target 1 square, but not into hindering terrain.<br/>Level 11: You slide the target 2 squares.<br/>Level 21: You slide the target 3 squares."
   },
@@ -861,7 +861,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier + Wisdom modifier force damage, and you knock the target prone. In addition, you push the target and each enemy adjacent to you 1 square."
@@ -880,7 +880,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier force damage, and you pull the target a number of squares equal to your Wisdom modifier.",
@@ -900,7 +900,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier force damage.",
@@ -921,7 +921,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d6 + Intelligence modifier force damage.",
@@ -942,7 +942,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally, helpless enemy, or object that weighs 400 pounds or less and isn’t carried by another creature",
     "effect": "You slide the target 3 squares in any direction, even into the air. The target remains aloft and is immobilized until the end of your next turn. You can end this effect as a free action, and it ends if you end your turn out of range of the target. If the target is a creature, it can end the effect as a minor action.",
     "sustainMinor": "The target remains aloft and is immobilized until the end of your next turn, and you can slide the target 3 squares in any direction. Alternatively, you can drop the target and then use the power on a new target."
@@ -961,7 +961,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport a number of squares equal to 1 + your Wisdom modifier."
   },
   "Burning Flux": {
@@ -978,7 +978,7 @@
     "keywords": [
       "Augmentable, Fire, Implement, Psionic, Zone"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier fire damage.",
@@ -999,7 +999,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier force damage, and you knock the target prone."
@@ -1018,7 +1018,7 @@
     "keywords": [
       "Force, Implement, Psionic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier force damage.",
@@ -1040,7 +1040,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "3d12 + Intelligence modifier force damage, and you push the target a number of squares equal to your Wisdom modifier (minimum 1). If you push the target into difficult terrain, the target falls prone.",
@@ -1060,7 +1060,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy scores a critical hit against you",
     "effect": "The attack’s damage is reduced by 10 + your Wisdom modifier."
   },
@@ -1078,7 +1078,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier force damage, and the target is dazed until the end of your next turn. In addition, each creature adjacent to the target takes force damage equal to 5 + your Wisdom modifier."
@@ -1097,7 +1097,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d10 + Intelligence modifier force damage, and you slide the target a number of squares equal to your Wisdom modifier."
@@ -1116,7 +1116,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier force damage, and you slide the target a number squares equal to 3 + your Wisdom modifier.",
@@ -1136,7 +1136,7 @@
     "keywords": [
       "Force, Implement, Psionic, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier force and thunder damage. You push the primary target 1 square, and it is deafened (save ends).",
@@ -1160,7 +1160,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Choose cold, fire, force, lightning, necrotic, radiant, or thunder. Until the end of your next turn, each target gains resistance to that damage type, but only when the damage is from ranged or area attacks. The resistance equals 5 + your Intelligence modifier."
   },
@@ -1178,7 +1178,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you have a fly speed equal to your speed (hover; altitude limit 2)."
   },
   "Concussion Burst": {
@@ -1195,7 +1195,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier force damage, and the target falls prone."
@@ -1214,7 +1214,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Thunder"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "One or two creatures in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier thunder damage. If the target moves before the start of your next turn, it and each creature adjacent to it at the start of that move take thunder damage equal to your Wisdom modifier.",
@@ -1234,7 +1234,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "4d10 + Intelligence modifier force damage, and the target is slowed (saved ends).",
@@ -1254,7 +1254,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier force damage. You slide the target a number of squares equal to 2 + your Wisdom modifier, and it is immobilized (save ends).",
@@ -1274,7 +1274,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You create a zone in an unoccupied square within range. The zone lasts until the end of your next turn. When any ally enters the zone, you can use a free action to slide that ally a number of squares equal to your Wisdom modifier. You can slide the ally in any direction, even into the air.",
     "sustainMinor": "The zone persists, and you can move it to a different unoccupied square within range."
   },
@@ -1292,7 +1292,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d10 + Intelligence modifier force damage, and the target is immobilized until the end of your next turn.",
@@ -1312,7 +1312,7 @@
     "keywords": [
       "Augmentable, Implement, Lightning, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier lightning damage, and the target takes a penalty to AC and Reflex until the end of your next turn. The penalty equals your Wisdom modifier."
@@ -1331,7 +1331,7 @@
     "keywords": [
       "Implement, Psionic, Reliable"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage, and ongoing 10 damage (save ends). The target takes a -4 penalty to its first saving throw against this ongoing damage.",
@@ -1351,7 +1351,7 @@
     "keywords": [
       "Force, Implement, Psionic, Teleportation"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "primaryTarget": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier force damage, and you teleport the target 3 squares.",
@@ -1375,7 +1375,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Each target is phasing until the end of your next turn.",
     "sustainMinor": "The effect persists."
@@ -1394,7 +1394,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy targets you with an area or a close attack",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, each target gains a bonus to AC, Fortitude, and Reflex equal to your Wisdom modifier."
@@ -1413,7 +1413,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d8 + Intelligence modifier force damage, and you knock the target prone. It cannot stand up until the end of your next turn."
@@ -1432,7 +1432,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d12 + Intelligence modifier force damage, and the target is removed from play. At the end of your next turn, the target reappears in an unoccupied space of your choice within 10 squares of you."
@@ -1451,7 +1451,7 @@
     "keywords": [
       "Force, Implement, Psionic, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d10 + Intelligence modifier force damage, and you push the target 4 squares.",
@@ -1473,7 +1473,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "5d6 + Intelligence modifier force damage, and you push the target a number of squares from the center of the burst equal to your Wisdom modifier. If the target ends adjacent to blocking terrain, the target takes 3d6 extra damage.",
@@ -1493,7 +1493,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier force damage, and the target is restrained until the end of your next turn."
@@ -1512,7 +1512,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "Two creatures adjacent to each other",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d8 + Intelligence modifier force damage, and the target grants combat advantage until the end of your next turn."
@@ -1531,7 +1531,7 @@
     "keywords": [
       "Force, Implement, Psionic, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "6d6 + Intelligence modifier force damage, and the target is immobilized (save ends).",
@@ -1552,7 +1552,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "5d6 + Intelligence modifier force damage, and ongoing 15 force damage (save ends).",
@@ -1573,7 +1573,7 @@
     "keywords": [
       "Conjuration, Psionic"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "You conjure a fragment of your consciousness in an unoccupied square in the burst. The fragment lasts until the end of the encounter or until you dismiss it as a minor action. The fragment occupies its square, and you and your allies can move through it. When you take a move action, you can also move your fragment a number of squares equal to your speed. You can see, hear, and use psion powers as if you were in your fragment’s space.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your fragment can be attacked. If it takes any damage, it disappears. It is immune to your attacks."
   },
   "Minor Creation": {
@@ -1590,7 +1590,7 @@
     "keywords": [
       "Conjuration, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure a nonliving, nonmagical object that appears within range, either in an unoccupied square, in your hand, or in an ally’s hand. The object lasts until the end of the encounter or until you dismiss it as a free action. The object you conjure is a single weapon or an item listed under “Adventuring Gear,” page 222 of the Player’s Handbook. At the Dungeon Master’s discretion, you can create some other nonmagical object no larger than one that a Medium creature can carry."
   },
   "Dimensional Scramble": {
@@ -1607,7 +1607,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Teleportation"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier damage, and you teleport the target to another square in or adjacent to the burst."
@@ -1626,14 +1626,15 @@
     "keywords": [
       "Augmentable, Conjuration, Force, Implement, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "bonusPower": {
       "name": "Force Shard Attack",
       "flavor": "",
       "keywords": [
         "Conjuration, Force, Implement, Psionic"
       ],
-      "range": "Ranged 5<",
+      "range": "Ranged 5",
+      "frequency": "At-Will",
       "requirement": "The power Force Shard must be active in order to use this power.",
       "target": "One creature",
       "attack": "Intelligence vs. Reflex",
@@ -1676,7 +1677,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target is immobilized (save ends).",
@@ -1702,7 +1703,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage, and ongoing 5 damage (save ends).",
@@ -1723,7 +1724,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and you can give the thought servant the following additional command.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. AC; 1d10 + Intelligence modifier psychic damage.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. AC; 1d10 + Intelligence modifier psychic damage.",
@@ -1743,7 +1744,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage, and the target is subject to your telepathic projection (save ends). While the target is affected by your telepathic projection, when you start your turn, the target makes a melee basic attack as a free action against a target you choose.",
@@ -1763,7 +1764,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One ally",
     "effect": "Choose one skill in which the target is trained and you are not. Until the end of your next turn, you gain a +5 power bonus to skill checks with the chosen skill."
   },
@@ -1781,7 +1782,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take falling damage or an attack knocks you prone",
     "effect": "You reduce any falling damage by a number of points equal to your level, and you are not knocked prone by the triggering attack or the triggering fall."
   },
@@ -1799,7 +1800,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You teleport or a creature teleports you",
     "target": "One ally adjacent to you before the teleport",
     "effect": "You teleport the target to a square adjacent to your destination."
@@ -1818,7 +1819,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you have superior cover and you are slowed."
   },
   "Crushing Turmoil": {
@@ -1835,7 +1836,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls and saving throws until the end of your next turn."
@@ -1854,7 +1855,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier damage, and if the primary target moves more than 2 squares on its next turn, it takes 5 damage. You make a secondary attack that is an area burst 1 centered on the primary target.",
@@ -1878,7 +1879,7 @@
     "keywords": [
       "Augmentable, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier force damage. On its next turn, if the target makes a move other than a shift, it falls prone."
@@ -1897,7 +1898,7 @@
     "keywords": [
       "Conjuration, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and your allies can flank with the psychic anomaly.",
     "requirement": "The power Psychic Anomaly must be active in order to use this power.",
     "trigger": "An enemy starts its turn in a square adjacent to the anomaly",
@@ -1919,7 +1920,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You expend one force sphere.",
     "requirement": "The power Force Spheres must be active in order to use this power.  This power may be used once per round.",
     "target": "One creature",
@@ -1940,7 +1941,7 @@
     "keywords": [
       "Implement, Psionic, Psychic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target is immobilized (save ends).",
@@ -1962,7 +1963,7 @@
     "keywords": [
       "Augmentable, Implement, Poison, Psionic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and any creature grabbed by the ebony stinger takes a -4 penalty to checks to escape the stinger’s grab.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage, and the stinger grabs the target.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d6 + Intelligence modifier damage, and ongoing 5 poison damage (save ends)."
@@ -1981,7 +1982,7 @@
     "keywords": [
       "Implement, Psionic, Teleportation, Thunder"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier thunder damage.",
@@ -2002,7 +2003,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy within 10 squares of you with an unaugmented psion at-will force attack power",
     "target": "Each creature adjacent to the enemy you hit",
     "effect": "The target grants combat advantage until the end of your next turn."
@@ -2021,7 +2022,7 @@
     "keywords": [
       "Conjuration, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure an intellect prism in an unoccupied square within range. The prism lasts until the end of the encounter or until you dismiss it as a minor action. You can use your attack powers as if you were in the prism’s space. As a move action, you can move the prism a number of squares equal to your Intelligence modifier. While the prism is adjacent to you, you gain a +3 bonus to Perception checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The prism can be targeted by melee and ranged attacks. It has a +4 bonus to all defenses and hit points equal to your healing surge value. If the prism drops to 0 hit points, it is destroyed and you are dazed until the end of your next turn."
   },
   "Mental Void": {
@@ -2038,7 +2039,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy attack targets your Will",
     "effect": "You gain a +4 bonus to Will until the end of your next turn. If the triggering attack misses, the attacker grants combat advantage until the end of your next turn."
   },
@@ -2056,7 +2057,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally within 5 squares of you regains hit points or succeeds on a saving throw",
     "effect": "You gain temporary hit points equal to twice your Intelligence modifier."
   },
@@ -2074,14 +2075,15 @@
     "keywords": [
       "Acid, Augmentable, Conjuration, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "bonusPower": {
       "name": "Ectoplasmic Servant Attack",
       "flavor": "",
       "keywords": [
         "Acid, Augmentable, Conjuration, Implement, Psionic"
       ],
-      "range": "Close burst 1<",
+      "range": "Close burst 1",
+      "frequency": "At-Will",
       "requirement": "The power Ectoplasmic Servant must be active in order to use this power.",
       "target": "Each enemy in the burst",
       "attack": "Intelligence vs. Fortitude",
@@ -2104,7 +2106,7 @@
     "keywords": [
       "Augmentable, Fear, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls, all defenses, and saving throws until the end of your next turn."
@@ -2142,7 +2144,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage.",
@@ -2162,7 +2164,7 @@
     "keywords": [
       "Implement, Psionic, Thunder"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "primaryTarget": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier thunder damage.",
@@ -2187,7 +2189,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target is slowed and takes ongoing 5 psychic damage (save ends both).",
@@ -2207,7 +2209,7 @@
     "keywords": [
       "Conjuration, Implement, Lightning, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "primaryTarget": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier lightning damage.",
@@ -2233,7 +2235,7 @@
     "keywords": [
       "Augmentable, Illusion, Implement, Psionic, Psychic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, but you choose two enemies adjacent to the phantasmal killer as its prey. When both creatures chosen as the killer’s prey drop to 0 hit points, the killer disappears.",
     "standardAction": "Melee 1; targets one creature that is the killer’s prey; Intelligence vs. Will; 2d6 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls (save ends).",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Will; 1d6 + Intelligence modifier psychic damage, and the phantasmal killer pushes the target 1 square. If the target is the killer’s prey, it takes 2d6 extra damage and is not pushed."
@@ -2252,7 +2254,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "You and each ally in the burst",
     "effect": "Choose a square within 20 squares of you. Each target can teleport to a square within 3 squares of the square you choose as a free action."
   },
@@ -2270,7 +2272,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by a close or an area attack",
     "effect": "You take half damage from the triggering attack."
   },
@@ -2288,7 +2290,7 @@
     "keywords": [
       "Conjuration, Force, Psionic"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You conjure a solid, transparent wall of psionic force that lasts until the end of your next turn. The wall can be up to 3 squares high. The wall blocks line of effect and movement. No creature can enter a wall square, and phasing creatures cannot move through it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The wall can be attacked, and attacks against it hit automatically. The wall has 50 hit points, and an attack on any square deals damage to the entire wall. If the wall drops to 0 hit points, the effect ends and each creature within 2 squares of the wall takes 10 force damage and falls prone.",
     "sustainMinor": "The wall persists."
   },
@@ -2306,7 +2308,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "A creature within 10 squares of you teleports",
     "effect": "You teleport the same number of squares as the triggering creature."
   },
@@ -2343,7 +2345,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and you slide the target 5 squares to a square adjacent to any creature. If the target doesn’t end its next turn adjacent to that creature, it takes damage equal to your Wisdom modifier."
@@ -2383,7 +2385,7 @@
     "keywords": [
       "Charm, Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d10 + Intelligence modifier psychic damage, and the target takes 10 psychic damage whenever it hits with an attack (save ends).",
@@ -2403,7 +2405,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "primaryTarget": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier damage, and the secondary target and tertiary target fall prone. The secondary target takes 5 damage.",
@@ -2428,7 +2430,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and the warrior also has a +2 power bonus to opportunity attack rolls.",
     "standardAction": "As above, and the warrior marks the target (save ends).",
     "immediateInterrupt": "Triggered when a target marked by the warrior moves or shifts; melee 1; targets the triggering creature; Intelligence + 2 vs. AC; 1d10 + Intelligence modifier psychic damage, and the warrior shifts 1 square.",
@@ -2448,7 +2450,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "Ongoing 25 damage (save ends). If the target is bloodied or becomes bloodied while taking this ongoing damage, the ongoing damage increases by 10.",
@@ -2469,7 +2471,7 @@
     "keywords": [
       "Polymorph, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of the dream traveler until the end of the encounter or until you resume your normal form as a minor action. While you are in this form, you are insubstantial and phasing, you gain a +5 power bonus to Stealth checks, and you are weakened."
   },
   "Kinetic Grasp": {
@@ -2486,7 +2488,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "A creature within 10 squares of you is pulled, pushed, slid, or knocked prone",
     "target": "The triggering creature",
     "effect": "The target is unaffected by the forced movement or is not knocked prone."
@@ -2505,7 +2507,7 @@
     "keywords": [
       "Illusion, Psionic, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone that lasts until the end of your next turn. The zone moves with you, remaining centered on you. While within the zone, you and your allies are invisible to enemies within the zone.",
     "sustainMinor": "The zone persists."
   },
@@ -2523,7 +2525,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You ignore the effects of difficult terrain, challenging terrain, hindering terrain, obscured terrain, and cover until the end of your next turn."
   },
   "Cerulean Cage": {
@@ -2580,7 +2582,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier damage, and you are invisible to the target until the end of your next turn.",
@@ -2600,7 +2602,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "As above, and whenever the target attacks you before the end of your next turn, it takes psychic damage equal to your Charisma modifier.",
@@ -2626,7 +2628,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "4d6 + Intelligence modifier psychic damage.",
@@ -2650,7 +2652,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier damage, and you knock the target prone. The target is then restrained (save ends).",
@@ -2670,7 +2672,7 @@
     "keywords": [
       "Conjuration, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier force damage.",
@@ -2694,7 +2696,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and you can teleport any two weirds, swapping their positions, as a minor action. In addition, you can teleport yourself and one weird as a move action, swapping positions.",
     "standardAction": "Melee 1; targets the weird’s prey; Intelligence vs. Will; 3d6 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls (save ends).",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Will; 1d6 + Intelligence modifier psychic damage, and the weird pushes the target 1 square. If the target is the weird’s prey, it takes 2d6 extra damage and is not pushed.",
@@ -2714,7 +2716,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "You slide the target a number of squares equal to your Wisdom modifier."
   },
@@ -2732,7 +2734,7 @@
     "keywords": [
       "Psionic, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone that lasts until the end of your next turn. The zone moves with you, remaining centered on you. While within the zone, allies gain a +3 power bonus to all defenses. The zone is difficult terrain for your enemies."
   },
   "Summon Fleeting Thoughts": {
@@ -2749,7 +2751,7 @@
     "keywords": [
       "Augmentable, Psionic, Summoning"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "When a fleeting thought drops to 0 hit points, one ally within 2 squares of the thought can fly 4 squares as a free action.",
     "moveAction": "Melee 1; targets you or one ally; the thought and the target both fly 4 squares to adjacent squares.",
     "immediateInterrupt": "Triggered when an ally adjacent to the fleeting thought is hit by a melee or a ranged attack; the attack hits the fleeting thought instead."
@@ -2846,7 +2848,7 @@
     "keywords": [
       "Implement, Psionic, Psychic, Zone"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "primaryTarget": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier damage, and the primary target is restrained and takes ongoing 10 psychic damage (save ends both).",
@@ -2873,7 +2875,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy within 10 squares of you takes damage from an attack",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Will",
@@ -2894,7 +2896,7 @@
     "keywords": [
       "Augmentable, Fear, Implement, Psionic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and the terror also has a +2 power bonus to damage rolls. In addition, any creature the terror hits with a melee attack takes a -2 penalty to its next saving throw made before the end of its next turn.",
     "standardAction": "Close burst 2; targets each enemy in the burst; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage, and the terror pushes the target 3 squares and knocks it prone.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the terror slides the target 4 squares to a square adjacent to the terror."
@@ -2913,7 +2915,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d12 + Intelligence modifier force damage, and you knock the target prone.",
@@ -2953,7 +2955,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier damage.",
@@ -2992,7 +2994,7 @@
     "keywords": [
       "Augmentable, Conjuration, Fire, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a molten orb in an unoccupied square within range. The orb lasts until the end of your next turn. Any creature that enters the orb’s space or starts its turn there takes fire damage equal to your Intelligence modifier (a creature can take this damage only once per turn). In addition, you can use the Reality Meltdown Attack power with the orb.",
     "requirement": "The power Reality Meltdown must be active in order to use this power.",
     "trigger": "An enemy starts its turn within 5 squares of the molten orb",
@@ -3014,7 +3016,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage, and ongoing 10 psychic damage (save ends).",
@@ -3035,7 +3037,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "You lift the target 5 to 50 feet into the air, where it is restrained until the start of your next turn. At the start of your next turn, the target drops to the ground in the space it last occupied, taking 3d10 + Intelligence modifier damage and dealing 20 damage to any creature on the ground beneath it.",
@@ -3055,7 +3057,7 @@
     "keywords": [
       "Conjuration, Implement, Psionic"
     ],
-    "range": "Area burst 5 within 10 squares<",
+    "range": "Area burst 5 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target is immobilized (save ends).",
@@ -3077,7 +3079,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and the champion also has a +3 power bonus to damage rolls. Its standard action special command can use at-will attack powers from any conscious or unconscious ally within 20 squares of the champion.",
     "standardAction": "The thought champion uses an at-will attack power of one conscious ally you can see. It uses the ally’s ability modifiers for the attack.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence + 2 vs. Reflex; 2d8 + Intelligence modifier damage."
@@ -3096,7 +3098,7 @@
     "keywords": [
       "Fear, Implement, Psionic, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "As above, but the target also takes the damage if it uses a move action."
@@ -3115,7 +3117,7 @@
     "keywords": [
       "Augmentable, Conjuration, Implement, Lightning, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a static mote in an unoccupied square within range. Any creature that starts its turn adjacent to the mote is slowed until the end of its turn. At the start of your next turn, the mote disappears and you use the Static Mote Attack power.",
     "requirement": "This power follows the use of the power Static Mote.",
     "target": "Each creature in the burst",
@@ -3136,7 +3138,7 @@
     "keywords": [
       "Augmentable, Conjuration, Force, Implement, Psionic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "As above, and when the void shard is conjured, it uses the Void Shard Attack power as a free action, with the range Close burst 3.",
     "target": "Each creature in burst",
     "attack": "Intelligence vs. Fortitude",
@@ -3158,7 +3160,7 @@
     "keywords": [
       "Augmentable, Implement, Psionic, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and the target is deafened and dazed until the end of your next turn. If the target deals psychic damage before the end of your next turn, it is stunned instead of dazed."

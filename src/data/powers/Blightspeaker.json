@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier necrotic damage, and the target is restrained until the end of your next turn."
@@ -32,7 +32,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to one-half your level + your Wisdom modifier. If you have hit an enemy since the end of your last turn, you instead gain temporary hit points equal to your level + your Wisdom modifier."
   },
   "Endbringer": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Divine, Implement, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
     "onHit": "2d6 + Wisdom modifier damage, and the target takes ongoing 15 necrotic damage and is blinded (save ends both).",

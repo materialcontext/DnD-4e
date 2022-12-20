@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to 4 squares vertically and hover there until the end of your next turn. While aloft, you are unsteady, taking a -2 penalty to AC and Reflex. If some effect, such as a pit opening below you, causes you to be more than 4 squares above the ground, you drop down to 4 squares above the ground. You do not take damage from such a fall. When the levitation ends, you descend to the ground without taking falling damage.",
     "sustainMove": "You move up to 3 squares up or down or 1 square horizontally, and you hover there until the end of your next turn. You cannot go higher than 4 squares above the ground."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Poison"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Fortitude, Reflex, and Will. You make a single attack roll and use it against each defense.",
     "onHit (Fortitude)": "Ongoing 10 poison damage (save ends).",
@@ -52,7 +52,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier force damage. Until the end of your next turn, the target is slowed, and it provokes opportunity attacks when it shifts."
@@ -71,7 +71,7 @@
     "keywords": [
       "Arcane, Implement, Poison, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier poison damage.",
@@ -92,7 +92,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier fire damage.",
@@ -112,7 +112,7 @@
     "keywords": [
       "Acid, Arcane, Cold, Fire, Implement, Lightning, Teleportation, Thunder, Zone"
     ],
-    "range": "Area burst 4 within 20 squares<",
+    "range": "Area burst 4 within 20 squares",
     "effect": "The burst creates a zone of difficult terrain that lasts until the end of your next turn. Any creature that enters the origin square of the zone or starts its turn there takes 10 acid, cold, fire, lightning, and thunder damage (a creature can take this damage only once per turn). You must teleport the creature to a square within 20 squares of you that is outside the zone. The creature then falls prone, and it is dazed until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the zone appears, make the following attack.",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
@@ -133,7 +133,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Fire, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d6 + Intelligence modifier cold and fire damage.",
@@ -153,7 +153,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier fire damage.",
@@ -173,7 +173,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d6 + Intelligence modifier thunder damage, and you push the target up to 4 squares.",
@@ -193,7 +193,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Radiant"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 + Intelligence modifier radiant damage, and the target is dazed until the end of your next turn."
@@ -212,7 +212,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "6d6 + Intelligence modifier cold damage, and the target is immobilized (save ends).",
@@ -232,7 +232,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "5d6 + Intelligence modifier acid damage, and ongoing 10 acid damage (save ends).",
@@ -252,7 +252,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Nethermancy, Zone"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier necrotic damage, and the target is immobilized (save ends).",
@@ -273,14 +273,15 @@
     "keywords": [
       "Arcane, Fear, Implement, Nethermancy, Psychic, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "bonusPower": {
       "name": "Evard's Dreadful Mist Attack",
       "flavor": "You call forth a thick, ominous fog. As it descends upon your foes, sounds of gnashing fangs and snapping claws echo from it. Something lurks within. Something horrible.",
       "keywords": [
         "Arcane, Fear, Implement, Nethermancy, Psychic, Zone"
       ],
-      "range": "Close burst 1<",
+      "range": "Close burst 1",
+      "frequency": "Daily",
       "requirement": "The Evard's Dreadful Mist power must be active to use this power.",
       "trigger": "An enemy enters the zone or starts its turn there",
       "target": "The triggering enemy in the burst",
@@ -308,7 +309,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 4 within 10 squares<",
+    "range": "Area burst 4 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d6 + Intelligence modifier acid damage.",
@@ -328,7 +329,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "5d6 + Intelligence modifier fire damage.",
@@ -348,7 +349,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier cold damage.",
@@ -370,7 +371,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "3d10 + Intelligence modifier psychic damage.",
@@ -390,7 +391,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier force damage, and the target is immobilized until the end of your next turn.",
@@ -410,7 +411,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier fire damage.",
@@ -430,7 +431,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Poison, Zone"
     ],
-    "range": "Area burst 5 within 20 squares<",
+    "range": "Area burst 5 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier poison damage.",
@@ -451,7 +452,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier cold damage, and the target is immobilized (save ends).",
@@ -472,7 +473,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d6 + Intelligence modifier acid damage.",
@@ -494,7 +495,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier lightning damage.",
@@ -514,7 +515,7 @@
     "keywords": [
       "Arcane, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "The target is immobilized (save ends).",
@@ -534,7 +535,7 @@
     "keywords": [
       "Arcane, Transmutation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "You or one ally",
     "effect": "The target gains resist 10 to all damage until the end of the encounter."
   },
@@ -552,7 +553,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature or object",
     "attack": "Intelligence vs. Reflex. You automatically hit an unattended object with this power.",
     "onHit": "4d10 + Intelligence modifier damage, and ongoing 10 damage (save ends).",
@@ -573,7 +574,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier necrotic damage, and the target is weakened until the end of your next turn.",
@@ -593,7 +594,7 @@
     "keywords": [
       "Arcane, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d12 + Intelligence modifier psychic damage.",
@@ -613,7 +614,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex. If you target yourself or a willing ally, you automatically hit.",
     "onHit": "You conjure a sphere of force that encompasses the target’s space until the end of your next turn. While in the sphere, the target is immobilized and cannot attack anything outside its space. Creatures outside the sphere cannot attack the target, and the sphere blocks objects and creatures attempting to pass through it. The sphere can be attacked. It has 100 hit points, and attacks against it hit automatically.",
@@ -634,7 +635,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a sword of force in an unoccupied square within range, and it lasts until the end of your next turn. You then make the following attack. As a move action, you can move the sword adjacent to another creature within range.",
     "target": "One creature adjacent to the sword",
     "attack": "Intelligence vs. Reflex",
@@ -655,7 +656,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure two 5-foot-tall hands of force, each in a different unoccupied square within range. The hands occupy their squares, and they last until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the hands appear, you make the following attack with each hand. While a hand persists, you can use a move action to move the hand to a square adjacent to a creature within range and command the hand to attack that creature. In addition, if each hand has a creature grabbed during your turn and the creatures are within 5 squares of each other, you can use a standard action to slam the hands together, pulling each of the creatures 2 squares to squares adjacent to each other, and those creatures each take 2d10 + Intelligence modifier force damage. Each hand then returns to its original square, pulling its grabbed creature with it.",
     "target": "One creature adjacent to the hand",
     "attack": "Intelligence vs. Reflex",
@@ -676,7 +677,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d10 + Intelligence modifier cold damage, and the target is immobilized until the end of your next turn.",
@@ -696,7 +697,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "targets": "One, two, or three creatures",
     "attack": "Intelligence vs. Will. You gain a +4 power bonus to the attack roll if you target only one creature.",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target is immobilized until the end of your next turn.",
@@ -716,7 +717,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is slowed (save ends).",
@@ -737,7 +738,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d10 + Intelligence modifier force damage, and you push the target up to 3 squares and knock it prone.",
@@ -757,7 +758,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "effect": "2 + Intelligence modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3 + Intelligence modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5 + Intelligence modifier force damage.",
     "special": "If the implement used with this power has an enhancement bonus, add that bonus to the damage. In addition, you can use this power as a ranged basic attack."
@@ -776,7 +777,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier acid damage, and ongoing 5 acid damage (save ends).",
@@ -798,7 +799,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "primaryTarget": "One creature or object",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d10 + Intelligence modifier force damage.",
@@ -818,7 +819,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier lightning damage.",
@@ -841,7 +842,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 5 within 20 squares<",
+    "range": "Area burst 5 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "8d6 + Intelligence modifier fire damage.",
@@ -861,7 +862,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d12 + Intelligence modifier lightning damage, and the target is slowed and takes ongoing 5 poison damage (save ends both).",
@@ -881,7 +882,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "A ranged or a melee attack hits you or an ally within 5 squares of you",
     "effect": "The attacker must reroll the attack roll and use the new result."
   },
@@ -899,7 +900,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +2 power bonus to all defenses, and you are invisible to enemies 5 squares or more away from you."
   },
   "Wall of Fire": {
@@ -916,7 +917,7 @@
     "keywords": [
       "Arcane, Conjuration, Fire, Implement"
     ],
-    "range": "Area wall 8 within 10 squares<",
+    "range": "Area wall 8 within 10 squares",
     "effect": "You conjure a wall of fire that lasts until the end of your next turn. The wall can be up to 4 squares high. Any creature that starts its turn adjacent to the wall takes 1d6 + Intelligence modifier fire damage. Any creature that enters the wall or starts its turn there takes 3d6 + Intelligence modifier fire damage (a creature can take this damage only once per turn). The wall blocks line of sight. Each square of movement that includes one or more squares of the wall costs 3 extra squares of movement.",
     "sustainMinor": "The wall persists until the end of your next turn."
   },
@@ -934,7 +935,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement, Zone"
     ],
-    "range": "Area 1 square within 10 squares<",
+    "range": "Area 1 square within 10 squares",
     "target": "Each creature in square",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier force damage.",
@@ -954,7 +955,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier fire damage."
@@ -973,7 +974,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier cold damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier cold damage.<br/>"
@@ -992,7 +993,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier thunder damage, and you push the target a number of squares up to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier thunder damage."
@@ -1011,7 +1012,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier cold damage, and the target is dazed until the end of your next turn.",
@@ -1031,7 +1032,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Radiant"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier radiant damage, and the target is blinded until the end of your next turn.",
@@ -1051,7 +1052,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "targets": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex. You gain a +4 power bonus to the attack roll if you target only one creature.",
     "onHit": "3d6 + Intelligence modifier force damage, and the target is dazed until the end of your next turn."
@@ -1070,7 +1071,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d10 + Intelligence modifier cold damage. Until the end of your next turn, the target is stunned and outside line of effect for all attacks.",
@@ -1090,7 +1091,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Thunder"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d10 + Intelligence modifier thunder damage, and the target is stunned until the end of your next turn.",
@@ -1110,7 +1111,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d10 + Intelligence modifier force damage. The target is confined in the forcecage until the end of your next turn. While confined, it is immobilized, grants combat advantage, and cannot gain line of effect against nonadjacent enemies.",
@@ -1130,7 +1131,7 @@
     "keywords": [
       "Arcane, Cold, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You conjure a 5-foot-tall hand of ice in an unoccupied square within range. The hand lasts until the end of your next turn. When the hand appears, it immediately makes the following attack. While the hand persists and doesn’t have a creature grabbed, you can use a standard action to command it to make the attack again or a move action to move it up to 6 squares.",
     "target": "One creature adjacent to the hand",
     "attack": "Intelligence vs. Reflex",
@@ -1151,7 +1152,7 @@
     "keywords": [
       "Arcane, Cold, Conjuration, Implement"
     ],
-    "range": "Area wall 12 within 10 squares<",
+    "range": "Area wall 12 within 10 squares",
     "effect": "You conjure a solid wall of ice in unoccupied squares. The wall can be up to 6 squares high, and it lasts for 1 hour or until it is destroyed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that starts its turn adjacent to the wall takes 2d6 + Intelligence modifier cold damage. The wall blocks line of sight and prevents movement. No creature can enter a square containing the wall.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The squares of the wall can be attacked. Each square has your defenses, and each has 50 hit points as well as vulnerable 25 fire. Any creature that makes a melee attack against the wall takes 2d6 cold damage."
   },
   "Prismatic Spray": {
@@ -1168,7 +1169,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Poison"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Fortitude, Reflex, and Will. You make a single attack roll and use it against each defense.",
     "onHit (Fortitude)": "The target is slowed and takes ongoing 15 poison damage (save ends both).",
@@ -1189,7 +1190,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Close burst 20<",
+    "range": "Close burst 20",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage, and the target is dazed and immobilized (save ends both).",
@@ -1209,7 +1210,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport up to 10 squares."
   },
   "Disguise Self": {
@@ -1226,7 +1227,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make yourself, your clothing, and your equipment look different. You can take on the appearance of any creature of similar build and size, including a specific individual whom you’ve seen. You gain neither the abilities or mannerisms of the chosen form, nor the tactile or audible properties of your form or gear. For example, if you took on the illusion of a dwarf fighter in plate armor, anyone touching you would realize you weren’t wearing plate armor, and you would not clank, creak, or jingle as you walked. The illusion lasts for 1 hour, although you can end it as a minor action. You must keep the same appearance for the entire duration.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Anyone who attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 power bonus to your check."
   },
   "Expeditious Retreat": {
@@ -1243,7 +1244,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift up to twice your speed."
   },
   "Feather Fall": {
@@ -1260,7 +1261,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "You fall, or a creature within 10 squares of you falls.",
     "target": "The triggering creature",
     "effect": "The target takes no damage from the fall, and consequently does not fall prone at the end of it."
@@ -1279,7 +1280,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a fly speed of 8 until the end of your next turn. When the fly speed ends, you float to the ground without taking falling damage.",
     "sustainMinor": "The fly speed persists until the end of your next turn."
   },
@@ -1297,7 +1298,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One object or unoccupied square",
     "effect": "You cause a sound as quiet as a whisper or as loud as a yelling or fighting creature to emanate from the target. You can produce nonvocal sounds such as the ringing of a sword blow, jingling armor, or scraping stone. If you whisper, you can whisper quietly enough that only creatures adjacent to the target can hear your words."
   },
@@ -1315,7 +1316,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "targets": "You and each ally in the burst",
     "effect": "Each target gains a fly speed of 8 until the end of your next turn. When the fly speed ends, each target floats to the ground without taking falling damage.",
     "sustainMinor": "The fly speed persists until the end of your next turn."
@@ -1334,7 +1335,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one creature",
     "effect": "The target makes an Athletics check as a free action to jump with a +10 power bonus. The target can move as many squares as the check allows and is considered to have a running start."
   },
@@ -1352,7 +1353,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One object or unoccupied square",
     "effect": "The target sheds bright light until the end of the encounter or until you use this power again. The light fills the target’s space and all squares within 4 squares of it. Putting out the light is a free action."
   },
@@ -1370,7 +1371,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure a spectral, floating hand in an unoccupied square within range. The hand lasts until the end of your next turn or until you use this power again. If you are holding an object when you use this power, the hand can move the object into a pack, a pouch, a sheath, or a similar container and simultaneously move any one object carried or worn anywhere on your body into your hand. While the hand persists, you can take the following actions.",
     "minorAction": "The hand picks up or manipulates an object weighing 20 pounds or less. It can hold only one object at a time.",
     "moveAction": "The hand moves up to 5 squares in any direction, carrying the object it holds.",
@@ -1391,7 +1392,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one creature",
     "effect": "The target becomes invisible until the end of your next turn. If the target makes an attack, the invisibility ends.",
     "sustainStandard": "If the target is within 5 squares of you, the invisibility persists until the end of your next turn."
@@ -1410,7 +1411,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Three duplicate images of yourself appear in your space, and you gain a +6 power bonus to AC. Each time an attack misses you, one of your duplicate images disappears, and the bonus granted by this power decreases by 2. When the bonus reaches 0, all your images are gone and the power ends. Otherwise, the effect lasts for 1 hour."
   },
   "Shield": {
@@ -1427,7 +1428,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack.",
     "effect": "You gain a +4 power bonus to AC and Reflex until the end of your next turn."
   },
@@ -1445,7 +1446,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain two extra standard actions, which you must use before the end of your turn. You can’t use these extra actions to make attacks."
   },
   "Icy Terrain": {
@@ -1462,7 +1463,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier cold damage, and the target falls prone.",
@@ -1482,7 +1483,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier cold damage.",
@@ -1502,7 +1503,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a Medium flaming sphere in an unoccupied square within range. The sphere occupies its square, and it lasts until the end of your next turn. Any creature that starts its turn adjacent to the sphere takes 1d4 + Intelligence modifier fire damage. As a move action, you can move the sphere up to 6 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the sphere appears, it immediately makes the following attack. While the sphere persists, you can use a standard action to command it to make the attack.",
     "target": "One creature adjacent to the flaming sphere",
     "attack": "Intelligence vs. Reflex",
@@ -1523,7 +1524,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier lightning damage.",
@@ -1543,7 +1544,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You create a dimensional rift between two unoccupied squares in range. The rift lasts until the end of your next turn. Until the rift ends, the two squares are effectively adjacent to each other, but for movement only.",
     "sustainMinor": "The rift persists until the end of your next turn."
   },
@@ -1561,7 +1562,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Area wall 8 within 10<",
+    "range": "Area wall 8 within 10",
     "effect": "You conjure a wall of fog that lasts until the end of your next turn. The wall can be up to 4 squares high. The wall is heavily obscured and blocks line of sight.",
     "sustainMinor": "The wall persists until the end of your next turn."
   },
@@ -1579,7 +1580,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "You or one creature",
     "effect": "The target is invisible until the end of your next turn or until it attacks.",
     "sustainMinor": "If the target is in range, the invisibility persists until the end of your next turn."
@@ -1598,7 +1599,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d6 + Intelligence modifier fire damage.",
@@ -1618,7 +1619,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 2<",
+    "range": "Ranged 2",
     "effect": "Use this cantrip to accomplish one of the effects given below:<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Change the color of items in 1 cubic foot.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Create a harmless sensory effect, such as a shower of sparks, a puff of wind, faint music, or a strong odor.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Clean or soil items in 1 cubic foot.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Instantly light (or snuff out) a candle, a torch, or a small campfire.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Chill, warm, or flavor up to 1 pound of nonliving material for up to 1 hour.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Make a small mark or symbol appear on a surface for up to 1 hour.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Produce out of nothingness a small item or image that exists until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Make a small, handheld item invisible until the end of your next turn.",
     "special": "You can have as many as three prestidigitation effects active at one time. Nothing you create with this cantrip can deal damage, serve as a weapon or a tool, or hinder another creature’s actions. This cantrip cannot duplicate the effect of any other power."
   },
@@ -1636,7 +1637,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier fire damage, and ongoing 5 fire damage (save ends)."
@@ -1655,7 +1656,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One conjuration or zone",
     "attack": "Intelligence vs. Will defense of the creator of the conjuration or the zone",
     "onHit": "The conjuration or zone is destroyed. All its effects end, including those that normally last until a target saves."
@@ -1674,7 +1675,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one creature",
     "effect": "Choose acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. The target gains resistance to that damage type until the end of the encounter. The resistance equals your level + your Intelligence modifier."
   },
@@ -1692,7 +1693,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You conjure a spacious extradimensional dwelling that can hold up to fifty Medium creatures. It is reached through a single doorway that you trace on a surface or in the air. Only you and those you designate can pass through it. You can close the entrance and make it invisible after you enter the mansion, and only someone inside the mansion can open the portal once it’s closed. The mansion contains comfortable furnishings and enough food and drink to satisfy its denizens. The furniture and food disappear if removed from the mansion. The mansion lasts for 8 hours, and any creatures still in the mansion when the power ends reappear in unoccupied squares outside the entrance portal."
   },
   "Necrotic Web": {
@@ -1709,7 +1710,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Zone"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "4d6 + Intelligence modifier necrotic damage, and the target is immobilized (save ends).",
@@ -1729,7 +1730,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necromancy, Necrotic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "6d6 + Intelligence modifier fire and necrotic damage.",
@@ -1749,7 +1750,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 5 within 20 squares<",
+    "range": "Area burst 5 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d8 + Intelligence modifier cold damage, and the target is immobilized (save ends).",
@@ -1770,14 +1771,15 @@
     "keywords": [
       "Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10<",
+    "range": "Area burst 2 within 10",
     "bonusPower": {
       "name": "Grease Attack",
       "flavor": "Slippery oil floods the ground under your foes, sending them tumbling to the ground.",
       "keywords": [
         "Arcane, Implement, Zone"
       ],
-      "range": "Close burst 1<",
+      "range": "Close burst 1",
+      "frequency": "Daily",
       "requirement": "The Grease power must be active to use this power.",
       "trigger": "A creature enters the zone",
       "target": "The triggering creature in the burst",
@@ -1801,7 +1803,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Radiant"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d10 + Intelligence modifier radiant damage, and the target is blinded until the end of your next turn.",
@@ -1821,7 +1823,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d10 + Intelligence modifier psychic damage. The first time the target makes an attack before the end of its next turn, it automatically hits itself with the attack, in addition to hitting or missing the attack’s intended targets. The target’s resistances and immunities do not apply against that attack.",
@@ -1841,7 +1843,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Teleportation"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 + Intelligence modifier damage, and the target is teleported 3 squares and slowed until the end of your next turn."
@@ -1860,14 +1862,15 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "bonusPower": {
       "name": "Bubbling Acid Attack",
       "flavor": "You toss a green globe toward your enemies. It explodes, showering them with acid and creating a boiling pool of caustic stuff that moves at your command.",
       "keywords": [
         "Acid, Arcane, Evocation, Implement, Zone"
       ],
-      "range": "Close burst 1<",
+      "range": "Close burst 1",
+      "frequency": "Daily",
       "requirement": "The Bubbling Acid power must be active to use this power.",
       "trigger": "A creature enters the zone or starts its turn there",
       "target": "The triggering creature in the burst",
@@ -1894,7 +1897,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "5d6 + Intelligence modifier necrotic damage, and the target is weakened (save ends).",
@@ -1916,7 +1919,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "5d6 + Intelligence modifier damage.",
@@ -1938,14 +1941,15 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "bonusPower": {
       "name": "Cinder Storm Attack",
       "flavor": "A spinning cloud of flaming ash surrounds your enemies, burning them and blinding their allies.",
       "keywords": [
         "Arcane, Evocation, Fire, Implement, Zone"
       ],
-      "range": "Close burst 5<",
+      "range": "Close burst 5",
+      "frequency": "Daily",
       "requirement": "The Cinder Storm power must be active to use this power.",
       "trigger": "A creature fails its saving throw against this power’s ongoing damage",
       "target": "The triggering creature in the burst",
@@ -1972,7 +1976,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a Medium ball of lightning that occupies 1 square within range, and the ball makes the following attack, which is a close burst 1. Each creature that starts its turn adjacent to the ball is slowed until the end of your next turn. Once per round, as a minor action, you can have the ball repeat its attack. As a move action, you can move the ball up to 10 squares. It can fly and hover. The ball lasts until the end of the encounter or until you dismiss it with a free action.",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
@@ -1992,7 +1996,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Nethermancy, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is immobilized (save ends).",
@@ -2015,14 +2019,15 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Fire, Implement, Poison"
     ],
-    "range": "Area wall 10 within 10 squares<",
+    "range": "Area wall 10 within 10 squares",
     "bonusPower": {
       "name": "Prismatic Wall Attack",
       "flavor": "You draw your hands apart to form a mystic rainbow, which grows into a wall of shimmering colors.",
       "keywords": [
         "Arcane, Conjuration, Evocation, Fire, Implement, Poison"
       ],
-      "range": "Close burst 1<",
+      "range": "Close burst 1",
+      "frequency": "Daily",
       "requirement": "The Prismatic Wall power must be active to use this power.",
       "trigger": "A creature starts its turn inside the wall or adjacent to the wall or moves through it",
       "attack": "Intelligence vs. Fortitude, Reflex, Will",
@@ -2049,7 +2054,7 @@
     "keywords": [
       "Arcane, Fire"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain resist 10 cold and resist 10 fire until the end of the encounter. Whenever a creature makes a melee attack roll against you, it takes 2d6 + your Intelligence modifier fire damage. No creature can take this damage more than once per turn."
   },
   "Phase Shift": {
@@ -2066,7 +2071,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become insubstantial and gain phasing until the end of your next turn."
   },
   "Wall of Force": {
@@ -2083,7 +2088,7 @@
     "keywords": [
       "Arcane, Conjuration, Force"
     ],
-    "range": "Area wall 12 within 20 squares<",
+    "range": "Area wall 12 within 20 squares",
     "effect": "You conjure a solid, transparent wall of magical energy that lasts until the end of the encounter. The wall can be up to 6 squares high. The wall is blocking terrain. No creature, including a phasing creature, can enter a square of the wall.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Attacks against the wall automatically hit. The wall has 200 hit points, and attacking any square deals damage to the entire wall. If it is reduced to 0 hit points, the wall shatters, dealing 3d10 force damage to each creature adjacent to it."
   },
   "Mass Resistance": {
@@ -2100,7 +2105,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You and each ally in the burst",
     "effect": "Choose acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. Until the end of the encounter, each target gains resistance to that damage type equal to 5 + your Intelligence modifier."
   },
@@ -2118,7 +2123,7 @@
     "keywords": [
       "Arcane, Conjuration, Force"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You create a globe of force around you that lasts until the end of your next turn. Whenever you move (including teleportation), the globe moves with you. You cannot gain line of effect to any target other than yourself, and no creature or effect can gain line of effect to you. The globe doesn’t block line of sight. It blocks objects and creatures attempting to pass through it.<br/>The globe, although impenetrable, is not impervious to damage. Attacks against the globe automatically hit, and it has 100 hit points.",
     "sustainStandard": "The globe persists."
   },
@@ -2136,7 +2141,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain darkvision, and you can see invisible creatures and objects wthin 10 squares of you that are within your line of sight. You also gain a +5 power bonus to Insight checks and Perception checks."
   },
   "Illusory Ambush": {
@@ -2153,7 +2158,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 + Intelligence modifier psychic damage, and the target takes a –2 penalty to attack rolls until the end of your next turn.<br/>Increase damage to 2d6 + Intelligence modifier at 21st level."
@@ -2172,7 +2177,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and target is slowed until the end of your next turn.",
@@ -2192,7 +2197,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target falls prone. The target is immobilized until the end of its next turn.",
@@ -2213,7 +2218,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "Until the end of the encounter, difficult terrain in the designated area costs 2 extra squares of movement instead of the normal 1 extra square for your enemies. Additionally, hazards and traps within the area gain a bonus to attack rolls equal to your Intelligence modifier against your enemies."
   },
   "Maze of Mirrors": {
@@ -2230,7 +2235,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is immobilized and takes a -4 penalty to attack rolls until the end of your next turn.",
@@ -2250,7 +2255,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage.",
@@ -2270,7 +2275,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You create the illusion a spectral hound, which appears in a square you designate within range. The spectral hound does not occupy that square but does count as an ally for the purposes of flanking. Additionally, as long as the hound remains within 10 squares of you, you gain a +1 power bonus to AC and all defenses, along with a +5 power bonus to Perception checks, since the spectral hound warns you of approaching danger.",
     "sustainMinor": "You can sustain this power until the end of the encounter. Each round you can move the hound up to 5 squares as a free action; the spectral hound ignores difficult terrain but the effect ends if the hound leaves your line of sight."
   },
@@ -2288,7 +2293,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage, and you and your allies can treat the target as an ally for the purposes of flanking until the end of your next turn."
@@ -2307,7 +2312,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Area wall 8 within 20 squares<",
+    "range": "Area wall 8 within 20 squares",
     "effect": "You create the illusion of a contiguous wall of solid material (stone or metal, for example). The wall can be up to 8 squares long and 4 squares high, and it lasts until the end of your next turn. The wall blocks line of sight for all enemies (but not your allies). When any enemy moves adjacent to the wall, you can make an attack (Intelligence vs. Will) against that target; if successful, the target cannot move through the wall on its current turn, but it can try again on later turns. On a miss, the wall no longer blocks line of sight or movement for that creature.",
     "sustainMinor": "You can sustain this power until the end of the encounter."
   },
@@ -2325,7 +2330,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium fire warrior in an unoccupied square within range. The fire warrior has a speed of fly 6 (hover). It has a +2 bonus to AC and a +2 bonus to Fortitude. You can give the fire warrior the following special commands.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier fire damage.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier fire damage."
@@ -2344,7 +2349,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier damage.",
@@ -2364,7 +2369,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a swirling pattern of colors and lights in an unoccupied square within range that lasts until the end of your next turn. You can use the Hypnotic Pattern Attack power, using the pattern’s square as the origin square.",
     "requirement": "The Hypnotic Pattern power must be active to use this power.",
     "trigger": "An enemy starts its turn within 3 squares of the pattern",
@@ -2386,7 +2391,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement, Lightning"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier lightning damage, and you conjure a shock beetle in 1 square within the target’s space. Each beetle lasts until the end of your next turn. Each enemy that starts its turn in or adjacent to at least 1 square containing a shock beetle takes lightning damage equal to your Constitution modifier."
@@ -2405,7 +2410,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier cold damage, and the target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -2424,7 +2429,7 @@
     "keywords": [
       "Acid, Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "effect": "You conjure a mass of worms in 1 square within the target’s space. They last until the end of your next turn.",
@@ -2444,7 +2449,7 @@
     "keywords": [
       "Arcane, Fear, Illusion, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is stunned until the end of your next turn. While the target is stunned by this power, you gain a +4 power bonus to damage rolls against it.",
@@ -2464,7 +2469,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier damage, and you slide the target 3 squares. You conjure a Medium earth brute in a square adjacent to the target after this movement. The earth brute occupies 1 square and lasts until the end of your next turn.<br/>Whenever a creature starts its turn in or willingly enters a square adjacent to the earth brute, that creature takes 5 damage, and the earth brute pushes it 1 square."
@@ -2483,7 +2488,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target makes a melee basic attack roll against a creature of your choice, including itself.",
@@ -2503,14 +2508,15 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "bonusPower": {
       "name": "Shard of the Endless Avalanche Attack",
       "flavor": "You conjure a massive boulder from the Elemental Chaos that smashes through your enemies’ ranks, then shatters and dissipates.",
       "keywords": [
         "Arcane, Conjuration, Implement"
       ],
-      "range": "Melee 1<",
+      "range": "Melee 1",
+      "frequency": "Encounter",
       "requirement": "The Shard of the Endless Avalanche power must be active to use this power.",
       "trigger": "The boulder enters a creature’s space",
       "target": "The creature whose space was entered",
@@ -2534,7 +2540,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necromancy, Necrotic"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier fire and necrotic damage, and the target is weakened until the end of your next turn."
@@ -2553,7 +2559,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d6 + Intelligence modifier force damage.",
@@ -2573,7 +2579,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage.",
@@ -2593,7 +2599,7 @@
     "keywords": [
       "Arcane, Charm, Illusion, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated until the end of your next turn. While dominated, it gains a bonus to its attack rolls and damage rolls equal to your Charisma modifier."
@@ -2612,7 +2618,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is stunned until the end of your next turn. You gain an extra standard action, which you must use before the target recovers frm this stunned condition."
@@ -2631,7 +2637,7 @@
     "keywords": [
       "Arcane, Fear, Illusion, Implement, Psychic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone of illusory safety. A target that is forced to leave the zone takes 2d8 + Intelligence modifier psychic damage, and this effect ends for it. The zone lasts until no creature is subject to this effect.",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
@@ -2653,14 +2659,15 @@
     "keywords": [
       "Arcane, Illusion, Implement, Zone"
     ],
-    "range": "Area burst 5 within 10 squares<",
+    "range": "Area burst 5 within 10 squares",
     "bonusPower": {
       "name": "Visions of Avarice Attack",
       "flavor": "The illusion of a fabulous treasure appears out of thin air. Your enemies throw aside caution to seize it.",
       "keywords": [
         "Arcane, Illusion, Implement, Zone"
       ],
-      "range": "Close burst 5 centered on the zone<",
+      "range": "Close burst 5 centered on the zone",
+      "frequency": "Daily",
       "requirement": "The Visions of Avarice power must be active to use this power.",
       "secondaryTarget": "Each enemy in the burst",
       "attack": "Intelligence vs. Will",
@@ -2686,7 +2693,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium abyssal maw in an unoccupied square within range. The maw has a speed of 6. You can give the maw the following special commands.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 2d6 + Intelligence modifier damage.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage. In addition, if an enemy adjacent to the maw makes a melee attack that does not include the maw as a target, the maw can make an opportunity attack against that enemy after the enemy’s attack is resolved."
@@ -2705,7 +2712,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium arrowhawk in an unoccupied square within range. The arrowhawk has a speed of fly 8 (hover). It has a +2 bonus to AC and a +2 bonus to Reflex. You can give the arrowhawk the following special commands.",
     "standardAction": "Shift 3 squares and attack; melee 1; targets one creature; Intelligence vs. Reflex; 1d10 + Intelligence modifier damage, and the target is marked by the arrowhawk until the end of your next turn.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d10 + Intelligence modifier damage, and the target is marked by the arrowhawk until the end of your next turn."
@@ -2724,7 +2731,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a Medium guardian hound that occupies 1 square within range, and the hound makes the following melee attack. Once per round as a minor action, you can have the hound repeat its attack. As a minor action, you can move the hound 6 squares. The hound lasts until the end of the encounter or until you dismiss it with a free action.",
     "target": "One creature adjacent to the hound",
     "attack": "Intelligence vs. Reflex",
@@ -2744,7 +2751,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You summon a Large creature made of chains in an unoccupied 2-square-by-2-square space within range. The chainbearer has reach 2 and a speed of 6. It has a +4 bonus to AC and a +4 bonus to Fortitude. You can give the chainbearer the following special commands.",
     "standardAction": "Melee 2; targets one creature; Intelligence vs. Fortitude; 1d10 + Intelligence modifier damage, and you slide the target 2 squares.",
     "opportunityAttack": "Melee 2; targets one creature; Intelligence vs. Fortitude; 1d10 + Intelligence modifier damage, and you slide the target 2 squares. The chainbearer has threatening reach, allowing it to make opportunity attacks against targets within its reach of 2 squares."
@@ -2763,7 +2770,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is affected by vertigo (save ends). While affected by vertigo, the target can’t stand up from prone, and if it moves, the target must move at least 4 squares or it falls prone at the end of its movement.",
@@ -2785,7 +2792,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You summon a Large black devourer in an unoccupied 2-square-by-2-square space within range. The black devourer has reach 2 and a speed of 5. It has a +4 bonus to AC and a +4 bonus to Will. You can give the black devourer the following special commands.",
     "standardAction": "Melee 2; targets one creature; Intelligence vs. Reflex; 2d4 + Intelligence modifier damage, and the target is grabbed. The devourer gains a +4 bonus to attack rolls and damage rolls against a target it is already grabbing.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage, and the target is knocked prone."
@@ -2804,7 +2811,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target cannot use attack powers (save ends).",
@@ -2826,7 +2833,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You summon a Huge living mountain in a 3-squareby-3-square unoccupied space within range. The living mountain has a speed of 3. It has a +4 bonus to AC and a +4 bonus to Fortitude. You can give the living mountain the following special commands.",
     "standardAction": "Close burst 5; targets enemies only; Intelligence vs. Fortitude; 1d10 + Intelligence modifier damage, and the target is knocked prone.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Fortitude; 2d8 + Intelligence modifier damage."
@@ -2845,7 +2852,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is subjected to a phantom reality until the end of the encounter.",
@@ -2866,7 +2873,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You summon up to three Medium abyssal maws, each appearing in an unoccupied square within range. Each maw has a speed of 6. You can give the maws the following special commands.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 2d6 + Intelligence modifier damage.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d6 + Intelligence modifier damage. In addition, if an enemy adjacent to the maw makes a melee attack that does not include the maw as a target, the maw makes an opportunity attack against that enemy after the enemy’s attack is resolved.",
@@ -2886,7 +2893,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You hover 6 inches above the ground until the end of the encounter or until you fall. You ignore movement penalties and restrictions due to terrain, do not set off pressure-sensitive traps, and cannot be detected with tremorsense. You also gain a bonus to Stealth checks equal to your Wisdom modifier. You can float over only a solid surface or a liquid surface directly beneath you. For example, you cannot use this power to cross a chasm or a pit; if you try to do so, you fall normally."
   },
   "Summon Shadow Serpent": {
@@ -2903,7 +2910,7 @@
     "keywords": [
       "Arcane, Shadow, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a shadow serpent in an unoccupied square within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The serpent lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You don’t need line of effect to the serpent to command it. When you command the serpent, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the serpent makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The serpent lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Emerald Eye": {
@@ -2920,7 +2927,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "Until the end of your next turn, you gain a +5 power bonus to Insight checks against the target and a +2 power bonus to attack rolls against the target’s Will."
   },
@@ -2938,7 +2945,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "Until the end of the encounter, you mask the terrain around you, changing the appearance of all unattended objects and terrain features. The objects are still visible, but you disguise their true nature, making them look, smell, sound, and sometimes even feel like something else. For example, you could make a pool of lava look like a plush carpet, or make a pile of coins look and feel like mud. If an object is removed from the area, this effect ends for that object.<br/>A creature can see through your deception by succeeding on an Insight check (DC 20 + one-half your level + your Intelligence modifier). A creature automatically sees through the illusion if it takes damage from a disguised object or disguised terrain (such as walking on an illusory carpet that is actually lava)."
   },
   "Summon Iron Cohort": {
@@ -2955,7 +2962,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "You summon a Small iron cohort in an unoccupied square within the burst. The iron cohort has a speed of 6 and has a +2 bonus to AC. You can give the iron cohort the following special command.",
     "immediateInterrupt": "When you are targeted by a ranged or melee attack and the iron cohort is adjacent to you, the iron cohort becomes the attack’s target instead."
   },
@@ -2973,7 +2980,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon a Medium diamond falcon in an unoccupied square within range. The falcon has a speed of fly 8 (hover). It has a +2 bonus to AC and a +2 bonus to Reflex. You can give the diamond falcon the following special command.",
     "moveAction": "The diamond falcon can carry you or one Medium or smaller ally that is adjacent to it when the falcon begins its move. The carried creature moves with the falcon and occupies its space; if the falcon provokes opportunity attacks, the attacker can target either the falcon or the carried creature. At the end of the falcon’s move, the carried creature can either remain in the falcon’s space (continuing to be carried) or land in a square adjacent to the falcon. A carried creature grants combat advantage and takes a –5 penalty to attack rolls."
   },
@@ -2991,7 +2998,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium hammerfist crusher in an unoccupied square within range. The hammerfist crusher has a speed of 3. It has a +2 bonus to AC and a +2 bonus to Fortitude. You can give the crusher the following special command.",
     "standardAction": "Melee 1; targets one object; Intelligence vs. Reflex; 5d6 + Intelligence modifier damage."
   },
@@ -3009,7 +3016,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Ranged 30<",
+    "range": "Ranged 30",
     "effect": "You create up to twelve Medium illusory creatures or objects, each of which appears in an unoccupied square within range. Each can make sounds and gestures but cannot voluntarily leave its space, and each of its defenses is 10. An illusory creature or object lasts until the end of the encounter, or until an attack hits it or a creature touches it.<br/>As a move action, you can cause as many of the illusory creatures or objects as you wish to move up to 6 squares each. Each acts as an independent entity, saying whatever you wish and reacting as you choose to other creatures. However, you must have line of effect to an illusory creature or object to control it in this way. If you do not have line of effect, it does not move or respond."
   },
   "Arcane Insight": {
@@ -3026,7 +3033,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "prerequisite": "You must be trained in Arcana",
     "trigger": "You make an Arcana check and dislike the result.",
     "effect": "Reroll the Arcana check, keeping the better of the two results."
@@ -3045,7 +3052,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss with an arcane attack",
     "effect": "Reroll the missed attack roll and use the second result.",
     "special": "If you are an eladrin, you gain a +2 bonus to the reroll."
@@ -3064,7 +3071,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Teleportation"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "All enemies within the area of the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "4d6 + Intelligence modifier psychic damage, and you teleport the target 5 squares. The destination must be on solid ground.",
@@ -3084,7 +3091,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and you slide the target 1 square.<br/>Level 21: 2d8 + Intelligence modifier psychic damage."
@@ -3103,7 +3110,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a pillar of crackling energy in an unoccupied square within range. The pillar occupies 1 square and lasts until the end of your next turn. Each enemy that moves into a square adjacent to the pillar on its turn takes 1d6 + your Intelligence modifier lightning damage.<br/>Level 21: 2d6 + Intelligence modifier lightning damage."
   },
   "Orbmaster's Incendiary Detonation": {
@@ -3120,7 +3127,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Force, Implement, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier force damage, and you knock the target prone.",
@@ -3141,7 +3148,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier acid damage. Until the end of your next turn, creatures more than 5 squares away from the target have concealment against it.",
@@ -3161,7 +3168,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier lightning damage, and you push the target 1 square.",
@@ -3181,7 +3188,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 + Intelligence modifier psychic damage, and the target is slowed and takes a -2 penalty to attack rolls (save ends both).",
@@ -3202,7 +3209,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier thunder damage, and you slide the primary target 3 squares.",
@@ -3229,7 +3236,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier damage, and you slide the target 10 feet (2 squares) vertically. The target remains aloft until the start of its next turn; while aloft, it is dazed and immobilized, and it grants combat advantage to you and your allies. At the start of its next turn, it lands on its feet in the space it formerly occupied or in the nearest unoccupied space of its choice."
@@ -3248,7 +3255,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, each target assumes the appearance of a humanoid creature of his or her size, even the appearance of a specific individual you have seen. You can choose a different disguise for each target. A creature can perceive a target’s true form by succeeding on an Insight check (DC 15 + one-half your level + your Intelligence modifier).",
     "standardAction": "You can modify this illusion to cause any number of the targets to assume the appearance of a different humanoid creature."
@@ -3267,7 +3274,7 @@
     "keywords": [
       "Acid, Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "You conjure an ooze that fills the target’s space. It lasts until the end of your next turn. If the target moves, the ooze moves with it while it remains within range.",
     "attack": "Intelligence vs. Reflex",
@@ -3288,7 +3295,7 @@
     "keywords": [
       "Arcane, Fear, Illusion, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is immobilized (save ends).",
@@ -3310,7 +3317,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Necrotic, Zone"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 + Intelligence modifier necrotic damage.",
@@ -3331,7 +3338,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier force damage. Until the end of your next turn, the target is slowed and can’t teleport, and it provokes opportunity attacks when it shifts.",
@@ -3351,7 +3358,7 @@
     "keywords": [
       "Arcane, Illusion, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become invisible and teleport 6 squares. You leave behind an illusory image of yourself in the space you occupied. The illusion stands in place, takes no actions, and uses your defenses if it is attacked. It lasts until the end of the encounter or until it is touched or hit by an attack. Your invisibility lasts until the end of your next turn or until you make an attack roll.<br/>A creature can recognize the illusion by making a successful Insight check (DC 15 + one-half your level + your Intelligence modifier)."
   },
   "Dancing Bolts": {
@@ -3368,14 +3375,15 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "bonusPower": {
       "name": "Dancing Bolts Secondary Attack",
       "flavor": "Snapping blue arcs of lightning erupt from the ground, leaping from one foe to another.",
       "keywords": [
         "Arcane, Implement, Lightning"
       ],
-      "range": "Area burst 2<",
+      "range": "Area burst 2",
+      "frequency": "Encounter",
       "requirement": "You have hit an enemy with the Dancing Bolts power this round.",
       "target": "One enemy that has not yet been attacked by a Dancing Bolts attack and is within 2 squares of an enemy that has been hit by the Dancing Bolt power.",
       "attack": "Intelligence vs. Reflex",
@@ -3399,7 +3407,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d10 + Intelligence modifier force damage, and the target is knocked prone and affected by oppressive force (save ends). While affected by oppressive force, the target takes ongoing 10 force damage and can’t stand up from prone.",
@@ -3419,7 +3427,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d10 + Intelligence modifier damage, and you slide the target 5 squares and knock it prone.",
@@ -3439,7 +3447,7 @@
     "keywords": [
       "Arcane, Implement, Nethermancy"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier damage, and the target is either weakened or immobilized (your choice) until the end of your next turn.",
@@ -3459,7 +3467,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d10 + Intelligence modifier lightning damage.",
@@ -3479,7 +3487,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier cold damage, and the target is immobilized until the end of your next turn.",
@@ -3499,7 +3507,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Poison"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "attack": "Intelligence vs. Fortitude, Reflex, Will",
     "onHit (Fortitude)": "3d6 + Intelligence modifier poison damage, and ongoing 10 poison damage (save ends).",
     "onHit (Reflex)": "3d6 + Intelligence modifier fire damage, and ongoing 10 fire damage (save ends).",
@@ -3521,7 +3529,7 @@
     "keywords": [
       "Arcane, Conjuration, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d8 + Intelligence modifier damage.",
@@ -3542,7 +3550,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated (save ends). If you or your allies attack the target, it gets a saving throw against this effect. If you do not compel the target to make any attack rolls during its turn, it automatically succeeds on its saving throw against this effect at the end of that turn. If you compel the target to make one or more attack rolls but it does not hit any targets, it automatically fails its next saving throw against this effect.",
@@ -3562,7 +3570,7 @@
     "keywords": [
       "Arcane, Fear"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +5 power bonus to Intimidate checks, and creatures adjacent to you take a -2 penalty to attack rolls that target you."
   },
   "Guardian Blades": {
@@ -3579,7 +3587,7 @@
     "keywords": [
       "Arcane, Force"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter or until you become unconscious, each enemy adjacent to you that makes an attack roll takes force damage equal to your Intelligence modifier. No enemy can take this damage more than once per turn."
   },
   "Wizard's Escape": {
@@ -3596,7 +3604,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with a melee attack.",
     "effect": "You teleport up to 5 squares to a space that is not adjacent to an enemy."
   },
@@ -3614,7 +3622,7 @@
     "keywords": [
       "Arcane, Charm, Evocation, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier thunder damage. The first time the target makes an attack roll before the end of your next turn, it deals 5 thunder damage to itself and to each enemy within 3 squares of it."
@@ -3633,7 +3641,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You bring forth a Medium illusory warrior in an unoccupied square within range, and the warrior makes the following melee attack. Enemies cannot enter the illusory warrior’s space, but allies can, and the illusory warrior is considered an ally for the purpose of flanking. The illusory warrior lasts until the end of your next turn,",
     "target": "One creature adjacent to the warrior",
     "attack": "Intelligence vs. Reflex",
@@ -3653,7 +3661,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter or until you become unconscious, your arcane powers that can be sustained instead last until the end of the encounter."
   },
   "Grasp of the Grave": {
@@ -3670,7 +3678,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d10 + Intelligence modifier necrotic damage, and the target is dazed until the end of your next turn.",
@@ -3691,7 +3699,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One dead creature",
     "effect": "You summon the animated corpse of one of your fallen enemies in an unoccupied square within range. The summoned creature is the same size as one dead creature within the range of this power. The animated creature has reach equal to the target creature’s reach and speed 6. It has a +2 bonus to AC and a +2 bonus to Fortitude. You can give the animated creature the following special commands.",
     "standardAction": "Targets one enemy in reach; Intelligence vs. AC; 1d10 + Intelligence modifier necrotic damage.",
@@ -3711,7 +3719,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "4d8 + Intelligence modifier necrotic damage, and the target is immobilized (save ends). If the target is undead, it takes no damage, and it is dominated instead of immobilized (save ends).",
@@ -3731,7 +3739,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier necrotic damage, and the target takes ongoing 10 necrotic damage and is stunned (save ends both). Other creatures cannot gain line of sight or line of effect to the target while it is stunned.",
@@ -3751,7 +3759,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can replace an unexpended wizard utility or daily power with another power of the same level that is in your spellbook. You gain a +1 power bonus to attack rolls with that power until the end of your next turn."
   },
   "Repelling Shield": {
@@ -3768,7 +3776,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by a melee attack",
     "effect": "You gain a +4 power bonus to AC and Reflex until the end of your next turn. If any creature makes a melee attack against you while this effect lasts, you can push it 1 square after the attack resolves."
   },
@@ -3786,7 +3794,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "Intelligence modifier cold damage.",
@@ -3824,7 +3832,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d10 + Intelligence modifier thunder damage. If the target leaves the space it currently occupies before the start of your next turn, it takes an extra 1d10 + Intelligence modifier thunder damage."
@@ -3843,7 +3851,7 @@
     "keywords": [
       "Arcane, Zone"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "effect": "The burst creates a zone that lasts until the end of your next turn. Enemies within the zone cannot teleport, use teleportation powers, or benefit from phasing. Further, within the zone, magic portals fail to function and creatures cannot access other planes or extradimensional spaces.",
     "sustainMinor": "The zone persists."
   },
@@ -3861,7 +3869,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and any enemy adjacent to the target takes psychic damage equal to your Intelligence modifier.<br/>Level 21: 2d8 + Intelligence modifier damage."
@@ -3880,7 +3888,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "effect": "The burst creates a zone of bright light until the end of your next turn. Creatures are blinded while within the zone. If a creature vulnerable to radiant damage starts its turn within the zone, it takes damage equal to double its vulnerability."
   },
   "Thunderstaff": {
@@ -3897,7 +3905,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Thunder"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "requirement": "You must be wielding a staff.",
     "trigger": "An enemy moves to within 2 squares of you.",
     "target": "The triggering enemy",
@@ -3920,7 +3928,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure an able companion in an unoccupied square within range until the end of the encounter. When an ally starts its turn adjacent to the companion, that ally can stand or shift 1 square as a free action. You can move the companion 2 squares as a minor action or 6 squares as a move action."
   },
   "Tome of Transposition": {
@@ -3937,7 +3945,7 @@
     "keywords": [
       "Arcane, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "requirement": "You must be wielding a tome.",
     "attack": "Intelligence vs. Reflex",
     "target": "One creature",
@@ -3958,7 +3966,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You and one ally in the burst",
     "effect": "Each target teleports, swapping positions."
   },
@@ -3976,7 +3984,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "You must be wielding a wand.",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
@@ -3996,7 +4004,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Poison, Summoning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You summon a Large angel wretch in an unoccupied space within range. The angel wretch has a fly speed of 8. It has a +4 bonus to AC and a +4 bonus to Fortitude. You can give the angel wretch the following special commands.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 2d8 + Intelligence modifier necrotic damage.",
     "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 2d8 + Intelligence modifier necrotic damage."
@@ -4015,7 +4023,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport 20 squares. You do not need line of sight to your destination."
   },
   "Orb of Doom": {
@@ -4032,7 +4040,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Area burst 3 within 20<",
+    "range": "Area burst 3 within 20",
     "requirement": "You must be wielding an orb.",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
@@ -4052,7 +4060,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10<",
+    "range": "Area burst 1 within 10",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 psychic damage, and the target cannot take opportunity actions until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 psychic damage."
@@ -4071,7 +4079,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "You slide the target up to 3 squares. The target is then dazed until the end of your next turn.",
@@ -4091,7 +4099,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to Diplomacy checks and a +2 power bonus to charm attack rolls until the end of your next turn."
   },
   "Memory to Mist": {
@@ -4108,7 +4116,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 2<",
+    "range": "Ranged 2",
     "target": "One creature that is not involved in combat and that is lower level than you",
     "effect": "The creature forgets everything that happened in the past 10 minutes and for the next 1 minute."
   },
@@ -4126,7 +4134,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "The illusion of a creature or an object up to Medium size appears in an unoccupied square within range. It can make sounds and can move within its square, but it cannot leave it. Each of its defenses is 10. The illusion lasts until the end of the encounter, until an attack hits it, or until a creature touches it or moves through it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;An Insight check (DC 15 + one-half your level + your Intelligence modifier) allows a creature to determine that the image is an illusion."
   },
   "Arcane Bolt": {
@@ -4143,7 +4151,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "The target takes force damage equal to 5 + your Intelligence modifier + the enhancement bonus of your implement."
   },
@@ -4161,7 +4169,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +5 power bonus to Intimidate checks and increase the distance of any forced movement you cause by 2 squares."
   },
   "Charm of the Defender": {
@@ -4178,7 +4186,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "You slide the target up to 3 squares, and it is immobilized until the end of your next turn. Also until the end of your next turn, when an enemy starts its turn adjacent to the target, the target makes a melee basic attack against that enemy as a free action. The target gains a power bonus to the attack roll and the damage roll equal to your implement’s enhancement bonus.",
@@ -4198,7 +4206,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a +5 power bonus to Bluff checks and you retain the use of any single-target, encounter charm spells that miss."
   },
   "Arcane Arrows": {
@@ -4215,7 +4223,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature, or two creatures that are adjacent to each other",
     "effect": "Each target takes force damage equal to 10 + your Intelligence modifier + your implement’s enhancement bonus."
   },
@@ -4233,7 +4241,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 2<",
+    "range": "Ranged 2",
     "target": "One creature that is not involved in combat and that is lower level than you",
     "effect": "You ask the creature one question, and it must answer truthfully."
   },
@@ -4251,7 +4259,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "Slide the target a number of squares equal to its speed. It is immobilized until the end of your next turn. In addition, until the end of your next turn, whenever an enemy starts its turn next to or moves to a square adjacent to the target, the target must make a melee basic attack as a free action against that enemy. The target gains a bonus to the attack roll and damage roll equal to your implement’s enhancement bonus. Each time it hits with this attack, you can slide the target 2 squares."
@@ -4270,7 +4278,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature, or two or three creatures that are adjacent to at least one other target.",
     "effect": "Each target takes force damage equal to 5 + your Intelligence modifier + your implement’s enhancement bonus. If you have selected only two targets, increase the damage each target takes by 5. If you have selected only one target, instead increase the damage it takes by 10."
   },
@@ -4288,7 +4296,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dominated until the end of your next turn. In addition, at the start of the target’s next turn, you can slide it its speed. Until the end of your next turn, whenever an enemy starts its turn next to or moves to a square adjacent to the target, the target must make a melee basic attack as a free action against that enemy. The target gains a bonus to the attack roll and damage roll equal to your implement’s enhancement bonus."
@@ -4307,7 +4315,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy moves adjacent to you",
     "effect": "You become insubstantial until the end of your next turn. Then you shift 2 squares to a square farther from the triggering enemy."
   },
@@ -4325,7 +4333,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use an arcane attack power and miss with at least two of that power’s attack rolls",
     "effect": "You reroll the attack rolls that missed their targets and use the new results."
   },
@@ -4343,7 +4351,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier cold damage, and you create a zone of sudden cold in a burst 2 centered on the target until the end of your next turn. The zone moves with the target. The zone is difficult terrain, and any enemy that ends its turn in the zone takes 5 cold damage.",
@@ -4380,7 +4388,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement"
     ],
-    "range": "Area burst 2 within 10<",
+    "range": "Area burst 2 within 10",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier acid damage.",
@@ -4400,7 +4408,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport up to 20 squares to the square occupied by your familiar and your familiar enters passive mode."
   },
   "Repelling Sphere": {
@@ -4417,7 +4425,7 @@
     "keywords": [
       "Arcane, Evocation, Force, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "activeFamiliar": "You can center this burst on your familiar instead of on you.",
     "attack": "Intelligence vs. Fortitude",
     "target": "Each enemy in the burst",
@@ -4437,7 +4445,7 @@
     "keywords": [
       "Arcane, Implement, Zone"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "effect": "The burst becomes a zone of protection until the end of your next turn. You and allies gain resist to all damage equal to your Intelligence modifier while in the zone. Enemies must spend 2 extra squares of movement to enter the zone. You make an attack.",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
@@ -4459,7 +4467,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "An enemy hits you or an ally",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
@@ -4480,7 +4488,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a form identical to your familiar until the end of the encounter and, for the same duration, can change back or forth between this and your natural form as a minor action. In this form, you gain the movement modes, speed, and special senses of your familiar but cannot make attacks."
   },
   "Thunderous Transformation": {
@@ -4497,7 +4505,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation, Thunder, Transmutation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier thunder damage, and any creature within 2 squares of the target takes 10 thunder damage and falls prone. Then you teleport the target 5 squares.",
@@ -4517,7 +4525,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "Your familiar must be in a square it could occupy as a Medium creature.",
     "target": "Your familiar",
     "effect": "Until the end of the encounter, your familiar becomes a Medium creature, gains a hit point total equal to your bloodied value, and can flank with you or your allies. While in this form, when any enemy adjacent to the familiar is hit by an attack, you may uses a free action to have the familiar knocks that enemy prone, push it 1 square, or shifts 1 square and slides that enemy into the square the familiar left."
@@ -4536,7 +4544,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier necrotic damage, and the target is slowed and grants combat advantage until the end of the target’s next turn. At the end of the target’s next turn, any enemy within 2 squares of the target takes 10 necrotic damage and you push that enemy 2 squares from the target.",
@@ -4556,7 +4564,7 @@
     "keywords": [
       "Arcane, Enchantment, Implement, Psychic, Zone"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage, and a burst 3 centered on the target becomes a zone of numbed thought until the end of your next turn. This zone moves with the target. Any enemy that ends its turn in the zone takes 10 psychic damage, and any enemy that enters or leaves the zone becomes dazed until the end of your next turn.",
@@ -4576,7 +4584,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One, two, or three creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier damage, or 2d8 + Intelligence modifier damage if you target only one creature."
@@ -4595,7 +4603,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Thunder, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier thunder damage, and you slide the target 1 square.",
@@ -4617,7 +4625,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "One square in range becomes difficult terrain until the end of the encounter. You can end this effect as a minor action.",
     "special": "You cannot have more squares than your Intelligence modifier under this effect at one time."
   },
@@ -4635,7 +4643,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier fire damage.",
@@ -4655,7 +4663,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "You slide the target 2 squares.",
@@ -4679,7 +4687,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a ladder of arcane force in an unoccupied square within range. The ladder can be up to 8 squares tall and lasts until the end of the encounter. The ladder stands firmly, does not need to be attached to anything, and cannot be moved unless you permit it. Climbing the ladder requires a DC 10 Athletics check."
   },
   "Corrosive Mist": {
@@ -4696,7 +4704,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier acid damage, or 3d8 + Intelligence modifier acid damage if there is only one target.",
@@ -4716,7 +4724,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "Each ally in the area can fall prone as a free action.",
     "target": "Each nonprone creature in the burst",
     "attack": "Intelligence vs. Reflex",
@@ -4737,7 +4745,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Small dretch in an unoccupied space within range. The dretch has speed 5. If the dretch is reduced to 0 hit points, creatures adjacent to it take 5 poison damage. You can give the dretch the following special command.",
     "standardAction": "Melee 1; targets one or two creatures; Intelligence vs. Reflex; 2d6 + Intelligence modifier damage.",
     "intrinsicNature": "If you haven’t given the dretch any commands by the end of your turn, it attacks or charges the nearest creature and makes its listed attack (above) in place of a melee basic attack. If it cannot attack or charge, it moves 5 squares toward the nearest creature. In addition, you take 1d6 damage each time you take a standard or move action before the end of your next turn.",
@@ -4757,7 +4765,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Small dust devil in an unoccupied space within range. The dust devil has speed 8. You can give the dust devil the following special command.",
     "standardAction": "Close burst 1; targets each creature in the burst; Intelligence vs. Reflex; 1d10 + Intelligence modifier damage, and the dust devil slides the target 2 squares.",
     "intrinsicNature": "If you haven’t given the dust devil any commands by the end of your turn, it attacks an adjacent creature. If it can’t do that, it moves its speed toward the nearest creature. In addition, you fall prone.",
@@ -4777,7 +4785,7 @@
     "keywords": [
       "Arcane, Implement, Poison, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Small imp in an unoccupied space within range. The imp has speed 4, fly 6 (hover), and resist 5 fire. You can give the imp the following special command.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage, and ongoing 5 poison damage (save ends). The imp becomes invisible until the start of your next turn.",
     "intrinsicNature": "If you haven’t given the imp any commands by the end of your turn, it attacks an adjacent enemy that grants it combat advantage. If it can’t do that, it turns invisible and moves its speed to a square adjacent to an enemy. In addition, you grant combat advantage to all enemies until the end of your next turn.",
@@ -4797,7 +4805,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium magma beast in an unoccupied space within range. The magma beast has speed 4 (8 while charging) and resist 5 fire. You can give the magma beast the following special command.",
     "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d10 + Intelligence modifier fire damage, and the target takes ongoing 5 fire damage and is slowed (save ends both).",
     "intrinsicNature": "If you haven’t given the magma beast any commands by the end of your turn, it attacks an adjacent creature or charges the nearest creature it can charge and makes its listed attack (above) in place of a melee basic attack. Otherwise, it moves its speed toward the nearest enemy. In addition, you are slowed until the end of your next turn.",
@@ -4817,7 +4825,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium hell hound in an unoccupied space within range. The hell hound has speed 7 and resist 10 fire. Any creature that enters a square adjacent to it or starts its turn there takes 5 fire damage. You can give the hell hound the following special command.",
     "standardAction": "Close blast 3; targets each creature in the blast; Intelligence vs. Reflex; 2d6 + Intelligence modifier fire damage.",
     "intrinsicNature": "If you haven’t given the hell hound any commands by the end of your turn, it makes its attack against at least one enemy, targeting as many creatures as possible. If it can’t target any enemies, it moves its speed toward the nearest enemy. In addition, you take 5 fire damage.",
@@ -4837,7 +4845,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium succubus in an unoccupied space within range. The succubus has speed 6, fly 6, and resist 10 fire. You can give the succubus the following special command.",
     "standardAction": "Ranged 5; targets one creature; Intelligence vs. Will; 1d10 + Intelligence modifier damage, and the target is dominated until the end of your next turn. Once a creature has been dominated, the target cannot be dominated by the succubus again this encounter.",
     "intrinsicNature": "If you haven’t given the succubus any commands by the end of your turn, it shifts 1 square and attacks the nearest enemy within range that is not dominated. In addition, you are dazed until the end of your next turn.",
@@ -4857,7 +4865,7 @@
     "keywords": [
       "Arcane, Implement, Summoning, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Medium stormstone fury in an unoccupied space within range. The stormstone fury has speed 6 and resist 10 thunder. You can give the stormstone fury the following special commands.",
     "standardAction": "Area burst 2 within 10; targets each creature in the burst; Intelligence vs. Reflex; 1d12 + Intelligence modifier thunder damage. A target in the origin square of the burst takes 2d8 extra damage if hit.",
     "intrinsicNature": "If you haven’t given the stormstone fury any commands by the end of your turn, it makes its attack targeting as many creatures as possible. In addition, you take 5 thunder damage and fall prone.",
@@ -4877,7 +4885,7 @@
     "keywords": [
       "Arcane, Implement, Poison, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large vrock in an unoccupied space within range. The vrock has speed 6 and fly 8. You can give the vrock the following special command.",
     "standardAction": "The vrock moves its fly speed and makes the following attack at one point during the movement; melee 2; targets one creature; Intelligence vs. Reflex; 2d10 + Intelligence modifier damage. The vrock does not provoke opportunity attacks for this movement from the target of its attack.",
     "intrinsicNature": "If you haven’t given the vrock any commands by the end of your turn, it makes its attack against the nearest creature. If it can’t reach any targets, it moves its speed toward the nearest creature. In addition, you take10 poison damage and you lose your minor action on your next turn.",
@@ -4897,7 +4905,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Radiant, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large couatl in an unoccupied space within range. The couatl has speed 6, fly 8 (hover), and is immune to being immobilized or restrained. You can give the couatl the following special command.",
     "standardAction": "Ranged 20; targets one creature; Intelligence vs. Reflex; 2d10 + Intelligence modifier lightning and radiant damage, or 3d10 + Intelligence modifier lightning and radiant damage against demons.",
     "intrinsicNature": "If you haven’t given the couatl any commands by the end of your turn, it shifts 1 square and attacks the nearest creature within range. In addition, you take 10 radiant damage and the couatl pushes you 2 squares.",
@@ -4917,7 +4925,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large rockfire dreadnought in an unoccupied space within range. The rockfire dreadnought has speed 8, a +2 bonus to AC, and resist 10 fire. Any creature that enters a square adjacent to it or starts its turn there takes 10 fire damage. You can give the rockfire dreadnought the following special command.",
     "standardAction": "Melee 2; targets one creature; Intelligence vs. Reflex; 2d10 + Intelligence modifier fire damage.",
     "intrinsicNature": "If you haven’t given the rockfire dreadnought any commands by the end of your turn, it attacks the nearest enemy within its reach. If no enemies are within its reach, it attacks the nearest creature within reach of it. Otherwise it moves its speed toward the nearest enemy. In addition, you take 10 fire damage and take a -2 penalty to AC until the end of your next turn.",
@@ -4937,7 +4945,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large earthwind ravager in an unoccupied space within range. The ravager has fly 8 (hover). You can give the earthwind ravager the following special command.",
     "standardAction": "Ranged 5; targets one creature; Intelligence vs. Fortitude; 3d8 + Intelligence modifier damage, and the target is immobilized until the end of the earthwind ravager’s next turn.",
     "intrinsicNature": "If you haven’t given the earthwind ravager any commands by the end of your turn, it shifts 1 square and attacks the creature it attacked last. If it can’t attack the creature it attacked last, it attacks the nearest creature within range. In addition, you take 10 damage and you are immobilized until the end of your next turn.",
@@ -4957,7 +4965,7 @@
     "keywords": [
       "Arcane, Implement, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large marilith in an unoccupied space within range. The marilith has speed 8. You can give the marilith the following special command.",
     "standardAction": "The marilith makes three of the following attacks: Melee 2; targets one creature; Intelligence vs. Reflex; 2d10 + Intelligence modifier damage (3d10 + Intelligence modifier damage against bloodied creatures), and the marilith shifts 2 squares.",
     "intrinsicNature": "If you haven’t given the marilith any commands by the end of your turn, it attacks the nearest enemy within its reach, or the nearest creature within its reach if no enemies are within its reach. If no enemies are within its reach, it moves its speed toward the nearest enemy. In addition, you take15 damage (20 if you are bloodied).",
@@ -4977,7 +4985,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Lightning, Summoning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Huge balor in an unoccupied space within range. The balor has a speed of 8, a fly speed of 12 (clumsy), resist 25 fire, and creatures that start their turns within 2 squares of the balor take 10 fire damage. You can give the balor the following special command.",
     "standardAction": "Melee 5; targets one creature; Intelligence vs. Reflex; 4d10 + Intelligence modifier fire and lightning damage, and the balor slides the target 5 squares into an unoccupied space adjacent to the balor.",
     "intrinsicNature": "If you haven’t given the balor any commands by the end of your turn, it attacks the nearest creature within its reach. If there are no creatures within its reach it moves its speed toward the nearest enemy. Additionally, if you are within its reach, the balor makes its melee attack against you.",
@@ -4997,7 +5005,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Summoning, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You summon a Large djinn in an unoccupied space within range. The djinn has speed 6, fly 8 (hover), and resist 15 thunder. You can give the djinn the following special command.",
     "standardAction": "Close burst 2; targets creatures in the burst; Intelligence vs. Reflex; 3d10 + Intelligence modifier lightning and thunder damage. Effect: The djinn slides the target 3 squares.",
     "intrinsicNature": "If you haven’t given the djinn any commands by the end of your turn, it shifts its speed and makes its attack, trying to catch as many creatures in the burst as possible. In addition, you take 10 thunder damage, fall prone, and are restrained until the end of your next turn.",
@@ -5017,7 +5025,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d10 + Intelligence modifier fire damage, and any creature that ends its turn adjacent to the target before the end of the target’s next turn takes fire damage equal to your Intelligence modifier.<br/>Level 21: 2d8 + Intelligence modifier fire damage."
@@ -5036,7 +5044,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Teleportation"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier fire damage, and the target cannot see anything farther than 3 squares from it until the end of your next turn.",
@@ -5056,7 +5064,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take fire damage",
     "effect": "Reduce the triggering fire damage to 0 and remove yourself from play until the start of your next turn. When you return to play, you reappear in any space within 10 squares of the square you left and within line of sight to that square."
   },
@@ -5074,7 +5082,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close blast 2<",
+    "range": "Close blast 2",
     "primaryTarget": "One creature in the blast",
     "attack": "Intelligence vs. Reflex. This attack ignores cover and superior cover.",
     "onHit": "2d6 + Intelligence modifier fire damage.",
@@ -5100,14 +5108,15 @@
     "keywords": [
       "Arcane, Fire, Implement, Polymorph, Transmutation"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "bonusPower": {
       "name": "Serpents of Flame Attack",
       "flavor": "",
       "keywords": [
         "Arcane, Fire, Implement, Polymorph, Transmutation"
       ],
-      "range": "Melee 2<",
+      "range": "Melee 2",
+      "frequency": "Daily",
       "requirement": "The power Serpents of Flame must be active in order to use this power.",
       "trigger": "An enemy leaves a square within 2 squares of you without shifting",
       "secondaryTarget": "The triggering enemy",
@@ -5135,7 +5144,7 @@
     "keywords": [
       "Arcane, Fire"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and one or two allies in the burst",
     "effect": "The target gains resist 10 cold and resist 10 fire until the end of your next turn. Whenever a creature makes a melee attack against the target, the attacker takes 15 fire damage. No creature can take this damage more than once per turn."
   },
@@ -5153,7 +5162,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20<",
+    "range": "Area burst 2 within 20",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier fire damage, and the target takes ongoing 10 fire damage (save ends).",
@@ -5179,7 +5188,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter or until you leave your square, you gain the following benefits: When making an arcane fire attack, you gain a +2 power bonus to attack rolls and a power bonus to damage rolls equal to your Intelligence modifier. You also gain a bonus to Arcana checks equal to your Intelligence modifier."
   },
   "Flaming Rebuke": {
@@ -5196,7 +5205,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "trigger": "An enemy misses you with an attack",
     "target": "The triggering enemy",
     "attack": "Intelligence vs. Reflex",
@@ -5216,7 +5225,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make a Diplomacy check.",
     "effect": "You make an Arcana check instead, using that result to determine the outcome of the Diplomacy check."
   },
@@ -5234,7 +5243,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier lightning damage.<br/>Level 21: 2d6 + Intelligence modifier lightning damage."
@@ -5253,7 +5262,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "Intelligence modifier psychic damage, and you push the target up to 3 squares.<br/>Level 21: 3 + Intelligence modifier psychic damage."
@@ -5272,7 +5281,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d6 + Intelligence modifier cold damage, and you can slide the target 1 square. <br/>Level 21: 2d6 + Intelligence modifier cold damage."
@@ -5291,7 +5300,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "Choose one of the following effects:<br/>* The target uses a free action to make a melee basic attack against a creature of your choice, with a +4 power bonus to the attack roll.<br/>* You slide the target up to 3 squares."
@@ -5310,7 +5319,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and the target grants combat advantage and can’t make opportunity attacks until the end of your next turn.<br/>Level 21: 2d8 + Intelligence modifier psychic damage."
@@ -5329,7 +5338,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage. If the target moves before the end of your next turn, it takes 5 psychic damage.<br/>Level 21: 2d8 + Intelligence modifier psychic damage."
@@ -5348,7 +5357,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dazed and unable to charge until the end of your next turn.",
@@ -5368,7 +5377,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier fire damage.",
@@ -5389,7 +5398,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "You must use this power outside a combat encounter.",
     "target": "One creature",
     "effect": "The target makes a saving throw. The saving throw has a +5 bonus if the target is the same level as you or a higher level. It takes a -5 penalty if the target is a lower level than you or does not have a level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the saving throw succeeds, this power has no effect. The target is aware that you used this power on it if it is the same level as you or a higher level. Otherwise, it does not know you used this power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;On a failed saving throw, the target treats you as a trusted friend for 1d4 hours. It truthfully answers all questions you ask and aids you in any way it can as long as doing so does not risk its life or property. While the target is under this effect, you gain a +5 power bonus to Bluff checks against it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This effect ends if you or any of your allies attacks the target or any of its allies. Afterward, the target doesn’t remember that you used this power on it."
@@ -5408,7 +5417,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "effect": "Each target is slowed and can’t take opportunity actions or immediate actions until the end of your next turn."
   },
@@ -5426,7 +5435,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is stunned until the start of your next turn. This effect also ends if the target is attacked.",
@@ -5447,7 +5456,7 @@
     "keywords": [
       "Arcane, Fear, Illusion"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "effect": "Each target is slowed until the end of your next turn. Also until the end of your next turn, the first time the target makes an attack, it must make a saving throw. If the saving throw fails, you can use a free action to change the target of its attack to a different creature within range of that attack. If the target hits one of its allies with that attack, that ally takes 5 extra damage."
   },
@@ -5465,7 +5474,7 @@
     "keywords": [
       "Arcane, Fear, Illusion"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "effect": "The target becomes haunted by an illusion of its deepest fears (save ends). Until the illusion ends, the target can’t make opportunity attacks and you can use the secondary power against it. Whenever the target is either hit by or takes damage from any effect other than the secondary power, it can make another saving throw to end the illusion.",
     "requirement": "The power Phantasmal Killer must be active in order to use this power.",
@@ -5487,7 +5496,7 @@
     "keywords": [
       "Arcane, Enchantment, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dazed and immobilized (save ends both).",
@@ -5508,7 +5517,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are damaged by an area attack or a close attack.",
     "effect": "You take half damage from the triggering attack. Until the end of your next turn, you gain a +5 power bonus to damage rolls with wizard attack powers that share at least one damage type with the triggering attack."
   },
@@ -5526,7 +5535,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "effect": "The target is restrained until the end of your next turn."
   },
@@ -5544,7 +5553,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Area wall 6 within 10 squares<",
+    "range": "Area wall 6 within 10 squares",
     "target": "Each creature in the wall",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier lightning damage.",
@@ -5564,7 +5573,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d8 + Intelligence modifier cold damage.",
@@ -5585,7 +5594,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier psychic damage, and you slide the target up to 4 squares.",
@@ -5606,7 +5615,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dazed and slowed (save ends both).",
@@ -5627,7 +5636,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "Choose an enemy you can see. The target gains one of the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Movement: If the enemy has a climb speed, a fly speed, or a swim speed, the target gains that movement mode and speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Resist: If the enemy has resistance or immunity to a damage type, the target gains resist 10 to the same damage type.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Senses: If the enemy has low-light vision, darkvision, blindsight, or tremorsense, the ally gains that sense.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the enemy has more than one option in one of these categories, you learn all the choices and choose one when you use this power."
   },
@@ -5645,7 +5654,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Intelligence vs. Reflex",
     "onHit": "5d6 + Intelligence modifier fire damage.",
@@ -5665,7 +5674,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "effect": "You slide each target up to 5 squares. Each target then makes a melee basic attack against a creature of your choice as a free action."
   },
@@ -5683,7 +5692,7 @@
     "keywords": [
       "Arcane, Illusion, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is stunned (save ends). This effect also ends if the target is attacked or subjected to forced movement.",
@@ -5704,7 +5713,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Fear, Psychic"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "effect": "You slide each target up to 3 squares, and then each target makes a melee basic attack against a creature of your choice as a free action. If that attack misses, the target of this power takes 15 psychic damage."
   },
@@ -5722,7 +5731,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You regain the use of one of your expended wizard utility powers of level 16 or lower."
   },
   "Charm of False Heroism": {
@@ -5739,7 +5748,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "You slide the target up to 6 squares, and it is dazed and immobilized until the end of your next turn. Until the end of your next turn, whenever a creature enters a square adjacent to the target, you can use an opportunity action to force the target to make a melee basic attack against that creature as a free action.",
@@ -5759,7 +5768,7 @@
     "keywords": [
       "Arcane, Evocation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You create a small orb of energy that hovers by you until the end of your next turn. While the orb persists, you can use the secondary power. Once you do so, the orb is destroyed.",
     "sustainMinor": "The orb persists until the end of your next turn.",
     "requirement": "The power Delayed Blast Fireball must be active in order to use this power.",
@@ -5782,7 +5791,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Fear"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One enemy",
     "effect": "The target is affected by mind of rage (save ends). This effect also ends if you or any of your allies attacks or deals damage to the target. While the target is affected by mind of rage, at the start of its turn it charges a creature of your choice as a free action. The charge attack gains a +4 power bonus to the attack roll and the damage roll. In addition, when an ally of the target ends its turn adjacent to the target, the target makes a melee basic attack against that ally as a free action.",
     "aftereffect": "The target is dazed until the end of its next turn."
@@ -5801,7 +5810,7 @@
     "keywords": [
       "Arcane, Fear, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d10 + Intelligence modifier psychic damage, and the target cannot willingly move closer to you until the end of your next turn.",
@@ -5821,7 +5830,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is helpless and stunned (save ends both).",
@@ -5842,7 +5851,7 @@
     "keywords": [
       "Arcane, Implement, Transmutation"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier damage, and the target is slowed until the end of your next turn."
@@ -5861,7 +5870,7 @@
     "keywords": [
       "Arcane, Implement, Polymorph, Transmutation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target turns into a Tiny toad (save ends).",
@@ -5882,7 +5891,7 @@
     "keywords": [
       "Arcane, Implement, Transmutation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage.",
@@ -5902,7 +5911,7 @@
     "keywords": [
       "Arcane, Necromancy, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One undead creature",
     "effect": "The target’s necrotic resistance, if any, is reduced by 5 until the end of your turn."
   },
@@ -5920,7 +5929,7 @@
     "keywords": [
       "Arcane, Nethermancy, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You would make an Intimidate check.",
     "effect": "You instead make an Arcana check and use that result to determine the outcome of the Intimidate check."
   },
@@ -5938,7 +5947,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Shadow, Zone"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One nonflying creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d8 + Intelligence modifier damage. The squares adjacent to the target become a zone that lasts until the end of your next turn. The ground of the zone is difficult terrain for your enemies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier damage."
@@ -5957,7 +5966,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier necrotic damage. If the target is undead, it also gains vulnerable 5 to all damage until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier necrotic damage.",
@@ -5977,7 +5986,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Nethermancy, Psychic, Shadow"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "1d8 + Intelligence modifier psychic damage, and the target cannot make opportunity attacks against you until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier psychic damage."
@@ -5996,7 +6005,7 @@
     "keywords": [
       "Arcane, Implement, Nethermancy, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d4 + Intelligence modifier damage. If the target has vulnerability to any damage types, the damage is of those types. If the target has no vulnerabilities, you gain a power bonus to the damage roll equal to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d4 + Intelligence modifier damage."
@@ -6015,7 +6024,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier necrotic damage.",
@@ -6035,7 +6044,7 @@
     "keywords": [
       "Arcane, Implement, Nethermancy, Psychic, Shadow, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d6 + Intelligence modifier psychic damage. If the target is in the origin square, the target is also dazed until the end of your next turn.",
@@ -6055,7 +6064,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Nethermancy, Shadow"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude. You have combat advantage against the target if it is bloodied.",
     "onHit": "2d8 + Intelligence modifier necrotic damage, and the target is weakened (save ends).",
@@ -6075,7 +6084,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier necrotic damage, and the target is immobilized (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the target is undead, it takes no damage and is not immobilized. Instead, the target must take a free action to move as far as its speed allows to a square farther away from you, and it is dazed (save ends).",
@@ -6095,7 +6104,7 @@
     "keywords": [
       "Arcane, Necromancy, Shadow"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "A nonminion living creature dies within 5 squares of you.",
     "target": "You or one ally",
     "effect": "The target gains temporary hit points equal to his or her healing surge value."
@@ -6114,7 +6123,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Shadow"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage.",
@@ -6134,7 +6143,7 @@
     "keywords": [
       "Arcane, Implement, Nethermancy, Psychic, Shadow"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier psychic damage.",
@@ -6154,7 +6163,7 @@
     "keywords": [
       "Arcane, Shadow, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "prerequisite": "You must have the Expert Mage benefit associated with necromancy or nethermancy.",
     "effect": "You summon a creature associated with your necromancy or nethermancy Expert Mage benefit. The creature appears in an unoccupied space within range, and it is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the creature makes an attack roll or a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you use a minor action to dismiss it or until you use this power again."
   },
@@ -6172,7 +6181,7 @@
     "keywords": [
       "Arcane, Shadow, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of the encounter. You and your allies have darkvision while in the zone."
   },
   "Shadow Investiture": {
@@ -6189,7 +6198,7 @@
     "keywords": [
       "Arcane, Shadow"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "Until the end of the encounter, each target has darkvision and necrotic resistance equal to 5 + your Wisdom modifier."
   },
@@ -6207,7 +6216,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Shadow, Zone"
     ],
-    "range": "Melee 1 or Ranged 5<",
+    "range": "Melee 1 or Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier necrotic damage, and the target is immobilized until the end of your next turn. The attack creates a zone in a burst 2 centered on the target. The zone lasts for as long as the target is immobilized by this power. Any creature (except you) that ends its turn in the zone takes 5 necrotic damage, and it grants combat advantage while in the zone.",
@@ -6227,7 +6236,7 @@
     "keywords": [
       "Arcane, Conjuration, Implement, Nethermancy, Psychic, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One enemy",
     "attack": "Intelligence vs. Will",
     "onHit": "5 + Intelligence modifier psychic damage, and the target is dazed until the end of its next turn.",
@@ -6249,7 +6258,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target takes necrotic damage equal to your level. It is also dazed, slowed, and weakened (save ends all).",
@@ -6269,7 +6278,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Nethermancy, Psychic, Shadow, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of the encounter. The zone is difficult terrain, and creatures grant combat advantage while in it. You then make the following attack.",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
@@ -6289,7 +6298,7 @@
     "keywords": [
       "Arcane, Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be in a square of dim light or darkness.",
     "effect": "You teleport up to 10 squares to a square of dim light or darkness. You don’t need to see the destination space to teleport, but if you can’t occupy that space, the teleportation is negated."
   },
@@ -6307,7 +6316,7 @@
     "keywords": [
       "Arcane, Nethermancy, Shadow, Zone"
     ],
-    "range": "Area wall 8 within 10 squares<",
+    "range": "Area wall 8 within 10 squares",
     "effect": "The wall creates a zone that lasts until the end of your next turn. The zone can be up to 4 squares high. The zone is heavily obscured, and squares adjacent to it are lightly obscured. The zone is difficult terrain, and creatures (except you) are blinded while they are entirely in the zone.",
     "sustainMinor": "The zone persists until the end of your next turn."
   },
@@ -6325,7 +6334,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necromancy, Necrotic, Shadow, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d8 + Intelligence modifier fire and necrotic damage, and you can slide the target 1 square.",
@@ -6345,7 +6354,7 @@
     "keywords": [
       "Arcane, Implement, Nethermancy, Psychic, Shadow, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "1d10 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn. If the target is in the origin square of the burst, the target is also blinded until the end of your next turn.",
@@ -6365,7 +6374,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Nethermancy, Shadow"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude. If the target is bloodied, you have combat advantage for this attack.",
     "onHit": "3d8 + Intelligence modifier necrotic damage. In addition, the target is slowed, is weakened, and takes a -1 penalty to attack rolls, all defenses, skill checks, and ability checks (save ends all).",
@@ -6387,7 +6396,7 @@
     "keywords": [
       "Arcane, Nethermancy, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "You or an ally within 10 squares of you is hit by a melee or a ranged attack.",
     "target": "The character who was hit",
     "effect": "The target gains partial concealment until the end of his or her next turn.",
@@ -6407,7 +6416,7 @@
     "keywords": [
       "Arcane, Healing, Necromancy, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You reduce a living enemy to 0 hit points with necrotic damage.",
     "target": "You or one ally in the burst",
     "effect": "The target regains hit points equal to your level and can make a saving throw against one effect that a save can end."
@@ -6426,7 +6435,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Nethermancy, Psychic, Shadow"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier psychic damage.",
@@ -6446,7 +6455,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d8 + Intelligence modifier fire and necrotic damage. If the creature is undead, it takes no damage. It is instead dominated until the end of your next turn.",
@@ -6466,7 +6475,7 @@
     "keywords": [
       "Arcane, Necromancy, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have at least one healing surge.",
     "effect": "You lose a healing surge and gain temporary hit points equal to your healing surge value. Until the end of the encounter, you are undead, and you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Darkvision<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Immunity to disease and poison<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Necrotic resistance equal to 10 + one-half your level"
   },
@@ -6484,7 +6493,7 @@
     "keywords": [
       "Arcane, Nethermancy, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you have a fly speed of 6 (hover) and are insubstantial and phasing.",
     "sustainMinor": "The effect persists until the end of your next turn."
   },
@@ -6502,7 +6511,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Nethermancy, Shadow"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier necrotic damage. Until the end of your next turn, the first time the target moves without shifting on its turn, it takes necrotic damage equal to your Intelligence modifier, and you can slide it 1 square as a free action.",
@@ -6522,7 +6531,7 @@
     "keywords": [
       "Arcane, Healing, Implement, Necromancy, Psychic, Shadow"
     ],
-    "range": "Melee touch or Ranged 5<",
+    "range": "Melee touch or Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d6 + Intelligence modifier psychic damage, and you regain hit points equal to half the damage dealt.",
@@ -6542,7 +6551,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Nethermancy, Psychic, Shadow, Zone"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "The triggering enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "10 necrotic and psychic damage, and the target is pulled up to 2 squares toward the zone’s origin square.",
@@ -6565,7 +6574,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "10d6 + Intelligence modifier necrotic damage. If this damage bloodies the target, it takes 20 extra necrotic damage.",
@@ -6586,7 +6595,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d6 + Intelligence modifier fire and necrotic damage.",
@@ -6607,7 +6616,7 @@
     "keywords": [
       "Arcane, Implement, Nethermancy, Psychic, Shadow, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "4d6 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn. If the target is in the burst’s origin square, the target is also stunned until the end of your next turn.",
@@ -6627,7 +6636,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Nethermancy, Shadow"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude. If the target is bloodied, it grants combat advantage to you for this attack.",
     "onHit": "The target is stunned (save ends).",
@@ -6650,7 +6659,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Necromancy, Necrotic, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier cold and necrotic damage, and the target takes ongoing 20 cold and necrotic damage (save ends). The target takes a -2 penalty to saving throws against this ongoing damage.",
@@ -6671,7 +6680,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be wielding a melee weapon in one hand and no weapon or shield in the other hand. The power’s effect ends if you stop fulfilling this requirement.",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to attack rolls and all defenses, and a +5 power bonus to damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: +10 power bonus to damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: +15 power bonus to damage rolls."
   },
@@ -6689,7 +6698,7 @@
     "keywords": [
       "Arcane, Bladespell, Fire"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
     "effect": "Dexterity modifier fire damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier fire damage.",
@@ -6709,7 +6718,7 @@
     "keywords": [
       "Arcane, Bladespell, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
     "effect": "Dexterity modifier radiant damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier radiant damage.",
@@ -6729,7 +6738,7 @@
     "keywords": [
       "Arcane, Bladespell, Cold"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
     "effect": "Dexterity modifier cold damage, and the target is slowed until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier cold damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier cold damage.",
@@ -6749,7 +6758,7 @@
     "keywords": [
       "Arcane, Bladespell, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
     "effect": "Dexterity modifier lightning damage, and the first time the target moves before the end of your next turn, it takes the lightning damage again.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier lightning damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier lightning damage.",
@@ -6769,7 +6778,7 @@
     "keywords": [
       "Arcane, Bladespell, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
     "effect": "Dexterity modifier necrotic damage, and the target falls prone if it is the same size as or smaller than the target of the triggering attack.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier necrotic damage.",
@@ -6789,7 +6798,7 @@
     "keywords": [
       "Arcane, Bladespell, Force"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
     "effect": "Dexterity modifier force damage, and you slide the target up to 3 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier force damage.",
@@ -6809,7 +6818,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Transmutation"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d8 + Intelligence modifier psychic damage. You knock the target prone and can slide it 1 square. The target cannot make opportunity attacks until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier psychic damage."
@@ -6828,7 +6837,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "1d6 + Intelligence modifier cold damage, and you push the target up to a number of squares equal to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier cold damage."
@@ -6847,7 +6856,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Lightning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "1d10 + Intelligence modifier lightning damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Intelligence modifier lightning damage.",
@@ -6867,7 +6876,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Necrotic, Nethermancy, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "1d10 + Intelligence modifier necrotic damage, and the target is slowed until the end of your next turn.",
@@ -6888,7 +6897,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Radiant"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier radiant damage, and you push the target up to a number of squares equal to your Wisdom modifier.",
@@ -6908,7 +6917,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "The target is dazed (save ends).",
@@ -6929,7 +6938,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage.",
@@ -6950,7 +6959,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack.",
     "effect": "You gain a +2 power bonus to all defenses against the attack, and you gain temporary hit points equal to 2 + your Wisdom modifier."
   },
@@ -6968,7 +6977,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "prerequisite": "You must have training in Heal.",
     "target": "One creature",
     "effect": "The target can make a saving throw and use his or her second wind if it is available."
@@ -6987,7 +6996,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One Medium or smaller object that is not fastened in place or held by a creature",
     "effect": "The target animates until the end of your next turn, and you slide it up to 5 squares. While the target is animated by this power, you can move it farther by sliding it up to 5 squares as a move action.",
     "sustainMove": "The animation persists until the end of your next turn, and you slide the target up to 5 squares."
@@ -7006,7 +7015,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d6 + Intelligence modifier cold damage.",
@@ -7026,7 +7035,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Necrotic, Nethermancy"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier necrotic damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.",
@@ -7046,7 +7055,7 @@
     "keywords": [
       "Arcane, Implement, Polymorph, Transmutation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target turns into a Tiny beast of your choosing (save ends).",
@@ -7067,7 +7076,7 @@
     "keywords": [
       "Arcane, Implement, Polymorph, Transmutation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage, and you partially transform the target’s mind and body into that of a savage monster (save ends). Until this transformation ends, the target must make an opportunity attack against any creature that willingly leaves a square adjacent to it, and if any creature ends its turn adjacent to the target, the target must use a free action to deal  damage to that creature equal to 5 + your Intelligence modifier.",
@@ -7087,7 +7096,7 @@
     "keywords": [
       "Arcane, Zone"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are damaged by an attack.",
     "effect": "You are removed from play until the start of your next turn. The space you vacate becomes a zone that is heavily obscured and lasts until the end of the encounter. At the start of your next turn, you reappear in a square of your choice up to 5 squares from the zone."
   },
@@ -7105,7 +7114,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An enemy ends its turn within 5 squares of you.",
     "effect": "You and each ally in the burst can shift 1 square as a free action."
   },
@@ -7123,7 +7132,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "You or one ally",
     "effect": "You remove one effect from the target that a save can end."
   },
@@ -7141,7 +7150,7 @@
     "keywords": [
       "Arcane, Conjuration, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "1d10 + Intelligence modifier radiant damage. You slide the target up to 2 squares, and it makes a basic attack as a free action against a creature of your choice.",
@@ -7161,7 +7170,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier poison damage.",
@@ -7181,7 +7190,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier psychic damage, and you slide the target up to a number of squares equal to your Wisdom modifier. The target also takes ongoing 5 psychic damage (save ends).",
@@ -7202,7 +7211,7 @@
     "keywords": [
       "Arcane, Enchantment, Implement, Psychic, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d12 + Intelligence modifier psychic damage.",
@@ -7224,7 +7233,7 @@
     "keywords": [
       "Arcane, Transmutation, Zone"
     ],
-    "range": "Area wall 3 within 10 squares<",
+    "range": "Area wall 3 within 10 squares",
     "effect": "The wall creates a zone that lasts until the end of the encounter. The zone can be up to 4 squares high and must be on a solid surface. The zone can provide partial cover and blocks line of sight. The zone is difficult terrain, and when any enemy attempts to leave a square in the zone, the creature must succeed on a saving throw or be immobilized until the start of its next turn. Once per round as a minor action, you can expand or contract the zone by 2 squares in any direction.",
     "special": "If the zone is created in an area of natural vegetation, the zone’s squares can be attacked, and it doesn’t vanish at the end of the encounter, instead remaining until destroyed. Each square of the zone has 25 hit points and vulnerable 10 fire and can be hit automatically by any attack, but it is immune to forced movement, all conditions, and attacks that target Will."
   },
@@ -7242,7 +7251,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Necrotic, Nethermancy, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "2d8 + Intelligence modifier necrotic damage, and the target is slowed until the end of your next turn.",
@@ -7263,7 +7272,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Radiant"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "3d6 + Intelligence modifier radiant damage, and you push the target up to a number of squares equal to your Wisdom modifier.",
@@ -7283,7 +7292,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d6 + Intelligence modifier psychic damage, and the target is dominated (save ends). Until the domination ends, you are removed from play. You can end the domination at the start of your turn. When you return to play, you appear in an unoccupied space within 5 squares of the target.",
@@ -7303,7 +7312,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Necromancy, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "4d10 + Intelligence modifier cold and necrotic damage.",
@@ -7324,7 +7333,7 @@
     "keywords": [
       "Arcane, Polymorph, Transmutation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you transform your body from the waist down into the body of a creature with more than two legs, such as a horse, a lizard, or a giant spider. While in this form, you retain your equipment and gain +4 power bonus to speed. When you move willingly, you can choose one adjacent ally, and for each square you move you can pull that ally 1 square. Your size category also increases by one (from Medium to Large, for instance however, your weapons do not grow, and when you use a close power, you must choose a single square in your space as its origin square. You can end this form as a minor action."
   },
   "Tides of Fate": {
@@ -7341,7 +7350,7 @@
     "keywords": [
       "Arcane, Aura"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 3 that lasts until you end it as a minor action or until you fall unconscious. Any ally who fails a skill check in the aura gains a +2 bonus the next time he or she makes the same kind of skill check, and any ally who fails a saving throw in the aura gains a +2 power bonus to his or her next saving throw. Any enemy in the aura that hits you or an ally in the aura grants combat advantage until the end of its next turn."
   },
   "Choking Shadow": {
@@ -7358,7 +7367,7 @@
     "keywords": [
       "Arcane, Cold, Conjuration, Implement, Necrotic, Nethermancy"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "effect": "You conjure your shadow in an unoccupied square adjacent to the target. The shadow lasts until the end of your next turn or until the target is not adjacent to it. The shadow then makes the following attack against the target.",
     "attack": "Intelligence vs. Reflex",
@@ -7380,7 +7389,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier cold damage, and you push the target up to 5 squares and knock it prone.",
@@ -7400,7 +7409,7 @@
     "keywords": [
       "Arcane, Implement, Polymorph, Transmutation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "3d8 + Intelligence modifier damage, and you transform the target’s physical form into glass, paper, cloth, or another fragile material (save ends). Until the transformation ends, the target is slowed and the target gains your choice of vulnerable 10 to all damage or vulnerable 15 fire.",
@@ -7420,7 +7429,7 @@
     "keywords": [
       "Arcane, Implement, Polymorph, Transmutation"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target turns into a Tiny beast of your choice (save ends).",
@@ -7442,7 +7451,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "trigger": "You or an ally within 20 squares of you dies.",
     "target": "The triggering character",
     "effect": "The target does not die. All harmful effects end on him or her, and the target’s hit points reset to 0. The target falls into a stasis that resembles sleep. In this state, the target does not age, although he or she can be killed, and the target is immune to hunger, thirst, poison, disease, and suffocation. This stasis lasts until the target is healed."
@@ -7461,7 +7470,7 @@
     "keywords": [
       "Arcane, Nethermancy, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you are phasing, and you can use a move action to teleport up to 10 squares to a square adjacent to a creature that you can see.",
     "sustainMinor": "The effect persists until the end of your next turn."
   },
@@ -7479,7 +7488,7 @@
     "keywords": [
       "Arcane, Conjuration, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure a construct in an unoccupied square in range that lasts until the end of your next turn. The construct occupies its square, and while you are adjacent to the construct, any enemy that ends its turn adjacent to it takes 15 damage. When the construct appears, it makes the following attack.",
     "target": "One creature adjacent to the construct",
     "attack": "Intelligence vs. AC",
@@ -7499,7 +7508,7 @@
     "keywords": [
       "Arcane, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier radiant damage, and the target is slowed until the end of its next turn.",
@@ -7519,7 +7528,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Will",
     "onHit": "2d10 + Intelligence modifier psychic damage, and the target is dominated until the end of your next turn. On the target’s turn, you can command it to take a full set of actions (standard, move, and minor).",
@@ -7540,7 +7549,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Necrotic, Radiant, Zone"
     ],
-    "range": "Area burst 3 within 20 squares<",
+    "range": "Area burst 3 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "4d8 + Intelligence modifier radiant and necrotic damage.",
@@ -7561,7 +7570,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Necrotic, Nethermancy, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
     "onHit": "3d8 + Intelligence modifier necrotic damage, and the target is slowed until the end of your next turn.",
@@ -7582,7 +7591,7 @@
     "keywords": [
       "Arcane, Charm, Enchantment, Implement, Radiant"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
     "onHit": "4d6 + Intelligence modifier radiant damage, and you push the target up to a number of squares equal to your Wisdom modifier and knock the target prone.",
@@ -7602,7 +7611,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must use this power during an extended rest.",
     "effect": "You ask a question and receive a vague notion of the future. You might receive a clue as to whether a specific course of action is likely to have positive or negative results. This notion can take the form of a single image, a hint about a danger that might be faced, or just a positive or negative feeling about the current course of destiny."
   },
@@ -7620,7 +7629,7 @@
     "keywords": [
       "Arcane, Illusion"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make a Stealth check.",
     "effect": "You make an Arcana check instead, using that result to determine the outcome of the Stealth check."
   },
@@ -7638,7 +7647,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you can treat liquid surfaces as if they were solid ground but difficult terrain."
   },
   "Whispering Wind": {
@@ -7655,7 +7664,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You cause a breeze to carry a message of up to 25 words or a sound up to 6 seconds long to a place you choose. The destination must be within a number of miles equal to your Intelligence modifier and must be familiar to you, and it must be a location that the wind can reach. Once you complete the message or the sound, the wind travels at speed 5 (or 1 mile per hour) until it reaches the destination, where it conveys the message or the sound regardless of whether anyone hears it.",
     "special": "You can have one whispering wind active at a time."
   },
@@ -7673,7 +7682,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "You and each ally in the burst",
     "effect": "The next ranged weapon attack that each target makes before the end of your next turn deals 1d6 extra fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 extra fire damage."
   },
@@ -7691,7 +7700,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Area wall 6 within 10 squares<",
+    "range": "Area wall 6 within 10 squares",
     "target": "Each creature in the wall",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "You slide the target up to 2 squares, and it is slowed until the end of your next turn."
@@ -7710,7 +7719,7 @@
     "keywords": [
       "Arcane, Implement, Transmutation, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "The target is immobilized and grants combat advantage (save ends both).",
@@ -7732,7 +7741,7 @@
     "keywords": [
       "Arcane, Conjuration, Force, Implement, Transmutation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You conjure a blade of solid wind in an unoccupied square within range. The blade lasts until the end of your next turn. Enemies adjacent to the blade grant combat advantage. You can use a move action to move the blade to a square within range. When the blade appears, it makes the following attack, and while the blade persists, you can repeat the attack as a standard action.",
     "target": "One creature adjacent to the blade",
     "attack": "Intelligence vs. Reflex",
@@ -7753,7 +7762,7 @@
     "keywords": [
       "Arcane, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "effect": "The burst creates a zone of bright light that lasts until the end of your next turn. Creatures in the zone have partial concealment."
   },
   "Protection from Missiles": {
@@ -7770,7 +7779,7 @@
     "keywords": [
       "Arcane, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of the encounter. While in the zone, you and your allies gain a +4 power bonus to all defenses against ranged weapon attacks."
   },
   "Fire Mantle": {
@@ -7787,7 +7796,7 @@
     "keywords": [
       "Arcane, Aura, Evocation, Fire"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "You or one ally",
     "effect": "You activate an aura 1 on the target that lasts until the end of the encounter or until the target dismisses it as a minor action. When any enemy enters the aura or ends its turn there, that enemy takes fire damage equal to your Intelligence modifier. An enemy can take this damage only once per turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;In addition, until the aura ends, the target has partial concealment and resist 10 fire."
   },
@@ -7805,7 +7814,7 @@
     "keywords": [
       "Arcane, Cold, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "primaryTarget": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier cold damage, and the primary target is immobilized (save ends).",
@@ -7829,7 +7838,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You conjure a wall of stone. The wall can be up to 1 square high, and at least 2 squares of it must rest on a solid surface. The wall lasts until the end of the encounter. The wall is blocking terrain. A creature can climb the wall with a DC 15 Athletics check."
   },
   "Watery Double": {
@@ -7846,7 +7855,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a watery double of yourself in an unoccupied square within range. The double occupies its space, and it lasts until the end of your next turn. Until the conjuration ends, you can use your space or the double’s space as the origin for your wizard attack powers."
   },
   "Death Smoke": {
@@ -7863,7 +7872,7 @@
     "keywords": [
       "Arcane, Implement, Necromancy, Necrotic, Poison, Shadow, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier necrotic and poison damage.",
@@ -7885,7 +7894,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You conjure a Large earthen fist on the ground in an unoccupied space within range. The fist lasts until the end of your next turn. The fist occupies its space, and you and your allies can flank with it. While the fist persists, you can use the secondary power at will.",
     "sustainMinor": "The fist persists until the end of your next turn.",
     "requirement": "The power Earthen Grasp must be active in order to use this power.",
@@ -7907,7 +7916,7 @@
     "keywords": [
       "Arcane, Evocation, Fire"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Five fiery globes appear in the air around your head and hover there until they are expended or until the end of the encounter. While at least one globe remains, you can use the secondary power once per round, and any adjacent enemy that hits you with an attack takes 3  fire damage for each globe remaining.",
     "requirement": "The power Melf's Minute Meteors must be active in order to use this power.",
     "target": "One enemy",
@@ -7928,7 +7937,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You create a hole on an unoccupied horizontal or vertical surface within range. The hole’s opening can be up to 2 squares on a side. The hole’s depth is up to a number of squares equal to twice your Intelligence modifier. Unless the DM rules otherwise, the hole does not destabilize the material around it. A creature can climb the hole’s walls with a DC 20 Athletics check."
   },
   "Flowing Evasion": {
@@ -7945,7 +7954,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target can use a free action to shift up to a number of squares equal to your Intelligence modifier. The target can shift through enemy spaces."
   },
@@ -7963,7 +7972,7 @@
     "keywords": [
       "Arcane, Conjuration"
     ],
-    "range": "Area wall 8 within 10 squares<",
+    "range": "Area wall 8 within 10 squares",
     "effect": "You conjure a wall of wind that lasts until the end of your next turn. The wall can be up to 4 squares high. Any creature that starts its turn in the wall or adjacent to it is pushed 1d4 squares away from it. Moving through a square of the wall costs 2 extra squares of movement. In addition, a creature has superior cover against any ranged weapon attack that passes through the wall.",
     "sustainMinor": "The wall persists until the end of your next turn."
   },
@@ -7981,7 +7990,7 @@
     "keywords": [
       "Arcane, Evocation, Fire, Implement"
     ],
-    "range": "Area wall 8 within 10 squares<",
+    "range": "Area wall 8 within 10 squares",
     "target": "Each creature in the wall",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d8 + Intelligence modifier fire damage, and the target is restrained and takes ongoing 10 fire damage (save ends both).",
@@ -8001,7 +8010,7 @@
     "keywords": [
       "Arcane, Summoning"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "effect": "You summon an invisible stalker in an unoccupied space within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The invisible stalker lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, you and the creature share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the creature makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lasts until it drops to 0 hit points, at which point you lose a healing surge  (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Vitriolic Sphere": {
@@ -8018,7 +8027,7 @@
     "keywords": [
       "Acid, Arcane, Evocation, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d6 + Intelligence modifier acid damage, and the target grants combat advantage and takes ongoing 10 acid damage (save ends both).",
@@ -8039,7 +8048,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You alter your physical form to take on the appearance of any humanoid of your size category. You retain your game statistics in your new form. Your clothing and other equipment are unchanged. To impersonate a specific individual, you must have seen that individual.Your new form lasts until you use this power again or until you end it as a minor action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature can discern that your form is a disguise by making an Insight check opposed by your Bluff check. You gain a +5 power bonus to your check."
   },
   "Cloud Form": {
@@ -8056,7 +8065,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume a cloudy form until the end of the encounter or you use a minor action to dismiss it. While in this form, you are insubstantial, you have a fly speed of 6 (hover), and you gain a +5 power bonus to Stealth checks. In addition, you cannot attack and you cannot use any of your equipment. You can move through small holes or narrow openings large enough to permit smoke or air."
   },
   "Horrid Wilting": {
@@ -8073,7 +8082,7 @@
     "keywords": [
       "Arcane, Implement, Transmutation"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "9d4 + Intelligence modifier damage, and the target is slowed and weakened (save ends both). If the target has the aquatic or the water keyword, it takes 10 extra damage.",
@@ -8093,7 +8102,7 @@
     "keywords": [
       "Arcane, Evocation, Implement, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "4d6 + Intelligence modifier damage, and the target falls prone.",
@@ -8115,7 +8124,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "You must use this power during a short or an extended rest.",
     "target": "A lake or a stretch of river that has a diameter in miles of your Intelligence modifier or less.",
     "effect": "Choose one of the following effects. The effect lasts until your next extended rest or until you dismiss it as a standard action.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You reduce or increase the water’s depth by a number of feet up to your Intelligence modifier.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You create a dry path through the water. The path is up to 30 feet wide and extends from one shore to the other shore by the shortest distance, from your side of the water to the opposite side."
@@ -8134,7 +8143,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "You or one ally",
     "effect": "The target assumes the form of living iron. The form lasts until the target is affected by another polymorph effect, until you take a minor action to dismiss it, or until the end of the encounter. While in this form, the target gains vulnerable 20 lightning and is slowed. In addition, the target gains the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Resist 10 to all damage.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Immunity to blindness, deafness, disease, and poison.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; No need to breathe, and thus cannot suffocate.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; +6 power bonus to melee damage rolls."
   },
@@ -8152,7 +8161,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "The target rises 40 feet off the ground, and it hovers there immobilized (save ends). If the target cannot rise the full distance (due to a ceiling or some other blocking terrain), it takes 1d10 damage for every 10 feet it is prevented from rising.",
@@ -8173,7 +8182,7 @@
     "keywords": [
       "Arcane, Cold, Conjuration, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "effect": "You conjure four Medium rime beasts in unoccupied squares within range. The rime beasts occupy their spaces and last until the end of your next turn. The rime beasts can be attacked. They share your defenses and have 20 hit points each. Any enemy that starts its turn in a square adjacent to a rime beast takes 10 cold damage and is slowed until the start of its next turn. In addition, while the rime beasts remain, you can take the following special actions.",
     "standardAction": "Each rime beast makes the following attack. Melee 1 (one enemy Intelligence vs. Fortitude; 2d6 + Intelligence modifier cold damage, and the target is restrained until the end of your next turn.",
     "moveAction": "You move each rime beast up to 4 squares.",
@@ -8193,7 +8202,7 @@
     "keywords": [
       "Arcane, Evocation, Implement"
     ],
-    "range": "Area wall 8 within 20 squares<",
+    "range": "Area wall 8 within 20 squares",
     "target": "Each creature in the wall",
     "attack": "Intelligence vs. Reflex",
     "onHit": "The target is removed from play and takes ongoing 30 damage (save ends both).",
@@ -8215,7 +8224,7 @@
     "keywords": [
       "Arcane, Implement, Zone"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "2d8 + Intelligence modifier damage, and the target is immobilized and takes ongoing 15 damage (save ends both).",
@@ -8238,7 +8247,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Zone"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
     "onHit": "7d6 + Intelligence modifier cold damage, and the target is petrified until the end of your next turn.",
@@ -8260,7 +8269,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Zone"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
     "onHit": "3d8 + Intelligence modifier fire damage, and ongoing 20 fire damage (save ends).",

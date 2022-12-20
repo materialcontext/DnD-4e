@@ -13,7 +13,7 @@
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Teleport up to 5 squares."
   },
   "Sense Magic": {
@@ -30,7 +30,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones."
   },
   "Eladrin Escape": {
@@ -47,7 +47,7 @@
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy misses you with a melee attack.",
     "effect": "You teleport up to 5 squares."
   },
@@ -65,7 +65,7 @@
     "keywords": [
       "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: You save against a dazing or stunning effect.</p><p class=\"powerstat\">Target: The enemy that subjected you to the effect</p><p class=\"flavor\">Effect: The target is subjected to the effect you saved against until the end of your next turn.</p>"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "You save against a dazing or stunning effect.",
     "target": "The enemy that subjected you to the effect",
     "effect": "The target is subjected to the effect you saved against until the end of your next turn."
@@ -84,7 +84,7 @@
     "keywords": [
       "Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a melee attack on your turn.",
     "effect": "You teleport to a square adjacent to the enemy.",
     "special": "You can use this power only once per round."

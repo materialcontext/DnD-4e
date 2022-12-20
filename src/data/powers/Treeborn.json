@@ -13,7 +13,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Highest ability vs. AC",
     "onHit": "2[W] + highest ability modifier, and you can slide the target a number of squares equal to your Wisdom modifier."
@@ -32,7 +32,7 @@
     "keywords": [
       "Weapon"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "Before the attack, shift 4 squares. You can move through an enemy’s space during the shift.",
     "target": "Each creature in the burst",
     "attack": "Highest ability vs. AC",
@@ -53,7 +53,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible. This benefit lasts until you successfully deal damage to a creature that enjoys one of the protections noted or until the end of the encounter.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible. This benefit lasts until you successfully deal damage to a creature that enjoys one of the protections noted or until the end of the encounter."
   }
 }

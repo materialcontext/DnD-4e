@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You take a –2 penalty to all defenses and gain a +2 bonus to attack rolls."
   },
   "Clearing the Ground": {
@@ -30,7 +30,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "target": "Each enemy in the burst you can see",
     "attack": "Strength vs. AC",
@@ -50,7 +50,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "requirement": "You must be wielding two melee weapons.",
     "special": "Before you attack, shift a number of squares equal to your Wisdom modifier.",
     "target": "Each enemy in the burst you can see",

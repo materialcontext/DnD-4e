@@ -13,7 +13,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
     "onHit": "2[W] + Strength modifier damage."
@@ -32,7 +32,7 @@
     "keywords": [
       "Martial"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage from an attack",
     "effect": "The damage is reduced by an amount equal to your level."
   },
@@ -50,7 +50,7 @@
     "keywords": [
       "Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier damage, and the target falls prone. In addition, it is immobilized until the end of your next turn.",

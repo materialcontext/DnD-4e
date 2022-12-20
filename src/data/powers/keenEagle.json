@@ -1,0 +1,59 @@
+{
+  "Winged Spirit Strike": {
+    "id": "'9802",
+    "action": "Standard",
+    "powerClass": "Keen Eagle",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Winged Spirit Strike",
+    "type": "Eagle",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWinged Spirit Strike\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9802\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Keen Eagle Attack 11</span>Winged Spirit Strike</h1><p class=\\\"flavor\\\"><i>The spirit of a bird of prey dives on your enemy, leaving your foe vulnerable to your allies’ attacks.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 10</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: Wisdom modifier damage. Until the end of your next turn, any ally can score a critical hit against the target on a roll of 16–20.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 82.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "The spirit of a bird of prey dives on your enemy, leaving your foe vulnerable to your allies’ attacks.",
+    "keywords": [
+      "Implement, Primal"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "Wisdom modifier damage. Until the end of your next turn, any ally can score a critical hit against the target on a roll of 16–20."
+  },
+  "Flurry of Spirit Talons": {
+    "id": "'9803",
+    "action": "Standard",
+    "powerClass": "Keen Eagle",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Flurry of Spirit Talons",
+    "type": "Eagle",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFlurry of Spirit Talons\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9803\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Keen Eagle Attack 20</span>Flurry of Spirit Talons</h1><p class=\\\"flavor\\\"><i>In a burst of supernatural speed, your spirit companion flashes among your enemies, leaving them gashed, staggered, and vulnerable to attack.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Implement</b>, <b>Primal</b>, <b>Spirit</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst spirit 1</p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter or until your spirit companion disappears, you and your allies can score critical hits on a roll of 18–20 against any creature that is adjacent to your spirit companion. Then make the following attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Attack</b>: Wisdom vs. Reflex</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 5d6 + Wisdom modifier damage. If you score a critical hit with the attack, the target is also dazed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 82.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "In a burst of supernatural speed, your spirit companion flashes among your enemies, leaving them gashed, staggered, and vulnerable to attack.",
+    "keywords": [
+      "Implement, Primal, Spirit"
+    ],
+    "range": "Close burst spirit 1",
+    "effect": "Until the end of the encounter or until your spirit companion disappears, you and your allies can score critical hits on a roll of 18–20 against any creature that is adjacent to your spirit companion. Then make the following attack.",
+    "target": "Each enemy in the burst",
+    "attack": "Wisdom vs. Reflex",
+    "onHit": "5d6 + Wisdom modifier damage. If you score a critical hit with the attack, the target is also dazed (save ends)."
+  },
+  "Hunting Eagle": {
+    "id": "'9804",
+    "action": "Immediate Interrupt",
+    "powerClass": "Keen Eagle",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Hunting Eagle",
+    "type": "Eagle",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHunting Eagle\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9804\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Keen Eagle Utility 12</span>Hunting Eagle</h1><p class=\\\"flavor\\\"><i>You send your spirit companion to your ally’s aid. It flies around your ally’s target, making that foe easier for your ally to attack.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Primal</b>, <b>Spirit</b><br/><b>Immediate Interrupt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"powerstat\\\"><b>Trigger</b>: An ally adjacent to your spirit companion makes an attack roll for a ranged or an area attack</p><p class=\\\"flavor\\\"><b>Effect</b>: You move your spirit companion to a square adjacent to a target of the attack. The triggering ally gains a +2 power bonus to the attack roll against each target adjacent to your spirit companion.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 82.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You send your spirit companion to your ally’s aid. It flies around your ally’s target, making that foe easier for your ally to attack.",
+    "keywords": [
+      "Primal, Spirit"
+    ],
+    "range": "Personal",
+    "trigger": "An ally adjacent to your spirit companion makes an attack roll for a ranged or an area attack",
+    "effect": "You move your spirit companion to a square adjacent to a target of the attack. The triggering ally gains a +2 power bonus to the attack roll against each target adjacent to your spirit companion."
+  }
+}

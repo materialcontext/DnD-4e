@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex. The attack ignores cover and concealment, but not superior cover or total concealment.",
     "onHit": "3d10 + Charisma modifier lightning damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d10 + Charisma modifier damage. Roll a d6 to determine the attack’s damage type and  effect.<br/>&nbsp;&nbsp;&nbsp;&nbsp;1. Yellow: Radiant damage, and the target is dazed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;2. Red: Fire damage, and each creature adjacent to the target takes fire damage equal to your Dexterity modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;3. Green: Poison damage, and ongoing 5 poison damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;4. Turquoise: Lightning damage, and you slide the target a number of squares equal to your Dexterity modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;5. Blue: Cold damage, and the target is immobilized (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;6. Violet: Psychic damage, and the target takes a -2 penalty to AC (save ends).",
@@ -53,7 +53,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier lightning damage, and ongoing 5 lightning damage (save ends).",
@@ -77,7 +77,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Thunder"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier thunder damage. If the target is in the burst’s origin square, it takes 3d8 extra lightning damage.",
@@ -97,7 +97,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 + Charisma modifier lightning damage. An enemy of your choice other than the target and within 10 squares of the target takes lightning damage equal to your Dexterity modifier.<br/>Level 21: 2d8 + Charisma modifier lightning damage.",
@@ -117,7 +117,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "stormMagic": "You can choose not to target a creature in the origin square of the burst.",
     "attack": "Charisma vs. Fortitude",
@@ -137,7 +137,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier acid damage, and the target takes acid damage equal to your Strength modifier at the start of its next turn.",
@@ -157,7 +157,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d10 + Charisma modifier thunder damage, and you slide the target a number of squares equal to your Dexterity modifier.",
@@ -177,7 +177,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Thunder"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "cosmicMagic": "You can choose not to target a creature in the origin square of the burst.",
     "attack": "Charisma vs. Reflex",
@@ -197,7 +197,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "You shift your speed + 2. During the shift, you can move through enemies' spaces. When you leave any creature's space, make the following attack against that creature. Whenever you use this power, you can make the attack against a creature only once.",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
@@ -217,7 +217,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d8 + Charisma modifier acid damage. If the target moves before the end of its next turn, it takes 10 acid damage.",
@@ -237,7 +237,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier lightning damage.",
@@ -257,7 +257,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier lightning damage, and the target is stunned until the end of your next turn."
@@ -276,7 +276,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4d8 + Charisma modifier thunder damage, and you slide the target a number of squares equal to your Dexterity modifier.",
@@ -296,7 +296,7 @@
     "keywords": [
       "Arcane, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier radiant damage. Until the end of your next turn, the target is blinded. When the blinded condition ends, the target then treats each creature more than 5 squares away from it as having concealment (save ends).",
@@ -316,7 +316,7 @@
     "keywords": [
       "Arcane, Implement, Thunder, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "stormMagic": "You can choose not to target a creature in the origin square of the burst.",
     "attack": "Charisma vs. Fortitude",
@@ -338,7 +338,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier cold damage, and ongoing 5 cold damage (save ends).",
@@ -358,7 +358,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "3d8 + Charisma modifier damage, and you push the target 3 squares.",
@@ -379,7 +379,7 @@
     "keywords": [
       "Arcane, Cold, Conjuration, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d12 + Charisma modifier cold damage, and you must slide the target 1 square.",
@@ -399,7 +399,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d4 + Charisma modifier lightning damage.",
@@ -419,7 +419,7 @@
     "keywords": [
       "Acid, Arcane, Cold, Implement, Lightning, Psychic"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "target": "Each creature in the burst (choose one defense for each target)",
     "attack(Fortitude)": "Charisma vs. Fortitude",
     "onHit": "3d6 + Charisma modifier lightning and psychic damage, and the target is blinded until the end of your next turn.",
@@ -441,7 +441,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "5d8 + Charisma modifier thunder damage.",
@@ -463,7 +463,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Zone"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier lightning damage, and ongoing 10 lightning damage (save ends). Whenever the target takes the ongoing lightning damage, make a secondary attack as a free action.",
@@ -486,7 +486,7 @@
     "keywords": [
       "Acid, Arcane, Implement, Thunder"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "stormMagic": "You can choose not to target a creature in the origin square of the burst.",
     "attack": "Charisma vs. Fortitude",
@@ -507,7 +507,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "You and one ally in the burst",
     "effect": "Each target moves a number of squares equal to his or her speed + 2. Each target can fly during this movement but falls if he or she does not land by the end of the movement."
   },
@@ -525,7 +525,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take cold, lightning, or thunder damage",
     "effect": "Until the end of the encounter, you gain resistance to the triggering damage type equal to your Charisma modifier. Your next attack before the end of the encounter that deals the triggering damage type gains a +2 bonus to the attack roll."
   },
@@ -543,7 +543,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One conjuration or zone that has the fire keyword",
     "effect": "Until the end of the encounter, each target gains resistance to fire equal to your Charisma modifier. Make an attack.",
     "attack": "Charisma + 2 vs. the Will of the target’s creator",
@@ -563,7 +563,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You become insubstantial until the end of your next turn."
   },
@@ -581,7 +581,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You or one ally in the burst",
     "effect": "The target can fly a number of squares equal to your Dexterity modifier as a free action."
   },
@@ -599,7 +599,7 @@
     "keywords": [
       "Arcane, Lightning"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You become insubstantial until the start of your next turn and can fly 10 squares with this move action. Each creature that makes a melee attack against you during this move takes lightning damage equal to your Charisma modifier."
   },
   "Ultimate Resistance": {
@@ -616,7 +616,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain resist 30 against a damage type of your choice: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. Once per round as a minor action, you can change the resistance to another of these types."
   },
   "Mists of Disarray": {
@@ -633,7 +633,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "1d8 + Charisma modifier psychic damage, and you push the target 1 square.",
@@ -653,7 +653,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier force damage.",
@@ -673,7 +673,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier psychic damage, and the target swaps positions with a creature within 3 squares of it."
@@ -692,7 +692,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d8 + Charisma modifier lightning damage. If the target ends its next turn within 2 squares of you, it takes 5 lightning damage.",
@@ -712,7 +712,7 @@
     "keywords": [
       "Arcane, Fire, Force, Implement, Lightning, Psychic"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d6 + Charisma modifier fire, force, lightning, and psychic damage.",
@@ -732,7 +732,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier damage, and you push the target 1 square.",
@@ -752,7 +752,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier thunder damage, and the target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -771,7 +771,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d6 + Charisma modifier damage. Until the end of your next turn, you have concealment."
@@ -790,7 +790,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d8 + Charisma modifier thunder damage. You gain temporary hit points equal to 1d6 + your Strength modifier."
@@ -809,7 +809,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "3d6 + Charisma modifier damage, and you push the target 2 squares and knock it prone.",
@@ -829,7 +829,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Poison"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4d6 + Charisma modifier fire and poison damage."
@@ -848,7 +848,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier cold damage.",
@@ -869,7 +869,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "5d8 + Charisma modifier necrotic damage.",
@@ -890,7 +890,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier psychic damage, and ongoing 5 psychic damage (save ends).",
@@ -911,7 +911,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport a number of squares equal to half your speed."
   },
   "Chaotic Defense": {
@@ -928,7 +928,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Roll a d4 to determine the power’s effect.<br/>1: You gain temporary hit points equal to 2d6 + your Charisma modifier.<br/>2: You gain a +2 power bonus to all defenses until the end of the encounter.<br/>3: Until the end of the encounter, each creature that attacks you takes 2d6 damage.<br/>4: You gain all three of the benefits described above."
   },
   "Sorcerous Pulse": {
@@ -945,7 +945,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Choose acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. Until the end of the encounter, whenever you use an arcane power that has the chosen keyword, you can roll the damage twice and use the higher result."
   },
   "Avatars of Chaos": {
@@ -962,7 +962,7 @@
     "keywords": [
       "Arcane, Conjuration, Fire, Force, Lightning, Psychic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You conjure images of yourself in 4 unoccupied, nonadjacent squares within 10 squares of you, and then you disappear from the world. Each round at the start of your turn, choose one of the four images. Your essence occupies that image, allowing you to act normally (including moving and making attacks).<br/>When you conjure each image, choose a keyword for it from among fire, force, lightning, and psychic. You can’t choose the same keyword twice. While you occupy an image, you gain a +1 bonus to attack rolls when you use a power that has a keyword that matches that image.<br/>Each image lasts until the end of the encounter, until it is destroyed, or until you dismiss it. Each image occupies 1 square, and creatures cannot move through an image’s space. An image can be targeted by attacks and uses your defenses. Each image (including the one you occupy) has 1 hit point, and a missed attack never damages an image. An image is destroyed if it is reduced to 0 hit points or fewer. If you occupy an image when it is destroyed, you can immediately move to any other image still present. If you  occupy the last remaining image when it is destroyed, you reappear in that square.<br/>As a minor action, you can dismiss all remaining images and reappear in any square that was occupied by an image when you took this action."
   },
   "Deep Shroud": {
@@ -979,7 +979,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You create a shroud of supernatural shadow around you. Until the end of your next turn, the space you occupy and each square adjacent to you are heavily obscured.",
     "sustainMinor": "The effect persists."
   },
@@ -997,7 +997,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a fly speed equal to his or her speed until the end of your next turn.",
     "sustainMinor": "The effect persists. When you fail to sustain this power, each target floats to the ground without taking falling damage.",
@@ -1017,7 +1017,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 + Charisma modifier fire damage.<br/>Level 21: 2d8 + Charisma modifier fire damage.",
@@ -1037,7 +1037,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier cold damage, and you push the target 1 square.<br/>Level 21: 2d8 + Charisma modifier cold damage.",
@@ -1057,7 +1057,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d6 + Charisma modifier acid damage, and the target can’t gain combat advantage against any creature until the end of your next turn.",
@@ -1077,7 +1077,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier fire damage. Until the start of your next turn, any enemy that enters a square adjacent to the target or starts its turn there takes 1d6 fire damage. An enemy can take this damage only once per turn."
@@ -1096,7 +1096,7 @@
     "keywords": [
       "Arcane, Fire"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "Until the end of your next turn, you gain a +1 power bonus to all defenses, and any creature that hits you with a melee attack takes 1d6 fire damage."
   },
@@ -1114,7 +1114,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "One, two, or three creatures in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier fire damage.",
@@ -1134,7 +1134,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier cold damage, and the target is slowed until the end of your next turn."
@@ -1153,7 +1153,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier fire damage, and the target gains vulnerable 10 cold (save ends).",
@@ -1173,7 +1173,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can change the resistance granted by your Dragon Soul or Wild Soul to one of the other damage types for the rest of the encounter. In addition, one ally adjacent to you gains resist 5 to the damage type that you resist until the end of the encounter.<br/>Level 11: Resist 10.<br/>Level 21: Resist 15."
   },
   "Rimestorm": {
@@ -1190,7 +1190,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier cold damage, and you knock the target prone.",
@@ -1210,7 +1210,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier thunder damage, and the target is deafened until the end of your next turn."
@@ -1229,7 +1229,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d6 + Charisma modifier force damage, and the target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -1248,7 +1248,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier thunder damage, and ongoing 5 thunder damage (save ends).",
@@ -1270,7 +1270,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier fire damage.",
@@ -1290,7 +1290,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "effect": "Each target loses its resistances and gains vulnerable 5 to the damage types it had resistance against (save ends both)."
   },
@@ -1308,7 +1308,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One conjuration or zone",
     "attack": "Charisma + 2 vs. the Will of the target’s creator",
     "onHit": "The target is destroyed. All its effects end, including those that a save can end.",
@@ -1329,7 +1329,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy moves into a space where it flanks you",
     "target": "The triggering creature",
     "attack": "Charisma vs. Reflex",
@@ -1350,7 +1350,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "Each creature in the burst",
     "effect": "Each target can fly a number of squares equal to 6 + your Strength modifier as an immediate reaction. Until the end of your next turn, each target can fly the same distance as a move action."
   },
@@ -1368,7 +1368,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier thunder damage, and you push the target 3 squares."
@@ -1387,7 +1387,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier acid damage.<br/>Level 21: 2d10 + Charisma modifier acid damage.",
@@ -1407,7 +1407,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "1d10 + Charisma modifier psychic damage.<br/>Level 21: 2d10 + Charisma modifier psychic damage.",
@@ -1430,7 +1430,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier thunder damage.<br/>Level 21: 2d8 + Charisma modifier thunder damage.",
@@ -1450,7 +1450,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "One or two creatures in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "1d10 + Charisma modifier psychic damage, and you push the target a number of squares equal to your Dexterity modifier.",
@@ -1470,7 +1470,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "3d6 + Charisma modifier cold damage, and the target takes a -2 penalty to Reflex until the end of your next turn."
@@ -1489,7 +1489,7 @@
     "keywords": [
       "Arcane, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "6d6 + Charisma modifier radiant damage.",
@@ -1510,7 +1510,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier damage, and ongoing 5 poison damage (save ends).",
@@ -1530,7 +1530,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d8 + Charisma modifier lightning damage.",
@@ -1553,7 +1553,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your turn, add your Dexterity modifier to the range of your ranged arcane powers."
   },
   "Unseen Aid": {
@@ -1570,7 +1570,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +2 bonus to a skill check you make this turn."
   },
   "Dancing Lightning": {
@@ -1587,7 +1587,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d10 + Charisma modifier lightning damage, and each creature adjacent to the target takes thunder damage equal to your Charisma modifier."
@@ -1606,7 +1606,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier poison damage, and the target takes a -2 penalty to Fortitude until the end of your next turn.",
@@ -1626,7 +1626,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier force damage, and the target is immobilized until the end of your next turn.",
@@ -1646,7 +1646,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "You slide the primary target 3 squares.",
@@ -1669,7 +1669,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier psychic damage. At the start of each of the target’s turns, you can slide the target 3 squares as a free action (save ends).",
@@ -1689,7 +1689,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier thunder damage.",
@@ -1712,7 +1712,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your turn, increase the size of your arcane powers’ blasts and bursts by 1."
   },
   "Energetic Flight": {
@@ -1729,7 +1729,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you gain a fly speed equal to your speed, and you can hover."
   },
   "Sudden Scales": {
@@ -1746,7 +1746,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You gain a +4 bonus to all defenses against the triggering attack.",
     "dragonMagic": "The bonus to all defenses equals 3 + your Strength modifier."
@@ -1765,7 +1765,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Teleportation"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d6 + Charisma modifier lightning damage.",
@@ -1786,7 +1786,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier poison damage.",
@@ -1807,7 +1807,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier psychic damage. If the target moves before the end of your next turn, you can knock the target prone during that movement as an immediate interrupt.",
@@ -1827,7 +1827,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You are hit by an area or a close attack",
     "target": "One creature in the burst",
     "effect": "The triggering attack also hits the target."
@@ -1846,7 +1846,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You take half damage from the attack. You then teleport a number of squares equal to your Charisma modifier + your Dexterity modifier."
   },
@@ -1864,7 +1864,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier fire damage. If you hit two targets with this power, you teleport one of them to a space that must be adjacent to the other, and until the end of your next turn, the two targets take 1d10 fire damage the first time they are more than 3 squares apart."
@@ -1883,7 +1883,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier damage, and the target is immobilized until the end of your next turn. While the target is immobilized by this power, you and your allies can move through the target’s space and don’t provoke opportunity attacks from it by leaving a square adjacent to it."
@@ -1902,7 +1902,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d10 + Charisma modifier psychic damage, and you knock the target prone.",
@@ -1922,7 +1922,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier thunder damage, and the target is dazed until the end of your next turn.",
@@ -1942,7 +1942,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "5d8 + Charisma modifier cold damage.",
@@ -1962,7 +1962,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "5d6 + Charisma modifier psychic damage, and as a free action, the target charges your enemy nearest to it that it can charge and makes a melee basic attack.",
@@ -1983,7 +1983,7 @@
     "keywords": [
       "Arcane, Implement, Radiant"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d6 + Charisma modifier radiant damage, and the target is blinded (save ends).",
@@ -2003,7 +2003,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d10 + Charisma modifier fire damage.",
@@ -2024,7 +2024,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "You are hit or missed by an attack",
     "target": "One enemy in the burst",
     "effect": "The triggering attack hits the target."
@@ -2043,7 +2043,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "effect": "Choose a number of squares in the burst equal to your Dexterity modifier. Until the end of your turn, any creature whose space is entirely in those squares is not affected by your area or close arcane powers."
   },
   "Comrades' Mantle": {
@@ -2060,7 +2060,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Choose a damage type: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. Each target gains resist 5 to that damage type until the end of the encounter."
   },
@@ -2078,7 +2078,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier cold damage, and the target is slowed until the end of its next turn."
@@ -2097,7 +2097,7 @@
     "keywords": [
       "Arcane, Implement, Poison, Teleportation"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "trigger": "An enemy misses you with an attack",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
@@ -2118,7 +2118,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "The target is stunned and takes ongoing 10 poison damage (save ends both).",
@@ -2139,7 +2139,7 @@
     "keywords": [
       "Arcane, Conjuration, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure a blackfire serpent in an unoccupied square within range. The serpent lasts until the end of your next turn. The serpent occupies 1 square. Enemies cannot move through its space, but allies can.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When it appears, the serpent makes the following attack, which is a close blast 3. As a move action, you can move the serpent a number of squares equal to your Strength modifier.",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
@@ -2160,7 +2160,7 @@
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d12 + Charisma modifier damage. Roll a d6 for each target to determine the attack’s damage type and effect.<br/>1. Yellow: Radiant damage, and the target is blinded (save ends).<br/>2. Red: Fire damage, and the target is knocked prone and takes ongoing 10 fire damage (save ends).<br/>3. Green: Poison damage, and the target takes ongoing 15 poison damage (save ends).<br/>4. Turquoise: Lightning damage, and you knock the target prone and slide it a number of squares equal to your Dexterity modifier.<br/>5. Blue: Cold damage, and the target is stunned (save ends).<br/>6. Violet: Psychic damage, and the target takes a penalty to AC equal to your Dexterity modifier (save ends).",
@@ -2180,7 +2180,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "6d6 + Charisma modifier lightning damage.",
@@ -2201,7 +2201,7 @@
     "keywords": [
       "Arcane, Fear"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "A creature moves closer to you during its turn",
     "target": "The triggering creature",
     "effect": "The target can’t move closer to you until the end of its turn."
@@ -2220,7 +2220,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "Until the end of the encounter, you gain a power bonus to all defenses equal to your Strength modifier."
   },
@@ -2238,7 +2238,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "You and each ally in the burst",
     "effect": "Choose a damage type: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder. Each target gains resist 10 to that damage type until the end of the encounter."
   },
@@ -2256,7 +2256,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you become insubstantial, you gain a fly speed equal to your speed, and you can hover."
   },
   "Black Breath": {
@@ -2273,7 +2273,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "5d6 + Charisma modifier acid damage.",
@@ -2293,7 +2293,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier psychic damage, and the target is dazed until the end of your next turn."
@@ -2312,7 +2312,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier damage, and the target and each creature adjacent to it are restrained until the end of your next turn."
@@ -2331,7 +2331,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone of floating ice shards that lasts until the end of the encounter. Each enemy that enters the zone or starts its turn there takes 2d6 + your Charisma modifier cold damage and is slowed until the end of its turn. An enemy can take this damage only once per turn."
   },
   "Draconic Incarnation": {
@@ -2348,7 +2348,7 @@
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "7d6 + Charisma modifier damage. Choose a damage type: acid, cold, fire, lightning, poison, or thunder. The attack deals damage of this type to each target.",
@@ -2369,7 +2369,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier force damage. The attack deals 5 extra force damage for each target it hits.",
@@ -2389,7 +2389,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d12 + Charisma modifier lightning damage, and each enemy adjacent to the target takes 1d12 + your Charisma modifier lightning damage."
@@ -2408,7 +2408,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4d10 + Charisma modifier poison damage. If the target moves closer to you or hits or misses you during its next turn, the target takes 2d10 poison damage."
@@ -2427,7 +2427,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "3d6 + Charisma modifier thunder damage, and you push the target a number of squares equal to your Charisma modifier and knock it prone."
@@ -2446,7 +2446,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d6 + Charisma modifier fire damage. Make a secondary attack.",
@@ -2468,7 +2468,7 @@
     "keywords": [
       "Acid, Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d6 + Charisma modifier acid damage, and ongoing 15 acid damage (save ends).",
@@ -2489,7 +2489,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier damage, and you teleport the target a number of squares equal to your Dexterity modifier. The target again takes 3d8 + your Charisma modifier damage whenever it teleports (save ends).",
@@ -2509,7 +2509,7 @@
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Area burst 3 within 20<",
+    "range": "Area burst 3 within 20",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "5d8 + Charisma modifier damage. Roll a d6 for each target to determine the attack’s damage type and effect.<br/>1. Yellow: Radiant damage, and the target is blinded and takes a -2 penalty to saving throws (save ends both).<br/>2. Red: Fire damage, and the target is knocked prone and takes ongoing 15 fire damage (save ends).<br/>3. Green: Poison damage, and the target takes ongoing 20 poison damage (save ends).<br/>4. Turquoise: Lightning damage, and you knock the target prone and slide it a number of squares equal to your Dexterity modifier. In addition, the target is dazed (saved ends).<br/>5. Blue: Cold damage, and the target is stunned (save ends).<br/>6. Violet: Psychic damage, and the target takes a penalty to AC and Reflex equal to your Dexterity modifier (save ends).",
@@ -2529,7 +2529,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an area or a close attack",
     "effect": "You teleport 3 squares.",
     "wildMagic": "The number of squares you teleport equals 2 + your Dexterity modifier."
@@ -2548,7 +2548,7 @@
     "keywords": [
       "Arcane, Fear, Zone"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "The burst creates a zone of fear that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. The zone is difficult terrain for your enemies. While within the zone, any enemy takes a penalty to attack rolls equal to your Strength modifier."
   },
   "Words of Chaos": {
@@ -2565,7 +2565,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "The target must choose a different creature to target with its attack if it can. Otherwise, its attack is unaffected by this secondary attack.",
@@ -2587,7 +2587,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d4 + Charisma modifier radiant damage.<br/>Level 21: 2d4 + Charisma modifier radiant damage.",
@@ -2607,7 +2607,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d6 + Charisma modifier lightning damage, you knock the target prone, and the target is slowed until the end of your next turn."
@@ -2626,7 +2626,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d6 + Charisma modifier cold damage, and the target cannot shift until the end of its next turn.",
@@ -2646,7 +2646,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier psychic damage. Roll a d6 to determine the attack’s additional benefit.<br/>1–2: The target takes ongoing 5 radiant damage (save ends), and the power gains the radiant keyword.<br/>3–4: The target is slowed (save ends).<br/>5–6: The target is dazed (save ends).",
@@ -2667,7 +2667,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier lightning damage, and you pull the target a number of squares equal to your Dexterity modifier.",
@@ -2687,7 +2687,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use a sorcerer power that works differently depending on whether the attack roll is odd or even",
     "effect": "You choose to treat that power’s attack roll as either odd or even, regardless of your actual roll."
   },
@@ -2705,7 +2705,7 @@
     "keywords": [
       "Acid, Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier poison damage.",
@@ -2725,7 +2725,7 @@
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier cold or radiant damage. The damage type you choose determines the attack’s additional benefit.",
@@ -2747,7 +2747,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Teleportation"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "trigger": "An enemy within 5 squares of you hits you",
     "target": "The triggering enemy",
     "effect": "Before the attack, you teleport your speed.",
@@ -2769,7 +2769,7 @@
     "keywords": [
       "Arcane, Implement, Radiant, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d6 + Charisma modifier radiant damage",
@@ -2790,7 +2790,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You spend an action point to make an attack and miss",
     "effect": "Reroll the triggering attack roll with a bonus equal to your Strength modifier."
   },
@@ -2808,7 +2808,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift your speed. You ignore difficult terrain during the shift."
   },
   "Subtlety of the Green Wyrm": {
@@ -2825,7 +2825,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain a +5 power bonus to Diplomacy checks, Insight checks, and Intimidate checks until the end of the encounter."
   },
   "Thunder Bomb": {
@@ -2842,7 +2842,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier thunder damage, and the target is slowed until the end of your next turn. If the target is in the origin square of the burst, it is immobilized until the end of your next turn instead of slowed."
@@ -2861,7 +2861,7 @@
     "keywords": [
       "Arcane, Implement, Thunder, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "3d8 + Charisma modifier thunder damage, and you slide the target a number of squares equal to your Dexterity modifier.",
@@ -2882,7 +2882,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "2d6 + Charisma modifier psychic damage.",
@@ -2902,7 +2902,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, while you are bloodied, you gain a +1 power bonus to attack rolls and a power bonus to saving throws equal to your Charisma modifier."
   },
   "Spirit's Eclipse": {
@@ -2919,7 +2919,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with an attack that targets Will",
     "effect": "Until the end of your next turn, you gain a +5 bonus to Will and are invisible to the triggering enemy."
   },
@@ -2937,7 +2937,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst that is taking ongoing damage",
     "effect": "Each instance of ongong damage that each target is taking increases by 10."
   },
@@ -2955,7 +2955,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "target": "One, two, or three creatures in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d6 + Charisma modifier damage, and you slide the target 2 squares closer to the origin square of the burst."
@@ -2974,7 +2974,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "3d6 + Charisma modifier psychic damage. Until the end of your next turn, the target cannot take immediate actions or opportunity actions.",
@@ -2994,7 +2994,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier cold damage, and the target is restrained until the end of your next turn.",
@@ -3014,7 +3014,7 @@
     "keywords": [
       "Arcane, Cold, Fire, Implement, Lightning, Thunder"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "stormMagic": "You can choose not to target a creature in the origin square of the burst.",
     "attack": "Charisma vs. Reflex",
@@ -3035,7 +3035,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier radiant damage, and the target is dazed (save ends).",
@@ -3059,7 +3059,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4d8 + Charisma modifier thunder damage, and you push the target a number of squares equal to your Dexterity modifier. The target is slowed (save ends).",
@@ -3079,7 +3079,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +1 power bonus to all defenses. Whenever you use an arcane close attack, this bonus is equal to your Strength modifier until the end of your next turn."
   },
   "Thunder Buffer": {
@@ -3096,7 +3096,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +2 power bonus to AC, and as an immediate reaction you can push each enemy that hits you with a melee attack a number of squares equal to your Charisma modifier."
   },
   "Searing Radiance": {
@@ -3113,7 +3113,7 @@
     "keywords": [
       "Arcane, Healing, Implement, Radiant"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d8 + Charisma modifier radiant damage.",
@@ -3133,7 +3133,7 @@
     "keywords": [
       "Acid, Arcane, Implement, Polymorph"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "The target is slowed, cannot take standard actions, and takes half damage from melee and ranged attacks (save ends all).",
@@ -3155,7 +3155,7 @@
     "keywords": [
       "Arcane, Fire"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, whenever you miss with a sorcerer at-will or encounter attack power, the target takes fire damage equal to your Charisma modifier."
   },
   "Rumbling Storm Bolt": {
@@ -3172,7 +3172,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Thunder"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier lightning damage, and you slide the target a number of squares equal to your Dexterity modifier. Make a secondary attack.",
@@ -3194,7 +3194,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Radiant"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d6 + Charisma modifier psychic damage, and the target is slowed until the end of your next turn.",
@@ -3217,7 +3217,7 @@
     "keywords": [
       "Arcane, Implement, Psychic, Teleportation"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier psychic damage, and you teleport the target a number of squares equal to your Dexterity modifier.",
@@ -3237,7 +3237,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Area burst 1 within 20 squares<",
+    "range": "Area burst 1 within 20 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "4d6 + Charisma modifier cold damage, and the target is immobilized until the end of your next turn.",
@@ -3257,7 +3257,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An enemy hits or misses you with a melee attack",
     "target": "The triggering enemy",
     "attack": "Charisma vs. Reflex",
@@ -3278,7 +3278,7 @@
     "keywords": [
       "Arcane, Implement ; Varies"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, an enemy within 5 squares of you that hits you with an attack takes cold, psychic, or radiant damage (your choice with each hit) equal to your Charisma modifier. If that hit was also a critical hit, the enemy also takes ongoing 5 damage of the corresponding type (save ends).",
     "cosmicMagic": "Add your Strength modifier to the damage dealt to an enemy that hits you."
   },
@@ -3296,7 +3296,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Thunder"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst",
     "stormMagic": "You can choose not to target a creature in the origin square of the burst.",
     "attack": "Charisma vs. Fortitude",
@@ -3317,7 +3317,7 @@
     "keywords": [
       "Arcane, Charm, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "4d8 + Charisma modifier psychic damage, and the target is dominated (save ends).",
@@ -3338,7 +3338,7 @@
     "keywords": [
       "Arcane, Polymorph"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "The Wyrm Form power must be active to use this power.",
     "effect": "Until the end of the encounter or until you are bloodied, you take the form of a huge black, blue, green, red, or white dragon (your choice when you use this power). You retain your statistics, hit points, and defenses, but you have a speed of 8, fly 10 (hover). You can use your arcane powers while in this form, and you gain the Wyrm Forme Basic Bite Attack power, Wyrm Form Breath Weapon power, and Wyrm Form Reactive Attack power.",
     "dragonMagic": "You gain a +2 bonus to attack rolls on the attacks granted by this power.",
@@ -3359,7 +3359,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One, two, or three creatures",
     "attack": "Charisma vs. Will",
     "onHit": "3d8 + Charisma modifier thunder damage, and you teleport the target to a space adjacent to your enemy that is nearest to it.",
@@ -3379,7 +3379,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4d6 + Charisma modifier cold damage, and the target is weakened until the end of your next turn.",
@@ -3399,7 +3399,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Lightning"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "Two creatures",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 + Charisma modifier lightning damage, and the target and each creature adjacent to it take fire damage equal to your Strength modifier."
@@ -3418,7 +3418,7 @@
     "keywords": [
       "Arcane, Cold, Implement"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d8 + Charisma modifier cold damage. If the target does not end its next turn at least 4 squares away from where it started its turn, it takes 10 cold damage."
@@ -3437,7 +3437,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d8 + Charisma modifier fire damage.",
@@ -3459,7 +3459,7 @@
     "keywords": [
       "Arcane, Fire, Implement, Radiant"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "effect": "Before the attack, you can fly a number of squares equal to your Strength modifier.",
     "cosmicMagic": "At the end of this movement, each creature adjacent to you takes fire and radiant damage equal to your Strength modifier.",
@@ -3481,7 +3481,7 @@
     "keywords": [
       "Acid, Arcane, Cold, Implement, Lightning, Thunder"
     ],
-    "range": "Area burst 2 within 20 squares<",
+    "range": "Area burst 2 within 20 squares",
     "target": "Each creature in the burst  (choose one defense for each target)",
     "attack(Fortitude)": "Charisma vs. Fortitude",
     "onHit": "3d6 + Charisma modifier lightning damage. Each creature adjacent to the target takes 2d6 + your Dexterity modifier acid damage.",
@@ -3502,7 +3502,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 + Charisma modifier fire damage. Any enemy providing the target cover against this attack takes fire damage equal to your Charisma modifier.<br/>Increase damage to 2d8 + Charisma modifier at 21st level."
@@ -3521,7 +3521,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "trigger": "An enemy in the area hits you with an attack",
     "effect": "Reduce the damage you take by an amount equal to your Charisma modifier.",
     "target": "The triggering creature",
@@ -3543,7 +3543,7 @@
     "keywords": [
       "Arcane, Implement, Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier damage. Roll a d6 to determine the attack’s damage type. You gain resist 5 against the type of damage your attack deals until the end of your next turn.<br/>1. Cold<br/>2. Fire<br/>3. Force<br/>4. Lightning<br/>5. Radiant<br/>6. Thunder<br/>Level 21: 2d10 + Charisma modifier damage.",
@@ -3563,7 +3563,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation, Thunder"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier damage, and roll a d6 to determine the distance you must teleport the creature. It must be teleported that many squares away from its original location. After the teleport, all creatures adjacent to the target take 5 thunder damage.",
@@ -3583,7 +3583,7 @@
     "keywords": [
       "Arcane, Implement, Varies"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d10 + Charisma modifier damage, and roll a d6 to determine the damage type. At the start of your next turn, deal 10 damage of the same type to one enemy within 3 squares of you.<br/>1. Acid<br/>2. Cold<br/>3. Fire<br/>4. Lightning<br/>5. Poison<br/>6. Thunder"
@@ -3602,7 +3602,7 @@
     "keywords": [
       "Arcane, Implement, Lightning, Thunder"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d8 + Charisma modifier thunder damage, and you push the target a number of squares equal to 1 + your Strength modifier.",
@@ -3625,7 +3625,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation, Thunder"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier damage, and one enemy within 5 squares of the target takes 10 psychic damage. If no other enemy creature is within 5 squares, this attack deals 1d8 extra damage to the target instead.",
@@ -3645,7 +3645,7 @@
     "keywords": [
       "Arcane, Implement, Teleportation, Thunder"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "3d8 + Charisma modifier damage, and roll a d6. You must teleport the target that distance, and you can teleport yourself that distance. After the teleport, every creature adjacent to you and every creature adjacent to the target takes 10 thunder damage.",
@@ -3665,7 +3665,7 @@
     "keywords": [
       "Arcane, Implement, Varies"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "3d10 + Charisma modifier damage, and roll a d6 to determine the damage type. At the start of your next turn, deal 15 damage of the same type to each enemy within 3 squares of you.<br/>1. Acid<br/>2. Cold<br/>3. Fire<br/>4. Lightning<br/>5. Poison<br/>6. Thunder"
@@ -3684,7 +3684,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You start your turn stunned, dazed, or unconscious",
     "effect": "You take your turn as though you were not stunned, dazed, or unconscious. At the end of your turn, the effect continues as normal."
   },
@@ -3702,7 +3702,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You miss a target with a sorcerer attack power.",
     "effect": "Reroll the triggering attack roll. If you still miss the target even after the reroll, you take psychic damage equal to your Charisma modifier and regain the use of this power at the start of your next turn."
   },
@@ -3720,7 +3720,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally within 10 squares makes an attack.",
     "effect": "Before the ally makes his or her first attack roll for the triggering attack, choose 1–10 or 11–20. If the result on the die for the attack roll of the triggering attack is within the range selected, you gain a +5 power bonus to damage rolls until the end of your next turn. Otherwise, you gain a +2 power bonus to damage rolls until the end of your next turn."
   },
@@ -3738,7 +3738,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An ally within 5 squares makes an attack.",
     "effect": "Before the ally makes his or her first attack roll for the triggering attack, choose 1–10 or 11–20. If the result on the die for the attack roll of the triggering attack is within the range selected, you gain a power bonus to damage rolls against that target equal to 5 + your Charisma modifier until the end of your next turn."
   },
@@ -3756,7 +3756,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, when you miss an enemy with an attack roll, you gain one of the following benefits: If the result of the die is even, you slide the target 1 square as a free action. If the result on the die is odd, you gain a +2 power bonus to your next attack roll made against that target before the end of your next turn."
   },
   "Damage Gambit": {
@@ -3773,7 +3773,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You make a damage roll.",
     "effect": "Reroll the damage roll, and use the new result. If the new result is higher than the triggering damage roll’s result, you deal extra damage equal to your Charisma modifier. If the new result is lower, you take psychic damage equal to your Charisma modifier."
   },
@@ -3791,7 +3791,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You roll a skill check, ability check, or attack roll and dislike the result.",
     "effect": "Reroll the triggering roll. If you roll a natural 20, you regain the use of this power at the end of your next turn."
   },
@@ -3809,7 +3809,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "activeFamiliar": "If your familiar is adjacent to the target, you gain a +4 power bonus to the attack roll.",
@@ -3829,7 +3829,7 @@
     "keywords": [
       "Arcane, Implement, Radiant"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "activeFamiliar": "You can choose a square in your familiar’s space instead of yours as the origin square for this attack.",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
@@ -3849,7 +3849,7 @@
     "keywords": [
       "Arcane, Implement ; Acid or Radiant"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d10 + Charisma modifier damage, and you can push the target a number of spaces equal to your Dexterity modifier. If you rolled an even number on the attack roll, the damage is acid. If you rolled an odd number on the attack roll, the damage is radiant.",
@@ -3870,7 +3870,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "Your familiar must be in its active mode.",
     "effect": "Until the end of your next turn, you gain a +2 power bonus to attack rolls against any creature adjacent to your familiar."
   },
@@ -3888,7 +3888,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "activeFamiliar": "If your familiar is adjacent to the target, the target grants combat advantage to you for this attack.",
@@ -3909,7 +3909,7 @@
     "keywords": [
       "Arcane, Force, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d10 + Charisma modifier force damage, and the target is immobilized until the end of your next turn.",
@@ -3949,7 +3949,7 @@
     "keywords": [
       "Arcane, Implement, Psychic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Will",
     "onHit": "2d8 + Charisma modifier psychic damage, and you push the target 2 squares.",
@@ -3969,7 +3969,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "requirement": "Your familiar must be in its active mode.",
     "effect": "Until the end of the encounter, your familiar gains a power bonus to all defenses equal to your Charisma modifier. Your familiar can move its speed.",
     "target": "One creature adjacent to your familiar",
@@ -3991,7 +3991,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "Your familiar",
     "effect": "Your familiar gains a power bonus to all defenses equal to your Charisma modifier and resist 10 to all damage until the end of the encounter."
   },
@@ -4009,7 +4009,7 @@
     "keywords": [
       "Arcane, Implement, Poison, Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "activeFamiliar": "If you rolled an even number on the attack roll, the target cannot take opportunity actions until the end of your next turn. If you rolled an odd number on the attack roll, the target is slowed until the end of your next turn.",
@@ -4029,7 +4029,7 @@
     "keywords": [
       "Arcane, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "Until the end of the encounter, your familiar gains hit points equal to your bloodied value, and you can give your familiar the following special commands.",
     "standardAction": "Melee 1; targets one creature; Charisma vs. AC; 2d10 + Charisma modifier damage.",
     "opportunityAttack": "Melee 1; targets one creature; Charisma vs. AC; 1d10 + Charisma modifier damage, and the target takes 5 ongoing damage (save ends).",
@@ -4049,7 +4049,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Your familiar appears in passive mode in your space or in active mode adjacent to you, even if it is destroyed."
   },
   "Rolls of Thunder": {
@@ -4066,7 +4066,7 @@
     "keywords": [
       "Arcane, Implement, Thunder"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Charisma vs. Will",
     "onHit": "3d10 + Charisma modifier damage, and the target falls prone.",
@@ -4086,7 +4086,7 @@
     "keywords": [
       "Arcane, Implement, Poison"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "requirement": "Your familiar must be in its active mode.",
     "target": "One creature adjacent to your familiar",
     "attack": "Charisma vs. Fortitude",
@@ -4107,7 +4107,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "requirement": "Your familiar must be in its active mode.",
     "target": "One ally adjacent to your familiar",
     "effect": "Teleport your familiar and the target 10 squares to squares adjacent to one another. Then, you can teleport your familiar 10 squares."
@@ -4126,7 +4126,7 @@
     "keywords": [
       "Arcane, Fire, Implement"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier fire damage, and each enemy adjacent to the target takes 1d10 + Charisma modifier fire damage.",
@@ -4146,7 +4146,7 @@
     "keywords": [
       "Acid, Arcane, Implement, Lightning"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "2d10 + Charisma modifier acid and lightning damage, and ongoing 10 acid and lightning damage (save ends).",
@@ -4167,7 +4167,7 @@
     "keywords": [
       "Arcane, Implement, Lightning"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "primaryTarget": "One creature",
     "attack": "Charisma vs. Fortitude",
     "onHit": "4d10 + Charisma modifier lightning damage, and make a secondary attack if your familiar is in active mode.",
@@ -4190,7 +4190,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "6d10 + Charisma modifier necrotic damage, and the target is stunned (save ends).",
@@ -4211,7 +4211,7 @@
     "keywords": [
       "Arcane, Varies, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -4232,7 +4232,7 @@
     "keywords": [
       "Arcane, Teleportation, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -4255,7 +4255,7 @@
     "keywords": [
       "Arcane, Lightning, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
@@ -4275,7 +4275,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -4296,7 +4296,7 @@
     "keywords": [
       "Arcane, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a dagger.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
@@ -4316,7 +4316,7 @@
     "keywords": [
       "Arcane, Force, Weapon"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "requirement": "You must be wielding a dagger.",
     "target": "Each enemy you can see in the blast",
     "attack": "Charisma vs. AC",
@@ -4337,7 +4337,7 @@
     "keywords": [
       "Arcane, Illusion, Implement, Psychic, Teleportation"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
     "onHit": "2d12 + Charisma modifier psychic damage, and the target treats you as invisible (save ends).",
@@ -4358,7 +4358,7 @@
     "keywords": [
       "Arcane, Elemental, Implement, Varies"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d12 + Charisma modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d12 + Charisma modifier damage.",
@@ -4378,7 +4378,7 @@
     "keywords": [
       "Arcane, Elemental, Varies"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use a sorcerer at-will attack power.",
     "effect": "You can make one additional creature a target of the triggering attack. If the attack’s range is melee or ranged, the additional target must be within 5 squares of you. If the attack’s range is area or close, the additional target must be adjacent to the burst or blast. <br/>&nbsp;&nbsp;&nbsp;&nbsp;Each target hit by the attack takes 1d10 extra damage of the type dealt by the triggering attack In addition, you fly up to half your speed as a free action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2d10 extra damage, and you also slide the target up to 2 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3d10 extra damage, and the target is also blinded until the end of your next turn.",
     "special": "You can use this power only once per round."
@@ -4397,7 +4397,7 @@
     "keywords": [
       "Arcane, Elemental, Varies"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use a sorcerer at-will attack power.",
     "effect": "You can make one additional creature a target of the triggering attack. If the attack’s range is melee or ranged, the additional target must be within 5 squares of you. If the attack’s range is area or close, the additional target must be adjacent to the burst or blast.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Each target hit by the attack takes 1d10 extra damage of the type dealt by the triggering attack. In addition, you gain temporary hit points equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2d10 extra damage, and the target is also immobilized until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3d10 extra damage, and you also gain resistance to all damage equal to one-half your level until the end of your next turn.",
     "special": "You can use this power only once per round."
@@ -4416,7 +4416,7 @@
     "keywords": [
       "Arcane, Elemental, Varies"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use a sorcerer at-will attack power.",
     "effect": "You can make one additional creature a target of the triggering attack. If the attack’s range is melee or ranged, the additional target must be within 5 squares of you. If the attack’s range is area or close, the additional target must be adjacent to the burst or blast.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Each target hit by the attack takes 1d10 extra damage of the type dealt by the triggering attack. In addition, you shift up to half your speed as a free action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2d10 extra damage, and ongoing 10 fire damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3d10 extra damage, and the attack also deals half damage on a miss.",
     "special": "You can use this power only once per round."
@@ -4435,7 +4435,7 @@
     "keywords": [
       "Arcane, Elemental, Varies"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use a sorcerer at-will attack power.",
     "effect": "You can make one additional creature a target of the triggering attack. If the attack’s range is melee or ranged, the additional target must be within 5 squares of you. If the attack’s range is area or close, the additional target must be adjacent to the burst or blast.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Each target hit by the attack takes 1d10 extra damage of the type dealt by the triggering attack. In addition, you gain a +2 power bonus to all defenses until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2d10 extra damage, and the target is also dazed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3d10 extra damage, and the target also falls prone.",
     "special": "You can use this power only once per round."
@@ -4454,7 +4454,7 @@
     "keywords": [
       "Arcane, Elemental, Fire, Implement"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 + Charisma modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Charisma modifier fire damage.",
@@ -4474,7 +4474,7 @@
     "keywords": [
       "Arcane, Elemental, Implement"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 + Charisma modifier damage, and you push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Charisma modifier damage."
@@ -4493,7 +4493,7 @@
     "keywords": [
       "Arcane, Elemental, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d6 + Charisma modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Charisma modifier damage.",
@@ -4513,7 +4513,7 @@
     "keywords": [
       "Arcane, Elemental, Implement, Thunder"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier thunder damage, and you can slide the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Charisma modifier thunder damage."
@@ -4532,7 +4532,7 @@
     "keywords": [
       "Arcane, Cold, Elemental, Implement"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier cold damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Charisma modifier cold damage."
@@ -4551,7 +4551,7 @@
     "keywords": [
       "Arcane, Elemental, Fire, Implement, Zone"
     ],
-    "range": "Area burst 1 within 10 squares<",
+    "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d10 + Charisma modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Charisma modifier damage.",
@@ -4571,7 +4571,7 @@
     "keywords": [
       "Arcane, Elemental, Implement, Thunder"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Fortitude",
     "onHit": "1d8 + Charisma modifier thunder damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Charisma modifier thunder damage."
@@ -4590,7 +4590,7 @@
     "keywords": [
       "Arcane, Elemental, Implement, Lightning"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Charisma vs. Reflex",
     "onHit": "1d8 lightning damage, and one enemy adjacent to the target takes lightning damage equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 lightning damage."
@@ -4609,7 +4609,7 @@
     "keywords": [
       "Arcane, Elemental, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the rock armor stance. Until the stance ends, you are slowed and gain resistance to all damage equal to your Charisma modifier."
   },
   "Shield of Flames": {
@@ -4626,7 +4626,7 @@
     "keywords": [
       "Arcane, Aura, Elemental, Fire"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 1 that lasts until the end of your next turn. You have partial concealment against enemies in the aura, and any creature that makes a melee attack against you or ends its turn in the aura takes fire damage equal to your Charisma modifier. A creature can take this damage only once per turn."
   },
   "Wall of Water": {
@@ -4643,7 +4643,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Area wall 5 within 10 squares<",
+    "range": "Area wall 5 within 10 squares",
     "effect": "You create a wall of water that lasts until the end of your next turn. The wall provides superior cover against attacks made through it. A creature must swim to move through the wall (Athletics DC 10). In addition, a creature passing through the wall gains vulnerable 5 cold until the end of its next turn.",
     "sustainMinor": "The wall persists until the end of your next turn.",
     "special": "If any part of the wall meets an area of liquid water at least 5 squares in size, you can increase the area to a wall 10."
@@ -4662,7 +4662,7 @@
     "keywords": [
       "Arcane, Elemental, Zone"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "The burst creates a zone of lightly obscured squares that lasts until the end of your next turn. Creatures in the zone must spend 1 extra square for each square of movement toward you."
   },
   "Raise Stone": {
@@ -4679,7 +4679,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One square of stone, mud, or dirt",
     "effect": "You cause the target square to rise up to 20 feet or sink up to 10 feet. If you raise the square, the area below it is filled with solid rock and becomes blocking terrain. Creatures in the target square can shift 1 square as a free action to avoid being raised or lowered. This power cannot be used to harm a creature, and any such use causes the power to fail. The target square remains at its new elevation until the end of the encounter."
   },
@@ -4697,7 +4697,7 @@
     "keywords": [
       "Arcane, Elemental, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be adjacent to a fire of campfire size or larger.",
     "effect": "You teleport up to 10 squares to a square adjacent to a fire of campfire size or larger."
   },
@@ -4715,7 +4715,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Area burst 3 within 10 squares<",
+    "range": "Area burst 3 within 10 squares",
     "effect": "You cause nonliving water in the burst to freeze to a depth of 6 inches. Mud or swamp freezes, becoming normal terrain. Wet floors change to slick ice, becoming difficult terrain. Ice covers bodies of water in the area, which can now be walked on (although the ice is difficult terrain). A creature that enters a square of this ice or starts its turn there must make a DC 11 Acrobatics check or fall prone. The transformed ice remains frozen until it melts naturally."
   },
   "Wind Rider": {
@@ -4732,7 +4732,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of your next turn, you can fly up to your speed as a move action (altitude limit 4). You grant combat advantage while aloft.",
     "sustainStandard": "The effect persists until the end of your next turn."
   },
@@ -4750,7 +4750,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "effect": "You take control of each nonliving fire in the burst that is not controlled by a creature. Choose one of the following options for each fire.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Expand: The fire expands to a square adjacent to it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Extinguish: The fire is extinguished.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Relocate: You move the fire up to 2 squares.<br/>Expanded or relocated flames return to their normal size and location at the end of your next turn.",
     "sustainMinor": "The effect persists until the end of your next turn, and you can expand, extinguish, or relocate the controlled flames again."
   },
@@ -4768,7 +4768,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move up to your speed. During this movement, you can pass through stone, rock, sand, or earth, and you have tremorsense 1. If you end this movement inside solid earth, you immediately move to an unoccupied square nearest your entry point."
   },
   "Elemental Shield": {
@@ -4785,7 +4785,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "trigger": "You or an ally within 2 squares of you takes acid, cold, fire, lightning, or thunder damage.",
     "target": "You and each ally in the burst",
     "effect": "Until the end of your next turn, each target gains resist 10 to the triggering damage type."
@@ -4804,7 +4804,7 @@
     "keywords": [
       "Arcane, Elemental, Zone"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One, two, or three squares in the burst",
     "effect": "Choose acid, cold, fire, lightning, or thunder. Each target square becomes a zone that lasts until the end of the encounter. You or an ally gains resist 10 to damage of the chosen type while in the zone."
   },
@@ -4822,7 +4822,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "effect": "You push each target to a square adjacent to the blast. If a target can’t be pushed, its space is excluded from the blast. Choose air, earth, fire, or water to determine the blast’s effect.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Air: Normal fires in the blast are extinguished, and gases or vapors are dispersed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Earth: The blast is filled with firmly packed dirt and is blocking terrain.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Fire (Zone): Burning embers and flames create a zone that lasts until the end of the encounter. Any creature in the zone has vulnerable 10 fire.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Water: A mass of water appears in the blast and collapses into a pool 2 feet deep and a 10 squares in diameter centered on the blast, becoming difficult terrain until the end of your next turn. It then becomes 6 inches deep and 20 squares in diameter, and has no effect on movement."
   },
@@ -4840,7 +4840,7 @@
     "keywords": [
       "Arcane, Aura, Cold, Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 1 that lasts until the end of your next turn. Any creature in the aura that makes a melee attack against you takes cold damage equal to 10 + your Charisma modifier, and it is slowed until the end of its next turn. While the aura is active, you have partial cover."
   },
   "Tornado Leap": {
@@ -4857,7 +4857,7 @@
     "keywords": [
       "Arcane, Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You fly up to your speed + 2. You also gain a fly speed equal to your speed and can hover until the end of your next turn."
   },
   "Elemental Rift": {
@@ -4874,7 +4874,7 @@
     "keywords": [
       "Arcane, Elemental, Zone"
     ],
-    "range": "Area burst 2 within 10 squares<",
+    "range": "Area burst 2 within 10 squares",
     "effect": "The burst creates a zone that lasts until the end of your next turn. When an enemy enters the zone or starts its turn there, it is slowed until the end of its next turn and pulled 1 square toward the center of the zone. If a creature ends its turn in the zone, it is removed from play (save ends).",
     "sustainMinor": "The zone persists until the end of your next turn."
   },
@@ -4892,7 +4892,7 @@
     "keywords": [
       "Arcane, Aura, Elemental"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You activate an aura 3 that lasts until the end of the encounter. Choose air, earth, fire, or water to determine the aura’s effect.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Air: Lightning damage is halved against you and your allies in the aura. If an enemy that has the air subtype ends its turn in the aura, that enemy is dazed until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Earth: Thunder damage is halved against you and your allies in the aura. If an enemy that has the earth subtype ends its turn in the aura, that enemy is dazed until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Fire: Fire damage is halved against you and your allies in the aura. If an enemy that has the fire subtype ends its turn in the aura, that enemy is dazed until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Water: Cold damage is halved against you and your allies in the aura. If an enemy that has the water subtype ends its turn in the aura, that enemy is dazed until the end of its next turn."
   },
   "Stormy Emotions": {
@@ -4909,7 +4909,7 @@
     "keywords": [
       "Arcane, Cold, Implement, Lightning"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Charisma vs. Reflex",
     "onHit": "2d10 cold and lightning damage, and you can push the target 1 square and knock it prone."

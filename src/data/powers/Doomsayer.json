@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "effect": "You place your Warlock’s Curse upon the target. In addition, it must reroll any successful attack it makes while affected by your curse and take the new result."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Arcane, Fear, Implement, Psychic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Charisma or Constitution vs. Will",
     "onHit": "2d8 + Charisma modifier or Constitution modifier psychic damage. Until the end of your next turn, when you take damage, the target takes half that amount of psychic damage."
@@ -50,7 +50,7 @@
     "keywords": [
       "Arcane, Fear, Illusion, Implement, Psychic"
     ],
-    "range": "Ranged 20<",
+    "range": "Ranged 20",
     "target": "One creature",
     "attack": "Charisma or Constitution vs. Will",
     "onHit": "4d8 + Charisma modifier or Constitution modifier psychic damage, and the target is stunned until the end of its next turn and knocked prone.",

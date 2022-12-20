@@ -27,38 +27,38 @@ const breakup = (fullText) => {
         };
     }
     
-function processText(split, bonus = false) {
-    // flavor is inside an <i> tage inside a <p> tag with the class flavor. There may be a bonus flavor so check for a second match too
-    // if there is a second match add it as bonusFlavor
-    let flavorMatches = split.match(/<p class="flavor"><i>(.*?)<\/i><\/p>/) ? split.match(/<p class="flavor"><i>(.*?)<\/i><\/p>/) : '';
-    if (flavorMatches) {
-        let flavor = flavorMatches[1].trim()
-        bonus ? json.bonusPower.flavor = flavor : json.flavor = flavor;
+    function processText(split, bonus = false) {
+        // flavor is inside an <i> tage inside a <p> tag with the class flavor. There may be a bonus flavor so check for a second match too
+        // if there is a second match add it as bonusFlavor
+        let flavorMatches = split.match(/<p class="flavor"><i>(.*?)<\/i><\/p>/) ? split.match(/<p class="flavor"><i>(.*?)<\/i><\/p>/) : '';
+        if (flavorMatches) {
+            let flavor = flavorMatches[1].trim()
+            bonus ? json.bonusPower.flavor = flavor : json.flavor = flavor;
+        };
+
+        // range is inside a <p> with other stuff but the range is after six consecutive spaces written in unicode. there may be a bonus range so check for a second match too
+        // remove the <b> tags from the range
+        let rangeMatches = split.match(/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(.*?)<\/p>/) ? split.match(/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(.*?)\/p>/) : '';
+        if (rangeMatches) {
+            let range = rangeMatches[1].replace(/<b>/g, '').replace(/<\/b>/g, '').trim();
+            bonus ? json.bonusPower.range = range : json.range = range; 
+        };
+
+        //keywords are listed in <b> tags following four consecutive spaces written in unicode and ending at a <br /> tag. There may be a bonus lsit of keywords so check for that arrray too.
+        // remove the <b> tags from each keyword
+        let keywordMatches = split.match(/&nbsp;&nbsp;&nbsp;&nbsp;(.*?)<br\/>/) ? split.match(/&nbsp;&nbsp;&nbsp;&nbsp;(.*?)<br\/>/) : '';
+        if (keywordMatches) { 
+            let keywords = keywordMatches[1].split('</b><b>').map(keyword => keyword.replace(/<b>/g, '').replace(/<\/b>/g, '').trim()); 
+            bonus ? json.bonusPower.keywords = keywords : json.keywords = keywords;
+        };
     };
 
-    // range is inside a <p> with other stuff but the range is after six consecutive spaces written in unicode. there may be a bonus range so check for a second match too
-    // remove the <b> tags from the range
-    let rangeMatches = split.match(/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(.*?)<\/p>/) ? split.match(/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(.*?)\/p>/) : '';
-    if (rangeMatches) {
-        let range = rangeMatches[1].replace(/<b>/g, '').replace(/<\/b>/g, '').trim();
-        bonus ? json.bonusPower.range = range : json.range = range; 
+    processText(splitText[0]);
+    if (splitText[1]) {
+        let bonusName = splitText[1].match(/<\/span>(.*?)<\/h1>/)[1];
+        json.bonusPower.name = bonusName.replace(/<b>/g, '').replace(/<\/b>/g, '').trim();
+        processText(splitText[1], true);
     };
-
-    //keywords are listed in <b> tags following four consecutive spaces written in unicode and ending at a <br /> tag. There may be a bonus lsit of keywords so check for that arrray too.
-    // remove the <b> tags from each keyword
-    let keywordMatches = split.match(/&nbsp;&nbsp;&nbsp;&nbsp;(.*?)<br\/>/) ? split.match(/&nbsp;&nbsp;&nbsp;&nbsp;(.*?)<br\/>/) : '';
-    if (keywordMatches) { 
-        let keywords = keywordMatches[1].split('</b><b>').map(keyword => keyword.replace(/<b>/g, '').replace(/<\/b>/g, '').trim()); 
-        bonus ? json.bonusPower.keywords = keywords : json.keywords = keywords;
-    };
-};
-
-processText(splitText[0]);
-if (splitText[1]) {
-    let bonusName = splitText[1].match(/<\/span>(.*?)<\/h1>/)[1];
-    json.bonusPower.name = bonusName.replace(/<b>/g, '').replace(/<\/b>/g, '').trim();
-    processText(splitText[1], true);
-};
 
     // create properties for the json object
     // the key is found in the text between <b> and </b> tags that are followed by a colon
@@ -106,10 +106,14 @@ if (splitText[1]) {
         });
     };
 
-    if (matchesTwo) {
+    if (matchesTwo.length > 0) {
         let secondary = false;
+        if (splitText[1].match(/<b>(.*?)<\/b> <img/)) {
+            json.bonusPower.frequency = splitText[1].match(/<b>(.*?)<\/b> <img/)[1].trim();
+        }
         matchesTwo.forEach(match => {
             let key = match.match(/<b>(.*?)<\/b>.*?/)[1];
+
             if (key === 'Primary Attack') {
                 key = 'attack';
             }

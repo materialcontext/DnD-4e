@@ -1,0 +1,61 @@
+{
+  "Hateful Binding": {
+    "id": "'12273",
+    "action": "Standard",
+    "powerClass": "Voice for the Ravaged",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Hateful Binding",
+    "type": "for",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHateful Binding\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12273\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Voice for the Ravaged Attack 11</span>Hateful Binding</h1><p class=\\\"flavor\\\"><i>You force your enemy to endure the ravages that have plagued Athas, causing it to turn against one of its allies.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Primal</b>, <b>Psychic</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 5</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability + 6 vs. Will<br/>Level 21: Primary ability + 9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: 1d10 + ability modifier psychic damage, and as a free action the target makes a basic attack against a creature of your choice, with a bonus to the damage roll equal to your ability modifier.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 61.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You force your enemy to endure the ravages that have plagued Athas, causing it to turn against one of its allies.",
+    "keywords": [
+      "Charm, Primal, Psychic"
+    ],
+    "range": "Ranged 5",
+    "target": "One creature",
+    "attack": "Primary ability + 6 vs. Will<br/>Level 21: Primary ability + 9 vs. Will",
+    "onHit": "1d10 + ability modifier psychic damage, and as a free action the target makes a basic attack against a creature of your choice, with a bonus to the damage roll equal to your ability modifier."
+  },
+  "World's Vengeance": {
+    "id": "'12274",
+    "action": "Standard",
+    "powerClass": "Voice for the Ravaged",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "World's Vengeance",
+    "type": "for",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWorld's Vengeance\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12274\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Voice for the Ravaged Attack 20</span>World's Vengeance</h1><p class=\\\"flavor\\\"><i>You call forth the greatest and most vengeful of your spirit allies, sending that spirit to lash out at your enemies and bring them under your command.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Charm</b>, <b>Primal</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> burst 3</p><p class=\\\"powerstat\\\"><b>Target</b>: Each enemy in the burst</p><p class=\\\"powerstat\\\"><b>Attack</b>: Primary ability + 9 vs. Will</p><p class=\\\"flavor\\\"><b>Hit</b>: The target is stunned (save ends).</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>First Failed Saving Throw</b>: The target is dominated instead of stunned (save ends).</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Aftereffect</b>: The target is dazed until the end of your next turn.</p><p class=\\\"powerstat\\\"><b>Miss</b>: The target is dazed (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 61.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You call forth the greatest and most vengeful of your spirit allies, sending that spirit to lash out at your enemies and bring them under your command.",
+    "keywords": [
+      "Charm, Primal"
+    ],
+    "range": "Close burst 3",
+    "target": "Each enemy in the burst",
+    "attack": "Primary ability + 9 vs. Will",
+    "onHit": "The target is stunned (save ends).",
+    "firstFailedSavingThrow": "The target is dominated instead of stunned (save ends).",
+    "aftereffect": "The target is dazed until the end of your next turn.",
+    "onMiss": "The target is dazed (save ends)."
+  },
+  "Restorative Wind": {
+    "id": "'12275",
+    "action": "Minor",
+    "powerClass": "Voice for the Ravaged",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Restorative Wind",
+    "type": "for",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRestorative Wind\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=12275\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Voice for the Ravaged Utility 12</span>Restorative Wind</h1><p class=\\\"flavor\\\"><i>You summon the primal spirits of air and earth, creating a soothing whirlwind that washes over your allies to give them respite from their wounds.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Healing</b>, <b>Primal</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Close</b> blast 5</p><p class=\\\"powerstat\\\"><b>Target</b>: Each ally in the blast</p><p class=\\\"flavor\\\"><b>Effect</b>: Each target regains hit points as if it had spent a healing surge and gains a +2 power bonus to all defenses until the start of your next turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/253870000\\\" target=\\\"_new\\\">Dark Sun Campaign Setting</a>, page(s) 61.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You summon the primal spirits of air and earth, creating a soothing whirlwind that washes over your allies to give them respite from their wounds.",
+    "keywords": [
+      "Healing, Primal"
+    ],
+    "range": "Close blast 5",
+    "target": "Each ally in the blast",
+    "effect": "Each target regains hit points as if it had spent a healing surge and gains a +2 power bonus to all defenses until the start of your next turn."
+  }
+}

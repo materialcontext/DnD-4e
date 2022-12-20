@@ -13,7 +13,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You hit with an attack during your turn",
     "target": "One creature<br/>Level 11: One or two creatures<br/>Level 21: Each enemy adjacent to you",
     "effect": "The target takes damage equal to 2 + your Wisdom modifier, and you slide it 1 square to a square adjacent to you, or 1 square in any direction if the target wasn’t targeted by the triggering attack.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d10 + Dexterity modifier damage. If the target has made an opportunity attack against you during this turn, the target takes extra damage equal to your Wisdom modifier.<br/>Level 21: 2d10 + Dexterity modifier damage.<br/>",
@@ -53,7 +53,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One ally or one prone enemy",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d6 + Dexterity modifier damage, and you knock the target prone.<br/>Level 21: 2d6 + Dexterity modifier damage.<br/>",
@@ -73,7 +73,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d8 + Dexterity modifier damage.<br/>Level 21: 2d8 + Dexterity modifier damage.<br/>",
@@ -93,7 +93,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One enemy",
     "attack": "Dexterity vs. Will",
     "onHit": "1d8 + Dexterity modifier damage, and you slide the target 1 square. The target then makes a melee basic attack as a free action against one enemy of your choice. The target gains a bonus to the attack roll equal to your Wisdom modifier.",
@@ -113,7 +113,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage. The target takes 1d10 extra damage if it was at full hit points when you hit it with this attack.",
@@ -133,7 +133,7 @@
     "keywords": [
       "Force, Implement, Psionic, Stance"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier force damage.",
@@ -154,7 +154,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You shift your speed. If you enter a square adjacent to any enemy during this shift, you slide that enemy 1 square. You can slide each enemy only once during the shift. After the shift, make the following attack.",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. Fortitude",
@@ -175,7 +175,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are pulled, pushed, or slid",
     "effect": "Instead of being affected by the forced movement, you shift the number of squares it would have moved you."
   },
@@ -193,7 +193,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain temporary hit points equal to your Wisdom modifier. When you have no temporary hit points remaining, you gain a bonus to the damage roll of your next melee attack before the end of your next turn. The bonus equals your Wisdom modifier."
   },
   "Dance of Swords [Attack Technique]": {
@@ -210,7 +210,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage, and the target takes extra damage equal to twice the number of enemies adjacent to you.",
@@ -230,7 +230,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier thunder damage, and a single enemy adjacent to the target takes 1d10 thunder damage.",
@@ -250,7 +250,7 @@
     "keywords": [
       "Implement, Poison, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage, and ongoing 5 poison damage (save ends).",
@@ -270,7 +270,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier damage, and you push the target 2 squares.",
@@ -291,7 +291,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +2 power bonus to all defenses."
   },
   "Purifying Meditation": {
@@ -308,7 +308,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make a saving throw with a bonus equal to your Wisdom modifier."
   },
   "Fist of One Hundred Strikes [Attack Technique]": {
@@ -325,7 +325,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One or two creatures",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d6 + Dexterity modifier damage, and you shift 1 square.",
@@ -345,7 +345,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage, and you slide the primary target a number of squares equal to your Wisdom modifier. Make a secondary attack that is a close burst 1 centered on the primary target.",
@@ -368,7 +368,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude or Reflex",
     "onHit": "Ongoing damage equal to 15 + your Dexterity modifier (save ends).",
@@ -388,7 +388,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d6 + Dexterity modifier psychic damage, and the target is blinded until the end of your next turn.",
@@ -408,7 +408,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take damage",
     "effect": "The damage is reduced by 10 + your Wisdom modifier."
   },
@@ -426,7 +426,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You climb your speed. During this movement, you can move across overhanging surfaces, like ceilings, but you fall if you end your turn on such a surface."
   },
   "Dance of the Stinging Hornet [Attack Technique]": {
@@ -443,7 +443,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage, and you grab the target. Until the grab ends, the target grants cover to you, and if it is larger than you, you can end a move action in its space. If you do so, the target isn’t immobilized by this grab, and you remain in its space when it moves (you don’t provoke opportunity attacks as you move with it). Until you leave the target’s space, its movement doesn’t provoke opportunity attacks from you.",
@@ -463,7 +463,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3d10 + Dexterity modifier damage. Until the end of your next turn, the target takes a penalty to attack rolls against you equal to your Wisdom modifier.",
@@ -483,7 +483,7 @@
     "keywords": [
       "Cold, Implement, Psionic, Stance"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier cold damage, and the target is weakened (save ends).",
@@ -504,7 +504,7 @@
     "keywords": [
       "Force, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "Before the attack, you jump 10 squares. This movement doesn’t provoke opportunity attacks.",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Reflex",
@@ -525,7 +525,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An attack hits your Will",
     "effect": "You gain a +5 bonus to Will against the triggering attack."
   },
@@ -543,7 +543,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, once per round you can use a minor action to make a saving throw."
   },
   "Steps of Grasping Fire [Attack Technique]": {
@@ -560,7 +560,7 @@
     "keywords": [
       "Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier fire damage.",
@@ -580,7 +580,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Teleportation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d10 + Dexterity modifier + Wisdom modifier damage, and you shift 2 squares.",
@@ -600,7 +600,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity + 2 vs. Reflex",
     "onHit": "3d10 + Dexterity modifier damage.",
@@ -621,7 +621,7 @@
     "keywords": [
       "Fire, Implement, Psionic, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "5d6 + Dexterity modifier fire damage.",
@@ -643,7 +643,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Radiant"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier radiant damage. Make a secondary attack that is a close burst 1 centered on the primary target.",
@@ -666,7 +666,7 @@
     "keywords": [
       "Full Discipline, Implement, Necrotic, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d10 + Dexterity modifier necrotic damage. You gain temporary hit points equal to 10 + your Wisdom modifier.",
@@ -686,7 +686,7 @@
     "keywords": [
       "Implement, Psionic, Teleportation"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "target": "One, two, or three enemies",
     "attack": "Dexterity vs. Reflex.  If you attack fewer than three enemies, you can make the attack twice against one of the targets.",
     "onHit": "3d10 + Dexterity modifier damage.",
@@ -707,7 +707,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "6d6 + Dexterity modifier damage.",
@@ -728,7 +728,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Teleportation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d10 + Dexterity modifier damage. You teleport to a square adjacent to an enemy within 6 squares of you. Then make a secondary attack.",
@@ -751,7 +751,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "5d10 + Dexterity modifier damage.",
@@ -773,7 +773,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "7d6 + Dexterity modifier damage, and the target is weakened (save ends).",
@@ -794,7 +794,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Will",
     "onHit": "The target makes a melee basic attack as a free action against one enemy of your choice. The target gains a bonus to the attack roll and the damage roll against that enemy. The bonus equals your Wisdom modifier.",
@@ -814,7 +814,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d10 + Dexterity modifier damage, and you push the target 1 square.<br/>Level 21: 2d10 + Dexterity modifier damage.<br/>",
@@ -834,7 +834,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You gain resist 20 to all damage against the triggering attack."
   },
@@ -852,7 +852,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You are phasing and ignore difficult terrain until the end of your next turn."
   },
   "Stone Fist Flurry of Blows": {
@@ -869,7 +869,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You hit with an attack during your turn",
     "target": "One creature<br/>Level 11: One or two creatures<br/>Level 21: Each enemy adjacent to you",
     "effect": "The target takes damage equal to 3 + your Strength modifier. If the target wasn’t targeted by the triggering attack, the damage increases by 2 (4 at 11th level and 6 at 21st level).",
@@ -889,7 +889,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage. If the target is bloodied, it takes extra damage from both this attack and your next attack against it before the end of your next turn. The extra damage equals your Strength modifier.",
@@ -909,7 +909,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier thunder damage, and each enemy adjacent to the target takes thunder damage equal to your Strength modifier.",
@@ -929,7 +929,7 @@
     "keywords": [
       "Implement, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One or two creatures",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d6 + Dexterity modifier thunder damage.",
@@ -950,7 +950,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "You shift your speed and can make the following attack once against each enemy that you move adjacent to during the shift.",
     "target": "One enemy",
     "attack": "Dexterity vs. Reflex",
@@ -971,7 +971,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of this turn, you ignore difficult terrain and can both move across liquid and stand on it as if it were solid ground. In addition, you move your speed."
   },
   "Supreme Flurry": {
@@ -988,7 +988,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use your Flurry of Blows power and resolve the effects of the power that triggered it",
     "effect": "You shift half your speed and use your Flurry of Blows power again."
   },
@@ -1006,7 +1006,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage. You can make a saving throw against one effect that a save can end, with a bonus equal to your Wisdom modifier. If you save, not only does the effect end, but the target takes damage equal to your Wisdom modifier.",
@@ -1026,7 +1026,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage, and you knock the target prone.",
@@ -1046,7 +1046,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d10 + Dexterity modifier damage, and you mark the target (save ends).",
@@ -1067,7 +1067,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d10 + Dexterity modifier damage.",
@@ -1088,7 +1088,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use your Flurry of Blows power",
     "effect": "Each enemy within 2 squares of you that was not damaged by your Flurry of Blows power is pushed 1 square."
   },
@@ -1106,7 +1106,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You make an Athletics check to jump with a +10 power bonus. You are considered to have a running start."
   },
   "Grasping Tide [Attack Technique]": {
@@ -1123,7 +1123,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d6 + Dexterity modifier damage, and the target is dazed until the end of your next turn.",
@@ -1143,7 +1143,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage, and you push the target a number of squares equal to your Strength modifier.",
@@ -1163,7 +1163,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One, two, three, or four creatures",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage, and you knock the target prone.",
@@ -1184,7 +1184,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage.",
@@ -1209,7 +1209,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You spend a healing surge and regain 2d6 additional hit points."
   },
   "Spring Up": {
@@ -1226,7 +1226,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are prone at the start of your turn",
     "effect": "You stand up."
   },
@@ -1244,7 +1244,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "requirement": "You must not be immobilized.",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
@@ -1265,7 +1265,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Teleportation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "3d6 + Dexterity modifier damage, and you teleport the target a number of squares equal to your Wisdom modifier.",
@@ -1285,7 +1285,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "You shift your speed and can make the following attack once against each enemy you move adjacent to during the shift.",
     "target": "One enemy",
     "attack": "Dexterity vs. Fortitude",
@@ -1306,7 +1306,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, when you are pulled, pushed, or slid by any enemy, you can use a free action at the end of the forced movement to shift the same number of squares that you were moved."
   },
   "Stance of the Still Sword": {
@@ -1323,7 +1323,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, enemies take a –2 penalty to attack rolls against you."
   },
   "Death's Chilled Embrace [Attack Technique]": {
@@ -1340,7 +1340,7 @@
     "keywords": [
       "Full Discipline, Implement, Necrotic, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier necrotic damage, and the target is immobilized until the end of your next turn. Until this immobilization ends, the target takes damage equal to 5 + twice your Strength modifier when it is hit by any attack that pulls, pushes, or slides it.",
@@ -1360,7 +1360,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "primaryTarget": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "You pull the target 2 squares.",
@@ -1384,7 +1384,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "5d10 + Dexterity modifier damage, and you mark the target (save ends).",
@@ -1405,7 +1405,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d10 + Dexterity modifier damage.",
@@ -1430,7 +1430,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You have 0 hit points or fewer at the start of your turn",
     "effect": "You spend a healing surge to regain hit points equal to your bloodied value."
   },
@@ -1448,7 +1448,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You fly your speed. If you don’t land at the end of this movement, you fall."
   },
   "Legion of One [Attack Technique]": {
@@ -1465,7 +1465,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage.",
@@ -1485,7 +1485,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d10 + Dexterity modifier damage, and you push the target a number of squares equal to your Strength modifier and knock it prone.",
@@ -1505,7 +1505,7 @@
     "keywords": [
       "Fire, Implement, Psionic, Radiant"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "The target takes fire and radiant damage equal to 5 + your Strength modifier.",
     "target": "One enemy",
     "attack": "Dexterity vs. Fortitude",
@@ -1526,7 +1526,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "6d8 + Dexterity modifier damage. Until the end of the encounter, attacks against the target’s AC or Reflex are against the lower of the two defenses.",
@@ -1546,7 +1546,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "4d10 + Dexterity modifier + Strength modifier damage.",
@@ -1566,7 +1566,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Psychic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "The target is dominated until the end of your next turn.",
@@ -1587,7 +1587,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "6d8 + Dexterity modifier damage.",
@@ -1610,7 +1610,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You hit with an attack during your turn",
     "target": "One creature<br/>Level 11: One or two creatures<br/>Level 21: Each enemy adjacent to you",
     "effect": "The target takes damage equal to 2 + your Constitution modifier, and it cannot shift until the start of your next turn. If the target was not a target of the triggering attack, it also can’t make opportunity attacks until the end of your turn.",
@@ -1630,14 +1630,15 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "bonusPower": {
       "name": "Lion's Den [Movement Technique]",
       "flavor": "",
       "keywords": [
         "Full Discipline, Psionic"
       ],
-      "range": "Personal <",
+      "range": "Personal",
+      "frequency": "At-Will",
       "effect": "You shift 1 square and gain a +1 power bonus to all defenses until the start of your next turn."
     },
     "target": "One creature",
@@ -1658,7 +1659,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close blast 2<",
+    "range": "Close blast 2",
     "target": "Each enemy you can see in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d8 + Dexterity modifier damage.<br/>Level 21: 2d8 + Dexterity modifier damage.",
@@ -1678,7 +1679,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature or unattended object",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage, and the target takes a penalty to AC equal to your Strength modifier until the end of your next turn. Against an unattended object, this attack deals 2d8 extra damage.",
@@ -1698,7 +1699,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage. Until the start of your next turn, as a free action, you slide any enemy that ends its turn in a square adjacent to you a number of squares equal to your Wisdom modifier.",
@@ -1718,7 +1719,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d10 + Dexterity modifier damage, and you push the primary target 1 square. You then shift 1 square and make a secondary attack.",
@@ -1741,7 +1742,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage. Until the start of your next turn, as a free action, you deal damage equal to your Constitution modifier to any enemy adjacent to you that hits you with a melee attack.",
@@ -1762,7 +1763,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage, and the target is slowed until the end of your next turn.",
@@ -1783,7 +1784,7 @@
     "keywords": [
       "Implement, Psionic, Thunder"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier thunder damage, and you push the target to the nearest unoccupied square outside the blast. The target is deafened until the end of the encounter.",
@@ -1803,7 +1804,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage, and you slide the target 2 squares to a square adjacent to you.",
@@ -1823,7 +1824,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier damage, and the target takes a -2 penalty to attack rolls (save ends).",
@@ -1844,7 +1845,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The stance ends.",
     "requirement": "The power Stunning Palm must be active in order to use this power.",
     "target": "One creature",
@@ -1866,7 +1867,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You fall",
     "effect": "You reduce the damage you take from falling by 5 + one-half your level."
   },
@@ -1884,7 +1885,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, your unarmed melee attacks deal extra damage equal to your Strength modifier."
   },
   "Swift Flight": {
@@ -1901,7 +1902,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You fly a number of squares equal to your speed + your Wisdom modifier. If you don’t land at the end of this movement, you fall."
   },
   "Inner Eye Opened [Attack Technique]": {
@@ -1918,7 +1919,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Psychic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You swap places with one creature adjacent to you.",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
@@ -1938,7 +1939,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage. The next time the target takes damage before the start of your next turn, it takes extra thunder damage equal to 3 + your Strength modifier.",
@@ -1958,7 +1959,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature adjacent to you",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage, and you slide the target 2 squares.",
@@ -1979,7 +1980,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "You pull the target 1 square. If the target ends that movement adjacent to you, it takes 2d6 + Dexterity modifier damage and falls prone. You gain a +2 power bonus to AC until the end of your next turn.",
@@ -2000,7 +2001,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The stance ends.",
     "requirement": "The power Disrupting Fist must be active in order to use this power.",
     "target": "One creature",
@@ -2022,7 +2023,7 @@
     "keywords": [
       "Cold, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier cold damage, and the target is immobilized (save ends).",
@@ -2043,7 +2044,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier damage, and the target gains vulnerability to all damage equal to your Strength modifier (save ends). Whenever you hit the target with an attack, it takes a -2 penalty to its next saving throw against this power’s effect.",
@@ -2063,7 +2064,7 @@
     "keywords": [
       "Implement, Psionic, Thunder"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier thunder damage, and each creature adjacent to the target falls prone.",
@@ -2083,7 +2084,7 @@
     "keywords": [
       "Psionic, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An adjacent enemy misses you with an attack",
     "target": "The triggering enemy",
     "effect": "You teleport to any square adjacent to the target. The target grants combat advantage to you for your next attack roll made before the end of your next turn."
@@ -2102,7 +2103,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you gain a +2 power bonus to speed, you are insubstantial while moving, and you can move through enemies’ spaces."
   },
   "Iron Heart Endurance": {
@@ -2119,7 +2120,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "You gain temporary hit points equal to twice your Constitution modifier."
   },
@@ -2137,7 +2138,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You move your speed.",
     "special": "You can use this power only as the first or the last action of your turn."
   },
@@ -2155,7 +2156,7 @@
     "keywords": [
       "Full Discipline, Implement, Lightning, Psionic, Teleportation"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier lightning damage, you push the target 2 squares, and the target takes a -2 penalty to attack rolls until the end of your next turn.",
@@ -2176,7 +2177,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each enemy you can see in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d8 + Dexterity modifier damage.",
@@ -2200,7 +2201,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier damage, and you knock the target prone. If the target stands up before the end of your next turn, that action provokes an opportunity attack from you.",
@@ -2220,7 +2221,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "ironSoul": "If you make the attack using a light blade or a spear, you gain a +2 power bonus to the attack roll.",
@@ -2241,7 +2242,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d8 + Dexterity modifier damage, and the target is slowed and takes a -2 penalty to attack rolls (save ends both). If the target has 10 hit points or fewer after this attack is resolved, you reduce it to 0 hit points.",
@@ -2262,7 +2263,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You shift 1 square.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -2283,7 +2284,7 @@
     "keywords": [
       "Fire, Implement, Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The stance ends.",
     "requirement": "The power Immolating Fist must be active in order to use this power.",
     "target": "One creature",
@@ -2305,7 +2306,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity + 2 vs. Reflex. You can score a critical hit with this attack on a roll of 19–20.",
     "onHit": "2d12 + Dexterity modifier damage.",
@@ -2325,7 +2326,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An attack that deals at least one specific damage type hits you",
     "effect": "Until the end of your next turn, you gain resistance equal to 3 + your Wisdom modifier to all damage types dealt by the triggering attack."
   },
@@ -2343,7 +2344,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You gain resist 5 to all damage until the end of your next turn."
   },
   "Confirmation of Spirit": {
@@ -2360,7 +2361,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a melee attack",
     "effect": "You regain hit points equal to 5 + your Wisdom modifier."
   },
@@ -2378,7 +2379,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you make saving throws at the start of your turn in addition to the end of your turn. You take a -3 penalty to the saving throws granted by this power."
   },
   "As the Arrow Flies [Attack Technique]": {
@@ -2395,7 +2396,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d6 + Dexterity modifier damage, and the target is immobilized until the end of your next turn.",
@@ -2416,7 +2417,7 @@
     "keywords": [
       "Force, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature or unattended object",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier force damage, and any ally’s attack made against the target deals extra damage equal to 2 + your Strength modifier until the end of your next turn. Against an unattended object, this attack deals 2d10 extra force damage.",
@@ -2436,7 +2437,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage, and you push the target and each enemy adjacent to you a number of squares equal to your Wisdom modifier.",
@@ -2456,7 +2457,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage, and you push the primary target 3 squares.",
@@ -2481,7 +2482,7 @@
     "keywords": [
       "Implement, Psionic, Thunder"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier damage, and the target takes ongoing 10 thunder damage and is deafened (save ends both). In addition, you push the target to the nearest unoccupied square outside the blast.",
@@ -2502,7 +2503,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage, and the target takes ongoing 10 damage and a -2 penalty to all defenses (save ends both).",
@@ -2523,7 +2524,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "You move your speed. Any enemy that misses you with an opportunity attack provoked by this movement takes 5 damage. When you end this movement, you make a secondary attack that is a close burst 1.",
     "primaryTarget": "Each enemy you can see in the burst",
     "attack": "Dexterity vs. Reflex",
@@ -2548,7 +2549,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d10 + Dexterity modifier damage.",
@@ -2569,7 +2570,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "The triggering enemy",
     "attack": "Dexterity + 2 vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage, and you knock the target prone.",
@@ -2592,7 +2593,7 @@
     "keywords": [
       "Illusion, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a melee attack",
     "target": "The enemy you hit",
     "effect": "You are invisible to the target until the end of your next turn."
@@ -2611,7 +2612,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An adjacent enemy misses you with an attack",
     "effect": "Until the stance ends, you gain a +2 power bonus to all defenses against the triggering enemy’s attacks. In addition, whenever the triggering enemy misses you with an attack, you gain a +2 power bonus to attack rolls for any attack that includes the triggering enemy made before the end of your next turn."
   },
@@ -2629,7 +2630,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You start your turn immobilized, restrained, or slowed",
     "effect": "The triggering condition ends."
   },
@@ -2647,7 +2648,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You drop to 0 hit points or fewer",
     "effect": "Until the stance ends, while you are dying but not dead, dying causes you to be slowed and weakened instead of unconscious."
   },
@@ -2665,7 +2666,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d12 + Dexterity modifier damage, you slide the target 2 squares, and the target is dazed until the end of your next turn. The next time the target takes damage before the start of your next turn, the target takes extra damage equal to your Strength modifier and falls prone.",
@@ -2685,7 +2686,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee 3<",
+    "range": "Melee 3",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "You pull the target 2 squares. If you pull the target to a square adjacent to you, it takes 3d6 + Dexterity modifier damage and grants combat advantage until the end of your next turn.",
@@ -2706,7 +2707,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Psychic"
     ],
-    "range": "Melee 5<",
+    "range": "Melee 5",
     "effect": "You shift 1 square and swap places with the target, or swap places with the target and shift 1 square.",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
@@ -2726,7 +2727,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "ironSoul": "If you make the attack using a light blade or a spear, you gain a +2 power bonus to the attack roll.",
@@ -2747,7 +2748,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "trigger": "An enemy misses you with a melee attack",
     "effect": "Before the attack, you shift 2 squares.",
     "target": "The triggering enemy",
@@ -2769,7 +2770,7 @@
     "keywords": [
       "Fear, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d10 + Dexterity modifier damage, and the target is slowed (save ends). Until this effect ends, whenever the target starts its turn, you can push it 2 squares as a free action. Each enemy adjacent to the target at the end of the push falls prone.",
@@ -2789,7 +2790,7 @@
     "keywords": [
       "Implement, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "Make a secondary attack that is an area burst 2 centered on the primary target.",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Fortitude",
@@ -2814,7 +2815,7 @@
     "keywords": [
       "Fear, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You shift your speed + 2 and make the following attack against one or two creatures during this movement.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -2834,14 +2835,15 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "bonusPower": {
       "name": "Fallen Needle [Movement Technique]",
       "flavor": "A single, sharp blow readies you to step away at a moment’s notice.",
       "keywords": [
         "Full Discipline, Psionic"
       ],
-      "range": "Personal <",
+      "range": "Personal",
+      "frequency": "At-Will",
       "effect": "You shift 1 square or move 3 squares."
     },
     "target": "One creature",
@@ -2862,7 +2864,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy you can see in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d10 + Dexterity modifier damage.",
@@ -2882,7 +2884,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage, and you push the target 3 squares.",
@@ -2902,7 +2904,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier damage, and you slide the target up to 3 squares to any square adjacent to you.",
@@ -2922,7 +2924,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You shift 1 square or move 3 squares.",
     "target": "One, two, or three enemies adjacent to you during your movement",
     "attack": "Dexterity vs. Reflex",
@@ -2942,7 +2944,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d10 + Dexterity modifier damage. You push the target 3 squares and knock the target prone.",
@@ -2962,7 +2964,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic, Psychic, Teleportation"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "You teleport up to half your speed.",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Will",
@@ -2982,7 +2984,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must be bloodied.",
     "effect": "Until the stance ends, you are insubstantial and phasing."
   },
@@ -3000,7 +3002,7 @@
     "keywords": [
       "Illusion, Psionic"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "Each enemy in the burst",
     "effect": "You are invisible to the target until you make an attack against it."
   },
@@ -3018,7 +3020,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the supreme parry stance. Until the stance ends, you add the proficiency bonus of your main weapon as a power bonus to AC and Reflex.<br/>"
   },
   "Thousand World Stride": {
@@ -3035,7 +3037,7 @@
     "keywords": [
       "Psionic, Stance, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, you can teleport your speed as a free action.",
     "special": "You can take this free action only as the first action of your turn."
   },
@@ -3053,7 +3055,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "ironSoul": "If you make the attack using a light blade or a spear, you gain a +2 power bonus to the attack roll.",
@@ -3074,7 +3076,7 @@
     "keywords": [
       "Full Discipline, Implement, Lightning, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d10 + Dexterity modifier damage, and you make a secondary attack that is a ranged 10 attack. This attack does not provoke opportunity attacks.",
@@ -3097,7 +3099,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "primaryTarget": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d10 + Dexterity modifier damage, and you knock the primary target prone.",
@@ -3121,7 +3123,7 @@
     "keywords": [
       "Fear, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "Until the start of your next turn, any creature that can see you takes a -2 penalty to attack rolls for any attack that includes you as a target.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -3143,7 +3145,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "trigger": "An adjacent enemy hits you with an attack",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. Reflex",
@@ -3164,7 +3166,7 @@
     "keywords": [
       "Implement, Psionic, Stance, Varies"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "The fourth time you use this attack in an encounter, the stance ends.",
     "special": "You can use this power only once per round.",
     "requirement": "The power Four Hidden Sounds must be active in order to use this power.",
@@ -3186,7 +3188,7 @@
     "keywords": [
       "Cold, Implement, Psionic, Stance"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier damage plus 2d12 cold damage.",
@@ -3207,7 +3209,7 @@
     "keywords": [
       "Implement, Psionic, Psychic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Will",
     "onHit": "4d8 + Dexterity modifier damage plus 2d12 psychic damage.",
@@ -3227,7 +3229,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d6 + Dexterity modifier damage, and you push the target 1 square. The target is immobilized until the end of your next turn.",
@@ -3247,7 +3249,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d12 + Dexterity modifier damage, and the target is stunned until the end of your next turn.",
@@ -3268,7 +3270,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature or unattended object",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d12 + Dexterity modifier damage, and you push the target a number of squares equal to 3 + your Strength modifier. If this attack bloodies the target, it takes 1d12 extra damage. If the target is an unattended object, this attack deals 2d12 extra damage.",
@@ -3288,7 +3290,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "ironSoul": "If you make the attack using a light blade or a spear, you gain a +2 power bonus to the attack roll.",
@@ -3309,7 +3311,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "effect": "You move your speed + 2. Any enemy that misses you with an opportunity attack provoked by this movement takes 10 damage and falls prone. Make a secondary attack that is a close burst 1.",
     "primaryTarget": "Each enemy you can see in the burst",
     "attack": "Dexterity vs. Reflex",
@@ -3332,7 +3334,7 @@
     "keywords": [
       "Fire, Implement, Psionic, Radiant, Teleportation, Thunder, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "effect": "The burst creates a zone that lasts until the end of your next turn. Any creature that ends its turn within the zone takes fire damage equal to your Dexterity modifier.",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Reflex",
@@ -3353,7 +3355,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "5d12 + Dexterity modifier damage, and you grab the target. The target takes a penalty to checks to escape the grab equal to your Strength modifier.",
@@ -3377,7 +3379,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by a ranged weapon attack.",
     "effect": "Until the start of your next turn, you gain superior cover against ranged weapon attacks, and you can shift 1 square as a free action each time a ranged weapon attack misses you."
   },
@@ -3395,7 +3397,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage, and the target is slowed and cannot charge until the end of your next turn.",
@@ -3415,7 +3417,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy hits you with a melee attack.",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. Fortitude. If the triggering attack is a charge, you gain a +2 bonus to the attack roll and deal 1d10 extra damage if you hit.",
@@ -3436,7 +3438,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage. Immediately after any adjacent enemy attacks you before the start of your next turn, you can deal 1d8 damage to that enemy as a free action.",
@@ -3456,7 +3458,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have just ended a short or an extended rest.",
     "target": "One ally who can see or hear you",
     "effect": "Until the start of your next rest, whenever you hit an enemy with an attack, the target’s next attack against that enemy gains a power bonus to the damage roll equal to your Strength modifier."
@@ -3475,7 +3477,7 @@
     "keywords": [
       "Elemental, Fire, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You hit with an attack during your turn.",
     "target": "One creature<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: One or two creatures<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Each enemy adjacent to you",
     "effect": "The target takes 2 + your Charisma modifier fire damage. If the target wasn’t targeted by the triggering attack, it also takes a -2 penalty to attack rolls for any attack that includes you as a target until the end of your next turn. You can then shift 1 square.",
@@ -3495,7 +3497,7 @@
     "keywords": [
       "Elemental, Psionic"
     ],
-    "range": "Melee 2<",
+    "range": "Melee 2",
     "trigger": "You hit with an attack during your turn.",
     "target": "One creature<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: One or two creatures<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: One, two, or three creatures",
     "effect": "The target takes damage equal to your Strength modifier, and you can pull the target 1 square. If the target wasn’t targeted by the triggering attack, it is slowed until the end of your next turn.",
@@ -3515,7 +3517,7 @@
     "keywords": [
       "Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d8 + Dexterity modifier damage. Until the end of your next turn, your melee attacks deal extra fire damage equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Dexterity modifier damage.",
@@ -3535,7 +3537,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d8 + Dexterity modifier damage, and you can slide the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Dexterity modifier damage.",
@@ -3555,7 +3557,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d10 + Dexterity modifier damage, and you push the target up to a number of squares equal to half your Strength modifier.",
@@ -3575,7 +3577,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "1d8 + Dexterity modifier damage.",
@@ -3595,7 +3597,7 @@
     "keywords": [
       "Aura, Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier fire damage.",
@@ -3615,7 +3617,7 @@
     "keywords": [
       "Elemental, Implement, Psionic, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "effect": "The blast creates a zone that lasts until the end of your next turn. You can move the zone up to 3 squares as a move action. Once per turn, when a creature other than you enters the zone or ends its turn there, you can slide that creature up to 2 squares as a free action.",
     "target": "One creature in the blast",
     "attack": "Dexterity vs. Reflex",
@@ -3637,7 +3639,7 @@
     "keywords": [
       "Elemental, Implement, Psionic, Stance"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d6 + Dexterity modifier damage.",
@@ -3658,7 +3660,7 @@
     "keywords": [
       "Aura, Elemental, Fire, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d6 + Dexterity modifier damage, and ongoing 5 fire damage (save ends).",
@@ -3679,7 +3681,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You hit an enemy with a melee attack.",
     "effect": "You shift up to 3 squares to a square adjacent to the enemy. Until the start of your next turn or until you take damage from an attack, you have total concealment against that enemy."
   },
@@ -3697,7 +3699,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can shift 1 square to a square adjacent to the triggering enemy. You gain a +2 power bonus to all defenses against that enemy’s attacks until the end of this turn.",
     "requirement": "The power Eye in the Sky must be active in order to use this power.",
     "trigger": "An enemy enters a square adjacent to you."
@@ -3716,7 +3718,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy attacks you.",
     "effect": "You gain temporary hit points equal to your Dexterity modifier, and you gain combat advantage against the triggering enemy until the end of your next turn."
   },
@@ -3734,7 +3736,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage, and the target takes a -2 penalty to all defenses until the end of your next turn.",
@@ -3754,7 +3756,7 @@
     "keywords": [
       "Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier damage. The first time the target takes damage from an attack before the start of your next turn, the target and each of your enemies adjacent to it take fire damage equal to 3 + your Charisma modifier.",
@@ -3774,7 +3776,7 @@
     "keywords": [
       "Cold, Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d6 + Dexterity modifier cold damage, and the target is immobilized until the end of your next turn.",
@@ -3794,7 +3796,7 @@
     "keywords": [
       "Implement, Psionic, Stance"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d8 + Dexterity modifier damage, and the target falls prone.",
@@ -3817,7 +3819,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage, and the target is dazed (save ends).",
@@ -3838,7 +3840,7 @@
     "keywords": [
       "Elemental, Fire, Implement, Psionic, Zone"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "You move up to your speed. The squares you leave become a zone that lasts until the end of your next turn. Any creature that enters the zone or starts its turn there takes fire damage equal to your Dexterity modifier. A creature can take this damage only once per turn. <br/>&nbsp;&nbsp;&nbsp;&nbsp;At the end of the move, make the following attack.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -3859,7 +3861,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy hits you with an attack.",
     "effect": "You shift up to half your speed."
   },
@@ -3877,7 +3879,7 @@
     "keywords": [
       "Healing, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can spend a healing surge, and then shift up to 2 squares."
   },
   "Roll the Boulder": {
@@ -3894,7 +3896,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You enter the roll the boulder stance. Until the stance ends, you gain a +2 power bonus to the distance of your pushes, pulls, and slides, and you gain a +4 power bonus to Strength checks and Strength-based skill checks."
   },
   "Deafening Howl [Attack Technique]": {
@@ -3911,7 +3913,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d10 + Dexterity modifier thunder damage.",
@@ -3931,7 +3933,7 @@
     "keywords": [
       "Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier fire damage.",
@@ -3952,7 +3954,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must have at least one hand free.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -3973,7 +3975,7 @@
     "keywords": [
       "Elemental, Implement, Lightning, Psionic, Thunder"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "primaryTarget": "Each creature in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "1d8 + Dexterity modifier lightning damage.",
@@ -3999,7 +4001,7 @@
     "keywords": [
       "Polymorph, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of the stone juggernaut until the end of the encounter. While in this form, you have a +2 power bonus to all defenses and can make saving throws against slowing, immobilizing, or restraining effects at the start of your turn as well as the end of your turn. The form also enables you to ignore difficult terrain and use the secondary power at will.",
     "requirement": "The power Stone Juggernaut must be active in order to use this power.",
     "trigger": "One creature",
@@ -4020,7 +4022,7 @@
     "keywords": [
       "Elemental, Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy hits you with an attack.",
     "primaryTarget": "The triggering enemy",
     "attack": "Dexterity vs. Fortitude",
@@ -4045,7 +4047,7 @@
     "keywords": [
       "Elemental, Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You take acid, cold, fire, lightning, or thunder damage.",
     "effect": "You gain resist 5 to the triggering damage type until the start of your next turn.",
     "aftereffect": "You gain resist 3 to the triggering damage type until the end of the encounter."
@@ -4064,7 +4066,7 @@
     "keywords": [
       "Elemental, Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the flame’s blessing stance. Until the stance ends, you gain a +2 power bonus to speed and a +1 power bonus to fire attack rolls."
   },
   "Mirrored Pursuit": {
@@ -4081,7 +4083,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Special <",
+    "range": "Special",
     "trigger": "The marked enemy moves willingly on its turn.",
     "effect": "You shift up to your speed, and you must end this shift adjacent to the enemy. You don’t get your normal move action on your next turn.",
     "requirement": "The power Mirrored Pursuit must be active in order to use this power."
@@ -4100,7 +4102,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d10 + Dexterity modifier damage. Until the end of your next turn, the target is slowed and has vulnerability to all damage equal to your Strength modifier.",
@@ -4120,7 +4122,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage and the target is immobilized until the end of your next turn.",
@@ -4140,7 +4142,7 @@
     "keywords": [
       "Aura, Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "2d8 + Dexterity modifier fire damage.",
@@ -4160,7 +4162,7 @@
     "keywords": [
       "Elemental, Implement, Psionic, Thunder, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier thunder damage, and the target is slowed (save ends).",
@@ -4182,7 +4184,7 @@
     "keywords": [
       "Aura, Elemental, Fire, Implement, Psionic, Psychic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each enemy in the blast",
     "attack": "Dexterity vs. Will",
     "onHit": "2d8 + Dexterity modifier fire and psychic damage, and ongoing 10 fire and psychic damage (save ends).",
@@ -4204,7 +4206,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "4d10 + Dexterity modifier damage.",
@@ -4225,7 +4227,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An enemy within 10 squares of you damages you with a ranged or an area attack.",
     "effect": "You take only half damage from the attack. After the attack is resolved, you fly up to 10 squares to a square adjacent to the triggering enemy."
   },
@@ -4243,7 +4245,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You teleport up to 2 squares.",
     "requirement": "The power One Hundred Steps must be active in order to use this power.",
     "trigger": "An enemy attacks you."
@@ -4262,7 +4264,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "An adjacent enemy attacks your AC or Fortitude.",
     "effect": "You gain a +4 power bonus to AC and Fortitude until the start of your next turn. If the triggering attack misses, you can push the triggering enemy up to 2 squares."
   },
@@ -4280,7 +4282,7 @@
     "keywords": [
       "Cold, Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier cold damage, and the target is restrained until the end of your next turn.",
@@ -4300,7 +4302,7 @@
     "keywords": [
       "Aura, Elemental, Full Discipline, Implement, Lightning, Psionic, Thunder"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d6 + Dexterity modifier lightning damage, and the target is dazed until the end of your next turn.",
@@ -4320,7 +4322,7 @@
     "keywords": [
       "Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage.",
@@ -4340,7 +4342,7 @@
     "keywords": [
       "Implement, Psionic, Psychic, Zone"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "One creature in the burst",
     "attack": "Dexterity vs. Reflex",
     "onHit": "4d8 + Dexterity modifier damage, and the target grants combat advantage (save ends).",
@@ -4361,7 +4363,7 @@
     "keywords": [
       "Elemental, Fire, Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "effect": "You shift up to your speed + 4. You make the following attack each time you first enter a square adjacent to an enemy during this movement. You can attack a given enemy only once with each use of this power.",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d6 + Dexterity modifier fire damage, and the target is immobilized until the end of your next turn.",
@@ -4381,7 +4383,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d8 + Dexterity modifier damage, and the target is stunned until the end of your next turn.",
@@ -4401,7 +4403,7 @@
     "keywords": [
       "Psionic, Teleportation, Zone"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "effect": "The burst creates a zone that lasts until the end of the encounter. Any enemy that starts its turn in the zone grants combat advantage to you until the start of its next turn. In addition, whenever an enemy misses you with an attack while you are in the zone, you can teleport to another square in the zone as an immediate reaction."
   },
   "Hastened Effort": {
@@ -4418,7 +4420,7 @@
     "keywords": [
       "Psionic"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You shift up to 2 squares and take a standard action. You cannot use this action to make an attack."
   },
   "Perfect Motion": {
@@ -4435,7 +4437,7 @@
     "keywords": [
       "Psionic, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the perfect motion stance. Until the stance ends, your movement does not provoke opportunity attacks."
   },
   "Blazing Scourge [Attack Technique]": {
@@ -4452,7 +4454,7 @@
     "keywords": [
       "Elemental, Fire, Full Discipline, Implement, Psionic"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier fire damage, and the target is immobilized until the end of your next turn.",
@@ -4472,7 +4474,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Lightning, Psionic, Thunder"
     ],
-    "range": "Ranged 5<",
+    "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d6 + Dexterity modifier lightning damage, and the target is dazed until the end of your next turn.",
@@ -4492,7 +4494,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic, Teleportation"
     ],
-    "range": "Close burst 2<",
+    "range": "Close burst 2",
     "target": "Each creature in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage, and you slide the target up to a number of squares equal to 1 + your Strength modifier.",
@@ -4512,7 +4514,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "An adjacent enemy hits you with an attack.",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. Fortitude",
@@ -4534,7 +4536,7 @@
     "keywords": [
       "Elemental, Implement, Polymorph, Psionic"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "5d10 + Dexterity modifier damage.",
@@ -4555,7 +4557,7 @@
     "keywords": [
       "Elemental, Implement, Lightning, Psionic, Thunder"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "effect": "Before the attack, you can fly up to your speed. Any creature that hits you with an opportunity attack provoked by this movement takes 10 lightning damage.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
@@ -4576,7 +4578,7 @@
     "keywords": [
       "Full Discipline, Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "2d8 + Dexterity modifier damage, and you push the target up to a number of squares equal to your Strength modifier.",
@@ -4596,7 +4598,7 @@
     "keywords": [
       "Elemental, Full Discipline, Implement, Psionic"
     ],
-    "range": "Close blast 5<",
+    "range": "Close blast 5",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "3d8 + Dexterity modifier damage, you slide the target up to 3 squares, and it is immobilized until the end of your next turn.",
@@ -4616,7 +4618,7 @@
     "keywords": [
       "Elemental, Fire, Full Discipline, Implement, Psionic, Zone"
     ],
-    "range": "Close blast 3<",
+    "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Dexterity vs. Reflex",
     "onHit": "3d8 + Dexterity modifier fire damage.",
@@ -4636,7 +4638,7 @@
     "keywords": [
       "Implement, Psionic"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Fortitude",
     "onHit": "5d6 + Dexterity modifier damage.",
@@ -4657,7 +4659,7 @@
     "keywords": [
       "Aura, Elemental, Fire, Healing, Implement, Psionic"
     ],
-    "range": "Close burst 3<",
+    "range": "Close burst 3",
     "trigger": "An attack bloodies you or drops you below 1 hit point.",
     "target": "Each enemy in the burst",
     "attack": "Dexterity vs. Reflex",
@@ -4680,7 +4682,7 @@
     "keywords": [
       "Implement, Psionic, Psychic, Stance"
     ],
-    "range": "Close burst 1<",
+    "range": "Close burst 1",
     "target": "The triggering enemy",
     "attack": "Dexterity vs. Reflex",
     "onHit": "6d6 + Dexterity modifier psychic damage.",

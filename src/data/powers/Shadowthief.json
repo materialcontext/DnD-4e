@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence or Charisma vs. Fortitude",
     "onHit": "2d10 + Intelligence or Charisma modifier necrotic damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane, Implement, Necrotic, Shadow"
     ],
-    "range": "Close burst 10<",
+    "range": "Close burst 10",
     "target": "One enemy in the burst; for every two shadows you spend, this power targets an additional enemy in the burst.",
     "attack": "Intelligence or Charisma vs. Fortitude",
     "onHit": "5d6 + Intelligence or Charisma modifier necrotic damage, and the target is immobilized (save ends).",
@@ -53,7 +53,7 @@
     "keywords": [
       "Arcane, Shadow, Teleportation"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "requirement": "You must have at least one shadow available to spend.",
     "effect": "You spend at least one shadow and teleport up to 5 squares plus 2 squares per additional shadow spent."
   }

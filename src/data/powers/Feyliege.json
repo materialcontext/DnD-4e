@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Teleportation"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "trigger": "An attack hits you or an ally within 5 squares of you",
     "target": "You and each ally in the burst",
     "effect": "Each target gains a +4 bonus to AC and Reflex until the end of his or her next turn. After the triggering attack is resolved, any target can swap positions with another target."

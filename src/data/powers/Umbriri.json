@@ -13,7 +13,7 @@
     "keywords": [
       "Arcane, Conjuration, Shadow, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "2[W] + Intelligence modifier damage.",
@@ -33,7 +33,7 @@
     "keywords": [
       "Arcane, Illusion, Shadow"
     ],
-    "range": "Close burst 5<",
+    "range": "Close burst 5",
     "target": "One ally in the burst",
     "effect": "The target becomes invisible until he or she attacks, or until the end of your next turn."
   },
@@ -51,7 +51,7 @@
     "keywords": [
       "Arcane, Charm, Reliable, Shadow, Weapon"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "requirement": "You must have combat advantage.",
     "target": "One creature",
     "attack": "Intelligence vs. Will",

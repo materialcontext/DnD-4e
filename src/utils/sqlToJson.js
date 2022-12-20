@@ -1,6 +1,7 @@
 import fs from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
+import toCamelCase from './toCamelCase.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -69,5 +70,5 @@ for (let match of matches) {
 
 // save jsons to files by power class
 for (let i = 0; i < fileNames.length; i++) {
-    fs.writeFileSync(__dirname + '/../data/powers/' + fileNames[i] + '.json', JSON.stringify(json[fileNames[i]]));
+    fs.writeFileSync(__dirname + '/../data/powers/' + toCamelCase(fileNames[i]) + '.json', JSON.stringify(json[fileNames[i]]));
 }

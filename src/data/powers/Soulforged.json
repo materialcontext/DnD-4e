@@ -13,7 +13,7 @@
     "keywords": [
       "Divine, Fire, Radiant"
     ],
-    "range": "Melee touch<",
+    "range": "Melee touch",
     "target": "One weapon you are holding",
     "effect": "Weapon attacks made with the target weapon deal fire and radiant damage instead of their normal damage types. Additionally, the weapon emits bright light in all squares within 15 squares of you. This effect lasts until you end it as a free action or until you end your turn and are not holding the target weapon."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Divine, Fire, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "primaryTarget": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier fire and radiant damage.",
@@ -54,7 +54,7 @@
     "keywords": [
       "Divine, Fire, Radiant, Weapon"
     ],
-    "range": "Melee or Ranged weapon<",
+    "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
     "onHit": "2[W] + Wisdom modifier fire and radiant damage.",
@@ -75,7 +75,7 @@
     "keywords": [
       "Divine"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You are hit by an attack",
     "effect": "You gain a +4 power bonus to Fortitude and Will until the end of your next turn, and a +5 power bonus to your next saving throw made before the end of the encounter."
   }

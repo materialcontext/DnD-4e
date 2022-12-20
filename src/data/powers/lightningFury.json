@@ -1,0 +1,62 @@
+{
+  "Furious Bolts": {
+    "id": "'5895",
+    "action": "Standard",
+    "powerClass": "Lightning Fury",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Furious Bolts",
+    "type": "Fury",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFurious Bolts\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5895\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Lightning Fury Attack 11</span>Furious Bolts</h1><p class=\\\"flavor\\\"><i>Jagged streaks of lightning fly from your hands and flash between several foes.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Lightning</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Primary Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 2d8 + Charisma modifier lightning damage. Make a secondary attack.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Target</b>: One creature within 10 squares of the primary target</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Charisma vs. Reflex</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Hit</b>: 2d4 + Charisma modifier lightning damage. Repeat the secondary attack against any single creature you have not yet hit with this attack. (You can continue attacking as long as you keep hitting and still have targets you haven’t attacked yet.)</p><p class=\\\"flavor\\\"><b>Effect</b>: On your next turn, you gain a bonus to your first attack roll equal to the number of creatures you hit with furious bolts.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 46.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Jagged streaks of lightning fly from your hands and flash between several foes.",
+    "keywords": [
+      "Arcane, Implement, Lightning"
+    ],
+    "range": "Ranged 20",
+    "primaryTarget": "One creature",
+    "attack": "Charisma vs. Reflex",
+    "onHit": "2d8 + Charisma modifier lightning damage. Make a secondary attack.",
+    "secondaryTarget": "One creature within 10 squares of the primary target",
+    "secondaryAttack": "Charisma vs. Reflex",
+    "secondaryOnHit": "2d4 + Charisma modifier lightning damage. Repeat the secondary attack against any single creature you have not yet hit with this attack. (You can continue attacking as long as you keep hitting and still have targets you haven’t attacked yet.)",
+    "secondaryeffect": "On your next turn, you gain a bonus to your first attack roll equal to the number of creatures you hit with furious bolts."
+  },
+  "Lightning in the Blood": {
+    "id": "'5896",
+    "action": "Minor",
+    "powerClass": "Lightning Fury",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Lightning in the Blood",
+    "type": "Fury",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLightning in the Blood\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5896\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Lightning Fury Utility 12</span>Lightning in the Blood</h1><p class=\\\"flavor\\\"><i>You feel energized as lightning arcs through your veins and flashes in your eyes.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Lightning</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: Until the end of the encounter, your lightning attacks deal an additional die of damage. (The die is the same size the attack already deals.)</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 46.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You feel energized as lightning arcs through your veins and flashes in your eyes.",
+    "keywords": [
+      "Arcane, Lightning"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, your lightning attacks deal an additional die of damage. (The die is the same size the attack already deals.)"
+  },
+  "Bolt of Power": {
+    "id": "'5897",
+    "action": "Standard",
+    "powerClass": "Lightning Fury",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Bolt of Power",
+    "type": "Fury",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBolt of Power\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=5897\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Lightning Fury Attack 20</span>Bolt of Power</h1><p class=\\\"flavor\\\"><i>You call down a tremendous lightning bolt that crashes into a large group of foes and lays waste to them.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Arcane</b>, <b>Implement</b>, <b>Lightning</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Ranged</b> 20</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Charisma vs. Reflex</p><p class=\\\"flavor\\\"><b>Hit</b>: 4d10 + Charisma modifier lightning damage, and ongoing 10 lightning damage (save ends). You can choose to become dazed until the end of your next turn. If you do so, each creature adjacent to the target takes ongoing 10 lightning damage (save ends).</p><p class=\\\"powerstat\\\"><b>Miss</b>: Half damage, and ongoing 5 lightning damage (save ends).</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 46.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You call down a tremendous lightning bolt that crashes into a large group of foes and lays waste to them.",
+    "keywords": [
+      "Arcane, Implement, Lightning"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Charisma vs. Reflex",
+    "onHit": "4d10 + Charisma modifier lightning damage, and ongoing 10 lightning damage (save ends). You can choose to become dazed until the end of your next turn. If you do so, each creature adjacent to the target takes ongoing 10 lightning damage (save ends).",
+    "onMiss": "Half damage, and ongoing 5 lightning damage (save ends)."
+  }
+}

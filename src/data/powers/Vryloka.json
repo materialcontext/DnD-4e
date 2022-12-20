@@ -13,7 +13,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You kill a nonminion enemy with a melee attack.",
     "effect": "You gain a +2 power bonus to death saving throws and to saving throws against ongoing damage. In addition, you don’t need to eat, drink, or breathe, making you immune to starvation and suffocation. These effects last until the end of your next extended rest."
   },
@@ -31,7 +31,7 @@
     "keywords": [
       "Polymorph, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of a bloodwolf until the end of the encounter. While in this form, you cannot attack, but you have darkvision, you ignore difficult terrain, and you gain a +5 power bonus to Athletics checks, Perception checks, and Stealth checks. As a minor action, you can switch between your normal form and your bloodwolf form."
   },
   "Crimson Wings": {
@@ -48,7 +48,7 @@
     "keywords": [
       "Polymorph, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You assume the form of a Tiny flying creature, such as a bat, an owl, or a hawk. While in this form, you can’t attack, but you gain a fly speed equal to your speed and a +2 power bonus to all defenses. You return to your normal form at the end of your next turn, or you can do so beforehand as a minor action. If you are flying when you return to your normal form, you descend to the ground without taking falling damage."
   },
   "Vryloka Bloodbond": {
@@ -65,7 +65,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "requirement": "You must have at least one healing surge remaining.",
     "target": "One ally who died during this encounter as a result of failing three death saving throws.",
     "effect": "You lose a healing surge, and the target comes back to life with hit points equal to his or her bloodied value. You are then weakened until the end of your next short rest or extended rest.",
@@ -85,7 +85,7 @@
     "keywords": [
       "Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You use your lifeblood racial power.",
     "effect": "Instead of the lifeblood power’s normal effect, you gain the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain darkvision.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Whenever you hit an enemy with a basic attack, the enemy also takes ongoing 10 damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You have combat advantage against enemies taking ongoing damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain 15 temporary hit points if you start your turn adjacent to an enemy taking ongoing damage."
   },
@@ -103,7 +103,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You kill or bloody an enemy.</p><p class=\"flavor\">Effect: You gain one of the following benefits."
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "trigger": "You kill or bloody an enemy.",
     "effect": "You gain one of the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You shift up to your speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain temporary hit points equal to 5 + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to attack rolls until the end of your next turn."
   }

@@ -13,7 +13,7 @@
     "keywords": [
       "Fear, Martial, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -33,7 +33,7 @@
     "keywords": [
       "Martial, Reliable, Weapon"
     ],
-    "range": "Melee weapon<",
+    "range": "Melee weapon",
     "requirement": "You must be wielding a two-handed weapon.",
     "target": "One creature",
     "attack": "Strength vs. AC",
@@ -54,7 +54,7 @@
     "keywords": [
       "Martial, Stance"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the stance ends, whenever you hit an enemy with an at-will attack power using a two-handed weapon, your next attack against that enemy gains +2 power bonus to the attack roll."
   }
 }

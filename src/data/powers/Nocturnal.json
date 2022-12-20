@@ -13,7 +13,7 @@
     "keywords": [
       "Primal, Shadow"
     ],
-    "range": "Melee 1<",
+    "range": "Melee 1",
     "trigger": "You hit an adjacent creature with a melee attack.",
     "target": "The creature you hit",
     "effect": "The target takes 10 extra damage, and you gain 10 temporary hit points."
@@ -32,7 +32,7 @@
     "keywords": [
       "Necrotic, Poison, Primal, Shadow"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "Until the end of the encounter, your melee attacks that hit also deal ongoing 5 necrotic and poison damage (save ends). On a critical hit, this increases to ongoing 10 necrotic and poison damage (save ends)."
   },
   "Summon the Shadow Pack": {
@@ -49,7 +49,7 @@
     "keywords": [
       "Conjuration, Primal, Shadow"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "effect": "You conjure up to five shadow pack members in unoccupied squares within range that are adjacent to one or more enemies. The pack members last until the end of your next turn. Pack members can flank with you and your allies. As a move action, you can move any or all pack members up to 6 squares each.",
     "sustainMinor": "The pack members persist until the end of your next turn."
   }

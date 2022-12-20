@@ -1,0 +1,62 @@
+{
+  "Blade Feint": {
+    "id": "'9372",
+    "action": "Standard",
+    "powerClass": "Bladestorm Duelist",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Blade Feint",
+    "type": "Duelist",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBlade Feint\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9372\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"encounterpower\\\"><span class=\\\"level\\\">Bladestorm Duelist Attack 11</span>Blade Feint</h1><p class=\\\"flavor\\\"><i>Leading with your off-hand weapon, you draw your opponents’ attention from the real threat.</i></p><p class=\\\"powerstat\\\"><b>Encounter</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Primary Attack</b>: Strength vs. AC (off-hand weapon)</p><p class=\\\"flavor\\\"><b>Hit</b>: 1[W] + Strength modifier damage, and you make a secondary attack with combat advantage against the same target.</p><p class=\\\"powerstat\\\">&nbsp;&nbsp;<b>Secondary Attack</b>: Strength vs. AC (main weapon)</p><p class=\\\"flavor\\\">&nbsp;&nbsp;<b>Hit</b>: 1[W] + Strength modifier damage. Until the end of your next turn, the creature takes a –2 penalty to attack rolls.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "Leading with your off-hand weapon, you draw your opponents’ attention from the real threat.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee weapon",
+    "requirement": "You must be wielding two melee weapons.",
+    "target": "One creature",
+    "attack": "Strength vs. AC (off-hand weapon)",
+    "onHit": "1[W] + Strength modifier damage, and you make a secondary attack with combat advantage against the same target.",
+    "secondaryAttack": "Strength vs. AC (main weapon)",
+    "secondaryOnHit": "1[W] + Strength modifier damage. Until the end of your next turn, the creature takes a –2 penalty to attack rolls."
+  },
+  "Elaborate Assault": {
+    "id": "'9373",
+    "action": "Standard",
+    "powerClass": "Bladestorm Duelist",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Elaborate Assault",
+    "type": "Duelist",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nElaborate Assault\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9373\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Bladestorm Duelist Attack 20</span>Elaborate Assault</h1><p class=\\\"flavor\\\"><i>You weave your blades in a complex pattern, and as your enemy follows your movements, you lash out with an unexpected strike.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Reliable</b>, <b>Weapon</b><br/><b>Standard Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Melee</b> weapon</p><p class=\\\"flavor\\\"><b>Requirement</b>: You must be wielding two melee weapons.</p><p class=\\\"powerstat\\\"><b>Target</b>: One creature</p><p class=\\\"powerstat\\\"><b>Attack</b>: Strength vs. AC. Make the attack three times: first with your main weapon, then with your off-hand weapon, and then with your main weapon. Before each attack, you shift 1 square.</p><p class=\\\"flavor\\\"><b>Hit</b>: 2[W] + Strength modifier damage on the first hit, and you gain a +2 power bonus to AC and Reflex until the end of your next turn. On the second hit, the target instead takes 2[W] damage, and it takes a –2 penalty to attack rolls until the end of your next turn. On the third hit, the target instead takes 3[W] damage, and it grants combat advantage (save ends).</p><p class=\\\"powerstat\\\"><b>Special</b>: If you score a critical hit with this power, you can’t score another critical hit with it on the same turn.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "You weave your blades in a complex pattern, and as your enemy follows your movements, you lash out with an unexpected strike.",
+    "keywords": [
+      "Martial, Reliable, Weapon"
+    ],
+    "range": "Melee weapon",
+    "requirement": "You must be wielding two melee weapons.",
+    "target": "One creature",
+    "attack": "Strength vs. AC. Make the attack three times: first with your main weapon, then with your off-hand weapon, and then with your main weapon. Before each attack, you shift 1 square.",
+    "onHit": "2[W] + Strength modifier damage on the first hit, and you gain a +2 power bonus to AC and Reflex until the end of your next turn. On the second hit, the target instead takes 2[W] damage, and it takes a –2 penalty to attack rolls until the end of your next turn. On the third hit, the target instead takes 3[W] damage, and it grants combat advantage (save ends).",
+    "special": "If you score a critical hit with this power, you can’t score another critical hit with it on the same turn."
+  },
+  "Nimble Step": {
+    "id": "'9374",
+    "action": "Minor",
+    "powerClass": "Bladestorm Duelist",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Nimble Step",
+    "type": "Duelist",
+    "sourceRef": "Dragon Magazine 378",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nNimble Step\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=power&amp;id=9374\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"dailypower\\\"><span class=\\\"level\\\">Bladestorm Duelist Utility 12</span>Nimble Step</h1><p class=\\\"flavor\\\"><i>When your enemy gives you an opening, you step forward to take it.</i></p><p class=\\\"powerstat\\\"><b>Daily</b>&nbsp;&nbsp; <img src=\\\"images/bullet.gif\\\" alt=\\\"\\\"/>&nbsp;&nbsp;&nbsp;&nbsp; <b>Martial</b>, <b>Stance</b><br/><b>Minor Action</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Personal</b> </p><p class=\\\"flavor\\\"><b>Effect</b>: You shift 1 square. Until the stance ends, when an enemy marked by you provokes an opportunity attack from you, shifts, or makes an attack that does not include you as the target, you can shift 1 square as a free action.</p><br/><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/378\\\" target=\\\"_new\\\">Dragon Magazine 378</a>.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n",
+    "flavor": "When your enemy gives you an opening, you step forward to take it.",
+    "keywords": [
+      "Martial, Stance"
+    ],
+    "range": "Personal",
+    "effect": "You shift 1 square. Until the stance ends, when an enemy marked by you provokes an opportunity attack from you, shifts, or makes an attack that does not include you as the target, you can shift 1 square as a free action."
+  }
+}

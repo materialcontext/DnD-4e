@@ -13,7 +13,7 @@
     "keywords": [
       "Charm, Fire"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence +4 vs. Reflex, Wisdom +4 vs. Reflex, or Charisma +4 vs. Reflex<br/>Increase to +6 bonus at 21st level.",
     "onHit": "2d8 + Charisma modifier fire damage, and until the end of your next turn the target is dazed, grants all creatures combat advantage, and cannot benefit from concealment or invisibility.",
@@ -33,7 +33,7 @@
     "keywords": [
       "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You can shift up to your speed. You gain concealment until the end of your next turn.</p>"
     ],
-    "range": "Personal <",
+    "range": "Personal",
     "effect": "You can shift up to your speed. You gain concealment until the end of your next turn."
   },
   "Alluring Lights": {
@@ -50,7 +50,7 @@
     "keywords": [
       "Charm, Conjuration"
     ],
-    "range": "Ranged 10<",
+    "range": "Ranged 10",
     "targets": "One, two, or three squares",
     "effect": "You conjure a sphere of light into the target square. When a creature moves into or begins its turn in that square or an adjacent square, make the following attack as an opportunity attack. You can move an alluring light up to your speed as a move action. If one sphere is dispelled, all the spheres are dispelled.",
     "attack": "Intelligence +4 vs. Will, Wisdom +4 vs. Will, or Charisma +4 vs. Will<br/>Increase to +6 bonus at 21st level.",
