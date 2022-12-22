@@ -1,0 +1,34 @@
+{
+  "id": "'713",
+  "name": "Fighter (Knight)",
+  
+  
+  
+  "refSource": "Heroes of the Fallen Lands",
+  "classTraits": {
+    "role:": "Defender. ",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Strength, Constitution",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale, plate; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+2 Fortitude.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 9+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 3 trained skills at 1st level.",
+    "classFeatures:": "Battle Guardian, Defender Aura, Knight Fighter Stances, Power Strike, Shield Finesse, Spinning Deflection, Weapon Talent."
+  },
+  "classText": "Along the borderlands, knights are the stalwart commanders of peasant militias, caravan guards, and adventuring groups. Their cunning and skill puts them in control of the battlefield and lets them minimize the onslaught of their enemies. Rampaging monsters fear a knight above almost any other attacker. While the knight locks down a formidable foe, the other members of a party close in for the kill. Many knights are members of chivalrous orders, though some are independent warriors who wander wherever their hearts take them. Each order combines a rigid sense of honor and relentless training to produce  champions of the borderlands. Whenever ogres descend from the hills, when hobgoblins march from their strongholds, and when necromancers call forth armies of undead, a noble knight is the best defense an isolated community can hope for. All sorts of warriors follow the path of the knight: young wanderers seeking to prove their mettle and gain full membership into a knightly order, reclusive warriors who abandon material comforts in favor of crusades for justice, or self-centered mercenaries who hope to claim treasure and power after every fight. Most knights start as squires, training with orders that have heroic and historic names such as the Knights of the Watch or the Order of the Silver Dragon. Through study, martial practice, and adventuring, a squire earns the right to wear armor and bear the weapons of a knight. Orders maintain small keeps on the borderlands, from which they send out patrols, enforce the law, and repel monstrous incursions.",
+  "classFeatures": {
+    "defenderAura": "You gain the defender aura power.",
+    "knightFighterStances": "You gain two of the following powers of your choice.",
+    "powerStrike": "You gain the power strike power.",
+    "shieldFinesse": "You gain the Shield Finesse feat.",
+    "spinningDeflection": "While you are wielding a quarterstaff, you are considered to be wielding a shield for powers and effects that require you to wield one, and you gain a +1 shield bonus to AC and Reflex.",
+    "weaponTalent": "You gain a +1 bonus to the attack rolls of weapon attacks.",
+    "bladedStep": "After you use power strike with a heavy blade, you can immediately shift 1 square to a square adjacent to an enemy. You then gain combat advantage against that enemy until the end of your next turn.",
+    "bludgeoningStaff": "When you use power strike with a staff, you can push the target up to 2 squares and can shift 2 squares.",
+    "staggeringHammer": "When you use power strike with a hammer and the target is adjacent to you, the target is also immobilized until the end of your next turn or until you are no longer adjacent to it. You also gain combat advantage against the target until the end of your next turn.",
+    "level7ExtraKnightStance": "You gain one additional fighter stance."
+  }
+}

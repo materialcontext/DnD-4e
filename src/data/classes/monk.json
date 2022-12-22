@@ -1,0 +1,67 @@
+{
+  "id": "'362",
+  "name": "Monk",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. You typically eschew weapons in favor of unarmed attacks, and you avoid armor in favor of maneuverability and agility. Few can match your speed and poise on the battlefield. Your powers are more than simple attacks; they are complex forms that allow you to strike and move with unmatched grace. You lean toward controller as a secondary role.",
+    "powerSource:": "Psionic. Your intense focus, constant training, and exceptional talent combine to allow you to harness the psionic power within yourself.",
+    "keyAbilities:": "Dexterity, Strength, Wisdom",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Club, dagger, monk unarmed strike, quarterstaff, shuriken, sling, spear.",
+    "implement:": "Ki focuses, weapons with which you\\'re proficient",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "buildOptions:": "Centered Breath Monk, Iron Soul Monk, Stone Fist Monk.",
+    "classFeatures:": "Monastic Tradition, Unarmed Combatant, Unarmored Defense."
+  },
+  "classText": "From high in forbidding mountains to the alleys of a city’s meanest district, the ascetic warriors known as monks practice their art. By focusing on their minds and bodies, honing both to near perfection, they master a psionic fighting art that allows them to deliver a punch with the force of a giant’s club and to absorb attacks as easily as a heavily armored knight. Monks tap into the psionic potential that rests within themselves, turning that energy further inward to fortify their bodies and sharpen their minds.  Perhaps you set out on this path to put a dark past behind you. Or your village was victimized one time too many by an evil lord or marauding beasts, and you now seek justice. No matter what your motivation, the path of the monk transforms you into a living weapon.  The road opens wide before you. With little more than a walking stick and perhaps a satchel of food, you are ready to take on whatever the world can throw at you. Your years of training taught you to turn your eye inward. Now it is time to look outward and test yourself against the world’s dangers.",
+  "suggestions": {
+    "overview": "You can choose any powers you like for your monk, though your choice of Monastic Tradition is likely to influence some of your choices. Dexterity is the most important ability for monks, since all monk attacks rely on it. Depending on your Monastic Tradition, you might favor Wisdom or Strength as your second ability score.",
+    "suggestions": {
+      "centeredBreathMonk": {
+        "overview": "Your fighting style is aggressive, emphasizing powers that eliminate your enemy quickly, rather than powers that help you control the battle. Though capable of rapid movement, your combat maneuvers are more likely to consist of a couple of quick steps, rather than a rapid shift across the entire battle. As with other monks, Dexterity should be your highest score. Choose Strength as your second-highest ability score, followed by Wisdom.",
+        "classFeature": "",
+        "suggestedFeat": "Crashing Tempest Style",
+        "suggestedSkills": "Acrobatics, Athletics, Endurance, Perception",
+        "suggestedAtWillPowers": "crane’s wings, dragon’s tail",
+        "suggestedEncounterPowers": "awaken the slumbering hurt",
+        "suggestedDailyPowers": "spinning leopard maneuver"
+      },
+      "ironSoulMonk": {
+        "overview": "Your fighting style is aggressive, emphasizing powers that eliminate your enemy quickly, rather than powers that help you control the battle. Though capable of rapid movement, your combat maneuvers are more likely to consist of a couple of quick steps, rather than a rapid shift across the entire battle. As with other monks, Dexterity should be your highest score. Choose Strength as your second-highest ability score, followed by Wisdom.",
+        "classFeature": "",
+        "suggestedFeat": "Crashing Tempest Style",
+        "suggestedSkills": "Acrobatics, Athletics, Endurance, Perception",
+        "suggestedAtWillPowers": "crane’s wings, dragon’s tail",
+        "suggestedEncounterPowers": "awaken the slumbering hurt",
+        "suggestedDailyPowers": "spinning leopard maneuver"
+      },
+      "stoneFistMonk": {
+        "overview": "Your fighting style is aggressive, emphasizing powers that eliminate your enemy quickly, rather than powers that help you control the battle. Though capable of rapid movement, your combat maneuvers are more likely to consist of a couple of quick steps, rather than a rapid shift across the entire battle. As with other monks, Dexterity should be your highest score. Choose Strength as your second-highest ability score, followed by Wisdom.",
+        "classFeature": "",
+        "suggestedFeat": "Crashing Tempest Style",
+        "suggestedSkills": "Acrobatics, Athletics, Endurance, Perception",
+        "suggestedAtWillPowers": "crane’s wings, dragon’s tail",
+        "suggestedEncounterPowers": "awaken the slumbering hurt",
+        "suggestedDailyPowers": "spinning leopard maneuver"
+      }
+    }
+  },
+  "classFeatures": {
+    "monasticTradition": "Monks train in a number of traditional techniques, with each monastery focusing on a specific style. Choose either Centered Breath or Stone Fist as your tradition. The choice you make grants you a Flurry of Blows power and a defensive benefit.",
+    "centeredBreath": "The Centered Breath tradition focuses on honing your mental awareness to better harness psionic magic. This tradition teaches that only by controlling yourself can you control your environment. The tradition’s adherents are typically ascetics, whose monasteries stand in quiet corners of the world where the monks can train and study without distraction. In some of these monasteries, speech is forbidden except for one hour each day. Flurry of Blows: You gain the centered flurry of blows power. Mental Equilibrium: You gain a +1 bonus to Fortitude. This bonus increases to +2 at 11th level and +3 at 21st level.",
+    "desertWind": "If you choose the Desert Wind monastic tradition, you gain the following class features. Flurry of Blows: You gain the desert wind flurry of blows power. Mental Crucible: You gain resist 5 fire. The resistance increases to 10 at 11th level and 15 at 21st level. If you already have fire resistance that is equal to or higher than this value, increase it by 2.",
+    "eternalTide": "If you choose the Eternal Tide monastic tradition, you gain the following class features. Flurry of Blows: You gain the eternal tide flurry of blows power. Mental Balance: Whenever an enemy would pull, push, or slide you, you can reduce the forced movement by 1 square. After the forced movement is resolved, you can shift 1 square as a free action.",
+    "ironSoul": "When you choose your Monastic Tradition, you can choose the Iron Soul tradition instead of another option, such as the ones in Player’s Handbook 3. You gain the following features: Flurry of Blows: You gain the iron soul flurry of blows power. Mental Arsenal: While wielding a weapon other than one in the unarmed weapon group, you gain a +1 shield bonus to AC.",
+    "stoneFist": "The Stone Fist tradition is one of physical mastery, relentless exercise, and athletic perfection. Its adherents seek to master their bodies, turning themselves into living weapons capable of supernatural feats of strength, agility, and speed. Monks of the Stone Fist prefer to study among the trappings of civilization. Some Stone Fist monasteries are small schools built in towns and villages, where students work as laborers and artisans when they aren’t training. Other Stone Fist monasteries stand in the most forbidding regions of the world—from the bitter cold of the tundra to the edge of a rumbling volcano—to test their students’ endurance day after day. Flurry of Blows: You gain the stone fist flurry of blows power. Mental Bastion: You gain a +1 bonus to Will. This bonus increases to +2 at 11th level and +3 at 21st level.",
+    "unarmedCombatant": "You can make unarmed attacks with much greater effectiveness than most combatants can. When you make a weapon attack such as a melee basic attack, you can use the monk unarmed strike, which is a weapon in the unarmed weapon group. This weapon has the off-hand weapon property and a +3 proficiency bonus, and it deals 1d8 damage. You must have a hand free to use your monk unarmed strike, even if you’re kicking, kneeing, elbowing, or head-butting a target. Also, your monk unarmed strike can benefit from a magic ki focus if you have one (see “Implements” below).",
+    "unarmoredDefense": "While you are wearing cloth armor or no armor and aren’t using a shield, you gain a +2 bonus to AC.",
+    "implements": "Monks usually channel their psionic energy through an item called a ki focus, which is a wooden practice weapon, prayer beads, a manual of lore, or some other object a monk studies or uses during training or meditation. After you attune yourself to a ki focus, you can use it as an implement when it is on your person (see the “Ki Focuses” sidebar). \nWhen you wear or hold your ki focus, you can add its enhancement bonus to the attack rolls and the damage rolls of monk powers and monk paragon path powers that have the implement keyword. You can also add its enhancement bonus to the attack rolls and the damage rolls of weapon attacks you make using a weapon with which you're proficient. \nYou can also use a weapon with which you're proficient as an implement. When wielding the weapon as an implement, the weapon's characteristics—proficiency bonus, damage die, and weapon properties like defensive or high crit—are irrelevant to your implement powers. \nIf you have both a magic ki focus and a magic weapon, you choose before you use an attack power whether to draw on the magic of the ki focus or the weapon. Your choice determines which enhancement bonus, critical hit effects, and magic item properties and powers you can apply to that power. You can't, for example, use the enhancement bonus of your ki focus and the critical hit effect of your magic weapon with the same attack."
+  }
+}

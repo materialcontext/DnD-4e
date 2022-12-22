@@ -1,0 +1,98 @@
+{
+  "id": "'3",
+  "name": "Fighter (Weaponmaster)",
+  
+  
+  
+  "refSource": "Player's Handbook, Class Compendium",
+  "classTraits": {
+    "role:": "Defender. Tough and resilient, you use tactical cunning and battle prowess to contain the enemy and protect your allies.",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Strength; Dexterity, Wisdom, or Constitution",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+2 Fortitude.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 9+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 3 trained skills at 1st level.",
+    "buildOptions:": "Arena Fighter, Battlerager Fighter, Brawling Fighter, Great Weapon Fighter, Guardian Fighter, Tempest Fighter.",
+    "classFeatures:": "Combat Agility, Combat Challenge, Combat Superiority, Fighter Talents."
+  },
+  "classText": "Into the blackest pits beneath the mountains, bent on vengeance and glory, goes the weaponmaster. These warriors form the iron core of any legion. They crash into the teeth of enemy forces, armed with cold steel and grim purpose. They are the mercenaries loitering in taverns between expeditions, the guards who cast a watchful eye over their charges, the weapon masters who elevate fighting styles to lethal arts. The weaponmaster is a fearless warrior, ready to meet any challenge. Weaponmasters can be found just about anywhere and among any sort of people. A few are gallant warriors fighting for noble causes, while others are calculating mercenaries who draw their weapons only when the pay is right. All weaponmasters, however, are adventurers, ready to face any challenge, to go where glory, plunder, or honor leads them. Specialized combat maneuvers, or exploits, combined with a dedicated focus on a fighting style set weaponmasters apart from other fighters. A weaponmaster can slam his or her weapon through one enemy to crunch into another or carve a bloody path through enemies in a whirlwind of destruction. Weapons are crucial too, since weaponmasters know how to coax every advantage they can from their tools, and those who use axes fight differently from those who favor heavy blades. Compared to a knight or a slayer, a weaponmaster focuses on a broader variety of tactics and combat styles. While a knight or a slayer has fairly predictable, though still formidable, abilities, each weaponmaster cultivates a unique blend of specific maneuvers and abilities. Weaponmasters develop their combat prowess in many different ways. Most have some elementary training to expose them to different weapons and armor. These trainees are often squires, militia, students, and soldiers. Once they’re cut free, they grow their ability through practice and observation. Each battle proves instructive, giving the weaponmaster new insights that might develop into full-blown techniques.",
+  "suggestions": {
+    "overview": "",
+    "suggestions": {
+      "arenaFighter": {
+        "overview": "Rather than a shield or a big weapon, you have specialized in fighting using a weapon in each hand. You see it as the best of both worlds—given the right training, you can deliver good damage and make up for the lack of a shield with deft parrying. Strength remains any soldier’s bread and butter, and good battlefield awareness—Wisdom—is a must. You also rely on speed, maneuverability, and agility—Dexterity—to get your dirty work done. Constitution is a tertiary ability for you, granting useful staying power against foes not so easily fooled by your fancy footwork and feints. The Tempest Technique class feature is designed to complement this build.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting (Human feat: Two-Weapon Threat)",
+        "suggestedSkills": "Athletics, Intimidate, Streetwise",
+        "suggestedAtWillPowers": "dual strike, footwork lure",
+        "suggestedEncounterPowers": "funneling flurry",
+        "suggestedDailyPowers": "tempest dance"
+      },
+      "battleragerFighter": {
+        "overview": "Rather than a shield or a big weapon, you have specialized in fighting using a weapon in each hand. You see it as the best of both worlds—given the right training, you can deliver good damage and make up for the lack of a shield with deft parrying. Strength remains any soldier’s bread and butter, and good battlefield awareness—Wisdom—is a must. You also rely on speed, maneuverability, and agility—Dexterity—to get your dirty work done. Constitution is a tertiary ability for you, granting useful staying power against foes not so easily fooled by your fancy footwork and feints. The Tempest Technique class feature is designed to complement this build.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting (Human feat: Two-Weapon Threat)",
+        "suggestedSkills": "Athletics, Intimidate, Streetwise",
+        "suggestedAtWillPowers": "dual strike, footwork lure",
+        "suggestedEncounterPowers": "funneling flurry",
+        "suggestedDailyPowers": "tempest dance"
+      },
+      "brawlingFighter": {
+        "overview": "Rather than a shield or a big weapon, you have specialized in fighting using a weapon in each hand. You see it as the best of both worlds—given the right training, you can deliver good damage and make up for the lack of a shield with deft parrying. Strength remains any soldier’s bread and butter, and good battlefield awareness—Wisdom—is a must. You also rely on speed, maneuverability, and agility—Dexterity—to get your dirty work done. Constitution is a tertiary ability for you, granting useful staying power against foes not so easily fooled by your fancy footwork and feints. The Tempest Technique class feature is designed to complement this build.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting (Human feat: Two-Weapon Threat)",
+        "suggestedSkills": "Athletics, Intimidate, Streetwise",
+        "suggestedAtWillPowers": "dual strike, footwork lure",
+        "suggestedEncounterPowers": "funneling flurry",
+        "suggestedDailyPowers": "tempest dance"
+      },
+      "greatWeaponFighter": {
+        "overview": "Rather than a shield or a big weapon, you have specialized in fighting using a weapon in each hand. You see it as the best of both worlds—given the right training, you can deliver good damage and make up for the lack of a shield with deft parrying. Strength remains any soldier’s bread and butter, and good battlefield awareness—Wisdom—is a must. You also rely on speed, maneuverability, and agility—Dexterity—to get your dirty work done. Constitution is a tertiary ability for you, granting useful staying power against foes not so easily fooled by your fancy footwork and feints. The Tempest Technique class feature is designed to complement this build.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting (Human feat: Two-Weapon Threat)",
+        "suggestedSkills": "Athletics, Intimidate, Streetwise",
+        "suggestedAtWillPowers": "dual strike, footwork lure",
+        "suggestedEncounterPowers": "funneling flurry",
+        "suggestedDailyPowers": "tempest dance"
+      },
+      "guardianFighter": {
+        "overview": "Rather than a shield or a big weapon, you have specialized in fighting using a weapon in each hand. You see it as the best of both worlds—given the right training, you can deliver good damage and make up for the lack of a shield with deft parrying. Strength remains any soldier’s bread and butter, and good battlefield awareness—Wisdom—is a must. You also rely on speed, maneuverability, and agility—Dexterity—to get your dirty work done. Constitution is a tertiary ability for you, granting useful staying power against foes not so easily fooled by your fancy footwork and feints. The Tempest Technique class feature is designed to complement this build.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting (Human feat: Two-Weapon Threat)",
+        "suggestedSkills": "Athletics, Intimidate, Streetwise",
+        "suggestedAtWillPowers": "dual strike, footwork lure",
+        "suggestedEncounterPowers": "funneling flurry",
+        "suggestedDailyPowers": "tempest dance"
+      },
+      "tempestFighter": {
+        "overview": "Rather than a shield or a big weapon, you have specialized in fighting using a weapon in each hand. You see it as the best of both worlds—given the right training, you can deliver good damage and make up for the lack of a shield with deft parrying. Strength remains any soldier’s bread and butter, and good battlefield awareness—Wisdom—is a must. You also rely on speed, maneuverability, and agility—Dexterity—to get your dirty work done. Constitution is a tertiary ability for you, granting useful staying power against foes not so easily fooled by your fancy footwork and feints. The Tempest Technique class feature is designed to complement this build.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting (Human feat: Two-Weapon Threat)",
+        "suggestedSkills": "Athletics, Intimidate, Streetwise",
+        "suggestedAtWillPowers": "dual strike, footwork lure",
+        "suggestedEncounterPowers": "funneling flurry",
+        "suggestedDailyPowers": "tempest dance"
+      }
+    }
+  },
+  "classFeatures": {
+    "combatAgility": "This class feature replaces the Combat Superiority class feature. You gain the power Combat Agility.",
+    "combatChallenge": "In combat, it’s dangerous to ignore a fighter. Every time you attack an enemy, whether the attack hits or misses, you can choose to mark that target. The mark lasts until the end of your next turn. While a target is marked, it takes a -2 penalty to attack rolls if its attack doesn’t include you as a target. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place. In addition, you gain the Combat Challenge power.",
+    "combatSuperiority": "You gain a bonus to the attack rolls of opportunity attacks. The bonus equals your Wisdom modifier. An enemy hit by your opportunity attack stops moving, if a move provoked the attack. If the enemy still has actions remaining, it can use them to resume moving.",
+    "fighterTalents": {
+      "overview":"Choose one of the following fighter talents.",
+      "options": {
+        "arenaTraining": "You treat all weapons with which you are not proficient as improvised weapons. You gain a +2 proficiency bonus to attack rolls with improvised weapons. Your attacks with one-handed improvised weapons deal 1d8 damage, and your attacks with two-handed improvised weapons deal 1d10 damage. &nbsp;&nbsp;&nbsp;&nbsp;While you are not wearing heavy armor, you gain a +1 bonus to AC. This bonus increases to +2 at 11th level and +3 at 21st level. &nbsp;&nbsp;&nbsp;&nbsp;You select two weapons as your arena weapons. If you are not already proficient with these weapons, you gain proficiency with them. In addition, any of your feats that grant feat bonuses to attack rolls or damage rolls with one of your arena weapons apply to your other arena weapon as well.",
+        "battleragerVigor": "Whenever you hit an enemy with a melee or a close attack, you gain temporary hit points equal to your Constitution modifier, plus any temporary hit points normally granted by the power. You gain the hit points only after the attack is resolved. &nbsp;&nbsp;&nbsp;&nbsp;If you use an invigorating fighter attack power and miss every target with it, you gain temporary hit points equal to your Constitution modifier. &nbsp;&nbsp;&nbsp;&nbsp;When wearing light armor or chainmail, you gain a +1 bonus to damage rolls with melee and close weapon attacks whenever you have temporary hit points. This bonus increases to +2 if you’re wielding an axe, a hammer, a mace, or a pick.",
+        "brawlerStyle": "While you wield a weapon in your primary hand and your off hand is free or grabbing a creature, you gain a +1 bonus to AC and a +2 bonus to Fortitude.",
+        "one-handedWeaponTalent": "When using a one-handed weapon, you gain a +1 bonus to weapon attack rolls.",
+        "tempestTechnique": "When you wield two melee weapons, you gain a +1 bonus to attack rolls with weapons that have the offhand property. You gain Two-Weapon Defense as a bonus feat, even if you don’t meet the prerequisites. When wearing light armor or chainmail, you gain a +1 bonus to damage rolls with melee and close weapon attacks when you are wielding two weapons. This bonus increases to +2 with weapons that have the off-hand property.",
+        "two-handedWeaponTalent": "When using a two-handed weapon, you gain a +1 bonus to weapon attack rolls."
+      }
+    }
+  }
+}

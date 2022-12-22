@@ -1,0 +1,39 @@
+{
+  "id": "'790",
+  "name": "Ranger (Scout)",
+  
+  
+  
+  "refSource": "Heroes of the Forgotten Kingdoms",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial and Primal. ",
+    "keyAbilities:": "Dexterity, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Dungeoneering or Nature (your choice). From the class skills list below, choose 4 more trained skills at 1st level.",
+    "classFeatures:": "Aspects of the Wild (Scout), Attack Finesse, Dual Weapon Attack, Power Strike, Ranger Wilderness Knacks, Two-Weapon Style."
+  },
+  "classText": "Scouts learn to wield two weapons at once, from the supple combination of longsword and short sword to the brutal double assault of battleaxe and handaxe. This tactic denies the defensive benefit of a shield, but allows a scout to strike hard and fast. At their best when outnumbered and surrounded, scouts count on speed and accuracy in combat to overwhelm their foes. Scouts augment their combat prowess with primal magic, channeling the supernatural power of the natural world to their advantage. Primal power allows a scout to pass by foes unseen, to discourage pursuit, and to keep his or her companions alive in the wild under conditions that would slay lesser explorers outright.",
+  "classFeatures": {
+    "aspectsOftheWild": "You gain two of the following powers of your choice.",
+    "attackFinesse": "When you make a melee basic attack, you can use your Dexterity modifier instead of your Strength modifier for the attack roll and the damage roll.",
+    "dualWeaponAttack": "You gain the dual weapon attack power.",
+    "powerStrike": "You gain the power strike power.",
+    "rangerWildernessKnacks": "You gain two of the following abilities of your choice.",
+    "ambushExpertise(ranger)": "Whenever you make a Stealth check, each ally within 10 squares of you gains a +2 bonus to his or her next Stealth check before the end of your next turn.",
+    "beastEmpathy(ranger)": "You gain a +2 bonus to Bluff, Diplomacy, and Intimidate checks against beasts. You can communicate simple concepts and commands to such creatures, though they are under no compulsion to obey you. With a successful Insight check (DC determined by the DM), you can read a creature’s body language and vocalizations enough to understand basic messages from it.",
+    "mountainGuide(ranger)": "Whenever you succeed on an Athletics check to climb, you reduce the DC of that climb by 2 for your allies until the end of the encounter. Only allies who see you make the climb gain this benefit.",
+    "watchfulRest(ranger)": "When you take an extended rest, you and any allies also taking the rest do not take the -5 penalty to Perception checks for sleeping.",
+    "wildernessTracker(ranger)": "During a short rest, you can make a Perception check (DC determined by the DM) to inspect the area around you. This area can be as large as 10 squares on a side. If your check succeeds, you determine the number and nature of the creatures that have moved through the area in the past 24 hours. You ascertain when and where they entered the area, as well as when and where they left.",
+    "two-weaponStyle": "Gain flashing blade mastery or spinning axe mastery.",
+    "flashingBladeMastery": "You gain a +1 bonus to weapon attack rolls while you wield a light blade in your off hand.",
+    "spinningAxeMastery": "You gain a +2 bonus to weapon damage rolls while you wield an axe in your off hand.",
+    "eagle'sAxe": "While you wield an axe in your off hand, your power strike deals 3 extra damage to the target.",
+    "serpent'sBlade": "While you wield a light blade in your off hand, you can take a free action to shift up to 3 squares immediately after using power strike."
+  }
+}

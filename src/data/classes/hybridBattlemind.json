@@ -1,0 +1,33 @@
+{
+  "id": "'590",
+  "name": "Hybrid Battlemind",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Defender. ",
+    "powerSource:": "Psionic. ",
+    "keyAbilities:": "Constitution, Wisdom, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "bonusToDefense:": "+1 Will.",
+    "hitPointsAt1stLevel": ": 7.5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3",
+    "healingSurgesPerDay": ": 4.5",
+    "classSkills": ": Arcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Endurance (Con), Heal (Wis), Insight (Wis), Intimidate (Cha).",
+    "classFeatures:": "Psionic Augmentation (Hybrid), Psionic Defense (Hybrid)",
+    "hybridTalentOptions": ": Battlemind Armor Proficiency, Psionic Study (Hybrid)."
+  },
+  "classText": "When you start with a sturdy mind and body, you can add almost any other set of talents to achieve a strong whole—or so you like to tell yourself.  What led you to add another class’s abilities to your own mental and physical perfection as a battlemind? Do you secretly believe your psionic talents to be unreliable, at least compared to a strong blade or a reliance on other forms of magic? Or have you only recently discovered your psionic capabilities?  As a hybrid battlemind, you give up some battlefield control and psionic tricks in order to add another class’s features and powers to your arsenal.",
+  "classFeatures": {
+    "psionicAugmentation(hybrid)": "This class feature functions as the class feature, except that your power point total varies depending on your selection of powers. See “Psionic Augmentation and Hybrid Characters” in the glossary to determine the number of power points you have.",
+    "psionicDefense(hybrid)": "This class feature functions as the battlemind class feature, except that you must choose either blurred step or mind spike.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "battlemindArmorProficiency": "You gain proficiency with leather armor, hide armor, chainmail, scale armor, light shields, and heavy shields.",
+    "psionicStudy(hybrid)": "Battleminds learn to fight using their bodies as weapons. Some battleminds alter their own form to fit their needs. Other battleminds use their psionic power to predict the best position for launching an attack. Choose one of these options.",
+    "battleResilience(hybrid)": "You gain the battle resilience power, which reflects your ability to use your psionic power to bend your own body to protect yourself.",
+    "speedOfThought(hybrid)": "You gain the speed of thought power, which allows you to be always ready for a fight.",
+    "wildFocus(hybrid)": "You gain the wild focus power, which reflects the raw telekinetic power you wield in combat."
+  }
+}

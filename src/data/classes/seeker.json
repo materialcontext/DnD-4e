@@ -1,0 +1,55 @@
+{
+  "id": "'472",
+  "name": "Seeker",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Controller. You are a primal hunter who forges bonds with mysterious spirits to gain their aid in bringing down your prey. Depending on your choice of class features, you lean toward either defender or striker as a secondary role.",
+    "powerSource:": "Primal. Through ancient ceremonies and whispered evocations, you call on primal spirits to lend their might to your cause.",
+    "keyAbilities:": "Wisdom, Strength, Dexterity",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Nature. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Protecting Seeker, Vengeful Seeker.",
+    "classFeatures:": "Inevitable Shot, Seeker\\'s Bond."
+  },
+  "classText": "Seekers are primal champions who scour the wilderness in search of those who would defile it. Versed in hunting techniques handed down through the generations, seekers combine thrown weapon and bow techniques with primal evocations. The combination allows seekers great range in which to deliver deadly attacks that confound and hamper their enemies. When a seeker looses a missile, the primal spirits bound to it through ancient evocations are freed, sometimes as terrifying beasts and sometimes as nature’s raw destructive potential.  As a seeker, you are both a hunter and a mystic. You attune yourself to the wilderness you call your home, but you are equally tied to the spirits that dwell in the world around you. With your people’s traditions and whispered advice from the spirits, you navigate the wilds with ease, at home as any beast. If an enemy appears, you have nothing to fear, both because you have mastered your weapons and because the spirits to whom you have bound yourself add their savage might to your attacks. Whether you use lightning strikes, grasping vines, or spectral beasts, your enemies cannot stand against your assault.",
+  "suggestions": {
+    "overview": "All seekers depend on Wisdom to commune with the spirits to guide them and aid in their attacks. Seekers bind themselves with spirits through their Seeker’s Bond. The Bloodbond and Spiritbond are the most common, and your choice corresponds with one of two seeker builds. Regardless of your particular bond, however, you can choose whatever powers best help you to keep your vow.",
+    "suggestions": {
+      "protectingSeeker": {
+        "overview": "You have witnessed nature’s destruction and its plunder by cruel and careless mortals. No longer will you wait; vengeance demands blood. A blood oath sees you hunting down and destroying the world’s enemies, and those who despoil it will find no mercy from you. Wisdom is your most important ability, followed by Dexterity to help keep you one step ahead of your enemies and avoid their attacks. You lean toward striker as a secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Improved Initiative",
+        "suggestedSkills": "Acrobatics, Athletics, Nature, Stealth",
+        "suggestedAtWillPowers": "elemental spirits, biting swarm",
+        "suggestedEncounterPowers": "flickering arrow",
+        "suggestedDailyPowers": "storm of spirit shards"
+      },
+      "vengefulSeeker": {
+        "overview": "You have witnessed nature’s destruction and its plunder by cruel and careless mortals. No longer will you wait; vengeance demands blood. A blood oath sees you hunting down and destroying the world’s enemies, and those who despoil it will find no mercy from you. Wisdom is your most important ability, followed by Dexterity to help keep you one step ahead of your enemies and avoid their attacks. You lean toward striker as a secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Improved Initiative",
+        "suggestedSkills": "Acrobatics, Athletics, Nature, Stealth",
+        "suggestedAtWillPowers": "elemental spirits, biting swarm",
+        "suggestedEncounterPowers": "flickering arrow",
+        "suggestedDailyPowers": "storm of spirit shards"
+      }
+    }
+  },
+  "classFeatures": {
+    "inevitableShot": "You gain the inevitable shot power. You can use this power to call on spirits to send your projectile hurling toward another enemy when you miss with a ranged attack.",
+    "seeker\\'sBond": "Seekers develop special bonds with primal spirits by offering solemn vows to further the spirits’ purposes. In exchange for these vows, the spirits bestow a measure of their strength to aid their champions’ cause.",
+    "bloodbond": "You gain the encaging spirits power. In addition, while you are not wearing heavy armor, you can shift as a minor action.",
+    "spiritbond": "You gain the spirits’ rebuke power. You also gain a +1 bonus to attack rolls with both light thrown and heavy thrown weapons, and when you make an attack by throwing a weapon with which you have proficiency, the weapon returns to your hand after the attack. In addition, while you are not wearing heavy armor, you can use your Strength modifier in place of your Dexterity or Intelligence modifier to determine your AC."
+  },
+  "characteristics": "Your arrows or thrown weapons loose primal power when used. They might manifest as primal spirits hungering for revenge or as icy winds or crackling lightning. Your powers control your enemies, interfering with their movement, holding them in place, or injuring them for their actions. Also, your attacks might call forth spirits to worry your enemies and pursue them across the battlefield.",
+  "races": " Like other primal characters, seekers view the world's primal spirits as kindred and partners, and they venerate them more than they worship the gods. Seekers who do follow deities commonly worship Melora for her dominion over the forces of nature, Corellon (who is sometimes depicted as the founder of archery), Kord, or Sehanine. Evil seekers sometimes follow Gruumsh or Zehir.",
+  "religion": "Elves and shifters are the most common seekers, since both their natural inclinations toward primal paths and their inherent abilities make them well matched with the capabilities of the class. Goliaths who favor ranged combat sometimes become seekers (preferring thrown weapons over bows or crossbows), and wilden seekers are also fairly common."
+}

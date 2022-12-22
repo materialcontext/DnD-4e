@@ -1,0 +1,33 @@
+{
+  "id": "'588",
+  "name": "Hybrid Ardent",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Leader. ",
+    "powerSource:": "Psionic. ",
+    "keyAbilities:": "Charisma, Constitution, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Arcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Endurance (Con), Heal (Wis), Insight (Wis), Intimidate (Cha), Streetwise (Cha).",
+    "classFeatures:": "Ardent Mantle (Hybrid), Ardent Surge (Hybrid), Psionic Augmentation (Hybrid)",
+    "hybridTalentOptions": ": Ardent Armor Proficiency or Mantle Power."
+  },
+  "classText": "Like most ardents, your psionic power comes from self-discovered potential rather than training. Why did you choose not to focus on honing your talent for harnessing emotion? Do you fear this ability, preferring to supplement it with the abilities of another class? Have you only begun to unlock this mysterious power?  As a hybrid ardent, you provide occasional but timely bursts of emotion to allies and enemies alike. However, by blending this power with the talents of another class, you give up the depth of your control over others’ emotions.",
+  "classFeatures": {
+    "ardentMantle(hybrid)": "This class feature functions as the ardent class feature, except that you don’t gain the power associated with the mantle you choose.",
+    "mantleOfClarity(hybrid)": "You and each ally within 5 squares of you gain a bonus to all defenses against opportunity attacks. The bonus equals your Wisdom modifier. In addition, each ally within 5 squares of you gains a +2 bonus to Insight checks and Perception checks. (If a character is in the radius of more than one Mantle of Clarity, the bonuses are not cumulative. Only the highest ones apply to him or her.)",
+    "mantleOfElation(hybrid)": "You and each ally within 5 squares of you gain a bonus to damage rolls for opportunity attacks. The bonus equals your Constitution modifier. In addition, each ally within 5 squares of you gains a +2 bonus to Diplomacy checks and Intimidate checks.",
+    "ardentSurge(hybrid)": "You gain the ardent power ardent surge. The power functions as normal, except that you can use it only once per encounter.",
+    "psionicAugmentation(hybrid)": "This class feature functions as the class feature, except that your power point total varies depending on your selection of powers. See “Psionic Augmentation and Hybrid Characters” in the glossary to determine the number of power points you have.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "ardentArmorProficiency": "You gain proficiency with leather armor, hide armor, and chainmail.",
+    "mantlePower": "You gain the power associated with the Ardent Mantle option you chose."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "'440",
+  "name": "Hybrid Barbarian",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Primal. ",
+    "keyAbilities:": "Strength, Constitution, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, military melee.",
+    "bonusToDefense:": "+1 Fortitude.",
+    "hitPointsAt1stLevel": ": 7.5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3",
+    "healingSurgesPerDay": ": 4",
+    "classSkills": ": Acrobatics (Dex), Athletics (Str), Endurance (Con), Heal (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis).",
+    "classFeatures:": "Rampage",
+    "hybridTalentOptions": ": Barbarian Armored Agility or Feral Might."
+  },
+  "classText": "In your heart, you know the power of rage. However, your link to the primal spirits that unleash these rages isn’t quite as strong as a typical barbarian’s. Perhaps you’ve been away from the tribe for too long, or maybe you have only begun to harness primal power. Regardless of the reason, as a hybrid barbarian you can’t unleash the burning rage in your heart quite as easily as a full member of that class, but you remain capable of occasional frenzied bursts of energy.",
+  "classFeatures": {
+    "rampage": "Once per round, when you score a critical hit with a barbarian attack power, you can immediately make a melee basic attack as a free action. You do not have to attack the same target that you scored a critical hit against.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "barbarianArmoredAgility": "You gain the Barbarian Agility class feature. You also gain proficiency with leather armor and hide armor.",
+    "feralMight": "Barbarians connect with the natural world in a variety of ways. Some barbarians grow so hardened to physical punishment that they find it easier to simply absorb, rather than avoid, attacks. Others are living examples of the power of one’s will to shape one’s fate. Choose one of the following options. The choice you make gives you the benefit described below and also provides bonuses to certain barbarian powers, as detailed in those powers.",
+    "ragebloodVigor": "You gain the swift charge power. In addition, whenever your attack reduces an enemy to 0 hit points, you gain temporary hit points equal to your Constitution modifier. The number of temporary hit points equals 5 + your Constitution modifier at 11th level and 10 + your Constitution modifier at 21st level.",
+    "thanebornTriumph": "You gain the roar of triumph power. In addition, whenever you bloody an enemy, the next attack by you or an ally against that enemy gains a bonus to the attack roll equal to your Charisma modifier.",
+    "thunderbornWrath": "You gain the war cry power. In addition, once per round when your attack bloodies an enemy, each enemy adjacent to you takes thunder damage equal to your Constitution modifier.",
+    "whirlingSlayer": "You gain the whirling lunge power, and you can wield a one-handed weapon in your off hand and treat it as an off-hand weapon. In addition, once per round when your attack bloodies an enemy, you can shift 2 squares as a free action, and each enemy adjacent to you at the end of the shift grants combat advantage to you until the end of your next turn."
+  }
+}

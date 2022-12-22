@@ -1,0 +1,62 @@
+{
+  "id": "'2",
+  "name": "Cleric (Templar)",
+  
+  
+  
+  "refSource": "Player's Handbook, Class Compendium",
+  "classTraits": {
+    "role:": "Leader. You lead by healing and shielding allies with your prayers, and by drawing on divine power to improve your allies’ attacks. Templars lean toward controller as a secondary role, since many of their powers affect multiple foes at once or hinder enemy actions.",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Strength or Wisdom; Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Holy symbols",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Religion. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Battle Cleric, Devoted Cleric, Shielding Cleric.",
+    "classFeatures:": "Channel Divinity, Healer's Lore, Healing Word, Ritual Casting."
+  },
+  "classText": "Schooled in religious traditions from childhood, templars wield divine powers entrusted to them through ordination or investiture in the service of a deity. They are expected to further their deity’s interests throughout their lives, aiding all who work in the deity’s name (whether they realize it or not) and opposing any who seek to thwart the deity’s will. Templars try to sway the good people of the world to give honor and worship to the gods by setting an example of courage, understanding, patience, piety, and zeal. Sometimes this is best done through ministering to the needs of the common folk, sometimes by offering advice and counsel to those who hold power in the world, and sometimes by leading the way on bold adventures and inspiring quests. Whenever the faithful are in need, a cleric is called to act. Templars are not as narrowly focused as warpriests, and they do not specialize in a domain as warpriests do. They draw from a wider variety of cleric powers, simply because such a wide variety of religious orders, priesthoods, and traditions are scattered across the face of the world. However, like warpriests, templars are often skilled, resilient warriors. Their true power lies in the divine magic they command—prayers to heal the injured, protect the weak, and chastise the wicked.",
+  "suggestions": {
+    "overview": "",
+    "suggestions": {
+      "battleCleric": {
+        "overview": "As a shielding cleric, you believe that your place is not to take the fight to the enemy directly, but to bolster allies with your presence. Your prayers lend additional resources to your friends and create opportunities for them to defeat their foes. Yours is a life of leadership through self-sacrifice, ongoing support, and inspiration. You do not seek personal glory, and you take comfort in knowing that your allies couldn’t have succeeded without you.",
+        "classFeature": "",
+        "suggestedFeat": "Defensive Grace",
+        "suggestedSkills": "Diplomacy, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "astral seal, sacred flame",
+        "suggestedEncounterPowers": "bane",
+        "suggestedDailyPowers": "font of tears"
+      },
+      "devotedCleric": {
+        "overview": "As a shielding cleric, you believe that your place is not to take the fight to the enemy directly, but to bolster allies with your presence. Your prayers lend additional resources to your friends and create opportunities for them to defeat their foes. Yours is a life of leadership through self-sacrifice, ongoing support, and inspiration. You do not seek personal glory, and you take comfort in knowing that your allies couldn’t have succeeded without you.",
+        "classFeature": "",
+        "suggestedFeat": "Defensive Grace",
+        "suggestedSkills": "Diplomacy, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "astral seal, sacred flame",
+        "suggestedEncounterPowers": "bane",
+        "suggestedDailyPowers": "font of tears"
+      },
+      "shieldingCleric": {
+        "overview": "As a shielding cleric, you believe that your place is not to take the fight to the enemy directly, but to bolster allies with your presence. Your prayers lend additional resources to your friends and create opportunities for them to defeat their foes. Yours is a life of leadership through self-sacrifice, ongoing support, and inspiration. You do not seek personal glory, and you take comfort in knowing that your allies couldn’t have succeeded without you.",
+        "classFeature": "",
+        "suggestedFeat": "Defensive Grace",
+        "suggestedSkills": "Diplomacy, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "astral seal, sacred flame",
+        "suggestedEncounterPowers": "bane",
+        "suggestedDailyPowers": "font of tears"
+      }
+    }
+  },
+  "classFeatures": {
+    "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers. &nbsp;&nbsp;&nbsp;&nbsp;Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
+    "healer'sLore": "When you restore hit points to a creature by using a cleric power that has the healing keyword, add your Wisdom modifier to the hit points regained, but only if the healing involves the creature spending a healing surge.",
+    "healingWord": "You gain the healing word power.",
+    "ritualCasting": "You gain the Ritual Caster feat as a bonus feat, allowing you to use magical rituals."
+  }
+}

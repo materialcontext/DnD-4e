@@ -1,0 +1,78 @@
+{
+  "id": "'9",
+  "name": "Wizard (Arcanist)",
+  
+  
+  
+  "refSource": "Player's Handbook, Class Compendium",
+  "classTraits": {
+    "role:": "Controller. You command eldritch forces, shaping them into spells designed to blast your enemies, bring them under your thumb, twist their senses, and impede their movement.",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Intelligence; Constitution, Dexterity, or Wisdom",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Dagger, quarterstaff.",
+    "implement:": "Orbs, staffs, wands, tomes",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 10+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 4",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Arcana. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Control Wizard, Illusionist Wizard, Summoner Wizard, War Wizard.",
+    "classFeatures:": "Arcane Implement Mastery, Arcanist Ritual Casting, Arcanist\\'s Spellbook, Cantrips."
+  },
+  "classText": "An arcanist is a powerful wizard who forgoes specialization to explore and use all that arcane magic has to offer. Rather than bind themselves to a particular school, as mages do, arcanists experiment with a wide range of magical effects from evocation to necromancy and everything in between. Considered dilettantes by their mage counterparts, arcanists see diverse study as a boon because it broadens their ability to deal with a variety of situations, by always having the proper spell on hand. The arcanist is a generalist and a theorist. This path of arcane study focuses more on a broader understanding of principles instead of specific techniques relating to schools. To an arcanist, how he or she casts a spell is far more important than what sort of spell is used. Many arcanists follow their imagination as to what spells they might learn and which they might use on any given day, rather than adhering to the dictates of academia. Like mages, arcanists gravitate to the adventuring life because it gives them the chance to discover interesting new spells and rituals to add to their spellbooks. Though they might lack focus, arcanists prove themselves equal to their schoolspecialist counterparts in both learning ability and application of that knowledge, and are counted as valued members of any expedition.",
+  "suggestions": {
+    "overview": "",
+    "suggestions": {
+      "controlWizard": {
+        "overview": "Your delight is in powers that deal damage—lots of damage, to many foes at a time. Enormous bursts of fire, searing bolts of lightning, and waves of caustic acid are your weapons. Intelligence is your most important ability score. Dexterity should be your second-best score, and it is important if you choose the wand of accuracy form of Implement Mastery. Make Wisdom your third-best score. You might instead choose the staff of defense form of Implement Mastery, which lets your Constitution aid your defenses against some attacks. Even if you don’t, Constitution increases your hit points, healing surges, and Fortitude defense. Select powers that deal lots of damage and that make the best use of your high Dexterity score.",
+        "classFeature": "",
+        "suggestedFeat": "Expanded Spellbook (Human feat: Action Surge)",
+        "suggestedSkills": "Arcana, Dungeoneering, History, Religion",
+        "suggestedAtWillPowers": "magic missile, scorching burst",
+        "suggestedEncounterPowers": "burning hands",
+        "suggestedDailyPowers": "acid arrow"
+      },
+      "illusionistWizard": {
+        "overview": "Your delight is in powers that deal damage—lots of damage, to many foes at a time. Enormous bursts of fire, searing bolts of lightning, and waves of caustic acid are your weapons. Intelligence is your most important ability score. Dexterity should be your second-best score, and it is important if you choose the wand of accuracy form of Implement Mastery. Make Wisdom your third-best score. You might instead choose the staff of defense form of Implement Mastery, which lets your Constitution aid your defenses against some attacks. Even if you don’t, Constitution increases your hit points, healing surges, and Fortitude defense. Select powers that deal lots of damage and that make the best use of your high Dexterity score.",
+        "classFeature": "",
+        "suggestedFeat": "Expanded Spellbook (Human feat: Action Surge)",
+        "suggestedSkills": "Arcana, Dungeoneering, History, Religion",
+        "suggestedAtWillPowers": "magic missile, scorching burst",
+        "suggestedEncounterPowers": "burning hands",
+        "suggestedDailyPowers": "acid arrow"
+      },
+      "summonerWizard": {
+        "overview": "Your delight is in powers that deal damage—lots of damage, to many foes at a time. Enormous bursts of fire, searing bolts of lightning, and waves of caustic acid are your weapons. Intelligence is your most important ability score. Dexterity should be your second-best score, and it is important if you choose the wand of accuracy form of Implement Mastery. Make Wisdom your third-best score. You might instead choose the staff of defense form of Implement Mastery, which lets your Constitution aid your defenses against some attacks. Even if you don’t, Constitution increases your hit points, healing surges, and Fortitude defense. Select powers that deal lots of damage and that make the best use of your high Dexterity score.",
+        "classFeature": "",
+        "suggestedFeat": "Expanded Spellbook (Human feat: Action Surge)",
+        "suggestedSkills": "Arcana, Dungeoneering, History, Religion",
+        "suggestedAtWillPowers": "magic missile, scorching burst",
+        "suggestedEncounterPowers": "burning hands",
+        "suggestedDailyPowers": "acid arrow"
+      },
+      "warWizard": {
+        "overview": "Your delight is in powers that deal damage—lots of damage, to many foes at a time. Enormous bursts of fire, searing bolts of lightning, and waves of caustic acid are your weapons. Intelligence is your most important ability score. Dexterity should be your second-best score, and it is important if you choose the wand of accuracy form of Implement Mastery. Make Wisdom your third-best score. You might instead choose the staff of defense form of Implement Mastery, which lets your Constitution aid your defenses against some attacks. Even if you don’t, Constitution increases your hit points, healing surges, and Fortitude defense. Select powers that deal lots of damage and that make the best use of your high Dexterity score.",
+        "classFeature": "",
+        "suggestedFeat": "Expanded Spellbook (Human feat: Action Surge)",
+        "suggestedSkills": "Arcana, Dungeoneering, History, Religion",
+        "suggestedAtWillPowers": "magic missile, scorching burst",
+        "suggestedEncounterPowers": "burning hands",
+        "suggestedDailyPowers": "acid arrow"
+      }
+    }
+  },
+  "classFeatures": {
+    "arcaneImplementMastery": "You specialize in the use of one kind of implement to gain additional abilities when you wield it. Choose one of the following forms of implement mastery: Orb of Imposition, Staff of Defense, Tome of Binding, Tome of Readiness, Wand of Accuracy.",
+    "orbOfDeception": "Once per encounter, you can use your orb of Deception power.",
+    "orbOfImposition": "Once per encounter while you are holding an orb on your turn, you can use your orb of imposition power.",
+    "staffOfDefense": "A staff of defense grants you a +1 bonus to AC. In addition, once per encounter, you can use the Staff of Defense power.",
+    "tomeOfBinding": "Once per encounter, as a free action, if you use your tome when using an arcane summoning power, all creatures summoned by that power gain a bonus to damage rolls equal to your Constitution modifier. &nbsp;&nbsp;&nbsp;&nbsp;You must wield a tome to benefit from this feature. &nbsp;&nbsp;&nbsp;&nbsp;Summoner wizards prefer this form of tome mastery because of its obvious benefits to their summoning spells. This form of mastery also provides benefits to certain conjuration powers.",
+    "tomeOfReadiness": "When you select this form of implement mastery, choose a wizard encounter attack power of your level or lower that you don’t already know. That power is now stored and available for your use at a later time. &nbsp;&nbsp;&nbsp;&nbsp;Once per encounter as a free action, you can use the stored power by expending another unused wizard encounter attack power of its level or higher. You must still take the normal action required to use the stored power. &nbsp;&nbsp;&nbsp;&nbsp;Each time you reach a level that lets you choose an encounter power, you can replace the stored power with a new wizard encounter attack power of your level or lower that you do not already know. &nbsp;&nbsp;&nbsp;&nbsp;You must wield a tome to benefit from this feature.  &nbsp;&nbsp;&nbsp;&nbsp;Wizards of all builds appreciate this form of mastery because of the flexibility it allows them during combat.",
+    "wandOfAccuracy": "Once per encounter, you can use your Wand of Accuracy power.",
+    "arcanistRitualCasting": "You gain the Ritual Caster feat as a bonus feat, allowing you to use magical rituals.",
+    "arcanist\\'sSpellbook": "&nbsp;&nbsp;&nbsp;&nbsp;Daily and Utility Powers: Your spellbook also holds your wizard daily attack powers and wizard utility powers (not including your cantrips). You begin with two daily attack powers in your spellbook, one of which you can use on any given day. Each time you gain a level that lets you select a wizard daily attack power or a wizard utility power, choose two different powers of that type at that level and add them to your book. &nbsp;&nbsp;&nbsp;&nbsp;After each extended rest, you can prepare a number of daily attack powers and utility powers according to what you can use per day for your level (see the Wizard Powers Prepared per Day table). You can’t prepare the same power twice on the same day. &nbsp;&nbsp;&nbsp;&nbsp;If you replace a power because of gaining a level or through retraining, the previous power vanishes from your spellbook and is replaced by the new power. &nbsp;&nbsp;&nbsp;&nbsp;Rituals: Your book also contains three 1st-level rituals of your choice that you have mastered. &nbsp;&nbsp;&nbsp;&nbsp;At 5th level, and again at 11th, 15th, 21st, and 25th level, you master two more rituals of your choice and add them to your spellbook. When you choose the rituals, they must be your level or lower. &nbsp;&nbsp;&nbsp;&nbsp;Capacity: A typical spellbook has 128 pages. Each power takes up 1 page. A ritual takes up a number of pages equal to its level.",
+    "cantrips": "You gain four cantrips of your choice.",
+    "implements": "Wizards make use of orbs, staffs, and wands to help channel and direct their arcane powers. Every wizard has mastery of one type of implement (see “Class Features”). Without an implement, a wizard can still use his or her powers. A wizard wielding a magic orb, staff, or wand can add its enhancement bonus to attack rolls and damage rolls of wizard powers, as well as wizard paragon path powers, that have the implement keyword."
+  }
+}

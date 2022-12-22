@@ -1,0 +1,32 @@
+{
+  "id": "'444",
+  "name": "Hybrid Shaman",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Leader. ",
+    "powerSource:": "Primal. ",
+    "keyAbilities:": "Wisdom, Constitution, Intelligence",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, longspear.",
+    "implement:": "Totems",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Arcana (Int), Athletics (Str), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Nature (Wis), Perception (Wis), Religion (Int).",
+    "classFeatures:": "Companion Spirit (Hybrid), Healing Spirit (Hybrid), Speak with Spirits",
+    "hybridTalentOptions": ": Spirit Boon (Hybrid) or Spirit\\'s Power."
+  },
+  "classText": "You have learned to call a spirit companion to your side, yet your connection to primal spirits isn’t as strong as a shaman’s. What caused this deficiency? Did you flee or fail a rite of passage before its completion, weakening your link to the spirit world? Have you angered the spirits, causing their voices to quiet in your mind?  As a hybrid shaman, you have a spirit companion, as well as the ability to call on spirits for healing, but you give up many of your other talents to pursue a second class.",
+  "classFeatures": {
+    "companionSpirit(hybrid)": "You gain the call spirit companion power.",
+    "healingSpirit(hybrid)": "You gain the shaman power healing spirit.  The power functions as normal, except that you can use it only once per encounter.",
+    "speakWithSpirits": "You gain the speak with spirits power. You are aware of the constant presence of spirits that float at the edges of reality. You can focus your inner energy and open your mind to these spirits, letting them guide your actions or fill you with insights.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "spiritBoon(hybrid)": "You gain the Spirit Boon of the Companion Spirit option you chose.",
+    "spirit\\'sPower": "You gain the opportunity action power of the Companion Spirit option you chose."
+  }
+}

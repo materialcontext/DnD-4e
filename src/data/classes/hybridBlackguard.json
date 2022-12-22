@@ -1,0 +1,33 @@
+{
+  "id": "'892",
+  "name": "Hybrid Paladin (Blackguard)",
+  
+  
+  
+  "refSource": "Dragon Magazine 402",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Divine. ",
+    "prerequisite:": "When building a hybrid character, you cannot combine a hybrid blackguard with any other type of paladin.",
+    "keyAbilities:": "Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale, plate; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "implement:": "Holy symbols",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 7.5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3",
+    "healingSurgesPerDay": ": 5",
+    "classSkills": ": Arcana (Int), Athletics (Str), Bluff (Cha), Endurance (Con), Heal (Wis), History (Int), Intimidate (Cha), Religion (Int), Thievery (Dex).",
+    "classFeatures:": "Dark Menace (Hybrid), Dread Smite (Hybrid), Spirit of Vice (Hybrid)",
+    "hybridTalentOptions": ": Paladin Armor Proficiency or Shroud of Shadow (Hybrid)."
+  },
+  "classText": "Hybrid blackguards are relatively rare, since most adventurers who follow that dark path do so with a fervor matched only by a paladin’s dedication to justice. Still, some blackguards are practical enough to realize that arcane magic and other talents can help them sow terror and overpower their foes. In fact, some blackguard orders embrace such abilities, cultivating unique combinations of talents to confuse and surprise their enemies.",
+  "classFeatures": {
+    "darkMenace(hybrid)": "Whenever you make a weapon attack against an enemy granting combat advantage to you using a paladin power or paladin paragon path power, that enemy takes extra damage equal to your Charisma modifier.",
+    "dreadSmite(hybrid)": "You can select the dread smite power whenever you have the opportunity to gain or replace a class encounter attack power that has a level. If you already have dread smite, you gain an additional use of the power if you select it again.",
+    "spiritOfVice(hybrid)": "You choose a vice and gain the benefit of the Spirit of Vice class feature, except that the benefit applies only to your paladin powers and paladin paragon path powers.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "paladinArmorProficiency": "You gain proficiency with leather armor, hide armor, chainmail, scale armor, plate armor, light shields, and heavy shields.",
+    "shroudOfShadow(hybrid)": "You gain the shroud of shadow power. In addition, at 7th level or higher, you gain the benefit of the Improved Shroud of Shadow feature associated with your vice."
+  }
+}

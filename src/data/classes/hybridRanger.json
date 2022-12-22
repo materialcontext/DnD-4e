@@ -1,0 +1,37 @@
+{
+  "id": "'355",
+  "name": "Hybrid Ranger",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Strength, Dexterity, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Acrobatics (Dex), Athletics (Str), Dungeoneering (Wis), Endurance (Con), Heal (Wis), Nature (Wis), Perception (Wis), Stealth (Dex).",
+    "classFeatures:": "Hunter\\'s Quarry (Hybrid)",
+    "hybridTalentOptions": ": Ranger Armor Proficiency, Ranger Combat Talent, Ranger Fighting Style."
+  },
+  "classText": "You blend the hunter’s dogged pursuit of a quarry with other talents to become a formidable warrior. You might have learned your ranger powers as a young wanderer or an independent scout before taking up new skills. Alternatively, you might have been driven only recently to a life in the wilderness.  You retain the ranger’s damage-dealing capability. However, you initially give up the specialization of the ranger’s Fighting Style class feature.",
+  "classFeatures": {
+    "hunter\\'sQuarry(hybrid)": "This class feature functions as the ranger class feature, except that you can deal the extra damage only when you hit your quarry with a ranger power or a ranger paragon path power.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "rangerArmorProficiency": "You gain proficiency with leather armor and hide armor.",
+    "rangerCombatTalent": "When you select this option, you choose one of the following class features. Prime Shot: This class feature functions exactly as the ranger class feature. Running Attack: This class feature functions exactly as the ranger class feature.",
+    "primeShot(hybrid)": "If none of your allies are nearer to your target than you are, you receive a +1 bonus to ranged attack rolls against that target. You do not gain this feature if you choose the Beast Mastery fighting style.",
+    "runningAttack(hybrid)": "This class feature replaces the Prime Shot class feature.",
+    "rangerFightingStyle": "When you select this option, you can choose one of the following class features.",
+    "archerFightingStyle(hybrid)": "Because of your focus on ranged attacks, you gain Defensive Mobility as a bonus feat.",
+    "beastMastery(hybrid)": "This class feature functions as the ranger class feature except that the beast takes a -1 penalty to attack rolls and all defenses.",
+    "hunterFightingStyle(hybrid)": "You gain Quick Draw as a bonus feat, even if you don’t meet the prerequisites. In addition, you can sheathe a weapon as a free action and gain a +4 bonus to AC against opportunity attacks you provoke by making a ranged attack.",
+    "marauderFightingStyle(hybrid)": "You gain Two-Weapon Defense as a bonus feat, even if you don’t meet the prerequisites. In addition, you gain a +1 bonus to speed while you aren’t using a shield or a two-handed weapon.",
+    "two-bladeFightingStyle(hybrid)": "Because of your focus on two-weapon melee attacks, you can wield a one-handed weapon in your off hand as if it were an off-hand weapon. (Make sure to designate on your character sheet which weapon is main and which is off-hand.) In addition, you gain Toughness as a bonus feat."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "'147",
+  "name": "Shaman",
+  
+  
+  
+  "refSource": "Player's Handbook 2",
+  "classTraits": {
+    "role:": "Leader. Your spirit companion bolsters and heals your nearby allies, and you can evoke other spirits to aid your allies and harm your foes. Depending on your choice of class features and powers, you lean toward either defender or striker as a secondary role.",
+    "powerSource:": "Primal. The spirits of the natural world give you power and manifest on your behalf.",
+    "keyAbilities:": "Wisdom, Constitution, Intelligence",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, longspear.",
+    "implement:": "Totems",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Nature. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Animist Shaman, Bear Shaman, Eagle Shaman, Panther Shaman, World Speaker Shaman.",
+    "classFeatures:": "Companion Spirit, Healing Spirit, Speak with Spirits."
+  },
+  "classText": "Shamans are inspiring and dangerous battle leaders. They command powerful spirit guides, and through them lead their allies. These nature spirits bolster their allies’ attacks and offer protection and healing when needed. In a rite of passage or initiation, you pledged yourself to the spirits, to be their voice and hands in the world. Through ancient song and sacred ceremony, you have called a powerful spirit companion to your side. The primal spirits of nature affirm your will, guide the actions of your allies, and deal mighty attacks against your foes. You might be a venerable advisor to a tribal leader, a young traveler seeking to bring tales of a wider world back to your people, or a scholar devoted to the pursuit of nearly forgotten lore. The spirits and voices of nature guide your every step. Their power flows through you, calling you to lead, to fight, and to triumph.",
+  "suggestions": {
+    "overview": "All shamans rely on Wisdom, and they also benefit from a high Constitution or Intelligence. You can choose any shaman powers you like for your character, though many shamans favor one of two different builds, letting their power choices be shaped by the form of their spirit companions. You lead your adventuring party from a position of relative safety, sending your spirit companion to the front of the battle while you linger behind. Your powers fall into two broad categories: melee attacks your spirit companion makes, and ranged attacks. Your daily powers include a number of conjurations and zones, representing your ability to call on additional spirits for aid.",
+    "suggestions": {
+      "animistShaman": {
+        "overview": "You channel the living essence of the primal world and the cycles that define it, giving you command over the field of battle. Your spirit companion acts almost like a defender, preventing enemy movement around it while helping your allies move freely.",
+        "classFeature": "",
+        "suggestedFeat": "Strengthening Spirit",
+        "suggestedSkills": "Arcana, Athletics, Endurance, Nature",
+        "suggestedAtWillPowers": "protecting strike, voice of battle",
+        "suggestedEncounterPowers": "bramble ally",
+        "suggestedDailyPowers": "stone root spirit"
+      },
+      "bearShaman": {
+        "overview": "You channel the living essence of the primal world and the cycles that define it, giving you command over the field of battle. Your spirit companion acts almost like a defender, preventing enemy movement around it while helping your allies move freely.",
+        "classFeature": "",
+        "suggestedFeat": "Strengthening Spirit",
+        "suggestedSkills": "Arcana, Athletics, Endurance, Nature",
+        "suggestedAtWillPowers": "protecting strike, voice of battle",
+        "suggestedEncounterPowers": "bramble ally",
+        "suggestedDailyPowers": "stone root spirit"
+      },
+      "eagleShaman": {
+        "overview": "You channel the living essence of the primal world and the cycles that define it, giving you command over the field of battle. Your spirit companion acts almost like a defender, preventing enemy movement around it while helping your allies move freely.",
+        "classFeature": "",
+        "suggestedFeat": "Strengthening Spirit",
+        "suggestedSkills": "Arcana, Athletics, Endurance, Nature",
+        "suggestedAtWillPowers": "protecting strike, voice of battle",
+        "suggestedEncounterPowers": "bramble ally",
+        "suggestedDailyPowers": "stone root spirit"
+      },
+      "pantherShaman": {
+        "overview": "You channel the living essence of the primal world and the cycles that define it, giving you command over the field of battle. Your spirit companion acts almost like a defender, preventing enemy movement around it while helping your allies move freely.",
+        "classFeature": "",
+        "suggestedFeat": "Strengthening Spirit",
+        "suggestedSkills": "Arcana, Athletics, Endurance, Nature",
+        "suggestedAtWillPowers": "protecting strike, voice of battle",
+        "suggestedEncounterPowers": "bramble ally",
+        "suggestedDailyPowers": "stone root spirit"
+      },
+      "worldSpeakerShaman": {
+        "overview": "You channel the living essence of the primal world and the cycles that define it, giving you command over the field of battle. Your spirit companion acts almost like a defender, preventing enemy movement around it while helping your allies move freely.",
+        "classFeature": "",
+        "suggestedFeat": "Strengthening Spirit",
+        "suggestedSkills": "Arcana, Athletics, Endurance, Nature",
+        "suggestedAtWillPowers": "protecting strike, voice of battle",
+        "suggestedEncounterPowers": "bramble ally",
+        "suggestedDailyPowers": "stone root spirit"
+      }
+    }
+  },
+  "classFeatures": {
+    "companionSpirit": "As part of your initiation as a shaman, you acquired a spirit companion, an animal spirit that accompanies and assists you. Many shaman powers have the spirit keyword. Your spirit companion must be present when you use such a power. You gain the call spirit companion power, which allows you to call your spirit companion to your side. In addition, choose one of the following Companion Spirit options. Your choice provides you with a Spirit Boon as well as a special attack made through your spirit companion, and your choice determines one of your at-will attack powers. Your choice also provides bonuses to certain shaman powers, as detailed in those powers.",
+    "elementalSpirit": "You draw on elemental spirits inhabiting the earth to give you strength and fuel the raw power of your evocations. &nbsp;&nbsp;&nbsp;&nbsp;Spirit Boon: Your allies gain a +2 bonus to saving throws while adjacent to your spirit companion. In addition, if your spirit companion is not present at the start of your turn, you can summon it once during that turn as a free action. &nbsp;&nbsp;&nbsp;&nbsp;Spirit’s Wrath: You gain the spirit’s wrath power, an attack you make through your spirit companion as an opportunity action. &nbsp;&nbsp;&nbsp;&nbsp;At-Will Attack Power: You gain the spirit infusion power. You can choose a second at-will attack power as normal.",
+    "protectorSpirit": "You draw on the strength of the bear or a similar protective spirit to defend and bolster your allies. Spirit Boon: Any ally adjacent to your spirit companion regains additional hit points equal to your Constitution modifier when he or she uses second wind or when you use a healing power on him or her. Spirit’s Shield: You gain the spirit’s shield power, an attack you make through your spirit companion as an opportunity action. At-Will Attack Power: You gain the protecting strike power. You choose a second at-will attack power as normal.",
+    "stalkerSpirit": "You call on the stealth and cunning of the panther or a similar stalking spirit to empower and position your allies. Spirit Boon: Any ally adjacent to your spirit companion gains a bonus to damage rolls against bloodied enemies equal to your Intelligence modifier. Spirit’s Fangs: You gain the spirit’s fangs power, an attack you make through your spirit companion as an opportunity action. At-Will Attack Power: You gain the stalker’s strike power. You choose a second at-will attack power as normal.",
+    "watcherSpirit": "Spirit Boon: Enemies adjacent to your spirit companion can’t gain cover from other enemies. In addition, your allies can treat any enemy adjacent to your spirit companion as their nearest enemy. Spirit’s Prey: You gain the spirit’s prey power, an attack you make through your spirit companion as an opportunity action. At-Will Attack Power: You gain the claws of the eagle power. You choose a second 1st-level at-will attack power as normal.",
+    "worldSpeakerSpirit": "Spirit Boon: Any ally who provokes an opportunity attack by entering or leaving a square adjacent to your spirit companion gains a bonus to all defenses against that attack. The bonus equals your Constitution modifier. World Speaker’s Command: You gain the world speaker’s command power, an attack you make through your spirit companion as an opportunity action. At-Will Attack Power: You gain the voice of battle power. You choose a second 1st-level at-will attack power as normal.",
+    "healingSpirit": "You gain the healing spirit power. Through this power, you grant your allies additional resilience with a short evocation of primal power.",
+    "speakWithSpirits": "You gain the speak with spirits power. You are aware of the constant presence of spirits that float at the edges of reality. You can focus your inner energy and open your mind to these spirits, letting them guide your actions or fill you with insights.",
+    "implements": "Shamans use totems carved to resemble the spirits they most commonly call upon, particularly their spirit companions. When you wield a magic totem, you can add its enhancement bonus to the attack rolls and the damage rolls of shaman powers and shaman paragon path powers that have the implement keyword. Without an implement, you can still use these powers."
+  },
+  "religion": "Shamans draw their power from the primal power source and therefore don't usually worship gods. They view themselves as agents—not servants or masters—of the spirits of nature and instruct others how to live their lives in harmony with those spirits. Like druids, shamans call on the spirits to witness significant events but don't worship them."
+}

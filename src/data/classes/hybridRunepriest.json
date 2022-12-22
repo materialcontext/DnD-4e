@@ -1,0 +1,35 @@
+{
+  "id": "'611",
+  "name": "Hybrid Runepriest",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Leader. ",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Strength, Constitution, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale; light shields.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "bonusToDefense:": "+1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Arcana (Int), Athletics (Str), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Religion (Int), Thievery (Dex).",
+    "classFeatures:": "Rune of Mending (Hybrid), Runic Artistry",
+    "hybridTalentOptions": ": Rune Master or Runepriest Armor Proficiency."
+  },
+  "classText": "You have begun to unlock the mysteries of divine runes, but you lack the focus needed for true mastery. What keeps you from achieving this focus? Have you recognized that runic study alone is insufficient to stand against the forces of evil? Or have you started dabbling in rune magic to enhance your already formidable talents in battle?  As a hybrid runepriest, you forgo some battlefield healing and mastery of basic runes in exchange for a second class’s features and powers.",
+  "classFeatures": {
+    "runeOfMending(hybrid)": "You gain the runepriest power rune of mending. The power functions as normal, except that you can use it only once per encounter.",
+    "runicArtistry": "Runepriests follow one of the major traditions of rune magic: the path of the Wrathful Hammer, the way of the Defiant Word or the tradition of the Serene Blade.",
+    "defiantWord": "Whenever an enemy misses you with an attack, you gain a bonus to damage rolls against that enemy until the end of your next turn. The bonus equals your Wisdom modifier, regardless of the number of times the enemy misses you in a round.",
+    "sereneBlade": "You gain proficiency with all one-handed and two-handed military heavy blades. While you are not wearing heavy armor, you can use your Wisdom modifier in place of your Dexterity or Intelligence modifier to determine your AC. Once per round immediately after an enemy deals damage to you with an attack, you gain temporary hit points equal to your Wisdom modifier. The number of temporary hit points increases to 5 + your Wisdom modifier at 11th level and 10 + your Wisdom modifier at 21st level.",
+    "wrathfulHammer": "You gain proficiency with military hammers and military maces. In addition, whenever an enemy deals damage to you with an attack, you gain a bonus to damage rolls against that enemy until the end of your next turn. The bonus equals your Constitution modifier, regardless of the number of times the enemy damages you in a round.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "runeMaster": "Some of your powers have the runic keyword. When you are going to use a runic power, you first choose one of the runes noted in the power—either the rune of destruction or the rune of protection—and then use the power, applying the chosen rune’s effects. The moment you choose the rune, you enter its rune state. You remain in that rune state until you enter another rune state or until the end of the encounter. Whenever you enter the rune state of the rune of destruction or the rune of protection, you gain an additional benefit. The benefit lasts while you’re in the rune state.",
+    "runeOfDestruction": "Allies gain a +1 bonus to attack rolls against enemies that are adjacent to you or to any other runepriests who are in this rune state.",
+    "runeOfProtection": "While adjacent to you, allies gain resist 2 to all damage. The resistance increases to 4 at 11th level and 6 at 21st level.",
+    "runepriestArmorProficiency": "You gain proficiency with leather armor, hide armor, chainmail, scale armor, and light shields."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "'612",
+  "name": "Hybrid Seeker",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Primal. ",
+    "keyAbilities:": "Wisdom, Strength, Dexterity",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Acrobatics (Dex), Athletics (Str), Endurance (Con), Heal (Wis), Insight (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis), Stealth (Dex).",
+    "classFeatures:": "Inevitable Shot (Hybrid), Seeker\\'s Bond (Hybrid)",
+    "hybridTalentOptions": ": True Seeker\\'s Bond."
+  },
+  "classText": "You have forged a tenuous bond with primal spirits of the hunt. What keeps you from giving yourself fully to the primal spirits? Do you fear loss of control? Do you mistrust their motives? Or are you simply not spiritually strong enough to hold the power they offer?  As a hybrid seeker, you give up some battlefield control ability in exchange for features and powers of a second class.",
+  "classFeatures": {
+    "inevitableShot(hybrid)": "You gain the seeker power inevitable shot. The power functions as normal, except that it is triggered only by ranged attacks from seeker powers and seeker paragon path powers.",
+    "seeker\\'sBond(hybrid)": "Choose one of the Seeker’s Bond options. You gain only the power associated with that option, and you can use the power only once per day. You are also considered to have that option for the purpose of meeting prerequisites and using the benefits tailored for it in certain powers.",
+    "bloodbond(hybrid)": "You gain the encaging spirits power. You can use the power only once per day. You are also considered to have Bloodbond for the purpose of meeting prerequisites and using the benefits tailored for it in certain powers.",
+    "spiritbond(hybrid)": "You gain the spirits’ rebuke power.  You can use the power only once per day. You are also considered to have Spiritbond for the purpose of meeting prerequisites and using the benefits tailored for it in certain powers.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "trueSeeker\\'sBond": "You gain the rest of the benefits of the Seeker’s Bond option you chose (except that you can still use the power only once per day)."
+  }
+}

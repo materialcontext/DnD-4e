@@ -1,0 +1,29 @@
+{
+  "id": "'445",
+  "name": "Hybrid Sorcerer",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Charisma, Dexterity, Strength",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Daggers, staffs",
+    "bonusToDefense:": "+1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Arcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Dungeoneering (Wis), Endurance (Con), History (Int), Insight (Wis), Intimidate (Cha), Nature (Wis).",
+    "classFeatures:": "Sorcerous Power",
+    "hybridTalentOptions": ": Soul of the Sorcerer."
+  },
+  "classText": "You know the innate power of arcane magic flowing through your body and blood, yet it does not speak to you as strongly as it would if you were only a sorcerer.  Is your sorcerous bloodline diluted, requiring you to learn other talents to survive as an adventurer? Or do you fear what might happen if you gave yourself fully to the luring pulse of magic?  As a hybrid sorcerer, you’re capable of unleashing powerful gouts of arcane fury. But you don’t have the resilience of a nonhybrid sorcerer or the other quirks derived from a dedication to sorcerous ways.",
+  "classFeatures": {
+    "sorcerousPower": "You gain a bonus to the damage rolls of sorcerer powers and sorcerer paragon path powers equal to your Strength or Dexterity modifier. This bonus increases by 2 at 11th level and by 2 again at 21st level. You choose which modifier to use when you make your character. If you choose Strength, you can use your Strength modifier in place of your Dexterity or Intelligence modifier to determine your AC while you are not wearing heavy armor.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "soulOfTheSorcerer": "Choose one of the following class features: Dragon Soul, Soul of the Cosmic Cycle, Storm Soul, or Wild Soul. You gain that class feature, and you are considered to have the associated Spell Source for the purpose of meeting prerequisites and using the benefits tailored for it in certain powers."
+  }
+}

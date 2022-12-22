@@ -1,0 +1,33 @@
+{
+  "id": "'811",
+  "name": "Assassin (Executioner)",
+  
+  
+  
+  "refSource": "Heroes of Shadow",
+  "classTraits": {
+    "role:": "Striker. Your sense of timing, skill with weapons, and ability to use the shadows as a weapon allow you to strike with lethal effect against an unsuspecting foe. You even mix in some shadow magic when appropriate.",
+    "powerSource:": "Martial and Shadow. ",
+    "keyAbilities:": "Dexterity, Charisma",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple one-handed melee, military one-handed melee, simple ranged, blowgun, bola, garrote, shortbow.",
+    "implement:": "Ki focuses",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Stealth. From the class skills list below, choose 4 more trained skills at 1st level.",
+    "classFeatures:": "Assassin\\'s Strike, Attack Finesse (Executioner), Guild Attacks, Poison Use, Quick Swap (Executioner), Versatile Defense."
+  },
+  "classText": "Assassins embrace shadow magic and pledge a shard of their souls to the Shadowfell to gain their power. By replacing a fundamental part of themselves with a dark reflection, they can manifest that piece of shadow to accomplish incredible things. The infusion of shadow magic allows assassins to identify weak points in an opponent’s defenses so that with a few moments of study they can reduce the stoutest enemies to corpses. An assassin usually keeps his or her profession a secret, since few trust those who regularly deal in death. Assassins’ guilds provide some measure of protection, especially in those regions where the study of shadow magic and assassination as an art form are banned. As an assassin, you are an outcast. You traded away a part of your soul for the power of death, and only the most-loyal companions accept your skills into their midst. Whatever drew you onto the assassin’s path, you become a trained killer from whom few can escape unharmed.",
+  "classFeatures": {
+    "attackFinesse(executioner)": "You can use Dexterity instead of Strength for your melee basic attacks. &nbsp;&nbsp;&nbsp;&nbsp;In addition, once per turn you can deal 1d8 extra damage with a weapon attack using a one-handed weapon, a garrote, a blowgun, or a shortbow. The extra damage increases to 2d8 at 11th level and 3d8 at 21st level.",
+    "guildAttacks": "You become a member of an assassin guild. You can choose to join the Red Scales, the League of Whispers or the Way of the Ninja.",
+    "leagueOfWhispers": "You gain the powers bola takedown, precision dart, and quick shot.",
+    "redScales": "You gain the powers garrote strangle, poisoned dagger, and quick lunge.",
+    "wayOfTheNinja": "You gain the powers ninja-to rush, poisonous shuriken, and whirling kusari-gama. In addition, you have proficiency with shuriken and the kusari-gama, your Attack Finesse class feature also applies to kusari-gama and shuriken, and your assassin poisons that can be applied to ammunition can also be applied to your shuriken.",
+    "poisonUse": "You learn the recipes for two 1st-level assassin poisons of your choice. During an extended rest, you can prepare one vial of a 1st-level assassin poison. &nbsp;&nbsp;&nbsp;&nbsp;You must know the poison’s recipe and have a poisoner’s kit. The vial contains a single use of the poison, which expires if it isn’t used before the start of your next extended rest. An item can benefit from the effects of only one assassin poison at a time. &nbsp;&nbsp;&nbsp;&nbsp;Only you can use your assassin poisons, and you are immune to the effects of the ones you create.",
+    "quickSwap(executioner)": "Once during each of your turns, you can take a free action to draw or stow a weapon and then draw another weapon.",
+    "versatileDefense": "You choose a bonus feat, either Shield Proficiency: Light or Two-Weapon Defense. You don’t have to meet the feat’s prerequisite."
+  }
+}

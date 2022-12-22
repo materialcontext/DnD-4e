@@ -1,0 +1,100 @@
+{
+  "id": "'8",
+  "name": "Warlord (Marshal)",
+  
+  
+  
+  "refSource": "Player's Handbook, Class Compendium",
+  "classTraits": {
+    "role:": "Leader. You rally your companions with a mixture of shouted commands and cunning stratagems, leading them to victory through superior tactics.",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Strength; Intelligence or Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail; light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "buildOptions:": "Bravura Warlord, Insightful Warlord, Inspiring Warlord, Resourceful Warlord, Skirmishing Warlord, Tactical Warlord.",
+    "classFeatures:": "Archer Warlord, Battlefront Leader, Canny Leader, Combat Leader, Commanding Presence, Inspiring Word."
+  },
+  "classText": "When dark forces muster in the wilderness, when hosts of monsters assemble to sack civilization’s last redoubts, it falls to the marshal to lead the warriors in defense of their lands. Marshals draw from their experience and passion  to lend courage, skill, and hope to those under their command. A warlord forms the iron core of any unit of soldiers, uniting their purpose and bolstering their commitment to see the conflict to its conclusion. A marshal’s talents can come from many different aspects of personality or endeavor. Some depend on  their bravado, goading their companions to take risks in order to reap great rewards. Others have keen insight into their enemies’ minds. Some marshals specialize in hit-and-run tactics, and others are resourceful leaders who always have some trick up their sleeves. The most common marshals include those whose presence alone is  enough to bind disparate heroes together and the tactical savants who spot weaknesses and exploit them. Marshals develop specialized combat maneuvers called exploits. In their elementary form, they are strikes and commands designed to shift the battle toward a more favorable outcome. In addition to these exploits, marshals issue commands and orders that improve their allies’ performance. Some of these commands can restore health and vigor, while others make allies more alert and ready for new challenges. Most marshals have already had experience in the field, even if it came from leading a tiny expedition. Some are former military leaders who have relinquished their commands to seek their fortunes in the world. Others might have lost their units and be out for revenge against the enemy that brought them to ruin. Whatever the individual’s triumphs or defeats were before becoming an adventurer, every marshal has the ability to lead, and lead well.",
+  "suggestions": {
+    "overview": "",
+    "suggestions": {
+      "bravuraWarlord": {
+        "overview": "Your leadership takes the form of quick commands, cunning strategies, and tactical superiority. Your powers guide your allies to extra and more powerful attacks, as well as helping them move quickly in combat situations. You also assist your allies by moving your enemies around or knocking them prone. You use Strength for your attack powers, so make that your best ability score. Intelligence is secondary, because your Intelligence determines just how effective a leader you are. Charisma should be your third best score, so you can dabble in other warlord powers and to improve your Will defense. Select powers that make the best use of your high Intelligence score.",
+        "classFeature": "",
+        "suggestedFeat": "Tactical Assault (Human feat: Weapon Focus)",
+        "suggestedSkills": "Endurance, Heal, History, Intimidate",
+        "suggestedAtWillPowers": "viper’s strike, wolf pack tactics",
+        "suggestedEncounterPowers": "warlord’s favor",
+        "suggestedDailyPowers": "lead the attack"
+      },
+      "insightfulWarlord": {
+        "overview": "Your leadership takes the form of quick commands, cunning strategies, and tactical superiority. Your powers guide your allies to extra and more powerful attacks, as well as helping them move quickly in combat situations. You also assist your allies by moving your enemies around or knocking them prone. You use Strength for your attack powers, so make that your best ability score. Intelligence is secondary, because your Intelligence determines just how effective a leader you are. Charisma should be your third best score, so you can dabble in other warlord powers and to improve your Will defense. Select powers that make the best use of your high Intelligence score.",
+        "classFeature": "",
+        "suggestedFeat": "Tactical Assault (Human feat: Weapon Focus)",
+        "suggestedSkills": "Endurance, Heal, History, Intimidate",
+        "suggestedAtWillPowers": "viper’s strike, wolf pack tactics",
+        "suggestedEncounterPowers": "warlord’s favor",
+        "suggestedDailyPowers": "lead the attack"
+      },
+      "inspiringWarlord": {
+        "overview": "Your leadership takes the form of quick commands, cunning strategies, and tactical superiority. Your powers guide your allies to extra and more powerful attacks, as well as helping them move quickly in combat situations. You also assist your allies by moving your enemies around or knocking them prone. You use Strength for your attack powers, so make that your best ability score. Intelligence is secondary, because your Intelligence determines just how effective a leader you are. Charisma should be your third best score, so you can dabble in other warlord powers and to improve your Will defense. Select powers that make the best use of your high Intelligence score.",
+        "classFeature": "",
+        "suggestedFeat": "Tactical Assault (Human feat: Weapon Focus)",
+        "suggestedSkills": "Endurance, Heal, History, Intimidate",
+        "suggestedAtWillPowers": "viper’s strike, wolf pack tactics",
+        "suggestedEncounterPowers": "warlord’s favor",
+        "suggestedDailyPowers": "lead the attack"
+      },
+      "resourcefulWarlord": {
+        "overview": "Your leadership takes the form of quick commands, cunning strategies, and tactical superiority. Your powers guide your allies to extra and more powerful attacks, as well as helping them move quickly in combat situations. You also assist your allies by moving your enemies around or knocking them prone. You use Strength for your attack powers, so make that your best ability score. Intelligence is secondary, because your Intelligence determines just how effective a leader you are. Charisma should be your third best score, so you can dabble in other warlord powers and to improve your Will defense. Select powers that make the best use of your high Intelligence score.",
+        "classFeature": "",
+        "suggestedFeat": "Tactical Assault (Human feat: Weapon Focus)",
+        "suggestedSkills": "Endurance, Heal, History, Intimidate",
+        "suggestedAtWillPowers": "viper’s strike, wolf pack tactics",
+        "suggestedEncounterPowers": "warlord’s favor",
+        "suggestedDailyPowers": "lead the attack"
+      },
+      "skirmishingWarlord": {
+        "overview": "Your leadership takes the form of quick commands, cunning strategies, and tactical superiority. Your powers guide your allies to extra and more powerful attacks, as well as helping them move quickly in combat situations. You also assist your allies by moving your enemies around or knocking them prone. You use Strength for your attack powers, so make that your best ability score. Intelligence is secondary, because your Intelligence determines just how effective a leader you are. Charisma should be your third best score, so you can dabble in other warlord powers and to improve your Will defense. Select powers that make the best use of your high Intelligence score.",
+        "classFeature": "",
+        "suggestedFeat": "Tactical Assault (Human feat: Weapon Focus)",
+        "suggestedSkills": "Endurance, Heal, History, Intimidate",
+        "suggestedAtWillPowers": "viper’s strike, wolf pack tactics",
+        "suggestedEncounterPowers": "warlord’s favor",
+        "suggestedDailyPowers": "lead the attack"
+      },
+      "tacticalWarlord": {
+        "overview": "Your leadership takes the form of quick commands, cunning strategies, and tactical superiority. Your powers guide your allies to extra and more powerful attacks, as well as helping them move quickly in combat situations. You also assist your allies by moving your enemies around or knocking them prone. You use Strength for your attack powers, so make that your best ability score. Intelligence is secondary, because your Intelligence determines just how effective a leader you are. Charisma should be your third best score, so you can dabble in other warlord powers and to improve your Will defense. Select powers that make the best use of your high Intelligence score.",
+        "classFeature": "",
+        "suggestedFeat": "Tactical Assault (Human feat: Weapon Focus)",
+        "suggestedSkills": "Endurance, Heal, History, Intimidate",
+        "suggestedAtWillPowers": "viper’s strike, wolf pack tactics",
+        "suggestedEncounterPowers": "warlord’s favor",
+        "suggestedDailyPowers": "lead the attack"
+      }
+    }
+  },
+  "classFeatures": {
+    "archerWarlord": "When you choose the Archer Warlord class feature, you lose proficiency with chainmail and light shields. You gain proficiency with military ranged weapons. In addition, when you make a ranged basic attack with a bow, you can use Strength instead of Dexterity for the attack roll and the damage roll.",
+    "battlefrontLeader": "This class feature replaces your Combat Leader class feature. &nbsp;&nbsp;&nbsp;&nbsp;You gain proficiency with heavy shields, and you gain the battlefront shift power.",
+    "cannyLeader": "This class feature replaces your Combat Leader class feature. &nbsp;&nbsp;&nbsp;&nbsp;You and any ally within 10 squares of you who can see and hear you gain a +2 bonus to Insight checks and Perception checks.",
+    "combatLeader": "You and each ally within 10 squares who can see and hear you gain a +2 power bonus to initiative.",
+    "commandingPresence": {
+      "overview": "Choose one of the following presence benefits below. The choice you make also provides bonuses to certain warlord powers. Individual powers detail the effects (if any) your Commanding Presence selection has on them.",
+      "options": {
+        "bravuraPresence": "When an ally who can see you spends an action point to take an extra action and uses the action to make an attack, the ally can choose to take advantage of this feature before the attack roll. If the ally chooses to do so and the attack hits, the ally can either make a basic attack or take a move action after the attack as a free action. If the attack misses, the ally grants combat advantage to all enemies until the end of his or her next turn.",
+        "insightfulPresence": "When any ally who can see you spends an action point to take an extra action, that ally gains a bonus to all defenses equal to half your Wisdom modifier or half your Charisma modifier until the start of his or her next turn.",
+        "inspiringPresence": "When an ally who can see you spends an action point to take an extra action, that ally also regains hit points equal to one-half your level + your Charisma modifier. &nbsp;&nbsp;&nbsp;&nbsp;If the ally can see multiple warlord allies who have this class feature, the ally regains hit points from only one of them (the ally’s choice).",
+        "resourcefulPresence": "When an ally who can see you spends an action point to take an extra action and uses the action to make an attack, that attack gains a bonus to damage equal to one-half your level + your Intelligence modifier. If the attack hits no target, the ally gains temporary hit points equal to one-half your level + your Charisma modifier.",
+        "skirmishingPresence": "When an ally who can see you spends an action point to make an attack, that ally can use a free action to shift a number of squares equal to your Intelligence or Wisdom modifier before or after the attack.",
+        "tacticalPresence": "When an ally you can see spends an action point to make an attack, the ally gains a bonus to the first attack roll of that attack. The bonus equals half your Intelligence modifier. &nbsp;&nbsp;&nbsp;&nbsp;If multiple warlord allies who have this class feature can see the ally, he or she gains the bonus from only one of them (the ally’s choice)."
+      }
+    },
+    "inspiringWord": "Using the inspiring word power, warlords can grant their comrades additional resilience with nothing more than a shout of encouragement."
+  }
+}

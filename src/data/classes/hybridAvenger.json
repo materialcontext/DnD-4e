@@ -1,0 +1,31 @@
+{
+  "id": "'439",
+  "name": "Hybrid Avenger",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Wisdom, Dexterity, Intelligence ",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "implement:": "Holy symbols",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 7+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Acrobatics (Dex), Athletics (Str), Endurance (Con), Heal (Wis), Intimidate (Cha), Perception (Wis), Religion (Int), Stealth (Dex), Streetwise (Cha).",
+    "classFeatures:": "Oath of Enmity (Hybrid)",
+    "hybridTalentOptions": ": Armor of Faith, Avenger\\'s Censure (Hybrid) or Channel Divinity (Hybrid Avenger)."
+  },
+  "classText": "You blend secret monastic training with other talents to become  a unique servant of the gods. Do your vows represent an earlier stage of your life, all but left behind, or a newfound mission? As a hybrid avenger, you pursue your foes with great skill, but you must sacrifice some of your offensive and defensive capabilities to dabble in a second class.",
+  "classFeatures": {
+    "oathOfEnmity(hybrid)": "You gain the avenger power oath of enmity. The power functions as normal, except that you can apply the effect only when you make a melee attack using an avenger power or an avenger paragon path power.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "armorOfFaith": "The favor of your deity wards you from harm. While you are wearing cloth armor or no armor and aren’t using a shield, you gain a +3 bonus to AC.",
+    "avenger\\'sCensure(hybrid)": "This class feature functions as the avenger class feature, except that the bonus to damage rolls applies only to your avenger powers and avenger paragon path powers.",
+    "channelDivinity(hybridAvenger)": "This class feature functions as the avenger class feature, except that you start with a single avenger Channel Divinity power of your choice."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "'722",
+  "name": "Wizard (Mage)",
+  
+  
+  
+  "refSource": "Heroes of the Fallen Lands",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Intelligence; Constitution, Wisdom, or Charisma",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Dagger, quarterstaff.",
+    "implement:": "Orbs, staffs, wands",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 10+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 4",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Arcana. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "classFeatures:": "Level 1 Apprentice Mage, Level 1 Mage Daily Powers, Level 1 Mage Encounter Powers, Mage At-Will Powers, Mage Cantrips, Mage\\'s Spellbook, Magic Missile."
+  },
+  "classText": "A mage is a specialized wizard, a spellcaster who focuses on the tenets of a particular school of magic. This specialization makes each mage distinctive. After all, a mage who casts evocation spells presents a very different picture to the world from a mage who has mastered the art of illusion or enchantment. Mages tend to approach arcane magic with a more scholarly bent than other wizards, and that’s saying a lot. Don’t expect to find adventuring mages hidden away in dusty towers, however. They hit the ground running, ready to explore every dungeon and ancient ruin in search of lore and knowledge that will increase their understanding of everything arcane—and thereby increase their personal power. The ancient traditions of the schools have been handed down since the first mortals began to dabble in arcane magic. What started as techniques and methods of training between masters and apprentices eventually became more institutionalized, and eventually actual academies of arcane study sprang up in the world and even among the eladrin of the Feywild. In time, single towers devoted to a single arcane discipline gave way to grand academies where illusion magic was taught alongside evocation magic. Today, where and how arcane magic is taught depends on where you happen to be. On the borderlands, in places such as Fallcrest, solitary mages pass on their knowledge to one or two apprentices at a time. In larger settlements, such as the city of Nera, academies are dedicated to the training of mages in all of the schools of magic.",
+  "classFeatures": {
+    "enchantmentApprentice": "When one of your arcane enchantment powers allows you to pull, push, or slide a creature, the maximum distance of the forced movement increases by 2 squares.",
+    "evocationApprentice": "When you roll damage for an arcane evocation power, if any of the dice come up with a result of 1, pick one of them, reroll it, and use the new result.",
+    "illusionApprentice": "When you hit a target with an arcane illusion power, the target takes a -2 penalty to the next attack roll it makes against you before the end of your next turn.",
+    "necromancyApprentice": "When you hit at least one target with an arcane necromancy attack power, you gain 2 temporary hit points.",
+    "nethermancyApprentice": "Creatures hit by your arcane nethermancy attack powers treat enemies more than 2 squares away from them as having partial concealment until the end of your next turn.",
+    "pyromancyApprentice": "You gain a +1 bonus to damage rolls with arcane fire attacks. This bonus increases to +2 at 11th level and +3 at 21st level. Additionally, your attacks ignore fire resistance.",
+    "level1MageDailyPowers": "You add two of the following powers to your spellbook.",
+    "level1MageEncounterPowers": "You add two of the following powers to your spellbook.",
+    "mageAt-willPowers": "You gain two of the following powers of your choice.",
+    "mageCantrips": "You gain three of the following powers of your choice.",
+    "mage\\'sSpellbook": "At the end of each of your extended rests, you can prepare encounter attack powers, daily attack powers, and utility powers from your spellbook. These are the powers that you can use during that day, in addition to your at-will attack powers, cantrips, and nonwizard powers, such as a racial power. If you do not prepare powers from your spellbook after an extended rest (for example, if you do not have access to your spellbook), you can use the same powers you had prepared on the previous day. &nbsp;&nbsp;&nbsp;&nbsp;Find your level on the Spells Prepared per Day table. The row corresponding to your level indicates how many encounter attack powers, daily attack powers, and utility powers you are allowed to prepare each day. You cannot prepare more than one encounter attack power, daily attack power, or utility power of any given level on the same day. For example, a 14th-level mage who has taken the enigmatic mage paragon path can prepare four encounter attack powers per day. Her spellbook contains multiple encounter attack powers at various levels. She can prepare four powers from any of the levels, as long as none of the prepared powers are of the same level.",
+    "magicMissile": "You gain the magic missile power.",
+    "enchantmentApprentice(secondary)": "When one of your arcane enchantment powers allows you to pull, push, or slide a creature, the maximum distance of the forced movement increases by 2 squares.",
+    "evocationApprentice(secondary)": "When you roll damage for an arcane evocation power, if any of the dice come up with a result of 1, pick one of them, reroll it, and use the new result.",
+    "illusionApprentice(secondary)": "When you hit a target with an arcane illusion power, the target takes a -2 penalty to the next attack roll it makes against you before the end of your next turn.",
+    "enchantmentExpert": "You gain a +2 bonus to Bluff checks and Diplomacy checks.",
+    "evocationExpert": "You gain a +2 bonus to Endurance checks and Intimidate checks.",
+    "illusionExpert": "You gain a +2 bonus to Bluff checks and Stealth checks.",
+    "necromancyExpert": "You gain a +2 bonus to Athletics checks and Endurance checks.",
+    "nethermancyExpert": "You gain a +2 bonus to Intimidate checks and Stealth checks.",
+    "pyromancyExpert": "You gain a +2 bonus to Bluff checks and Intimidate checks.",
+    "level5MageDailyPowers": "You add two of the following powers to your spellbook.",
+    "enchantmentExpert(secondary)": "You gain a +2 bonus to Bluff checks and Diplomacy checks.",
+    "evocationExpert(secondary)": "You gain a +2 bonus to Endurance checks and Intimidate checks.",
+    "illusionExpert(secondary)": "You gain a +2 bonus to Bluff checks and Stealth checks.",
+    "masterMage": "Choose one of the schools of magic for which you have the Expert Mage benefit. You gain the Master Mage benefit associated with the chosen school.",
+    "enchantmentMaster": "When one of your arcane enchantment powers forces a creature to make an attack, that creature gains a +2 power bonus to the attack roll.",
+    "evocationMaster": "When you use an arcane evocation power that deals one or more specific types of damage, you ignore a target’s resistance to any of those types of damage. You do not ignore any immunities the target might have.",
+    "illusionMaster": "When you hit or miss a target using an arcane illusion power, the target grants combat advantage for the next attack made against it before the end of your next turn.",
+    "necromancyMaster": "Your arcane necromancy attack powers ignore necrotic resistance.",
+    "nethermancyMaster": "While you have any concealment against a creature, you have combat advantage against it.",
+    "pyromancyMaster": "When you use an area or close arcane fire attack power that is not already a zone, the area of the attack becomes a zone that lasts until the end of your next turn. Creatures that end their turns within the zone take fire damage equal to your Constitution modifier."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "'896",
+  "name": "Hybrid Warlock (Binder)",
+  
+  
+  
+  "refSource": "Dragon Magazine 402",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Charisma, Dexterity, Intelligence",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Rods, wands",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Arcana (Int), Bluff (Cha), Dungeoneering (Wis), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int), Streetwise (Cha), Thievery (Dex).",
+    "classFeatures:": "Pact Boon (Hybrid Binder), Shadow Twist (Hybrid)",
+    "hybridTalentOptions": ": Shadow Walk."
+  },
+  "classText": "Binders dabble in strange magic and rituals to gain their power. Many of them have an innate curiosity that leads them down the dilettante’s path. They cultivate a sense of discovery and experimentation that allows them to combine disparate talents into a unique package.",
+  "classFeatures": {
+    "pactBoon(hybridBinder)": "Instead of choosing a 1st-level warlock at-will attack power, you gain an at-will attack power and a utility power associated with your pact.",
+    "shadowTwist(hybrid)": "You gain a +1 bonus to ranged attack rolls and area attack rolls against any enemy that has no other creature adjacent to it when using warlock powers and warlock paragon path powers.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "shadowWalk": "On your turn, if you move at least 3 squares away from where you started your turn, you gain concealment until the end of your next turn."
+  }
+}

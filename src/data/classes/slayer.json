@@ -1,0 +1,31 @@
+{
+  "id": "'716",
+  "name": "Fighter (Slayer)",
+  
+  
+  
+  "refSource": "Heroes of the Fallen Lands",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Strength, Dexterity",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+2 Fortitude.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 9+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 3 trained skills at 1st level.",
+    "classFeatures:": "Heroic Slayer, Power Strike, Slayer Fighter Stances, Weapon Talent."
+  },
+  "classText": "When tales are told of the most legendary warriors, slayers are the heroes those stories speak of. Slayers are elite shock troops, standing at the forefront of battle with a combination of strong armor, advanced tactical cunning, and a mastery of withering two-handed weapon attacks. On the borderlands of civilization, the common folk are beset on all sides by a multitude of foes. Goblin invaders can outnumber a town’s defenders five to one, and powerful giants and trolls can easily shrug off a spear thrust or a crossbow bolt. The slayer is trained to correct this imbalance. By pairing the heaviest melee weapons with fearless combat tactics, a slayer can score deadly blows against larger enemies or hew through mobs of lesser foes. Slayers come from all backgrounds and societies. Some are warriors with only the most basic training, relying on raw fury and instinct to overwhelm their enemies. Others might be former soldiers whose homes have been destroyed like so many others on the borderlands, and who have sworn to use their martial skills for vengeance. The slayer combines the best traits of a defender and a striker, with superior defenses backed by devastating weapon attacks. This class grants heavy armor proficiency and plenty of hit points, making a slayer the ideal warrior to stand at the front line of battle.",
+  "classFeatures": {
+    "powerStrike": "You gain the power strike power.",
+    "slayerFighterStances": "You gain two of the following powers of your choice.",
+    "weaponTalent": "You gain a +1 bonus to the attack rolls of weapon attacks.",
+    "slayerWeaponSpecialization": "You gain one of the following benefits of your choice.",
+    "brutalAxe": "When you use power strike with a two-handed axe, you can knock the target prone.",
+    "rapidQuarterstaff": "When you use power strike with a staff, all enemies adjacent to you other than the target of power strike suffer damage equal to your Dexterity modifier.",
+    "sweepingSword": "When you use power strike with a two-handed blade, you can slide each enemy adjacent to you 1 square."
+  }
+}

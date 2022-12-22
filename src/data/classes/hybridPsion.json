@@ -1,0 +1,32 @@
+{
+  "id": "'610",
+  "name": "Hybrid Psion",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Psionic. ",
+    "keyAbilities:": "Intelligence, Charisma, Wisdom",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Orbs, staffs",
+    "bonusToDefense:": "+1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Arcana (Int), Bluff (Cha), Diplomacy (Cha), Dungeoneering (Wis), History (Int), Insight (Wis), Intimidate (Cha), Perception (Wis).",
+    "classFeatures:": "Discipline Focus (Hybrid), Psionic Augmentation (Hybrid)",
+    "hybridTalentOptions": ": Expanded Discipline Focus."
+  },
+  "classText": "You can bend your enemies’ wills to your own, yet that is not enough. What led you to meld the psion’s powers of mental control with the powers of another class? Have you discovered a secret connection between psionics and another power source? Or do your mental talents represent the ace up your sleeve, an unexpected well of tricks that supplement your other abilities?  As a hybrid psion, you forgo that class’s innate talent with rituals and minor psionic powers to gain features and powers from a second class.",
+  "classFeatures": {
+    "disciplineFocus(hybrid)": "Choose a Discipline Focus option. If you choose Telekinesis Focus, you gain the far hand power. If you choose Telepathy Focus, you gain the send thoughts power.",
+    "telekinesisFocus(hybrid)": "You gain the power far hand.",
+    "telepathyFocus(hybrid)": "You gain the power send thoughts.",
+    "psionicAugmentation(hybrid)": "This class feature functions as the class feature, except that your power point total varies depending on your selection of powers. See “Psionic Augmentation and Hybrid Characters” in the glossary to determine the number of power points you have.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "expandedDisciplineFocus": "If you have Telekinesis Focus, you gain the forceful push power. If you have Telepathy Focus, you gain the distract power."
+  }
+}

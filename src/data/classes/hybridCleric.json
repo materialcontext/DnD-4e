@@ -1,0 +1,31 @@
+{
+  "id": "'352",
+  "name": "Hybrid Cleric",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Leader. ",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Wisdom, Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Holy symbols",
+    "bonusToDefense:": "+1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Arcana (Int), Diplomacy (Cha), Heal (Wis), History (Int), Insight (Wis), Religion (Int).",
+    "classFeatures:": "Healer's Lore, Healing Word (Hybrid)",
+    "hybridTalentOptions": ": Channel Divinity (Hybrid Cleric) or Cleric Armor Proficiency."
+  },
+  "classText": "By learning talents beyond those taught to the typical cleric, you have honed yourself into a distinctive divine leader. Your cleric training might represent a youthful devotion or a newly discovered dedication to a god.  As a hybrid cleric, you offer useful healing to a group, although less than a full-fledged cleric could. You also give up the versatility of the Channel Divinity and Ritual Casting class features in order to master new talents.",
+  "classFeatures": {
+    "healer'sLore": "When you restore hit points to a creature by using a cleric power that has the healing keyword, add your Wisdom modifier to the hit points regained, but only if the healing involves the creature spending a healing surge.",
+    "healingWord(hybrid)": "You gain the power healing word. The power functions as normal, except that you can use it only once per encounter.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "channelDivinity(hybridCleric)": "This class feature functions as the cleric class feature, except that you start with a single cleric Channel Divinity power of your choice.",
+    "clericArmorProficiency": "You gain proficiency with leather armor, hide armor, and chainmail."
+  }
+}

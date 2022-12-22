@@ -1,0 +1,75 @@
+{
+  "id": "'7",
+  "name": "Warlock",
+  
+  
+  
+  "refSource": "Player's Handbook, Class Compendium",
+  "classTraits": {
+    "role:": "Striker. Your attack powers are highly damaging and often weaken or hamper the target in some way. You can elude attacks by flying, teleporting, or turning invisible.",
+    "powerSource:": "Arcane. You gain your magical power from a pact you forge with a powerful, supernatural force or an unnamed entity.",
+    "keyAbilities:": "Charisma, Constitution, Intelligence",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Rods, wands",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "buildOptions:": "Deceptive Warlock, Scourge Warlock, Sorcerer-King Pact.",
+    "classFeatures:": "Eldritch Blast, Eldritch Pact, Prime Shot, Shadow Walk, Warlock's Curse."
+  },
+  "classText": "Warlocks channel arcane might wrested from primeval entities. They commune with infernal intelligences and fey spirits, scour enemies with potent blasts of eldritch power, and bedevil foes with hexing curses. Armed with esoteric secrets and dangerous lore, warlocks are clever and resourceful foes. However you came to your arcane knowledge, you need not accept the poor reputation warlocks sometimes endure. You could be a libram-toting scholar captivated by ominous lore, a foot-loose wanderer searching for elusive ultimate truths, a devil-touched hunter using infernal spells to eliminate evil, or even a black-clad mercenary who uses sinister trappings to discourage prying strangers and unwanted attention. On the other hand, you could be a true diabolist using your gifts to tyrannize the weak—some warlocks unfortunately are exactly that. The pacts are complete. The rites have concluded. The signs are drawn in blood, and the seals are broken. Your destiny beckons.",
+  "suggestions": {
+    "overview": "The two basic builds of warlock are the deceptive warlock and the scourge warlock. Warlocks rely on Charisma, Constitution, and Intelligence. No warlock powers or class features depend on Strength, Dexterity, or Wisdom.",
+    "suggestions": {
+      "deceptiveWarlock": {
+        "overview": "On Athas, many templars swear an oath to a sorcerer-king in exchange for arcane power. The sorcerer-king pact reflects the training and magical transformations that a sorcerer-king might provide to an individual whom he or she deems worthy. A warlock who has this pact can draw on the reserves of power that a sorcerer-king commands.",
+        "classFeature": "",
+        "suggestedFeat": "Scornful Denial",
+        "suggestedSkills": "Arcana, Bluff, Insight, Streetwise",
+        "suggestedAtWillPowers": "eldritch blast, hand of blight",
+        "suggestedEncounterPowers": "cruel bounty",
+        "suggestedDailyPowers": "ashen scourge"
+      },
+      "scourgeWarlock": {
+        "overview": "On Athas, many templars swear an oath to a sorcerer-king in exchange for arcane power. The sorcerer-king pact reflects the training and magical transformations that a sorcerer-king might provide to an individual whom he or she deems worthy. A warlock who has this pact can draw on the reserves of power that a sorcerer-king commands.",
+        "classFeature": "",
+        "suggestedFeat": "Scornful Denial",
+        "suggestedSkills": "Arcana, Bluff, Insight, Streetwise",
+        "suggestedAtWillPowers": "eldritch blast, hand of blight",
+        "suggestedEncounterPowers": "cruel bounty",
+        "suggestedDailyPowers": "ashen scourge"
+      },
+      "sorcerer-kingPact": {
+        "overview": "On Athas, many templars swear an oath to a sorcerer-king in exchange for arcane power. The sorcerer-king pact reflects the training and magical transformations that a sorcerer-king might provide to an individual whom he or she deems worthy. A warlock who has this pact can draw on the reserves of power that a sorcerer-king commands.",
+        "classFeature": "",
+        "suggestedFeat": "Scornful Denial",
+        "suggestedSkills": "Arcana, Bluff, Insight, Streetwise",
+        "suggestedAtWillPowers": "eldritch blast, hand of blight",
+        "suggestedEncounterPowers": "cruel bounty",
+        "suggestedDailyPowers": "ashen scourge"
+      }
+    }
+  },
+  "classFeatures": {
+    "eldritchBlast": "All warlocks know the eldritch blast at-will power. This power can be used as a basic attack. You gain this power as well as another at-will power as determined by your Eldritch Pact.",
+    "eldritchPact": {
+      "overivew": "You have forged a pact with mysterious entities that grant you your arcane powers. Choose one pact. The pacts presented in the Player’s Handbook are the fey pact, the infernal pact, and the star pact. Other products present additional pacts. The pact you choose determines the following warlock abilities: &nbsp;&nbsp;&nbsp;&nbsp;At-Will Spells: Your pact determines one of the at-will spells you know. &nbsp;&nbsp;&nbsp;&nbsp;Pact Boon: Each pact includes a pact boon. The pact boon is a granted power you can use to further hex your enemies. &nbsp;&nbsp;&nbsp;&nbsp;The pact you take also provides bonuses to certain warlock powers. Individual powers detail the effects (if any) your Eldritch Pact selection has on them.",
+      "options": {
+        "darkPact": "You have forged a pact with the dark beings that lurk in the shadows of the drow civilization. Spells of darkness, poison, madness, and spite fill your mind. You might turn your powers to noble ends, but you always face the temptation to enhance your spells by hurting your friends—just a little.  &nbsp;&nbsp;&nbsp;&nbsp;Spiteful Glamor: You know the spiteful glamor at-will spell. &nbsp;&nbsp;&nbsp;&nbsp;Darkspiral Aura: You have the Darkspiral Aura pact boon. As your cursed enemies fall in battle, your  Darkspiral Aura grows in power. You can unleash it on an enemy, blasting its mind and body. &nbsp;&nbsp;&nbsp;&nbsp;When an enemy under your Warlock’s Curse is reduced to 0 hit points or fewer, add 1 to your Darkspiral Aura. Your Darkspiral Aura has a starting value of 0, and it resets to 0 when you take a short rest or an extended rest. &nbsp;&nbsp;&nbsp;&nbsp;When an enemy makes a melee attack or a ranged attack against you, you can use your Darkspiral Aura as an immediate interrupt, dealing 1d6 necrotic and psychic damage to that enemy for each point of your Darkspiral Aura’s current value. If this attack deals less than 12 damage, the value of your Darkspiral Aura becomes 0. If this attack deals 12 damage or more, you can cause the enemy to be weakened for its attack (which means the attack deals half damage), and the value of your Darkspiral Aura becomes 1. &nbsp;&nbsp;&nbsp;&nbsp;At 11th level, the damage you deal increases to 1d8 per point of your Darkspiral Aura’s current value, and at 21st level the damage increases to 1d10 per point of your Darkspiral Aura’s current value.",
+        "elementalPact": "Elemental Affinity: After each rest, roll a d10 to determine your current elemental affinity. You can choose the damage type when you use your second wind, but the type changes again when you rest. <table><tr><th>d10</th><th>Affinity</th></tr><tr><td>1-2</td><td>Acid</td></tr><tr><td>3-4</td><td>Cold</td></tr><tr><td>5-6</td><td>Fire</td></tr><tr><td>7-8</td><td>Lightning</td></tr><tr><td>9-10</td><td>Thunder</td></tr></table> On your turn, when you use an arcane attack power that deals force, necrotic, poison, or psychic damage, you can change the damage type to match that of your current elemental affinity. Your elemental affinity’s damage type replaces each instance of force, necrotic, poison, and psychic damage that the power deals. &nbsp;&nbsp;&nbsp;&nbsp;Chromatic Bolt: You gain the chromatic bolt power. &nbsp;&nbsp;&nbsp;&nbsp;Accursed Affinity: You have the Accursed Affinity pact boon.",
+        "feyPact": "You have forged a bargain with ancient, amoral powers of the Feywild. Some are primitive earth spirits, grim and menacing; some are capricious wood, sky, or water spirits; and others are incarnations of seasons or natural forces who roam the faerie realm like wild gods. They bestow magic that ranges from feral and savage to wondrous and enchanting. &nbsp;&nbsp;&nbsp;&nbsp;Eyebite: You know the eyebite spell. &nbsp;&nbsp;&nbsp;&nbsp;Misty Step: You have the Misty Step pact boon. You instantly transform into silver mist that streams a short distance and reforms, allowing you to flee or maneuver to set up a deadly attack. &nbsp;&nbsp;&nbsp;&nbsp;When an enemy under your Warlock’s Curse is reduced to 0 hit points or fewer, you can immediately teleport 3 squares as a free action.",
+        "infernalPact": "Long ago a forgotten race of devils created a secret path to power and taught it to the tieflings of old to weaken their fealty to Asmodeus. In his wrath, Asmodeus destroyed the scheming devils and struck their very names from the memory of all beings—but you dare to study their perilous secrets anyway. &nbsp;&nbsp;&nbsp;&nbsp;Hellish Rebuke: You know the hellish rebuke spell. &nbsp;&nbsp;&nbsp;&nbsp;Dark One’s Blessing: You have the Dark One’s Blessing pact boon. You instantly gain vitality from a cursed enemy when that enemy falls. &nbsp;&nbsp;&nbsp;&nbsp;When an enemy under your Warlock’s Curse is reduced to 0 hit points or fewer, you immediately gain temporary hit points equal to your level.",
+        "sorcerer-kingPact": "You have pledged yourself to the service of a sorcerer-king. In return, your master transformed you into an arcane spellcaster by means of eldritch rituals. What you do with this new power is up to you—the sorcerer-king has no special ability to observe you or to strip you of your power. However, all sorcerer-kings are suspicious and ruthless, so if you defy one, you do so at your own peril. &nbsp;&nbsp;&nbsp;&nbsp;Hand of Blight: You gain the hand of blight power. &nbsp;&nbsp;&nbsp;&nbsp;Fell Scorn: You have the Fell Scorn pact boon, which enables you to draw upon your sorcerer-king’s magical prowess and enhance a power by spending your fell might. You start each encounter with your fell might unspent. You must decide whether or not to spend your fell might when you choose to use a power, before you make any attack rolls or apply any of that power’s effects. &nbsp;&nbsp;&nbsp;&nbsp;When a creature affected by your Warlock’s Curse drops to 0 hit points, your pact boon triggers, restoring your fell might, which you can spend again during the encounter. If you already have your fell might available when a cursed creature drops to 0 hit points, you don’t gain a second use of it. You can have only one use of fell might available at one time.",
+        "starPact": "You have mastered the astrologer’s art, learning the secret names of the stars and gazing into the Far Realm beyond, gaining great power thereby. You can call upon powers that madden or terrify your enemies, manipulate chance and fate, or scour your foes with icy banes and curses drawn from beyond the night sky. &nbsp;&nbsp;&nbsp;&nbsp;Dire Radiance: You know the dire radiance spell. &nbsp;&nbsp;&nbsp;&nbsp;Fate of the Void: You have the Fate of the Void pact boon. Your curse intermingles with the lost vitality of a cursed enemy to reveal a glimpse of the future to you. &nbsp;&nbsp;&nbsp;&nbsp;When an enemy under your Warlock’s Curse is reduced to 0 hit points or fewer, you gain a +1 bonus to any single d20 roll you make before the end of your next turn (attack roll, saving throw, skill check, or ability check). If you don’t use this bonus by the end of your turn, it is lost. &nbsp;&nbsp;&nbsp;&nbsp;This bonus is cumulative; if three cursed enemies drop to 0 hit points or fewer before your next turn, you gain a +3 bonus to a d20 roll during your turn.",
+        "vestigePact": "You have forged relationships with vestiges—the remnants of powerful forces and entities that once exercised great authority or demonstrated awful capabilities. These remnants are diverse in their backgrounds and motives. As a vestige pact warlock, you can choose from between two or more vestige pacts to fuel your arcane power. Eyes of the Vestige: You know the eyes of the vestige spell. You gain an additional effect, referred to as an eyes of the vestige augment, associated with your active vestige (see below) when you make a successful attack with this power. Pact Boon: You have a pact boon associated with your active vestige. When an enemy under your Warlock’s Curse drops to 0 hit points or fewer, you gain the benefit of your active vestige’s pact boon."
+      }
+    },
+    "primeShot": "If none of your allies are nearer to your target than you are, you receive a +1 bonus to ranged attack rolls against that target. You do not gain this feature if you choose the Beast Mastery fighting style.",
+    "shadowWalk": "On your turn, if you move at least 3 squares away from where you started your turn, you gain concealment until the end of your next turn.",
+    "warlock'sCurse": "Once per turn you can use the Warlock\\'s Curse power.",
+    "implements": "Warlocks make use of rods and wands to help channel and direct their arcane powers. A warlock wielding a magic rod or wand can add its enhancement bonus to the attack rolls and the damage rolls of warlock powers, as well as warlock paragon path powers, that have the implement keyword. Without a rod or a wand, a warlock can still use these powers, but he or she doesn't gain the bonus provided by the magic implement.A pact blade, a special magic dagger, can also be used as an implement for warlock powers, as well as warlock paragon powers. These daggers are highly sought after by warlocks."
+  }
+}

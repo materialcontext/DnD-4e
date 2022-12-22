@@ -1,0 +1,88 @@
+{
+  "id": "'6",
+  "name": "Rogue (Scoundrel)",
+  
+  
+  
+  "refSource": "Player's Handbook, Class Compendium",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial. Cunning and furtive, you maneuver about the battlefield, evading attacks and countering with strikes of your own. You are at your best when you work with a defender to bring down tough opponents or another striker to set up flanking attacks.",
+    "keyAbilities:": "Dexterity; Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Dagger, hand crossbow, short sword, shuriken, sling.",
+    "bonusToDefense:": "+2 Reflex.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Stealth, Thievery. From the class skills list below, choose 4 more trained skills at 1st level.",
+    "buildOptions:": "Aerialist Rogue, Brawny Rogue, Cutthroat Rogue, Shadowy Rogue, Trickster Rogue.",
+    "classFeatures:": "First Strike, Rogue Tactics, Scoundrel Weapon Talent, Sharpshooter Talent, Sneak Attack."
+  },
+  "classText": "A fair fight is not in the scoundrel’s vocabulary. Scoundrels find success on the battlefield by using every trick at their disposal to deceive, mislead, and ambush their enemies. They draw on their many skills to give them an edge in combat, whether that edge enables them to snatch a treasure from a villain or leap away at the last moment to thwart an attack. Scoundrels are survivors, and they are not above getting their hands dirty to win the day. A scoundrel relies on clever planning and quick wits to survive. A thief focuses more broadly on acrobatics and unpredictable maneuvers. Scoundrels trade the thief ’s reliable tricks for a broader, more unpredictable range of abilities. These martial powers, or exploits, mirror the scoundrel’s preferred tactics and arise from a mix of training, improvisation, and skill. Some scoundrels favor punishing exploits, focusing on hitting hard and inflicting terrible injuries. Others use witty banter and feints to frustrate and misdirect opponents. Others still favor acrobatics, menace, or secrecy. Scoundrels are adventurers first and foremost. One might have learned the trade on the streets, might have developed his or her powers out of necessity after fate betrayed them, or could have been apprenticed to a master thief. Some scoundrels join adventuring parties for the promise of treasure and have few reservations about exploring dusty tombs and labyrinthine dungeons as long as there’s a reward on the other side. Not all scoundrels are that mercenary, however. There are things other than loot that are worth fighting for.",
+  "suggestions": {
+    "overview": "",
+    "suggestions": {
+      "aerialistRogue": {
+        "overview": "You like powers that deceive and misdirect your foes. You dart in and out of the fray in combat, dodging your enemies’ attacks or redirecting them to other foes. Most of your attack powers rely on Dexterity, so that should be your best ability score. Charisma is important for a few attacks, for Charisma-based skills you sometimes use in place of attacks, and for other effects that depend on successful attacks, so make Charisma your second-best score. Strength is useful if you want to choose powers intended for the other rogue build. Select the artful dodger rogue tactic. Look for powers that take advantage of your high Charisma score, as well as those that add to your trickster nature.",
+        "classFeature": "",
+        "suggestedFeat": "Backstabber (Human feat: Human Perseverance)",
+        "suggestedSkills": "Acrobatics, Bluff, Insight, Perception, Stealth, Thievery",
+        "suggestedAtWillPowers": "deft strike, sly flourish",
+        "suggestedEncounterPowers": "positioning strike",
+        "suggestedDailyPowers": "trick strike"
+      },
+      "brawnyRogue": {
+        "overview": "You like powers that deceive and misdirect your foes. You dart in and out of the fray in combat, dodging your enemies’ attacks or redirecting them to other foes. Most of your attack powers rely on Dexterity, so that should be your best ability score. Charisma is important for a few attacks, for Charisma-based skills you sometimes use in place of attacks, and for other effects that depend on successful attacks, so make Charisma your second-best score. Strength is useful if you want to choose powers intended for the other rogue build. Select the artful dodger rogue tactic. Look for powers that take advantage of your high Charisma score, as well as those that add to your trickster nature.",
+        "classFeature": "",
+        "suggestedFeat": "Backstabber (Human feat: Human Perseverance)",
+        "suggestedSkills": "Acrobatics, Bluff, Insight, Perception, Stealth, Thievery",
+        "suggestedAtWillPowers": "deft strike, sly flourish",
+        "suggestedEncounterPowers": "positioning strike",
+        "suggestedDailyPowers": "trick strike"
+      },
+      "cutthroatRogue": {
+        "overview": "You like powers that deceive and misdirect your foes. You dart in and out of the fray in combat, dodging your enemies’ attacks or redirecting them to other foes. Most of your attack powers rely on Dexterity, so that should be your best ability score. Charisma is important for a few attacks, for Charisma-based skills you sometimes use in place of attacks, and for other effects that depend on successful attacks, so make Charisma your second-best score. Strength is useful if you want to choose powers intended for the other rogue build. Select the artful dodger rogue tactic. Look for powers that take advantage of your high Charisma score, as well as those that add to your trickster nature.",
+        "classFeature": "",
+        "suggestedFeat": "Backstabber (Human feat: Human Perseverance)",
+        "suggestedSkills": "Acrobatics, Bluff, Insight, Perception, Stealth, Thievery",
+        "suggestedAtWillPowers": "deft strike, sly flourish",
+        "suggestedEncounterPowers": "positioning strike",
+        "suggestedDailyPowers": "trick strike"
+      },
+      "shadowyRogue": {
+        "overview": "You like powers that deceive and misdirect your foes. You dart in and out of the fray in combat, dodging your enemies’ attacks or redirecting them to other foes. Most of your attack powers rely on Dexterity, so that should be your best ability score. Charisma is important for a few attacks, for Charisma-based skills you sometimes use in place of attacks, and for other effects that depend on successful attacks, so make Charisma your second-best score. Strength is useful if you want to choose powers intended for the other rogue build. Select the artful dodger rogue tactic. Look for powers that take advantage of your high Charisma score, as well as those that add to your trickster nature.",
+        "classFeature": "",
+        "suggestedFeat": "Backstabber (Human feat: Human Perseverance)",
+        "suggestedSkills": "Acrobatics, Bluff, Insight, Perception, Stealth, Thievery",
+        "suggestedAtWillPowers": "deft strike, sly flourish",
+        "suggestedEncounterPowers": "positioning strike",
+        "suggestedDailyPowers": "trick strike"
+      },
+      "tricksterRogue": {
+        "overview": "You like powers that deceive and misdirect your foes. You dart in and out of the fray in combat, dodging your enemies’ attacks or redirecting them to other foes. Most of your attack powers rely on Dexterity, so that should be your best ability score. Charisma is important for a few attacks, for Charisma-based skills you sometimes use in place of attacks, and for other effects that depend on successful attacks, so make Charisma your second-best score. Strength is useful if you want to choose powers intended for the other rogue build. Select the artful dodger rogue tactic. Look for powers that take advantage of your high Charisma score, as well as those that add to your trickster nature.",
+        "classFeature": "",
+        "suggestedFeat": "Backstabber (Human feat: Human Perseverance)",
+        "suggestedSkills": "Acrobatics, Bluff, Insight, Perception, Stealth, Thievery",
+        "suggestedAtWillPowers": "deft strike, sly flourish",
+        "suggestedEncounterPowers": "positioning strike",
+        "suggestedDailyPowers": "trick strike"
+      }
+    }
+  },
+  "classFeatures": {
+    "firstStrike": "At the start of every encounter, you have combat advantage against any creatures that have not yet acted in that encounter.",
+    "rogueTactics": {
+      "overview": "You gain one of the benefits described below, depending on your choice of Rogue Tactics. Your choice also provides additional benefits to certain rogue powers, as detailed in those powers’ descriptions.",
+      "options": {
+        "artfulDodger": "You gain a bonus to AC against opportunity attacks. The bonus equals your Charisma modifier.",
+        "brutalScoundrel": "You gain a bonus to Sneak Attack damage. The bonus equals your Strength modifier.",
+        "cunningSneak": "You don’t take a penalty to Stealth checks for moving more than 2 squares, and you take a –5 penalty instead of a -10 penalty to Stealth checks for running.",
+        "ruthlessRuffian": "You are proficient with the club and the mace, and you can use those weapons with Sneak Attack or any rogue power or rogue paragon path power that normally requires a light blade. If you use a club or a mace to deliver an attack that has the rattling keyword, add your Strength modifier to the damage roll."
+      }
+    },
+    "scoundrelWeaponTalent": "When you wield a shuriken, your weapon damage die increases by one size. In addition, you gain a +1 bonus to weapon attack rolls with daggers.",
+    "sharpshooterTalent": "This class feature replaces the Rogue Weapon Talent class feature.",
+    "sneakAttack": "When you make an attack with a light blade, a hand crossbow, a shortbow, or a sling and hit an enemy granting combat advantage to you, that enemy takes extra damage based on your level (see the Sneak Attack table). You can deal this extra damage only once per turn."
+  }
+}

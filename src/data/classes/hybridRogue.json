@@ -1,0 +1,36 @@
+{
+  "id": "'356",
+  "name": "Hybrid Rogue",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Dexterity, Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Dagger, hand crossbow, short sword, shuriken, sling.",
+    "bonusToDefense:": "+1 Reflex.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Acrobatics (Dex), Athletics (Str), Bluff (Cha), Dungeoneering (Wis), Insight (Wis), Intimidate (Cha), Perception (Wis), Stealth (Dex), Streetwise (Cha), Thievery (Dex).",
+    "classFeatures:": "Sneak Attack (Hybrid)",
+    "hybridTalentOptions": ": First Strike, Rogue Combat Talent, Rogue Tactics (Hybrid)."
+  },
+  "classText": "You know the value of a well-placed knife, even if you don’t bring the rogue’s full complement of talents to every situation. The most common backstory for a hybrid rogue is a childhood spent on the mean streets of a city, learning enough tricks to stay alive and out of prison. Alternatively, you might have been a respected member of society once, driven to a rogue’s life by cruel fate or the machinations of your enemies. You can be just as sneaky and deadly as a nonhybrid rogue, but you must sacrifice some rogue options to gain those of another class.",
+  "classFeatures": {
+    "sneakAttack(hybrid)": "This class feature functions as the rogue class feature, except that you can deal the extra damage only when you hit with a rogue power or a rogue paragon path power.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "firstStrike": "At the start of every encounter, you have combat advantage against any creatures that have not yet acted in that encounter.",
+    "rogueCombatTalent": "When you select this option, you choose one of the following class features.",
+    "rogueWeaponTalent(hybrid)": "When you wield a shuriken, your weapon damage die increases by one size. When you wield a dagger, you gain a +1 bonus to attack rolls.",
+    "sharpshooterTalent(hybrid)": "This class feature replaces the Rogue Weapon Talent class feature.",
+    "rogueTactics(hybrid)": "Rogues operate in a variety of ways. Some rogues use their natural charm and cunning trickery to deceive foes. Others rely on brute strength to overcome their enemies. &nbsp;&nbsp;&nbsp;&nbsp; Choose one of the following tactics below. The choice you make also provides bonuses to certain rogue powers. Individual powers detail the effects (if any) your Rogue Tactics selection has on them.",
+    "artfulDodger(hybrid)": "You gain a bonus to AC equal to your Charisma modifier against opportunity attacks.",
+    "brutalScoundrel(hybrid)": "You gain a bonus to Sneak Attack damage equal to your Strength modifier.",
+    "cunningSneak(hybrid)": "You don’t take a penalty to Stealth checks for moving more than 2 squares, and you take a –5 penalty instead of a -10 penalty to Stealth checks for running.",
+    "ruthlessRuffian(hybrid)": "You are proficient with the club and the mace, and you can use those weapons with Sneak Attack or any rogue power or rogue paragon path power that normally requires a light blade. If you use a club or a mace to deliver an attack that has the rattling keyword, add your Strength modifier to the damage roll."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "'148",
+  "name": "Barbarian",
+  
+  
+  
+  "refSource": "Player's Handbook 2",
+  "classTraits": {
+    "role:": "Striker. You use powerful two-handed weapons to deal serious damage to your enemies. Your physical power and daunting presence can cause foes to cower before you, and you can temporarily increase your abilities by harnessing great bursts of terrifying rage. Depending on your choice of class features and powers, you lean toward either defender or leader as a secondary role.",
+    "powerSource:": "Primal. You are a primal champion, a warrior devoted to the natural world and an embodiment of your tribe’s fierce traditions.",
+    "keyAbilities:": "Strength, Constitution, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, military melee.",
+    "bonusToDefense:": "+2 Fortitude.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 8+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 3 trained skills at 1st level.",
+    "buildOptions:": "Rageblood Barbarian, Thaneborn Barbarian, Thunderborn Barbarian, Whirling Barbarian.",
+    "classFeatures:": "Barbarian Agility, Feral Might, Rage Strike, Rampage."
+  },
+  "classText": "Barbarians are savage warriors who deal out powerful blows from their mighty weapons. They charge from foe to foe and seldom feel the pain of an enemy’s strike. For barbarians’ foes, the moments of greatest terror come when barbarians call upon primal forces to lend power to their raging spirits. These rages, although temporary, give a barbarian incredible powers, a combination of skill, willpower, and a legacy of ancient tribal rituals. As a barbarian, you have a link to powerful nature spirits and other primal forces bound to the warriors of your tribe by the songs and totems of your legacy. These spirits lend energy to your rages, transforming you into a devastating force on the battlefield. As you become more experienced, these rages transcend mortal limitations, manifesting directly as waves of elemental power or gifting you with supernatural recuperative powers. When the heat of battle is upon you, will you respond with a sudden charge that fells with one mighty swing of your weapon, or with a prolonged rage that leaves destroyed foes in your wake?",
+  "suggestions": {
+    "overview": "You can choose any barbarian powers you like for your character, though many barbarians favor one of two builds: the rageblood barbarian or the thaneborn barbarian. All barbarians rely on Strength. Barbarians also benefit from a high Constitution or Charisma, depending on which expression of the class they favor.",
+    "suggestions": {
+      "ragebloodBarbarian": {
+        "overview": "Some barbarians, particularly elves and half-orcs, rely on speed and startling force to slay their enemies. Stories abound of the ability of such barbarians to cut down an entire group of bandits in the blink of an eye. These whirling barbarians combine supreme speed and agility with great strength.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting",
+        "suggestedSkills": "Acrobatics, Athletics, Perception",
+        "suggestedAtWillPowers": "pressing strike, whirling rend",
+        "suggestedEncounterPowers": "whirling frenzy",
+        "suggestedDailyPowers": "thunder hooves rage"
+      },
+      "thanebornBarbarian": {
+        "overview": "Some barbarians, particularly elves and half-orcs, rely on speed and startling force to slay their enemies. Stories abound of the ability of such barbarians to cut down an entire group of bandits in the blink of an eye. These whirling barbarians combine supreme speed and agility with great strength.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting",
+        "suggestedSkills": "Acrobatics, Athletics, Perception",
+        "suggestedAtWillPowers": "pressing strike, whirling rend",
+        "suggestedEncounterPowers": "whirling frenzy",
+        "suggestedDailyPowers": "thunder hooves rage"
+      },
+      "thunderbornBarbarian": {
+        "overview": "Some barbarians, particularly elves and half-orcs, rely on speed and startling force to slay their enemies. Stories abound of the ability of such barbarians to cut down an entire group of bandits in the blink of an eye. These whirling barbarians combine supreme speed and agility with great strength.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting",
+        "suggestedSkills": "Acrobatics, Athletics, Perception",
+        "suggestedAtWillPowers": "pressing strike, whirling rend",
+        "suggestedEncounterPowers": "whirling frenzy",
+        "suggestedDailyPowers": "thunder hooves rage"
+      },
+      "whirlingBarbarian": {
+        "overview": "Some barbarians, particularly elves and half-orcs, rely on speed and startling force to slay their enemies. Stories abound of the ability of such barbarians to cut down an entire group of bandits in the blink of an eye. These whirling barbarians combine supreme speed and agility with great strength.",
+        "classFeature": "",
+        "suggestedFeat": "Two-Weapon Fighting",
+        "suggestedSkills": "Acrobatics, Athletics, Perception",
+        "suggestedAtWillPowers": "pressing strike, whirling rend",
+        "suggestedEncounterPowers": "whirling frenzy",
+        "suggestedDailyPowers": "thunder hooves rage"
+      }
+    }
+  },
+  "classFeatures": {
+    "barbarianAgility": "While you are not wearing heavy armor, you gain a +1 bonus to AC and Reflex. The bonus increases to +2 at 11th level and +3 at 21st level.",
+    "feralMight": "Barbarians connect with the natural world in a variety of ways. Some barbarians grow so hardened to physical punishment that they find it easier to simply absorb, rather than avoid, attacks. Others are living examples of the power of one’s will to shape one’s fate. Choose one of the following options. The choice you make gives you the benefit described below and also provides bonuses to certain barbarian powers, as detailed in those powers.",
+    "ragebloodVigor": "You gain the swift charge power. In addition, whenever your attack reduces an enemy to 0 hit points, you gain temporary hit points equal to your Constitution modifier. The number of temporary hit points equals 5 + your Constitution modifier at 11th level and 10 + your Constitution modifier at 21st level.",
+    "thanebornTriumph": "You gain the roar of triumph power. In addition, whenever you bloody an enemy, the next attack by you or an ally against that enemy gains a bonus to the attack roll equal to your Charisma modifier.",
+    "thunderbornWrath": "You gain the war cry power. In addition, once per round when your attack bloodies an enemy, each enemy adjacent to you takes thunder damage equal to your Constitution modifier.",
+    "whirlingSlayer": "You gain the whirling lunge power, and you can wield a one-handed weapon in your off hand and treat it as an off-hand weapon. In addition, once per round when your attack bloodies an enemy, you can shift 2 squares as a free action, and each enemy adjacent to you at the end of the shift grants combat advantage to you until the end of your next turn.",
+    "rageStrike": "Barbarian daily attack powers have the rage keyword. They allow you to unleash powerful bursts of emotion, willpower, and primal energy. Each rage power starts with a mighty attack, and then you enter a rage, which grants an ongoing benefit. At 5th level, you gain the rage strike power, which lets you channel an unused rage power into a devastating attack while you’re raging. Using rage strike is an alternative to using a second rage power in a climactic battle; it gives you the damage output of a daily power without forcing you to enter a different rage.",
+    "rampage": "Once per round, when you score a critical hit with a barbarian attack power, you can immediately make a melee basic attack as a free action. You do not have to attack the same target that you scored a critical hit against."
+  }
+}

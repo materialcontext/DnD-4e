@@ -1,0 +1,88 @@
+{
+  "id": "'5",
+  "name": "Ranger",
+  
+  
+  
+  "refSource": "Player's Handbook",
+  "classTraits": {
+    "role:": "Striker. You concentrate on either ranged attacks or two-weapon melee fighting to deal a lot of damage to one enemy at a time. Your attacks rely on speed and mobility, since you prefer to use hit-and-run tactics whenever possible.",
+    "powerSource:": "Martial. Your talents depend on extensive training and practice, inner confidence, and natural proficiency.",
+    "keyAbilities:": "Strength, Dexterity, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Dungeoneering or Nature (your choice). From the class skills list below, choose 4 more trained skills at 1st level.",
+    "buildOptions:": "Archer Ranger, Beastmaster Ranger, Hunter Ranger, Marauder Ranger, Two-Blade Ranger.",
+    "classFeatures:": "Fighting Style, Hunter's Quarry, Prime Shot, Running Attack."
+  },
+  "classText": "Rangers are watchful warriors who roam past the horizon to safeguard a region, a principle, or a way of life. Masters of bow and blade, rangers excel at hit-and-run assaults and can quickly and silently eliminate foes. Rangers lay superb ambushes and excel at avoiding danger. As a ranger, you possess almost supernaturally keen senses and a deep appreciation for untamed wilderness. With your knowledge of the natural world, you are able to track enemies through nearly any landscape, using the smallest clue to set your course, even sometimes the calls and songs of beasts and birds. Your severe demeanor promises a deadly conclusion to any enemy you hunt. When you catch sight of your quarry, will the transgressor perish by swift bow shots from a distance, or by the twofold blades that glint and glitter in each of your battle-scarred hands?",
+  "suggestions": {
+    "overview": "Rangers depend on Strength, Dexterity, and Wisdom for most of their powers. Constitution is also useful, since it helps them stand up to damage. The three ranger builds presented here are the archer ranger, the beastmaster ranger and the melee ranger.",
+    "suggestions": {
+      "archerRanger": {
+        "overview": "You like to get up close and rely on the ranger’s famous two-weapon fighting style. Naturally, you prefer melee attack powers, and that means Strength should be your highest ability score. For your second ability, Dexterity is a good choice because it improves your AC. Make Wisdom your third choice, since it adds to your Will defense and provides a bonus to many of your powers. Choose powers that reflect your preference for fighting with two melee weapons.",
+        "classFeature": "",
+        "suggestedFeat": "Lethal Hunter (Human feat: Action Surge)",
+        "suggestedSkills": "Acrobatics, Dungeoneering, Endurance, Heal, Perception",
+        "suggestedAtWillPowers": "hit and run, twin strike",
+        "suggestedEncounterPowers": "dire wolverine strike",
+        "suggestedDailyPowers": "jaws of the wolf"
+      },
+      "beastmasterRanger": {
+        "overview": "You like to get up close and rely on the ranger’s famous two-weapon fighting style. Naturally, you prefer melee attack powers, and that means Strength should be your highest ability score. For your second ability, Dexterity is a good choice because it improves your AC. Make Wisdom your third choice, since it adds to your Will defense and provides a bonus to many of your powers. Choose powers that reflect your preference for fighting with two melee weapons.",
+        "classFeature": "",
+        "suggestedFeat": "Lethal Hunter (Human feat: Action Surge)",
+        "suggestedSkills": "Acrobatics, Dungeoneering, Endurance, Heal, Perception",
+        "suggestedAtWillPowers": "hit and run, twin strike",
+        "suggestedEncounterPowers": "dire wolverine strike",
+        "suggestedDailyPowers": "jaws of the wolf"
+      },
+      "hunterRanger": {
+        "overview": "You like to get up close and rely on the ranger’s famous two-weapon fighting style. Naturally, you prefer melee attack powers, and that means Strength should be your highest ability score. For your second ability, Dexterity is a good choice because it improves your AC. Make Wisdom your third choice, since it adds to your Will defense and provides a bonus to many of your powers. Choose powers that reflect your preference for fighting with two melee weapons.",
+        "classFeature": "",
+        "suggestedFeat": "Lethal Hunter (Human feat: Action Surge)",
+        "suggestedSkills": "Acrobatics, Dungeoneering, Endurance, Heal, Perception",
+        "suggestedAtWillPowers": "hit and run, twin strike",
+        "suggestedEncounterPowers": "dire wolverine strike",
+        "suggestedDailyPowers": "jaws of the wolf"
+      },
+      "marauderRanger": {
+        "overview": "You like to get up close and rely on the ranger’s famous two-weapon fighting style. Naturally, you prefer melee attack powers, and that means Strength should be your highest ability score. For your second ability, Dexterity is a good choice because it improves your AC. Make Wisdom your third choice, since it adds to your Will defense and provides a bonus to many of your powers. Choose powers that reflect your preference for fighting with two melee weapons.",
+        "classFeature": "",
+        "suggestedFeat": "Lethal Hunter (Human feat: Action Surge)",
+        "suggestedSkills": "Acrobatics, Dungeoneering, Endurance, Heal, Perception",
+        "suggestedAtWillPowers": "hit and run, twin strike",
+        "suggestedEncounterPowers": "dire wolverine strike",
+        "suggestedDailyPowers": "jaws of the wolf"
+      },
+      "two-bladeRanger": {
+        "overview": "You like to get up close and rely on the ranger’s famous two-weapon fighting style. Naturally, you prefer melee attack powers, and that means Strength should be your highest ability score. For your second ability, Dexterity is a good choice because it improves your AC. Make Wisdom your third choice, since it adds to your Will defense and provides a bonus to many of your powers. Choose powers that reflect your preference for fighting with two melee weapons.",
+        "classFeature": "",
+        "suggestedFeat": "Lethal Hunter (Human feat: Action Surge)",
+        "suggestedSkills": "Acrobatics, Dungeoneering, Endurance, Heal, Perception",
+        "suggestedAtWillPowers": "hit and run, twin strike",
+        "suggestedEncounterPowers": "dire wolverine strike",
+        "suggestedDailyPowers": "jaws of the wolf"
+      }
+    }
+  },
+  "classFeatures": {
+    "fightingStyle": {
+      "overview": "Choose one of the following fighting styles and gain its benefit: Archer Fighting Style, Beast Mastery, Two-Blade Fighting Style, Marauder Fighting Style, Hunter Fighting Style.",
+      "options": {
+        "archerFightingStyle": "Because of your focus on ranged attacks, you gain Defensive Mobility as a bonus feat.",
+        "beastMastery": "The Beast Mastery class feature is available to any ranger who wishes to gain a loyal beast companion. To select this class feature, you must give up the Prime Shot class feature, and you do not select either the Archer Fighting Style or the Two-Blade Fighting Style. You gain a beast companion, chosen from one of these categories: bear, boar, cat, lizard, raptor, serpent, spider, or wolf. These categories do not describe specific animals, but rather groups of similarly themed creatures in the D&D world. You decide the creature’s relevant details— its species, physical details, and so forth—making sure they are appropriate for its category and the campaign. For example, if your character hails from a swampy region, your lizard companion might be a crocodile. The lizard companion of a ranger from a different region might be a giant monitor lizard or a drake. A beast companion’s species doesn’t affect its game statistics, which are based on its category and level. You and your beast companion work so well together that the creature is almost an extension of you. Using your actions in combat, you control your beast companion by issuing it commands. Beast Mastery also alters your Hunter’s Quarry class feature. When you use Hunter’s Quarry, your quarry can be either the enemy nearest to you that you can see or the enemy nearest to your beast companion that you can see. You or your beast companion can deal the extra damage from Hunter’s Quarry, but only one of you can deal this extra damage per round. Your beast companion is considered a creature and an ally and can be affected by powers. A cleric can heal it with healing word, a warlord can give it a melee basic attack with commander’s strike, and so forth. You and your beast companion are treated as separate creatures. You can have only one beast companion at a time. You can dismiss your beast companion at any time, but gaining a new one isn’t a simple task.The link between a ranger and his or her beast companion is not one of master and servant but of two close friends. As part of the training you underwent that allowed you to form a close bond with a beast, you learned the Raise Beast Companion ritual, which allows you to raise your companion from the dead, even if you are otherwise unable to master and perform rituals.",
+        "hunterFightingStyle": "You gain Quick Draw as a bonus feat, even if you don’t meet the prerequisites. In addition, you can sheathe a weapon as a free action and gain a +4 bonus to AC against opportunity attacks you provoke by making a ranged attack.",
+        "marauderFightingStyle": "You gain Two-Weapon Defense as a bonus feat, even if you don’t meet the prerequisites. In addition, you gain a +1 bonus to speed while you aren’t using a shield or a two-handed weapon.",
+        "two-bladeFightingStyle": "Because of your focus on two-weapon melee attacks, you can wield a one-handed weapon in your off hand as if it were an off-hand weapon. (Make sure to designate on your character sheet which weapon is main and which is off-hand.) In addition, you gain Toughness as a bonus feat."
+      }
+    },
+    "hunter'sQuarry": "Once per turn, you can use your Hunter's Quarry power.",
+    "primeShot": "If none of your allies are nearer to your target than you are, you receive a +1 bonus to ranged attack rolls against that target. You do not gain this feature if you choose the Beast Mastery fighting style.",
+    "runningAttack": "This class feature replaces the Prime Shot class feature."
+  }
+}

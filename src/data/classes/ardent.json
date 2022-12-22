@@ -1,0 +1,64 @@
+{
+  "id": "'529",
+  "name": "Ardent",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Leader. You fill your allies with the will to fight and the clarity of purpose needed for victory. When you attack, you loose thoughts that intensify emotions and lay bare truths. Depending on your choice of class features, you lean toward either defender or striker as a secondary role.",
+    "powerSource:": "Psionic. You are a spiritual warrior whose thoughts swirl about you to infect your enemies with doubt and fill your allies with confidence.",
+    "keyAbilities:": "Charisma, Constitution, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "buildOptions:": "Enlightened Ardent, Euphoric Ardent, Impetuous Ardent.",
+    "classFeatures:": "Ardent Mantle, Ardent Surge, Psionic Augmentation."
+  },
+  "classText": "Those who let their base emotions rule them invite madness and destruction. Prolonged feelings of fear, greed, lust, or hatred can weaken the mind’s defenses against manipulation. Wielding psionic power, you excite such emotions in your enemies, creating gaps in their defenses and frustrating their attacks, all while filling your allies with encouraging thoughts and guarding them against despair and other negative emotions.  Ardents rarely learn their art through formal training. In many ways, they are incidental leaders, having stumbled onto psionic power at some point earlier in their lives. How you discovered your psionic talent can shape how you wield this power now. You might have awakened to your talent in the heat of battle, experiencing a mental breakthrough that allowed you to augment your attacks by rending your enemies’ minds. Or your friends might reflect your power when your mood bleeds into theirs, altering their emotional states to match your own. Regardless of the revelation, you learned to harness this power to support your fighting prowess and to guide your allies to victory.",
+  "suggestions": {
+    "overview": "Ardents depend on Charisma more than other abilities. Constitution is important for powers that improve your allies’ attacks, and Wisdom is important if you want to foil your enemies’ attacks. You can choose any powers you like, though many ardents favor one of the two builds described here.",
+    "suggestions": {
+      "enlightenedArdent": {
+        "overview": "Impetuous ardents have little use for caution or careful planning, and they allow their natural talent and fate to guide their actions. As an impetuous ardent, your secondary role is striker. Choose powers that deliver punishing damage, improve your allies’ attacks, or strip away your enemies’ ability to protect themselves. Any power that can help to quickly remove an enemy’s threat reinforces your preferred tactics. This said, wading through enemies places you at great risk. To mitigate the dangers arrayed against you, be sure to invest in feats and powers that help you last in combat.",
+        "classFeature": "",
+        "suggestedFeat": "Deft Eruption",
+        "suggestedSkills": "Athletics, Endurance, Heal, Intimidate",
+        "suggestedAtWillPowers": "impetuous ruin, part the fog",
+        "suggestedEncounterPowers": "",
+        "suggestedDailyPowers": "Feature: Mantle of Impulsiveness"
+      },
+      "euphoricArdent": {
+        "overview": "Impetuous ardents have little use for caution or careful planning, and they allow their natural talent and fate to guide their actions. As an impetuous ardent, your secondary role is striker. Choose powers that deliver punishing damage, improve your allies’ attacks, or strip away your enemies’ ability to protect themselves. Any power that can help to quickly remove an enemy’s threat reinforces your preferred tactics. This said, wading through enemies places you at great risk. To mitigate the dangers arrayed against you, be sure to invest in feats and powers that help you last in combat.",
+        "classFeature": "",
+        "suggestedFeat": "Deft Eruption",
+        "suggestedSkills": "Athletics, Endurance, Heal, Intimidate",
+        "suggestedAtWillPowers": "impetuous ruin, part the fog",
+        "suggestedEncounterPowers": "",
+        "suggestedDailyPowers": "Feature: Mantle of Impulsiveness"
+      },
+      "impetuousArdent": {
+        "overview": "Impetuous ardents have little use for caution or careful planning, and they allow their natural talent and fate to guide their actions. As an impetuous ardent, your secondary role is striker. Choose powers that deliver punishing damage, improve your allies’ attacks, or strip away your enemies’ ability to protect themselves. Any power that can help to quickly remove an enemy’s threat reinforces your preferred tactics. This said, wading through enemies places you at great risk. To mitigate the dangers arrayed against you, be sure to invest in feats and powers that help you last in combat.",
+        "classFeature": "",
+        "suggestedFeat": "Deft Eruption",
+        "suggestedSkills": "Athletics, Endurance, Heal, Intimidate",
+        "suggestedAtWillPowers": "impetuous ruin, part the fog",
+        "suggestedEncounterPowers": "",
+        "suggestedDailyPowers": "Feature: Mantle of Impulsiveness"
+      }
+    }
+  },
+  "classFeatures": {
+    "ardentMantle": "A person’s state of mind can be armor against the decay and madness born from base emotions, and thus ardents gird themselves by donning particular mindsets to ward off the perils brought on by fear, despair, and hatred. Various emotional states, called mantles, can safeguard the mind. Ardents most commonly use the mantles of clarity and elation.",
+    "mantleOfClarity": "You and each ally within 5 squares of you gain a bonus to all defenses against opportunity attacks. The bonus equals your Wisdom modifier. In addition, each ally within 5 squares of you gains a +2 bonus to Insight checks and Perception checks. (If a character is in the radius of more than one Mantle of Clarity, the bonuses are not cumulative. Only the highest ones apply to him or her.) You also gain the ardent alacrity power.",
+    "mantleOfElation": "You and each ally within 5 squares of you gain a bonus to damage rolls for opportunity attacks. The bonus equals your Constitution modifier. In addition, each ally within 5 squares of you gains a +2 bonus to Diplomacy checks and Intimidate checks. You also gain the ardent outrage power.",
+    "mantleOfImpulsiveness": "When an ally within 5 squares of you is targeted by an opportunity attack, that ally gains a power bonus to damage rolls equal to your Constitution modifier until the end of his or her turn. &nbsp;&nbsp;&nbsp;&nbsp;In addition, each ally within 5 squares of you gains a +2 bonus to Endurance checks and Intimidate checks. You also gain the ardent eruption power. &nbsp;&nbsp;&nbsp;&nbsp;Ardent Surge: When you use your ardent surge power, the target also gains a +2 bonus to speed until the end of your next turn.",
+    "ardentSurge": "You gain the ardent surge power. Your advanced emotional state is inspirational, motivating your allies and helping them to recover from injuries.",
+    "psionicAugmentation": "Through discipline and careful study, you have mastered a form of psionic magic that offers greater versatility than other characters command. You know a broad array of at-will powers, each of which is a conduit through which you can pour as much or as little psionic energy as you choose. You channel psionic energy into a reservoir of personal power—represented in the game as power points—that you can use to augment your at-will attack powers, replacing the encounter attack powers that other characters use. &nbsp;&nbsp;&nbsp;&nbsp; Because of this class feature, you acquire and use powers in a slightly different manner from how most other classes do. &nbsp;&nbsp;&nbsp;&nbsp; At-Will Attack Powers: At 1st level, you choose two at-will attack powers and one daily attack power from your class, but you don’t start with any encounter attack powers from your class. You can instead augment your class at-will attack powers using power points. These powers have the augmentable keyword. &nbsp;&nbsp;&nbsp;&nbsp; You gain new at-will attack powers from this class, instead of new encounter attack powers, as you increase in level. At 3rd level, you choose a new at-will attack power from this class. At 7th, 13th, 17th, 23rd, and 27th level, you can replace one of your at-will attack powers with another one of your level or lower. Both powers must be augmentable and from this class. &nbsp;&nbsp;&nbsp;&nbsp; Power Points: You start with 2 power points. You gain 2 additional power points at 3rd and 7th level, 1 additional power point at 13th level, and 2 additional power points at 17th, 21st, 23rd, and 27th level. If you gain power points from another source (such as your paragon path), add them to your power point total. You can use your power points to augment any augmentable power you have, regardless of how you gained the power. &nbsp;&nbsp;&nbsp;&nbsp; You regain all your power points when you take a short or an extended rest."
+  },
+  "theAugmentableKeyword": "A power that has the augmentable keyword has optional augmentations, which a character can use at the cost of power points. Only certain characters have power points, usually as a result of their class. Unless otherwise noted, using an augmentable power follows these rules. \nDecide First: A creature must decide whether and how to augment an augmentable power when it chooses to use the power, before making any attack rolls or applying any of the power's effects. \nPower Point Cost: An augmentation specifies its cost in power points. For example, 'Augment 1' means a creature must spend 1 power point to use an augmentation. The creature must spend the required power points when it decides to use the augmentation. \nOne at a Time: A creature can use only one augmentation on a power at a time, so it can't, for example, spend 3 power points to use both a 1-point and a 2-point augmentation on a single power. \nReplace Base Effects: When a power is augmented, changes to the power are noted in the description of the augmentation. If an augmentation includes a specific power entry, such as 'Hit' or 'Effect,' that entry replaces the entry in the base power that has the same name. An augmented version of a power is otherwise identical to the base power. \nUnaugmented: When a creature uses an augmentable power without augmenting it, the power is referred to as unaugmented for that use (some effects apply only when a power is unaugmented). A power that doesn't have the augmentable keyword is never considered unaugmented. \nAt-Will Attack Powers: When a power or some other effect lets a creature use an at-will attack power, the creature can choose to use one of its augmentable at-will attack powers, but must use it unaugmented. When a racial trait lets an adventurer choose an extra at-will attack power and the adventurer chooses an augmentable at-will attack power, the power loses both the augmentable keyword and its augmentations."
+}

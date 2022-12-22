@@ -1,0 +1,30 @@
+{
+  "id": "'443",
+  "name": "Hybrid Invoker",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Wisdom, Constitution, Intelligence",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Rods, staffs",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Arcana (Int), Diplomacy (Cha), Endurance (Con), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int).",
+    "classFeatures:": "Covenant Manifestation",
+    "hybridTalentOptions": ": Channel Divinity (Hybrid Invoker) or Invoker Armor proficiency."
+  },
+  "classText": "You wield the might of the gods, mixed with powers more earthly. But why would you forgo pure devotion to the secrets of the invoker? Did you uncover a mystery that frightened you from wielding such unfettered power? Or has your understanding of divinity only recently awakened? As a hybrid invoker, you wield the gods’ own might to smite your foes. However, you forgo the versatility of Channel Divinity and Ritual Casting to gain the benefits of another class.",
+  "classFeatures": {
+    "covenantManifestation": "You gain the Covenant Manifestation of a Divine Covenant of your choice.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "channelDivinity(hybridInvoker)": "This class feature functions as the invoker class feature, except that you start with a single Channel Divinity power. That power is the Channel Divinity power associated with the same Divine Covenant as your Covenant Manifestation.",
+    "invokerArmorProficiency": "You gain proficiency with leather armor, hide armor, and chainmail."
+  }
+}

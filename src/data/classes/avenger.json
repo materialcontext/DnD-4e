@@ -1,0 +1,68 @@
+{
+  "id": "'129",
+  "name": "Avenger",
+  
+  
+  
+  "refSource": "Player's Handbook 2",
+  "classTraits": {
+    "role:": "Striker. Your oaths bring divine wrath upon the enemies of your god. With methodical devastation, you eliminate one foe at a time. You lean toward controller as a secondary role.",
+    "powerSource:": "Divine. You practice mysteries forgotten or forbidden by most religious orders, yet the power you wield is a gift from your god.",
+    "keyAbilities:": "Wisdom, Dexterity, Intelligence",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "implement:": "Holy Symbol",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 14+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Religion. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Commanding Avenger, Isolating Avenger, Pursuing Avenger.",
+    "classFeatures:": "Armor of Faith, Avenger\\'s Censure, Channel Divinity, Oath of Enmity."
+  },
+  "classText": "In secret temples far from bustling cities and priestly hierarchies, orders of esoteric warriors train their initiates in ancient traditions now forgotten or forbidden by most religious organizations. The champions of these orders are avengers—deadly weapons in the hands of their gods, imbued with divine power through secret rites of initiation. In battle, avengers swear to execute divine vengeance, entering a mental state that gives them unerring focus on a single enemy.  As an avenger, you were trained in a monastery, initiated through secret rites, and imbued with the power to smite your god’s foes. You might be a disciple of Ioun, sworn to hunt and exterminate the minions of Vecna until you one day face the Maimed God. You could be an agent of the Raven Queen, bringing death to those who would defy your mistress. Or perhaps you serve Bahamut as an agent of justice, bringing ruin to tyrants and oppressors. The organizations devoted to your god might view you as a heretic or a hero, but you answer only to your god and to the vows you swore upon your initiation as an avenger.  Where will those vows lead you? One thing is certain: Doing the will of your god is never easy and never free of peril.",
+  "suggestions": {
+    "overview": "The three key ability scores for an avenger are Wisdom, Dexterity, and Intelligence. Avengers typically choose feats, skills, and powers to complement the ability score related to their choice of Divine Censure. Swinging a melee weapon in combat, you wield devastating divine power against your foes. You have a secondary assortment of ranged and close implement powers that let you draw your foes closer to you, teleport near them, or scorch them with divine wrath from afar.",
+    "suggestions": {
+      "commandingAvenger": {
+        "overview": "Once you swear an oath of enmity against an enemy, you pursue that creature wherever it goes. As much as it might try to escape your wrath, your powers let you follow it and punish it for trying to flee. Make Wisdom your highest ability score, and make Dexterity your second-best score to help you nimbly pursue your foe. Select powers that prevent your foe from moving away from you or that let you shift or teleport to the foe’s side.",
+        "classFeature": "",
+        "suggestedFeat": "Invigorating Pursuit",
+        "suggestedSkills": "Acrobatics, Perception, Religion, Stealth",
+        "suggestedAtWillPowers": "bond of pursuit, radiant vengeance",
+        "suggestedEncounterPowers": "angelic alacrity",
+        "suggestedDailyPowers": "oath of the final duel"
+      },
+      "isolatingAvenger": {
+        "overview": "Once you swear an oath of enmity against an enemy, you pursue that creature wherever it goes. As much as it might try to escape your wrath, your powers let you follow it and punish it for trying to flee. Make Wisdom your highest ability score, and make Dexterity your second-best score to help you nimbly pursue your foe. Select powers that prevent your foe from moving away from you or that let you shift or teleport to the foe’s side.",
+        "classFeature": "",
+        "suggestedFeat": "Invigorating Pursuit",
+        "suggestedSkills": "Acrobatics, Perception, Religion, Stealth",
+        "suggestedAtWillPowers": "bond of pursuit, radiant vengeance",
+        "suggestedEncounterPowers": "angelic alacrity",
+        "suggestedDailyPowers": "oath of the final duel"
+      },
+      "pursuingAvenger": {
+        "overview": "Once you swear an oath of enmity against an enemy, you pursue that creature wherever it goes. As much as it might try to escape your wrath, your powers let you follow it and punish it for trying to flee. Make Wisdom your highest ability score, and make Dexterity your second-best score to help you nimbly pursue your foe. Select powers that prevent your foe from moving away from you or that let you shift or teleport to the foe’s side.",
+        "classFeature": "",
+        "suggestedFeat": "Invigorating Pursuit",
+        "suggestedSkills": "Acrobatics, Perception, Religion, Stealth",
+        "suggestedAtWillPowers": "bond of pursuit, radiant vengeance",
+        "suggestedEncounterPowers": "angelic alacrity",
+        "suggestedDailyPowers": "oath of the final duel"
+      }
+    }
+  },
+  "classFeatures": {
+    "armorOfFaith": "The favor of your deity wards you from harm. While you are wearing cloth armor or no armor and aren’t using a shield, you gain a +3 bonus to AC.",
+    "avenger\\'sCensure": "As an avenger, you train your mind, body, and soul toward one purpose: destroying the enemies of your faith. To that end, you gain divine aid in pursuing a single target, though the way you eliminate that enemy varies. Do you pin your foe down and keep other enemies away, or do you pursue your foe across the field of battle? Choose one of these options. Your choice provides bonuses to certain avenger powers, as detailed in those powers.",
+    "censureOfPursuit": "If your oath of enmity target moves away from you willingly, you gain a bonus to damage rolls against the target equal to 2 + your Dexterity modifier until the end of your next turn. The bonus increases to 4 + your Dexterity modifier at 11th level and 6 + your Dexterity modifier at 21st level.",
+    "censureOfRetribution": "When any enemy other than your oath of enmity target hits you, you gain a bonus to damage rolls against your oath of enmity target equal to your Intelligence modifier until the end of your next turn. This bonus is cumulative.",
+    "censureOfUnity": "You gain a +1 bonus to damage rolls against your oath of enmity target for each ally adjacent to that target. The bonus increases to +2 at 11th level and +3 at 21st level.",
+    "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers. &nbsp;&nbsp;&nbsp;&nbsp;Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
+    "oathOfEnmity": "Your god gives you the power to strike down your chosen prey. You gain the oath of enmity power.",
+    "implements": "Like clerics and paladins, avengers use holy symbols to help channel and direct their divine powers. When they make their own holy symbols, the symbols are often different in some detail from the symbols used by other characters, yet avengers can use the same holy symbols used by clerics and paladins. When you wear or hold a magic holy symbol, you can add its enhancement bonus to the attack rolls and the damage rolls of avenger powers and avenger paragon path powers that have the implement keyword. Without a holy symbol, you can still use these powers."
+  },
+  "religion": "An avenger might serve any deity, but an avenger is more likely to worship an unaligned deity than a god of good or lawful good. Avengers of Ioun are among the most common, fighting a war of knowledge against the servants of Vecna. Unaligned avengers often revere the Raven Queen, Erathis, or Sehanine, and evil avengers often serve Asmodeus, Lolth, Tiamat, or Zehir.",
+  "races": "Elves and razorclaw shifters make excellent pursuing avengers, and devas excel as isolating avengers. Many avengers are human, because most of the hidden monasteries that produce avengers are of human origin."
+}

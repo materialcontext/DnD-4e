@@ -1,0 +1,35 @@
+{
+  "id": "'360",
+  "name": "Hybrid Wizard",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Intelligence, Wisdom, Dexterity",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Dagger, quarterstaff.",
+    "implement:": "Orbs, staffs, wands, tomes",
+    "bonusToDefense:": "+1 Will.",
+    "hitPointsAt1stLevel": ": 5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Arcana (Int), Diplomacy (Cha), Dungeoneering (Wis), History (Int), Insight (Wis), Nature (Wis), Religion (Int).",
+    "classFeatures:": "Cantrips",
+    "hybridTalentOptions": ": Arcane Implement Mastery."
+  },
+  "classText": "The path of wizardry demands focus and study, yet you have mastered several elements of arcane magic while still having time for other learning.  Did you give up a promising academic life to pursue a less sheltered existence? Did your mentor abandon you before sharing the final secrets of arcane lore? Or have you only recently begun the long task of master-ing the arcane power that permeates the cosmos?  As a hybrid wizard, you have much of a wizard’s versatility in power selection, but you give up the flexibility provided by the Ritual Casting and Spellbook class features, as well as the Arcane Implement Mastery class feature.",
+  "classFeatures": {
+    "cantrips": "You gain four cantrips of your choice.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "arcaneImplementMastery": "You specialize in the use of one kind of implement to gain additional abilities when you wield it. Choose one of the following forms of implement mastery: Orb of Imposition, Staff of Defense, Tome of Binding, Tome of Readiness, Wand of Accuracy.",
+    "orbOfDeception": "Once per encounter, you can use your orb of Deception power.",
+    "orbOfImposition": "Once per encounter while you are holding an orb on your turn, you can use your orb of imposition power.",
+    "staffOfDefense": "A staff of defense grants you a +1 bonus to AC. In addition, once per encounter, you can use the Staff of Defense power.",
+    "tomeOfBinding": "Once per encounter, as a free action, if you use your tome when using an arcane summoning power, all creatures summoned by that power gain a bonus to damage rolls equal to your Constitution modifier. &nbsp;&nbsp;&nbsp;&nbsp;You must wield a tome to benefit from this feature. &nbsp;&nbsp;&nbsp;&nbsp;Summoner wizards prefer this form of tome mastery because of its obvious benefits to their summoning spells. This form of mastery also provides benefits to certain conjuration powers.",
+    "tomeOfReadiness": "When you select this form of implement mastery, choose a wizard encounter attack power of your level or lower that you don’t already know. That power is now stored and available for your use at a later time. &nbsp;&nbsp;&nbsp;&nbsp;Once per encounter as a free action, you can use the stored power by expending another unused wizard encounter attack power of its level or higher. You must still take the normal action required to use the stored power. &nbsp;&nbsp;&nbsp;&nbsp;Each time you reach a level that lets you choose an encounter power, you can replace the stored power with a new wizard encounter attack power of your level or lower that you do not already know. &nbsp;&nbsp;&nbsp;&nbsp;You must wield a tome to benefit from this feature.  &nbsp;&nbsp;&nbsp;&nbsp;Wizards of all builds appreciate this form of mastery because of the flexibility it allows them during combat.",
+    "wandOfAccuracy": "Once per encounter, you can use your Wand of Accuracy power."
+  }
+}

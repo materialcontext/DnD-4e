@@ -1,0 +1,33 @@
+{
+  "id": "'883",
+  "name": "Wizard (Bladesinger)",
+  
+  
+  
+  "refSource": "Neverwinter Campaign Setting",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Intelligence, Dexterity",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "implement:": "Orbs, staffs, wands",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Arcana. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "classFeatures:": "Blade Magic, Bladesinger Cantrips, Bladesinger Daily Powers, Bladesinger\\'s Spellbook, Bladesong, Bladespells, Guarded Flourish, Instinctive Attack, Magic Missile."
+  },
+  "classText": "Those who see a bladesinger in battle never forget the sight. Amid the chaos and blood, the bladesinger moves in an otherworldly dance. Spells and sword act as partners, matching awe-inspiring beauty with an awful deadliness. When the bladesinger engages in the true heart of the art, when the sword whirls through the air so swiftly that it keens and the air hums and whistles in chorus, when the bladesong has begun—then the bladesinger becomes something unreal, something timeless. According to legend, Corellon himself inspired and taught the first bladesinger. The techniques handed down as a gift from the leader of the elven deities have passed from one to another among the Tel’Quessir for untold generations, and though different styles evolved as eladrin and elves turned its power to suit their needs, none have improved upon the essential core of the art. The bladesinger wields a weapon one-handed, leaving the other free or using it to employ a wand that can be incorporated into the fighting style. This technique gives a bladesinger the speed and freedom of movement necessary for the dancelike motions of the various forms of martial art, which allow for both magical and physical attacks to flow freely. Few among the Tel’Quessir have the honor of being inducted into the bladesingers. One must have the mind necessary to be a great wizard, and also the agility of the greatest dancer. Yet those traits alone are not enough. A bladesinger is first and foremost devoted to the ways and the people of the Tel’Quessir, for that was the purpose of Corellon’s gift. A bladesinger who has set out beyond the borders of a nation of the People must have had good cause. Adventuring bladesingers might seek out relics or locations of great meaning to the Tel’Quessir, or they could leave in order to guard a specific person or group against harm. A bladesinger might instead embark upon a quest to eliminate a threat to the People or to find and communicate with some long-lost branch of the race. In a more tragic case, a bladesinger might have failed in the duty to protect a community and be death-pledged to avenge it and restore his or her honor.",
+  "classFeatures": {
+    "bladesingerCantrips": "You gain three cantrips of your choice.",
+    "bladesingerDailyPowers": "You add two 1st-level wizard encounter attack powers of your choice to your spellbook. The two function as daily attack powers for you.",
+    "bladesinger\\'sSpellbook": "As you attain certain levels, you learn two new wizard powers and add them to your spellbook (two wizard utility powers at 2nd level, for instance). At the end of each of your extended rests, you choose a number of wizard powers from your spellbook and prepare them. The number you can prepare is determined by your level. &nbsp;&nbsp;&nbsp;&nbsp;The powers that you prepare are the wizard powers that you can use during the coming day, in addition to your at-will attack powers and powers from another source, such as racial powers. If you do not prepare powers from your spellbook after an extended rest (for example, if you do not have access to your spellbook), you can use the same powers you had prepared on the previous day. See the Wizard Powers Learned table for the levels at which you add wizard powers to your spellbook. &nbsp;&nbsp;&nbsp;&nbsp;Any wizard encounter attack power that you add to your spellbook through this class feature functions as a daily attack power for you. In other words, you can use it once per day, rather than once per encounter, and you can use the power again only after an extended rest. Because the power functions as a daily attack power, you cannot regain its use from any effect that recharges encounter attack powers. &nbsp;&nbsp;&nbsp;&nbsp;Find your level on the Wizard Powers Prepared per Day table. The row corresponding to your level indicates how many wizard encounter attack powers and wizard utility powers you can prepare each day. (The table does not account for powers that you might have from another source, such as a paragon path.) You cannot prepare more than one attack power and one utility power of any given level on the same day.",
+    "bladesong": "You gain the bladesong power.",
+    "bladespells": "You gain three wizard at-will attack powers that have the bladespell keyword.",
+    "guardedFlourish": "Your ranged attacks and area attacks do not provoke opportunity attacks while you are holding a one-handed melee weapon. &nbsp;&nbsp;&nbsp;&nbsp;In addition, you gain a +2 shield bonus to AC while you are wearing light armor or no armor and are holding a one-handed melee weapon in one hand and no weapon or shield in the other.",
+    "instinctiveAttack": "When you make a melee basic attack with a weapon you wield in one hand, you can use Intelligence instead of Strength for the attack roll and the damage roll.",
+    "magicMissile": "You gain the magic missile power."
+  }
+}

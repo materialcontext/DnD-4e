@@ -1,0 +1,59 @@
+{
+  "id": "'602",
+  "name": "Runepriest",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Leader. The runes you invoke allow you to impart strength and vitality to your allies while leaving your enemies open to attack. Depending on your choice of class features and powers, you might lean toward either defender or controller as a secondary role.",
+    "powerSource:": "Divine. You are a master of divine runes, a powerful alphabet that formed the basis of the gods’ power. Other runic structures exist, but you have mastered the runes of the gods.",
+    "keyAbilities:": "Strength, Constitution, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale; light shields.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Religion. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Defiant Runepriest, Wrathful Runepriest.",
+    "classFeatures:": "Rune Master, Rune of Mending, Runic Artistry."
+  },
+  "classText": "Isolated in sacred forges and holy libraries, runepriests seek to unlock the secrets of the runes of divine power. Legend holds that the gods crafted a set of powerful runes, each imbued with a core of divine power, to help create the world and give it order. During the long war against the primordials, many of these runes were lost. Even the gods only dimly recall the runes of power. Somewhere in the forgotten depths of a dungeon or the isolated corner of the planes, those ancient runes wait to be discovered. A runepriest can learn much in the peaceful halls of a temple, but sooner or later he or she must put on armor and go forth to find or create a new rune, and in so doing earn a name among the masters of rune magic.  You learned the art of rune smithing from your master. Perhaps you sweated over a forge deep within a dwarven stronghold, crafting weapons and armor for the faithful as part of your apprenticeship. Or you might have helped inscribe runes in the living wood of the forest, crafting signs to warn of approaching enemies. Along the way, you learned how to take inscribed runes and turn them into words and signs of power that you can incorporate into your prayers. But now, the time for learning is at an end. Now is the time for adventure.  Merge the runes of power with your weapons and armor. Call to the gods and channel their might against your enemies. The runes are your weapons, and the gods’ foes await your judgment.",
+  "suggestions": {
+    "overview": "Your choice of ability scores, powers, and Runic Artistry tradition suggests one of two builds based on the two most ancient runepriest traditions, the path of the Wrathful Hammer and the way of the Defiant Word. All runepriests use Strength for their attacks. Constitution increases the effect of certain runepriest powers, while Wisdom bolsters others.",
+    "suggestions": {
+      "defiantRunepriest": {
+        "overview": "Runepriests who follow the path of the Wrathful Hammer inscribe their runes in stone, metal, and ironwood, materials that can withstand the punishing forces that the runes channel. As a wrathful runepriest, you lead the attack against the forces of evil. Your place is at the forefront of any battle, using your hammer to smite your enemies. Strength should be your highest ability score, followed by Constitution. Choose the path of the Wrathful Hammer as your form of Runic Artistry, and select powers that inspire allies around you and wrap your foes in magic that punishes them for not following your edicts. These choices incline you toward defender as your secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Rune of Vengeance",
+        "suggestedSkills": "Athletics, Endurance, Heal, Religion",
+        "suggestedAtWillPowers": "word of diminishment, word of shielding",
+        "suggestedEncounterPowers": "anvil of battle",
+        "suggestedDailyPowers": "rune of endless fire"
+      },
+      "wrathfulRunepriest": {
+        "overview": "Runepriests who follow the path of the Wrathful Hammer inscribe their runes in stone, metal, and ironwood, materials that can withstand the punishing forces that the runes channel. As a wrathful runepriest, you lead the attack against the forces of evil. Your place is at the forefront of any battle, using your hammer to smite your enemies. Strength should be your highest ability score, followed by Constitution. Choose the path of the Wrathful Hammer as your form of Runic Artistry, and select powers that inspire allies around you and wrap your foes in magic that punishes them for not following your edicts. These choices incline you toward defender as your secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Rune of Vengeance",
+        "suggestedSkills": "Athletics, Endurance, Heal, Religion",
+        "suggestedAtWillPowers": "word of diminishment, word of shielding",
+        "suggestedEncounterPowers": "anvil of battle",
+        "suggestedDailyPowers": "rune of endless fire"
+      }
+    }
+  },
+  "classFeatures": {
+    "runeMaster": "Some of your powers have the runic keyword. When you are going to use a runic power, you first choose one of the runes noted in the power—either the rune of destruction or the rune of protection—and then use the power, applying the chosen rune’s effects. The moment you choose the rune, you enter its rune state. You remain in that rune state until you enter another rune state or until the end of the encounter. Whenever you enter the rune state of the rune of destruction or the rune of protection, you gain an additional benefit. The benefit lasts while you’re in the rune state.",
+    "runeOfDestruction": "Allies gain a +1 bonus to attack rolls against enemies that are adjacent to you or to any other runepriests who are in this rune state.",
+    "runeOfProtection": "While adjacent to you, allies gain resist 2 to all damage. The resistance increases to 4 at 11th level and 6 at 21st level.",
+    "runeOfMending": "You gain the rune of mending power. This rune restores your allies’ health and grants them additional power based on your rune state.",
+    "runicArtistry": "Runepriests follow one of the major traditions of rune magic: the path of the Wrathful Hammer, the way of the Defiant Word or the tradition of the Serene Blade.",
+    "defiantWord": "Whenever an enemy misses you with an attack, you gain a bonus to damage rolls against that enemy until the end of your next turn. The bonus equals your Wisdom modifier, regardless of the number of times the enemy misses you in a round.",
+    "sereneBlade": "You gain proficiency with all one-handed and two-handed military heavy blades. While you are not wearing heavy armor, you can use your Wisdom modifier in place of your Dexterity or Intelligence modifier to determine your AC. Once per round immediately after an enemy deals damage to you with an attack, you gain temporary hit points equal to your Wisdom modifier. The number of temporary hit points increases to 5 + your Wisdom modifier at 11th level and 10 + your Wisdom modifier at 21st level.",
+    "wrathfulHammer": "You gain proficiency with military hammers and military maces. In addition, whenever an enemy deals damage to you with an attack, you gain a bonus to damage rolls against that enemy until the end of your next turn. The bonus equals your Constitution modifier, regardless of the number of times the enemy damages you in a round."
+  },
+  "characteristics": "You use melee attacks to harass your enemies and leave them vulnerable to your allies' attacks. With your heavy armor and your ability to heal, you are ideally suited for standing on the front line.",
+  "races": "Deva runepriests favor the way of the Defiant Word and create beautiful illuminated manuscripts of religious lore, building libraries that grow for generations in hidden corners of the Astral Sea. Elf runepriests also embrace this path, tending trees and other plants to grow in runic patterns to honor the gods. Dwarves, minotaurs, and goliaths commonly follow the path of the Wrathful Hammer. In great caverns, divine runes decorate dwarven chapels as well as secluded minotaur shrines. Goliath runepriests carve massive runes atop their holy peaks, marking the territory as warded by the gods and serving as landmarks for their people as they migrate from one mountain to the next.",
+  "religion": "Runepriests are found among the followers of all the gods, but they most commonly worship Corellon, Erathis, Ioun, or Moradin. Moradin is a patron of smiths and other artisans who seek to master a craft. Many runepriests create fine goods as they practice their ability to forge runes. Corellon attracts runepriests who view the inscribing of runes as an art. Ioun values the protective aspects of rune magic and the knowledge contained in the runes. Erathis favors inventors and others who seek knowledge, a perfect match for runepriests who seek to uncover or create new runes."
+}

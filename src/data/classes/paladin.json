@@ -1,0 +1,73 @@
+{
+  "id": "'4",
+  "name": "Paladin",
+  
+  
+  
+  "refSource": "Player's Handbook",
+  "classTraits": {
+    "role:": "Defender. You are extremely durable, with high hit points and the ability to wear the heaviest armor. You can issue bold challenges to foes and compel them to fight you rather than your allies.",
+    "powerSource:": "Divine. You are a divine warrior, a crusader and protector of your faith.",
+    "keyAbilities:": "Strength, Charisma, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale, plate; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "implement:": "Holy Symbol",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 10+ Constitution Modifier.",
+    "trainedSkills": ": Religion. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Ardent Paladin, Avenging Paladin, Protecting Paladin, Virtuous Paladin.",
+    "classFeatures:": "Channel Divinity, Divine Challenge, Lay on Hands."
+  },
+  "classText": "Paladins are indomitable warriors who’ve pledged their prowess to something greater than themselves. Paladins smite enemies with divine authority, bolster the courage of nearby companions, and radiate as if a beacon of inextinguishable hope. Paladins are transfigured on the field of battle, exemplars of divine ethos in action. To you is given the responsibility to unflinchingly stand before an enemy’s charge, smiting them with your sword while protecting your allies with your sacrifice. Where others waver and wonder, your motivation is pure and simple, and your devotion is your strength. Where others scheme and steal, you take the high road, refusing to allow the illusions of temptation to dissuade you from your obligations. Take up your blessed sword and sanctified shield brave warrior, and charge forward to hallowed glory!",
+  "suggestions": {
+    "overview": "Paladins rely on Strength, Charisma, and Wisdom for most of their key abilities and powers. Constitution is useful as well, although no paladin powers are specifically based on Constitution.",
+    "suggestions": {
+      "ardentPaladin": {
+        "overview": "You are a tower of faith; enchantments and dreadful powers wielded by your foes can find little purchase in your devoted heart. Like the protecting paladin, you shield your companions, but you do so while protecting yourself so that you can stay in the fight. No matter how your enemies attack you, you excel at resisting conditions that would impede others. As a warrior of exceptional piety, you also make more use of your holy symbol than other paladins do. You have several options for engaging enemies at range, so that even foes beyond your weapon’s reach cannot escape your challenge.",
+        "classFeature": "",
+        "suggestedFeat": "Virtuous Recovery",
+        "suggestedSkills": "Endurance, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "bolstering strike, virtuous strike",
+        "suggestedEncounterPowers": "valorous smite",
+        "suggestedDailyPowers": "majestic halo"
+      },
+      "avengingPaladin": {
+        "overview": "You are a tower of faith; enchantments and dreadful powers wielded by your foes can find little purchase in your devoted heart. Like the protecting paladin, you shield your companions, but you do so while protecting yourself so that you can stay in the fight. No matter how your enemies attack you, you excel at resisting conditions that would impede others. As a warrior of exceptional piety, you also make more use of your holy symbol than other paladins do. You have several options for engaging enemies at range, so that even foes beyond your weapon’s reach cannot escape your challenge.",
+        "classFeature": "",
+        "suggestedFeat": "Virtuous Recovery",
+        "suggestedSkills": "Endurance, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "bolstering strike, virtuous strike",
+        "suggestedEncounterPowers": "valorous smite",
+        "suggestedDailyPowers": "majestic halo"
+      },
+      "protectingPaladin": {
+        "overview": "You are a tower of faith; enchantments and dreadful powers wielded by your foes can find little purchase in your devoted heart. Like the protecting paladin, you shield your companions, but you do so while protecting yourself so that you can stay in the fight. No matter how your enemies attack you, you excel at resisting conditions that would impede others. As a warrior of exceptional piety, you also make more use of your holy symbol than other paladins do. You have several options for engaging enemies at range, so that even foes beyond your weapon’s reach cannot escape your challenge.",
+        "classFeature": "",
+        "suggestedFeat": "Virtuous Recovery",
+        "suggestedSkills": "Endurance, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "bolstering strike, virtuous strike",
+        "suggestedEncounterPowers": "valorous smite",
+        "suggestedDailyPowers": "majestic halo"
+      },
+      "virtuousPaladin": {
+        "overview": "You are a tower of faith; enchantments and dreadful powers wielded by your foes can find little purchase in your devoted heart. Like the protecting paladin, you shield your companions, but you do so while protecting yourself so that you can stay in the fight. No matter how your enemies attack you, you excel at resisting conditions that would impede others. As a warrior of exceptional piety, you also make more use of your holy symbol than other paladins do. You have several options for engaging enemies at range, so that even foes beyond your weapon’s reach cannot escape your challenge.",
+        "classFeature": "",
+        "suggestedFeat": "Virtuous Recovery",
+        "suggestedSkills": "Endurance, Heal, Insight, Religion",
+        "suggestedAtWillPowers": "bolstering strike, virtuous strike",
+        "suggestedEncounterPowers": "valorous smite",
+        "suggestedDailyPowers": "majestic halo"
+      }
+    }
+  },
+  "classFeatures": {
+    "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers. &nbsp;&nbsp;&nbsp;&nbsp;Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
+    "divineChallenge": "The challenge of a paladin is filled with divine menace. You can use the divine challenge power to mark an enemy of your choice.",
+    "layOnHands": "Using the lay on hands power, paladins can grant their comrades additional resilience with a touch of their hands and a short prayer, though they must give of their own strength to do so.",
+    "implements": "Paladins make use of holy symbols to help channel and direct their divine powers. A paladin wearing or holding a magic holy symbol can add its enhancement bonus to attack rolls and damage rolls to powers that have the implement keyword. Without a holy symbol, a paladin can still use these powers, but he or she doesn't gain the bonus provided by the magic implement. A holy avenger, a special magic weapon, can also be used as an implement for paladin powers, as well as paladin paragon path powers. These weapons are highly sought after by paladins."
+  },
+  "divineSanction": "Many new paladin powers and some of the new feats in this book subject a target to your divine sanction. Being subject to it means the target is marked by you for a duration specified in the description of the power or feat. Unless otherwise noted, the mark ends before the specified duration if someone else marks the target. \nUntil the mark ends, the target takes radiant damage equal to 3 + your Charisma modifier the first time each round it makes an attack that doesn't include you as a target. The damage increases to 6 + your Charisma modifier at 11th level and 9 + your Charisma modifier at 21st level. Divine sanction is meant to complement divine challenge. You can use divine challenge to mark one creature and use divine sanction to mark others. Divine sanction has fewer restrictions than divine challenge so that you can easily use the two in concert.",
+  "paladinsAndDieties": "As fervent crusaders in their chosen cause, paladins must choose a deity. Paladins choose a specific faith to serve, as well as an alignment. You must choose an alignment identical to the alignment of your patron deity; a paladin of a good deity must be good, a paladin of a lawful good deity must be lawful good, and a paladin of an unaligned deity must be unaligned. Evil and chaotic evil paladins do exist in the world, but they are almost always villains, not player characters. \nPaladins are not granted their powers directly by their deity, but instead through various rites performed when they first become paladins. Most of these rites involve days of prayer, vigils, tests and trials, and ritual purification followed by a knighting ceremony, but each faith has its own methods. This ceremony of investiture gives a paladin the ability to wield divine powers. Once initiated, the paladin is a paladin forevermore. How justly, honorably, or compassionately the paladin wields those powers from that day forward is up to him, and paladins who stray too far from the tenets of their faith are punished by other members of the faithful."
+}

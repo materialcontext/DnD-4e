@@ -1,0 +1,29 @@
+{
+  "id": "'446",
+  "name": "Hybrid Warden",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Defender. ",
+    "powerSource:": "Primal. ",
+    "keyAbilities:": "Strength, Constitution, Wisdom",
+    "armorProficiencies:": "Cloth, leather, hide; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged.",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 8.5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3.5",
+    "healingSurgesPerDay": ": 4.5",
+    "classSkills": ": Athletics (Str), Dungeoneering (Wis), Endurance (Con), Heal (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis).",
+    "classFeatures:": "Nature\\'s Wrath (Hybrid)",
+    "hybridTalentOptions": ": Font of Life or Warden’s Armored Might."
+  },
+  "classText": "To stand strong against the defilers of the natural world, you have buttressed your primal tenacity with the capabilities of another class. These capabilities might be other ways of channeling primal spirits, or you might have decided that you can’t count on the spirits for all your strength.  As a hybrid warden, you can still punish foes for attacking your allies. However, because you divide your focus between two classes, you must give up some of the class’s innate durability (in the form of Font of Life and Guardian Might).",
+  "classFeatures": {
+    "nature\\'sWrath(hybrid)": "This class feature functions as the warden class feature, except that you mark only one adjacent enemy when you use the class feature’s marking ability.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "fontOfLife": "At the start of your turn, you can make a saving throw against one effect that a save can end. On a save, the effect immediately ends, preventing it from affecting you on your current turn. If you save against being stunned or dazed, you can act normally on your turn. If you save against ongoing damage, you avoid taking the damage. If you fail the saving throw, you still make a saving throw against the effect at the end of your turn.",
+    "warden’sArmoredMight": "You gain the Guardian Might class feature. You also gain proficiency with leather armor, hide armor, light shields, and heavy shields."
+  }
+}

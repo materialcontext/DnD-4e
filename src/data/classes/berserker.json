@@ -1,0 +1,31 @@
+{
+  "id": "'906",
+  "name": "Barbarian (Berserker)",
+  
+  
+  
+  "refSource": "Heroes of the Feywild",
+  "classTraits": {
+    "role:": "Defender and Striker. Your skill and experience make you good at defending others, but when your rage surfaces, you become an aggressive attacker.",
+    "powerSource:": "Martial and Primal. ",
+    "keyAbilities:": "Strength, Dexterity",
+    "armorProficiencies:": "Cloth, leather, hide; light shields.",
+    "weaponProficiencies:": "Simple melee, military melee.",
+    "bonusToDefense:": "+2 Fortitude.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 8+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 3 trained skills at 1st level.",
+    "classFeatures:": "Berserker Fury, Defender Aura, Heartland, Poised Defender, Vengeful Guardian."
+  },
+  "classText": "On the edge of civilization, far beyond the comfortable life within cities and towns, tribes of barbarian peoples maintain a simple yet primitive existence. Life for these people is not easy, and it is made more difficult because fey crossings commonly appear in their lands. As children, tribe members are taught about the perils of crossing into the Feywild, and about the monsters that emerge from that realm with malicious intent. Faced with this constant danger, the barbarians continually fight to maintain their way of life. Some among them have fought so hard for so long that they know little other than violence as a means of protecting their tribes. These individuals, prone to rage that transforms them into whirling forces of destruction, are known as berserkers. Most berserkers are skilled warriors with keen survival instincts. When their ire is stoked, however, much of that experience and discipline is replaced by an animal fury unmatched among other warriors. If fury and aggressiveness was all that berserkers had to protect them from harm, they would eventually tire and be overcome by their enemies. When the berserkers’ unbridled rage overtakes them, they become beacons of the spirit world, and their rage sounds like a gong calling to the primal spirits. Those spirits are drawn to such strong emotion, and are able to inhabit berserkers during their rages, protecting them against harm. The spirits also lend their energy to the berserkers, allowing them to perform incredible, even supernatural, feats. It is not just barbarians in the mortal world who become berserkers. Within the Feywild are many savage warriors, and that bright realm is a place where warriors who are as mercurial as the berserker fit right in. Many berserkers are found among the lycanthrope tribes of the Brokenstone Vale, others are among the elves who still dwell in the forests of the Feywild, and yet others can be found anywhere civilization has not yet encroached upon.",
+  "classFeatures": {
+    "defenderAura": "You gain the defender aura power.",
+    "heartland": "You choose one of the following terrain types that best represents your heartland and gain its benefit.",
+    "aridDesert": "While you are wearing cloth armor or no armor and not using a shield, you gain a +3 bonus to AC and a +2 bonus to Reflex. &nbsp;&nbsp;&nbsp;&nbsp;At 4th level, you gain resist 5 fire. The resistance increases to 10 at 14th level and 15 at 24th level.",
+    "frozenLand": "You gain a +1 bonus to Fortitude and Will. &nbsp;&nbsp;&nbsp;&nbsp;At 4th level, you gain resist 5 cold. The resistance increases to 10 at 14th level and 15 at 24th level.",
+    "temperateLand": "While you are wielding a one-handed weapon and using a shield, you gain a +2 bonus to the damage rolls of any weapon attack you make with that weapon. &nbsp;&nbsp;&nbsp;&nbsp;At 4th level, you gain a +1 bonus to speed while charging.&nbsp;&nbsp;&nbsp;&nbsp;",
+    "poisedDefender": "While your defender aura is active and you’re not wearing heavy armor, you gain a +2 bonus to AC.",
+    "vengefulGuardian": "You gain the vengeful guardian power."
+  }
+}

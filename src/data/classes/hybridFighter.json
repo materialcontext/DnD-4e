@@ -1,0 +1,37 @@
+{
+  "id": "'353",
+  "name": "Hybrid Fighter",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Defender. ",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Strength, Dexterity, Wisdom, Constitution",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "bonusToDefense:": "+1 Fortitude.",
+    "hitPointsAt1stLevel": ": 7.5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3",
+    "healingSurgesPerDay": ": 4.5",
+    "classSkills": ": Athletics (Str), Endurance (Con), Heal (Wis), Intimidate (Cha), Streetwise (Cha).",
+    "classFeatures:": "Combat Challenge (Hybrid)",
+    "hybridTalentOptions": ": Combat Specialty, Fighter Armor Proficiency, Fighter Combat Talent."
+  },
+  "classText": "You call on your martial training to guard allies and strike down enemies, and because of your hybrid training, you have tricks up your sleeve that your enemies don’t expect.  Many hybrid fighters learned their martial talents in a military or a mercenary organization, but these experiences typically represent only a portion of the character’s background. Perhaps your character has moved on from military service to a new area of expertise, or maybe you have taken up the sword as part of a new direction in your life after months or years of other studies.  As a hybrid fighter, you protect your comrades as any other defender does: with durability, martial prowess, and battlefield control. However, you give up some of the fighter’s talent with weapons, and you can’t mark enemies with all your powers.",
+  "classFeatures": {
+    "combatChallenge(hybrid)": "Every time you attack an enemy with your fighter powers or your fighter paragon path powers, whether the attack hits or misses, you can choose to mark that target. The mark lasts until the end of your next turn. While a target is marked, it takes a -2 penalty to attack rolls if its attack doesn’t include you as a target. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place. In addition, you gain the Combat Challenge power.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "combatSpecialty": "When you select this option, you choose one of the following class features.",
+    "combatAgility(hybrid)": "This class feature replaces the Combat Superiority class feature. You gain the power Combat Agility.",
+    "combatSuperiority(hybrid)": "You gain a bonus to opportunity attacks equal to your Wisdom modifier. An enemy struck by your opportunity attack stops moving, if a move provoked the attack. If it still has actions remaining, it can use them to resume moving.",
+    "fighterArmorProficiency": "You gain proficiency with leather armor, hide armor, chainmail, scale armor, light shields, and heavy shields.",
+    "fighterCombatTalent": "When you select this option, you choose one of the following class features.",
+    "battleragerVigor(hybrid)": "Whenever you hit an enemy with a melee or a close attack, you gain temporary hit points equal to your Constitution modifier, plus any temporary hit points normally granted by the power. You gain the hit points only after the attack is resolved. If you use an invigorating fighter attack power and miss every target with it, you gain temporary hit points equal to your Constitution modifier.",
+    "brawlerStyle(hybrid)": "While you wield a weapon in your primary hand and your off hand is free or grabbing a creature, you gain a +1 bonus to AC and a +2 bonus to Fortitude.",
+    "one-handedWeaponTalent(hybrid)": "When using a one-handed weapon, you gain a +1 bonus to attack rolls.",
+    "tempestTechnique(hybrid)": "When you wield two melee weapons, you gain a +1 bonus to attack rolls with weapons that have the offhand property. You gain Two-Weapon Defense as a bonus feat, even if you don’t meet the prerequisites. When wearing light armor or chainmail, you gain a +1 bonus to damage rolls with melee and close weapon attacks when you are wielding two weapons. This bonus increases to +2 with weapons that have the off-hand property.",
+    "two-handedWeaponTalent(hybrid)": "When using a two-handed weapon, you gain a +1 bonus to attack rolls."
+  }
+}

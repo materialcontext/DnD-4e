@@ -1,0 +1,41 @@
+{
+  "id": "'894",
+  "name": "Hybrid Druid (Sentinel)",
+  
+  
+  
+  "refSource": "Dragon Magazine 402",
+  "classTraits": {
+    "role:": "Leader. ",
+    "powerSource:": "Primal. ",
+    "prerequisite:": "When building a hybrid character, you cannot combine a hybrid sentinel with any other type of druid.",
+    "keyAbilities:": "Wisdom, Constitution",
+    "armorProficiencies:": "Cloth, leather, hide; light shields.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Staffs, totems",
+    "bonusToDefense:": "+1 Fortitude.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Arcana (Int), Athletics (Str), Diplomacy (Cha), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Nature (Wis), Perception (Wis).",
+    "classFeatures:": "Acolyte of the Natural Cycle (Hybrid), Animal Companion, Combined Attack (Hybrid), Healing Word (Hybrid)",
+    "hybridTalentOptions": ": Animal Companion Power (Hybrid), Druid Armor Proficiency (Sentinel), Nature\\'s Bounty (Hybrid), Paragon of the Natural Cycle (Hybrid), Primal Guardian (Sentinel) or Wilderness Knack (Hybrid)."
+  },
+  "classText": "A hybrid sentinel understands that protecting the natural world demands a wide variety of skills. By dabbling in other power sources and classes, a hybrid sentinel is able to respond to many threats and opponents.",
+  "classFeatures": {
+    "acolyteOfTheNaturalCycle(hybrid)": "You gain the Acolyte of the Natural Cycle class feature, but you gain only the animal companion and the skill bonus associated with your season choice.",
+    "animalCompanion": "You gain an animal companion associated with the season you chose for your Acolyte of the Natural Cycle class feature. &nbsp;&nbsp;&nbsp;&nbsp;Your animal companion is considered an ally of you and your allies. It can be affected by powers in the same way as any other creature can be. &nbsp;&nbsp;&nbsp;&nbsp;You can communicate telepathically with your animal companion as long as it is within 20 squares of you. You do not need line of sight or line of effect to do so. Your animal companion has only animal intelligence, so it cannot communicate or understand complex topics. &nbsp;&nbsp;&nbsp;&nbsp;Your animal companion’s level is equal to yours, and its hit points, defenses, and attacks are determined by your level, as noted in its stat block. &nbsp;&nbsp;&nbsp;&nbsp;Your animal companion shares your healing surge total. Whenever an effect requires your animal companion to spend a healing surge, the surge is deducted from your total. Whenever you use your second wind, your animal companion also regains hit points equal to your healing surge value. At the end of a short rest, your animal companion regains all its hit points. &nbsp;&nbsp;&nbsp;&nbsp;If you die or your animal companion drops to 0 hit points, it disappears as the primal magic that sustains it dissipates. You have two ways of calling your companion back: &nbsp;&nbsp;&nbsp;&nbsp;* Minor Action: You take a minor action and lose a healing surge. Doing so causes your animal companion to appear in the nearest unoccupied space, with hit points equal to your healing surge value. &nbsp;&nbsp;&nbsp;&nbsp;* Short or Extended Rest: You lose a healing surge at the end of a rest. Doing so causes your animal companion to appear in the nearest unoccupied space, with full hit points. &nbsp;&nbsp;&nbsp;&nbsp;As a creature under your control, your animal companion relies on you for strict guidance while you are within 20 squares of it. You take actions so that it can act, and its initiative is the same as yours during an encounter. &nbsp;&nbsp;&nbsp;&nbsp;Standard Actions: To take a standard action, your animal companion needs you to take a standard action to command it to do so. &nbsp;&nbsp;&nbsp;&nbsp;Move Actions: Whenever you take a move action, your animal companion can also take a move action. Alternatively, you can stay put but take a move action to command your animal companion to take a move action. &nbsp;&nbsp;&nbsp;&nbsp;Minor Actions: To take a minor action, your animal companion needs you to take a minor action to command it to do so. &nbsp;&nbsp;&nbsp;&nbsp;Free Actions: Your animal companion can take free actions without you taking an action to command it. &nbsp;&nbsp;&nbsp;&nbsp;Triggered Actions: If one of your animal companion’s triggered actions is triggered, the companion can take that action only if you take the same kind of action to command it to do so. For example, if an enemy adjacent to your companion provokes an opportunity attack from it, you must take an opportunity action to command your companion to make the attack. &nbsp;&nbsp;&nbsp;&nbsp;In situations where you can’t give commands to your animal companion, it can act independently. For example, if you are unconscious or if you are more than 20 squares away from your companion, it doesn’t sit around waiting for you to show up (unless that’s what you have previously commanded it to do). &nbsp;&nbsp;&nbsp;&nbsp;An animal companion acting independently can take either a standard, a move, or a minor action on its turn. It can also take opportunity actions and free actions, but it cannot take immediate actions.",
+    "druidOfSpring:Wolf": "You gain a wolf animal companion.",
+    "druidOfSummer:Bear": "You gain a bear animal companion.",
+    "druidOfTheWastes:LivingZephyr": "You gain a living zephyr animal companion.",
+    "combinedAttack(hybrid)": "You can select the combined attack power whenever you have the opportunity to gain a class encounter attack power that has a level. If you already have combined attack, you gain an additional use of the power if you select it again.",
+    "healingWord(hybrid)": "You gain the power healing word. The power functions as normal, except that you can use it only once per encounter.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "animalCompanionPower(hybrid)": "You can gain this class feature only if you are 17th level or higher and already have the Acolyte of the Natural Cycle class feature. &nbsp;&nbsp;&nbsp;&nbsp;You gain a power associated with your animal companion.",
+    "druidArmorProficiency(sentinel)": "You gain proficiency with leather armor, hide armor, and light shields.",
+    "nature\\'sBounty(hybrid)": "You can gain this class feature only if you are 27th level or higher and already have the Acolyte of the Natural Cycle class feature. &nbsp;&nbsp;&nbsp;&nbsp;Whenever you use your second wind, choose one ally within 10 squares of you. That ally gains a benefit determined by the season you chose for your Acolyte of the Natural Cycle class feature. &nbsp;&nbsp;&nbsp;&nbsp;* Spring: The chosen ally gains resist 10 to all damage until the end of your next turn. &nbsp;&nbsp;&nbsp;&nbsp;* Summer: The chosen ally gains a +5 power bonus to damage rolls until the end of your next turn.",
+    "paragonOfTheNaturalCycle(hybrid)": "Gain a benefit related to your druid\\'s chosen season. You can gain this class feature only if you are 13th level or higher and already have the Acolyte of the Natural Cycle class feature.",
+    "primalGuardian(sentinel)": "While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC.",
+    "wildernessKnack(hybrid)": "You gain one of the sentinel’s wilderness knack options."
+  }
+}

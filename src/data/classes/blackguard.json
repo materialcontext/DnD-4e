@@ -1,0 +1,38 @@
+{
+  "id": "'813",
+  "name": "Paladin (Blackguard)",
+  
+  
+  
+  "refSource": "Heroes of Shadow",
+  "classTraits": {
+    "role:": "Striker. You are a warrior who focuses divine power through a dark vice. You wield this vice as a weapon, using it to slay any who oppose you.",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale, plate; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "implement:": "Holy symbol",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 10+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "classFeatures:": "Dark Menace, Dread Smite, Shroud of Shadow, Spirit of Vice, Vengeance Strike, Vice At-Will Power."
+  },
+  "classText": "The world knows paladins to be shining paragons who champion lofty ideals such as compassion, nobility, sacrifice, and valor. Such virtuous figures are symbols to the common people, icons from which they draw the strength and courage to stand fast against the encroaching darkness. Yet in every light a shadow lurks—the brightness of these noble warriors is equaled by the shadow spreading from their sinister counterparts.",
+  "classFeatures": {
+    "dreadSmite": "You gain the dread smite power.",
+    "shroudOfShadow": "You gain the shroud of shadow power.",
+    "spiritOfVice": "You gain a benefit associated with your vice.",
+    "spiritOfVice(domination)": "Once per round while you have temporary hit points, you can take a free action to deal damage to yourself right before making an attack roll against a target. The damage equals your Charisma modifier. You then gain a bonus to the damage roll against the target. The bonus equals the damage you took.",
+    "spiritOfVice(fury)": "While you have combat advantage against an enemy, you gain a +2 bonus to damage rolls. The bonus increases to +4 while you are bloodied or adjacent to a bloodied creature.",
+    "vengeanceStrike": "You gain the vengeance strike power.",
+    "viceAt-willPower": "You gain an at-will attack power associated with your vice.",
+    "viceAt-willPower(domination)": "You gain the dominator’s strike power.",
+    "viceAt-willPower(fury)": "You gain the ferocious strike power.",
+    "improvedShroudOfShadow(domination)": "When you use your shroud of shadow, you gain additional temporary hit points equal to 2 + your Charisma modifier. At 23rd level, the additional temporary hit points increase to 5 + your Charisma modifier.",
+    "improvedShroudOfShadow(fury)": "When you use your shroud of shadow, you gain a bonus to your next damage roll before the end of your next turn. The bonus equals 2 + your Charisma modifier. At 23rd level, the bonus increases to 5 + your Charisma modifier.",
+    "level22ViceUtilityPower(domination)": "You gain the dark grace power.",
+    "level22ViceUtilityPower(fury)": "You gain the rampaging bloodlust power."
+  }
+}

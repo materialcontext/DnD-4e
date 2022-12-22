@@ -1,0 +1,32 @@
+{
+  "id": "'909",
+  "name": "Druid (Protector)",
+  
+  
+  
+  "refSource": "Heroes of the Feywild",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Primal. You have mastered the power and magic of nature, using it to create a line of defense between the natural world and those that would harm it.",
+    "keyAbilities:": "Wisdom, Constitution, Dexterity",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Staffs, totems",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Nature. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "classFeatures:": "Druid Circle, Nature’s Growth, Primal Attunement, Summon Natural Ally."
+  },
+  "classText": "Though most people associate the Feywild with arcane magic, it is also home to some of the most pristine regions of natural growth across all of the planes. Primeval forests sit untouched by civilization since their creation, alongside mountainsides and hilltops upon which no intelligent being has ever set foot. It should be no surprise that there are those who have chosen a life of protection and guardianship over the natural treasures of the plane. As with all druids, protectors are the masters of the magic first shared with mortals by the primal spirits. The primal spirits might dwell chiefly in the world, but the druids of the Feywild hear their call and heed their guidance even in the fey realm. Though it might seem as though the presence of the primal spirits in the Feywild would be at a diminished level, in truth primal magic is often among the most effective tools to use in a plane infused with arcane magic. Where many of the dangers of the Feywild have evolved over the eons to deal with the omnipresent nature of arcane threats, primal magic is still untamed and unanticipated by most creatures of the plane. As a protector, you learned your primal magic from a druid circle, which trained you to protect nature and punish those that would do it harm. By ensuring that the land, the water, and the sky inhabited by the primal spirits is protected, you become a staunch defender of those who live in harmony with nature and show respect for  their natural surroundings. You might go out into the world to seek new experiences and powerful artifacts of primal magic. Though you will stray far from your druid circle in the course of your adventures, your efforts reflect on its goals, and you will use the knowledge it has granted you to battle despoilers and defilers throughout the world and across the planes.",
+  "classFeatures": {
+    "circleOfRenewal": "You gain the following features. &nbsp;&nbsp;&nbsp;&nbsp;Primal Guardian: While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC. &nbsp;&nbsp;&nbsp;&nbsp;Healing Growth: When any ally in your nature’s growth zone or adjacent to it spends a healing surge to regain hit points, he or she regains additional hit points equal to your Constitution modifier.",
+    "circleOfShelter": "You gain the following features. &nbsp;&nbsp;&nbsp;&nbsp;Primal Predator: While you are not wearing heavy armor, you gain a +1 bonus to your speed. &nbsp;&nbsp;&nbsp;&nbsp;Unhindering Growth: Your allies ignore the difficult terrain created by your nature’s growth.",
+    "nature’sGrowth": "You gain the nature\\'s growth power",
+    "primalAttunement": "You gain three Primal Attunement powers of your choice.",
+    "summonNaturalAlly": "You gain the summon natural ally power. Because of this feature, you do not gain a druid daily attack power at level 5, 9, 15, 19, 25, or 29. Instead, you gain the summon natural ally power at level 1. At level 5, you can use summon natural ally twice per day, and at level 9, you can use it three times per day.",
+    "summonNaturalAlly(primalGuardian)": "You can summon a creature associated with your Primal Aspect (Primal Guardian). &nbsp;&nbsp;&nbsp;&nbsp;Level 1: You can use summon natural ally to summon a giant cobra or a desert hawk. &nbsp;&nbsp;&nbsp;&nbsp;Level 15: You can use summon natural ally to summon a bulette or a venomous scorpion. &nbsp;&nbsp;&nbsp;&nbsp;Level 29: You can use summon natural ally to summon a blue dragon wyrmling or a desert roc.",
+    "summonNaturalAlly(primalPredator)": "You summon a creature associated with your Primal Aspect (Primal Predator) &nbsp;&nbsp;&nbsp;&nbsp;Level 1: You can use summon natural ally to summon a grizzly bear or a pack wolf. &nbsp;&nbsp;&nbsp;&nbsp;Level 15: You can use summon natural ally to summon a dire bear or a hunting tiger. &nbsp;&nbsp;&nbsp;&nbsp;Level 29: You can use summon natural ally to summon a dire lion or a raptor behemoth."
+  }
+}

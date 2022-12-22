@@ -1,0 +1,32 @@
+{
+  "id": "'817",
+  "name": "Vampire",
+  
+  
+  
+  "refSource": "Heroes of Shadow",
+  "classTraits": {
+    "role:": "Striker. Infused with the power of darkness and having already experienced death, you are a lethal creature of the night. As your power increases, your supernatural nature comes to the fore—but will your humanity pay the price?",
+    "powerSource:": "Shadow. ",
+    "keyAbilities:": "Dexterity, Charisma",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Holy symbols, ki focuses",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 2",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "classFeatures:": "Blood Drinker, Blood Is Life, Child of the Night, Enduring Soul, Hidden Might, Swarm of Shadows, Vampire At-Will Attack Powers, Vampiric Reflexes."
+  },
+  "classText": "You are a monster, fated and infected by a vile curse that transformed you into a creature of nightmare. Normal emotions have become alien to you. Only cold, gnawing hunger remains. Most of those who become vampires are victims of monstrous attacks, created by a callous hunter who drained them dry of blood and life force, then cast them aside. Others seek out this path from their own fear of infirmity and death, discovering the arcane rites and alchemical formulas that promise dark power. In some cases, a character finds his or her vampirism invoked by an ancient family curse, or that he or she is a member of an extended clan of vampires who pass their blood down to those they deem worthy—whether by choice or not. Whatever their origins, vampire characters are not slaves to their creators. Even those beholden to an older vampire retain free will, and have a chance to avoid sinking into the bestial depravity so common among their kind. Vampire characters are the most exceptional examples of those who carry this dark curse, using their powers not solely for murder and personal gain. Some become the greatest of heroes, but even those vampires are aware that few among the common folk have the ability to see past the frightening reality of their dark nature. Avoiding the scrutiny of superstitious folk and disguising his or her needs and abilities serves a vampire best. Trusted companions, enemies to slay and feast upon, and reasons to avoid civilized areas for extended times make an adventuring life the perfect choice for such characters.",
+  "classFeatures": {
+    "bloodIsLife": "Once during a short rest, an ally adjacent to you can willingly lose one healing surge to allow you to regain hit points equal to your bloodied value. You regain hit points equal to your bloodied value. &nbsp;&nbsp;&nbsp;&nbsp;If you end a short rest with more healing surges than your usual number of healing surges for the day, you lose any healing surges beyond that number but regain all your hit points.",
+    "childOfTheNight": "You gain the following benefits and weaknesses. &nbsp;&nbsp;&nbsp;&nbsp;* You are an undead creature. You are unaffected by anything that affects only living creatures. You don’t need to breathe, which means you are immune to suffocation. You also don’t age. Unlike most undead, you do need to sleep. &nbsp;&nbsp;&nbsp;&nbsp;* You have darkvision. &nbsp;&nbsp;&nbsp;&nbsp;* You have resist 5 necrotic. &nbsp;&nbsp;&nbsp;&nbsp;* You have vulnerable 5 radiant. &nbsp;&nbsp;&nbsp;&nbsp;* If you end your turn in direct sunlight and lack a protective covering such as a cloak or other heavy clothing, you take 5 radiant damage (plus additional damage from your radiant vulnerability) from the sunlight, and you are weakened (save ends). If you drop below 1 hit point from this damage, you are instantly destroyed.",
+    "enduringSoul": "While you are bloodied, you gain regeneration equal to your Charisma modifier. If you take radiant damage, your regeneration does not function until the end of your next turn.",
+    "hiddenMight": "You gain a bonus to the damage rolls of your vampire powers and vampire paragon path powers. The bonus equals your Charisma modifier. The bonus increases to 2 + your Charisma modifier at 5th level, 4 + your Charisma modifier at 15th level, and 6 + your Charisma modifier at 25th level.",
+    "swarmOfShadows": "You gain the swarm of shadows power.",
+    "vampireAt-willAttackPowers": "You gain the dark beckoning, taste of life, and vampire slam powers.",
+    "vampiricReflexes": "You gain a +2 shield bonus to AC while you are wearing cloth armor or no armor and aren’t using a shield."
+  }
+}

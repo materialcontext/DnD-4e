@@ -1,0 +1,68 @@
+{
+  "id": "'126",
+  "name": "Druid",
+  
+  
+  
+  "refSource": "Player's Handbook 2",
+  "classTraits": {
+    "role:": "Controller. Your beast form gives you access to powers that provide control at close range, while your humanoid form allows you to hinder your opponents from a distance. Depending on your choice of class features and powers, you might lean toward either leader or striker as a secondary role.",
+    "powerSource:": "Primal. You have gained your powers through a careful study of and communion with the natural world.",
+    "keyAbilities:": "Wisdom, Dexterity, Constitution",
+    "armorProficiencies:": "Cloth, leather, hide.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Staff, Totem",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 7+ Constitution Modifier.",
+    "trainedSkills": ": Nature. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Guardian Druid, Predator Druid, Swarm Druid.",
+    "classFeatures:": "Balance of Nature, Primal Aspect, Ritual Casting, Wild Shape."
+  },
+  "classText": "Secretive and enigmatic, druids call the wilderness their home. They are capable of running with a wolf pack, speaking with the most ancient trees, and watching thunderstorms from atop the clouds themselves. They regard challenges as tests, both of their fitness and of their connection with the wild places of the world. And though many druids project an outward calm, they have the cunning of the beast and the fury of the storm. Whether you were born to the wilds or retreated from civilization, whether you chose your path or answered a call that whispered in your heart, you share a bond with the primal spirits of nature. You are neither their servant nor their master, but winds, trees, and beasts heed your words, for they recognize you as kin. Call to the spirits, and they will entangle your foes or smite your enemies with the storm. Unleash your own spirit, and you will become the Primal Beast, uncaged and untamed.",
+  "suggestions": {
+    "overview": "Druids rely on Wisdom, Dexterity, and Constitution for their powers. You can choose any powers you like, but many druids choose powers that complement their choice of Primal Aspect.",
+    "suggestions": {
+      "guardianDruid": {
+        "overview": "Druids call on forces associated with primal magic, such as beasts, plants, storms, and the earth. Swarm druids prefer to call on a particular primal force: insect swarms. Such druids see great strength in the unity of purpose and combined might of a colony of ants or a nest of hornets.",
+        "classFeature": "",
+        "suggestedFeat": "Toughness",
+        "suggestedSkills": "Arcana, Endurance, Nature, Perception",
+        "suggestedAtWillPowers": "grasping claws, swarming locusts, thorn whip",
+        "suggestedEncounterPowers": "scattered form",
+        "suggestedDailyPowers": "fog of insects"
+      },
+      "predatorDruid": {
+        "overview": "Druids call on forces associated with primal magic, such as beasts, plants, storms, and the earth. Swarm druids prefer to call on a particular primal force: insect swarms. Such druids see great strength in the unity of purpose and combined might of a colony of ants or a nest of hornets.",
+        "classFeature": "",
+        "suggestedFeat": "Toughness",
+        "suggestedSkills": "Arcana, Endurance, Nature, Perception",
+        "suggestedAtWillPowers": "grasping claws, swarming locusts, thorn whip",
+        "suggestedEncounterPowers": "scattered form",
+        "suggestedDailyPowers": "fog of insects"
+      },
+      "swarmDruid": {
+        "overview": "Druids call on forces associated with primal magic, such as beasts, plants, storms, and the earth. Swarm druids prefer to call on a particular primal force: insect swarms. Such druids see great strength in the unity of purpose and combined might of a colony of ants or a nest of hornets.",
+        "classFeature": "",
+        "suggestedFeat": "Toughness",
+        "suggestedSkills": "Arcana, Endurance, Nature, Perception",
+        "suggestedAtWillPowers": "grasping claws, swarming locusts, thorn whip",
+        "suggestedEncounterPowers": "scattered form",
+        "suggestedDailyPowers": "fog of insects"
+      }
+    }
+  },
+  "classFeatures": {
+    "balanceOfNature": "Some druids favor being in beast form, while others prefer being in humanoid form. However, just as druids seek balance in the world between divine and primordial forces, druids pursue balance within their own minds and bodies. You begin with three at-will attack powers. Throughout your career, at least one of those powers, and no more than two, must have the beast form keyword. By this means, you have access to useful attacks in either beast form or humanoid form.",
+    "primalAspect": "Druidic lore speaks of the Primal Beast, the first spirit of the world’s noble predators. A formless thing of shadows, fur, feathers, and claws, this creature appears in many druids’ visions, and they speak of channeling the Primal Beast when using their wild shape and beast form powers. As a druid, you choose which aspect of the Primal Beast you most strongly manifest with your powers. Choose one of these options. Your choice provides bonuses to certain druid powers, as detailed in those powers.",
+    "primalGuardian": "While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC.",
+    "primalPredator": "While you are not wearing heavy armor, you gain a +1 bonus to your speed.",
+    "primalSwarm": "While you are in beast form and not wearing heavy armor, melee attacks and ranged attacks deal less damage to you. When you take damage from either type of attack, the damage is reduced by your Constitution modifier.",
+    "primalWrath": "While you are not wearing heavy armor, you gain a +1 bonus to the attack rolls of druid attack powers and druid paragon path attack powers that have the cold, fire, lightning, or thunder keywords.",
+    "ritualCasting": "You gain the Ritual Caster feat as a bonus feat, allowing you to use magical rituals.",
+    "rituals": "You own a ritual book, and it contains two rituals of your choice that you have mastered: Animal messenger and another 1st-level ritual. Once per day, you can use Animal Messenger without expending components",
+    "wildShape": "As a druid, you have the ability to channel the primal energy of beasts into your physical form and transform into a beast. You have an at-will power, wild shape, that allows you to assume the form of a beast, and many druid powers have the beast form keyword and therefore can be used only while you are in beast form. The wild shape power lets you assume a form of your size that resembles a natural or a fey beast, usually a four-legged mammalian predator such as a bear, a boar, a panther, a wolf, or a wolverine. Your beast form might also be an indistinct shape of shadowy fur and claws, an incarnation of the Primal Beast of which all earthly beasts are fractured images. You choose a specific form whenever you use wild shape, and that form has no effect on your game statistics. Your choice of Primal Aspect might suggest a specific form you prefer to assume, and certain beast form powers specify changes to your form when you use them. You might also resemble a more exotic beast when you\\'re in beast form: a reptile such as a rage drake or a crocodile, or a fantastic beast such as an owlbear or a bulette.",
+    "implements": "Druids employ staffs and totems as a means of focusing their primal energy. When you wield a magic staff or a magic totem, you can add its enhancement bonus to the attack rolls and the damage rolls of druid powers and druid paragon path powers that have the implement keyword. Without an implement, you can still use these powers."
+  }
+}

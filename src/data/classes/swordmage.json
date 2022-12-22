@@ -1,0 +1,63 @@
+{
+  "id": "'53",
+  "name": "Swordmage",
+  "refSource": "Forgotten Realms Player's Guide",
+  "classTraits": {
+    "role:": "Defender. You are a melee combatant who uses spells to fight better.",
+    "powerSource:": "Arcane. You study ancient magical traditions and practice swordplay, developing arcane powers that work well with your physical attacks.",
+    "keyAbilities:": "Intelligence, Strength, Constitution",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, simple ranged, military light blade, military heavy blade.",
+    "implement:": "Any light blade or heavy blade",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 8+ Constitution Modifier.",
+    "trainedSkills": ": Arcana. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Assault Swordmage, Ensnaring Swordmage, Shielding Swordmage.",
+    "classFeatures:": "Swordbond, Swordmage Aegis, Swordmage Warding."
+  },
+  "classText": "Swordmages apply the arcane arts to melee combat. The combat skills they possess are enhanced by the magic they wield. The flourish of a swordmage’s blade not only bites with steel, but also with fire, lightning, or other powerful forces. You studied and practiced for years to master your skills. You mastered the fundamentals of arcane magic and combined this academic study with endless hours of physical training. You might be a young eladrin in search of your fortune, a stranger to the wider world outside the seclusion of your homeland; a self-trained genasi sellsword, gifted with an affinity for elemental magic; the scion of a disgraced noble human family, taught by the finest tutors in your youth but now a footloose expatriate; or a half-elf arcane champion, rigorously trained in a war magic academy to serve in the armies of your homeland. Magical barriers of force swirl around you, protecting you from harm. The blade you carry is an extension of your being, both body and mind. It pulses with eldritch energy as you prepare to defend your allies and unleash magical fury against your foes.",
+  "suggestions": {
+    "overview": "The swordmage has two builds: assault swordmage and shielding swordmage. Intelligence plays into all your attacks, but you might emphasize either Strength or Constitution for added benefits. Your melee skills are most important, but you also have attacks that can hit multiple creatures or injure creatures at range. Your defensive powers can protect your allies and yourself.",
+    "suggestions": {
+      "assaultSwordmage": {
+        "overview": "You protect your allies with magical shields of force—and by keeping enemies away from them. This heritage is embodied by the Coronal Guard tradition, a discipline that can be traced over a thousand years to the armathors, the elite guards of the coronal of Myth Drannor. Intelligence powers your attacks, so it should be your highest ability score. Constitution applies added effects to many of your attacks, so it should be your second-highest score. A good Strength lets you take advantage of assault swordmage powers (giving you some added offense) and keeps your basic attack decent. You’ll want to keep a hand free to get your AC bonus from Swordmage Warding class feature, so you should use a one-handed weapon such as a longsword or a scimitar.",
+        "classFeature": "",
+        "suggestedFeat": "Retributive Shield (Human feat: Student of Sword Magic)",
+        "suggestedSkills": "Arcana, Diplomacy, History, Insight",
+        "suggestedAtWillPowers": "booming blade, lightning lure",
+        "suggestedEncounterPowers": "chilling blow",
+        "suggestedDailyPowers": "frost backlash"
+      },
+      "ensnaringSwordmage": {
+        "overview": "You protect your allies with magical shields of force—and by keeping enemies away from them. This heritage is embodied by the Coronal Guard tradition, a discipline that can be traced over a thousand years to the armathors, the elite guards of the coronal of Myth Drannor. Intelligence powers your attacks, so it should be your highest ability score. Constitution applies added effects to many of your attacks, so it should be your second-highest score. A good Strength lets you take advantage of assault swordmage powers (giving you some added offense) and keeps your basic attack decent. You’ll want to keep a hand free to get your AC bonus from Swordmage Warding class feature, so you should use a one-handed weapon such as a longsword or a scimitar.",
+        "classFeature": "",
+        "suggestedFeat": "Retributive Shield (Human feat: Student of Sword Magic)",
+        "suggestedSkills": "Arcana, Diplomacy, History, Insight",
+        "suggestedAtWillPowers": "booming blade, lightning lure",
+        "suggestedEncounterPowers": "chilling blow",
+        "suggestedDailyPowers": "frost backlash"
+      },
+      "shieldingSwordmage": {
+        "overview": "You protect your allies with magical shields of force—and by keeping enemies away from them. This heritage is embodied by the Coronal Guard tradition, a discipline that can be traced over a thousand years to the armathors, the elite guards of the coronal of Myth Drannor. Intelligence powers your attacks, so it should be your highest ability score. Constitution applies added effects to many of your attacks, so it should be your second-highest score. A good Strength lets you take advantage of assault swordmage powers (giving you some added offense) and keeps your basic attack decent. You’ll want to keep a hand free to get your AC bonus from Swordmage Warding class feature, so you should use a one-handed weapon such as a longsword or a scimitar.",
+        "classFeature": "",
+        "suggestedFeat": "Retributive Shield (Human feat: Student of Sword Magic)",
+        "suggestedSkills": "Arcana, Diplomacy, History, Insight",
+        "suggestedAtWillPowers": "booming blade, lightning lure",
+        "suggestedEncounterPowers": "chilling blow",
+        "suggestedDailyPowers": "frost backlash"
+      }
+    }
+  },
+  "classFeatures": {
+    "swordbond": "By spending 1 hour of meditation with a chosen light or heavy blade, you forge a special bond with the weapon. As a standard action, you can call your bonded weapon to your hand from up to 10 squares away.",
+    "swordmageAegis": "You can place a magical warding upon a foe, allowing you to respond to the foe’s attacks against your allies with a counterassault or a timely protection. Choose one Aegis and gain its benefit.",
+    "aegisOfAssault": "You can use the Aegis of Assault power to teleport to the side of of the attacker and respond with an attack of your own.",
+    "aegisOfEnsnarement": "You can use the Aegis of ensnarement  power to teleport a marked creature to any space adjacent to you.",
+    "aegisOfShielding": "You can use the Aegis of Shielding power to deflect some of the damage of an incoming attack.",
+    "swordmageWarding": "While you are conscious and wielding either a light blade or a heavy blade, you maintain a field of magical force around you. This field provides a +1 bonus to AC, or a +3 bonus if you are wielding a blade in one hand and have your other hand free (not carrying a shield, an off-hand weapon, a two-handed weapon, or anything else).",
+    "implements": "Your blade adds its enhancement bonus to attack rolls and damage rolls and any extra damage granted by a property (if applicable) when used as an implement. You do not gain your weapon proficiency bonus to the attack roll when using your blade as an implement."
+  },
+  "religion": "Swordmages favor deities of magic or skill. Corellon, Selûne, Torm, and Tymora are common among swordmages of good heart. Swordmages of a darker bent often revere Shar, regarding their unusual skills as a secret art to be kept hidden from the uninitiated."
+}

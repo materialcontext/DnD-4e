@@ -1,0 +1,32 @@
+{
+  "id": "'358",
+  "name": "Hybrid Warlock",
+  
+  
+  
+  "refSource": "Player's Handbook 3",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Charisma, Constitution, Intelligence",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Rods, wands",
+    "bonusToDefense:": "+1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3",
+    "classSkills": ": Arcana (Int), Bluff (Cha), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int), Streetwise (Cha), Thievery (Dex).",
+    "classFeatures:": "Eldritch Pact (Hybrid), Warlock\\'s Curse (Hybrid)",
+    "hybridTalentOptions": ": Prime Shot, Shadow Walk or Warlock Pact Boon."
+  },
+  "classText": "You draw power from snippets of arcane lore wrested from dusty tomes and primeval entities, but these secrets do not wholly define or limit your abilities. What keeps you from fully embracing the pacts of a warlock? Do you fear the price that such bargains might entail? Or have you not yet managed to pin down the final secret that would unleash your arcane destiny? As a hybrid warlock, you command excellent damage-dealing ability along with some control powers, but you must give up some of the more notable features of the class, including the Pact Boon and Shadow Walk.",
+  "classFeatures": {
+    "eldritchPact(hybrid)": "This class feature functions as the warlock class feature, except that you don’t gain the at-will attack power or the Pact Boon granted by it. This means you meet prerequisites that require the pact you choose, and you can use the benefits tailored for it in certain powers.",
+    "warlock\\'sCurse(hybrid)": "This class feature functions as the warlock class feature, except that you can deal the extra damage only when you hit a cursed enemy with a warlock power or a warlock paragon path power.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "primeShot": "If none of your allies are nearer to your target than you are, you receive a +1 bonus to ranged attack rolls against that target. You do not gain this feature if you choose the Beast Mastery fighting style.",
+    "shadowWalk": "On your turn, if you move at least 3 squares away from where you started your turn, you gain concealment until the end of your next turn.",
+    "warlockPactBoon": "You gain the Pact Boon associated with your Eldritch Pact. To select this option, you must have selected the at-will attack power associated with your pact. If you later retrain that power, you lose the benefit of this option."
+  }
+}

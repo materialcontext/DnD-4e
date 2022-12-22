@@ -1,0 +1,35 @@
+{
+  "id": "'891",
+  "name": "Hybrid Assassin (Executioner)",
+  
+  
+  
+  "refSource": "Dragon Magazine 400",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial and Shadow. ",
+    "keyAbilities:": "Dexterity, Charisma",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Simple one-handed melee, military one-handed melee, simple ranged, blowgun, bola, garrote, shortbow.",
+    "implement:": "Ki focuses",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 6+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 2.5",
+    "healingSurgesPerDay": ": 3.5",
+    "classSkills": ": Acrobatics (Dex), Arcana (Int), Athletics (Str), Bluff (Cha), Endurance (Con), Insight (Wis), Intimidate (Cha), Perception (Wis), Stealth (Dex), Streetwise (Cha), Thievery (Dex).",
+    "classFeatures:": "Assassin\\'s Strike (Hybrid), Attack Finesse (Hybrid), Guild Attacks (Hybrid), Poison Use (Hybrid)",
+    "hybridTalentOptions": ": Flawless Disguise (Hybrid) or Nimble Drop (Hybrid)."
+  },
+  "classText": "Hybrid executioners are common; many members of this class study arcane magic, worship deities of death, or cultivate other cover identities to mask their true talents.",
+  "classFeatures": {
+    "assassin\\'sStrike(hybrid)": "When you can choose an encounter attack power that has a level from your hybrid classes, you can choose the hybrid version of assassin’s strike instead. This power counts as assassin’s strike for purposes of feats and paragon path features. If you already have assassin’s strike and an encounter attack power from your other hybrid class, then instead of choosing or replacing an encounter attack power, you can increase the extra damage dealt by your assassin’s strike by 1d10.",
+    "attackFinesse(hybrid)": "You gain the benefit of the executioner’s Attack Finesse class feature, except that you can deal the extra damage only when using the required weapons with basic attacks, assassin powers, and assassin paragon path powers.",
+    "guildAttacks(hybrid)": "You choose a guild and gain the benefit of the Guild Attacks class feature, except that you choose only two of the at-will attack powers associated with your guild.",
+    "leagueOfWhispers(hybrid)": "You gain two of the following powers: bola takedown, precision dart, and quick shot.",
+    "redScales(hybrid)": "You gain two of the following powers: garrote strangle, poisoned dagger, or quick lunge.",
+    "poisonUse(hybrid)": "You gain the benefit of the Poison Use class feature, with the following exception. You do not start with access to any poison recipes. When you gain a daily attack power, you can instead opt to learn a poison recipe. When you replace a daily attack power, you can instead replace one of your poison recipes with one of a higher level or with a daily attack power from your other hybrid class. The recipe’s level must be less than or equal to your level. For each daily attack power you forgo, you can prepare one poison per day.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "flawlessDisguise(hybrid)": "You must be at least 8th level to choose this option. &nbsp;&nbsp;&nbsp;&nbsp;During a short rest, you can craft an excellent disguise that makes you appear to be another humanoid of your size (either a specific person or a nondescript member of a race or an organization). Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check, with a +5 bonus to your check. You must use a disguise kit to create the disguise.",
+    "nimbleDrop(hybrid)": "You must be at least 4th level to choose this option. &nbsp;&nbsp;&nbsp;&nbsp;When you take falling damage, you can take a free action to reduce the damage by 6 + your level. If this reduces the damage to 0, you don’t fall prone."
+  }
+}

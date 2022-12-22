@@ -1,0 +1,31 @@
+{
+  "id": "'719",
+  "name": "Rogue (Thief)",
+  
+  
+  
+  "refSource": "Heroes of the Fallen Lands",
+  "classTraits": {
+    "role:": "Striker. ",
+    "powerSource:": "Martial. ",
+    "keyAbilities:": "Dexterity; Strength or Charisma",
+    "armorProficiencies:": "Cloth, leather.",
+    "weaponProficiencies:": "Dagger, hand crossbow, short sword, shortbow, sling.",
+    "bonusToDefense:": "+2 Reflex.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Stealth, Thievery. From the class skills list below, choose 4 more trained skills at 1st level.",
+    "classFeatures:": "Backstab, First Strike, Rogue\\'s Trick, Sneak Attack, Weapon Finesse."
+  },
+  "classText": "A thief specializes in agility and trickery, using hard-earned skills to pilfer and hide, escape from tight situations, and overcome deadly traps. A thief has powerful combat abilities, but relies first and foremost on circumventing an enemy’s defenses through acrobatics and stealth. Brute strength and arcane power have their uses, but a thief ’s quick reflexes and agile touch can get the drop on enemies before they know what hit them. Most thief adventurers are explorers and treasure hunters, keen on delving into long-forgotten ruins in the hope of finding valuable lore, treasure, or magic. Many thieves learn their skills on the streets or as unapologetic criminals. However, such characters often develop noble intentions, choosing to steal only from the wealthy or from those in need of being taught a lesson. After all, sometimes bad guys make the best good guys.",
+  "classFeatures": {
+    "firstStrike": "At the start of every encounter, you have combat advantage against any creatures that have not yet acted in that encounter.",
+    "rogue\\'sTrick": "You gain two of the following powers of your choice.",
+    "sneakAttack": "When you make an attack with a light blade, a hand crossbow, a shortbow, or a sling and hit an enemy granting combat advantage to you, that enemy takes extra damage based on your level (see the Sneak Attack table). You can deal this extra damage only once per turn.",
+    "weaponFinesse": "When you make a melee basic attack, you can use Dexterity instead of Strength for the attack roll and the damage roll. In addition, you gain a +2 bonus to damage rolls with light blades, hand crossbows, shortbows, and slings.",
+    "skillMastery": "You gain an additional trained skill, chosen from the following list: Bluff, Dungeoneering, Insight, Intimidate, Perception, and Streetwise. &nbsp;&nbsp;&nbsp;&nbsp;Also, during a skill challenge, whenever you roll a natural 20 on a skill check that would contribute one or more successes to the skill challenge, that check automatically succeeds and counts as one additional success.",
+    "thiefWeaponTalent": "You gain a +1 bonus to attack rolls with light blades, hand crossbows, shortbows, and slings.",
+    "thiefCombatReadiness": "You gain a +2 bonus to initiative."
+  }
+}

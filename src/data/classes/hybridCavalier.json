@@ -1,0 +1,35 @@
+{
+  "id": "'895",
+  "name": "Hybrid Paladin (Cavalier)",
+  
+  
+  
+  "refSource": "Dragon Magazine 402",
+  "classTraits": {
+    "role:": "Defender. ",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale, plate; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "implement:": "Holy symbols",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 7.5+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 3",
+    "healingSurgesPerDay": ": 5",
+    "classSkills": ": Athletics (Str), Diplomacy (Cha), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int).",
+    "classFeatures:": "Defender Aura, Holy Smite (Hybrid), Righteous Radiance, Spirit of Virtue",
+    "hybridTalentOptions": ": Paladin Armor Proficiency or Righteous Shield (Hybrid)."
+  },
+  "classText": "Few cavaliers blend the talents of multiple classes. Those who do are usually members of military orders dedicated to gods that embrace a variety of powers. Cavaliers dedicated to a god of magic might combine with the sorcerer or wizard classes, whereas those with a link to a fey lord might become paladin/warlocks.",
+  "classFeatures": {
+    "defenderAura": "You gain the defender aura power.",
+    "holySmite(hybrid)": "You can select the holy smite power whenever you have the opportunity to gain a class encounter attack power. If you have holy smite, you can choose to replace it with another encounter attack power when you have the option to swap such powers. If you already have holy smite, you gain an additional use of the power if you select it again.",
+    "righteousRadiance": "You gain the righteous radiance power.",
+    "spiritOfVirtue": "You gain a benefit associated with your virtue.",
+    "spiritOfSacrifice": "You gain an additional healing surge. In addition, you can use your second wind as a minor action to heal an ally of your choice within 5 squares of you. If you do so, you gain no benefit from using your second wind, but the ally regains hit points equal to his or her healing surge value.",
+    "spiritOfValor": "You gain a +4 bonus to initiative checks, and your healing surge value increases by 2.",
+    "hybridTalentOptions": "If you take the Hybrid Talent feat, you can select one of the following options.",
+    "paladinArmorProficiency": "You gain proficiency with leather armor, hide armor, chainmail, scale armor, plate armor, light shields, and heavy shields.",
+    "righteousShield(hybrid)": "You gain the righteous shield power. In addition, at 7th level or higher, you gain the benefit of the Improved Righteous Shield class feature associated with your virtue."
+  }
+}

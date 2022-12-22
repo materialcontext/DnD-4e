@@ -1,0 +1,28 @@
+{
+  "id": "'958",
+  "name": "Wizard (Sha’ir)",
+  
+  
+  
+  "refSource": "Heroes of the Elemental Chaos",
+  "classTraits": {
+    "role:": "Controller. ",
+    "powerSource:": "Arcane. Using magic granted by your gen servant, you take control of the battlefield with the raw forces of elemental energy.",
+    "keyAbilities:": "Intelligence, Constitution",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Dagger, quarterstaff.",
+    "implement:": "Orbs, staffs, wands",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 10+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 4",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Arcana. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "classFeatures:": "Elemental Resistance, Gen Servant, Sha’ir Cantrips."
+  },
+  "classText": "Sha’irs cull magical energy from the Elemental Chaos to power their spells. Rather than pore over ancient formulas and techniques, these wizards bargain with elemental powers for the magical knowledge they need. Sha’irs do not deal directly with these powers; instead, they rely on proxies, elemental spirits called gen servants, to negotiate on their behalf. Dispatching these servants to the Elemental Chaos each day, a sha’ir replenishes the necessary power and information to wield the forces of creation. Their unconventional methods, combined with their reputation for consorting with dangerous, often violent, powers, place sha’irs on the fringes of the magical world. Other wizards regard sha’irs with scorn and distrust, believing that they cheat by circumventing the arduous training and research wizards must typically undergo. This mistrust stems from ignorance, however, for even though a sha’ir draws magic from a gen servant, a foundation in arcane training is necessary to wield the power he or she gains. Since sha’irs do not clutter their minds with mystical formulas and arcane utterances, they have wider access to spells than other wizards enjoy. They need only know a spell’s basic structure to request it from their gen servants. The gen servant then vanishes into the Elemental Chaos, where it bargains with more powerful elemental lords and creatures to acquire the spell the sha’ir seeks and then returns without fail to provide its master with the energy and means to cast the spell. So even though sha’irs do not employ spellbooks, they have access to the full expanse of wizards’ most powerful and versatile spells. The elemental powers that lend magical knowledge and energy to sha’irs do not do so without an expectation of recompense. Sha’irs often take up the adventurer’s life for this reason. They work in the world and beyond as representatives, agents, and servants of their elemental masters. Many times a sha’ir does not even realize that his or her actions are furthering some elemental being’s designs, and what might seem to be a normal expedition into the unknown could have consequences not realized for years to come.",
+  "classFeatures": {
+    "elementalResistance": "At the end of each extended rest, choose acid, cold, fire, lightning, or thunder. Until the end of your next extended rest, you and your allies have resistance to that damage type while adjacent to the familiar when it is in active mode. The resistance equals your Constitution modifier. At level 21, the resistance increases to twice your Constitution modifier.",
+    "genServant": "You gain the Arcane Familiar feat as a bonus feat. You can choose any familiar normally available to a wizard or one of the familiars available only to sha’irs. &nbsp;&nbsp;&nbsp;&nbsp;At the end of each extended rest, when your familiar returns from its venture into the Elemental Chaos, you can replace one of your wizard daily attack powers or wizard utility powers with another wizard power of the same type. The new power must have a level, and its level must be the same as the old power’s level.",
+    "sha’irCantrips": "You gain four cantrips of your choice."
+  }
+}

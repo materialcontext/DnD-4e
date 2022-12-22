@@ -1,0 +1,33 @@
+{
+  "id": "'956",
+  "name": "Sorcerer (Elementalist)",
+  
+  
+  
+  "refSource": "Heroes of the Elemental Chaos",
+  "classTraits": {
+    "role:": "Striker. Elementalists who specialize in air or fire magic scour their foes with destructive energy, hurling blasts of flame or bolts of lightning. Those who specialize in earth or water magic hinder enemies, catching them in tides and quakes. Few can withstand an elementalist’s wrath for long.",
+    "powerSource:": "Arcane. ",
+    "keyAbilities:": "Charisma, Constitution",
+    "armorProficiencies:": "Cloth.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Daggers, staffs",
+    "bonusToDefense:": "+2 Will.",
+    "hitPointsAt1stLevel": ": 12+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 5",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Arcana. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "classFeatures:": "Elemental Bolt, Elemental Magic, Elemental Specialty, Escalating Elements."
+  },
+  "classText": "Disdaining the framework of theories of magic and sympathetic principles, elementalists seize the raw stuff of creation with simple force of will, bending the elements to their whim. Elementalist sorcerers might fashion whips or darts out of fire, create shields and armor from living rock, or inundate their enemies beneath torrents of water. Since elementalists arise from very different magic-using traditions, other users of arcane power shun them. These sorcerers practice their arts in isolated monasteries, secretive cabals, and occasionally elemental cults. Often accused of being more reckless and destructive than other kinds of sorcerers, elementalists in turn sneer at spellcasters who seek to create tools and systems for shaping magic at a safe distance. To elementalists, the only right way to wield magic is to dive in headlong and seize power with both hands. Some believe that elementalists are prone to evil or that they revel in reckless destruction, but neither assertion is necessarily true. Like more conventional arcane magic, the elementalist’s magic is a tool—and like any tool, it can be turned to evil ends or to good.",
+  "classFeatures": {
+    "elementalBolt": "You gain the elemental bolt power.",
+    "elementalMagic": "You gain the following benefits. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Power: You gain a bonus to the damage rolls of arcane powers equal to your Constitution modifier. This bonus increases to 2 + your Constitution modifier at 5th level, 5 + your Constitution modifier at 15th level, and 8 + your Constitution modifier at 25th level. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Resilience: While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Versatility: At 9th level and 19th level, you gain a sorcerer at-will attack power of your choice.",
+    "elementalSpecialty": "Choose an elemental specialty. You gain the benefits of that specialty.",
+    "airElementalist": "You gain the following features. &nbsp;&nbsp;&nbsp;&nbsp;Attack Power: You gain either the howling zephyr or the static charge power. &nbsp;&nbsp;&nbsp;&nbsp;Enhanced Elemental Bolt: Your elemental bolt deals lightning damage. On a hit, its target gains vulnerable 3 to your elemental attacks until the end of your next turn. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Soul: At 5th level, you gain resist 10 lightning. At 15th level, you gain a +2 bonus to saving throws against ongoing lightning damage. At 25th level, choose either cold or thunder. You gain resist 10 to the chosen damage type and a +2 bonus to saving throws against ongoing damage of that type.  &nbsp;&nbsp;&nbsp;&nbsp;Fly: At 23rd level, you can fly up to half your speed as a move action.",
+    "earthElementalist": "You gain the following features. &nbsp;&nbsp;&nbsp;&nbsp;Attack Power: You gain either the erupting earth or the seismic shock power. &nbsp;&nbsp;&nbsp;&nbsp;Enhanced Elemental Bolt: Your elemental bolt deals acid damage. On a hit, its target is slowed until the end of your next turn. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Soul: At 5th level, you gain resist 10 acid. At 15th level, you gain a +2 bonus to saving throws against ongoing acid damage. At 25th level, choose either fire or thunder. You gain resist 10 to the chosen damage type and a +2 bonus to saving throws against ongoing damage of that type. &nbsp;&nbsp;&nbsp;&nbsp;Burrow: At 23rd level, you can burrow up to half your speed as a move action. You have tremorsense 5 while burrowing.",
+    "fireElementalist": "You gain the following features. &nbsp;&nbsp;&nbsp;&nbsp;Attack Power: You gain either the blazing cloud or the ignition power. &nbsp;&nbsp;&nbsp;&nbsp;Enhanced Elemental Bolt: Your elemental bolt deals fire damage. On a hit, its damage increases by 1d6. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Soul: At 5th level, you gain resist 10 fire. At 15th level, you gain a +2 bonus to saving throws against ongoing fire damage. At 25th level, choose either lightning or thunder. You gain resist 10 to the chosen damage type and a +2 bonus to saving throws against ongoing damage of that type. &nbsp;&nbsp;&nbsp;&nbsp;Teleport: At 23rd level, you can teleport up to half your speed as a move action.",
+    "waterElementalist": "You gain the following features. &nbsp;&nbsp;&nbsp;&nbsp;Attack Power: You gain either the deluge or the ice prison power. &nbsp;&nbsp;&nbsp;&nbsp;Enhanced Elemental Bolt: Your elemental bolt deals cold damage. On a hit, you can slide each creature adjacent to its target 1 square. &nbsp;&nbsp;&nbsp;&nbsp;Elemental Soul: At 5th level, you gain resist 10 cold. At 15th level, you gain a +2 bonus to saving throws against ongoing cold damage. At 25th level, choose either acid or thunder. You gain resist 10 to the chosen damage type and a +2 bonus to saving throws against ongoing damage of that type. &nbsp;&nbsp;&nbsp;&nbsp;Swim: At 23rd level, you gain a swim speed equal to your speed + 2. You also gain the aquatic trait; you can breathe underwater, and in aquatic combat, you gain a +2 bonus to attack rolls against nonaquatic creatures.",
+    "escalatingElements": "You gain the elemental escalation power associated with your Elemental Specialty: air, earth, fire, or water. &nbsp;&nbsp;&nbsp;&nbsp;At 3rd, 7th, and 13th level, you gain an additional use of the power each encounter, but you can still use the power only once per round."
+  }
+}

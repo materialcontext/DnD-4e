@@ -1,0 +1,39 @@
+{
+  "id": "'784",
+  "name": "Paladin (Cavalier)",
+  
+  
+  
+  "refSource": "Heroes of the Forgotten Kingdoms",
+  "classTraits": {
+    "role:": "Defender. You are a warrior of virtue, a champion of the righteous, and a defender of the weak. With your sword and your faith, you will shield the world from evil.",
+    "powerSource:": "Divine. ",
+    "keyAbilities:": "Strength, Charisma",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail, scale, plate; heavy shields, light shields.",
+    "weaponProficiencies:": "Simple melee, military melee, simple ranged, military ranged.",
+    "implement:": "Holy symbols",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel": ": 15+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 6",
+    "healingSurgesPerDay": ": 10+ Constitution Modifier.",
+    "trainedSkills": ": From the class skills list below, choose 4 trained skills at 1st level.",
+    "classFeatures:": "Defender Aura, Holy Smite, Righteous Radiance, Righteous Shield, Spirit of Virtue, Valiant Strike, Virtue At-Will Power."
+  },
+  "classText": "A cavalier is a paladin who has embraced one of the heroic virtues, such as compassion, justice, sacrifice, or valor. His or her belief in this virtue is so strong that it manifests as divine magic. Although many cavaliers pledge their faith to the gods, others follow no specific religion. Regardless of one’s divine affiliation (or lack thereof ), a cavalier’s virtue stands paramount. It guides his or her actions, pointing to the best way to protect the ever-flickering light of hope and civilization in the world. Opposing the cavaliers and the virtues that they champion are the blackguards, who embody the dreaded vices that the cavaliers stand against. Where cavaliers embrace compassion, justice, sacrifice, and valor, blackguards epitomize fury, tyranny, greed, and terror. Since the earliest days of history, these two factions have fought each other. Both wander the land, gathering allies and working to further the cause of their virtues or vices. At one time, cavaliers formed into chivalrous orders that were dedicated to the ideal of protecting the civilized realms. The forgotten kingdoms that ruled the land relied on cavaliers to help keep the peace. Those cavaliers maintained not only the military security of the land, but also its moral strength. A cavalier might drive off a marauding troll, but she could also mediate a dispute between two farmers, break the power of a corrupt noble, or free a wrongly accused prisoner. As with many things from the time of the forgotten kingdoms, the cavaliers’ glory proved fleeting. The kingdoms of old grew weak, and some of their decline could be laid at the feet of cavaliers who strayed from the righteous path. All too often, cavaliers fell victim to the very evils they had sworn to combat. Power corrupts, and in many cases cavaliers served as perfect examples of how power can twist the most resolute heart. The grand orders of cavaliers have long since faded, but their glory is not forgotten. Even as evil casts its shadow across the land, there are those who hear the call to the cavalier’s path. Many of the cavaliers of old strayed from their purpose, but that purpose and the power behind it remains strong for those who stay true to it.",
+  "classFeatures": {
+    "holySmite": "You gain the holy smite power.",
+    "righteousRadiance": "You gain the righteous radiance power.",
+    "righteousShield": "You gain the righteous shield power.",
+    "spiritOfVirtue": "You gain a benefit associated with your virtue.",
+    "spiritOfSacrifice": "You gain an additional healing surge. In addition, you can use your second wind as a minor action to heal an ally of your choice within 5 squares of you. If you do so, you gain no benefit from using your second wind, but the ally regains hit points equal to his or her healing surge value.",
+    "spiritOfValor": "You gain a +4 bonus to initiative checks, and your healing surge value increases by 2.",
+    "valiantStrike": "You gain the valiant strike power.",
+    "virtueAt-willPower": "You gain an at-will attack power associated with your virtue.",
+    "sacrificeAt-willPower": "You gain the strike of hope power.",
+    "valorAt-willPower": "You gain the vengeful strike power.",
+    "improvedRighteousShield(sacrifice)": "When you use your righteous shield, the damage you take is reduced by 10. At 23rd level, the damage you take is reduced by 20.",
+    "improvedRighteousShield(valor)": "When you use your righteous shield, you also gain a bonus to your next damage roll before the end of your next turn. The bonus equals 2 + your Charisma modifier. At 23rd level, this bonus increases to 5 + your Charisma modifier.",
+    "sharedSacrifice": "You gain the shared sacrifice power.",
+    "sharedValor": "You gain the shared valor power."
+  }
+}

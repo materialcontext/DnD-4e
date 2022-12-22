@@ -1,0 +1,68 @@
+{
+  "id": "'127",
+  "name": "Invoker",
+  
+  
+  
+  "refSource": "Player's Handbook 2",
+  "classTraits": {
+    "role:": "Controller. You invoke the power of a god to blast your foes from a distance, leave them unable to defend themselves, and scatter them to the four winds. Depending on your choice of class features and powers, you lean toward either leader or striker as a secondary role.",
+    "powerSource:": "Divine. You practice an ancient form of divine magic, wielding the power that the gods themselves used in their battle against the primordials.",
+    "keyAbilities:": "Wisdom, Constitution, Intelligence",
+    "armorProficiencies:": "Cloth, leather, hide, chainmail.",
+    "weaponProficiencies:": "Simple melee, simple ranged.",
+    "implement:": "Rods, staffs",
+    "bonusToDefense:": "+1 Fortitude, +1 Reflex, +1 Will.",
+    "hitPointsAt1stLevel:": "10+ Constitution Score.",
+    "hitPointsPerLevelGained:": ": 4",
+    "healingSurgesPerDay:": "6+ Constitution Modifier.",
+    "trainedSkills:": "Religion. From the class skills list below, choose 3 more trained skills at 1st level.",
+    "buildOptions:": "Malediction Invoker, Preserving Invoker, Wrathful Invoker.",
+    "classFeatures:": "Channel Divinity, Divine Covenant, Ritual Casting."
+  },
+  "classText": "At the dawn of time, the gods who inhabited the Astral Sea warred with the primordials of the Elemental Chaos, the mighty beings who shaped the world out of formless void. The greatest of the gods\\' mortal agents in that war were invokers, imbued with a fragment of the gods\\' own might to fight alongside them. No other mortal servant of the gods can claim the same kind of power. Through rites of investiture, avengers, clerics, and paladins gain the ability to manifest echoes of that power, uttering careful prayers and channeling divine energy through their holy symbols. You, however, channel your god\\'s power directly. No mere symbol can contain it, for you speak the words of creation, shaping the universe to your and your god\\'s will.  Perhaps you were trained in a secret monastery, or you studied in a library where the universe\\'s oldest lore was preserved. Or perhaps you experienced the presence of your god firsthand and took a shard of divine power into yourself. You might even be an immortal born into flesh, slowly awakening to the awesome divine power that is your birthright. Whatever your past, you are among the gods\\' most trusted servants, bound to a covenant in which you swore to use divine power with great care. To what end will you wield that might?",
+  "suggestions": {
+    "overview": "Invokers rely on Wisdom -- as an expression of their link to the divine will -- for the accuracy and potency of their attacks. Each invoker enters into a covenant with a god, a sworn pact in which the invoker agrees to fulfill certain duties in exchange for the divine power he or she will use to carry out those duties. The two most common covenants -- the Covenant of Preservation and the Covenant of Wrath -- lend themselves to two common invoker builds. Even though you must choose a covenant, you can choose any powers you like to help you fulfill it.",
+    "suggestions": {
+      "maledictionInvoker": {
+        "overview": "You are an instrument of divine wrath, smiting those who have the temerity to doubt the reach of your god\\'s power. Make Wisdom your highest ability score, followed by Constitution, since your physical durability allows you to withstand and channel divine wrath. Focus on powers that bring ruin to your foes. The wrathful invoker leans toward striker as a secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Invoker Defense",
+        "suggestedSkills": "Endurance, Insight, Intimidate, Religion",
+        "suggestedAtWillPowers": "avenging light, grasping shards",
+        "suggestedEncounterPowers": "thunder of judgment",
+        "suggestedDailyPowers": "purging flame"
+      },
+      "preservingInvoker": {
+        "overview": "You are an instrument of divine wrath, smiting those who have the temerity to doubt the reach of your god\\'s power. Make Wisdom your highest ability score, followed by Constitution, since your physical durability allows you to withstand and channel divine wrath. Focus on powers that bring ruin to your foes. The wrathful invoker leans toward striker as a secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Invoker Defense",
+        "suggestedSkills": "Endurance, Insight, Intimidate, Religion",
+        "suggestedAtWillPowers": "avenging light, grasping shards",
+        "suggestedEncounterPowers": "thunder of judgment",
+        "suggestedDailyPowers": "purging flame"
+      },
+      "wrathfulInvoker": {
+        "overview": "You are an instrument of divine wrath, smiting those who have the temerity to doubt the reach of your god\\'s power. Make Wisdom your highest ability score, followed by Constitution, since your physical durability allows you to withstand and channel divine wrath. Focus on powers that bring ruin to your foes. The wrathful invoker leans toward striker as a secondary role.",
+        "classFeature": "",
+        "suggestedFeat": "Invoker Defense",
+        "suggestedSkills": "Endurance, Insight, Intimidate, Religion",
+        "suggestedAtWillPowers": "avenging light, grasping shards",
+        "suggestedEncounterPowers": "thunder of judgment",
+        "suggestedDailyPowers": "purging flame"
+      }
+    }
+  },
+  "classFeatures": {
+    "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers. &nbsp;&nbsp;&nbsp;&nbsp;Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
+    "divineCovenant": "Invokers wield ancient divine power that is not accessible to most mortals -- only to those who enter into a personal covenant with a god. Invokers undergo long years of study and testing. Only after that time are they allowed to enter into the final covenant that grants them access to this class\\'s powers. Some say that, in the final swearing of the covenant, the invoker\\'s god briefly manifests, but the details of an invoker\\'s initiation are a closely held secret. Choose one of the options described below. The Divine Covenant you choose provides you with a Channel Divinity power and a covenant manifestation that takes effect whenever you use a divine encounter or daily attack power. Your choice also provides bonuses to certain invoker powers, as detailed in those powers.",
+    "covenantOfMalediction": "The gods entrust you with the invocations of destruction used in their war against the primordials, so you can carry forward their sacred cause and ensure that the world’s enemies never rise again.",
+    "covenantOfPreservation": "The gods have charged you to defend the faithful and to ally with those who seek to defeat the gods\\' enemies. Channel Divinity: You gain the Channel Divinity power preserver\\'s rebuke. Covenant Manifestation: When you use a divine encounter or daily attack power on your turn, you can slide an ally within 10 squares of you 1 square.",
+    "covenantOfWrath": "You have sworn to seek out and destroy those that oppose the gods. Primordials, demons, and devils fall before your magic like wheat before a scythe. Channel Divinity: You gain the Channel Divinity power armor of wrath. Covenant Manifestation: When you use a divine encounter or daily attack power on your turn, you gain a bonus to the damage roll equal to 1 for each enemy you attack with the power.",
+    "ritualCasting": "You gain the Ritual Caster feat as a bonus feat, allowing you to use magical rituals.",
+    "rituals": "You own a ritual book, and it contains two rituals of your choice that you have mastered: Hand of Fate and one 1st-level ritual. Once per day, you can use Hand of Fate without expending components.",
+    "implements": "Invokers do not make use of holy symbols, since they believe that their magic predates and transcends such representations of divine power. Instead, invokers make use of rods and staffs as representations of the gods' dominion over the world. When you wield a magic rod or a magic staff, you can add its enhancement bonus to the attack rolls and the damage rolls of invoker powers and invoker paragon path powers that have the implement keyword. Without an implement, you can still use these powers."
+  },
+  "choiceOfAlignment": "Invokers don't gain their power through rites of investiture or ordination, as avengers, clerics, and paladins do. You bear the touch of your god's own hand on your soul, a direct channel through which divine power can flow into the world, shaped by your will. Because you strive to bring your will into perfect accordance with your deity's, your alignment must match your deity's. For instance, an invoker of Moradin must be lawful good, an invoker of Pelor must be good, and an invoker of Ioun must be unaligned.",
+  "choiceOfDiety": "Like other divine characters, invokers are dedicated servants of one or more deities. Most invokers devote themselves to a single deity, but all invokers recognize the entire pantheon as worthy of respect (see 'Deities', Player's Handbook, page 20). Whereas a cleric might revere Corellon and despise Lolth as a rival and enemy, an invoker dedicated to Corellon recognizes Lolth and her servants as comrades in arms against the forces that seek to destroy the world and the gods. That's not to say that you can't oppose the evil schemes of Lolth's followers if you're dedicated to Corellon, only that you shouldn't lose sight of the grander scheme of things."
+}

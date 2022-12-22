@@ -1,0 +1,61 @@
+{
+  "id": "'466",
+  "name": "Assassin",
+  
+  
+  
+  "refSource": "Dragon Magazine 379",
+  "classTraits": {
+    "role:": "Striker. You are the ghost in the night and the whisper on the wind. Barriers are worthless against you, and you strike your foes with sudden, precise force. You lean toward controller as a secondary role.",
+    "powerSource:": "Shadow. You have bound your soul to the Shadowfell and become a being of darkness.",
+    "keyAbilities:": "Dexterity, Charisma, Constitution",
+    "armorProficiencies:": "Cloth, leather; light shields.",
+    "weaponProficiencies:": "Simple one-handed melee, simple ranged, military heavy blade, military light blade.",
+    "implement:": "Ki focuses, weapons with which you have proficiency",
+    "bonusToDefense:": "+1 Fortitude, +1 Will.",
+    "hitPointsAt1stLevel": ": 10+ Constitution Score.",
+    "hitPointsPerLevelGained": ": 4",
+    "healingSurgesPerDay": ": 6+ Constitution Modifier.",
+    "trainedSkills": ": Stealth. From the class skills list below, choose four more trained skills at 1st level.",
+    "buildOptions:": "Bleak Disciple Assassin, Night Stalker Assassin.",
+    "classFeatures:": "Assassin's Shroud, Guild Training, Shade Form, Shadow Step."
+  },
+  "classText": "Few creatures embrace shadow magic without both a compelling reason and a measure of desperation. Not many visit the Shadowfell willingly, let alone pledge a shard of their souls to it. Yet that is exactly what assassins, and other practitioners of shadow magic, do to gain their power.  As an assassin, you cede a portion of yourself to the Shadowfell, replacing a fundamental part of your being with a dark reflection of your true self. At times, you can manifest this twisted image in place of your body so that you can face attacks with little cause for concern. Also, the infusion of shadow magic allows you to spot the weakest points in a victim’s defenses. With a few moments of study, you can reduce even the stoutest warrior to a corpse.  If others know that you are an assassin, you might find that few trust you. In some civilized realms, the study of shadow magic and assassination is banned on pain of death. In the past, and as a response to the outcry against them, assassins formed coteries, or guilds, of like-minded slayers, and each one delves into the study of shadow magic and develops unique methods of killing. A guild provides you with a measure of protection, and its grandmasters expect obedience and fealty. The wars between guilds, and the struggles within them, might never spill into mass battles, but they still leave dozens of slain folk in their wake.  As an assassin, you are an outcast. You traded away part of your soul for the power of death. Perhaps you seek justice against a powerful enemy, or maybe you had no other way to preserve yourself in the face of a bleak, uncaring world. Whatever drew you onto the assassin’s path, you are an avatar of death and a trained killer from whom few can escape unharmed.",
+  "suggestions": {
+    "overview": "Assassins rely on Dexterity, Charisma, and Constitution for their powers. You can choose any powers you like, but assassins typically choose powers that complement their choice of Guild Training.",
+    "suggestions": {
+      "bleakDiscipleAssassin": {
+        "overview": "You tap into shadow magic to spread terror, cloud the reason of your enemies, drive away their allies, and leave all your foes vulnerable to your attack. After Dexterity, Charisma should be your second highest ability score. Constitution is a good third choice due to the additional hit points it grants. Choose the Night Stalker option for your Guild Training class feature, and focus on fear powers and powers that grant an additional benefit due to your Guild Training choice.",
+        "classFeature": "",
+        "suggestedFeat": "Nightmare Killer",
+        "suggestedSkills": "Arcana, Bluff, Insight, Stealth, Thievery",
+        "suggestedAtWillPowers": "inescapable blade, shadow storm",
+        "suggestedEncounterPowers": "smothering shadow",
+        "suggestedDailyPowers": "terrifying visage"
+      },
+      "nightStalkerAssassin": {
+        "overview": "You tap into shadow magic to spread terror, cloud the reason of your enemies, drive away their allies, and leave all your foes vulnerable to your attack. After Dexterity, Charisma should be your second highest ability score. Constitution is a good third choice due to the additional hit points it grants. Choose the Night Stalker option for your Guild Training class feature, and focus on fear powers and powers that grant an additional benefit due to your Guild Training choice.",
+        "classFeature": "",
+        "suggestedFeat": "Nightmare Killer",
+        "suggestedSkills": "Arcana, Bluff, Insight, Stealth, Thievery",
+        "suggestedAtWillPowers": "inescapable blade, shadow storm",
+        "suggestedEncounterPowers": "smothering shadow",
+        "suggestedDailyPowers": "terrifying visage"
+      }
+    }
+  },
+  "classFeatures": {
+    "assassin'sShroud": "You gain the assassin’s shroud power. The dark magic of the Shadowfell courses through your veins, tainting your soul but granting you the ability to subject an enemy to invisible shrouds that reveal its weakest points. The more of your shrouds there are on a target, the deadlier a blow you can strike against it.",
+    "guildTraining": "Assassins gain their abilities by following a training regimen developed by a particular guild. Even an assassin taught by an individual master studies a set of teachings that were once developed by a guild.",
+    "bleakDisciple": "When you hit an unbloodied target, you gain temporary hit points equal to your Constitution modifier. Add 2 to the temporary hit points gained at 11th level and 4 at 21st level.",
+    "executioner'sGuild": "You gain the assassin’s strike power. You do not gain assassin encounter attack powers.",
+    "nightStalker": "You gain a bonus to damage rolls equal to your Charisma modifier against any target that is adjacent to none of your enemies.",
+    "shadeForm": "You gain the shade form power. When you gave part of your soul to the Shadowfell, the power of that dark realm fused with your material form. As a result, you can assume a shadowy form that allows you to pass through barriers and evade enemies that you could not normally avoid.",
+    "shadowStep": "You gain the shadow step power. The shadow energy surrounding every creature touches the Shadowfell slightly, for the realm of death is a creature’s eventual destination. You have the ability to walk the shadow pathways from one creature to another.",
+    "implements": "Assassins focus their shadow energy through a ki focus, which is not an object they wield but a reservoir of magical power within themselves. When using a ki focus, an assassin taps into the power of shadow magic and channels it into both implement and weapon attacks. \nYou can imbue your ki focus with magic as if it were a physical implement. When you have a magic ki focus, you can add its enhancement bonus to the attack rolls and the damage rolls of assassin powers and assassin paragon path powers that have the implement keyword. You can also add its enhancement bonus to the attack rolls and the damage rolls of any weapon attack you make using a weapon with which you're proficient. \nYou can also use a weapon with which you're proficient as an implement. While wielding the weapon as an implement, the characteristics of the weapon you use—proficiency bonus, damage die, and weapon properties (such as defensive or high crit)—are irrelevant to your implement powers. \nIf you have a magic ki focus and wield a magic weapon, you choose before you use an attack power whether to draw on the magic of your ki focus or to employ the magic of your weapon. Your choice determines which enhancement bonus, critical hit effects, and magic item properties and powers you can apply to attacks with that power. You can't, for example, use the enhancement bonus of your ki focus and the property of your magic weapon with the same attack power."
+  },
+  "characteristics": "You can turn into an insubstantial creature of shadow. While you are in that form, even the most alert sentinel can overlook your approach, and attacks pass through you with little harm. When you spot your target, you study its weaknesses as you prepare to deliver a killing blow.",
+  "religion": "Assassins who pursue evil creatures are often worshipers of the Raven Queen, who teaches that death is the great leveler, a tool the world needs to end abuses by powerful beings. Evil assassins wallow in the misery and fear they cause, or they revel in performing an exquisite kill. Such folk usually venerate Zehir or Lolth.",
+  "races": "Revenants have the combination of implacability and physical ability needed to flourish as assassins. Half-orcs also excel as assassins, often having a brutish nature that makes the assassin's art palatable to them. Drow are superlative assassins, both because they grow up in a society that values skilled murder and because they are comfortable with working in darkness. Halflings make good assassins since they can combine their natural stealthiness with a native curiosity that makes hiding from them difficult. Changeling assassins possess an unsurpassed ability to infiltrate and kill from a position of trust.",
+  "assassinsAndTheKiFocus": "Assassins use ki focuses for the ability to augment mundane weapons. After all, a guard patrol is far more suspicious of the wanderer carrying a greatsword than of the unarmed peasant. Using ki focuses, assassins wield whatever weapons are at hand, or even unarmed strikes, to deliver shadow attacks. \nWhen you use your ki focus with a weapon attack, you focus shadow magic into your weapon. Some assassins carry a few different weapons to ensure that they have the right tool for the job. An accurate weapon, such as a longsword, is a good tool for taking down a heavily armored warrior. When an assassin battles a brute that relies on endurance rather than defense, a less accurate but devastating weapon such as a greataxe proves useful. \nSince your ki focus augments your basic attacks, a thrown weapon wielded in your off hand serves as the perfect complement to your primary weapon. You can throw a dagger to cut down a fleeing guard, and feats such as Two-Weapon Fighting improve your melee abilities."
+}
