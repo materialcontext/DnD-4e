@@ -52,10 +52,14 @@
   },
   "classFeatures": {
     "bardicTraining": "You gain the Ritual Caster feat as a bonus feat, allowing you to use magical rituals. You own a ritual book, and it contains two rituals of your choice that you have mastered: one 1st-level ritual that has bard as a prerequisite and another 1st-level ritual. &nbsp;&nbsp;&nbsp;&nbsp;In addition, you can perform one bard ritual per day of your level or lower without expending components, although you must pay any other costs and use any focus required by the ritual. At 11th level, you can perform two bard rituals per day of your level or lower without expending components; at 21st level, you can perform three.",
-    "bardicVirtue": "Bards praise many virtues in their stories, telling tales of people whose particular qualities set them above common folk. The valor of dauntless heroes and the cunning of great minds are among these virtues, and a bard can choose to emphasize either quality. &nbsp;&nbsp;&nbsp;&nbsp;Choose one of the following options. The choice you make gives you the benefit described below and also provides bonuses to certain bard powers, as detailed in those powers.",
-    "virtueOfCunning": "Once per round, when an enemy attack misses an ally within a number of squares of you equal to 5 + your Intelligence modifier, you can slide that ally 1 square as a free action.",
-    "virtueOfPrescience": "Once per encounter as an immediate interrupt, when an enemy hits one ally within 5 squares of you, you grant that ally a power bonus equal to your Wisdom modifier to the defense targeted by the triggering enemy until the end of that enemy’s turn.",
-    "virtueOfValor": "Once per round, when any ally within 5 squares of you reduces an enemy to 0 hit points or bloodies an enemy, you can grant temporary hit points to that ally as a free action. The number of temporary hit points equals 1 + your Constitution modifier at 1st level, 3 + your Constitution modifier at 11th level, and 5 + your Constitution modifier at 21st level.",
+    "bardicVirtue": {
+      "overview": "Bards praise many virtues in their stories, telling tales of people whose particular qualities set them above common folk. The valor of dauntless heroes and the cunning of great minds are among these virtues, and a bard can choose to emphasize either quality. &nbsp;&nbsp;&nbsp;&nbsp;Choose one of the following options. The choice you make gives you the benefit described below and also provides bonuses to certain bard powers, as detailed in those powers.",
+      "options": {
+        "virtueOfCunning": "Once per round, when an enemy attack misses an ally within a number of squares of you equal to 5 + your Intelligence modifier, you can slide that ally 1 square as a free action.",
+        "virtueOfPrescience": "Once per encounter as an immediate interrupt, when an enemy hits one ally within 5 squares of you, you grant that ally a power bonus equal to your Wisdom modifier to the defense targeted by the triggering enemy until the end of that enemy’s turn.",
+        "virtueOfValor": "Once per round, when any ally within 5 squares of you reduces an enemy to 0 hit points or bloodies an enemy, you can grant temporary hit points to that ally as a free action. The number of temporary hit points equals 1 + your Constitution modifier at 1st level, 3 + your Constitution modifier at 11th level, and 5 + your Constitution modifier at 21st level."
+      }
+    },
     "majesticWord": "The arcane power of a bard’s voice can heal allies. You gain the majestic word power.",
     "multiclassVersatility": "You can choose class-specific multiclass feats from more than one class.",
     "skillVersatility": "You gain a +1 bonus to untrained skill checks.",

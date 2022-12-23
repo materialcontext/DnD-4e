@@ -63,11 +63,15 @@
   },
   "classFeatures": {
     "fontOfLife": "At the start of your turn, you can make a saving throw against one effect that a save can end. On a save, the effect immediately ends, preventing it from affecting you on your current turn. If you save against being stunned or dazed, you can act normally on your turn. If you save against ongoing damage, you avoid taking the damage. If you fail the saving throw, you still make a saving throw against the effect at the end of your turn.",
-    "guardianMight": "Wardens connect with the natural world in a variety of ways to augment their fighting abilities. Choose one of the following options.",
-    "earthstrength": "While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC. In addition, when you use your second wind, you gain an additional bonus to AC equal to your Constitution modifier. The bonus lasts until the end of your next turn.",
-    "lifespirit": "While you are not wearing heavy armor, you can use your Wisdom modifier in place of your Dexterity or Intelligence modifier to determine your AC.",
-    "stormheart": "While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC.",
-    "wildblood": "While you are not wearing heavy armor, you can use your Wisdom modifier in place of your Dexterity or Intelligence modifier to determine your AC. In addition, when you use your second wind, each enemy marked by you takes an additional penalty to attack rolls for attacks that don’t include you as a target. The penalty equals your Wisdom modifier and lasts until the end of your next turn.",
-    "nature\\'sWrath": "Once during each of your turns, you can mark each adjacent enemy as a free action. This mark lasts until the end of your next turn. In addition, you gain the warden’s fury and warden’s grasp powers. You can use these powers against enemies to prevent them from harming those you protect."
+    "guardianMight": {
+      "overview": "Wardens connect with the natural world in a variety of ways to augment their fighting abilities. Choose one of the following options.",
+      "options": {
+        "earthstrength": "While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC. In addition, when you use your second wind, you gain an additional bonus to AC equal to your Constitution modifier. The bonus lasts until the end of your next turn.",
+        "lifespirit": "While you are not wearing heavy armor, you can use your Wisdom modifier in place of your Dexterity or Intelligence modifier to determine your AC.",
+        "stormheart": "While you are not wearing heavy armor, you can use your Constitution modifier in place of your Dexterity or Intelligence modifier to determine your AC.",
+        "wildblood": "While you are not wearing heavy armor, you can use your Wisdom modifier in place of your Dexterity or Intelligence modifier to determine your AC. In addition, when you use your second wind, each enemy marked by you takes an additional penalty to attack rolls for attacks that don’t include you as a target. The penalty equals your Wisdom modifier and lasts until the end of your next turn."  
+      }
+    },
+    "nature'sWrath": "Once during each of your turns, you can mark each adjacent enemy as a free action. This mark lasts until the end of your next turn. In addition, you gain the warden’s fury and warden’s grasp powers. You can use these powers against enemies to prevent them from harming those you protect."
   }
 }

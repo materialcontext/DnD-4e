@@ -45,9 +45,13 @@
   },
   "classFeatures": {
     "inevitableShot": "You gain the inevitable shot power. You can use this power to call on spirits to send your projectile hurling toward another enemy when you miss with a ranged attack.",
-    "seeker\\'sBond": "Seekers develop special bonds with primal spirits by offering solemn vows to further the spirits’ purposes. In exchange for these vows, the spirits bestow a measure of their strength to aid their champions’ cause.",
-    "bloodbond": "You gain the encaging spirits power. In addition, while you are not wearing heavy armor, you can shift as a minor action.",
-    "spiritbond": "You gain the spirits’ rebuke power. You also gain a +1 bonus to attack rolls with both light thrown and heavy thrown weapons, and when you make an attack by throwing a weapon with which you have proficiency, the weapon returns to your hand after the attack. In addition, while you are not wearing heavy armor, you can use your Strength modifier in place of your Dexterity or Intelligence modifier to determine your AC."
+    "seeker'sBond": {
+      "overview": "Seekers develop special bonds with primal spirits by offering solemn vows to further the spirits’ purposes. In exchange for these vows, the spirits bestow a measure of their strength to aid their champions’ cause.",
+      "options": {
+        "bloodbond": "You gain the encaging spirits power. In addition, while you are not wearing heavy armor, you can shift as a minor action.",
+        "spiritbond": "You gain the spirits’ rebuke power. You also gain a +1 bonus to attack rolls with both light thrown and heavy thrown weapons, and when you make an attack by throwing a weapon with which you have proficiency, the weapon returns to your hand after the attack. In addition, while you are not wearing heavy armor, you can use your Strength modifier in place of your Dexterity or Intelligence modifier to determine your AC."
+      }
+    }
   },
   "characteristics": "Your arrows or thrown weapons loose primal power when used. They might manifest as primal spirits hungering for revenge or as icy winds or crackling lightning. Your powers control your enemies, interfering with their movement, holding them in place, or injuring them for their actions. Also, your attacks might call forth spirits to worry your enemies and pursue them across the battlefield.",
   "races": " Like other primal characters, seekers view the world's primal spirits as kindred and partners, and they venerate them more than they worship the gods. Seekers who do follow deities commonly worship Melora for her dominion over the forces of nature, Corellon (who is sometimes depicted as the founder of archery), Kord, or Sehanine. Evil seekers sometimes follow Gruumsh or Zehir.",
