@@ -1,0 +1,9 @@
+---
+import ClassLayout from "../../layouts/bgLayout.astro";
+
+// change this to the proper api endpoint
+let response = await fetch(`D:/FPXI/Programming/DnD-4e/src/data/backgrounds/${Astro.params.background}.json`);
+let data = await response.json();
+
+---
+<ClassLayout data={data}/>

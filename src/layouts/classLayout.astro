@@ -17,11 +17,11 @@ const featureEntries = Object.entries(classFeatures);
 <html>
   <Head name={name}/>
   <body>
-    <div class="p-3 bg-ivory">
+    <div class="p-3 bg-offwhite shadow">
       <h1 class="name text-ivory">{name}</h1>
       <p class="mb-6 px-2 leading-relaxed">{classText}</p>
       <blockquote class="bg-gainsboro mb-6 pb-2 shadow-sm">
-        <h1 class="leading-none  text-xl p-2 font-bold bg-pgl-red text-ivory">Class Traits</h1>
+        <h1 class="leading-none  text-xl p-2 font-bold bg-pgl-red text-ivory">CLASS TRAITS</h1>
         <ul class="px-2 text-base">
           {traitEntries.map(([key, value]) => {
             key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
@@ -39,19 +39,19 @@ const featureEntries = Object.entries(classFeatures);
                 <h3 class="font-bold text-base mt-4 leading-none">{key}</h3>
                 <p class="my-2">{value["overview"] && value["overview"]}</p>
                 <ul class="px-4">
-                  {value["classFeature"] && <li class="flex">Class Feature: <p class="ml-1">{value["classFeature"] && value["classFeature"]}</p></li>}
-                  <li class="flex">Suggested Feat:<p class="ml-1">{value["suggestedFeat"]}</p></li>
-                  <li class="flex">Suggested Skills:<p class="ml-1">{value["suggestedSkills"]}</p></li>
-                  <li class="flex">Suggested At-Will Powers:<p class="ml-1">{value["suggestedAtWillPowers"]}</p></li>
-                  <li class="flex">Suggested Encounter Powers:<p class="ml-1">{value["suggestedEncounterPowers"]}</p></li>
-                  <li class="flex">Suggested Daily Powers:<p class="ml-1">{value["suggestedDailyPowers"]}</p></li>
+                  {value["classFeature"] && <li class="flex font-medium">Class Feature: <p class="ml-1">{value["classFeature"] && value["classFeature"]}</p></li>}
+                  <li class="flex font-medium">Suggested Feat:<p class="ml-1">{value["suggestedFeat"]}</p></li>
+                  <li class="flex font-medium">Suggested Skills:<p class="ml-1">{value["suggestedSkills"]}</p></li>
+                  <li class="flex font-medium">Suggested At-Will Powers:<p class="ml-1">{value["suggestedAtWillPowers"]}</p></li>
+                  <li class="flex font-medium">Suggested Encounter Powers:<p class="ml-1">{value["suggestedEncounterPowers"]}</p></li>
+                  <li class="flex font-medium">Suggested Daily Powers:<p class="ml-1">{value["suggestedDailyPowers"]}</p></li>
                 </ul>
               </li>
               })}
             </ul>
           </div>
       }
-      <h1 class="text-xl font-bold mt-6 text-black">Class Features</h1>
+      <h1 class="text-xl font-bold mt-6 text-black">CLASS FEATURES</h1>
       <ul class="ml-3">
         {featureEntries.map(([key, value]) => {
           key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
@@ -59,10 +59,24 @@ const featureEntries = Object.entries(classFeatures);
             return <li class="pb-1 font-light"><b class="font-bold pr-2">{key}:</b>{value}</li>
           } else {
             return <li class="pb-1 font-light mt-2"><b class="font-bold pr-2">{key}:</b>{value["overview"]}
-              <ul class="ml-8 mt-2 list-disc">
-                {Object.entries(value["options"]).map(([name, text]) => {
+              <ul class="ml-4 mt-2">
+                {Object.entries(value["options"]).map(([feature, option]) => {
+                  if (name === "Sorcerer") {
+                    return <li class="pb-1 mt-1 font-light"><b class="font-medium pr-2">
+                        {feature.charAt(0).toUpperCase() + feature.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{option["overview"]}
+                        <ul class="ml-4 mt-2 list-disc">
+                          {Object.entries(option).slice(1).map(
+                            ([subFeature, subOption]) => {
+                              return <li class="pb-1 font-light"><b class="font-normal pr-2">
+                                {subFeature.charAt(0).toUpperCase() + subFeature.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{subOption}
+                                </li>
+                              }
+                          )}
+                        </ul>
+                      </li>
+                  }
                   return <li class="pb-1 font-light"><b class="font-normal pr-2">
-                    {name.charAt(0).toUpperCase() + name.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{text}
+                    {feature.charAt(0).toUpperCase() + feature.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{option}
                     </li>
                 })}
               </ul>
@@ -70,7 +84,7 @@ const featureEntries = Object.entries(classFeatures);
           }
         })}
       </ul>
-      <p class="mt-4 mb-2 italic text-sm">{refSource}</p>
+      <p class="mt-4 mb-2 italic">Published in {refSource}</p>
     </div>
   </body>
 </html>

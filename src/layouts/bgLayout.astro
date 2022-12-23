@@ -1,0 +1,27 @@
+---
+import Head from "../components/Head.astro";
+
+const {name, type, campaign, skills, prerequisite,
+    sourceRef, previewText, flavor, benefit
+    } = Astro.props.data;
+---
+
+<!DOCTYPE HTML>
+<html>
+    <Head name={name} />
+    <body>
+        <div class="p-3 bg-offwhite shadow">
+            <h1 class="bg-prussian text-ivory leading-none font-bold text-3xl px-2 py-1">{name}</h1>
+            {previewText && <p class="italic px-2">{previewText}</p>}
+            <div class="px-2 my-4 ml-8">
+                <div class="flex font-medium">Type: <p class="ml-2">{type}</p></div>
+                <div class="flex font-medium">Campaign: <p class="ml-2">{campaign}</p></div>
+                {prerequisite && <div class="flex font-medium">Prerequisite: <p>{prerequisite}</p></div>}
+            </div>
+            <p class="px-2 mb-4">{flavor}</p>
+            {benefit && <div class="flex px-2"><span class="font-medium ml-8">Benefit: </span><p class="ml-2">{benefit}</p></div>}
+            {skills && <div class="flex px-2"><span class="font-medium ml-8">Associated Skills: </span><p class="ml-2">{skills}</p></div>}
+            <p class="px-2 mt-4 mb-2 italic">Published in {sourceRef}</p>
+        </div>
+    </body>
+</html>

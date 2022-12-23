@@ -1,4 +1,4 @@
----
+--- 
 import Layout from "../layouts/Layout.astro";
 import BuilderNav from "../components/BuilderNav.jsx";
 import ClassesTable from "../components/tables/ClassesTable";
@@ -16,7 +16,7 @@ import "../styles/builder.css";
       <BuilderNav client:load/>
       <div id="classesTable" class="visible"><ClassesTable client:load/></div>
       <div id="racesTable" class="hidden"><RacesTable client:idle/></div>
-      <div id="backgroundsTable" class="hidden"><BackgroundsTable client:idle/></div>
+      <!-- <div id="backgroundsTable" class="hidden"><BackgroundsTable client:idle/></div> -->
       <div id="statsTable" class="hidden"></div>
       <div id="skillsTable" class="hidden"></div>
       <div id="powersTable" class="hidden"></div>

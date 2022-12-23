@@ -5,7 +5,7 @@ import toCamelCase from './toCamelCase.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-let file = fs.readFileSync(__dirname + '/../data/ddiPower.sql', 'utf8');
+let file = fs.readFileSync(__dirname + '/../data/ddiBackground.sql', 'utf8');
 
 //a regex to get all the lines that values between "VALUES (" and ");"
 let regex = /VALUES \((.*?)\);\n/g;
@@ -15,36 +15,30 @@ let matches = file.match(regex);
 
 let jsonTemplate = {
     "id": 0,
-    "action": "",
-    "powerClass": "",
-    "frequency": "",
-    "level": "",
     "name": "",
     "type": "",
+    "campaign": "",
+    "skills": "",
     "sourceRef": "",
-    "fullText": "",
+    "fullText": ""
 }
 
 let fileNames = [];
 let json = {};
 
 const addToObject = (values) => {
-    json[values[7]][values[1]] = { ...jsonTemplate };
-    let target = json[values[7]][values[1]];
+    let name = values[1].replace(/\//g, "~");
+    json[name] = { ...jsonTemplate };
+    let target = json[name];
 
     target.id = values[0];
-    target.name = values[1];
-    target.level = values[2];
-    target.action = values[3];
-
+    target.name = values[name];
+    target.type = values[2];
+    target.campaign = values[3];
+    target.skills = values[4];
     // remove backslashes from sourceRef
-    target.sourceRef = values[6].replace(/\\/g, '');
-    target.powerClass = values[7];
-    target.fullText = values[9];
-    target.type = values[10];
-
-    // remove "');\n" from powerFreq
-    target.frequency = values[11].replace(/'\);\n/, '');
+    target.sourceRef = values[5].replace(/\\/g, '');
+    target.fullText = values[7];
 };
 
 let check = true;
@@ -56,19 +50,21 @@ for (let match of matches) {
     }
     
     // if the file name is already in the array, add to the object
-    if (fileNames.includes(values[7])) {
+    if (fileNames.includes(values[1])) {
         addToObject(values);
     } else {
         // if the file name is not in the array, create a new object and add to the array
-        fileNames.push(values[7]);
+        let fileName = values[1].replace(/\//g, "~")
+        fileNames.push(fileName);
 
         // create a new object with the power name as the key
-        json[values[7]] = {};
+        json[fileName] = {};
         addToObject(values);
     }
 };
 
 // save jsons to files by power class
 for (let i = 0; i < fileNames.length; i++) {
-    fs.writeFileSync(__dirname + '/../data/powers/' + toCamelCase(fileNames[i]) + '.json', JSON.stringify(json[fileNames[i]]));
+    console.log(fileNames.length)
+    fs.writeFileSync(__dirname + '/../data/backgrounds/' + toCamelCase(fileNames[i]) + '.json', JSON.stringify(json[fileNames[i]]));
 }
