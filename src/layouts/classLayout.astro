@@ -1,16 +1,18 @@
 ---
 import Head from "../components/Head.astro";
+import fromCamelCase from "../utils/fromCamelCase";
 
 const {name, refSource, classTraits,
   classText, suggestions, classFeatures,
 } = Astro.props.data;
 
 const traitEntries = Object.entries(classTraits);
+const featureEntries = Object.entries(classFeatures);
+
 let suggestionsEntries = []
 if (suggestions) { 
   suggestionsEntries = Object.entries(suggestions.suggestions);
 }
-const featureEntries = Object.entries(classFeatures);
 
 ---
 <!DOCTYPE html>
@@ -24,8 +26,7 @@ const featureEntries = Object.entries(classFeatures);
         <h1 class="leading-none  text-xl p-2 font-bold bg-pgl-red text-ivory">CLASS TRAITS</h1>
         <ul class="px-2 text-base">
           {traitEntries.map(([key, value]) => {
-            key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
-            return <li class="pb-1 font-light "><b class="font-bold pr-2">{key}</b>{value}</li>
+            return <li class="pb-1 font-light "><b class="font-bold pr-2">{fromCamelCase(key)}</b>{value}</li>
           })}
         </ul>
       </blockquote>
@@ -34,9 +35,8 @@ const featureEntries = Object.entries(classFeatures);
             <p>{suggestions.overview}</p>
             <ul>
               {suggestionsEntries.map(([key, value]) => {
-                key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
                 return <li>
-                <h3 class="font-bold text-base mt-4 leading-none">{key}</h3>
+                <h3 class="font-bold text-base mt-4 leading-none">{fromCamelCase(key)}</h3>
                 <p class="my-2">{value["overview"] && value["overview"]}</p>
                 <ul class="px-4">
                   {value["classFeature"] && <li class="flex font-medium">Class Feature: <p class="ml-1">{value["classFeature"] && value["classFeature"]}</p></li>}
@@ -54,21 +54,20 @@ const featureEntries = Object.entries(classFeatures);
       <h1 class="text-xl font-bold mt-6 text-black">CLASS FEATURES</h1>
       <ul class="ml-3">
         {featureEntries.map(([key, value]) => {
-          key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
           if (typeof value === "string") {
-            return <li class="pb-1 font-light"><b class="font-bold pr-2">{key}:</b>{value}</li>
+            return <li class="pb-1 font-light"><b class="font-bold pr-2">{fromCamelCase(key)}:</b>{value}</li>
           } else {
-            return <li class="pb-1 font-light mt-2"><b class="font-bold pr-2">{key}:</b>{value["overview"]}
+            return <li class="pb-1 font-light mt-2"><b class="font-bold pr-2">{fromCamelCase(key)}:</b>{value["overview"]}
               <ul class="ml-4 mt-2">
                 {Object.entries(value["options"]).map(([feature, option]) => {
                   if (name === "Sorcerer") {
                     return <li class="pb-1 mt-1 font-light"><b class="font-medium pr-2">
-                        {feature.charAt(0).toUpperCase() + feature.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{option["overview"]}
+                        {fromCamelCase(feature)}:</b>{option["overview"]}
                         <ul class="ml-4 mt-2 list-disc">
                           {Object.entries(option).slice(1).map(
                             ([subFeature, subOption]) => {
                               return <li class="pb-1 font-light"><b class="font-normal pr-2">
-                                {subFeature.charAt(0).toUpperCase() + subFeature.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{subOption}
+                                {fromCamelCase(subFeature)}:</b>{subOption}
                                 </li>
                               }
                           )}
@@ -76,7 +75,7 @@ const featureEntries = Object.entries(classFeatures);
                       </li>
                   }
                   return <li class="pb-1 font-light"><b class="font-normal pr-2">
-                    {feature.charAt(0).toUpperCase() + feature.slice(1).replace(/([A-Z])/g, ' $1').trim()}:</b>{option}
+                    {fromCamelCase(feature)}:</b>{option}
                     </li>
                 })}
               </ul>

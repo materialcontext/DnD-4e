@@ -1,5 +1,6 @@
 ---
 import Head from '../components/Head.astro'
+import fromCamelCase from '../utils/fromCamelCase';
 
 const {name, flavorTxt, height, weight,
   abilityScores, size, speed, vision,
@@ -30,7 +31,7 @@ let uniqueEntries = Object.entries(uniqueFeatures);
       {skillBonuses && <div class="font-light px-2 pb-1"><b class="font-bold">Skill Bonuses</b>: {skillBonuses}</div>}
       <ul class="px-2">
         {uniqueEntries.map(([key, value]) => {
-          key = (key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1')).trim();
+          key = fromCamelCase(key);
           return <li class="pb-1 font-light"><b class="font-bold">{key}</b>: {value}</li>
         })}
       </ul>

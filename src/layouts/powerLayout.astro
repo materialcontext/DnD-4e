@@ -1,5 +1,6 @@
 ---
 import Head from '../components/Head.astro';
+import fromCamelCase from '../utils/fromCamelCase';
 
 const { name, powerClass, type, level, flavor,
         frequency, keywords, action, range, 
@@ -8,30 +9,23 @@ const { name, powerClass, type, level, flavor,
         ...props
 } = Astro.props.data
 
-let padding = " px-5"
 let entries = Object.entries(props);
 
 function hasAtk() {
-    return primaryAttack 
-        ? "Primary Attack:"
-        : attack 
-            ? "Attack:"
-            : false
+    return primaryAttack ? "Primary Attack:"
+        : attack ? "Attack:" : false
 }
 
 function hasTgt() {
     return primaryTarget 
         ? "Primary Target:"
-        : target 
-            ? "Target:"
-            : false
+        : target ? "Target:" : false
 }
 
 function setItem(key) {
     if (key === "onHit" || key === "secondaryOnHit") return "Hit";
     if (key === "onMiss" || key === "secondaryOnMiss") return "Miss";
-
-    return key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/, ' $1');
+    return fromCamelCase(key);
 }
 ---
 
@@ -61,7 +55,7 @@ function setItem(key) {
                     </li>
                     {
                         entries.map(([key, value]) => {
-                                return (<li class={"flex odd:bg-gainsboro" + padding}>
+                                return (<li class={"flex odd:bg-gainsboro px-5"}>
                                     <span class="font-medium mr-2">{setItem(key)}:</span>
                                     <span>{value}</span>
                                 </li>)})
