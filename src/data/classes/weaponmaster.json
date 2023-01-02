@@ -80,9 +80,14 @@
     }
   },
   "classFeatures": {
-    "combatAgility": "This class feature replaces the Combat Superiority class feature. You gain the power Combat Agility.",
     "combatChallenge": "In combat, it’s dangerous to ignore a fighter. Every time you attack an enemy, whether the attack hits or misses, you can choose to mark that target. The mark lasts until the end of your next turn. While a target is marked, it takes a -2 penalty to attack rolls if its attack doesn’t include you as a target. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place. In addition, you gain the Combat Challenge power.",
-    "combatSuperiority": "You gain a bonus to the attack rolls of opportunity attacks. The bonus equals your Wisdom modifier. An enemy hit by your opportunity attack stops moving, if a move provoked the attack. If the enemy still has actions remaining, it can use them to resume moving.",
+    "combatFeature": {
+      "overview": "Choose one of the following class features.",
+      "options": {
+        "combatAgility": "This class feature replaces the Combat Superiority class feature. You gain the power Combat Agility.",
+        "combatSuperiority": "You gain a bonus to the attack rolls of opportunity attacks. The bonus equals your Wisdom modifier. An enemy hit by your opportunity attack stops moving, if a move provoked the attack. If the enemy still has actions remaining, it can use them to resume moving."
+        }
+      },
     "fighterTalents": {
       "overview":"Choose one of the following fighter talents.",
       "options": {

@@ -1,9 +1,6 @@
 {
   "id": "'788",
   "name": "Ranger (Hunter)",
-  
-  
-  
   "refSource": "Heroes of the Forgotten Kingdoms",
   "classTraits": {
     "role:": "Controller. ",
@@ -15,22 +12,32 @@
     "hitPointsAt1stLevel": ": 12+ Constitution Score.",
     "hitPointsPerLevelGained": ": 5",
     "healingSurgesPerDay": ": 6+ Constitution Modifier.",
-    "trainedSkills": ": Dungeoneering or Nature (your choice). From the class skills list below, choose 4 more trained skills at 1st level.",
+    "trainedSkills": ": Dungeoneering or Nature (your choice). From the class skills lisonet below, choose 4 more trained skills at 1st level.",
     "classFeatures:": "Archery Style, Aspects of the Wild (Hunter), Disruptive Shot, Expert Archer, Ranger Wilderness Knacks, Weapon Talent."
   },
   "classText": "Some heroes are more at home among the trees or in open fields than they are when walking the streets of a city. In ages past, rangers kept the peace along the farthest frontiers of civilization, wandering the land to root out monsters and keep the roads clear of threats. Today, the empires of old are long gone, their roads fallen into ruin. Yet even as the encroaching darkness grows ever bolder, rangers continue the valiant fight to keep the borderlands safe and secure. So well do they perform this task that many of those on the frontier never realize the debt they owe to those who protect them. Many common folk are suspicious of rangers, knowing their kind only as loners who have no ties to kin or community. Indeed, some rangers eventually become little more than hermits watching over specific areas of the wild. However, as the darkness encroaches upon civilization, many rangers take on a protective role that prompts them to wander throughout all settled lands. A ranger’s abilities reflect the divide between civilization and wilderness. Although rangers learn to master weapons, most commonly bows and those used in two-weapon fighting, they augment this martial training with their knowledge of primal magic. A ranger in the wild counts on his or her woodcraft and mastery of magic to survive.",
   "classFeatures": {
-    "bowHunter": "You gain the Bow Expertise feat.",
-    "crossbowHunter": "You gain the Crossbow Expertise feat. &nbsp;&nbsp;&nbsp;&nbsp;Also, if a crossbow you wield has the load minor property, you can instead reload it as a free action.",
+    "archeryStyle": {
+      "overview": "Choose one of the following benefits.",
+      "options": {
+        "bowHunter": "You gain the Bow Expertise feat.",
+        "crossbowHunter": "You gain the Crossbow Expertise feat. Also, if a crossbow you wield has the load minor property, you can instead reload it as a free action."
+      }
+    },
+    "wildernessKnacks": {
+      "overview": "You gain two of the following abilities of your choice. Make one additional choice each at levels 4 and 8.",
+      "options": {
+        "ambushExpertise(ranger)": "Whenever you make a Stealth check, each ally within 10 squares of you gains a +2 bonus to his or her next Stealth check before the end of your next turn.",
+        "beastEmpathy(ranger)": "You gain a +2 bonus to Bluff, Diplomacy, and Intimidate checks against beasts. You can communicate simple concepts and commands to such creatures, though they are under no compulsion to obey you. With a successful Insight check (DC determined by the DM), you can read a creature’s body language and vocalizations enough to understand basic messages from it.",
+        "mountainGuide(ranger)": "Whenever you succeed on an Athletics check to climb, you reduce the DC of that climb by 2 for your allies until the end of the encounter. Only allies who see you make the climb gain this benefit.",
+        "watchfulRest(ranger)": "When you take an extended rest, you and any allies also taking the rest do not take the -5 penalty to Perception checks for sleeping.",
+        "wildernessTracker(ranger)": "During a short rest, you can make a Perception check (DC determined by the DM) to inspect the area around you. This area can be as large as 10 squares on a side. If your check succeeds, you determine the number and nature of the creatures that have moved through the area in the past 24 hours. You ascertain when and where they entered the area, as well as when and where they left."
+      }
+    },
     "aspectsOfTheWild(hunter)": "You gain two of the following powers of your choice.",
     "disruptiveShot": "You gain the disruptive shot power.",
     "expertArcher": "You gain the following three powers.",
     "rangerWildernessKnacks": "You gain two of the following abilities of your choice.",
-    "ambushExpertise(ranger)": "Whenever you make a Stealth check, each ally within 10 squares of you gains a +2 bonus to his or her next Stealth check before the end of your next turn.",
-    "beastEmpathy(ranger)": "You gain a +2 bonus to Bluff, Diplomacy, and Intimidate checks against beasts. You can communicate simple concepts and commands to such creatures, though they are under no compulsion to obey you. With a successful Insight check (DC determined by the DM), you can read a creature’s body language and vocalizations enough to understand basic messages from it.",
-    "mountainGuide(ranger)": "Whenever you succeed on an Athletics check to climb, you reduce the DC of that climb by 2 for your allies until the end of the encounter. Only allies who see you make the climb gain this benefit.",
-    "watchfulRest(ranger)": "When you take an extended rest, you and any allies also taking the rest do not take the -5 penalty to Perception checks for sleeping.",
-    "wildernessTracker(ranger)": "During a short rest, you can make a Perception check (DC determined by the DM) to inspect the area around you. This area can be as large as 10 squares on a side. If your check succeeds, you determine the number and nature of the creatures that have moved through the area in the past 24 hours. You ascertain when and where they entered the area, as well as when and where they left.",
     "weaponTalent": "You gain a +1 bonus to the attack rolls of weapon attacks.",
     "weaponMastery": "You gain a +1 bonus to the damage rolls of weapon attacks.",
     "level7ImprovedDisruptiveShot": "You gain one more use of disruptive shot per encounter, but you can still use it only once per turn.",

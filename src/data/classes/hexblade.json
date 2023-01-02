@@ -1,9 +1,6 @@
 {
   "id": "'793",
   "name": "Warlock (Hexblade)",
-  
-  
-  
   "refSource": "Heroes of the Forgotten Kingdoms",
   "classTraits": {
     "role:": "Striker. ",
@@ -21,49 +18,59 @@
   },
   "classText": "Hexblades are warlocks who learn to shape the arcane energy of their pacts into deadly weapons, such as a sword forged from infernal power or a slender blade that gleams with fey magic. Both a warrior and an arcanist, a hexblade uses a deadly combination of spells and fighting ability during combat. Few people trust hexblades. Although most common folk are at best suspicious of wizards, the typical mage isolates himself or herself while engaging in arcane study, rarely exposing the populace to deadly magic. Hexblades come by their power through an easier, and more easily mistrusted, path. Some of the greatest villains to plague the land have been hexblades. After stumbling across the rituals and incantations needed to contact and forge a bargain with a mighty entity, a marauding bandit or a bloodthirsty orc chieftain could become a hexblade. The entities that would grant power to hexblades care little for how such a gift is used. Their interest is focused on the souls and the power provided to them by those to whom they give power through a pact. And such evil hexblades don’t isolate themselves in the wild, but instead take what they want from those less powerful. Those few hexblades who prefer to be honorable face suspicion and persecution from a variety of quarters, because their magic is misunderstood and typically wielded by villains. Even though these hexblades choose to do good, most are forced to the shadows by suspicion and fear from common folk, and they must strike at evil in secret, working behind the scenes to keep the fragile structure of civilization intact.",
   "classFeatures": {
-    "level1HexbladeDailyPower": "You gain one of the following powers of your choice.",
-    "pactBoon": "You gain a power associated with your pact.",
-    "elementalPactBoon": "You gain the warding chaos power.",
-    "feyPactBoon": "You gain the soul step power.",
-    "gloomPactBoon(hexblade)": "You gain the convocation of shadows power.",
-    "infernalPactBoon": "You gain the soul feast power.",
-    "starPactBoon": "You gain the dire fate power.",
-    "pactReward": "You gain a bonus to damage rolls determined by your pact.",
-    "elementalPactReward": "You gain proficiency with scale armor. In addition, you gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Constitution modifier. The bonus increases to 2 + your Constitution modifier at 5th level, 4 + your Constitution modifier at 15th level, and 6 + your Constitution modifier at 25th level. &nbsp;&nbsp;&nbsp;&nbsp;At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
-    "feyPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Dexterity modifier. The bonus increases to 2 + your Dexterity modifier at 5th level, 4 + your Dexterity modifier at 15th level, and 6 + your Dexterity modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
-    "gloomPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Dexterity modifier. The bonus increases to 2 + your Dexterity modifier at 5th level, 4 + your Dexterity modifier at 15th level, and 6 + your Dexterity modifier at 25th level. &nbsp;&nbsp;&nbsp;&nbsp;At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
-    "infernalPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Constitution modifier. The bonus increases to 2 + your Constitution modifier at 5th level, 4 + your Constitution modifier at 15th level, and 6 + your Constitution modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
-    "starPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path powers. The bonus equals your Intelligence modifier. The bonus increases to 2 + your Intelligence modifier at 5th level, 4 + your Intelligence modifier at 15th level, and 6 + your Intelligence modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
-    "pactWeapon": "While you hold your implement in one hand, you can use a minor action to manifest your pact weapon in the other hand. The pact weapon you create depends on your pact. Your pact weapon persists until you no longer hold either it or the implement, or until you dismiss it as a free action. &nbsp;&nbsp;&nbsp;&nbsp;You can make weapon attacks with your pact weapon, using its proficiency bonus and the appropriate damage die. Your pact weapon shares your implement’s enhancement bonus, critical hit effect, properties, and powers. The weapon cannot be enchanted. &nbsp;&nbsp;&nbsp;&nbsp;When you use a power associated with your pact weapon and the power has both the weapon and the implement keyword, you are considered to be wielding both your pact weapon and your implement for the purpose of feats and other game elements.",
-    "elementalPactWeapon": "You gain the blade of chaos weapon. You also gain the unraveling strike and elemental wrath powers.",
-    "feyPactWeapon": "You gain the blade of winter\\'s mourning.",
-    "feyPactWeapon(whiteWell)": "You gain the sword of the white well.",
-    "gloomPactWeapon": "You gain the scourge of exquisite agony. When you gain this weapon, you also gain flesh rend and spirit flay, two powers that you can use whenever you wield it.",
-    "infernalPactWeapon": "You gain the blade of annihilation.",
-    "starPactWeapon": "You gain the starshadow blade.",
-    "elementalPactWeaponRetribution": "You gain the elemental roar power.",
-    "feyPactWeaponRetribution": "You gain the winter’s retributive escape power.",
-    "feyPactWeaponRetribution(whiteWell)": "You gain the moonlit escape power.",
-    "gloomPactWeaponRetribution": "You gain the shadow scourge power.",
-    "infernalPactWeaponRetribution": "You gain the reflexive hellstrike power.",
-    "starPactWeaponRetribution": "You gain the gaze into nothing power.",
-    "binder’sAlly(fey)": "You can use summon warlock’s ally to summon a satyr of the night.",
-    "binder\\'sAlly(gloom)": "You can use summon warlock’s ally to summon a shadow lurk.",
-    "binder\\'sAlly(star)": "You can use summon warlock’s ally to summon a soul eater.",
-    "summonWarlock’sAlly(elemental)": "You can use summon warlock’s ally to summon an archon grunt. When you use this power, roll a d4 to determine the type of archon grunt you summon: 1, air; 2, earth; 3, fire; or 4, water.",
-    "summonWarlock\\'sAlly(fey)": "You can use summon warlock’s ally to summon a wood woad guardian.",
-    "summonWarlock\\'sAlly(gloom)": "You can use summon warlock\\'s ally to summon a dark creeper.",
-    "summonWarlock\\'sAlly(infernal)": "You can use summon warlock’s ally to summon a spined devil lackey.",
-    "summonWarlock\\'sAlly(star)": "You can use summon warlock\\'s ally to summon a thought phantom.",
-    "summonWarlock\\'sAlly(whiteWell)": "If you have the sword of the White Well, you can use summon warlock’s ally to summon a mourning handmaiden.",
-    "greaterBinder’sAlly(fey)": "You can use summon warlock’s ally to summon a displacer beast.",
-    "greaterBinder\\'sAlly(gloom)": "You can use summon warlock\\'s ally to summon a gloom beast.",
-    "greaterBinder\\'sAlly(star)": "You can use summon warlock’s ally to summon a doom hulk.",
-    "greaterSummonWarlock’sAlly(elemental)": "You can use summon warlock’s ally to summon a titan warrior. When you use this power, roll a d4 to determine the type of titan warrior you summon: 1, air; 2, earth; 3, fire; or 4, water.",
-    "greaterSummonWarlock\\'sAlly(fey)": "You can use summon warlock’s ally to summon a frostblight treant protector.",
-    "greaterSummonWarlock\\'sAlly(gloom)": "You can use summon warlock’s ally to summon a sorrowsworn.",
-    "greaterSummonWarlock\\'sAlly(infernal)": "You can use summon warlock’s ally to summon a pit fiend servitor.",
-    "greaterSummonWarlock\\'sAlly(star)": "You can use your summon warlock’s ally power to summon a way walker.",
-    "greaterSummonWarlock\\'sAlly(whiteWell)": "If you have the sword of the White Well, you can use summon warlock’s ally to summon a spectral protector."
+    "level1HexbladeDailyPower": "You gain one of the following powers of your choice: Armor of Winter's Grasp, Hellfire Blast, or Mists of Madness",
+    "eldritchPact": {
+      "overview": "You have made a pact with mysterious entities that grant you your arcane powers. Choose one pact.",
+      "options": {
+        "elementalPact": {
+          "elementalPactBoon": "You gain the warding chaos power.",
+          "elementalPactReward": "You gain proficiency with scale armor. In addition, you gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Constitution modifier. The bonus increases to 2 + your Constitution modifier at 5th level, 4 + your Constitution modifier at 15th level, and 6 + your Constitution modifier at 25th level. &nbsp;&nbsp;&nbsp;&nbsp;At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
+          "elementalPactWeapon": "You gain the blade of chaos weapon. You also gain the unraveling strike and elemental wrath powers.",
+          "elementalPactWeaponRetribution": "You gain the elemental roar power.",
+          "summonWarlock’sAlly(elemental)": "You can use summon warlock’s ally to summon an archon grunt. When you use this power, roll a d4 to determine the type of archon grunt you summon: 1, air; 2, earth; 3, fire; or 4, water.",
+          "greaterSummonWarlock’sAlly(elemental)": "You can use summon warlock’s ally to summon a titan warrior. When you use this power, roll a d4 to determine the type of titan warrior you summon: 1, air; 2, earth; 3, fire; or 4, water."
+        },
+        "feyPact": {
+          "feyPactBoon": "You gain the soul step power.",
+          "feyPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Dexterity modifier. The bonus increases to 2 + your Dexterity modifier at 5th level, 4 + your Dexterity modifier at 15th level, and 6 + your Dexterity modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
+          "feyPactWeapon": "You gain the blade of winter\\'s mourning.",
+          "feyPactWeaponRetribution": "You gain the winter’s retributive escape power.",
+          "summonWarlock'sAlly(fey)": "You can use summon warlock’s ally to summon a wood woad guardian.",
+          "greaterSummonWarlock'sAlly(fey)": "You can use summon warlock’s ally to summon a frostblight treant protector."
+    },
+        "pactOfTheWhiteWell": {
+          "feyPactBoon": "You gain the soul step power.",
+          "feyPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Dexterity modifier. The bonus increases to 2 + your Dexterity modifier at 5th level, 4 + your Dexterity modifier at 15th level, and 6 + your Dexterity modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
+          "feyPactWeapon(whiteWell)": "You gain the sword of the white well.",
+          "feyPactWeaponRetribution(whiteWell)": "You gain the moonlit escape power.",
+          "summonWarlock'sAlly(whiteWell)": "If you have the sword of the White Well, you can use summon warlock’s ally to summon a mourning handmaiden.",
+          "greaterSummonWarlock'sAlly(whiteWell)": "If you have the sword of the White Well, you can use summon warlock’s ally to summon a spectral protector."
+        },
+        "gloomPact": {
+          "gloomPactBoon(hexblade)": "You gain the convocation of shadows power.",
+          "gloomPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Dexterity modifier. The bonus increases to 2 + your Dexterity modifier at 5th level, 4 + your Dexterity modifier at 15th level, and 6 + your Dexterity modifier at 25th level. &nbsp;&nbsp;&nbsp;&nbsp;At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
+          "gloomPactWeapon": "You gain the scourge of exquisite agony. When you gain this weapon, you also gain flesh rend and spirit flay, two powers that you can use whenever you wield it.",
+          "gloomPactWeaponRetribution": "You gain the shadow scourge power.",
+          "summonWarlock'sAlly(gloom)": "You can use summon warlock\\'s ally to summon a dark creeper.",
+          "greaterSummonWarlock'sAlly(gloom)": "You can use summon warlock’s ally to summon a sorrowsworn."
+        },
+        "infernalPact": {
+          "infernalPactBoon": "You gain the soul feast power.",
+          "infernalPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path attack powers. The bonus equals your Constitution modifier. The bonus increases to 2 + your Constitution modifier at 5th level, 4 + your Constitution modifier at 15th level, and 6 + your Constitution modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
+          "infernalPactWeapon": "You gain the blade of annihilation.",
+          "infernalPactWeaponRetribution": "You gain the reflexive hellstrike power.",
+          "summonWarlock'sAlly(infernal)": "You can use summon warlock’s ally to summon a spined devil lackey.",
+          "greaterSummonWarlock'sAlly(infernal)": "You can use summon warlock’s ally to summon a pit fiend servitor."
+        },
+        "starPact": {
+          "starPactBoon": "You gain the dire fate power.",
+          "starPactReward": "You gain a bonus to the damage rolls of your warlock and warlock paragon path powers. The bonus equals your Intelligence modifier. The bonus increases to 2 + your Intelligence modifier at 5th level, 4 + your Intelligence modifier at 15th level, and 6 + your Intelligence modifier at 25th level. At 9th level, you also gain this bonus to the damage rolls of the creature you summon with summon warlock’s ally.",
+          "starPactWeapon": "You gain the starshadow blade.",
+          "starPactWeaponRetribution": "You gain the gaze into nothing power.",
+          "summonWarlock\\'sAlly(star)": "You can use summon warlock\\'s ally to summon a thought phantom.",
+          "greaterSummonWarlock\\'sAlly(star)": "You can use your summon warlock’s ally power to summon a way walker."
+        }
+      }
+    }
   }
 }

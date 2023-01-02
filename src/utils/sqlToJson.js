@@ -5,7 +5,7 @@ import toCamelCase from './toCamelCase.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-let file = fs.readFileSync(__dirname + '/../data/ddiBackground.sql', 'utf8');
+let file = fs.readFileSync(__dirname + '/../data/ddiTheme.sql', 'utf8');
 
 //a regex to get all the lines that values between "VALUES (" and ");"
 let regex = /VALUES \((.*?)\);\n/g;
@@ -16,9 +16,6 @@ let matches = file.match(regex);
 let jsonTemplate = {
     "id": 0,
     "name": "",
-    "type": "",
-    "campaign": "",
-    "skills": "",
     "sourceRef": "",
     "fullText": ""
 }
@@ -33,12 +30,9 @@ const addToObject = (values) => {
 
     target.id = values[0];
     target.name = values[name];
-    target.type = values[2];
-    target.campaign = values[3];
-    target.skills = values[4];
     // remove backslashes from sourceRef
-    target.sourceRef = values[5].replace(/\\/g, '');
-    target.fullText = values[7];
+    target.sourceRef = values[2].replace(/\\/g, '');
+    target.fullText = values[3];
 };
 
 let check = true;
@@ -66,5 +60,5 @@ for (let match of matches) {
 // save jsons to files by power class
 for (let i = 0; i < fileNames.length; i++) {
     console.log(fileNames.length)
-    fs.writeFileSync(__dirname + '/../data/backgrounds/' + toCamelCase(fileNames[i]) + '.json', JSON.stringify(json[fileNames[i]]));
+    fs.writeFileSync(__dirname + '/../data/themes/' + toCamelCase(fileNames[i]) + '.json', JSON.stringify(json[fileNames[i]]));
 }

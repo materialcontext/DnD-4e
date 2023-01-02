@@ -21,7 +21,13 @@
   },
   "classText": "Assassins embrace shadow magic and pledge a shard of their souls to the Shadowfell to gain their power. By replacing a fundamental part of themselves with a dark reflection, they can manifest that piece of shadow to accomplish incredible things. The infusion of shadow magic allows assassins to identify weak points in an opponent’s defenses so that with a few moments of study they can reduce the stoutest enemies to corpses. An assassin usually keeps his or her profession a secret, since few trust those who regularly deal in death. Assassins’ guilds provide some measure of protection, especially in those regions where the study of shadow magic and assassination as an art form are banned. As an assassin, you are an outcast. You traded away a part of your soul for the power of death, and only the most-loyal companions accept your skills into their midst. Whatever drew you onto the assassin’s path, you become a trained killer from whom few can escape unharmed.",
   "classFeatures": {
-    "attackFinesse(executioner)": "You can use Dexterity instead of Strength for your melee basic attacks. &nbsp;&nbsp;&nbsp;&nbsp;In addition, once per turn you can deal 1d8 extra damage with a weapon attack using a one-handed weapon, a garrote, a blowgun, or a shortbow. The extra damage increases to 2d8 at 11th level and 3d8 at 21st level.",
+    "executionerFeature": {
+      "overview": "Choose one of the following featrues: ",
+      "options": {
+        "attackFinesse(executioner)": "You can use Dexterity instead of Strength for your melee basic attacks. &nbsp;&nbsp;&nbsp;&nbsp;In addition, once per turn you can deal 1d8 extra damage with a weapon attack using a one-handed weapon, a garrote, a blowgun, or a shortbow. The extra damage increases to 2d8 at 11th level and 3d8 at 21st level.",
+        "masterOfShrouds": "Although you have spent a great amount of time studying the martial aspects of being an executioner. You are drawn to the power of shadow magic more than your fellow assassins are. You use shadow magic more than most executioners do, making it integral to your killing technique. You can use dexterity instead of stealth for your melee basic attacks with a one-handed weapon. You also gain the assassin's shroud power."
+      }
+    },
     "guildAttacks": "You become a member of an assassin guild. You can choose to join the Red Scales, the League of Whispers or the Way of the Ninja.",
     "leagueOfWhispers": "You gain the powers bola takedown, precision dart, and quick shot.",
     "redScales": "You gain the powers garrote strangle, poisoned dagger, and quick lunge.",

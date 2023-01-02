@@ -55,6 +55,7 @@
   },
   "classFeatures": {
     "eldritchBlast": "All warlocks know the eldritch blast at-will power. This power can be used as a basic attack. You gain this power as well as another at-will power as determined by your Eldritch Pact.",
+    "eldritchBlastAbility": "Choose either Constitution or Charisma to use as your key ability with Eldritch Blast.",
     "eldritchPact": {
       "overivew": "You have forged a pact with mysterious entities that grant you your arcane powers. Choose one pact. The pacts presented in the Player’s Handbook are the fey pact, the infernal pact, and the star pact. Other products present additional pacts. The pact you choose determines the following warlock abilities: &nbsp;&nbsp;&nbsp;&nbsp;At-Will Spells: Your pact determines one of the at-will spells you know. &nbsp;&nbsp;&nbsp;&nbsp;Pact Boon: Each pact includes a pact boon. The pact boon is a granted power you can use to further hex your enemies. &nbsp;&nbsp;&nbsp;&nbsp;The pact you take also provides bonuses to certain warlock powers. Individual powers detail the effects (if any) your Eldritch Pact selection has on them.",
       "options": {
@@ -69,7 +70,7 @@
     },
     "primeShot": "If none of your allies are nearer to your target than you are, you receive a +1 bonus to ranged attack rolls against that target. You do not gain this feature if you choose the Beast Mastery fighting style.",
     "shadowWalk": "On your turn, if you move at least 3 squares away from where you started your turn, you gain concealment until the end of your next turn.",
-    "warlock'sCurse": "Once per turn you can use the Warlock\\'s Curse power.",
+    "warlock'sCurse": "Once per turn you can use the Warlock's Curse power.",
     "implements": "Warlocks make use of rods and wands to help channel and direct their arcane powers. A warlock wielding a magic rod or wand can add its enhancement bonus to the attack rolls and the damage rolls of warlock powers, as well as warlock paragon path powers, that have the implement keyword. Without a rod or a wand, a warlock can still use these powers, but he or she doesn't gain the bonus provided by the magic implement.A pact blade, a special magic dagger, can also be used as an implement for warlock powers, as well as warlock paragon powers. These daggers are highly sought after by warlocks."
   }
 }

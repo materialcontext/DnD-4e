@@ -1,9 +1,6 @@
 {
   "id": "'6",
   "name": "Rogue (Scoundrel)",
-  
-  
-  
   "refSource": "Player's Handbook, Class Compendium",
   "classTraits": {
     "role:": "Striker. ",
@@ -81,8 +78,13 @@
         "ruthlessRuffian": "You are proficient with the club and the mace, and you can use those weapons with Sneak Attack or any rogue power or rogue paragon path power that normally requires a light blade. If you use a club or a mace to deliver an attack that has the rattling keyword, add your Strength modifier to the damage roll."
       }
     },
-    "scoundrelWeaponTalent": "When you wield a shuriken, your weapon damage die increases by one size. In addition, you gain a +1 bonus to weapon attack rolls with daggers.",
-    "sharpshooterTalent": "This class feature replaces the Rogue Weapon Talent class feature.",
+    "wepaonTalent": {
+      "overview": "You gain one of the talents described below.",
+      "options": {
+        "scoundrelWeaponTalent": "When you wield a shuriken, your weapon damage die increases by one size. In addition, you gain a +1 bonus to weapon attack rolls with daggers.",
+        "sharpshooterTalent": "This class feature replaces the Rogue Weapon Talent class feature. Choose crossbows or slings. You gain a +1 bonus to attack rolls with any weapon of the chosen group. You gain Far Shot as a bonus feat, even if you don't meet the prerequisites."
+      }
+    },
     "sneakAttack": "When you make an attack with a light blade, a hand crossbow, a shortbow, or a sling and hit an enemy granting combat advantage to you, that enemy takes extra damage based on your level (see the Sneak Attack table). You can deal this extra damage only once per turn."
   }
 }
