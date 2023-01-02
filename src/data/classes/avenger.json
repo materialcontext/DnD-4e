@@ -1,9 +1,6 @@
 {
   "id": "'129",
   "name": "Avenger",
-  
-  
-  
   "refSource": "Player's Handbook 2",
   "classTraits": {
     "role:": "Striker. Your oaths bring divine wrath upon the enemies of your god. With methodical devastation, you eliminate one foe at a time. You lean toward controller as a secondary role.",
@@ -59,7 +56,9 @@
       "overview": "As an avenger, you train your mind, body, and soul toward one purpose: destroying the enemies of your faith. To that end, you gain divine aid in pursuing a single target, though the way you eliminate that enemy varies. Do you pin your foe down and keep other enemies away, or do you pursue your foe across the field of battle? Choose one of these options. Your choice provides bonuses to certain avenger powers, as detailed in those powers.",
       "options": {
         "censureOfPursuit": "If your oath of enmity target moves away from you willingly, you gain a bonus to damage rolls against the target equal to 2 + your Dexterity modifier until the end of your next turn. The bonus increases to 4 + your Dexterity modifier at 11th level and 6 + your Dexterity modifier at 21st level.",
-        "censureOfRetribution": "When any enemy other than your oath of enmity target hits you, you gain a bonus to damage rolls against your oath of enmity target equal to your Intelligence modifier until the end of your next turn. This bonus is cumulative."      }
+        "censureOfRetribution": "When any enemy other than your oath of enmity target hits you, you gain a bonus to damage rolls against your oath of enmity target equal to your Intelligence modifier until the end of your next turn. This bonus is cumulative.",
+        "censureOfUnity": "You gain a +1 bonus to damage rolls against your oath of enmity target for each ally adjacent to that target. This bonus increases to +2 at 11th level and +3 at 21st level."
+      }
     },
     "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers. &nbsp;&nbsp;&nbsp;&nbsp;Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
     "oathOfEnmity": "Your god gives you the power to strike down your chosen prey. You gain the oath of enmity power.",

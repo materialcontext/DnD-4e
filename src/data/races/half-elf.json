@@ -7,14 +7,20 @@
   "speed": "6 squares.",
   "languages": "Common, Elven, choice of one other",
   "uniqueFeatures": {
-    "half-elfPowerSelection": "Select an option for your half-elf character.",
+    "half-elfPowerSelection": {
+      "overview": "Select an option for your half-elf character.",
+      "options": {
+        "dilettante": "At 1st level, you choose a 1st-level at-will attack power from a class different from yours. You can use that power as an encounter power.",
+        "knackForSuccess": "You have the knack for success power."
+      }
+    },
     "groupDiplomacy": "You grant allies within 10 squares of you a +1 racial bonus to Diplomacy checks.",
     "dualHeritage": "You can take feats that have either elf or human as a prerequisite (as well as those specifically for half-elves), as long as you meet any other requirements.",
     "skillBonuses": "+2 Diplomacy, +2 Insight.",
     "vision": "Low-light"
   },
   "physTxt": "Half-elves tend to be sturdier of build than elves but more slender than most humans. Half-elves have the same range of complexions as humans and elves, and, like elves, they often have eye or hair colors not normally found among humans. Male half-elves can grow facial hair, unlike male elves, and often sport thin mustaches, goatees, or short beards. Half-elves’ ears are about the size of human ears, but they are tapered, like the ears of their elf ancestors.  Half-elves usually adopt the dress and hairstyles of the society they spend the most time with. For example, a half-elf raised among a barbaric human tribe dresses in the furs and skins favored by the tribe and adopts the tribe’s style of braids and face paint. However, it is not unusual for half-elves raised among humans to seek out articles of elven clothing or jewelry so that they can display signs of their dual heritage.  Half-elves have life spans comparable to those of humans, but like elves they remain vigorous well into old age.",
-  "refSource": "Player\\'s Handbook, page ",
+  "refSource": "Player's Handbook, page ",
   "flavorTxt": "Born heroes and leaders who combine the best features of both humans and elves.",
   "characteristics": [
     "accommodating",

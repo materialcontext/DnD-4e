@@ -8,7 +8,24 @@
   "languages": "Common, Primordial",
   "uniqueFeatures": {
     "elementalOrigins": "Your ancestors were native to the Elemental Chaos, so you are considered an elemental creature for the purpose of effects that relate to creature origin.",
-    "elementalManifestation": "Choose one manifestation. That manifestation is part of your nature. Each manifestation offers particular benefits and provides an associated encounter power. Your appearance changes based on the element you are manifesting.",
+    "elementalManifestation": {
+      "overview": "Choose one manifestation. That manifestation is part of your nature. Each manifestation offers particular benefits and provides an associated encounter power. Your appearance changes based on the element you are manifesting.",
+      "options": {
+        "Firesoul": "You gain +1 Reflex defense, resist 5 fire and the firepulse power. At 11th level, the resistance improves to 10 fire. At 21st level, the resistance improves to 15 fire.",
+        "Earthsoul": "You gain a +1 racial bonus to your Fortitude defense, a +1 racial bonus to saving throws, and the earthshock power.",
+        "Stormsoul": "You gain a +1 racial bonus to your Fortitude defense, resist 5 lightning, and the promise of storm power. At 11th level, the resistance improves to 10 lightning. At 21st level, the resistance improves to 15 lightning.",
+        "Watersoul": "You can breathe underwater. You also gain a +2 racial bonus to saving throws against ongoing damage and the swiftcurrent power.",
+        "Windsoul": "You gain resist 5 cold and the windwalker power. At 11th level, the resistance improves to 10 cold. At 21st level, the resistance improves to 15 cold.",
+        "Causticsoul": "You can breathe underwater. You also gain resist 5 acid and the acid surge power. At 11th level, the resistance improves to 10 acid. At 21st level, the resistance improves to 15 acid.",
+        "Cindersoul": "You gain a +1 racial bonus to Fortitude, resist 5 fire, and the firedeath power. At 11th level, the resistance improves to 10 fire. At 21st level, the resistance improves to 15 fire.",
+        "Plaguesoul": "You gain resist 5 poison, a +5 racial bonus to saving throws against disease, and the plaguebearer power. At 11th level, the resistance improves to 10 poison. At 21st level, the resistance improves to 15 poison.",
+        "Voidsoul": "You gain resist 5 psychic, a +1 racial bonus to Will, and the void assumption power. At 11th level, the resistance improves to 10 psychic. At 21st level, the resistance improves to 15 psychic.",
+        "Embersoul": "You have a +1 racial bonus to Reflex and a +2 racial bonus to saving throws against ongoing fire damage. In addition, you have the ashfall evasion power.",
+        "Magmasoul": "You have a +1 racial bonus to Fortitude. Whenever you take fire damage, your melee attacks deal 1d6 extra fire damage until the end of your next turn. In addition, you have the flowing magma power.",
+        "Sandsoul": "You have a +4 racial bonus to Acrobatics checks and Athletics checks made when taking the escape action. You also have a +2 racial bonus to saving throws against effects that immobilize, restrain, or slow you. In addition, you have the sandslide power.",
+        "Sunsoul": "You have a +2 racial bonus to saving throws against ongoing damage that includes fire or radiant damage. You and your equipment suffer no ill effect from ambient temperatures between -50 and 140 degrees Fahrenheit, and you are immune to sun sickness. In addition, you have the sun flare power."
+      }
+    },
     "skillBonuses": "+2 Endurance, +2 Nature.",
     "vision": "Normal"
   },

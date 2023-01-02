@@ -7,7 +7,13 @@
   "speed": "6 squares.",
   "languages": "Common, Draconic",
   "uniqueFeatures": {
-    "dragonbornRacialPower": "When you select dragonborn as your character’s race, choose one of the following powers. Your dragonborn character gains that power.",
+    "dragonbornRacialPower": {
+      "overview": "When you select dragonborn as your character’s race, choose one of the following powers. Your dragonborn character gains that power.",
+      "options": {
+        "dragonBreath": "You have the Dragon Breath power.",
+        "dragonFear": "You are naturally intimidating at the best of times, and when passions strike, you are positively terrifying. You gain the dragonfear racial power."
+      }
+    },
     "dragonbornFury": "While you are bloodied, you gain a +1 racial bonus to attack rolls.",
     "draconicHeritage": "Your healing surge value is equal to one-quarter of your maximum hit points + your Constitution modifier.",
     "skillBonuses": "+2 History, +2 Intimidate.",

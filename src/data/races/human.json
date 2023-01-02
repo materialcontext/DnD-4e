@@ -7,7 +7,13 @@
   "speed": "6 squares.",
   "languages": "Common, choice of one other",
   "uniqueFeatures": {
-    "humanPowerSelection": "Choose an option for your human character.",
+    "humanPowerSelection": {
+      "overview": "Choose an option for your human character.",
+      "options": {
+        "bonusAt-WillPower": "You know one extra 1st level at-will attack power from your class.",
+        "heroicEffort": "You have the heroic effort power."
+      }
+    },
     "humanDefenseBonuses": "You gain a +1 racial bonus to Fortitude, Reflex, and Will.",
     "bonusSkill": "You gain training in one additional skill from your class skills list.",
     "bonusFeat": "You gain a bonus feat at 1st level. You must meet the feat’s prerequisites.",
