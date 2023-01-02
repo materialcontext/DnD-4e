@@ -1,0 +1,54 @@
+{
+    "id": "'308",
+    "level": "4",
+    "price": "175 gp",
+    "keySkill": "Athletics (no check)",
+    "sourceRef": "Martial Power 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForge Armor\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=308\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Forge Armor</h1><i>Although your means are mundane, the armor you forge is enchanted through your superior skill.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: See table<br/><b>Market Price</b>: 175 gp<br/><b>Key Skill</b>: Athletics (no check)</span><b>Level</b>: 4<br/><b>Category</b>: Martial Practice<br/><b>Time</b>: 1 day<br/><b>Duration</b>: Permanent</p><p>You construct magic armor. Your level determines the highest enhancement bonus the armor can have (see the table). You can create only magic armor. Armor you forge with this martial practice can be masterwork, provided the armor meets the minimum enhancement bonus.<br/>The component cost is equal to the price of the magic armor you create.<br/><br/><table><tr><th>Armor Created</th><th>Minimum Level</th><th>Component Cost</th></tr><tr><td>+1 magic armor</td><td>4th</td><td>360 gp</td></tr><tr><td>+2 magic armor</td><td>6th</td><td>1,800 gp</td></tr><tr><td>+3 magic armor</td><td>11th</td><td>9,000 gp</td></tr><tr><td>+4 magic armor</td><td>16th</td><td>45,000 gp</td></tr><tr><td>+5 magic armor</td><td>21st</td><td>225,000 gp</td></tr><tr><td>+6 magic armor</td><td>26th</td><td>1,125,000 gp</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/251230000\\\" target=\\\"_new\\\">Martial Power 2</a>, page(s) 149.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nForge Armor\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=308\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Forge Armor",
+    "flavorText": "Although your means are mundane, the armor you forge is enchanted through your superior skill.",
+    "category": "Martial Practice",
+    "time": "1 day",
+    "duration": "Permanent",
+    "text": "You construct magic armor. Your level determines the highest enhancement bonus the armor can have (see the table). You can create only magic armor. Armor you forge with this martial practice can be masterwork, provided the armor meets the minimum enhancement bonus.<br/>The component cost is equal to the price of the magic armor you create.",
+    "componentCost": "See table",
+    "table": {
+        "headers": [
+            "Armor Created",
+            "Minimum Level",
+            "Component Cost"
+        ],
+        "rows": [
+            [
+                "+1 magic armor",
+                "4th",
+                "360 gp"
+            ],
+            [
+                "+2 magic armor",
+                "6th",
+                "1,800 gp"
+            ],
+            [
+                "+3 magic armor",
+                "11th",
+                "9,000 gp"
+            ],
+            [
+                "+4 magic armor",
+                "16th",
+                "45,000 gp"
+            ],
+            [
+                "+5 magic armor",
+                "21st",
+                "225,000 gp"
+            ],
+            [
+                "+6 magic armor",
+                "26th",
+                "1,125,000 gp"
+            ]
+        ]
+    }
+}

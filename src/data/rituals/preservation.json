@@ -1,0 +1,43 @@
+{
+    "id": "'119",
+    "level": "2",
+    "price": "100 gp",
+    "keySkill": "Arcana or Nature",
+    "sourceRef": "Dragon Magazine 366",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPreservation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=119\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Preservation</h1><i>Wizards use this spell to keep their tomes from mold and other dangers. Explorers wish the wizards would do the same for trail rations.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 25 gp<br/><b>Market Price</b>: 100 gp<br/><b>Key Skill</b>: Arcana or Nature</span><b>Level</b>: 2<br/><b>Category</b>: Warding<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Permanent</p><p>You enchant a quantity of nonliving organic material so that it resists all natural deterioration. Rot, mold, consuming vermin, and the like all leave the enchanted material alone. Damage intentionally done can still harm the material.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your Arcana or Nature check determines how much material you can affect with one ritual casting.<br/><br/><table><tr><th>Arcana or Nature Check Result</th><th>Duration</th></tr><tr><td>19 or lower</td><td>10 pounds</td></tr><tr><td>20–24</td><td>20 pounds</td></tr><tr><td>25–29</td><td>50 pounds</td></tr><tr><td>30–39</td><td>100 pounds</td></tr><tr><td>40 or higher</td><td>200 pounds</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/366\\\" target=\\\"_new\\\">Dragon Magazine 366</a>, page(s) 30.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPreservation\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=119\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Preservation",
+    "flavorText": "Wizards use this spell to keep their tomes from mold and other dangers. Explorers wish the wizards would do the same for trail rations.",
+    "category": "Warding",
+    "time": "10 minutes",
+    "duration": "Permanent",
+    "text": "You enchant a quantity of nonliving organic material so that it resists all natural deterioration. Rot, mold, consuming vermin, and the like all leave the enchanted material alone. Damage intentionally done can still harm the material.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your Arcana or Nature check determines how much material you can affect with one ritual casting.",
+    "componentCost": "25 gp",
+    "table": {
+        "headers": [
+            "Arcana or Nature Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "10 pounds"
+            ],
+            [
+                "20–24",
+                "20 pounds"
+            ],
+            [
+                "25–29",
+                "50 pounds"
+            ],
+            [
+                "30–39",
+                "100 pounds"
+            ],
+            [
+                "40 or higher",
+                "200 pounds"
+            ]
+        ]
+    }
+}

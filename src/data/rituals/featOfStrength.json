@@ -1,0 +1,39 @@
+{
+    "id": "'83",
+    "level": "4",
+    "price": "75 gp",
+    "keySkill": "Nature",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFeat of Strength\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=83\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Feat of Strength</h1><i>Your subject undergoes a profound transformation, bulking up as its body gains a layer of thick muscle.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 30 gp<br/><b>Market Price</b>: 75 gp<br/><b>Key Skill</b>: Nature</span><b>Level</b>: 4<br/><b>Category</b>: Exploration<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: 1 minute</p><p><table><tr><th>Nature Check Result</th><th>Bonus to Check</th></tr><tr><td>19 or lower</td><td>+1</td></tr><tr><td>20-29</td><td>+2</td></tr><tr><td>30-39</td><td>+5</td></tr><tr><td>40 or higher</td><td>+10</td></tr></table><br/><br/>The Feat of Strength ritual confers to a single willing subject a significant boost of strength, enabling the target to make a single Strength check with a bonus to the check determined by your Nature check result. The increase to Strength does not affect any other aspect of the character aside from making Strength checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Typical uses of this ritual include boosting an ally’s Strength check to break down a door, bend metal bars, lift a gate, or smash open a chest.</p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 144.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nFeat of Strength\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=83\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Feat of Strength",
+    "flavorText": "Your subject undergoes a profound transformation, bulking up as its body gains a layer of thick muscle.",
+    "category": "Exploration",
+    "time": "10 minutes",
+    "duration": "1 minute",
+    "text": "<table><tr><th>Nature Check Result</th><th>Bonus to Check</th></tr><tr><td>19 or lower</td><td>+1</td></tr><tr><td>20-29</td><td>+2</td></tr><tr><td>30-39</td><td>+5</td></tr><tr><td>40 or higher</td><td>+10</td></tr></table><br/><br/>The Feat of Strength ritual confers to a single willing subject a significant boost of strength, enabling the target to make a single Strength check with a bonus to the check determined by your Nature check result. The increase to Strength does not affect any other aspect of the character aside from making Strength checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Typical uses of this ritual include boosting an ally’s Strength check to break down a door, bend metal bars, lift a gate, or smash open a chest.",
+    "componentCost": "30 gp",
+    "table": {
+        "headers": [
+            "Nature Check Result",
+            "Bonus to Check"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "+1"
+            ],
+            [
+                "20-29",
+                "+2"
+            ],
+            [
+                "30-39",
+                "+5"
+            ],
+            [
+                "40 or higher",
+                "+10"
+            ]
+        ]
+    }
+}

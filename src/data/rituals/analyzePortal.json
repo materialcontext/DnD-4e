@@ -1,0 +1,45 @@
+{
+    "id": "'76",
+    "level": "8",
+    "price": "800 gp",
+    "keySkill": "Arcana",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAnalyze Portal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=76\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Analyze Portal</h1><i>Scintillating motes of color sparkle inside the portal and from their patterns and movements you discern its secrets.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 250 gp<br/><b>Market Price</b>: 800 gp<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 8<br/><b>Category</b>: Divination<br/><b>Time</b>: 1 hour<br/><b>Duration</b>: Instantaneous</p><p>When you perform this ritual, choose a specific active and permanent portal you can clearly see. Analyze Portal causes the portal to erupt with faint lights that flicker and spin, letting you learn a great deal about its destination and function. Its most basic effect is to reveal the portal’s destination. Although a portal usually displays what its destination looks like, this ritual reveals the destination’s name and its general location in the world or the plane on which it is located.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When you learn the origin and type of the last creature to use the portal, you also learn any keywords associated with that creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Analyze Portal can also reveal the identity of the creature that created the portal. If no creature created it, you learn of the event that created it.<br/><br/><table><tr><th>Arcana Check Result</th><th>Information Learned</th></tr><tr><td>29 or lower</td><td>The name of the portal's destination</td></tr><tr><td>30 or higher</td><td>The origin and type of the creature to use it last</td></tr><tr><td>30 + one-half creator's level</td><td>Identity of the creature that created it, if any</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 142.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nAnalyze Portal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=76\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Analyze Portal",
+    "category": "Divination",
+    "time": "1 hour",
+    "duration": "Instantaneous",
+    "text": "When you perform this ritual, choose a specific active and permanent portal you can clearly see. Analyze Portal causes the portal to erupt with faint lights that flicker and spin, letting you learn a great deal about its destination and function. Its most basic effect is to reveal the portal’s destination. Although a portal usually displays what its destination looks like, this ritual reveals the destination’s name and its general location in the world or the plane on which it is located.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When you learn the origin and type of the last creature to use the portal, you also learn any keywords associated with that creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Analyze Portal can also reveal the identity of the creature that created the portal. If no creature created it, you learn of the event that created it.",
+    "flavorText": "Scintillating motes of color sparkle inside the portal and from their patterns and movements you discern its secrets.",
+    "componentCost": "250 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Information Learned"
+        ],
+        "rows": [
+            [
+                "29 or lower",
+                "The name of the portal's destination"
+            ],
+            [
+                "30 or higher",
+                "The origin and type of the creature to use it last"
+            ],
+            [
+                "30 + one-half creator's level",
+                "Identity of the creature that created it, if any"
+            ]
+        ]
+    },
+    "Arcana  Check  Result": [
+        "29 or lower",
+        "30 or higher",
+        "30 + one-half creator's level"
+    ],
+    "Information  Learned": [
+        "The name of the portal's destination",
+        "The origin and type of the creature to use it last",
+        "Identity of the creature that created it, if any"
+    ]
+}

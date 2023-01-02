@@ -1,0 +1,39 @@
+{
+    "id": "'81",
+    "level": "22",
+    "price": "65,000 gp",
+    "keySkill": "Religion",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Sight\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=81\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Divine Sight</h1><i>An hour of meditation and devoted prayer bestows upon you a divine vision of the world.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 13,000 gp<br/><b>Market Price</b>: 65,000 gp<br/><b>Key Skill</b>: Religion</span><b>Level</b>: 22<br/><b>Category</b>: Divination<br/><b>Time</b>: 1 hour<br/><b>Duration</b>: Special</p><p>You grant yourself the ability to discern deities and the servants of deities (such as exarchs and angels) who walk among mortals, limning those you see in a holy glow that is visible only to you. When you see such a creature, you also learn to what deity the creature serves. Objects, places, and creatures that are favored or cursed by the gods are likewise delineated, and this ritual allows you to intuit the relative importance of the object, place, or creature to its deity.<br/><br/><table><tr><th>Religion Check Result</th><th>Duration</th></tr><tr><td>19 or lower</td><td>1 hour</td></tr><tr><td>20-29</td><td>3 hours</td></tr><tr><td>30-39</td><td>8 hours</td></tr><tr><td>40 or higher</td><td>1 day</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 143.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDivine Sight\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=81\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Divine Sight",
+    "category": "Divination",
+    "time": "1 hour",
+    "duration": "Special",
+    "text": "You grant yourself the ability to discern deities and the servants of deities (such as exarchs and angels) who walk among mortals, limning those you see in a holy glow that is visible only to you. When you see such a creature, you also learn to what deity the creature serves. Objects, places, and creatures that are favored or cursed by the gods are likewise delineated, and this ritual allows you to intuit the relative importance of the object, place, or creature to its deity.",
+    "flavorText": "An hour of meditation and devoted prayer bestows upon you a divine vision of the world.",
+    "componentCost": "13,000 gp",
+    "table": {
+        "headers": [
+            "Religion Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "1 hour"
+            ],
+            [
+                "20-29",
+                "3 hours"
+            ],
+            [
+                "30-39",
+                "8 hours"
+            ],
+            [
+                "40 or higher",
+                "1 day"
+            ]
+        ]
+    }
+}

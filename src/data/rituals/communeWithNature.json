@@ -1,0 +1,43 @@
+{
+    "id": "'41",
+    "level": "6",
+    "price": "360 gp",
+    "keySkill": "Nature",
+    "sourceRef": "Player's Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCommune With Nature\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=41\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Commune With Nature</h1><i>By communing with the spirits of the land, you know exactly where to find food, shelter, or a clue to the location of the thing you seek.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 140 gp<br/><b>Market Price</b>: 360 gp<br/><b>Key Skill</b>: Nature</span><b>Level</b>: 6<br/><b>Category</b>: Divination<br/><b>Time</b>: 30 minutes<br/><b>Duration</b>: 10 minutes</p><p>By communing with primal spirits of nature, you can learn a number of facts about your immediate environs (within 1 mile of you). <br/>&nbsp;&nbsp;&nbsp;&nbsp;You can ask a number of questions, based on the result of your Nature check, about the terrain features, plants, minerals, bodies of water, creatures, and other aspects of your surroundings.<br/><br/><table><tr><th>Nature Check Result</th><th>Number of Questions</th></tr><tr><td>9 or lower</td><td>One</td></tr><tr><td>10–19</td><td>Two</td></tr><tr><td>20–29</td><td>Three</td></tr><tr><td>30–39</td><td>Four</td></tr><tr><td>40 or higher</td><td>Five</td></tr></table><br/><br/>The primal spirits you communicate with are honest but sometimes can be elusive. Most questions are answered with a yes or a no. Rarely do the spirits elaborate further, and when they do, their response is cryptic.</p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 302.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nCommune With Nature\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=41\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Commune With Nature",
+    "category": "Divination",
+    "time": "30 minutes",
+    "duration": "10 minutes",
+    "text": "By communing with primal spirits of nature, you can learn a number of facts about your immediate environs (within 1 mile of you). <br/>&nbsp;&nbsp;&nbsp;&nbsp;You can ask a number of questions, based on the result of your Nature check, about the terrain features, plants, minerals, bodies of water, creatures, and other aspects of your surroundings.",
+    "flavorText": "By communing with the spirits of the land, you know exactly where to find food, shelter, or a clue to the location of the thing you seek.",
+    "componentCost": "140 gp",
+    "table": {
+        "headers": [
+            "Nature Check Result",
+            "Number of Questions"
+        ],
+        "rows": [
+            [
+                "9 or lower",
+                "One"
+            ],
+            [
+                "10–19",
+                "Two"
+            ],
+            [
+                "20–29",
+                "Three"
+            ],
+            [
+                "30–39",
+                "Four"
+            ],
+            [
+                "40 or higher",
+                "Five"
+            ]
+        ]
+    }
+}

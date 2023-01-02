@@ -1,0 +1,39 @@
+{
+    "id": "'291",
+    "level": "1",
+    "price": "50 gp",
+    "keySkill": "Nature",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTraveler's Camouflage\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=291\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Traveler's Camouflage</h1><i>You and your allies take on the textures and colors of the world around you.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 10 gp<br/><b>Market Price</b>: 50 gp<br/><b>Key Skill</b>: Nature</span><b>Level</b>: 1<br/><b>Category</b>: Deception<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: 10 hours</p><p>You cloak yourself and any allies present for the ritual in a camouflaging shroud. The subjects of this ritual gain a bonus to Stealth checks while traveling, and other creatures take a penalty when using Perception to find your tracks.<br/><br/>Your Nature check determines the bonus you and your allies gain and the penalty others take.<br/><br/><table><tr><th>Nature Check Result</th><th>Bonus to Stealth</th><th>Penalty to Find Tracks</th></tr><tr><td>19 or lower</td><td>+2</td><td>-2</td></tr><tr><td>20–29</td><td>+5</td><td>-5</td></tr><tr><td>30 or higher</td><td>+10</td><td>–10</td></tr></table><br/><br/>This camouflage protects you and your allies as you travel, but not during battle. Any subject who rolls initiative or makes an attack roll loses the benefit of this ritual until the end of the encounter. If a subject is hidden when he or she makes an attack, that subject loses the bonus before making the attack roll, which could cause him or her to lose the benefit of being hidden for that attack.</p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 159.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTraveler's Camouflage\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=291\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Traveler's Camouflage",
+    "flavorText": "You and your allies take on the textures and colors of the world around you.",
+    "category": "Deception",
+    "time": "10 minutes",
+    "duration": "10 hours",
+    "text": "You cloak yourself and any allies present for the ritual in a camouflaging shroud. The subjects of this ritual gain a bonus to Stealth checks while traveling, and other creatures take a penalty when using Perception to find your tracks.<br/><br/>Your Nature check determines the bonus you and your allies gain and the penalty others take.",
+    "componentCost": "10 gp",
+    "table": {
+        "headers": [
+            "Nature Check Result",
+            "Bonus to Stealth",
+            "Penalty to Find Tracks"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "+2",
+                "-2"
+            ],
+            [
+                "20–29",
+                "+5",
+                "-5"
+            ],
+            [
+                "30 or higher",
+                "+10",
+                "–10"
+            ]
+        ]
+    }
+}

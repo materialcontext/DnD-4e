@@ -1,0 +1,35 @@
+{
+    "id": "'123",
+    "level": "8",
+    "price": "680 gp",
+    "keySkill": "Arcana",
+    "sourceRef": "Dragon Magazine 366",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSignal of Pursuit\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=123\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Signal of Pursuit</h1><i>As you attune your senses to the portal, you know that the next  time someone steps through it, you will be able to learn  everything about their identity.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 125 gp<br/><b>Market Price</b>: 680 gp<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 8<br/><b>Category</b>: Divination<br/><b>Time</b>: 1 minute<br/><b>Duration</b>: 1 hour</p><p>You enchant a door within 5 squares of where you complete the ritual. The next time that door is opened, you know, as long as you are on the same plane. Depending on your Arcana check result, you can learn more.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Optional Focus: If you leave a small crystal model of the door worth at least 100 gp within 5 squares of the affected door, the ritual’s duration becomes permanent as long as the model remains within 5 squares of the door.<br/><br/><table><tr><th>Arcana Check Result</th><th>Information Gained</th></tr><tr><td>19 or lower</td><td>The door is opened.</td></tr><tr><td>20–39</td><td>The name of the creature that opened it.</td></tr><tr><td>40 or higher</td><td>An image of the creature doing it.</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/366\\\" target=\\\"_new\\\">Dragon Magazine 366</a>, page(s) 31.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSignal of Pursuit\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=123\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Signal of Pursuit",
+    "flavorText": "As you attune your senses to the portal, you know that the next  time someone steps through it, you will be able to learn  everything about their identity.",
+    "category": "Divination",
+    "time": "1 minute",
+    "duration": "1 hour",
+    "text": "You enchant a door within 5 squares of where you complete the ritual. The next time that door is opened, you know, as long as you are on the same plane. Depending on your Arcana check result, you can learn more.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Optional Focus: If you leave a small crystal model of the door worth at least 100 gp within 5 squares of the affected door, the ritual’s duration becomes permanent as long as the model remains within 5 squares of the door.",
+    "componentCost": "125 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Information Gained"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "The door is opened."
+            ],
+            [
+                "20–39",
+                "The name of the creature that opened it."
+            ],
+            [
+                "40 or higher",
+                "An image of the creature doing it."
+            ]
+        ]
+    }
+}

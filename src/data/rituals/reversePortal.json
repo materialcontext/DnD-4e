@@ -1,0 +1,35 @@
+{
+    "id": "'201",
+    "level": "12",
+    "price": "2,600 gp",
+    "keySkill": "Arcana",
+    "sourceRef": "Player's Handbook 2",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReverse Portal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=201\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Reverse Portal</h1><i>You open a portal not from here to there, but from there to here.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 500 gp<br/><b>Market Price</b>: 2,600 gp<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 12<br/><b>Category</b>: Travel<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p>You create a shortcut across the fabric of the world, linking your location with a permanent teleportation circle elsewhere on the same plane (see the Linked Portal ritual, Player’s Handbook, page 307). As part of performing this ritual, you sketch out a 10-foot-diameter circle in rare chalks and inks. Alternatively, you can use a permanent teleportation circle, which reduces the component cost to 150 gp and grants you a +5 bonus to your Arcana check.<br/>At the ritual’s completion, make an Arcana check. The result determines the duration that the portal remains open.<br/><br/><table><tr><th>Arcana Check Result</th><th>Portal Duration</th></tr><tr><td>19 or lower</td><td>1 round</td></tr><tr><td>20–39</td><td>3 rounds</td></tr><tr><td>40 or higher</td><td>5 rounds</td></tr></table><br/><br/>The portal displays views of the other location in the same way as that created by the Linked Portal ritual, but creatures cannot enter the origin point and appear at the other location. Instead, creatures can only step into the distant end of the portal to appear at the origin point with you.</p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950164\\\" target=\\\"_new\\\">Player's Handbook 2</a>, page(s) 216.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nReverse Portal\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=201\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Reverse Portal",
+    "flavorText": "You open a portal not from here to there, but from there to here.",
+    "category": "Travel",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "You create a shortcut across the fabric of the world, linking your location with a permanent teleportation circle elsewhere on the same plane (see the Linked Portal ritual, Player’s Handbook, page 307). As part of performing this ritual, you sketch out a 10-foot-diameter circle in rare chalks and inks. Alternatively, you can use a permanent teleportation circle, which reduces the component cost to 150 gp and grants you a +5 bonus to your Arcana check.<br/>At the ritual’s completion, make an Arcana check. The result determines the duration that the portal remains open.",
+    "componentCost": "500 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Portal Duration"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "1 round"
+            ],
+            [
+                "20–39",
+                "3 rounds"
+            ],
+            [
+                "40 or higher",
+                "5 rounds"
+            ]
+        ]
+    }
+}

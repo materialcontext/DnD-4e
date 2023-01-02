@@ -1,0 +1,43 @@
+{
+    "id": "'264",
+    "level": "20",
+    "price": "25,000 gp",
+    "keySkill": "Arcana",
+    "sourceRef": "Eberron Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nScry Trap\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=264\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Scry Trap</h1><i>He can try to look, but he’s going to pay for it.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 5,000 gp<br/><b>Market Price</b>: 25,000 gp<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 20<br/><b>Category</b>: Scrying<br/><b>Time</b>: 30 minutes<br/><b>Duration</b>: 24 hours or until discharged</p><p>This ritual creates a ward around you that warns you about scrying in your area. You become automatically aware of any scrying sensors that perceive you. This awareness wakes you if you are asleep. When you become aware of a sensor in this manner, you can choose to destroy it and end the ritual that created it, unless the sensor or the creature is higher level than you. You can also choose to observe the creature that created the sensor, using your Arcana check result to determine how long you can observe that creature.<br/><br/><table><tr><th>Arcana Check Result</th><th>Duration</th></tr><tr><td>19 or lower</td><td>1 round</td></tr><tr><td>20—24</td><td>2 rounds</td></tr><tr><td>25—29</td><td>3 rounds</td></tr><tr><td>30—39</td><td>4 rounds</td></tr><tr><td>40 or higher</td><td>5 rounds</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786951000\\\" target=\\\"_new\\\">Eberron Player's Guide</a>, page(s) 118.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nScry Trap\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=264\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Scry Trap",
+    "flavorText": "He can try to look, but he’s going to pay for it.",
+    "category": "Scrying",
+    "time": "30 minutes",
+    "duration": "24 hours or until discharged",
+    "text": "This ritual creates a ward around you that warns you about scrying in your area. You become automatically aware of any scrying sensors that perceive you. This awareness wakes you if you are asleep. When you become aware of a sensor in this manner, you can choose to destroy it and end the ritual that created it, unless the sensor or the creature is higher level than you. You can also choose to observe the creature that created the sensor, using your Arcana check result to determine how long you can observe that creature.",
+    "componentCost": "5,000 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "1 round"
+            ],
+            [
+                "20—24",
+                "2 rounds"
+            ],
+            [
+                "25—29",
+                "3 rounds"
+            ],
+            [
+                "30—39",
+                "4 rounds"
+            ],
+            [
+                "40 or higher",
+                "5 rounds"
+            ]
+        ]
+    }
+}

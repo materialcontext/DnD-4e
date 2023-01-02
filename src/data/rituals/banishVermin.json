@@ -1,0 +1,39 @@
+{
+    "id": "'101",
+    "level": "1",
+    "price": "30 gp",
+    "keySkill": "Nature",
+    "sourceRef": "Dragon Magazine 366",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBanish Vermin\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=101\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Banish Vermin</h1><i>Minor preparation is all it takes to ward against pests.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 10 gp<br/><b>Market Price</b>: 30 gp<br/><b>Key Skill</b>: Nature</span><b>Level</b>: 1<br/><b>Category</b>: Warding<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p>You ward a single zone, up to burst 5, to be unpleasant to all kinds of unwanted rodents and insects of size Tiny or smaller, even if they are part of a swarm. Any vermin that are in the burst must leave by the most expedient means possible, and none enter the affected area for a period determined by your Nature check result.<br/><br/><table><tr><th>Check Result</th><th>Duration</th></tr><tr><td>9 or lower</td><td>3 days</td></tr><tr><td>10–19</td><td>1 week</td></tr><tr><td>20–29</td><td>2 weeks</td></tr><tr><td>30 or higher</td><td>1 month</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=dnd/drtoc/366\\\" target=\\\"_new\\\">Dragon Magazine 366</a>, page(s) 27.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nBanish Vermin\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=101\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Banish Vermin",
+    "category": "Warding",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "You ward a single zone, up to burst 5, to be unpleasant to all kinds of unwanted rodents and insects of size Tiny or smaller, even if they are part of a swarm. Any vermin that are in the burst must leave by the most expedient means possible, and none enter the affected area for a period determined by your Nature check result.",
+    "flavorText": "Minor preparation is all it takes to ward against pests.",
+    "componentCost": "10 gp",
+    "table": {
+        "headers": [
+            "Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "9 or lower",
+                "3 days"
+            ],
+            [
+                "10–19",
+                "1 week"
+            ],
+            [
+                "20–29",
+                "2 weeks"
+            ],
+            [
+                "30 or higher",
+                "1 month"
+            ]
+        ]
+    }
+}

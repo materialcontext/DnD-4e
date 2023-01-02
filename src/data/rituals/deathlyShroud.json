@@ -1,0 +1,43 @@
+{
+    "id": "'80",
+    "level": "6",
+    "price": "600 gp",
+    "keySkill": "Arcana or Religion",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeathly Shroud\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=80\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Deathly Shroud</h1><i>The chill of death falls over your body, and your skin adopts the pallor of the dead.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 140 gp<br/><b>Market Price</b>: 600 gp<br/><b>Key Skill</b>: Arcana or Religion</span><b>Level</b>: 6<br/><b>Category</b>: Deception<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p>When you complete this ritual, all creatures except for intelligent undead perceive you as undead. You are seen as having the undead type by any undead of Intelligence 9 or lower. Powers and wards that affect the undead type affect you as well.<br/><br/><table><tr><th>Check Result</th><th>Duration</th></tr><tr><td>14 or lower</td><td>1 hour</td></tr><tr><td>15-19</td><td>2 hours</td></tr><tr><td>20-24</td><td>4 hours</td></tr><tr><td>25-29</td><td>8 hours</td></tr><tr><td>30 or higher</td><td>24 hours</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 143.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nDeathly Shroud\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=80\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Deathly Shroud",
+    "category": "Deception",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "When you complete this ritual, all creatures except for intelligent undead perceive you as undead. You are seen as having the undead type by any undead of Intelligence 9 or lower. Powers and wards that affect the undead type affect you as well.",
+    "flavorText": "The chill of death falls over your body, and your skin adopts the pallor of the dead.",
+    "componentCost": "140 gp",
+    "table": {
+        "headers": [
+            "Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "14 or lower",
+                "1 hour"
+            ],
+            [
+                "15-19",
+                "2 hours"
+            ],
+            [
+                "20-24",
+                "4 hours"
+            ],
+            [
+                "25-29",
+                "8 hours"
+            ],
+            [
+                "30 or higher",
+                "24 hours"
+            ]
+        ]
+    }
+}

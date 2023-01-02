@@ -1,0 +1,39 @@
+{
+    "id": "'89",
+    "level": "8",
+    "price": "400 gp",
+    "keySkill": "Nature",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShare Husk\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=89\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Share Husk</h1><i>The world dims around you until blackness is complete and<br/>total. A moment later, light returns, but your perspective is<br/>strange, somehow off, as you peer through the eyes of your<br/>animal host.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 150 gp<br/><b>Market Price</b>: 400 gp<br/><b>Key Skill</b>: Nature</span><b>Level</b>: 8<br/><b>Category</b>: Exploration<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p><table><tr><th>Nature Check Result</th><th>Duration</th></tr><tr><td>19 or lower</td><td>3 hours</td></tr><tr><td>20-29</td><td>6 hours</td></tr><tr><td>30-39</td><td>12 hours</td></tr><tr><td>40 or higher</td><td>1 day</td></tr></table><br/><br/>You loosen your spirit from your body and inhabit that of an animal. You can use this ritual only on nonhostile, natural beasts whose level is equal to or lower than your own. The target of this ritual must be present for the entire time during which the ritual is being performed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the ritual is complete, you clearly perceive everything from the perspective of the animal host. You use the subject’s senses and its Perception check modifier. While in the beast’s body, you influence the host with simple commands, such as “Go there,” “Wait,” “Flee,” and so on. If the host comes under attack, the ritual ends immediately as the animal’s instincts take over.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While under the effect of this ritual, your body is helpless as if in a deep sleep. Your body is unresponsive to any stimulus that does not deal damage. If your body takes damage, your spirit immediately returns to your body.</p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 145.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShare Husk\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=89\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Share Husk",
+    "flavorText": "The world dims around you until blackness is complete and<br/>total. A moment later, light returns, but your perspective is<br/>strange, somehow off, as you peer through the eyes of your<br/>animal host.",
+    "category": "Exploration",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "<table><tr><th>Nature Check Result</th><th>Duration</th></tr><tr><td>19 or lower</td><td>3 hours</td></tr><tr><td>20-29</td><td>6 hours</td></tr><tr><td>30-39</td><td>12 hours</td></tr><tr><td>40 or higher</td><td>1 day</td></tr></table><br/><br/>You loosen your spirit from your body and inhabit that of an animal. You can use this ritual only on nonhostile, natural beasts whose level is equal to or lower than your own. The target of this ritual must be present for the entire time during which the ritual is being performed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the ritual is complete, you clearly perceive everything from the perspective of the animal host. You use the subject’s senses and its Perception check modifier. While in the beast’s body, you influence the host with simple commands, such as “Go there,” “Wait,” “Flee,” and so on. If the host comes under attack, the ritual ends immediately as the animal’s instincts take over.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While under the effect of this ritual, your body is helpless as if in a deep sleep. Your body is unresponsive to any stimulus that does not deal damage. If your body takes damage, your spirit immediately returns to your body.",
+    "componentCost": "150 gp",
+    "table": {
+        "headers": [
+            "Nature Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "3 hours"
+            ],
+            [
+                "20-29",
+                "6 hours"
+            ],
+            [
+                "30-39",
+                "12 hours"
+            ],
+            [
+                "40 or higher",
+                "1 day"
+            ]
+        ]
+    }
+}

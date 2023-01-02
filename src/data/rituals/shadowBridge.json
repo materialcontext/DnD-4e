@@ -1,0 +1,39 @@
+{
+    "id": "'88",
+    "level": "8",
+    "price": "600 gp",
+    "keySkill": "Arcana",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Bridge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=88\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Shadow Bridge</h1><i>You raise your hands, as if urging the darkness to rise and gather about you. Slowly, the shadows collect and take the form of a bridge, solid and seamless.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 135 gp<br/><b>Market Price</b>: 600 gp<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 8<br/><b>Category</b>: Exploration<br/><b>Time</b>: 5 minutes<br/><b>Duration</b>: 10 minutes</p><p>You call forth a bridge from solid shadow. Both ends of the bridge must connect to a solid surface. The Arcana check result determines the bridge’s maximum length and width.<br/><br/><table><tr><th>Arcana Check Result</th><th>Maximum Width x Length</th></tr><tr><td>19 or lower</td><td>1 x 10 squares</td></tr><tr><td>20-29</td><td>2 x 20 squares</td></tr><tr><td>30-39</td><td>3 x 30 squares</td></tr><tr><td>40 or higher</td><td>4 x 40 squares</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218587200\\\" target=\\\"_new\\\">Forgotten Realms Player's Guide</a>, page(s) 145.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nShadow Bridge\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=88\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Shadow Bridge",
+    "flavorText": "You raise your hands, as if urging the darkness to rise and gather about you. Slowly, the shadows collect and take the form of a bridge, solid and seamless.",
+    "category": "Exploration",
+    "time": "5 minutes",
+    "duration": "10 minutes",
+    "text": "You call forth a bridge from solid shadow. Both ends of the bridge must connect to a solid surface. The Arcana check result determines the bridge’s maximum length and width.",
+    "componentCost": "135 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Maximum Width x Length"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "1 x 10 squares"
+            ],
+            [
+                "20-29",
+                "2 x 20 squares"
+            ],
+            [
+                "30-39",
+                "3 x 30 squares"
+            ],
+            [
+                "40 or higher",
+                "4 x 40 squares"
+            ]
+        ]
+    }
+}

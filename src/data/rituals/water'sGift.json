@@ -1,0 +1,35 @@
+{
+    "id": "'292",
+    "level": "10",
+    "price": "1000 gp",
+    "keySkill": "Nature",
+    "sourceRef": "Primal Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWater's Gift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=292\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Water's Gift</h1><i>You and your allies take on the traits of aquatic creatures.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 400 gp<br/><b>Market Price</b>: 1000 gp<br/><b>Key Skill</b>: Nature</span><b>Level</b>: 10<br/><b>Category</b>: Exploration<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p>You and up to seven other creatures present for the ritual take on certain aquatic abilities: the ability to breathe water as easily as air, to speak underwater normally, and to fight underwater without penalty. Each subject also gains a +5 power bonus to Athletics checks to swim. <br/><br/>Your Nature check result determines the duration of the effect.<br/><br/><table><tr><th>Nature Check Result</th><th>Duration</th></tr><tr><td>14 or lower</td><td>3 hours</td></tr><tr><td>15–24</td><td>6 hours</td></tr><tr><td>25 or higher</td><td>12 hours</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786950232\\\" target=\\\"_new\\\">Primal Power</a>, page(s) 159.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWater's Gift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=292\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Water's Gift",
+    "flavorText": "You and your allies take on the traits of aquatic creatures.",
+    "category": "Exploration",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "You and up to seven other creatures present for the ritual take on certain aquatic abilities: the ability to breathe water as easily as air, to speak underwater normally, and to fight underwater without penalty. Each subject also gains a +5 power bonus to Athletics checks to swim. <br/><br/>Your Nature check result determines the duration of the effect.",
+    "componentCost": "400 gp",
+    "table": {
+        "headers": [
+            "Nature Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "14 or lower",
+                "3 hours"
+            ],
+            [
+                "15–24",
+                "6 hours"
+            ],
+            [
+                "25 or higher",
+                "12 hours"
+            ]
+        ]
+    }
+}

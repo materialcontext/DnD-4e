@@ -1,0 +1,43 @@
+{
+    "id": "'221",
+    "level": "11",
+    "price": "2,900 gp",
+    "keySkill": "Arcana",
+    "sourceRef": "Arcane Power",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHistory Revealed\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=221\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">History Revealed</h1><i>You touch the disgraced general, conjuring images in your mind of a lavish masquerade ball, a military coup, and a horrible massacre.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 600 gp<br/><b>Market Price</b>: 2,900 gp<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 11<br/><b>Category</b>: Divination<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: 5 minutes</p><p>When you complete the ritual, you touch a willing or helpless creature and see the most defining moments of the creature’s life. The images appear in order from the most important to the least. Your Arcana check determines the number of past scenes you see. The scenes you view are those most pivotal to the creature’s history and are not chosen by any agency. Performing this ritual more than once on the same creature invariably displays the same scenes unless the creature has experienced defining moments since the last time you performed the ritual.<br/><br/><table><tr><th>Arcana Check Result</th><th>Number of Scenes</th></tr><tr><td>9 or lower</td><td>1 scene</td></tr><tr><td>10–19</td><td>2 scenes</td></tr><tr><td>20–29</td><td>3 scenes</td></tr><tr><td>30–39</td><td>4 scenes</td></tr><tr><td>40 or higher</td><td>5 scenes</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/9780786949571\\\" target=\\\"_new\\\">Arcane Power</a>, page(s) 156.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHistory Revealed\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=221\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">History Revealed",
+    "flavorText": "You touch the disgraced general, conjuring images in your mind of a lavish masquerade ball, a military coup, and a horrible massacre.",
+    "category": "Divination",
+    "time": "10 minutes",
+    "duration": "5 minutes",
+    "text": "When you complete the ritual, you touch a willing or helpless creature and see the most defining moments of the creature’s life. The images appear in order from the most important to the least. Your Arcana check determines the number of past scenes you see. The scenes you view are those most pivotal to the creature’s history and are not chosen by any agency. Performing this ritual more than once on the same creature invariably displays the same scenes unless the creature has experienced defining moments since the last time you performed the ritual.",
+    "componentCost": "600 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Number of Scenes"
+        ],
+        "rows": [
+            [
+                "9 or lower",
+                "1 scene"
+            ],
+            [
+                "10–19",
+                "2 scenes"
+            ],
+            [
+                "20–29",
+                "3 scenes"
+            ],
+            [
+                "30–39",
+                "4 scenes"
+            ],
+            [
+                "40 or higher",
+                "5 scenes"
+            ]
+        ]
+    }
+}

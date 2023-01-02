@@ -1,0 +1,39 @@
+{
+    "id": "'165",
+    "level": "14",
+    "price": "Unique",
+    "keySkill": "Arcana",
+    "sourceRef": "P1 King of the Trollhaunt Warrens",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRitual of Retrieval\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=165\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Ritual of Retrieval</h1><i>You attune a specific location to your own life energy—creating a place of sanctuary for your body after death.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 250 gp<br/><b>Market Price</b>: Unique<br/><b>Key Skill</b>: Arcana</span><b>Level</b>: 14<br/><b>Category</b>: Teleportation<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p>You perform this ritual at a specific safe location, attuning the site so that your body returns to it if you are killed. On the first round after you die, your body and all your possessions burn away to ash, reforming (still dead) in the locale you attune with this ritual. If the attuned location has been destroyed or altered in a way that prevents your body’s return, the ritual fails.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your Arcana check determines how long your retrieval site remains attuned.<br/><br/><table><tr><th>Arcana Check</th><th>Result</th></tr><tr><td>19 or lower</td><td>1 week</td></tr><tr><td>20–29</td><td>1 month</td></tr><tr><td>30–39</td><td>1 year</td></tr><tr><td>40 or higher</td><td>Permanent</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/218497400\\\" target=\\\"_new\\\">P1 King of the Trollhaunt Warrens</a>, page(s) 24.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRitual of Retrieval\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=165\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Ritual of Retrieval",
+    "flavorText": "You attune a specific location to your own life energy—creating a place of sanctuary for your body after death.",
+    "category": "Teleportation",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "You perform this ritual at a specific safe location, attuning the site so that your body returns to it if you are killed. On the first round after you die, your body and all your possessions burn away to ash, reforming (still dead) in the locale you attune with this ritual. If the attuned location has been destroyed or altered in a way that prevents your body’s return, the ritual fails.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your Arcana check determines how long your retrieval site remains attuned.",
+    "componentCost": "250 gp",
+    "table": {
+        "headers": [
+            "Arcana Check",
+            "Result"
+        ],
+        "rows": [
+            [
+                "19 or lower",
+                "1 week"
+            ],
+            [
+                "20–29",
+                "1 month"
+            ],
+            [
+                "30–39",
+                "1 year"
+            ],
+            [
+                "40 or higher",
+                "Permanent"
+            ]
+        ]
+    }
+}

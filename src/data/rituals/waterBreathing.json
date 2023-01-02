@@ -1,0 +1,43 @@
+{
+    "id": "'37",
+    "level": "8",
+    "price": "680 gp",
+    "keySkill": "Arcana or Nature",
+    "sourceRef": "Player's Handbook",
+    "fullText": "\\r\\n\\r\\n<!DOCTYPE HTML>\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWater Breathing\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=37\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Water Breathing</h1><i>The cool water fills your lungs, yet you find yourself able to breathe and speak as well as you can on land.</i><br/><p><span class=\\\"ritualstats\\\"><b>Component Cost</b>: 135 gp<br/><b>Market Price</b>: 680 gp<br/><b>Key Skill</b>: Arcana or Nature</span><b>Level</b>: 8<br/><b>Category</b>: Exploration<br/><b>Time</b>: 10 minutes<br/><b>Duration</b>: Special</p><p>When you perform this ritual, you can designate up to eight participants (including yourself if you wish) who breathe water as easily as they breathe air. Furthermore, they can speak normally underwater.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Water Breathing doesn’t change your ability to breathe air. It doesn’t confer a greater swim speed or the ability to fight underwater unhindered. It does protect any gear you and the participants carry, such as books and scrolls, from water damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your check result determines the duration of the effect.<br/><br/><table><tr><th>Arcana Check Result</th><th>Duration</th></tr><tr><td>14 or lower</td><td>1 hour</td></tr><tr><td>15–19</td><td>2 hours</td></tr><tr><td>20–24</td><td>4 hours</td></tr><tr><td>25–29</td><td>8 hours</td></tr><tr><td>30 or higher</td><td>24 hours</td></tr></table></p><p class=\\\"publishedIn\\\">Published in <a href=\\\"http://anonym.to/?http://www.wizards.com/default.asp?x=products/dndacc/217367200\\\" target=\\\"_new\\\">Player's Handbook</a>, page(s) 315.</p>\\r\\n    </div>\\r\\n    </form>\\r\\n</body>\\r\\n</html>\\r\\n\\r\\n<script type=\\\"text/javascript\\\">\\r\\n    if (document.all) {\\r\\n        if (document.documentMode != 9) {\\r\\n            var ar = document.getElementsByTagName('span'\\r\\n            for (var i = 0; i < ar.length; i++ ) {\\r\\n                var c = ar[i].attributes['class'].value;\\r\\n                if (c == 'milevel')\\r\\n                    ar[i].style.top = \\\"-24px\\\";\\r\\n                else if (c == 'miright')\\r\\n                    ar[i].style.top = \\\"-18px\\\";\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n</script>\\r\\n');\n",
+    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nWater Breathing\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=37\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Water Breathing",
+    "flavorText": "The cool water fills your lungs, yet you find yourself able to breathe and speak as well as you can on land.",
+    "category": "Exploration",
+    "time": "10 minutes",
+    "duration": "Special",
+    "text": "When you perform this ritual, you can designate up to eight participants (including yourself if you wish) who breathe water as easily as they breathe air. Furthermore, they can speak normally underwater.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Water Breathing doesn’t change your ability to breathe air. It doesn’t confer a greater swim speed or the ability to fight underwater unhindered. It does protect any gear you and the participants carry, such as books and scrolls, from water damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your check result determines the duration of the effect.",
+    "componentCost": "135 gp",
+    "table": {
+        "headers": [
+            "Arcana Check Result",
+            "Duration"
+        ],
+        "rows": [
+            [
+                "14 or lower",
+                "1 hour"
+            ],
+            [
+                "15–19",
+                "2 hours"
+            ],
+            [
+                "20–24",
+                "4 hours"
+            ],
+            [
+                "25–29",
+                "8 hours"
+            ],
+            [
+                "30 or higher",
+                "24 hours"
+            ]
+        ]
+    }
+}
