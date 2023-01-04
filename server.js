@@ -22,6 +22,5 @@ app.post('/auth', (req, res) => {
 app.use(ssrHandler);
 
 // start server
-app.listen(3000, () => {
-  console.log('Listening on http://localhost:3000');
+app.listen(443, () => {
 });
