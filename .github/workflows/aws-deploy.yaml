@@ -34,7 +34,6 @@ jobs:
           host : ${{ secrets.REMOTE_HOST }}
           username : ${{ secrets.REMOTE_USER }}
           script: |
-
             cd home/ec2user/dnd-4e
             git checkout production &&
             git fetch --all &&
