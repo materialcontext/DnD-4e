@@ -28,14 +28,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: deploy to ec2
-        
-        env:
+        uses: uses: appleboy/ssh-action@v0.1.6
+        with:
           key: ${{ secrets.SSH_PRIVATE_KEY  }}
           host : ${{ secrets.REMOTE_HOST }}
           username : ${{ secrets.REMOTE_USER }}
-            
-        run: |
-          ssh -i -v key ${username}@${host} 
+          script: |
 
             cd home/ec2user/dnd-4e
             git checkout production &&
