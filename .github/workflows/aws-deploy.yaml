@@ -26,18 +26,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - name: deploy to ec2
-        uses: appleboy/ssh-action@v0.1.6
-        with:
-          key: ${{ secrets.SSH_PRIVATE_KEY  }}
-          host : ${{ secrets.REMOTE_HOST }}
-          username : ${{ secrets.REMOTE_USER }}
-          script: |
-            cd dnd-4e
-            git checkout main/production &&
-            git fetch --all &&
-            git reset main &&
-            git pull origin main
+      - name: Checkout the files
+        uses: actions/checkout@v3
 
-            npm run server.js
+      - name: Deploy to ec2
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: './dnd-4e'
