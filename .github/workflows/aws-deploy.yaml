@@ -35,5 +35,5 @@ jobs:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "./"
           remote_host: ${{ secrets.REMOTE_HOST }}
-          remote_user: ${{ secrets.REMOTE_USER }}
+          remote_user: ec2-user
           target: "/home/ec2-user/dnd-4e"
