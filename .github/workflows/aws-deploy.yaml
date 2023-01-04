@@ -28,20 +28,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: deploy to ec2
-        
-        env:
-          PRIVATE_KEY: ${{ secrets.AWS_PRIVATE_KEY  }}
-          HOSTNAME : ${{ secrets.HOSTNAME  }}
-          USER_NAME : ${{ secrets.USER_NAME  }}
-            
-        run: |
-          echo "$PRIVATE_KEY" > private_key && chmod 600 private_key
-          ssh -o StrictHostKeyChecking=no -i private_key ${USER_NAME}@${HOSTNAME} 
-
-            cd home/ec2user/dnd-4e
-            git checkout production &&
-            git fetch --all &&
-            git reset production &&
-            git pull production
-
-            npm run server.js
+        uses: appleboy/ssh-action@v0.1.6
+        with::
+            key: ${{ secrets.AWS_PRIVATE_KEY  }}
+            host : ${{ secrets.HOSTNAME  }}
+            username : ${{ secrets.USER_NAME  }}
+            script: |
+              git checkout production
+              git fetch --all
