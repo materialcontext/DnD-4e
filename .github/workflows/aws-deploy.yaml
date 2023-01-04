@@ -2,7 +2,7 @@ name: CI/CD to AWS EC2 and S3
 
 on:
   push:
-    branches: [ production ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -36,9 +36,9 @@ jobs:
           username : ${{ secrets.REMOTE_USER }}
           script: |
             cd dnd-4e
-            git checkout origin/production &&
+            git checkout main/production &&
             git fetch --all &&
-            git reset production &&
-            git pull origin production
+            git reset main &&
+            git pull origin main
 
             npm run server.js
