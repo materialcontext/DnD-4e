@@ -22,5 +22,5 @@ app.post('/auth', (req, res) => {
 app.use(ssrHandler);
 
 // start server
-app.listen(443, () => {
+app.listen(8080, () => {
 });
