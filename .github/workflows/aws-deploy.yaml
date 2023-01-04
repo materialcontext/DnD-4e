@@ -1,4 +1,6 @@
 name: CI/CD to AWS EC2 and S3
+env: 
+  name: 'dnd-4e'
 
 on:
   push:
@@ -10,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x, 16.x, 18.x]
+        node-version: [18.x]
     
     steps:
       - uses: actions/checkout@v3
