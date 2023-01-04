@@ -35,7 +35,6 @@ jobs:
           username : ${{ secrets.REMOTE_USER }}
             
         run: |
-          echo "$PRIVATE_KEY" > key && chmod 600 key
           ssh -i key ${username}@${host} 
 
             cd home/ec2user/dnd-4e
