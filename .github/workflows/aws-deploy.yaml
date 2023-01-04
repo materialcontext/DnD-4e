@@ -36,9 +36,9 @@ jobs:
           username : ${{ secrets.REMOTE_USER }}
           script: |
             cd dnd-4e
-            git checkout production &&
+            git checkout origin/production &&
             git fetch --all &&
             git reset production &&
-            git pull production
+            git pull origin production
 
             npm run server.js
