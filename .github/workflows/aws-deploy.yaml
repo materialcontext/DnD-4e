@@ -32,8 +32,8 @@ jobs:
       - name: deploy to ec2
         uses: easingthemes/ssh-deploy@main
         env:
-          sshPrivateKey: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "./"
-          remoteHost: ${{ secrets.REMOTE_HOST }}
-          remoteUser: ${{ secrets.REMOTE_USER }}
+          remote_host: ${{ secrets.REMOTE_HOST }}
+          remote_user: ${{ secrets.REMOTE_USER }}
           target: "/home/ec2-user/dnd-4e"
