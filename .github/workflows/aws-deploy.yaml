@@ -35,7 +35,8 @@ jobs:
           username : ${{ secrets.REMOTE_USER }}
             
         run: |
-          ssh -i private_key ${USER_NAME}@${HOSTNAME} 
+          echo "$PRIVATE_KEY" > key && chmod 600 key
+          ssh -i key ${username}@${host} 
 
             cd home/ec2user/dnd-4e
             git checkout production &&
