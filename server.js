@@ -23,4 +23,5 @@ app.use(ssrHandler);
 
 // start server
 app.listen(8080, () => {
+    console.log('connected')
 });

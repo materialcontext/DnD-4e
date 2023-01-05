@@ -13,13 +13,12 @@ jobs:
         node-version: [18.x]
     
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+      - name: checkout repository
+        uses: actions/checkout@v3
+      - name: build and upload astro
+        uses: withastro/action@v0
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm ci
-      - run: npm run build
 
   deploy:
     name: Push to Ec2
@@ -36,3 +35,7 @@ jobs:
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           TARGET: './dnd-4e'
+          SCRIPT_AFTER: |
+            cd dnd-4e
+            npm run start
+            sudo systemctl nginx restart
