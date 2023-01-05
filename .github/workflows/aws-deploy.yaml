@@ -5,13 +5,6 @@ on:
     branches: [ production ]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [18.x]
-
   deploy:
     name: Push to Ec2
     runs-on: ubuntu-latest
