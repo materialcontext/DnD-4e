@@ -4,7 +4,7 @@ import ClassLayout from "../../layouts/classLayout.astro";
 import "../../styles/style.css"
 
 export async function getStaticPaths() {
-    const paths = fs.readdirSync('../../../data/backgrounds/*.json')
+    const paths = fs.readdirSync('../../../data/classes/*.json')
     return paths.map(name => { params: {slug: name} });
 };
 
