@@ -11,14 +11,6 @@ jobs:
     strategy:
       matrix:
         node-version: [18.x]
-    
-    steps:
-      - name: checkout repository
-        uses: actions/checkout@v3
-      - name: build and upload astro
-        uses: withastro/action@v0
-        with:
-          node-version: ${{ matrix.node-version }}
 
   deploy:
     name: Push to Ec2
@@ -37,5 +29,6 @@ jobs:
           TARGET: './dnd-4e'
           SCRIPT_AFTER: |
             cd dnd-4e
+            npm run build
             npm run start
             sudo systemctl nginx restart
