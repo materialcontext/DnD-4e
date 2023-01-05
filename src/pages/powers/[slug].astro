@@ -1,17 +1,10 @@
 ---
-import toCamelCase from "../../utils/toCamelCase";
+import fs from "node:fs";
 import PowerLayout from "../../layouts/powerLayout.astro";
 
 export async function getStaticPaths() {
-    const paths = await Astro.glob('../../../data/powers/*.json').then((res) => {
-        return res.map((path) => {
-            return {
-                params: {
-                    slug: toCamelCase(path.name)
-                }
-            }
-        })
-    })
+    const paths = fs.readdirSync('../../../data/powers/*.json')
+    return paths.map(name => { params: {slug: name} });
 };
 
 let response = await import(`../../../data/powers/${Astro.params.slug}.json`).then((res) => res.default);
