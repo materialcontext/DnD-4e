@@ -2,6 +2,18 @@
 import ClassLayout from "../../layouts/classLayout.astro";
 import "../../styles/style.css"
 
+export async function getStaticPaths() {
+    const paths = await Astro.glob('../../../data/classes/*.json').then((res) => {
+        return res.map((path) => {
+            return {
+                params: {
+                    slug: path.split('/').pop().split('.').shift()
+                }
+            }
+        })
+    })
+};
+
 let response = await import(`../../../data/classes/${Astro.params.slug}.json`).then((res) => res.default);
 let data = await response;
 ---

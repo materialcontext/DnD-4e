@@ -1,6 +1,18 @@
 ---
 import ClassLayout from "../../layouts/bgLayout.astro";
 
+export async function getStaticPaths() {
+    const paths = await Astro.glob('../../../data/backgrounds/*.json').then((res) => {
+        return res.map((path) => {
+            return {
+                params: {
+                    slug: path.split('/').pop().split('.').shift()
+                }
+            }
+        })
+    })
+};
+
 let response = await import(`../../../data/backgrounds/${Astro.params.slug}.json`).then((res) => res.default);
 let data = await response;
 
