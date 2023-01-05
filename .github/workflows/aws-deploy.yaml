@@ -38,5 +38,6 @@ jobs:
           TARGET: './dnd-4e'
           SCRIPT_AFTER: |
             cd dnd-4e
+            npm run build
             npm run start
             sudo systemctl nginx restart
