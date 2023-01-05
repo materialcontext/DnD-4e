@@ -12,7 +12,7 @@ import node from "@astrojs/node";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), preact()],
-  site:  'http://127.0.0.1:3000/',
+  site:  'http://materialcontext.io/',
   output: "server",
   adapter: node({
     mode: "middleware"

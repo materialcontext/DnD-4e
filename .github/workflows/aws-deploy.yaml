@@ -21,6 +21,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
   deploy:
+    needs: build
     name: Push to Ec2
     runs-on: ubuntu-latest
 
