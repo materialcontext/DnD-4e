@@ -2,10 +2,7 @@
 import RaceLayout from "../../layouts/raceLayout.astro";
 import "../../styles/style.css"
 
-// change this to the proper api endpoint
-let response = await fetch(`${Astro.site}data/raaces/${Astro.params.slug}`);
-let data = await response.json();
-
-
+let response = await import(`../../../data/races/${Astro.params.slug}.json`).then((res) => res.default);
+let data = await response;
 ---
 <RaceLayout data={data}/>

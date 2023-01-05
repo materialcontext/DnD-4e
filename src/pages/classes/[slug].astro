@@ -2,9 +2,7 @@
 import ClassLayout from "../../layouts/classLayout.astro";
 import "../../styles/style.css"
 
-// change this to the proper api endpoint
-let response = await fetch(`${Astro.site}data/classes/${Astro.params.slug}`);
-let data = await response.json();
-
+let response = await import(`../../../data/classes/${Astro.params.slug}.json`).then((res) => res.default);
+let data = await response;
 ---
 <ClassLayout data={data}/>
