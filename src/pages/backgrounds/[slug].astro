@@ -1,9 +1,8 @@
 ---
 import ClassLayout from "../../layouts/bgLayout.astro";
 
-// change this to the proper api endpoint
-let response = await fetch(`${Astro.site}data/backgrounds/${Astro.params.slug}`);
-let data = await response.json();
+let response = await import(`../../../data/backgrounds/${Astro.params.slug}.json`).then((res) => res.default);
+let data = await response;
 
 ---
 <ClassLayout data={data}/>

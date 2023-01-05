@@ -1,9 +1,8 @@
 ---
 import PowerLayout from "../../layouts/powerLayout.astro";
 
-let response = await fetch(`${Astro.site}data/powers/${Astro.params.slug}`);
-let data = await response.json();
-
+let response = await import(`../../../data/powers/${Astro.params.slug}.json`).then((res) => res.default);
+let data = await response;
 
 const entries = Object.entries(data).map(([key, value]) => {
   let bonusPower = value["bonusPower"];
