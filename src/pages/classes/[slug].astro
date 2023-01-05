@@ -4,8 +4,8 @@ import ClassLayout from "../../layouts/classLayout.astro";
 import "../../styles/style.css"
 
 export async function getStaticPaths() {
-    let paths = fs.readdirSync('../../../data/classes/*.json').map(name => { params: {slug: name} });
-    return paths;
+    let paths = fs.readdirSync('../../../data/classes/*.json')
+    return paths.map((name) => {{ params: {slug: name} }});
 };
 
 let response = await import(`../../../data/classes/${Astro.params.slug}.json`).then((res) => res.default);
