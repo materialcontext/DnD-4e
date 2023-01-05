@@ -4,7 +4,7 @@ import RaceLayout from "../../layouts/raceLayout.astro";
 import "../../styles/style.css"
 
 export async function getStaticPaths() {
-    const paths = fs.readdirSync('../../../data/races/*.json')
+    let paths = fs.readdirSync('../../../data/races/*.json')
     return paths.map(name => { params: {slug: name} });
 };
 
