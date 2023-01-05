@@ -3,7 +3,7 @@ import fs from "node:fs";
 import PowerLayout from "../../layouts/powerLayout.astro";
 
 export async function getStaticPaths() {
-    const paths = fs.readdirSync('../../../data/powers/*.json')
+    let paths = fs.readdirSync('../../../data/powers/*.json')
     return paths.map(name => { params: {slug: name} });
 };
 
