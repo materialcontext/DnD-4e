@@ -1,6 +1,5 @@
 // express server with astro middleware as an entrypoint for page serving
 import express from 'express';
-import fs from 'fs';
 import isValid from './routes/auth.js';
 import { handler as ssrHandler } from './dist/server/entry.mjs';
 
@@ -17,12 +16,6 @@ app.post('/auth', (req, res) => {
     } else {
         res.status(401).send('unauthorized');
     }
-});
-
-app.get('/data/:type/:id', (req, res) => {
-    const { type, id } = req.params;
-    let file = fs.readFileSync(`data/${type}/${id}.json`, 'utf8');
-    res.status(200).send(file);
 });
 
 // astro middleware for handling all other pages

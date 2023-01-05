@@ -13,8 +13,4 @@ import node from "@astrojs/node";
 export default defineConfig({
   integrations: [tailwind(), preact()],
   site:  'http://materialcontext.io/',
-  output: "server",
-  adapter: node({
-    mode: "middleware"
-  })
 });
