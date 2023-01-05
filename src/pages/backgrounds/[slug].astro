@@ -2,7 +2,7 @@ Import fs from "node:fs";
 import ClassLayout from "../../layouts/bgLayout.astro";
 
 export async function getStaticPaths() {
-    const paths = fs.readdirSync('../../../data/backgrounds/*.json')
+    let paths = fs.readdirSync('../../../data/backgrounds/*.json')
     return paths.map(name => { params: {slug: name} });
 };
 
