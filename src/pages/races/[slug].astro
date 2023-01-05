@@ -1,18 +1,11 @@
 ---
-import toCamelCase from "../../utils/toCamelCase";
+import fs from "node:fs";
 import RaceLayout from "../../layouts/raceLayout.astro";
 import "../../styles/style.css"
 
 export async function getStaticPaths() {
-    const paths = await Astro.glob('../../../data/races/*.json').then((res) => {
-        return res.map((path) => {
-            return {
-                params: {
-                    slug: toCamelCase(path.name)
-                }
-            }
-        })
-    })
+    const paths = fs.readdirSync('../../../data/races/*.json')
+    return paths.map(name => { params: {slug: name} });
 };
 
 let response = await import(`../../../data/races/${Astro.params.slug}.json`).then((res) => res.default);
