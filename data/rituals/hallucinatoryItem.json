@@ -4,12 +4,12 @@
     "price": "250 gp",
     "keySkill": "Arcana",
     "sourceRef": "Player's Handbook",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nHallucinatory Item\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=65\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Hallucinatory Item",
+    "name": "Hallucinatory Item",
     "flavorText": "At your command, a phantasm of the item you’ve pictured in your mind shimmers into being before you. It wavers once, twice, and then seems to take on solid form.",
     "category": "Deception",
     "time": "10 minutes",
     "duration": "24 Hours",
-    "text": "You create the illusion of a single inanimate object that appears, to all intents and purposes, to be real. You can use this ritual to create an illusory wall, door, weapon, or other object.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your Arcana check result determines the illusion’s maximum size.",
+    "text": "You create the illusion of a single inanimate object that appears, to all intents and purposes, to be real. You can use this ritual to create an illusory wall, door, weapon, or other object.  Your Arcana check result determines the illusion’s maximum size.",
     "componentCost": "25 gp",
     "table": {
         "headers": [

@@ -4,12 +4,12 @@
     "price": "250 gp",
     "keySkill": "Nature",
     "sourceRef": "Player's Handbook 2",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nSpeak with Nature\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=205\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Speak with Nature",
+    "name": "Speak with Nature",
     "flavorText": "Animals and plants respond to your queries, revealing what they have seen and what they know.",
     "category": "Divination",
     "time": "10 minutes",
     "duration": "10 minutes",
-    "text": "For the ritual’s duration, you can communicate with natural beasts and mundane plants (but not plant creatures). The ritual does not make animals friendly, and the animals or plants are limited in their knowledge by their experiences and mobility. For example, a plant knows only about its immediate surroundings, and a fish can describe only what it has seen or experienced underwater.<br/>Your Nature check result determines the number of questions you can ask.",
+    "text": "For the ritual’s duration, you can communicate with natural beasts and mundane plants (but not plant creatures). The ritual does not make animals friendly, and the animals or plants are limited in their knowledge by their experiences and mobility. For example, a plant knows only about its immediate surroundings, and a fish can describe only what it has seen or experienced underwater. Your Nature check result determines the number of questions you can ask.",
     "componentCost": "80 gp",
     "table": {
         "headers": [

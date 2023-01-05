@@ -34,7 +34,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Highest ability modifier vs. Fortitude. You have combat advantage against an elemental creature for this attack.",
-    "onHit": "2d10 + your highest ability modifier radiant damage, and the target is removed from play (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Third Failed Saving Throw: The effect ends, but the target appears in a random location in the Elemental Chaos.",
+    "onHit": "2d10 + your highest ability modifier radiant damage, and the target is removed from play (save ends).<br/> Third Failed Saving Throw: The effect ends, but the target appears in a random location in the Elemental Chaos.",
     "onMiss": "Half damage, and the target is restrained until the end of your next turn."
   },
   "Warding Advance": {

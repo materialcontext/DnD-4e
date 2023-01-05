@@ -4,12 +4,12 @@
     "price": "100 gp",
     "keySkill": "Arcana",
     "sourceRef": "Player's Handbook",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nEye of Alarm\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=11\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Eye of Alarm",
+    "name": "Eye of Alarm",
     "flavorText": "You conjure forth a phantasmal sentry—a slender pillar 6 feet tall, topped with a floating, unblinking eye. The eye watches over your camp as you sleep and cries out an alert if danger approaches.",
     "category": "Warding",
     "time": "30 minutes",
     "duration": "24 hours (special)",
-    "text": "This ritual creates watchful eyes that you place in any square within 10 squares of where you perform the ritual. Each eye is located in a particular square; it is intangible and can’t be interacted with physically. The eyes are nearly invisible and have a Stealth check result of 20 + your level to avoid detection.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your Arcana check determines how many eyes you can place and what type of vision or sensory ability they possess.",
+    "text": "This ritual creates watchful eyes that you place in any square within 10 squares of where you perform the ritual. Each eye is located in a particular square; it is intangible and can’t be interacted with physically. The eyes are nearly invisible and have a Stealth check result of 20 + your level to avoid detection.  Your Arcana check determines how many eyes you can place and what type of vision or sensory ability they possess.",
     "componentCost": "25 gp",
     "table": {
         "headers": [

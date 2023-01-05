@@ -1,0 +1,19 @@
+{
+  "Warrior’s Surge": {
+    "id": "'2481",
+    "action": "Standard",
+    "powerClass": "Orc",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Warrior’s Surge",
+    "type": "Racial",
+    "sourceRef": "Monster Manual",
+    "flavor": "Spilling the blood of your enemy invigorates you.",
+    "keywords": [
+      "Healing, Weapon"
+    ],
+    "range": "Melee weapon",
+    "attack": "Strength vs. AC",
+    "onHit": "1[W] + Strength modifier damage, and you can spend a healing surge.<br/> Increase to 2[W] + Strength modifier damage at 21st level.<br/>"
+  }
+}

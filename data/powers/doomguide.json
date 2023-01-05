@@ -1,0 +1,56 @@
+{
+  "Kelemvor's Sword": {
+    "id": "'1898",
+    "action": "Standard",
+    "powerClass": "Doomguide",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Kelemvor's Sword",
+    "type": "Attack",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "You hold your blade high, and a holy fire envelops its length. Your strike is charged with dazzling, radiant power, and you and your allies are healed by Kelemvor’s grace.",
+    "keywords": [
+      "Divine, Healing, Radiant, Weapon"
+    ],
+    "range": "Melee weapon",
+    "attack": "Strength  vs. Reflex",
+    "onHit": "4[W] + Strength modifier radiant damage, and the target is dazed (save ends).<br/> An undead creature hit by this power is stunned (save ends) rather than dazed.",
+    "effect": "You and each of your allies within 10 squares regain 15 hit points."
+  },
+  "Kelemvor's Circle": {
+    "id": "'3535",
+    "action": "Standard",
+    "powerClass": "Doomguide",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Kelemvor's Circle",
+    "type": "Attack",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "You throw your arms wide to fling out a circle of holy radiance. Foes nearby burn, and undead creatures explode into white motes, but your allies are soothed by holy warmth.",
+    "keywords": [
+      "Divine, Healing, Implement, Radiant"
+    ],
+    "range": "Close burst 5",
+    "target": "Each enemy in the burst",
+    "attack": "Charisma vs. Fortitude",
+    "onHit": "2d6 + Charisma modifier radiant damage.",
+    "effect": "Your allies in the burst regain 5 hit points, or 10 hit points if your attack hit at least one undead enemy."
+  },
+  "Unsullied Heart": {
+    "id": "'3536",
+    "action": "Immediate Interrupt",
+    "powerClass": "Doomguide",
+    "frequency": "Daily",
+    "level": "12",
+    "name": "Unsullied Heart",
+    "type": "Utility",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "Kelemvor wards those whom you call friend. With his name you purge your ally of a baleful effect before it takes hold.",
+    "keywords": [
+      "Divine"
+    ],
+    "range": "Ranged 10",
+    "trigger": "You or an ally is hit by an attack against Fortitude or Will defense",
+    "effect": "The target of the attack gains a +5 power bonus to Fortitude or Will defense until the end of your next turn."
+  }
+}

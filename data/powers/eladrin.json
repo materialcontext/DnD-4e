@@ -1,0 +1,87 @@
+{
+  "Fey Step": {
+    "id": "'1449",
+    "action": "Move",
+    "powerClass": "Eladrin",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Fey Step",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook, Heroes of the Fallen Lands",
+    "flavor": "You step through the boundary between the planes, disappearing for a moment before reappearing somewhere else.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal",
+    "effect": "Teleport up to 5 squares."
+  },
+  "Sense Magic": {
+    "id": "'16038",
+    "action": "Minor",
+    "powerClass": "Eladrin",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Sense Magic",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "You attune your senses to the magical world, and in a flash, nearby magic becomes as obvious as birdsong on the wind.",
+    "keywords": [
+      " Personal   Effect: You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones. "
+    ],
+    "range": "Personal",
+    "effect": "You sense the presence of magic within 10 squares of you as if you succeeded on an Arcana check to do so. You can then make an Arcana check as a free action to identify any revealed magical phenomena, conjurations, or zones."
+  },
+  "Eladrin Escape": {
+    "id": "'16039",
+    "action": "Immediate Reaction",
+    "powerClass": "Eladrin",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Eladrin Escape",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "Your enemy has but one chance to corner you. Wasting it gives you the opportunity to flee.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal",
+    "trigger": "An enemy misses you with a melee attack.",
+    "effect": "You teleport up to 5 squares."
+  },
+  "Recursive Thought": {
+    "id": "'16040",
+    "action": "Free",
+    "powerClass": "Eladrin",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Recursive Thought",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "When you clear your mind, your affliction bounces back to your unsuspecting foe.",
+    "keywords": [
+      " Special   Trigger: You save against a dazing or stunning effect.  Target: The enemy that subjected you to the effect  Effect: The target is subjected to the effect you saved against until the end of your next turn. "
+    ],
+    "range": "Special",
+    "trigger": "You save against a dazing or stunning effect.",
+    "target": "The enemy that subjected you to the effect",
+    "effect": "The target is subjected to the effect you saved against until the end of your next turn."
+  },
+  "Spiral Dance Assault": {
+    "id": "'16041",
+    "action": "Free",
+    "powerClass": "Eladrin",
+    "frequency": "At-Will (Special)",
+    "level": "16",
+    "name": "Spiral Dance Assault",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "You strike and dance away, only to reappear at your enemy’s side.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Personal",
+    "trigger": "You hit an enemy with a melee attack on your turn.",
+    "effect": "You teleport to a square adjacent to the enemy.",
+    "special": "You can use this power only once per round."
+  }
+}

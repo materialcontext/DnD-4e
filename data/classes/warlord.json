@@ -79,7 +79,7 @@
   "classFeatures": {
     "proficiencyOption": {
       "overview": "you may choose to keep the standard warlord options or replace them with the Archer Warlord feature.",
-      "Options": {
+      "options": {
         "standardWarlord": "You have proficiency with chain mail and light shields",
         "archerWarlord": "When you choose the Archer Warlord class feature, you lose proficiency with chainmail and light shields. You gain proficiency with military ranged weapons. In addition, when you make a ranged basic attack with a bow, you can use Strength instead of Dexterity for the attack roll and the damage roll."
       }
@@ -87,9 +87,9 @@
     "leadershipOption": {
       "overview": "You gain one of the following benefits: ",
       "options": {
-        "battlefrontLeader": "This class feature replaces your Combat Leader class feature. &nbsp;&nbsp;&nbsp;&nbsp;You gain proficiency with heavy shields, and you gain the battlefront shift power.",
-      "cannyLeader": "This class feature replaces your Combat Leader class feature. &nbsp;&nbsp;&nbsp;&nbsp;You and any ally within 10 squares of you who can see and hear you gain a +2 bonus to Insight checks and Perception checks.",
-      "combatLeader": "You and each ally within 10 squares who can see and hear you gain a +2 power bonus to initiative."
+        "battlefrontLeader": "This class feature replaces your Combat Leader class feature.  You gain proficiency with heavy shields, and you gain the battlefront shift power.",
+        "cannyLeader": "This class feature replaces your Combat Leader class feature.  You and any ally within 10 squares of you who can see and hear you gain a +2 bonus to Insight checks and Perception checks.",
+        "combatLeader": "You and each ally within 10 squares who can see and hear you gain a +2 power bonus to initiative."
       }
     },
     "commandingPresence": {
@@ -97,10 +97,10 @@
       "options": {
         "bravuraPresence": "When an ally who can see you spends an action point to take an extra action and uses the action to make an attack, the ally can choose to take advantage of this feature before the attack roll. If the ally chooses to do so and the attack hits, the ally can either make a basic attack or take a move action after the attack as a free action. If the attack misses, the ally grants combat advantage to all enemies until the end of his or her next turn.",
         "insightfulPresence": "When any ally who can see you spends an action point to take an extra action, that ally gains a bonus to all defenses equal to half your Wisdom modifier or half your Charisma modifier until the start of his or her next turn.",
-        "inspiringPresence": "When an ally who can see you spends an action point to take an extra action, that ally also regains hit points equal to one-half your level + your Charisma modifier. &nbsp;&nbsp;&nbsp;&nbsp;If the ally can see multiple warlord allies who have this class feature, the ally regains hit points from only one of them (the ally’s choice).",
+        "inspiringPresence": "When an ally who can see you spends an action point to take an extra action, that ally also regains hit points equal to one-half your level + your Charisma modifier.  If the ally can see multiple warlord allies who have this class feature, the ally regains hit points from only one of them (the ally’s choice).",
         "resourcefulPresence": "When an ally who can see you spends an action point to take an extra action and uses the action to make an attack, that attack gains a bonus to damage equal to one-half your level + your Intelligence modifier. If the attack hits no target, the ally gains temporary hit points equal to one-half your level + your Charisma modifier.",
         "skirmishingPresence": "When an ally who can see you spends an action point to make an attack, that ally can use a free action to shift a number of squares equal to your Intelligence or Wisdom modifier before or after the attack.",
-        "tacticalPresence": "When an ally you can see spends an action point to make an attack, the ally gains a bonus to the first attack roll of that attack. The bonus equals half your Intelligence modifier. &nbsp;&nbsp;&nbsp;&nbsp;If multiple warlord allies who have this class feature can see the ally, he or she gains the bonus from only one of them (the ally’s choice)."
+        "tacticalPresence": "When an ally you can see spends an action point to make an attack, the ally gains a bonus to the first attack roll of that attack. The bonus equals half your Intelligence modifier.  If multiple warlord allies who have this class feature can see the ally, he or she gains the bonus from only one of them (the ally’s choice)."
       }
     },
     "inspiringWord": "Using the inspiring word power, warlords can grant their comrades additional resilience with nothing more than a shout of encouragement."

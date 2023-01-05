@@ -1,0 +1,19 @@
+{
+  "Incredible Toughness": {
+    "id": "'11738",
+    "action": "No Action",
+    "powerClass": "Mul",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Incredible Toughness",
+    "type": "Racial",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Through dogged determination and sheer physical hardiness, you shrug off an effect that would daunt a lesser person.",
+    "keywords": [
+      " Personal   Trigger: You start your turn  Effect: You end any ongoing damage or any dazed, slowed, stunned, or weakened condition currently affecting you. "
+    ],
+    "range": "Personal",
+    "trigger": "You start your turn",
+    "effect": "You end any ongoing damage or any dazed, slowed, stunned, or weakened condition currently affecting you."
+  }
+}

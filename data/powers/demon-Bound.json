@@ -1,0 +1,57 @@
+{
+  "Abyssal Frenzy": {
+    "id": "'16308",
+    "action": "Free",
+    "powerClass": "Demon-Bound",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Abyssal Frenzy",
+    "type": "",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "flavor": "Striking one enemy triggers a wild outburst that pushes everyone in reach away from you.",
+    "keywords": [
+      "Elemental"
+    ],
+    "range": "Close burst 1",
+    "trigger": "You hit with a melee attack.",
+    "target": "Each creature in the burst",
+    "effect": "Each target takes 10 damage, and you can push it 1 square."
+  },
+  "Demonic Stigmata": {
+    "id": "'16309",
+    "action": "Minor",
+    "powerClass": "Demon-Bound",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Demonic Stigmata",
+    "type": "",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "flavor": "You become a horrid demon. Horns break through your brow, your skin turns red, and unholy runes form on your skin.",
+    "keywords": [
+      "Elemental, Polymorph"
+    ],
+    "range": "Personal",
+    "effect": "You gain temporary hit points equal to one-half your level, and you assume the demonic stigmata form until the end of the encounter or until you end this effect as a minor action. While in this form, you gain the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  Darkvision<br/><img src=\"images/bullet.gif\" alt=\"\"/>  An additional use of demonic resilience during this encounter<br/><img src=\"images/bullet.gif\" alt=\"\"/>  Use of the secondary power once per round",
+    "requirement": "You must have hit with a melee attack during this turn.",
+    "target": "One creature",
+    "attack": "Highest ability modifier + 5 vs. Fortitude",
+    "onHit": "1d12 + your highest ability modifier damage."
+  },
+  "Demonic Resilience": {
+    "id": "'16310",
+    "action": "Immediate Interrupt",
+    "powerClass": "Demon-Bound",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Demonic Resilience",
+    "type": "",
+    "sourceRef": "Heroes of the Elemental Chaos",
+    "flavor": "Profane runes flare on your body to protect you and give you strength.",
+    "keywords": [
+      "Elemental"
+    ],
+    "range": "Personal",
+    "trigger": "You are bloodied by an attack or are hit while bloodied.",
+    "effect": "Reduce the damage from the triggering attack by 10. Until the end of your next turn, your melee attacks deal 1d6 extra damage."
+  }
+}

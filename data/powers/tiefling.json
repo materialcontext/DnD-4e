@@ -1,0 +1,86 @@
+{
+  "Infernal Wrath": {
+    "id": "'1628",
+    "action": "Free",
+    "powerClass": "Tiefling",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Infernal Wrath",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook, Player's Handbook Races: Tiefling, Heroes of the Forgotten Kingdoms",
+    "flavor": "You call upon the hellfire burning in your soul to punish your enemy.",
+    "keywords": [
+      "Fire"
+    ],
+    "range": "Close burst 10",
+    "trigger": "An enemy within 10 squares of you hits you.",
+    "target": "The triggering enemy in the burst",
+    "effect": "The target takes 1d6 + Intelligence modifier or Charisma modifier fire damage.<br/> Level 11: 2d6 + Intelligence modifier or Charisma modifier fire damage.<br/> Level 21: 3d6 + Intelligence modifier or Charisma modifier fire damage.<br/>"
+  },
+  "Hellish Gaze": {
+    "id": "'16387",
+    "action": "Minor",
+    "powerClass": "Tiefling",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Hellish Gaze",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 408",
+    "flavor": "Seeing doom reflected in your fiery eyes, your enemy turns away from your countenance.",
+    "keywords": [
+      "Fear"
+    ],
+    "range": "Ranged 5",
+    "target": "One creature that can see you",
+    "effect": "Make a Bluff check opposed by the target’s passive Insight. If the check succeeds, you can push the target 1 square, and the target cannot make opportunity attacks against you until the start of your next turn."
+  },
+  "Grim Isolation": {
+    "id": "'16388",
+    "action": "Minor",
+    "powerClass": "Tiefling",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Grim Isolation",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 408",
+    "flavor": "You don’t need help. You can protect yourself just fine.",
+    "keywords": [
+      "Stance"
+    ],
+    "range": "Personal",
+    "effect": "You assume the grim isolation stance. Until the stance ends, you gain a +2 power bonus to all defenses while no ally is adjacent to you."
+  },
+  "Hellfire Shroud": {
+    "id": "'16389",
+    "action": "Minor",
+    "powerClass": "Tiefling",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Hellfire Shroud",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 408",
+    "flavor": "Flickering black flames swirl around you to shield you from harm and punish those who would attack you.",
+    "keywords": [
+      "Fire"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you gain a +2 power bonus to all defenses. In addition, whenever an enemy adjacent to you hits you with a melee attack, that enemy takes fire damage equal to your Charisma modifier."
+  },
+  "Eternal Returns": {
+    "id": "'16390",
+    "action": "No Action",
+    "powerClass": "Tiefling",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Eternal Returns",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 408",
+    "flavor": "Your defeat opens a door for your return to the world.",
+    "keywords": [
+      "Healing"
+    ],
+    "range": "Personal",
+    "trigger": "You drop below 1 hit point.",
+    "effect": "You are removed from play until the start of your next turn. At the start of your next turn, you can spend a healing surge, and you return to play in an unoccupied space within 5 squares of the last space you occupied."
+  }
+}

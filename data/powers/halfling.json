@@ -1,0 +1,86 @@
+{
+  "Second Chance": {
+    "id": "'1452",
+    "action": "Immediate Interrupt",
+    "powerClass": "Halfling",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Second Chance",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook, Heroes of the Fallen Lands",
+    "flavor": "Luck and small size combine to work in your favor as you dodge your enemy’s attack.",
+    "keywords": [
+      " Personal   Trigger: You are hit by an attack.  Effect: The attacker must reroll the attack and use the second roll, even if it is lower. "
+    ],
+    "range": "Personal",
+    "trigger": "You are hit by an attack.",
+    "effect": "The attacker must reroll the attack and use the second roll, even if it is lower."
+  },
+  "Happy Feet": {
+    "id": "'14391",
+    "action": "Immediate Reaction",
+    "powerClass": "Halfling",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Happy Feet",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "flavor": "It’s hard to keep your feet under control. Sometimes they feel as if they move of their own accord.",
+    "keywords": [
+      " Personal   Trigger: A creature you can see starts its turn.  Effect: You shift up to 2 squares. "
+    ],
+    "range": "Personal",
+    "trigger": "A creature you can see starts its turn.",
+    "effect": "You shift up to 2 squares."
+  },
+  "Minor Threat": {
+    "id": "'14392",
+    "action": "Minor",
+    "powerClass": "Halfling",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Minor Threat",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "flavor": "Clearly you’re no threat to your enemies, injured as you are. You convince them of that by affecting a small and harmless posture.",
+    "keywords": [
+      "Stance"
+    ],
+    "range": "Personal",
+    "requirement": "You must be bloodied.",
+    "effect": "You assume the minor threat stance. Until the stance ends and while you are bloodied, you have a +2 power bonus to all defenses and to Stealth checks."
+  },
+  "Pay Your Debts": {
+    "id": "'14393",
+    "action": "Immediate Reaction",
+    "powerClass": "Halfling",
+    "frequency": "At-Will",
+    "level": "10",
+    "name": "Pay Your Debts",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "flavor": "You acknowledge an ally’s assistance by making a feint to keep your enemy off balance.",
+    "keywords": [
+      " Special   Trigger: An enemy flanked by you moves out of the flanked position.  Effect: Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn. "
+    ],
+    "range": "Special",
+    "trigger": "An enemy flanked by you moves out of the flanked position.",
+    "effect": "Choose one ally who was also flanking the triggering enemy. That ally gains combat advantage against the enemy until the end of your next turn."
+  },
+  "Underfoot Hustle": {
+    "id": "'14394",
+    "action": "Move",
+    "powerClass": "Halfling",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Underfoot Hustle",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 402",
+    "flavor": "You roll between your enemy’s legs and spring up on the other side.",
+    "keywords": [
+      " Personal   Effect: You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn. "
+    ],
+    "range": "Personal",
+    "effect": "You shift up to your speed +2. You can move through squares occupied by enemies, but you must end your movement in an unoccupied square. Enemies whose spaces you move through in this way grant combat advantage to you until the end of your next turn."
+  }
+}

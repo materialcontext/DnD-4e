@@ -10,10 +10,10 @@
     "sourceRef": "Dragon Magazine 387",
     "flavor": "Your vision of your foe’s corpse forces itself on reality, withering your victim rapidly.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Make an attack with one of your 1st-level at-will attack powers that targets only one creature. If that attack hits its target, choose one of the following effects:"
+      " Personal   Effect: Make an attack with one of your 1st-level at-will attack powers that targets only one creature. If that attack hits its target, choose one of the following effects:"
     ],
     "range": "Personal",
-    "effect": "Make an attack with one of your 1st-level at-will attack powers that targets only one creature. If that attack hits its target, choose one of the following effects:<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The attack deals 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target is weakened until the end of your next turn."
+    "effect": "Make an attack with one of your 1st-level at-will attack powers that targets only one creature. If that attack hits its target, choose one of the following effects:<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  The attack deals 2d10 extra damage.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  The target is weakened until the end of your next turn."
   },
   "Visions of Death": {
     "id": "'12522",
@@ -42,7 +42,7 @@
     "sourceRef": "Dragon Magazine 387",
     "flavor": "Having seen your enemy’s death, you react swiftly when it comes.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy within 5 squares of you drops to 0 hit points.</p><p class=\"flavor\">Effect: You move your speed, shift 1 square, or stand up from being prone.</p>"
+      " Personal   Trigger: An enemy within 5 squares of you drops to 0 hit points.  Effect: You move your speed, shift 1 square, or stand up from being prone. "
     ],
     "range": "Personal",
     "trigger": "An enemy within 5 squares of you drops to 0 hit points.",

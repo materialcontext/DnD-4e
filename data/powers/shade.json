@@ -1,0 +1,98 @@
+{
+  "One with Shadow": {
+    "id": "'14032",
+    "action": "Standard",
+    "powerClass": "Shade",
+    "frequency": "At-Will",
+    "level": "0",
+    "name": "One with Shadow",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "You fade into the darkness, becoming a part of the shadow that swirls around you.",
+    "keywords": [
+      "Shadow"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you can make Stealth checks to become hidden when you have any cover or concealment. In addition, you can use cover from your allies to become hidden or to remain hidden."
+  },
+  "Fleeting Shade": {
+    "id": "'14016",
+    "action": "Minor",
+    "powerClass": "Shade",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Fleeting Shade",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "You cloak yourself with strands of shadow that allow you to fight unseen.",
+    "keywords": [
+      "Shadow"
+    ],
+    "range": "Personal",
+    "effect": "You become invisible until the end of your turn. In addition, you gain a +5 power bonus to Stealth checks until the end of your next turn."
+  },
+  "Twilight Torch": {
+    "id": "'14017",
+    "action": "Minor",
+    "powerClass": "Shade",
+    "frequency": "At-Will",
+    "level": "6",
+    "name": "Twilight Torch",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "The light of your soul commingles with the dark shard embedded within it, surrounding you with the concealing power of shadow.",
+    "keywords": [
+      "Shadow, Zone"
+    ],
+    "range": "Close burst 1",
+    "effect": "The burst creates a zone of dim light that lasts until the end of your next turn or until you use this power again."
+  },
+  "Shadow Monsters": {
+    "id": "'14018",
+    "action": "Standard",
+    "powerClass": "Shade",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Shadow Monsters",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "You call forth nightmare shadow monsters to strike at your foes’ bodies and minds.",
+    "keywords": [
+      "Conjuration, Necrotic, Shadow"
+    ],
+    "range": "Close burst 3",
+    "effect": "You conjure four shadow monsters in four different unoccupied squares in the burst. The shadow monsters last until the end of the encounter. Once per round as a minor action, you can move the shadow monsters up to 4 squares each.<br/> Enemies take a -2 penalty to attack rolls while adjacent to a shadow monster. Any enemy that ends its turn in the square of or adjacent to one or more shadow monsters takes 10 necrotic damage."
+  },
+  "Shadow Jump": {
+    "id": "'14019",
+    "action": "Move",
+    "powerClass": "Shade",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Shadow Jump",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "The planar energy of the Shadowfell lets you slip away from danger, then step back into the world a safe distance away.",
+    "keywords": [
+      "Shadow, Teleportation"
+    ],
+    "range": "Personal",
+    "effect": "You teleport up to your speed."
+  },
+  "Five Darknesses": {
+    "id": "'14020",
+    "action": "Minor",
+    "powerClass": "Shade",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Five Darknesses",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "The essence of the Shadowfell flows freely within you, transforming you into living shadow that strikes fear into the hearts of nearby creatures.",
+    "keywords": [
+      "Fear, Shadow"
+    ],
+    "range": "Personal",
+    "effect": "You gain 10 temporary hit points. Until the end of your next turn, you gain a fly speed equal to your speed, you are insubstantial and phasing, and creatures take a -2 penalty to attack rolls while adjacent to you."
+  }
+}

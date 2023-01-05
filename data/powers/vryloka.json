@@ -1,0 +1,104 @@
+{
+  "Unnatural Vitality": {
+    "id": "'14021",
+    "action": "Free",
+    "powerClass": "Vryloka",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Unnatural Vitality",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "You draw forth the life force of a fallen foe to gain sustenance and power.",
+    "keywords": [
+      "Shadow"
+    ],
+    "range": "Personal",
+    "trigger": "You kill a nonminion enemy with a melee attack.",
+    "effect": "You gain a +2 power bonus to death saving throws and to saving throws against ongoing damage. In addition, you don’t need to eat, drink, or breathe, making you immune to starvation and suffocation. These effects last until the end of your next extended rest."
+  },
+  "Bloodwolf Form": {
+    "id": "'14022",
+    "action": "Minor",
+    "powerClass": "Vryloka",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Bloodwolf Form",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "As you are cloaked in shadow, you take on the form of a wolf with glowing red eyes.",
+    "keywords": [
+      "Polymorph, Shadow"
+    ],
+    "range": "Personal",
+    "effect": "You assume the form of a bloodwolf until the end of the encounter. While in this form, you cannot attack, but you have darkvision, you ignore difficult terrain, and you gain a +5 power bonus to Athletics checks, Perception checks, and Stealth checks. As a minor action, you can switch between your normal form and your bloodwolf form."
+  },
+  "Crimson Wings": {
+    "id": "'14023",
+    "action": "Minor",
+    "powerClass": "Vryloka",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Crimson Wings",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "Your body fades into a haze of red and black shadow, re-forming as you take to the air.",
+    "keywords": [
+      "Polymorph, Shadow"
+    ],
+    "range": "Personal",
+    "effect": "You assume the form of a Tiny flying creature, such as a bat, an owl, or a hawk. While in this form, you can’t attack, but you gain a fly speed equal to your speed and a +2 power bonus to all defenses. You return to your normal form at the end of your next turn, or you can do so beforehand as a minor action. If you are flying when you return to your normal form, you descend to the ground without taking falling damage."
+  },
+  "Vryloka Bloodbond": {
+    "id": "'14024",
+    "action": "Standard",
+    "powerClass": "Vryloka",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Vryloka Bloodbond",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "A shimmering red glow moves from you to a dead ally, who suddenly shudders to life.",
+    "keywords": [
+      "Shadow"
+    ],
+    "range": "Melee 1",
+    "requirement": "You must have at least one healing surge remaining.",
+    "target": "One ally who died during this encounter as a result of failing three death saving throws.",
+    "effect": "You lose a healing surge, and the target comes back to life with hit points equal to his or her bloodied value. You are then weakened until the end of your next short rest or extended rest.",
+    "special": "If the target is human, the target’s race can change to vryloka when he or she comes back to life, causing you to be weakened until the end of your next extended rest. Both you and the target must agree to the transformation, which can take place only with the DM’s approval."
+  },
+  "Crimson Death": {
+    "id": "'14025",
+    "action": "Free",
+    "powerClass": "Vryloka",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Crimson Death",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "Your enemy’s downfall awakens your thirst for blood and grants you a preternatural awareness of nearby foes.",
+    "keywords": [
+      "Shadow"
+    ],
+    "range": "Personal",
+    "trigger": "You use your lifeblood racial power.",
+    "effect": "Instead of the lifeblood power’s normal effect, you gain the following benefits until the end of the encounter.<br/> * You gain a +2 power bonus to speed.<br/> * You gain darkvision.<br/> * Whenever you hit an enemy with a basic attack, the enemy also takes ongoing 10 damage (save ends).<br/> * You have combat advantage against enemies taking ongoing damage.<br/> * You gain 15 temporary hit points if you start your turn adjacent to an enemy taking ongoing damage."
+  },
+  "Lifeblood": {
+    "id": "'14033",
+    "action": "Free",
+    "powerClass": "Vryloka",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Lifeblood",
+    "type": "Racial",
+    "sourceRef": "Heroes of Shadow",
+    "flavor": "An enemy’s ebbing life grants you a surge of vitality.",
+    "keywords": [
+      " Personal   Trigger: You kill or bloody an enemy.  Effect: You gain one of the following benefits."
+    ],
+    "range": "Personal",
+    "trigger": "You kill or bloody an enemy.",
+    "effect": "You gain one of the following benefits.<br/> * You shift up to your speed.<br/> * You gain temporary hit points equal to 5 + one-half your level.<br/> * You gain a +2 power bonus to attack rolls until the end of your next turn."
+  }
+}

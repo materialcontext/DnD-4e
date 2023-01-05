@@ -4,12 +4,12 @@
     "price": "680 gp",
     "keySkill": "Heal",
     "sourceRef": "Player's Handbook",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nRemove Affliction\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=28\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Remove Affliction",
+    "name": "Remove Affliction",
     "flavorText": "You undo a curse, enchantment, or madness that afflicts your subject.",
     "category": "Restoration",
     "time": "1 hour",
     "duration": "Instantaneous",
-    "text": "Remove Affliction wipes away a single enduring effect afflicting the subject. The ritual can remove curses, effects such as charm or domination, and fear, confusion, insanity, polymorph, and petrification effects. All effects of the curse or other effect end.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This ritual is physically taxing to the recipient; if used on an injured character, it can even kill him or her. Upon completing this ritual, make a Heal check, using the level of the effect you are trying to remove (or the level of the creature that caused the effect) as a penalty to this check. The result indicates the amount of damage the character takes. Assuming the character survives, this damage can be healed normally.",
+    "text": "Remove Affliction wipes away a single enduring effect afflicting the subject. The ritual can remove curses, effects such as charm or domination, and fear, confusion, insanity, polymorph, and petrification effects. All effects of the curse or other effect end.  This ritual is physically taxing to the recipient; if used on an injured character, it can even kill him or her. Upon completing this ritual, make a Heal check, using the level of the effect you are trying to remove (or the level of the creature that caused the effect) as a penalty to this check. The result indicates the amount of damage the character takes. Assuming the character survives, this damage can be healed normally.",
     "componentCost": "250 gp",
     "table": {
         "headers": [

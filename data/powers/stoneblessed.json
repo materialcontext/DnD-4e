@@ -1,0 +1,56 @@
+{
+  "Mountain Sweep": {
+    "id": "'5492",
+    "action": "Standard",
+    "powerClass": "Stoneblessed",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Mountain Sweep",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 2",
+    "flavor": "You sweep your weapon in a terrible arc, slicing through your foes as if they were wheat before the scythe.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One or two creatures",
+    "attack": "Strength vs. AC",
+    "onHit": "2[W] + Strength modifier + Constitution modifier damage."
+  },
+  "Summit Advantage": {
+    "id": "'5493",
+    "action": "Minor",
+    "powerClass": "Stoneblessed",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Summit Advantage",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 2",
+    "flavor": "Focusing your awareness, you ready yourself to lash out at any enemy in reach that gives you an opening.",
+    "keywords": [
+      " Personal   Effect: Until the end of your next turn, you have threatening reach. "
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you have threatening reach."
+  },
+  "Avalanche Assault": {
+    "id": "'5494",
+    "action": "Standard",
+    "powerClass": "Stoneblessed",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Avalanche Assault",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 2",
+    "flavor": "With the power of an avalanche, you rain blows on your enemy. The strength of the mountains lingers in your limbs while you remain in this stance.",
+    "keywords": [
+      "Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Strength vs. Fortitude",
+    "onHit": "4[W] + Strength modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the stance of the avalanche. Until the stance ends, you can move through an enemy’s space if that enemy is your size or smaller, and you gain a bonus to the damage rolls of your at-will attacks equal to your Constitution modifier."
+  }
+}

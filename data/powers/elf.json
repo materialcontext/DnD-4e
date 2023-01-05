@@ -1,0 +1,86 @@
+{
+  "Long View": {
+    "id": "'16042",
+    "action": "Minor",
+    "powerClass": "Elf",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Long View",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "You scan the battlefield for your target. When you find it, you take aim, knowing your next shot will strike true.",
+    "keywords": [
+      " Personal   Effect: Choose one creature you can see. Until the end of your next turn, you gain combat advantage against that creature for any weapon attack you make using a longbow or a shortbow. "
+    ],
+    "range": "Personal",
+    "effect": "Choose one creature you can see. Until the end of your next turn, you gain combat advantage against that creature for any weapon attack you make using a longbow or a shortbow."
+  },
+  "Leave No Trace": {
+    "id": "'16043",
+    "action": "Minor",
+    "powerClass": "Elf",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Leave No Trace",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "You use instinct and training to avoid showing signs of your passage and hide all signs of your approach.",
+    "keywords": [
+      "Stance"
+    ],
+    "range": "Personal",
+    "effect": "You assume the leave no trace stance. Until the stance ends, the DC of any Perception check to find your tracks or the tracks of up to eight allies who travel with you is increased by 10. If your tracks are found, identifying them requires a Nature check against the same DC. In addition, you and allies adjacent to you have a +2 power bonus to Stealth checks.<br/> This stance ends after 8 hours, when you roll initiative, or when you end this stance as a minor action."
+  },
+  "Determined Accuracy": {
+    "id": "'16044",
+    "action": "Free",
+    "powerClass": "Elf",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Determined Accuracy",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "Resolved not to put a lie to the legendary accuracy of elves, you call all your powers of focus to the fore.",
+    "keywords": [
+      " Personal   Trigger: You use elven accuracy to reroll an attack and dislike the new result.  Effect: Reroll the attack roll with a +2 power bonus. Use this result, even if it’s lower. "
+    ],
+    "range": "Personal",
+    "trigger": "You use elven accuracy to reroll an attack and dislike the new result.",
+    "effect": "Reroll the attack roll with a +2 power bonus. Use this result, even if it’s lower."
+  },
+  "Communion": {
+    "id": "'16045",
+    "action": "Minor",
+    "powerClass": "Elf",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Communion",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 405",
+    "flavor": "You touch your ally and set your own heart to beat in time, unleashing the healing power of emotional connections.",
+    "keywords": [
+      "Healing"
+    ],
+    "range": "Melee 1",
+    "requirement": "You must have at least one healing surge remaining.",
+    "target": "One ally",
+    "effect": "You lose a healing surge but gain temporary hit points equal to 3 + one-half your level. In addition, the target regains hit points equal to his or her healing surge value."
+  },
+  "Elven Accuracy": {
+    "id": "'1450",
+    "action": "Free",
+    "powerClass": "Elf",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Elven Accuracy",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook, Heroes of the Fallen Lands",
+    "flavor": "With an instant of focus, you take careful aim at your foe and strike with the legendary accuracy of the elves.",
+    "keywords": [
+      " Personal   Trigger: You make an attack roll and dislike the result.  Effect: Reroll the attack roll. Use the second roll, even if it’s lower. "
+    ],
+    "range": "Personal",
+    "trigger": "You make an attack roll and dislike the result.",
+    "effect": "Reroll the attack roll. Use the second roll, even if it’s lower."
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "Firepulse": {
+    "id": "'1766",
+    "action": "Immediate Reaction",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Firepulse",
+    "type": "Racial",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "As an enemy lands a blow, retributive fire ignites from your arms and fists.",
+    "keywords": [
+      "Fire"
+    ],
+    "range": "Melee 1",
+    "trigger": "An enemy hits you with a melee attack",
+    "target": "The triggering enemy",
+    "attack": "Strength +2 vs. Reflex, Constitution +2 vs. Reflex, or Dexterity +2 vs. Reflex<br/>Increase to +4 bonus at 11th level, and to +6 at 21st level.",
+    "onHit": "1d6 + Strength, Constitution, or Dexterity modifier fire damage.<br/>Increase to 2d6 + Strength, Constitution, or Dexterity modifier fire damage at 11th level, and to 3d6 + Strength, Constitution, or Dexterity modifier fier damage at 21st level.",
+    "special": "When you gain this manifestation, choose Strength, Constitution, or Dexterity as the ability score you use when making attack rolls and damage rolls with this power. This choice remains throughout you character's life and does not change the power's other effects."
+  },
+  "Earthshock": {
+    "id": "'1767",
+    "action": "Minor",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Earthshock",
+    "type": "Racial",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "The earth moves in response to your stomping foot or slapping hand, buckling to knock your enemy to its knees.",
+    "keywords": [
+      " Close burst 1  Target: Enemies in the burst that are touching the ground  Attack: Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude"
+    ],
+    "range": "Close burst 1",
+    "target": "Enemies in the burst that are touching the ground",
+    "attack": "Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude<br/>Increase to +4 bonus at 11th level, and to +6 bonus at 21st level.",
+    "onHit": "The target is knocked prone",
+    "special": "When you gain this manifestation, choose Strength, Constitution, or Dexterity as the ability score you use when making attack rolls with this power. This choice remains throughout you character's life and does not change the power's other effects."
+  },
+  "Promise of Storm": {
+    "id": "'1769",
+    "action": "Minor",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Promise of Storm",
+    "type": "Racial",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "The lightning living within you calls out to its companion, the thunder. Sparks dance across your skin, and the air around you seems to darken and rumble.",
+    "keywords": [
+      "Lightning, Thunder"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you deal 1d8 extra damage when you hit with a thunder attack or a lightning attack.<br/>At 11th level, increase your extra damage to 2d8. At 21st level, increase your extra damage to 3d8."
+  },
+  "Swiftcurrent": {
+    "id": "'1770",
+    "action": "Move",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Swiftcurrent",
+    "type": "Racial",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "Your form ripples like water as you flow forward, whipping past  enemies and rubble in a graceful but deadly surge.",
+    "keywords": [
+      " Personal   Effect: You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you. "
+    ],
+    "range": "Personal",
+    "effect": "You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you."
+  },
+  "Windwalker": {
+    "id": "'1828",
+    "action": "Move",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Windwalker",
+    "type": "Racial",
+    "sourceRef": "Forgotten Realms Player's Guide",
+    "flavor": "You harness the power of the winds. Air swirls about you, lifting you from the earth.",
+    "keywords": [
+      " Personal   Effect: Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage. "
+    ],
+    "range": "Personal",
+    "effect": "Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage."
+  },
+  "Acid Surge": {
+    "id": "'10043",
+    "action": "Move",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Acid Surge",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 380",
+    "flavor": "You dissolve into a bubbling, hissing liquid and surge through your enemies.",
+    "keywords": [
+      "Acid"
+    ],
+    "range": "Personal",
+    "effect": "You shift half your speed over ground or liquid terrain and through squares occupied by enemies. You must end your movement in an unoccupied square. You make the attack against each creature whose space you enter.",
+    "attack": "Strength + 3 vs. Reflex, Constitution + 3 vs. Reflex, or Dexterity + 3 vs. Reflex<br/>Level 11: The bonus on the attack increases to + 6<br/>Level 21: The bonus on the attack increases to + 9",
+    "onHit": "1d8 + Strength, Constitution, or Dexterity modifier acid damage.<br/>Level 11: 2d8 + Strength, Constitution, or Dexterity modifier acid damage.<br/>Level 21: 3d8 + Strength, Constitution, or Dexterity modifier acid damage."
+  },
+  "Firedeath": {
+    "id": "'10044",
+    "action": "Immediate Interrupt",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Firedeath",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 380",
+    "flavor": "As all fires must burn out, so does each attack on you dwindle and die.",
+    "keywords": [
+      " Personal   Trigger: You take damage  Effect: All damage dice rolled for the triggering attack are considered to have a result of 1. "
+    ],
+    "range": "Personal",
+    "trigger": "You take damage",
+    "effect": "All damage dice rolled for the triggering attack are considered to have a result of 1."
+  },
+  "Plaguebearer": {
+    "id": "'10045",
+    "action": "Minor",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Plaguebearer",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 380",
+    "flavor": "The breath you exhale is not a bearer of seeds and scents, but a carrier of poison and death.",
+    "keywords": [
+      "Poison"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, any creature that starts its turn adjacent to you takes 5 poison damage.<br/>Level 11: 10 poison damage.<br/>Level 21: 15 poison damage."
+  },
+  "Void Assumption": {
+    "id": "'10046",
+    "action": "Minor",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Void Assumption",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 380",
+    "flavor": "You become the void, the absence of all, for just long enough.",
+    "keywords": [
+      " Personal   Effect: You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left. "
+    ],
+    "range": "Personal",
+    "effect": "You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left."
+  },
+  "Ashfall Evasion": {
+    "id": "'14073",
+    "action": "Immediate Reaction",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Ashfall Evasion",
+    "type": "Genasi",
+    "sourceRef": "Dragon Magazine 396",
+    "flavor": "You fly apart to become a cloud of swirling ashes. The cloud obscures the vision of your enemies and burns their flesh.",
+    "keywords": [
+      "Fire, Polymorph, Zone"
+    ],
+    "range": "Close burst 2",
+    "trigger": "You take damage from an attack.",
+    "effect": "The burst creates a zone that lasts until the start of your next turn, and you are removed from play until the zone ends. The zone is lightly obscured, and any enemy that ends its turn in the zone takes fire damage equal to your Intelligence, Wisdom, or Charisma modifier (your choice). When you return to play, you do so in an unoccupied square of your choice that was in the zone."
+  },
+  "Flowing Magma": {
+    "id": "'14074",
+    "action": "Minor",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Flowing Magma",
+    "type": "Genasi",
+    "sourceRef": "Dragon Magazine 396",
+    "flavor": "You become a creature of fire and stone, a destructive mass of magma that burns anything in your path.",
+    "keywords": [
+      "Aura, Fire, Polymorph"
+    ],
+    "range": "Personal",
+    "effect": "You assume a molten form until the end of your next turn. While in this form, you are slowed, you are immune to fire, and you cannot be pulled, pushed, or slid unless you choose to be. In addition, you create an aura 1 that lasts as long as the form does. Any creature that ends its turn in the aura takes fire damage equal to your Strength, Constitution, or Dexterity modifier (your choice). <br/> Level 11: A creature that ends its turn in the aura takes 3 + Strength, Constitution, or Dexterity modifier fire damage.<br/> Level 21: A creature that ends its turn in the aura takes 6 + Strength, Constitution, or Dexterity modifier fire damage."
+  },
+  "Sandslide": {
+    "id": "'14075",
+    "action": "Minor",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Sandslide",
+    "type": "Genasi",
+    "sourceRef": "Dragon Magazine 396",
+    "flavor": "You transform your body from flesh and sinew into flowing sand. In this form, you can spill through the smallest gaps.",
+    "keywords": [
+      "Polymorph"
+    ],
+    "range": "Personal",
+    "effect": "You assume the form of living sand until the start of your next turn. While in this form, you are insubstantial, can enter enemies’ squares without provoking opportunity attacks, and can squeeze through any opening large enough to permit a single grain of sand."
+  },
+  "Sun Flare": {
+    "id": "'14076",
+    "action": "Immediate Reaction",
+    "powerClass": "Genasi",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Sun Flare",
+    "type": "Genasi",
+    "sourceRef": "Dragon Magazine 396",
+    "flavor": "Your agony breaks your tenuous hold on the sun’s power and blazes forth as painful light.",
+    "keywords": [
+      "Fire, Radiant"
+    ],
+    "range": "Close burst 1",
+    "trigger": "You are hit by an attack while bloodied.",
+    "target": "Each creature in the burst",
+    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/> Level 11: The bonus increases to +4.<br/> Level 21: The bonus increases to +6.",
+    "onHit": "Strength, Constitution, or Dexterity modifier fire and radiant damage, and the target takes a -2 penalty to attack rolls until the end of its next turn. If the target is bloodied by this attack, it is also blinded until the end of its next turn.<br/> Level 11: 1d6 + Strength, Constitution, or Dexterity modifier fire and radiant damage.<br/> Level 21: 2d6 + Strength, Constitution, or Dexterity modifier fire and radiant damage."
+  }
+}

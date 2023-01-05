@@ -1,0 +1,104 @@
+{
+  "Razor Storm": {
+    "id": "'5599",
+    "action": "Minor",
+    "powerClass": "Bladeling",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Razor Storm",
+    "type": "Racial",
+    "sourceRef": "Manual of the Planes, Dragon Magazine 419",
+    "flavor": "Spikes and blades leap from your body to tear through your foes.",
+    "keywords": [
+      " Close burst 1  Targets: Each creature in the burst  Attack: Strength, Constitution, or Dexterity vs. Reflex."
+    ],
+    "range": "Close burst 1",
+    "targets": "Each creature in the burst",
+    "attack": "Strength, Constitution, or Dexterity vs. Reflex.<br/>You gain a +2 bonus to the attack roll.<br/> Level 11: The bonus increases to +4.<br/> Level 21: The bonus increases to +6.",
+    "onHit": "1d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage.<br/> Level 11: 2d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage.<br/> Level 21: 3d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage."
+  },
+  "Rending Spines": {
+    "id": "'16639",
+    "action": "Minor",
+    "powerClass": "Bladeling",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Rending Spines",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "flavor": "Your body spines lengthen to rake and tear any creature that attacks you.",
+    "keywords": [
+      "Stance"
+    ],
+    "range": "Personal",
+    "effect": "You assume the rending spines stance. Until the stance ends, the following effects apply.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  You are slowed.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  You take a -2 penalty to all defenses.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Any creature adjacent to you that hits or misses you with a melee attack takes damage equal to 3 + one-half your level."
+  },
+  "Gouging Blade": {
+    "id": "'16640",
+    "action": "Minor",
+    "powerClass": "Bladeling",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Gouging Blade",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "flavor": "A jagged spike sprouts from the back of your hand. Each time you strike in melee, the barb delivers a grisly injury.",
+    "keywords": [
+      " Personal   Effect: Until the end of the encounter, when you hit a creature adjacent to you with a melee attack, that creature takes 1d6 extra damage. "
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, when you hit a creature adjacent to you with a melee attack, that creature takes 1d6 extra damage."
+  },
+  "Improvised Portal": {
+    "id": "'16641",
+    "action": "Minor",
+    "powerClass": "Bladeling",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Improvised Portal",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "flavor": "You scribble a glyph on a door and add a mental push so it opens to someplace it shouldn’t.",
+    "keywords": [
+      " Melee 1  Target: One door, gate, or similar object  Effect: The target becomes a magical portal to a square within 20 squares of you. The portal lasts until the end of your next turn. Until the effect ends, the target and the square you chose are considered to be adjacent to each other for movement purposes. "
+    ],
+    "range": "Melee 1",
+    "target": "One door, gate, or similar object",
+    "effect": "The target becomes a magical portal to a square within 20 squares of you. The portal lasts until the end of your next turn. Until the effect ends, the target and the square you chose are considered to be adjacent to each other for movement purposes."
+  },
+  "Planar Jaunt": {
+    "id": "'16642",
+    "action": "Standard",
+    "powerClass": "Bladeling",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Planar Jaunt",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "flavor": "Although doing so is painful and exhausting, you can whisk yourself and your companions to a destination you have committed to memory.",
+    "keywords": [
+      "Teleportation"
+    ],
+    "range": "Close burst 5",
+    "requirement": "You must use this power at the end of an extended rest.",
+    "target": "You and each ally in the burst",
+    "effect": "You lose three healing surges. Each target then teleports to a permanent teleportation circle to which you have memorized the sigil sequence.",
+    "special": "When you gain this power, you learn the sigil sequences of two permanent teleportation circles in locations determined by the Dungeon Master."
+  },
+  "Bred for Battle": {
+    "id": "'16643",
+    "action": "Minor",
+    "powerClass": "Bladeling",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Bred for Battle",
+    "type": "Racial",
+    "sourceRef": "Dragon Magazine 419",
+    "flavor": "You cause the blades all over your body to lengthen and tear your foes, while your awareness of nearby danger heightens.",
+    "keywords": [
+      "Stance"
+    ],
+    "range": "Personal",
+    "effect": "You assume the bred for battle stance. Until the stance ends, you gain the following benefits.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  You gain a +2 power bonus to AC.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  You cannot be marked.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Your melee weapon attacks that hit deal 2d6 extra damage.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  At the end of each of your turns, you can spend a healing surge and regain no hit points. If you do so, you regain the use of your razor storm power."
+  }
+}

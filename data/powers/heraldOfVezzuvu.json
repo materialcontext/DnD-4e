@@ -14,7 +14,7 @@
     ],
     "range": "Ranged 10",
     "target": "One creature",
-    "attack": "Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex",
+    "attack": "Highest ability modifier + 4 vs. Reflex<br/> Level 21: Highest ability modifier + 6 vs. Reflex",
     "onHit": "2d8 + your highest ability modifier fire damage, and ongoing 10 fire damage (save ends).",
     "effect": "Each creature adjacent to the target takes 10 fire damage."
   },

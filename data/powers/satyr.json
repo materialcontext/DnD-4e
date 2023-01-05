@@ -1,0 +1,104 @@
+{
+  "Lure of Enchantment": {
+    "id": "'15842",
+    "action": "Free",
+    "powerClass": "Satyr",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Lure of Enchantment",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "A softly sung tune causes your enemy to wander as you direct it.",
+    "keywords": [
+      "Charm"
+    ],
+    "range": "Special",
+    "trigger": "You hit an enemy with an attack.",
+    "effect": "You slide the enemy up to 3 squares, but not into hindering terrain. The enemy grants combat advantage until the end of your next turn."
+  },
+  "Satyr’s Leap": {
+    "id": "'15843",
+    "action": "Move",
+    "powerClass": "Satyr",
+    "frequency": "At-Will",
+    "level": "2",
+    "name": "Satyr’s Leap",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "You crouch and spring to catch your foes off guard, putting your powerful legs to good use.",
+    "keywords": [
+      " Personal   Effect: You jump with a +10 power bonus to the Athletics check. When you make this jump, you are always considered to have a running start. The distance you jump cannot exceed your speed. "
+    ],
+    "range": "Personal",
+    "effect": "You jump with a +10 power bonus to the Athletics check. When you make this jump, you are always considered to have a running start. The distance you jump cannot exceed your speed."
+  },
+  "Bending the Balance": {
+    "id": "'15844",
+    "action": "Immediate Reaction",
+    "powerClass": "Satyr",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Bending the Balance",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "Your very presence causes fate to twist in an ally’s favor.",
+    "keywords": [
+      " Ranged 10  Trigger: A creature within 10 squares of you regains hit points or takes damage from an attack that hits it.  Target: The triggering creature  Effect: The target either regains 2d6 additional hit points or takes 2d6 extra damage. "
+    ],
+    "range": "Ranged 10",
+    "trigger": "A creature within 10 squares of you regains hit points or takes damage from an attack that hits it.",
+    "target": "The triggering creature",
+    "effect": "The target either regains 2d6 additional hit points or takes 2d6 extra damage."
+  },
+  "Tune of Enchantment": {
+    "id": "'15845",
+    "action": "Minor",
+    "powerClass": "Satyr",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Tune of Enchantment",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "You play a whimsical tune in the heat of combat that clouds your enemies’ minds.",
+    "keywords": [
+      "Aura, Charm"
+    ],
+    "range": "Personal",
+    "requirement": "You must be playing a musical instrument.",
+    "effect": "You activate an aura 5 that lasts until the end of the encounter. Any enemy must roll twice when making saving throws against charm effects while in the aura, using the lower result. The aura is deactivated if you are not playing your musical instrument at the end of your turn, but you can reactivate the aura as a minor action."
+  },
+  "Foes into Friends": {
+    "id": "'15846",
+    "action": "Immediate Interrupt",
+    "powerClass": "Satyr",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Foes into Friends",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "You draw an enemy back from the brink of death, holding it under your spell.",
+    "keywords": [
+      "Charm"
+    ],
+    "range": "Ranged 10",
+    "trigger": "An enemy within 10 squares of you drops below 1 hit point.",
+    "target": "The triggering enemy",
+    "effect": "The target instead has 1 hit point, and it is dominated by you until the end of the encounter. The target cannot regain hit points, and a missed attack cannot damage it. If the target still has 1 hit point at the end of the encounter, it drops to 0 hit points. You choose whether it dies or is unconscious."
+  },
+  "Channel the Unseelie": {
+    "id": "'15847",
+    "action": "Minor",
+    "powerClass": "Satyr",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Channel the Unseelie",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "You tap into dark fey power, transforming yourself into a creature of shadow.",
+    "keywords": [
+      "Polymorph"
+    ],
+    "range": "Personal",
+    "effect": "You transform into the form of a satyr of the night, and you remain in that form until the end of the encounter. While in this form, you have partial concealment, and when you would normally have partial concealment because of dim light, you are instead invisible. Additionally, you take only half damage from necrotic attacks."
+  }
+}

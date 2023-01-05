@@ -51,6 +51,6 @@
     "range": "Ranged weapon",
     "target": "One, two, or three creatures and/or unoccupied squares",
     "attack": "Dexterity vs. Reflex (or Dexterity vs. 10 if square is unoccupied), one attack per target",
-    "onHit": "If a creature is hit: 3[W] + Dexterity modifier damage, and the target is slowed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;If a square is hit: Creates a 1-square-radius zone centered on the square until the end of the encounter. A creature passing through the zone or starting its turn in the zone is slowed until the end of its turn."
+    "onHit": "If a creature is hit: 3[W] + Dexterity modifier damage, and the target is slowed (save ends).<br/> If a square is hit: Creates a 1-square-radius zone centered on the square until the end of the encounter. A creature passing through the zone or starting its turn in the zone is slowed until the end of its turn."
   }
 }

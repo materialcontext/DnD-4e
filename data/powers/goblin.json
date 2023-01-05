@@ -1,0 +1,120 @@
+{
+  "Goblin Tactics": {
+    "id": "'1489",
+    "action": "Immediate Reaction",
+    "powerClass": "Goblin",
+    "frequency": "At-Will",
+    "level": "0",
+    "name": "Goblin Tactics",
+    "type": "Racial",
+    "sourceRef": "Monster Manual, Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "You avoid your enemy’s blow and cleverly dodge away.",
+    "keywords": [
+      " Personal   Trigger: An enemy misses you with a melee attack.  Effect: You shift 1 square. "
+    ],
+    "range": "Personal",
+    "trigger": "An enemy misses you with a melee attack.",
+    "effect": "You shift 1 square."
+  },
+  "Fast Filch": {
+    "id": "'16458",
+    "action": "Minor",
+    "powerClass": "Goblin",
+    "frequency": "At-Will",
+    "level": "2",
+    "name": "Fast Filch",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "In the blink of an eye, your tiny fingers relieve someone of a few prized possessions.",
+    "keywords": [
+      " Melee 1  Target: One adjacent creature granting combat advantage to you  Effect: You make a Thievery check against the target to pick its pocket or perform sleight of hand. "
+    ],
+    "range": "Melee 1",
+    "target": "One adjacent creature granting combat advantage to you",
+    "effect": "You make a Thievery check against the target to pick its pocket or perform sleight of hand."
+  },
+  "Leg Up": {
+    "id": "'16459",
+    "action": "Move",
+    "powerClass": "Goblin",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Leg Up",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "By bouncing off or scrabbling up the body of a nearby creature, you fling yourself through the air.",
+    "keywords": [
+      " Personal   Requirement: You must be adjacent to a creature.  Effect: You jump up to your speed horizontally or up to 10 feet vertically. "
+    ],
+    "range": "Personal",
+    "requirement": "You must be adjacent to a creature.",
+    "effect": "You jump up to your speed horizontally or up to 10 feet vertically."
+  },
+  "Little Green Lie": {
+    "id": "'16460",
+    "action": "Free",
+    "powerClass": "Goblin",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Little Green Lie",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "At the last moment, you realize the best course of action here is to lie.",
+    "keywords": [
+      " Personal   Trigger: You fail a Bluff, Diplomacy, or Intimidate check.  Effect: You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead. "
+    ],
+    "range": "Personal",
+    "trigger": "You fail a Bluff, Diplomacy, or Intimidate check.",
+    "effect": "You reroll the check. If the triggering check was a Diplomacy or Intimidate check, use your Bluff modifier instead."
+  },
+  "Living Shield": {
+    "id": "'16461",
+    "action": "Immediate Interrupt",
+    "powerClass": "Goblin",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Living Shield",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "You dive behind a companion to avoid an attack.",
+    "keywords": [
+      " Personal   Trigger: An enemy hits you with a melee or ranged attack while you are adjacent to your ally.  Effect: You shift 1 square, and the attack hits the ally instead of you. "
+    ],
+    "range": "Personal",
+    "trigger": "An enemy hits you with a melee or ranged attack while you are adjacent to your ally.",
+    "effect": "You shift 1 square, and the attack hits the ally instead of you."
+  },
+  "Unwitting Guardian": {
+    "id": "'16462",
+    "action": "Move",
+    "powerClass": "Goblin",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Unwitting Guardian",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "You duck under the bulk of one of the big folk, and it keeps you from being seen by the others while you make mischief.",
+    "keywords": [
+      " Melee 1  Target: One adjacent Medium or larger enemy  Effect: You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack. "
+    ],
+    "range": "Melee 1",
+    "target": "One adjacent Medium or larger enemy",
+    "effect": "You shift 1 square into the target’s space. Until the end of your next turn, you can occupy the same space as the target. Additionally, until the end of your next turn or until you and the target no longer share the same space, you are hidden from all creatures except the target. This effect ends immediately after you attack."
+  },
+  "Down and Through": {
+    "id": "'16463",
+    "action": "Move",
+    "powerClass": "Goblin",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Down and Through",
+    "type": "Racial",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "All of a sudden, you’re beneath your clumsy foe and then out the other side.",
+    "keywords": [
+      " Personal   Effect: Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift. "
+    ],
+    "range": "Personal",
+    "effect": "Choose a Medium or larger enemy adjacent to you, and shift up to 5 squares to a different square adjacent to that creature. You can move through that creature’s space during this shift."
+  }
+}

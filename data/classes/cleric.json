@@ -51,10 +51,13 @@
     }
   },
   "classFeatures": {
-    "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers. &nbsp;&nbsp;&nbsp;&nbsp;Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
+    "channelDivinity": "Once per encounter you can invoke divine power, filling yourself with the might of your patron deity. With the divine might you invoke you can wield special powers. You can also learn other uses for this feature; for instance, the divinity feats grant characters with access to the Channel Divinity class feature the ability to use additional special powers.  Regardless of how many different uses for Channel Divinity you know, you can use only one such ability per encounter. The special ability or power you invoke works just like your other powers.",
     "loreFeature": {
-      "healer'sLore": "When you restore hit points to a creature by using a cleric power that has the healing keyword, add your Wisdom modifier to the hit points regained, but only if the healing involves the creature spending a healing surge.",
-      "battleCleric'sLore": "You study of warfare and divine magic has granted you the gods' blessing in battle. You can choose this class feature in place of Healer's Lore. You gain a +2 bonus to AC, and you have proficiency with scale armor. In addition, whenever you use a cleric healing power to allow a target to spend a healing surge, that target gains a +2 bonus to attack rolls until the end of your next turn."
+      "overview": "Choose one of the following: ",
+      "options": {
+        "healer'sLore": "When you restore hit points to a creature by using a cleric power that has the healing keyword, add your Wisdom modifier to the hit points regained, but only if the healing involves the creature spending a healing surge.",
+        "battleCleric'sLore": "You study of warfare and divine magic has granted you the gods' blessing in battle. You can choose this class feature in place of Healer's Lore. You gain a +2 bonus to AC, and you have proficiency with scale armor. In addition, whenever you use a cleric healing power to allow a target to spend a healing surge, that target gains a +2 bonus to attack rolls until the end of your next turn."
+      }
     },
     "healingWord": "You gain the healing word power.",
     "ritualCasting": "You gain the Ritual Caster feat as a bonus feat, allowing you to use magical rituals."

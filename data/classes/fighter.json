@@ -1,9 +1,6 @@
 {
   "id": "'3",
   "name": "Fighter (Weaponmaster)",
-  
-  
-  
   "refSource": "Player's Handbook, Class Compendium",
   "classTraits": {
     "role:": "Defender. Tough and resilient, you use tactical cunning and battle prowess to contain the enemy and protect your allies.",
@@ -91,8 +88,8 @@
     "fighterTalents": {
       "overview":"Choose one of the following fighter talents.",
       "options": {
-        "arenaTraining": "You treat all weapons with which you are not proficient as improvised weapons. You gain a +2 proficiency bonus to attack rolls with improvised weapons. Your attacks with one-handed improvised weapons deal 1d8 damage, and your attacks with two-handed improvised weapons deal 1d10 damage. &nbsp;&nbsp;&nbsp;&nbsp;While you are not wearing heavy armor, you gain a +1 bonus to AC. This bonus increases to +2 at 11th level and +3 at 21st level. &nbsp;&nbsp;&nbsp;&nbsp;You select two weapons as your arena weapons. If you are not already proficient with these weapons, you gain proficiency with them. In addition, any of your feats that grant feat bonuses to attack rolls or damage rolls with one of your arena weapons apply to your other arena weapon as well.",
-        "battleragerVigor": "Whenever you hit an enemy with a melee or a close attack, you gain temporary hit points equal to your Constitution modifier, plus any temporary hit points normally granted by the power. You gain the hit points only after the attack is resolved. &nbsp;&nbsp;&nbsp;&nbsp;If you use an invigorating fighter attack power and miss every target with it, you gain temporary hit points equal to your Constitution modifier. &nbsp;&nbsp;&nbsp;&nbsp;When wearing light armor or chainmail, you gain a +1 bonus to damage rolls with melee and close weapon attacks whenever you have temporary hit points. This bonus increases to +2 if you’re wielding an axe, a hammer, a mace, or a pick.",
+        "arenaTraining": "You treat all weapons with which you are not proficient as improvised weapons. You gain a +2 proficiency bonus to attack rolls with improvised weapons. Your attacks with one-handed improvised weapons deal 1d8 damage, and your attacks with two-handed improvised weapons deal 1d10 damage.  While you are not wearing heavy armor, you gain a +1 bonus to AC. This bonus increases to +2 at 11th level and +3 at 21st level.  You select two weapons as your arena weapons. If you are not already proficient with these weapons, you gain proficiency with them. In addition, any of your feats that grant feat bonuses to attack rolls or damage rolls with one of your arena weapons apply to your other arena weapon as well.",
+        "battleragerVigor": "Whenever you hit an enemy with a melee or a close attack, you gain temporary hit points equal to your Constitution modifier, plus any temporary hit points normally granted by the power. You gain the hit points only after the attack is resolved.  If you use an invigorating fighter attack power and miss every target with it, you gain temporary hit points equal to your Constitution modifier.  When wearing light armor or chainmail, you gain a +1 bonus to damage rolls with melee and close weapon attacks whenever you have temporary hit points. This bonus increases to +2 if you’re wielding an axe, a hammer, a mace, or a pick.",
         "brawlerStyle": "While you wield a weapon in your primary hand and your off hand is free or grabbing a creature, you gain a +1 bonus to AC and a +2 bonus to Fortitude.",
         "one-handedWeaponTalent": "When using a one-handed weapon, you gain a +1 bonus to weapon attack rolls.",
         "tempestTechnique": "When you wield two melee weapons, you gain a +1 bonus to attack rolls with weapons that have the offhand property. You gain Two-Weapon Defense as a bonus feat, even if you don’t meet the prerequisites. When wearing light armor or chainmail, you gain a +1 bonus to damage rolls with melee and close weapon attacks when you are wielding two weapons. This bonus increases to +2 with weapons that have the off-hand property.",

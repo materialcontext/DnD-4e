@@ -1,0 +1,3475 @@
+{
+  "Twisted Eye": {
+    "id": "'2621",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Twisted Eye",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You flood the mind of your foe with psionic energy, befuddling its vision and distorting its perception of nearby threats. By increasing the flood to a torrent, you can blind the foe completely.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is blinded until the end of your next turn.",
+    "special": "When making an opportunity attack, you can use this power in place of a melee basic attack."
+  },
+  "Whirling Defense": {
+    "id": "'2622",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Whirling Defense",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Seeking to defend your friends, you attack your foe to get it to focus on you. By channeling more power into your attack, you can distract more opponents.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 1.",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you mark the target until the end of your next turn.",
+    "effect": "Whenever you use your mind spike before the end of your next turn, the target of that power takes extra damage equal to your Charisma modifier."
+  },
+  "Steel Unity Strike": {
+    "id": "'2623",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Steel Unity Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You become one with your weapon as you unleash a devastating attack against your foe, leaving yourself in position to strike again if your enemies flee.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the steel unity stance. Until the stance ends, you can use the Steel Unity Attack power.",
+    "requirement": "The power Steel Unity Strike must be active in order to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting on its turn"
+  },
+  "Feather Step": {
+    "id": "'2625",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "2",
+    "name": "Feather Step",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With a focused thought, you lift your body slightly off the ground on a current of psionic energy, allowing you to move over water or broken ground with ease.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of this turn, you ignore difficult terrain and can both move across liquid and stand on it as if it were solid ground. In addition, you move 3 squares."
+  },
+  "Spectral Legion": {
+    "id": "'2626",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Spectral Legion",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You trick your enemy into perceiving a legion of foes pressing in upon it. By expending more power, you can make the phantoms seem more real, causing the enemy to freeze in indecision.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. Until the end of your next turn, the target is immobilized, and it grants combat advantage to your allies while they are adjacent to it."
+  },
+  "Visions of Terror": {
+    "id": "'2627",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Visions of Terror",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With a sweeping attack, you trick your foe’s mind into seeing you as a monstrous figure whose blow sends the enemy stumbling back. You can expend more power to cause other foes to stagger back.",
+    "keywords": [
+      "Augmentable, Fear, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you push the target a number of squares equal to your Charisma modifier. After the push, you slide each enemy adjacent to the target 1 square."
+  },
+  "Demon Dance": {
+    "id": "'2628",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Demon Dance",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "As you slash your enemy, you implant the image of howling demons into its mind, distracting the foe from making attacks.",
+    "keywords": [
+      "Augmentable, Fear, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier psychic damage, and the target can’t make opportunity attacks until the end of your next turn."
+  },
+  "Beckoning Strike": {
+    "id": "'2629",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Beckoning Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "As you strike your enemy, you unleash a surge of psionic energy that warps the minds of the foes you challenge, compelling them to approach you.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage. At the end of the target’s turn, you can use a free action to pull the target a number of squares equal to its speed.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the beckoning stance. Until the stance ends, you can use the Beckoning Strike Attack power.",
+    "requirement": "The power Beckoning Strike must be active in order to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting on its turn"
+  },
+  "Nightmare Vortex": {
+    "id": "'2631",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Nightmare Vortex",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You generate a vortex of nightmares around yourself that engulfs the minds of your enemies, forcing your foes to move away from imagined attacks.",
+    "keywords": [
+      "Fear, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you slide the target 1 square.",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of the encounter, whenever an enemy starts its turn within 3 squares of you, you can slide the target 1 square as a free action."
+  },
+  "Stag's Leap": {
+    "id": "'2632",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "6",
+    "name": "Stag's Leap",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You spring into the air, fueling your leap with your psionic magic.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You make an Athletics check to jump with a +5 bonus. You are considered to have a running start."
+  },
+  "Winged Weapon": {
+    "id": "'2633",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Winged Weapon",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You channel psionic energy into your weapon, adjusting the rules of nature so that the weapon will slide through the air as if on wings when you hurl it.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Choose a weapon you are holding. The next melee attack you make with that weapon before the end of your next turn becomes a ranged attack with a range of 10. The weapon returns to your hand after you make that attack."
+  },
+  "Lightning Rush": {
+    "id": "'2634",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Lightning Rush",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Like a lightning strike, you rush across the battlefield and launch a counterattack to help a friend. If you choose, you can draw the enemy’s attack to yourself.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee 1",
+    "trigger": "An enemy within 5 squares of you targets an ally with an attack",
+    "effect": "You get your normal standard action on your next turn.",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you become the target of the triggering attack."
+  },
+  "Psionic Speed": {
+    "id": "'2635",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Psionic Speed",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You move in a blur, making a series of quick attacks that force your opponents to regard you as a threat.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One, two, or three creatures",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage.",
+    "effect": "You mark the target until the end of your next turn."
+  },
+  "Inexorable Death Strike": {
+    "id": "'2636",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Inexorable Death Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You project a vision of your enemy’s death into the foe’s mind.",
+    "keywords": [
+      "Psionic, Psychic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] damage, and the target fails its first saving throw at the end of this turn.<br/>Level 21: 2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage, and ongoing 5 psychic damage (save ends).",
+    "effect": "You assume the inexorable death stance. Until the stance ends, you can use the Inexorable Death Attack power.",
+    "requirement": "The power Inexorable Death Strike must be active in order to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting on its turn"
+  },
+  "Intellect Hammer": {
+    "id": "'2638",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Intellect Hammer",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You hammer your foe’s intellect, draining power from it.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is dazed until the end of your next turn. In addition, you regain 2 power points.",
+    "onMiss": "Half damage. In addition, you regain 1 power point."
+  },
+  "Guardian's Speed": {
+    "id": "'2639",
+    "action": "Immediate Reaction",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "10",
+    "name": "Guardian's Speed",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "As your ally reels from an attack, you act with the speed of thought to shield your friend from further assault.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Melee 1",
+    "trigger": "An adjacent ally takes damage",
+    "target": "The triggering ally",
+    "effect": "You slide the target 1 square."
+  },
+  "Shadow Ally": {
+    "id": "'2640",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Shadow Ally",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your form shimmers as you send a wave of psionic energy washing over your foes. In their minds, you fade away as your duplicate appears and threatens them.",
+    "keywords": [
+      "Conjuration, Illusion, Psionic"
+    ],
+    "range": "Ranged 5",
+    "effect": "You conjure an illusory duplicate of yourself in an unoccupied square within range. The duplicate lasts until the end of the encounter. You gain a +4 power bonus to all defenses against any attack that doesn’t include both you and the duplicate. As part of a move action, you can move the duplicate 5 squares.<br/>The duplicate can be targeted by melee attacks and ranged attacks, although it lacks hit points. The duplicate disappears if a melee or a ranged attack deals any damage to it."
+  },
+  "Brutal Barrage": {
+    "id": "'2641",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Brutal Barrage",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You lash out with your weapon, slamming your foe again and again until you drive it into the ground.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC. Make the attack four times.",
+    "onHit": "Constitution modifier + Charisma modifier damage.",
+    "effect": "If you hit the target two or more times, it falls prone."
+  },
+  "Luring Steel": {
+    "id": "'2642",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Luring Steel",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your strike delivers a pulse of psionic energy into your enemy, compelling it to attack you or suffer. By increasing the pulse’s strength, you can affect more enemies.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you pull each enemy within 2 squares of you 1 square. As a free action, you can use your battlemind’s demand power against each enemy adjacent to you.",
+    "effect": "As above, but the enemy takes the damage when it hits or misses."
+  },
+  "Intellect Sunder": {
+    "id": "'2643",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Intellect Sunder",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack devastates your foe’s mind, forcing the enemy to revert to its base instincts and focus its anger on you.",
+    "keywords": [
+      "Fear, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "2[W] + Constitution modifier damage. Whenever the target attacks, it can use only basic attacks and must include you as a target (save ends both).",
+    "onMiss": "Half damage. Until the end of your next turn, whenever the target attacks, it can use only basic attacks and must include you as a target."
+  },
+  "Paralyzing Fear Strike": {
+    "id": "'2644",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Paralyzing Fear Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You wave your weapon in an intricate pattern, channeling psionic energy into it as you strike. Your foe is paralyzed with fear as it perceives a hellish scene of torment engulfing it.",
+    "keywords": [
+      "Fear, Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is immobilized until the end of your next turn.<br/>Level 21: 2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage, and the primary target is immobilized until the end of your next turn.",
+    "effect": "You assume the paralyzing fear stance. Until the stance ends, you can use the Paralyzing Fear Attack power.",
+    "requirement": "The power Paralyzing Fear Strike must be active in order to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting"
+  },
+  "Shield of the Iron Mind": {
+    "id": "'2646",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Shield of the Iron Mind",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You create a shield of psionic power that fortifies your allies.",
+    "keywords": [
+      "Psionic, Zone"
+    ],
+    "range": "Close burst 5",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. When you move, the zone moves with you, remaining centered on you. You and your allies gain a +4 power bonus to Will and saving throws while within the zone."
+  },
+  "Sudden Rush": {
+    "id": "'2647",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Sudden Rush",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With a burst of psionic energy, you appear next to an enemy you have called out.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Personal",
+    "effect": "You teleport to a square adjacent to a creature marked by you."
+  },
+  "Battlemind's Demand": {
+    "id": "'10438",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "0",
+    "name": "Battlemind's Demand",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You draw your foe’s concentration, taunting the foe to strike at you.",
+    "keywords": [
+      "Augmentable, Psionic"
+    ],
+    "range": "Close burst 3",
+    "target": "One or two creatures in the burst",
+    "effect": "You mark the target until you use this power again or until the end of the encounter."
+  },
+  "Blurred Step": {
+    "id": "'10439",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "0",
+    "name": "Blurred Step",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You bend reality with the power of your mind, flashing across the space between you and your enemy.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "An adjacent enemy marked by you shifts",
+    "effect": "You shift 1 square.",
+    "special": "You can use this power only once per turn."
+  },
+  "Mind Spike": {
+    "id": "'10440",
+    "action": "Immediate Reaction",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "0",
+    "name": "Mind Spike",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You force your enemy to feel the pain that it inflicts on your friend.",
+    "keywords": [
+      "Force, Psionic, Psychic"
+    ],
+    "range": "Melee 1",
+    "trigger": "An adjacent enemy marked by you deals damage to your ally with an attack that doesn’t include you as a target",
+    "target": "The triggering enemy",
+    "effect": "The target takes force and psychic damage equal to the damage that its attack dealt to your ally."
+  },
+  "Speed of Thought": {
+    "id": "'10441",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Speed of Thought",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You move in the blink of an eye, reaching your foes before they can draw their weapons.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You roll initiative",
+    "effect": "You move a number of squares equal to 3 + your Charisma modifier.",
+    "special": "You can use this power even if you’re surprised."
+  },
+  "Allies to Enemies": {
+    "id": "'10442",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Allies to Enemies",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack rattles your foe with a vision of its allies betraying it. The foe lashes out at a companion before realizing its mistake.",
+    "keywords": [
+      "Charm, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier psychic damage, and the target makes a melee basic attack as a free action against a creature of your choice.",
+    "onMiss": "Half damage."
+  },
+  "Telepathic Challenge": {
+    "id": "'10443",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Telepathic Challenge",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You loom large in your foes’ minds, forcing the enemies to turn their attention toward you.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy in the burst",
+    "effect": "You mark each target until the end of your next turn."
+  },
+  "Step of the Pursuer": {
+    "id": "'10445",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Step of the Pursuer",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack hammers your foe, allowing you to bind it with a psionic link that keeps your enemy close.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage. If the target moves away from you on its next turn, you can use a free action to teleport to a square adjacent to the target after its move.",
+    "keyword": "The power gains the teleportation keyword."
+  },
+  "Battle Vortex": {
+    "id": "'10446",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Battle Vortex",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack creates a vortex that sends waves of psychic energy crashing over your enemies. By increasing the vortex’s intensity, you can move or lock down your foes.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage. Until the end of your next turn, when any enemy starts its turn within 2 squares of you but ends its turn more than 2 squares away from you, you can teleport that enemy 3 squares as a free action, and it is immobilized until the end of its next turn.",
+    "keyword": "The power gains the teleportation keyword."
+  },
+  "Relentless Strike": {
+    "id": "'10447",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Relentless Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You assume perfect positioning and strike with precision to leave a lasting wound. While in this stance, you can deliver a staggering blow to any enemy that tries to move away from you.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is dazed until the end of your next turn.<br/>Level 21: 2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the perfect storm stance. Until the stance ends, you can use the power Relentless Strike Attack.",
+    "requirement": "The perfect storm stance from Relentless Strike must be active in order to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting"
+  },
+  "Vengeful Mind": {
+    "id": "'10449",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Vengeful Mind",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You shunt aside your wrath at seeing your friends attacked, focusing your rage to lend exacting precision to your attacks.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "4[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of the encounter, when the target attacks any ally of yours, you gain a +2 power bonus to attack rolls against the target until the end of your next turn. If you already have the bonus when the target attacks an ally, the bonus increases by 1."
+  },
+  "Armor of Blades": {
+    "id": "'10450",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Armor of Blades",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "As your foe attacks your ally, you intervene to protect your friend.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee 1",
+    "trigger": "An enemy adjacent to you targets one of your allies with a melee attack",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and you slide the target 3 squares and shift 3 squares to a square adjacent to it. The target then attacks you instead of the ally.",
+    "effect": "You get your normal standard action on your next turn."
+  },
+  "Spring Assault": {
+    "id": "'10451",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Spring Assault",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You leap toward your foe and unleash a fury of blows that overwhelm its defenses.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC. If you weren’t adjacent to the target at the start of this turn, the target grants combat advantage to you for this attack.",
+    "onHit": "3[W] + Constitution modifier damage, and you are invisible to the target until the end of your next turn."
+  },
+  "Indomitable Maneuver": {
+    "id": "'10452",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Indomitable Maneuver",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Assessing your enemies’ weaknesses, you maneuver past your foes, positioning yourself to your best advantage.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You shift 12 squares and can move through enemies’ spaces during the shift."
+  },
+  "Tactical Supremacy": {
+    "id": "'10453",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Tactical Supremacy",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You’re an avatar of battle, taking advantage of the slightest flaws in your enemies’ defenses to gain supremacy over them.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, enemies grant combat advantage to you."
+  },
+  "Deadly Haste Strike": {
+    "id": "'10454",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Deadly Haste Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You weave through the battlefield, darting to a new foe after each strike with such speed that your enemies think they face an army.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. You shift half your speed and make a melee basic attack against a different enemy.",
+    "onMiss": "Half damage.",
+    "effect": "Before each attack but the first, you shift your speed. After making all the attacks, you assume the deadly haste stance. Until the stance ends, you can use the Deadly Haste Attack power.",
+    "requirement": "The power Deadly Haste Strike must be active in order to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting"
+  },
+  "Psychic Hammer": {
+    "id": "'10456",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Psychic Hammer",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack leaves your enemy unable to think clearly. With a subtle mental push, you can direct the enemy’s actions.",
+    "keywords": [
+      "Charm, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "3[W] + Constitution modifier psychic damage, and the target is dominated (save ends). Until this domination ends, you can use a free action at the start of each of the target’s turns to slide the target a number of squares equal to its speed.",
+    "onMiss": "Half damage, and the target is dazed (save ends)."
+  },
+  "Brilliant Recovery": {
+    "id": "'10457",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Brilliant Recovery",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "After missing your foe with an attack, you shift your grip on your weapon and make a quick follow-up strike.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "An enemy you missed with an attack during this turn",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "3[W] + Constitution modifier damage.",
+    "onMiss": "You regain the power points you spent to augment this power."
+  },
+  "Cage of Cowardice": {
+    "id": "'10458",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Cage of Cowardice",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack undermines your foe’s confidence in attacking anyone but you. Using more psionic energy, you can stun the foe.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and the target is stunned until the end of your next turn.",
+    "special": "When making an opportunity attack, you can use this power in place of a melee basic attack."
+  },
+  "Mind-Sundering Burst": {
+    "id": "'10459",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Mind-Sundering Burst",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You unleash a burst of psychic energy as you spin and slash with your weapon, sending your foes reeling.",
+    "keywords": [
+      "Psionic, Psychic, Stance, Weapon"
+    ],
+    "range": "Close burst 3",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. You slide the target 3 squares to a square adjacent to you, and it is immobilized (save ends).",
+    "onMiss": "Half damage, and the primary target is dazed until the end of your next turn.",
+    "effect": "You assume the mind-sundering stance. Until the stance ends, you can use the power Mind-Sundering Attack.",
+    "requirement": "The power Mind-Sundering Burst must be active in order for you to use this power.",
+    "trigger": "An adjacent enemy marked by you moves without shifting"
+  },
+  "Nova Strike": {
+    "id": "'10461",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Nova Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You erupt into a blur of motion and launch a devastating attack.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "7[W] + Constitution modifier damage. If you have no power points remaining, the damage increases by 2[W].",
+    "onMiss": "Half damage."
+  },
+  "Battle Resilience": {
+    "id": "'11155",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Battle Resilience",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You steel yourself for battle, girding yourself against your foe’s initial assault.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "An attack hits or misses you for the first time during an encounter",
+    "effect": "Until the end of your next turn, you gain resistance to all damage equal to 3 + your Wisdom modifier.<br/>Level 11: Resist 6 + your Wisdom modifier.<br/>Level 21: Resist 9 + your Wisdom modifier."
+  },
+  "Iron Fist": {
+    "id": "'11156",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Iron Fist",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You change the density of your hand and arm to that of iron, allowing you to ward off your foe’s attacks.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "effect": "Until the end of your next turn, you gain fire resistance equal to 5 + your Wisdom modifier."
+  },
+  "Bull's Strength": {
+    "id": "'11157",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Bull's Strength",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You slam your foe back as if it were a puny goblin. By enhancing your strength further, you can reach enemies farther away or even swat multiple foes.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "Each enemy you can see in the blast",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you push the target 1 square.",
+    "special": "Your reach increases by 1 for this attack.",
+    "close": "blast 3"
+  },
+  "Aspect of Elevated Harmony": {
+    "id": "'11158",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Aspect of Elevated Harmony",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your eyes glow as you achieve harmony of mind, body, and spirit. In this state, you are able to heal yourself, and you understand where to strike your enemy best and how to lessen its blows.",
+    "keywords": [
+      "Healing, Polymorph, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You gain temporary hit points equal to 5 + your Wisdom modifier. In addition, choose a single creature hit by the at-will attack. That creature takes extra damage equal to your Wisdom modifier."
+  },
+  "Psionic Anchor": {
+    "id": "'11160",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Psionic Anchor",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You bind your foe with an anchor of psionic energy so that you can draw it back to your side with only a thought.",
+    "keywords": [
+      "Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. As a free action at the end of the target’s turn, you can teleport the target to a square adjacent to you (save ends).",
+    "onMiss": "Half damage. As a free action at the end of the target’s next turn, you can teleport the target to a square adjacent to you."
+  },
+  "Psionic Vigor": {
+    "id": "'11162",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Psionic Vigor",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You focus your mind to shrug off injuries.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You gain temporary hit points equal to 5 + your Charisma modifier."
+  },
+  "Mind Snare": {
+    "id": "'11163",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Mind Snare",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack addles your foe, causing it to focus on you instead of on your friend. With a little more effort, you can force your enemy to focus solely on you.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. Until the end of your next turn, your allies are invisible to the target while they aren’t adjacent to it."
+  },
+  "Mist Weapon": {
+    "id": "'11164",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Mist Weapon",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your weapon transforms into mist, allowing your strikes to slide through armor, flesh, and ghostly essence. By adjusting the mist’s consistency, you can force ghostly creatures to become material.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "2[W] + Constitution modifier damage, and the target doesn’t benefit from being insubstantial until the end of your next turn."
+  },
+  "Aspect of Living Stone": {
+    "id": "'11165",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Aspect of Living Stone",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You harden your flesh, becoming a living statue and delivering heavy blows that knock your foes to the ground.",
+    "keywords": [
+      "Polymorph, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you knock the target prone.",
+    "onMiss": "Half damage.",
+    "effect": "You gain resist 5 to all damage until the end of your next turn. In addition, choose a single creature hit by the at-will attack. That creature takes extra damage equal to your Wisdom modifier."
+  },
+  "Predator to Prey": {
+    "id": "'11166",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Predator to Prey",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You unleash a wave of psionic energy that crushes your foe’s bravery, leaving the enemy overwhelmed with terror.",
+    "keywords": [
+      "Fear, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "The target’s reach is reduced by 1 (minimum 1), and whenever the target is hit, you can slide it 1 square as a free action (save ends both)."
+  },
+  "Psionic Ambush": {
+    "id": "'11167",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Psionic Ambush",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You forge a mental link with your enemy and travel through a fold in space, appearing suddenly next to that enemy.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature marked by you",
+    "effect": "You teleport to a square adjacent to the target. The target grants combat advantage to you until the end of your turn."
+  },
+  "Sense Minds": {
+    "id": "'11168",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Sense Minds",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You stretch your senses outward, using your mind’s eye to look beyond the material world in search of living minds.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you know the location of all living creatures within 10 squares of you. Until this effect ends, you don’t grant combat advantage to those creatures, and if they have cover or concealment when you attack them, you don’t take the -2 penalty to attack rolls against them."
+  },
+  "Ego Crush": {
+    "id": "'11169",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Ego Crush",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your strike delivers a torrent of psionic energy that addles your foe.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "Each enemy in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and the target cannot gain combat advantage until the end of your next turn.",
+    "special": "When making an opportunity attack, you can use this power in place of a melee basic attack.",
+    "close": "burst 1"
+  },
+  "Ghost in the Steel": {
+    "id": "'11170",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Ghost in the Steel",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your weapon attack is merely a distraction from your true assault as you use a spike of psionic energy to cause your foe to harm itself.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage. The next time the target makes a melee attack before the end of your next turn, you can choose which creature it attacks (not including itself )."
+  },
+  "Stone Squire": {
+    "id": "'11171",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Stone Squire",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "For an instant, you take on the weight of stone, allowing you to use your heavier mass to sweep your foe to the ground.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "1[W] + Constitution modifier damage, and you knock the target prone.",
+    "effect": "After the attack, you shift 2 squares to a square adjacent to the target."
+  },
+  "Aspect of Disembodiment": {
+    "id": "'11172",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Aspect of Disembodiment",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your attack transforms both your enemy and yourself into a partially liquid form.",
+    "keywords": [
+      "Polymorph, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "2[W] + Constitution modifier damage, and the target takes a penalty to attack rolls and saving throws equal to your Wisdom modifier (save ends). The penalty also ends if the target ends its turn without having made an attack during that turn.",
+    "onMiss": "Half damage.",
+    "effect": "You shift half your speed before or after the attack. You can move through enemies’ spaces during this shift. In addition, choose a single creature hit by the at-will attack. That creature takes extra damage equal to your Wisdom modifier."
+  },
+  "Iron Tomb": {
+    "id": "'11173",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Iron Tomb",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Psionic energy cascades from your weapon as you strike your foe, transforming the enemy into a statue of iron.",
+    "keywords": [
+      "Polymorph, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "The target is stunned and immune to all damage but psychic damage (save ends both).",
+    "onMiss": "The target is stunned and immune to all damage but psychic damage until the end of your next turn."
+  },
+  "Whelm": {
+    "id": "'11174",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Whelm",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You unleash a blast of crackling psionic energy as you strike, flinging your enemy back.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "3[W] + Constitution modifier damage, and you push the target 2 squares.",
+    "onMiss": "Half damage, and you push the target 1 square."
+  },
+  "Battle Aspect": {
+    "id": "'11175",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Battle Aspect",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You let the power of your mind run rampant, transforming yourself into a creature of pure psionic energy.",
+    "keywords": [
+      "Polymorph, Psionic, Teleportation"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, you gain resist 5 to all damage and can teleport 3 squares as a move action."
+  },
+  "Iron Warding": {
+    "id": "'11176",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Iron Warding",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "For a moment, your flesh becomes as hard as iron, and your foe’s attack bounces off you harmlessly.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You take damage from an attack",
+    "effect": "The damage is reduced to 0, but you are subject to all other effects of the attack, if any."
+  },
+  "Dizzying Strike": {
+    "id": "'11177",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Dizzying Strike",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You strike your foe with crackling psionic energy, creating an intense vertigo in the foe that throws it off balance.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and the target is dazed until the end of your next turn."
+  },
+  "Overwhelming Lunge": {
+    "id": "'11178",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Overwhelming Lunge",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You lunge forward to attack your enemy, your reach magically extended.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon + 1 reach",
+    "target": "One creature",
+    "attack": "As above, and you ignore the -2 penalty for attacking an enemy that has cover.",
+    "onHit": "2[W] + Constitution modifier damage. You slide each creature adjacent to the target 1 square and then slide the target 2 squares."
+  },
+  "Web of Betrayal": {
+    "id": "'11179",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Web of Betrayal",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You create a web of psionic energy around your foe that convinces it of its allies’ betrayal. By strengthening the web, you can compel your foe’s allies to meet those expectations.",
+    "keywords": [
+      "Augmentable, Charm, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier psychic damage. Until the end of your next turn, when any enemy attacks any ally of yours who is adjacent to the target, the enemy also makes the attack against the target."
+  },
+  "Aspect of Enlightening Flame": {
+    "id": "'11180",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Aspect of Enlightening Flame",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "As you attack your foes, you become the embodiment of flame in their eyes. With each strike, you inflict blistering wounds, which burn your enemies from within.",
+    "keywords": [
+      "Fire, Polymorph, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One or two creatures",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and ongoing 5 fire and psychic damage (save ends).",
+    "onMiss": "Half damage.",
+    "effect": "Choose a single creature hit by the at-will attack. That creature takes extra fire and psychic damage equal to your Wisdom modifier."
+  },
+  "Mind Blade": {
+    "id": "'11181",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Mind Blade",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You lash out with your weapon and channel a burst of pain into your enemy’s mind. Though the blow doesn’t connect, your foe collapses as it feels the weapon strike a vital area.",
+    "keywords": [
+      "Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "The target falls unconscious (save ends).",
+    "aftereffect": "10 + Constitution modifier psychic damage.",
+    "onMiss": "The target is dazed (save ends)."
+  },
+  "Extend the Mind's Eye": {
+    "id": "'11182",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Extend the Mind's Eye",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You zero in your thoughts, snapping previously unseen details into focus within your mind’s eye.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You gain a +5 power bonus to your next Insight check or Perception check during this encounter."
+  },
+  "Mind of Endurance": {
+    "id": "'11183",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Mind of Endurance",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You tap into your body’s natural healing abilities and mend your wounds.",
+    "keywords": [
+      "Healing, Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You spend a healing surge. In addition, until the end of the encounter, you have regeneration 5 while you’re bloodied."
+  },
+  "Dazzling Assault": {
+    "id": "'11184",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Dazzling Assault",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your foe attempts to slip away from you, but you attack in a blur of movement, sending your enemy in another direction and binding it with psionic energy.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee 1",
+    "trigger": "An adjacent enemy marked by you shifts",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage. You slide the target 2 squares, and it is immobilized until the end of your next turn.",
+    "effect": "You get your normal standard action on your next turn."
+  },
+  "Entangling Weapon": {
+    "id": "'11185",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Entangling Weapon",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You imbue your attack with psionic energy, allowing you to strike precisely and forcing your opponent to move as you dictate.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage. When you hit any enemy before the end of your next turn, you slide that enemy 2 squares."
+  },
+  "Festering Wound": {
+    "id": "'11186",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Festering Wound",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You strike and slash, opening wounds both physical and mental, which flare with pain as you press the attack.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and your next psionic attack against the target before the end of your next turn deals 1d6 extra psychic damage."
+  },
+  "Aspect of Stolen Identity": {
+    "id": "'11187",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Aspect of Stolen Identity",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You repeatedly transform yourself into simulacra of your enemies. Through these forms, you can cause your enemies to harm themselves.",
+    "keywords": [
+      "Charm, Polymorph, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Choose a single creature hit by the at-will attack, and choose a melee basic attack of that creature. The creature then hits itself with that melee basic attack as a free action."
+  },
+  "Mind Wrack": {
+    "id": "'11188",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Mind Wrack",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You drive a psionic spike of pain into your enemy’s mind. Each time you land a blow thereafter, the spike reverberates, causing your foe increased agony.",
+    "keywords": [
+      "Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "3[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "The target takes ongoing 5 psychic damage (save ends). Whenever you hit the target before this ongoing damage ends, the ongoing damage increases by 5."
+  },
+  "Immortal Endurance": {
+    "id": "'11189",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Immortal Endurance",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You draw on deep reserves of psionic energy to shrug off even the most terrible wounds.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You gain temporary hit points equal to your bloodied value."
+  },
+  "Perfect Eye": {
+    "id": "'11190",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Perfect Eye",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You cast your mind out, ignoring all barriers to find your foes.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you ignore all barriers to line of effect and line of sight that are within 20 squares of you. In addition, you ignore the -2 penalty for attacking enemies that have concealment or cover within that range."
+  },
+  "Might of the Ogre": {
+    "id": "'11191",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Might of the Ogre",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You imbue yourself with the strength of an ogre as you unleash a strike that fells your foe, making it an easy target for your allies.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "Each enemy in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] damage, and the target is dazed until the end of your next turn. You knock the target prone, and if it stands up before the end of your next turn, it provokes opportunity attacks for doing so.",
+    "close": "burst 1"
+  },
+  "Press of Battle": {
+    "id": "'11192",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Press of Battle",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your psionic assault presses in on your foe, inhibiting its ability to maneuver.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and the target is immobilized and grants combat advantage to your allies until the end of your next turn."
+  },
+  "Veil of the Mind's Eye": {
+    "id": "'11193",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Veil of the Mind's Eye",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You release a flash of psionic energy in your foe’s mind, clouding the foe’s vision. You can strengthen the flash to disrupt the foe’s vision further.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and the target is blinded until the end of your next turn."
+  },
+  "Aspect of Luminous Thought": {
+    "id": "'11194",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Aspect of Luminous Thought",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your mind and body become one as you execute the perfect attack and transform yourself into a being of pure thought.",
+    "keywords": [
+      "Polymorph, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "effect": "Until the end of your next turn, you gain a +2 bonus to all defenses against the targets of the at-will attack. In addition, choose a single creature hit by the at-will attack. That creature takes extra damage equal to your Wisdom modifier."
+  },
+  "Vitality Theft": {
+    "id": "'11195",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Vitality Theft",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your punishing attack establishes a brief psionic link with your foe that saps its mental energy and renews your own.",
+    "keywords": [
+      "Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "5[W] + Constitution modifier psychic damage.",
+    "onMiss": "Half damage.",
+    "effect": "You regain 6 power points."
+  },
+  "Mind of Mirrors": {
+    "id": "'11196",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Mind of Mirrors",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You engulf your foe’s mind with images that hinder the enemy’s perception of its enemies. By making the images more real, you can manipulate your enemy into attacking those you choose.",
+    "keywords": [
+      "Augmentable, Charm, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and the target is dominated until the end of your next turn. Until this domination ends, the target has combat advantage against itself and your enemies."
+  },
+  "Psionic Storm": {
+    "id": "'11197",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Psionic Storm",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You unleash a storm of psionic power that damages your foe and enhances your ability to force enemies to deal with you first or pay a heavy price.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "Each enemy in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "4[W] + Constitution modifier damage.",
+    "effect": "Until the end of your next turn, you can use your mind spike power as a free action, and it deals extra damage equal to 5 + your Wisdom modifier.",
+    "close": "burst 2"
+  },
+  "Aspect of Annihilation": {
+    "id": "'11198",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Aspect of Annihilation",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You imbue yourself with destructive magic as you strike your enemy, disrupting its substance for a time.",
+    "keywords": [
+      "Polymorph, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "3[W] + Constitution modifier damage, and ongoing 20 damage (save ends).",
+    "onMiss": "Half damage, and ongoing 10 damage (save ends).",
+    "effect": "The target of the at-will attack fails its first saving throw before the end of your next turn. In addition, choose a single creature hit by the at-will attack. That creature takes extra damage equal to your Wisdom modifier."
+  },
+  "Fatal Barrage": {
+    "id": "'11199",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Fatal Barrage",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Sensing your foe’s defenses, you lash out at the weakest point with unnatural speed and grace, delivering a deadly strike.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "6[W] + Constitution modifier damage. The damage increases by 5 for each effect on the target that a save can end.",
+    "onMiss": "Half damage. The damage increases by 2 for each effect on the target that a save can end."
+  },
+  "Wild Focus": {
+    "id": "'12418",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Wild Focus",
+    "type": "Feature",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Using a surge of telekinetic power, you yank an enemy toward you, forcing it to fight.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 10",
+    "trigger": "An enemy starts its first turn during an encounter.",
+    "target": "The triggering enemy in the burst",
+    "effect": "You pull the target a number of squares equal to your Charisma modifier and mark it until the end of your next turn."
+  },
+  "Concussive Spike": {
+    "id": "'12419",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Concussive Spike",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your weapon shimmers with force as you bring it crashing down, clobbering your foes and driving some of them back.",
+    "keywords": [
+      "Augmentable, Force, Psionic, Weapon"
+    ],
+    "range": "Close burst 3",
+    "target": "One creature you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier force damage, and you knock the target prone. You push each enemy in the blast other than the target a number of squares equal to 1 + your Charisma modifier."
+  },
+  "Corona of Floating Force": {
+    "id": "'12420",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Corona of Floating Force",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "As you swing, the air around you ripples with psionic force that knocks back your enemy and levitates you.",
+    "keywords": [
+      "Force, Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier force damage, and you push the target a number of squares equal to your Charisma modifier.",
+    "onMiss": "Half damage, and you push the target 1 square.",
+    "effect": "You can assume the floating force stance. Until the stance ends, you ignore difficult terrain and take no damage from hindering terrain or terrain hazards."
+  },
+  "Concussive Response": {
+    "id": "'12421",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Concussive Response",
+    "type": "Utility",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "With a thought, you transform your injuries into energy that bolsters your attacks.",
+    "keywords": [
+      "Force, Psionic"
+    ],
+    "range": "Personal",
+    "requirement": "You must be bloodied.",
+    "effect": "Until the end of your next turn, your unaugmented psionic attacks deal 1d6 extra force damage."
+  },
+  "Wrenching Claw": {
+    "id": "'12422",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Wrenching Claw",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "You manifest a claw of force around your weapon. Then, as you strike, the claw encloses your foe and drags it into position.",
+    "keywords": [
+      "Augmentable, Force, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier force damage, and you slide the target 3 squares to a square adjacent to you.",
+    "special": "Your reach increases by a number of squares equal to your Charisma modifier for this attack."
+  },
+  "Wild Speed": {
+    "id": "'12423",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Wild Speed",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your strike warps temporal bonds, sapping your opponent’s speed and infusing you with unpredictable bursts of movement.",
+    "keywords": [
+      "Force, Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier force damage, and the target is slowed (save ends).",
+    "onMiss": "Half damage, and the target is slowed until the end of your next turn.",
+    "effect": "After the attack, you shift half your speed to a square adjacent to the target. You can assume the wild speed stance. Until the stance ends, you can move a number of squares equal to your speed + 1d4 as a move action. You roll a d4 each time you begin the movement. If the result is odd, the movement doesn’t provoke opportunity attacks."
+  },
+  "Surging Durability": {
+    "id": "'12424",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Surging Durability",
+    "type": "Utility",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "With each attack, you use the power of your mind to bolster your vitality.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "effect": "You assume the stance of surging durability. Until the stance ends, whenever you hit with an augmented power, you gain temporary hit points equal to the number of power points you spent to augment that power."
+  },
+  "Forceful Reversal": {
+    "id": "'12425",
+    "action": "Immediate Reaction",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Forceful Reversal",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "You draw the force from an enemy’s attack and hurl it back at your attacker through your weapon.",
+    "keywords": [
+      "Augmentable, Force, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "trigger": "An enemy hits you.",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier force damage. You push the target a number of squares equal to your Charisma modifier and knock it prone. The target cannot stand up until the start of its next turn.",
+    "effect": "You get your normal standard action on your turn."
+  },
+  "Cascade of Rippling Force": {
+    "id": "'12426",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Cascade of Rippling Force",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your weapon and body flare with telekinetic energy as you attack. Afterward, waves of force roll off your body.",
+    "keywords": [
+      "Force, Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier force damage.",
+    "onMiss": "Half damage.",
+    "effect": "You shift 3 squares. During this movement, you can move through the spaces of enemies marked by you. If you do so, the first time you enter an enemy’s space during the shift, that enemy takes force damage equal to your Charisma modifier.",
+    "requirement": "The power Cascade of Rippling Force must be active in order to use this power."
+  },
+  "Hands of the Titan": {
+    "id": "'12428",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Hands of the Titan",
+    "type": "Utility",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your arms bulge with strength, and your weapon ripples with elemental energy as your mind draws from a deep font of power.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, your weapon attacks deal extra damage equal to your Charisma modifier and deal cold, fire, lightning, and thunder damage in addition to their normal damage types."
+  },
+  "Kinetic Fist": {
+    "id": "'12429",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Kinetic Fist",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "The energy from your attack causes swirling force to gather about you, which you can unleash on an attacker.",
+    "keywords": [
+      "Augmentable, Force, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and one enemy marked by you other than the target takes force damage equal to your Charisma modifier.",
+    "effect": "Until the end of your next turn, when an enemy adjacent to you hits and damages you, that enemy takes force damage equal to 5 + your Charisma modifier, and you mark it until the end of the enemy’s next turn."
+  },
+  "Aspect of the Desert Storm": {
+    "id": "'12430",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Aspect of the Desert Storm",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your enemy flies back from your attack, and before it lands, you exchange positions so you can lash out against other foes.",
+    "keywords": [
+      "Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "primaryTarget": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You push the primary target 5 squares and knock it prone. In addition, you and the primary target teleport, swapping positions. If you teleport, you then make a secondary attack that is a close burst 1.",
+    "secondaryTarget": "Each enemy you can see in the burst other than the primary target",
+    "secondaryAttack": "Constitution vs. AC.",
+    "secondaryOnHit": "2[W] + Constitution modifier damage, and the secondary target is dazed until the end of your next turn."
+  },
+  "Savage Intent": {
+    "id": "'12431",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Savage Intent",
+    "type": "Utility",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "You fix your enemies in your mind’s eye, allowing you to swiftly react to their movement.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 5",
+    "target": "Each enemy marked by you in the burst",
+    "effect": "Until the end of your next turn, when the target completes a willing move without teleporting, you can shift an equal number of squares as a free action."
+  },
+  "Ruinous Grasp": {
+    "id": "'12432",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Ruinous Grasp",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "When your strike connects, you seize the mind of a nearby foe and gain limited control over the enemy’s movement.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you push the target a number of squares equal to your Charisma modifier. In addition, until the end of your next turn, the target is immobilized and you can use a free action to slide the target 1 square whenever you take damage.",
+    "effect": "After the attack, you shift 1 square and gain a +2 power bonus to one defense of your choice until the end of your next turn."
+  },
+  "Indomitable Presence": {
+    "id": "'12433",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Indomitable Presence",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your wrath burns so hot it warps the air around you, causing your attackers to recoil in pain.",
+    "keywords": [
+      "Force, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and the target takes 1d6 extra force and psychic damage from your attacks, not including this one (save ends).",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of your next turn, any enemy that hits you takes 1d10 force and psychic damage, and you can push that enemy 1 square.",
+    "sustainMinor": "The effect persists."
+  },
+  "Psychic Feast": {
+    "id": "'12434",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Psychic Feast",
+    "type": "Utility",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "You devour your enemy’s anguish as you deliver a killing blow.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You reduce a nonminion enemy to 0 hit points.",
+    "effect": "You gain temporary hit points equal to your healing surge value."
+  },
+  "Blade Tremor": {
+    "id": "'12435",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Blade Tremor",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "You clobber your foe with a pulverizing blow. As the enemy staggers, you wrack the earth with a wave of power that knocks down nearby foes.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you knock the target prone. In addition, one enemy marked by you and within 5 squares of you falls prone."
+  },
+  "Corona of the Sunsphere": {
+    "id": "'12436",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Corona of the Sunsphere",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "Your weapon’s arc carves a red orb of force that sears your foes and sends them tumbling away.",
+    "keywords": [
+      "Fire, Psionic, Stance, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC",
+    "onHit": "5[W] + Constitution modifier fire damage, and you push the target a number of squares equal to your Charisma modifier.",
+    "onMiss": "Half damage, and you push the target 2 squares.",
+    "effect": "1[W] + Charisma modifier fire damage.",
+    "requirement": "The power Corona of the Sunsphere must be active in order to use this power.",
+    "trigger": "An enemy that started its turn adjacent to you willingly moves away from you or makes an attack that doesn’t include you as a target during that turn."
+  },
+  "Focused Rampage": {
+    "id": "'12439",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Focused Rampage",
+    "type": "Attack",
+    "sourceRef": "Dark Sun Campaign Setting",
+    "flavor": "You tear through your opponent with one mighty blow. The strike helps focus your mind, bolstering you and improving your prowess.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "6[W] + Constitution modifier damage, and you gain temporary hit points equal to 10 + your Constitution modifier.",
+    "onMiss": "Half damage, and you gain temporary hit points equal to 5 + your Constitution modifier.",
+    "effect": "You can assume the focused rampage stance. Until the stance ends, you can use any of your at-will unaugmented psionic attack powers in place of melee basic attacks."
+  },
+  "Persistent Harrier": {
+    "id": "'13024",
+    "action": "Immediate Reaction",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Persistent Harrier",
+    "type": "Feature",
+    "sourceRef": "Psionic Power",
+    "flavor": "You slip the bonds of space to strike back at even a distant opponent.",
+    "keywords": [
+      "Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "trigger": "An enemy hits or misses you with an attack for the first time during an encounter",
+    "target": "The triggering enemy",
+    "special": "You can attack the target with this melee attack even if the target is outside your melee reach.",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you teleport to a square adjacent to the enemy.<br/> Level 21: 2[W] + Constitution modifier damage."
+  },
+  "Conductive Defense": {
+    "id": "'13025",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Conductive Defense",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack surrounds a foe with a shroud of crackling lightning, threatening retribution for strikes against your allies.",
+    "keywords": [
+      "Augmentable, Lightning, Psionic, Weapon"
+    ],
+    "range": "Melee 1",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "2[W] + Constitution modifier lightning damage. Until the start of your next turn, the target takes lightning damage equal to your Constitution modifier whenever it hits one of your allies."
+  },
+  "Renewed Focus": {
+    "id": "'13026",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Renewed Focus",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "By the power of your mind, you shrug off effects that would keep you away from your foes.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. You are no longer immobilized, marked, or slowed, and you cannot be immobilized, marked, or slowed until the end of your next turn."
+  },
+  "Vicious Cobra Strike": {
+    "id": "'13027",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Vicious Cobra Strike",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "In your foe’s mind, your weapon takes the form of a hissing serpent, its strike hindering that enemy’s attacks against you.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier psychic damage, and the target is marked and takes a -2 penalty to attack rolls until the end of your next turn."
+  },
+  "World-Slipping Advance": {
+    "id": "'13028",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "World-Slipping Advance",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You slip unfettered across the battlefield to gain an advantageous position.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you teleport to a square adjacent to the target.",
+    "keyword": "Teleportation"
+  },
+  "Accelerating Strike": {
+    "id": "'13029",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Accelerating Strike",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "When you surge toward a foe, the momentum of your attack carries you through the rest of combat.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "effect": "Until the end of the encounter, you gain a +2 power bonus to speed. In addition, when you shift, you shift 1 extra square.",
+    "target": "One creature",
+    "attack": "Constitution vs. AC. You have combat advantage for this attack.",
+    "onHit": "2[W] + Constitution modifier damage. Your movement does not provoke opportunity attacks from the target until the end of the encounter.",
+    "onMiss": "Half damage."
+  },
+  "Aspect of Bitter Ice": {
+    "id": "'13030",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Aspect of Bitter Ice",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your weapon is rimed with ice as you strike. In the aftermath, you are imbued with a bitter cold that protects you and slows your enemies.",
+    "keywords": [
+      "Augmentable, Cold, Polymorph, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "1[W] + Constitution modifier cold damage, you push the target 1 square, and the target is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is slowed (save ends).",
+    "effect": "Until the start of your next turn, any enemy that starts its turn adjacent to you is slowed until the end of its turn."
+  },
+  "Living Fortress": {
+    "id": "'13031",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Living Fortress",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "As you lash out at your foe, a shroud of rock and scree rises from the ground to protect you.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of the encounter, you and allies adjacent to you have cover. As a minor action, you can end this effect to gain resist 5 to all damage until the start of your next turn."
+  },
+  "Stolen Grace": {
+    "id": "'13032",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Stolen Grace",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your foe’s movement wracks it with psychic pain in the aftermath of your attack, even as your own mobility is heightened.",
+    "keywords": [
+      "Psionic, Psychic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "2[W] + Constitution modifier damage, and the target takes 5 psychic damage if it moves more than half its speed when it moves (save ends).",
+    "onMiss": "Half damage, and the target is slowed until the end of your next turn.",
+    "effect": "You assume the stolen grace stance. Until the stance ends, you gain a +4 power bonus to AC and Reflex against opportunity attacks and a +2 power bonus to opportunity attack rolls."
+  },
+  "Dimension Slide": {
+    "id": "'13033",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Dimension Slide",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You bend the space around you to better position yourself and an ally on the battlefield.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Ranged 5",
+    "target": "You and one ally",
+    "effect": "You slide one target 1 square and teleport the other target 3 squares."
+  },
+  "Evade Explosion": {
+    "id": "'13034",
+    "action": "Immediate Reaction",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Evade Explosion",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "A prescient vision of destruction allows you to sidestep the worst effects of an attack.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "A close or an area attack hits you",
+    "effect": "You shift 1 square. If the shift places you outside the area of the triggering attack, you take only half damage from the attack."
+  },
+  "Oaken Resilience": {
+    "id": "'13036",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Oaken Resilience",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "As your mind envisions the strength of the oak, your body acquires that tree’s ancient resilience.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You gain resist 3 to all damage until the end of the encounter."
+  },
+  "Wild Savagery": {
+    "id": "'13037",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Wild Savagery",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You summon the beast within, gaining the power to send unwary foes sprawling.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "requirement": "The power Wild Savagery must be active in order to use this attack.",
+    "effect": "Make a melee basic attack or a charge attack against the triggering enemy. On a hit, the enemy is also knocked prone.",
+    "trigger": "An enemy marked by you deals damage to an ally with an attack that doesn’t include you as a target."
+  },
+  "Cast the Net": {
+    "id": "'13039",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Cast the Net",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack bends the fabric of space, drawing your enemy to a more advantageous position.",
+    "keywords": [
+      "Augmentable, Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon + 1 reach",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you teleport the target to a square adjacent to you. If the target moves more than 2 squares on its next turn, you can teleport it to a square adjacent to you as an immediate reaction."
+  },
+  "Harrier's Dance": {
+    "id": "'13040",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Harrier's Dance",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your successful attack empowers you, letting you slip the bonds of space in response to a foe’s assault.",
+    "keywords": [
+      "Augmentable, Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "effect": "Whenever you take damage before the start of your next turn, you can teleport 3 squares as a free action."
+  },
+  "Lodestone Lure": {
+    "id": "'13041",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Lodestone Lure",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "As you raise your weapon, a foe lurches toward you against its will.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee 5",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "1[W] + Constitution modifier damage, and you must pull the target 4 squares and knock it prone. Until the end of your next turn, the target can move only to squares that are adjacent to you."
+  },
+  "Momentum Swing": {
+    "id": "'13042",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Momentum Swing",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your vicious attack lets you swing away from the target, ready to strike the next foe.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage.",
+    "effect": "Make a charge attack against a creature other than the target. Movement made as part of the charge does not provoke opportunity attacks."
+  },
+  "Aspect of Unspeakable Horror": {
+    "id": "'13043",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Aspect of Unspeakable Horror",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack heralds your transformation into a nightmare creature whose appearance cripples your enemies with fear.",
+    "keywords": [
+      "Polymorph, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "1[W] + Constitution modifier damage plus 1d12 psychic damage.",
+    "onMiss": "Half damage.",
+    "effect": "Each target of the at-will attack takes a -2 penalty to attack rolls until the end of your next turn.",
+    "keyword": "Fear"
+  },
+  "Empathic Feedback": {
+    "id": "'13044",
+    "action": "Immediate Reaction",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Empathic Feedback",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your counterattack sends foes reeling away from you while your vigor is temporarily replenished.",
+    "keywords": [
+      "Psionic, Psychic, Weapon"
+    ],
+    "range": "Close burst 3",
+    "trigger": "You take damage from an attack",
+    "target": "Each enemy in the burst",
+    "attack": "Constitution vs. Will",
+    "onHit": "1[W] + Constitution modifier psychic damage, and you push the target 3 squares.",
+    "onMiss": "Half damage, and you push the target 1 square.",
+    "effect": "You gain temporary hit points equal to one-half your level + your Constitution modifier."
+  },
+  "Fated Confrontation": {
+    "id": "'13045",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Fated Confrontation",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You warp fate to take the place of another creature on the battlefield, deliver a brutal attack against an unsuspecting enemy, and then return to your original position.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Ranged 5",
+    "primaryTarget": "One creature",
+    "effect": "You teleport yourself and the primary target, swapping positions. Make a secondary attack that is a melee weapon attack.",
+    "secondaryTarget": "One creature",
+    "secondaryAttack": "Constitution vs. AC",
+    "secondaryOnHit": "3[W] + Constitution modifier damage, and you mark the secondary target until the end of your next turn.",
+    "secondaryOnMiss": "Half damage, and you mark the secondary target until the end of your next turn.",
+    "secondaryeffect": "You teleport yourself and the primary target, swapping positions."
+  },
+  "Inconstant Location": {
+    "id": "'13046",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Inconstant Location",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack opens up ripples in space, letting you slip from place to place to stay one step ahead of your foes.",
+    "keywords": [
+      "Psionic, Stance, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the inconstant location stance. Until the stance ends, you can teleport 2 squares as a free action.",
+    "special": "You can take this free action only as the first or the last action of your turn."
+  },
+  "Energy Transformation": {
+    "id": "'13047",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Energy Transformation",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "The force of an opponent’s attack is shunted through you as brilliant white light.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You take damage from an attack.",
+    "effect": "You take half damage from the triggering attack. Until the end of the encounter, you radiate bright light that fills your space and all squares within 5 squares of you."
+  },
+  "Mental Triumph": {
+    "id": "'13048",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Mental Triumph",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "By the power of your mind, you shrug off the most potent physical effects.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You cannot be slowed, immobilized, or restrained until the end of the encounter."
+  },
+  "Relentless Hostility": {
+    "id": "'13049",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "6",
+    "name": "Relentless Hostility",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Even before your foe drops, you slip away in search of another victim.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You reduce an enemy to 0 hit points during your turn",
+    "effect": "You shift 1 square.",
+    "special": "You can use this power once during each of your turns."
+  },
+  "Warning Premonition": {
+    "id": "'13050",
+    "action": "No Action",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Warning Premonition",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "A premonition of danger flashes through your mind, letting you take the fight to a foe that thought it had the drop on you.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You are surprised",
+    "effect": "You are no longer surprised. In addition, you shift half your speed and mark one creature adjacent to you at the end of the shift until the end of your next turn."
+  },
+  "Body Double": {
+    "id": "'13051",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Body Double",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You bend space to temporarily stand in two places at once, becoming a double threat to your enemies.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] damage, and choose any square within 5 squares of you. You occupy that square in addition to your normal square until the start of your next turn. While you occupy multiple squares through this power, you can attack from either square. You can flank from either square and can flank with yourself. You can be targeted in either square, but close and area attacks that affect both squares target you only once. When the effect ends, you choose whether to occupy your original square or your double’s square."
+  },
+  "Flowing Weapon": {
+    "id": "'13052",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Flowing Weapon",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "As you swing your weapon, it ripples and flows to reach a distant foe.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon + 3 reach",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you pull the target 4 squares."
+  },
+  "Give Chase": {
+    "id": "'13053",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Give Chase",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack keeps an enemy’s attention on you as you stay in motion around it.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of your next turn.",
+    "effect": "If the target triggers your blurred step power before the end of your next turn, you can teleport 5 squares with that power instead of shifting.",
+    "keyword": "Teleportation"
+  },
+  "Violent Ubiquity": {
+    "id": "'13054",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Violent Ubiquity",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack keeps the target off balance, as either it or one of your allies swap positions in a violent wrenching of reality.",
+    "keywords": [
+      "Augmentable, Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and you mark the target until the end of your next turn. You then teleport yourself and one ally within 5 squares of you, swapping positions."
+  },
+  "Baleful Teleport": {
+    "id": "'13055",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Baleful Teleport",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A crippling strike shunts your foe across the battlefield, then leaves it dazed.",
+    "keywords": [
+      "Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "2[W] + Constitution modifier damage, and you teleport the target 5 squares. The target is then dazed (save ends).",
+    "onMiss": "Half damage, and the target is dazed until the end of your next turn."
+  },
+  "Lion's Charge": {
+    "id": "'13056",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Lion's Charge",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You make springing charge attacks against two foes, even as you set your sights on a third.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "requirement": "You must charge and use this power in place of a melee basic attack.",
+    "target": "One or two creatures",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + 1d6 + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "If either attack hits, you can repeat the attack against a third creature, with a +2 bonus to the attack roll."
+  },
+  "Shattered Time": {
+    "id": "'13057",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Shattered Time",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your weapon attack disrupts the flow of time around you, allowing you to harry your foes’ attempts to attack your allies.",
+    "keywords": [
+      "Psionic, Weapon, Zone"
+    ],
+    "range": "Melee weapon",
+    "primaryTarget": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Before the attack, you shift to any unoccupied square adjacent to the triggering enemy that is within the zone.",
+    "sustainMinor": "The zone persists.",
+    "requirement": "The power Shattered Time must be active in order to use this power.",
+    "trigger": "An enemy within the zone makes an attack that does not include you as a target",
+    "secondaryTarget": "The triggering enemy",
+    "secondaryAttack": "Constitution vs. AC",
+    "secondaryOnHit": "1[W] + Constitution modifier damage, and you mark the secondary target until the end of your next turn."
+  },
+  "Strength of my Enemy": {
+    "id": "'13059",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Strength of my Enemy",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "When your attack weakens a foe, its fleeting strength drives your fury in battle.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "Constitution modifier damage, and the target is weakened (save ends).",
+    "onMiss": "The target is weakened until the end of your next turn.",
+    "effect": "While the target is weakened from this attack, your melee attacks deal 2d6 extra damage."
+  },
+  "Hone Weapon": {
+    "id": "'13060",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Hone Weapon",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You channel psionic power through your weapon, granting it a brutal advantage in battle.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Melee touch",
+    "target": "One weapon",
+    "effect": "Until the end of the encounter, the weapon gains the brutal 1 property. In addition, critical hits with the weapon deal 1d10 extra damage."
+  },
+  "Subjective Gravity": {
+    "id": "'13061",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Subjective Gravity",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "By altering reality, you ignore the effects of gravity as you move.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "effect": "Until the stance ends, you can move across any horizontal or vertical surface without having to climb. You can walk on walls and ceilings as if they were floors. You fall if you end the stance while on a surface on which you could not normally stand."
+  },
+  "Ubiquitous Vision": {
+    "id": "'13062",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Ubiquitous Vision",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your entire body becomes an extension of your eyes.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, enemies cannot gain combat advantage by flanking you, and you gain a +5 power bonus to Perception checks."
+  },
+  "Uncanny Senses": {
+    "id": "'13063",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Uncanny Senses",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Foes try in vain to hide from your heightened senses.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you can see invisible creatures and objects, and you gain a +5 power bonus to Insight checks and Perception checks."
+  },
+  "Intellect Snap": {
+    "id": "'13064",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Intellect Snap",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your weapon channels your psychic fury to distract and hinder your foe.",
+    "keywords": [
+      "Augmentable, Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Will",
+    "onHit": "2[W] + Constitution modifier psychic damage, and the target is dazed until the end of your next turn. In addition, you or one ally within 5 squares of you can make a saving throw against an effect that dazes or stuns."
+  },
+  "Kinetic Shield": {
+    "id": "'13065",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Kinetic Shield",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack summons up a psionic shield that protects nearby allies.",
+    "keywords": [
+      "Augmentable, Force, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "trigger": "An enemy hits you or an ally with an attack",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "2[W] + Constitution modifier force damage, and each ally adjacent to you gains a +2 power bonus to all defenses until the end of your next turn.",
+    "effect": "You have your normal standard action on your next turn."
+  },
+  "Parting Shot": {
+    "id": "'13066",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Parting Shot",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You move through your enemies like a shadow, striking hard with your weapon as you slip away.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "effect": "You shift your speed and can move through enemies’ spaces during this movement. Make the following attack against one enemy adjacent to you at any point during this movement.",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of your next turn."
+  },
+  "Unwavering Concentration": {
+    "id": "'13067",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Unwavering Concentration",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack focuses your mind and body to shield you from counterattacks.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy in burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. You gain a power bonus to all defenses equal to your Wisdom modifier until the end of your next turn."
+  },
+  "Aspect of the Raging Tempest": {
+    "id": "'13068",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Aspect of the Raging Tempest",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Lightning flares around the creature you strike, feeding back to grant you the power of the raging tempest.",
+    "keywords": [
+      "Lightning, Polymorph, Psionic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and ongoing 5 lightning damage (save ends).",
+    "onMiss": "Half damage.",
+    "effect": "When you hit with the at-will attack, you slide one enemy marked by you 1 square. That enemy then takes thunder damage equal to your Wisdom modifier.",
+    "keyword": "Thunder"
+  },
+  "Crushing Wave Strike": {
+    "id": "'13069",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Crushing Wave Strike",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your weapon attack is followed up by a blast of psionic power that knocks creatures to the ground.",
+    "keywords": [
+      "Force, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "primaryTarget": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "Make a secondary attack that is a close blast 5, and that must include the primary target as a target.",
+    "secondaryTarget": "Each creature in the blast",
+    "secondaryAttack": "Constitution vs. Fortitude",
+    "secondaryOnHit": "10 + Constitution modifier force damage, and you push the secondary target 2 squares and knock it prone."
+  },
+  "Precognitive Eye": {
+    "id": "'13070",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Precognitive Eye",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack inspires an enemy to focus on you in combat, and lets you use flashes of the future to distance yourself from your foes.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution + 4 vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of the encounter. No other mark can supersede this mark unless you permit it.",
+    "onMiss": "Half damage, and you mark the target until the end of your next turn.",
+    "effect": "You assume the precognitive eye stance. Until the stance ends, whenever any enemy marked by you moves, you can shift 1 square as a free action. In addition, you gain a +1 power bonus to attack rolls against enemies marked by you."
+  },
+  "Sonic Burst": {
+    "id": "'13071",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Sonic Burst",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You move with the speed of thunder, blasting your foes as you pass.",
+    "keywords": [
+      "Psionic, Thunder, Weapon"
+    ],
+    "range": "Close burst 1",
+    "effect": "You shift twice your speed and make the following attack at any point during this movement.",
+    "target": "Each creature in the burst",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "3[W] + Constitution modifier thunder damage, you push the target 3 squares, and the target is deafened (save ends).",
+    "onMiss": "Half damage, and you push the target 1 square."
+  },
+  "Inertial Barrier": {
+    "id": "'13072",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Inertial Barrier",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "An attack against you triggers a psionic barrier that shields you and your allies from harm.",
+    "keywords": [
+      "Psionic, Zone"
+    ],
+    "range": "Close burst 3",
+    "trigger": "You or an ally adjacent to you is hit by an attack",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. You and your allies gain resist 5 to all damage while within the zone. Any enemy that starts or ends its turn within the zone is pushed 1 square from the center of the zone. The zone is difficult terrain for enemies.",
+    "sustainMinor": "The zone persists."
+  },
+  "Instant Move": {
+    "id": "'13073",
+    "action": "Free",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Instant Move",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You blur across the battlefield to move into position for an attack, or to flee an enemy’s retribution.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You shift your speed.",
+    "special": "You can use this power only as the first or the last action of your turn."
+  },
+  "Resolute Recovery": {
+    "id": "'13074",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Resolute Recovery",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You shrug off a debilitating effect as you revitalize yourself in the midst of combat.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You gain temporary hit points equal to your Constitution modifier + one-half your level and remove one effect that a save can end. You then shift 1 square."
+  },
+  "Teleport Trigger": {
+    "id": "'13075",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Teleport Trigger",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You warp space around you, creating a means of quick escape for you and your allies.",
+    "keywords": [
+      "Conjuration, Psionic, Teleportation"
+    ],
+    "range": "Ranged 10",
+    "effect": "You conjure four shimmering teleport triggers in unoccupied squares within range. Each teleport trigger lasts until the end of the encounter or until expended. When you or an ally enters a square containing a teleport trigger, that character can expend the trigger as a free action to teleport 5 squares."
+  },
+  "Cloud of Dancing Blades": {
+    "id": "'13076",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Cloud of Dancing Blades",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A field of spectral blades fills the air around you, increasing your retribution against a foe that harms your allies.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 2",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "1[W] + Constitution modifier damage, and your mind spike power deals extra damage equal to your Constitution modifier until the end of your next turn.",
+    "effect": "Before the attack, you shift 4 squares to an unoccupied square adjacent to the triggering enemy.",
+    "keyword": "Zone",
+    "primaryTarget": "Each enemy in the burst",
+    "requirement": "The power Cloud of Dancing Blades must be active in order to use this power.",
+    "trigger": "An enemy willingly leaves the zone",
+    "secondaryTarget": "The triggering enemy",
+    "secondaryAttack": "Constitution vs. AC",
+    "secondaryOnHit": "The secondary target is immobilized until the end of your next turn."
+  },
+  "Dancing Strike": {
+    "id": "'13078",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Dancing Strike",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "In the aftermath of your attack, you deftly stay ahead of your foes’ ttempts to move around you.",
+    "keywords": "Force, Psychic",
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage. When you use your blurred step power before the end of your next turn, you can shift a number of squares equal to your Charisma modifier instead of shifting 1 square, and the creature that triggers your blurred step takes 5 force and psychic damage."
+  },
+  "Gravity Well": {
+    "id": "'13079",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Gravity Well",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack constrains a foe to its current location, hindering its ability to flee from you.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and the target cannot move or be pulled, pushed, or slid more than 2 squares from its current space until the end of your next turn."
+  },
+  "Open the Way": {
+    "id": "'13080",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Open the Way",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Space ripples around you, letting you attack a foe beyond your reach, then drawing you to that enemy’s side.",
+    "keywords": [
+      "Augmentable, Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon + 2 reach",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you teleport to a square adjacent to the target.",
+    "effect": "Before the attack, you teleport 5 squares."
+  },
+  "Aspect of Squamous Horror": {
+    "id": "'13081",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Aspect of Squamous Horror",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack pushes your enemies back, wracking them with fear as you take on the form of a hideous scaled beast.",
+    "keywords": [
+      "Fear, Polymorph, Psionic, Psychic, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you push the target 3 squares.",
+    "onMiss": "Half damage.",
+    "effect": "Choose one creature hit by the at-will attack. That creature moves its speed away from you by the safest route possible as a free action."
+  },
+  "Dimensional Ambush": {
+    "id": "'13082",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Dimensional Ambush",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your power bends the space around you, letting you strike a distant foe, then forcing that foe back as you appear at its side to strike again.",
+    "keywords": [
+      "Psionic, Psychic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon + 3 reach",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "5 + Constitution modifier psychic damage, and you slide the target 1 square.",
+    "onMiss": "Half damage, and you slide the target 1 square.",
+    "effect": "You teleport to a square adjacent to the space the target occupied before the slide. Make a secondary attack against the target.",
+    "secondaryAttack": "Constitution vs. AC",
+    "secondaryOnHit": "3[W] + Constitution modifier damage, and you mark the target until the end of your next turn.",
+    "secondaryOnMiss": "Half damage, and you mark the target until the end of your next turn.",
+    "secondaryeffect": "You teleport 5 squares."
+  },
+  "Focus Bind": {
+    "id": "'13083",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Focus Bind",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You tempt an enemy’s wrath as you focus your rage on it, setting up a confrontation that only one of you will survive.",
+    "keywords": [
+      "Psionic, Psychic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage plus 3d10 psychic damage, and you mark the target until the end of the encounter. No other mark can supersede this mark unless you permit it.",
+    "onMiss": "Half damage, and you mark the target until the end of your next turn.",
+    "effect": "Until the mark imposed by this power ends, you are treated as if you are marked by the target, and whenever you or the target moves, the other can move the same number of squares as a free action or shift 1 square as a free action."
+  },
+  "Temporal Regression": {
+    "id": "'13084",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Temporal Regression",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You slip back through time to escape the fight around you,choosing  a more advantageous position when you reappear",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC. Make the attack twice.",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "At the start of your next turn, you are removed from play. At the start of your following turn, you reappear in an unoccupied space within 5 squares of the space you last occupied."
+  },
+  "Deaden Blow": {
+    "id": "'13085",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Deaden Blow",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You sense the attack coming even before you see it, transforming your body to protect it from harm.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You take damage from an attack",
+    "effect": "You are insubstantial until the end of your next turn."
+  },
+  "Fearless Mindset": {
+    "id": "'13086",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Fearless Mindset",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your strength of mind lets you shrug off fear and your foes’ attempts to draw you into combat.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "effect": "You are no longer marked, and you assume the fearless mind set stance. Until the stance ends, you gain a +4 power bonus to Will, a +5 power bonus to saving throws against fear effects, and you cannot be marked."
+  },
+  "Mental Haven": {
+    "id": "'13087",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Mental Haven",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "By opening a portal into your own mind, you are temporarily shunted out of the world, then invigorated on your return.",
+    "keywords": [
+      "Healing, Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You are removed from play. At the end of your next turn, you regain hit points equal to your bloodied value or you regain the use of an encounter power you have already used in this encounter. You then reappear in any unoccupied space within 5 squares of the space you last occupied."
+  },
+  "Wings of Elevated Thought": {
+    "id": "'13088",
+    "action": "Minor",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Wings of Elevated Thought",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your power of thought lifts you free of the battlefield.",
+    "keywords": [
+      "Psionic, Stance"
+    ],
+    "range": "Personal",
+    "effect": "You assume the wings of elevated thought stance. Until the stance ends, you gain a fly speed of 6, but you descend safely to the ground at the end of each of your turns."
+  },
+  "Crushing Vortex": {
+    "id": "'13089",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Crushing Vortex",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "The power of your attack manifests as a force vortex that lashes out against another foe.",
+    "keywords": [
+      "Augmentable, Force, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage.",
+    "keyword": "Zone",
+    "effect": "Your space and each square adjacent to you becomes a zone that lasts until the end of your next turn. When a creature within the zone takes damage from an attack, each enemy within the zone takes force damage equal to your Constitution modifier."
+  },
+  "Double Vision": {
+    "id": "'13090",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Double Vision",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack leaves a foe reeling, and lets you channel psionic power to fling yourself or the enemy across the battlefield.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and the target is dazed until the end of your next turn. Also until the end of your next turn, when you or any ally hits the target, you can teleport yourself or the target 3 squares as a free action.",
+    "keyword": "Teleportation"
+  },
+  "Iron Presence": {
+    "id": "'13091",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Iron Presence",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A vicious strike magnifies your presence in your enemy’s mind, compelling it to focus on your threat.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of the encounter, until you use this power again, or until you use your battlemind’s demand power.",
+    "effect": "Until the end of your next turn, your battlemind’s demand power targets two creatures in the burst."
+  },
+  "Reality Shuffle": {
+    "id": "'13092",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Reality Shuffle",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "The force of your attack warps reality, leaving you and your enemy in different positions in the blink of an eye.",
+    "keywords": [
+      "Augmentable, Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon + 3 reach",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage. You teleport the target 3 squares and then teleport 3 squares."
+  },
+  "Blazing Offensive": {
+    "id": "'13093",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Blazing Offensive",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You become a streak of flame that blurs across the battlefield, devastating your foes with psionic fire.",
+    "keywords": [
+      "Fire, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "effect": "You shift three times your speed and make the following attack against one, two, or three creatures during this movement.",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "Ongoing 40 fire damage (save ends).",
+    "onMiss": "Ongoing 20 fire damage (save ends)."
+  },
+  "Stolen Vigor": {
+    "id": "'13094",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Stolen Vigor",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your weapon attack leaves a foe weakened, its stolen strength replenishing your own vigor.",
+    "keywords": [
+      "Healing, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "4[W] + Constitution modifier damage. In addition, the target is weakened, and you regain 10 hit points at the start of each of the target’s turns (save ends both). While the target is adjacent to you, it takes a -2 penalty to saving throws against this effect.",
+    "onMiss": "Half damage, and the target is weakened until the end of your next turn. At the start of the target’s next turn, you regain 10 hit points."
+  },
+  "Sublime Fury": {
+    "id": "'13095",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Sublime Fury",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack incites a frenzy for battle that lets you lay waste to your foes.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "6[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "You assume the sublime fury stance. Until the stance ends, you take a -2 penalty to attack rolls and your unaugmented battlemind at-will melee attacks deal 2d6 extra damage. In addition, whenever you reduce a nonminion creature to 0 hit points, you make a melee basic attack as a free action."
+  },
+  "Temporal Reiteration": {
+    "id": "'13096",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Temporal Reiteration",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your strike pulls an enemy toward you, then forces it back to its previous location to relive your attack.",
+    "keywords": [
+      "Psionic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and you teleport the target to a square adjacent to you.",
+    "onMiss": "Half damage.",
+    "effect": "As a free action at either the start or the end of the target’s next turn, you teleport the target to the space it occupied when you targeted it with this power. Make a secondary attack against the target, even if you are no longer within melee reach.",
+    "secondaryAttack": "Constitution vs. AC",
+    "secondaryOnHit": "1[W] + Constitution modifier damage."
+  },
+  "Brandished Promise": {
+    "id": "'13097",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Brandished Promise",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You lash out at foes close by, hoping to draw their ire and their attacks to you.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. Will",
+    "onHit": "2[W] + Constitution modifier damage, and you mark the target until the end of your next turn."
+  },
+  "Elusive Ghost": {
+    "id": "'13098",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Elusive Ghost",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You strike, then teleport away to deny your enemies an easy counterattack.",
+    "keywords": [
+      "Augmentable, Psionic, Teleportation, Weapon"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy you can see in the burst",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage.",
+    "effect": "You teleport 5 squares."
+  },
+  "Imprisoned Mind": {
+    "id": "'13099",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Imprisoned Mind",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack binds your enemy’s thoughts, limiting its tactical movement.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "3[W] + Constitution modifier damage, and the target cannot shift until the end of your next turn. In addition, you gain a +3 power bonus to opportunity attack rolls against the target until the end of your next turn."
+  },
+  "Obsidian Shield (Battlemind)": {
+    "id": "'13100",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Obsidian Shield (Battlemind)",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A shadowy shield presses your foes and can hinder their movement.",
+    "keywords": [
+      "Augmentable, Necrotic, Psionic, Psychic, Weapon"
+    ],
+    "range": "Close blast 3",
+    "target": "Each enemy in the blast",
+    "attack": "Constitution vs. Fortitude",
+    "onHit": "3[W] + Constitution modifier necrotic and psychic damage. In addition, if the target moves more than 2 squares away from you on its next turn, it takes 10 necrotic and psychic damage."
+  },
+  "Darting Grace Strike": {
+    "id": "'13101",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Darting Grace Strike",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You flit across the battlefield, avoiding your enemies as your attacks grant you a lethal grace.",
+    "keywords": [
+      "Psionic, Stance, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One, two, or three creatures",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "3[W] + Constitution modifier damage, and the target is dazed (save ends). If the target is already dazed, the attack deals 5 extra damage.",
+    "onMiss": "Half damage.",
+    "effect": "You shift 4 squares, and the triggering enemy grants combat advantage to you until the end of your next turn.",
+    "requirement": "The power Darting Grace Strike must be active in order to use this power.",
+    "trigger": "An enemy misses you with an attack"
+  },
+  "Killing Wind Assault": {
+    "id": "'13103",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Killing Wind Assault",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You vanish before your enemies’ eyes, becoming the unseen wind that unleashes death on the battlefield.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "effect": "Until the end of the encounter, you gain a +4 power bonus to speed, and you are invisible while moving.",
+    "target": "One creature",
+    "attack": "Constitution vs. Reflex",
+    "onHit": "5[W] + Constitution modifier damage, and you knock the target prone.",
+    "onMiss": "Half damage."
+  },
+  "Many Doors Curse": {
+    "id": "'13104",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Many Doors Curse",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack binds the target to you, wracking it with pain as you fling it across the battlefield.",
+    "keywords": [
+      "Psionic, Psychic, Teleportation, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "4[W] + Constitution modifier damage.",
+    "onMiss": "Half damage.",
+    "effect": "The target is subject to your many doors curse (save ends). While the target is affected by your many doors curse, the first time each turn that the target takes damage from an attack, you can teleport it to a square adjacent to you or an ally you can see as a free action. When you teleport the target this way, it takes 10 psychic damage."
+  },
+  "Omniscient Strike": {
+    "id": "'13105",
+    "action": "Immediate Interrupt",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Omniscient Strike",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "As your chosen foe prepares to strike, you sabotage its attack by making a vicious attack of your own.",
+    "keywords": [
+      "Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "trigger": "An enemy marked by you targets you with a melee attack",
+    "effect": "If you have no power points remaining, you regain 2 power points.",
+    "target": "The triggering enemy",
+    "attack": "Constitution vs. AC. You have combat advantage for this attack.",
+    "onHit": "4[W] + Constitution modifier damage, and the target is stunned (save ends).",
+    "onMiss": "Half damage, and the target is dazed (save ends)."
+  },
+  "Shade Strike": {
+    "id": "'13466",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Shade Strike",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 391",
+    "flavor": "Wisps of shadow bind you to your foe, obscuring its attempts to strike back at you.",
+    "keywords": [
+      "Augmentable, Psionic, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage. Until you end your turn in a square not adjacent to the target, you and allies adjacent to you have concealment against the target."
+  },
+  "Ghost Jaunt": {
+    "id": "'13468",
+    "action": "Move",
+    "powerClass": "Battlemind",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Ghost Jaunt",
+    "type": "Utility",
+    "sourceRef": "Dragon Magazine 391",
+    "flavor": "You vanish from an enemy’s sight, slipping past other foes as you move into attack position.",
+    "keywords": [
+      "Illusion, Psionic"
+    ],
+    "range": "Ranged 5",
+    "target": "One creature marked by you",
+    "effect": "You become invisible to the target, then shift 5 squares to a square adjacent to the target. This invisibility last until the end of your turn or until you make an attack."
+  },
+  "Living Shard": {
+    "id": "'16492",
+    "action": "Standard",
+    "powerClass": "Battlemind",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Living Shard",
+    "type": "Attack",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "Your strike embeds a crystalline fragment in your enemy’s flesh, overwhelming it with psionic energy channeled from the Living Gate.",
+    "keywords": [
+      "Psionic, Radiant, Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One creature",
+    "attack": "Constitution vs. AC",
+    "onHit": "2[W] + Constitution modifier damage, and the target is dazed and gains vulnerable 5 psychic (save ends both).",
+    "onMiss": "Half damage, and the target gains vulnerable 5 psychic (save ends).",
+    "effect": "Until the vulnerability ends, the target takes 10 radiant damage whenever it uses a psychic power."
+  }
+}

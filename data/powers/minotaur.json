@@ -1,0 +1,23 @@
+{
+  "Goring Charge": {
+    "id": "'2480",
+    "action": "Standard",
+    "powerClass": "Minotaur",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Goring Charge",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You charge the enemy and gore it with your horns.",
+    "keywords": [
+      " Melee 1  Effect: You charge and make the following attack in place of a melee basic attack.   Target: One creature   Attack: Strength + 4 vs. AC, Constitution + 4 vs. AC, or Dexterity + 4 vs. AC."
+    ],
+    "range": "Melee 1",
+    "effect": "You charge and make the following attack in place of a melee basic attack.",
+    "target": "One creature",
+    "attack": "Strength + 4 vs. AC, Constitution + 4 vs. AC, or Dexterity + 4 vs. AC.<br/>Increase the bonus to attack rolls to +6 at 11th level and +8 at 21st level.",
+    "onHit": "1d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage, and you knock the target prone.",
+    "level11": "2d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage.",
+    "level21": "3d6 + Strength modifier, Constitution modifier, or Dexterity modifier damage."
+  }
+}

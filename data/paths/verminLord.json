@@ -3,7 +3,7 @@
     "prerequisite": "Druid, evil alignment",
     "sourceRef": "The Book of Vile Darkness",
     "name": "Vermin Lord",
-    "text": "Your enduring interest in the lowliest creatures grants you power over them. You cement your connection when you invite vermin to inhabit your body, to nestle in your crevices and drink deep on your fluids. In exchange, the clicking and skittering creatures serve your command, lending their power to your efforts in championing darkness.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The vermin respond each time you wield primal magic. The more accustomed you are to these parasites, the more you learn to direct them in useful ways. Still, the cost to your body is severe. Forever more, your flesh bears the signs of the infestation you host.",
+    "text": "Your enduring interest in the lowliest creatures grants you power over them. You cement your connection when you invite vermin to inhabit your body, to nestle in your crevices and drink deep on your fluids. In exchange, the clicking and skittering creatures serve your command, lending their power to your efforts in championing darkness.<br/> The vermin respond each time you wield primal magic. The more accustomed you are to these parasites, the more you learn to direct them in useful ways. Still, the cost to your body is severe. Forever more, your flesh bears the signs of the infestation you host.",
     "features": {
         "verminAction(11thLevel)": "When you spend an action point to take an extra action, each enemy adjacent to you takes poison damage equal to your Wisdom modifier, and you and each ally adjacent to you gain a +2 power bonus to all defenses until the end of your next turn",
         "verminFriend(11thLevel)": "You gain resist 10 poison",

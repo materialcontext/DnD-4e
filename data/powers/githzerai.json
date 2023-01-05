@@ -1,0 +1,19 @@
+{
+  "Iron Mind": {
+    "id": "'2475",
+    "action": "Immediate Interrupt",
+    "powerClass": "Githzerai",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Iron Mind",
+    "type": "Racial",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Under the brunt of an attack, you use the power of your mind to fortify yourself against harm.",
+    "keywords": [
+      " Personal   Trigger: You are hit by an attack.  Effect: You gain a +2 bonus to all defenses until the end of your next turn. "
+    ],
+    "range": "Personal",
+    "trigger": "You are hit by an attack.",
+    "effect": "You gain a +2 bonus to all defenses until the end of your next turn."
+  }
+}

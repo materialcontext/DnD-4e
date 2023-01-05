@@ -1,0 +1,55 @@
+{
+  "Grounding Attack": {
+    "id": "'5991",
+    "action": "Standard",
+    "powerClass": "Wyrm-Hunter",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Grounding Attack",
+    "type": "",
+    "sourceRef": "Dragon Magazine 369",
+    "flavor": "Taking careful aim, you deliver a swift blow to the dragon’s wing,  sending the great beast crashing down.",
+    "keywords": [
+      "Martial"
+    ],
+    "range": "Melee or Ranged weapon",
+    "target": "One creature",
+    "attack": "Strength vs. Fortitude (melee) or Dexterity vs. AC (ranged)",
+    "onHit": "2[W] + Strength modifier damage (melee) or 2[W] + Dexterity modifier (ranged). You can also deal +1[W], or the target cannot fly until the end of your next turn. If the target is flying when it loses the ability to fly, it falls."
+  },
+  "Into the Fire": {
+    "id": "'5992",
+    "action": "Immediate Reaction",
+    "powerClass": "Wyrm-Hunter",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Into the Fire",
+    "type": "",
+    "sourceRef": "Dragon Magazine 369",
+    "flavor": "Even as the flames crackle around you, burning your flesh, you take advantage of the distraction they provide to move in on your foe.",
+    "keywords": [
+      " Personal   Trigger: An enemy targets you with a close or area attack.  Effect: You shift a number of squares equal to your speed. "
+    ],
+    "range": "Personal",
+    "trigger": "An enemy targets you with a close or area attack.",
+    "effect": "You shift a number of squares equal to your speed."
+  },
+  "Deadly Aim": {
+    "id": "'5993",
+    "action": "Standard",
+    "powerClass": "Wyrm-Hunter",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Deadly Aim",
+    "type": "",
+    "sourceRef": "Dragon Magazine 369",
+    "flavor": "The dragon shrieks in pain, unaware that this was merely a ranging shot for a far deadlier attack to come.",
+    "keywords": [
+      "Martial, Weapon"
+    ],
+    "range": "Melee or Ranged weapon",
+    "target": "One creature",
+    "attack": "Strength vs. AC (melee) or Dexterity vs. AC (ranged)",
+    "onHit": "3[W] + Strength modifier damage (melee) or 3[W] + Dexterity modifier (ranged). In addition, your next attack that hits the target, if it occurs before the end of your next turn, deals +3[W] damage."
+  }
+}

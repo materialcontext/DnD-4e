@@ -908,7 +908,7 @@
       "Polymorph, Primal, Weapon"
     ],
     "range": "Personal",
-    "effect": "You assume the form of wood and stone until the end of the encounter. While you are in this form, you and all allies adjacent to you gain resist 5 to all damage and cannot be pulled, pushed, or slid unless you or the ally adjacent to you chooses to be.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Once before the end of the encounter while you are in this form, you can use the Of Wood and Stone Attack power.",
+    "effect": "You assume the form of wood and stone until the end of the encounter. While you are in this form, you and all allies adjacent to you gain resist 5 to all damage and cannot be pulled, pushed, or slid unless you or the ally adjacent to you chooses to be.<br/> Once before the end of the encounter while you are in this form, you can use the Of Wood and Stone Attack power.",
     "requirement": "The power Of Wood and Stone must be active in order to use this power.",
     "target": "Each enemy in the burst you can see",
     "attack": "Primary ability vs. Fortitude",
@@ -1695,7 +1695,7 @@
     "sourceRef": "Dragon Magazine 399",
     "flavor": "You apply powerful acid to a metal object.",
     "keywords": [
-      "&nbsp;&nbsp;Melee 1</p><p class=\"flavor\">Requirement: You must have an alchemy case on your person.</p><p class=\"powerstat\">Target: One metal object</p><p class=\"flavor\">Effect: The next creature that attempts a Thievery or Strength check to open, break, bend, or destroy the target before the end of your next turn gains a +5 power bonus to that check.</p>"
+      " Melee 1  Requirement: You must have an alchemy case on your person.  Target: One metal object  Effect: The next creature that attempts a Thievery or Strength check to open, break, bend, or destroy the target before the end of your next turn gains a +5 power bonus to that check. "
     ],
     "range": "Melee 1",
     "requirement": "You must have an alchemy case on your person.",
@@ -1822,7 +1822,7 @@
     "target": "Each creature in the burst",
     "attack": "Highest ability modifier vs. Reflex",
     "onHit": "1d10 + highest ability modifier fire damage.",
-    "effect": "The burst creates a zone that lasts until the start of your next turn. Any creature that enters the zone or ends its turn there takes 5 fire damage. A creature can take this damage only once per turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 fire damage."
+    "effect": "The burst creates a zone that lasts until the start of your next turn. Any creature that enters the zone or ends its turn there takes 5 fire damage. A creature can take this damage only once per turn.<br/> Level 11: 10 fire damage.<br/> Level 21: 15 fire damage."
   },
   "Extension": {
     "id": "'14124",
@@ -1891,7 +1891,7 @@
     "range": "Ranged 5",
     "target": "One creature",
     "attack": "Highest ability modifier vs. Will",
-    "onHit": "1d8 + highest ability modifier radiant damage, and the target is dazed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 + highest ability modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 + highest ability modifier radiant damage."
+    "onHit": "1d8 + highest ability modifier radiant damage, and the target is dazed until the end of your next turn.<br/> Level 11: 2d8 + highest ability modifier radiant damage.<br/> Level 21: 3d8 + highest ability modifier radiant damage."
   },
   "Disappear": {
     "id": "'14128",
@@ -1959,7 +1959,7 @@
     "target": "One enemy",
     "attack": "Highest ability modifier vs. AC",
     "onHit": "1[W] + highest ability modifier damage.",
-    "effect": "Choose one ally within 3 squares of you. That ally gains a +2 bonus to all defenses until the end of your next turn. He or she also gains temporary hit points equal to 3 + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2[W] + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3[W] + highest ability modifier damage."
+    "effect": "Choose one ally within 3 squares of you. That ally gains a +2 bonus to all defenses until the end of your next turn. He or she also gains temporary hit points equal to 3 + one-half your level.<br/> Level 11: 2[W] + highest ability modifier damage.<br/> Level 21: 3[W] + highest ability modifier damage."
   },
   "Shining Symbol": {
     "id": "'14132",
@@ -1977,7 +1977,7 @@
     "range": "Close blast 3",
     "target": "Each enemy in the blast",
     "attack": "Highest ability modifier vs. Will",
-    "onHit": "1d8 + highest ability modifier radiant damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 + highest ability modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 + highest ability modifier radiant damage."
+    "onHit": "1d8 + highest ability modifier radiant damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.<br/> Level 11: 2d8 + highest ability modifier radiant damage.<br/> Level 21: 3d8 + highest ability modifier radiant damage."
   },
   "Word of Comfort": {
     "id": "'14134",
@@ -2046,7 +2046,7 @@
     ],
     "range": "Personal",
     "trigger": "You succeed on a monster knowledge check against a monster that you can see or hear.",
-    "effect": "If your check result meets or exceeds the hard DC for the monster’s level, you gain a +4 power bonus to all defenses against the monster's attacks until the end of your next turn. Additionally, until the end of your next turn, you gain a power bonus to damage rolls against the target equal to your Intelligence modifier, but not when you deal damage that the target resists.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your check result does not meet or exceed the hard DC, your attacks against the target deal only half damage until the end of your next turn."
+    "effect": "If your check result meets or exceeds the hard DC for the monster’s level, you gain a +4 power bonus to all defenses against the monster's attacks until the end of your next turn. Additionally, until the end of your next turn, you gain a power bonus to damage rolls against the target equal to your Intelligence modifier, but not when you deal damage that the target resists.<br/> If your check result does not meet or exceed the hard DC, your attacks against the target deal only half damage until the end of your next turn."
   },
   "Useful Lore": {
     "id": "'14138",
@@ -2317,7 +2317,7 @@
     "range": "Close burst 5",
     "trigger": "An ally within 5 squares of you takes damage from an enemy attack.",
     "target": "The triggering ally",
-    "effect": "The target regains hit points equal to your Wisdom modifier or Charisma modifier. Until the end of your next turn, you gain a +2 power bonus to your next attack roll against the enemy that damaged the target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The target regains hit points equal to 5 + your Wisdom modifier or Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The target regains hit points equal to 10 + your Wisdom modifier or Charisma modifier."
+    "effect": "The target regains hit points equal to your Wisdom modifier or Charisma modifier. Until the end of your next turn, you gain a +2 power bonus to your next attack roll against the enemy that damaged the target.<br/> Level 11: The target regains hit points equal to 5 + your Wisdom modifier or Charisma modifier.<br/> Level 21: The target regains hit points equal to 10 + your Wisdom modifier or Charisma modifier."
   },
   "Hospitaler's Prayer": {
     "id": "'14155",
@@ -2520,7 +2520,7 @@
     "effect": "You move up to your speed and make the following attack at any point during your move. This movement does not provoke an opportunity attack from the target.",
     "target": "One creature",
     "attack": "Highest ability modifier vs. Reflex",
-    "onHit": "1[W] + highest ability modifier damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2[W] + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3[W] + highest ability modifier damage."
+    "onHit": "1[W] + highest ability modifier damage, and the target is slowed until the end of your next turn.<br/> Level 11: 2[W] + highest ability modifier damage.<br/> Level 21: 3[W] + highest ability modifier damage."
   },
   "Infuriating Taunt": {
     "id": "'14168",
@@ -2722,7 +2722,7 @@
     ],
     "range": "Close burst 5",
     "target": "One ally in the burst",
-    "effect": "The target gains a +2 power bonus to all defenses until the start of your next turn and 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+    "effect": "The target gains a +2 power bonus to all defenses until the start of your next turn and 5 temporary hit points.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points."
   },
   "Honorable Challenge (Neverwinter Noble)": {
     "id": "'14181",
@@ -2922,7 +2922,7 @@
       "Polymorph, Primal"
     ],
     "range": "Personal",
-    "effect": "You change from your humanoid form to the form of a Tiny rat, or vice versa. When you change from rat form to humanoid form, you can shift 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in rat form, you cannot attack. You retain your game statistics, but gain a climb speed equal to half your normal speed, and a +4 bonus to Stealth checks. Your equipment becomes part of your rat form, and you drop any other items you are holding. You continue to gain the benefits of the equipment you wear, except shields and item powers. While equipment is part of your rat form, it cannot be removed, and anything in a container that is part of your rat form is inaccessible.",
+    "effect": "You change from your humanoid form to the form of a Tiny rat, or vice versa. When you change from rat form to humanoid form, you can shift 1 square.<br/> While in rat form, you cannot attack. You retain your game statistics, but gain a climb speed equal to half your normal speed, and a +4 bonus to Stealth checks. Your equipment becomes part of your rat form, and you drop any other items you are holding. You continue to gain the benefits of the equipment you wear, except shields and item powers. While equipment is part of your rat form, it cannot be removed, and anything in a container that is part of your rat form is inaccessible.",
     "special": "You can use this power only once per round."
   },
   "Hybrid Bite": {
@@ -2943,8 +2943,8 @@
     "special": "You can use this power only once per round.",
     "requirement": "The power Hybrid Bite must be active in order to use this power.",
     "target": "One creature",
-    "secondaryAttack": "Strength or Dexterity vs. AC. You gain a +4 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
-    "secondaryOnHit": "1d8 + Strength modifier or Dexterity modifier damage and ongoing 5 damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Strength modifier or Dexterity modifier damage."
+    "secondaryAttack": "Strength or Dexterity vs. AC. You gain a +4 bonus to the attack roll.<br/> Level 21: The bonus increases to +6.",
+    "secondaryOnHit": "1d8 + Strength modifier or Dexterity modifier damage and ongoing 5 damage (save ends).<br/> Level 21: 2d8 + Strength modifier or Dexterity modifier damage."
   },
   "Savage Hiss": {
     "id": "'14195",
@@ -3127,7 +3127,7 @@
       "Polymorph, Primal"
     ],
     "range": "Personal",
-    "effect": "You change from your humanoid form to the form of a wolf, or vice versa. When you change from wolf form to humanoid form, you can shift 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in wolf form, you retain your normal game statistics and size, but gain a +1 bonus to speed. Your equipment becomes part of your wolf form. You continue to gain the benefits of the equipment you wear, except shields and item powers. While equipment is part of your wolf form, it cannot be removed, and anything in a container that is part of your wolf form is inaccessible.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You gain proficiency with your bite while in wolf form. Treat your bite as a melee weapon with a +3 proficiency bonus, a 1d8 damage die, and the enhancement bonus of your primary weapon.",
+    "effect": "You change from your humanoid form to the form of a wolf, or vice versa. When you change from wolf form to humanoid form, you can shift 1 square.<br/> While in wolf form, you retain your normal game statistics and size, but gain a +1 bonus to speed. Your equipment becomes part of your wolf form. You continue to gain the benefits of the equipment you wear, except shields and item powers. While equipment is part of your wolf form, it cannot be removed, and anything in a container that is part of your wolf form is inaccessible.<br/> You gain proficiency with your bite while in wolf form. Treat your bite as a melee weapon with a +3 proficiency bonus, a 1d8 damage die, and the enhancement bonus of your primary weapon.",
     "special": "You can use this power only once per round."
   },
   "Bite of the Wolf": {
@@ -3177,7 +3177,7 @@
       "Polymorph, Primal"
     ],
     "range": "Personal",
-    "effect": "You change into a hybrid form, combining the most fearsome aspects of wolf and humanoid. You retain all your equipment, armor, and weapons, and can use them normally. You gain temporary hit points equal to 10 + your Constitution modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You gain proficiency with your bite while in hybrid form. Treat your bite as a melee weapon with a +3 proficiency bonus, a 1d8 damage die, and the enhancement bonus of your primary weapon.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You also gain the following benefits while in your hybrid form:<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; +2 power bonus to Fortitude, Athletics checks, Intimidate checks, and damage rolls.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; +2 power bonus to speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You can end the effect and resume your normal form as a free action on your turn."
+    "effect": "You change into a hybrid form, combining the most fearsome aspects of wolf and humanoid. You retain all your equipment, armor, and weapons, and can use them normally. You gain temporary hit points equal to 10 + your Constitution modifier.<br/> You gain proficiency with your bite while in hybrid form. Treat your bite as a melee weapon with a +3 proficiency bonus, a 1d8 damage die, and the enhancement bonus of your primary weapon.<br/> You also gain the following benefits while in your hybrid form:<br/><img src=\"images/bullet.gif\" alt=\"\"/>  +2 power bonus to Fortitude, Athletics checks, Intimidate checks, and damage rolls.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  +2 power bonus to speed.<br/> You can end the effect and resume your normal form as a free action on your turn."
   },
   "Scholar of Ancient Ways": {
     "id": "'14209",
@@ -3310,7 +3310,7 @@
       "Arcane, Fire, Zone"
     ],
     "range": "Close burst 2",
-    "effect": "Creatures in the burst take 5 fire damage. The burst creates a zone that lasts until the end of your next turn. While in the zone, enemies take a -2 penalty to attack rolls and all defenses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 7 fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 10 fire damage."
+    "effect": "Creatures in the burst take 5 fire damage. The burst creates a zone that lasts until the end of your next turn. While in the zone, enemies take a -2 penalty to attack rolls and all defenses.<br/> Level 11: 7 fire damage.<br/> Level 21: 10 fire damage."
   },
   "Traitor's Brand": {
     "id": "'14218",
@@ -3443,7 +3443,7 @@
     "sourceRef": "Neverwinter Campaign Setting",
     "flavor": "Calling on the magic inherent in your bloodline, you rise into the air as lightly as a feather on the wind.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage.</p>"
+      " Personal   Effect: You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage. "
     ],
     "range": "Personal",
     "effect": "You can fly up to 4 squares vertically and 1 square horizontally, and hover there until the end of your next turn. You have an altitude limit of 4, but if some effect causes you to exceed this limit, you immediately descend to 4 squares above the ground after resolving the effect. When this flight ends, you descend to the ground, taking no falling damage."
@@ -3459,7 +3459,7 @@
     "sourceRef": "Neverwinter Campaign Setting",
     "flavor": "With focused concentration, you keep yourself aloft to gain the advantage over your foes.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You use levitation.</p><p class=\"flavor\">Effect: You gain the ability to sustain levitation. This ability lasts until the end of the encounter.</p><p class=\"powerstat\">Sustain Move: Levitation persists until the end of your next turn, and you can move up to 3 squares vertically or 1 square horizontally.</p>"
+      " Personal   Trigger: You use levitation.  Effect: You gain the ability to sustain levitation. This ability lasts until the end of the encounter.  Sustain Move: Levitation persists until the end of your next turn, and you can move up to 3 squares vertically or 1 square horizontally. "
     ],
     "range": "Personal",
     "trigger": "You use levitation.",
@@ -3530,7 +3530,7 @@
     ],
     "range": "Close burst 2",
     "trigger": "You hit an enemy with a charge attack.",
-    "effect": "That enemy takes 1d6 extra damage from the triggering attack, and you make the following attack.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 extra damage.",
+    "effect": "That enemy takes 1d6 extra damage from the triggering attack, and you make the following attack.<br/> Level 11: 2d6 extra damage.<br/> Level 21: 3d6 extra damage.",
     "target": "Each enemy in the burst",
     "attack": "Highest ability modifier vs. Will",
     "onHit": "You push the target up to 2 squares. The target takes a -2 penalty to attack rolls until the end of your next turn."
@@ -3721,7 +3721,7 @@
     "range": "Melee 1",
     "trigger": "You hit a creature adjacent to you with an attack.",
     "target": "The triggering creature",
-    "effect": "You take 1d6 necrotic damage, and the target takes 1d12 extra necrotic damage from the attack.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: You take 2d6 necrotic damage, and the target takes 2d12.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: You take 3d6 necrotic damage, and the target takes 3d12."
+    "effect": "You take 1d6 necrotic damage, and the target takes 1d12 extra necrotic damage from the attack.<br/> Level 11: You take 2d6 necrotic damage, and the target takes 2d12.<br/> Level 21: You take 3d6 necrotic damage, and the target takes 3d12."
   },
   "Dark Focus": {
     "id": "'14323",
@@ -3851,7 +3851,7 @@
     "sourceRef": "Dragon Magazine 401",
     "flavor": "You seize one opportunity, then another.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Requirement: You must have fewer than two Fortune Cards in your hand.</p><p class=\"powerstat\">Effect: Draw two cards from your Fortune Card deck. Put one of those cards into your hand, and discard the other.</p>"
+      " Personal   Requirement: You must have fewer than two Fortune Cards in your hand.  Effect: Draw two cards from your Fortune Card deck. Put one of those cards into your hand, and discard the other. "
     ],
     "range": "Personal",
     "requirement": "You must have fewer than two Fortune Cards in your hand.",
@@ -3868,7 +3868,7 @@
     "sourceRef": "Dragon Magazine 401",
     "flavor": "You read the flow of fate, creating a decisive advantage for your allies.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 5</p><p class=\"flavor\">Requirement: You must discard a Fortune Card.</p><p class=\"powerstat\">Target: Each ally in the burst</p><p class=\"flavor\">Effect: If the card you discarded was an Attack card, each target gains a +4 power bonus to the next damage roll he or she makes before the end of your next turn. If it was a Tactics card, you slide each target up to 2 squares. If it was a Defense card, each target gains a +2 power bonus to all defenses until the end of your next turn.</p>"
+      " Close burst 5  Requirement: You must discard a Fortune Card.  Target: Each ally in the burst  Effect: If the card you discarded was an Attack card, each target gains a +4 power bonus to the next damage roll he or she makes before the end of your next turn. If it was a Tactics card, you slide each target up to 2 squares. If it was a Defense card, each target gains a +2 power bonus to all defenses until the end of your next turn. "
     ],
     "range": "Close burst 5",
     "requirement": "You must discard a Fortune Card.",
@@ -3886,7 +3886,7 @@
     "sourceRef": "Dragon Magazine 401",
     "flavor": "Fortune smiles broadly on you in troubled times.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Requirement: You must have expended all your encounter attack powers.</p><p class=\"powerstat\">Effect: Draw three cards from your Fortune Card deck. Until the end of the encounter, you can have up to three Fortune Cards in your hand. You can still play only one in a round, but you can draw a card at the start of your turn if your hand contains fewer than three cards.</p>"
+      " Personal   Requirement: You must have expended all your encounter attack powers.  Effect: Draw three cards from your Fortune Card deck. Until the end of the encounter, you can have up to three Fortune Cards in your hand. You can still play only one in a round, but you can draw a card at the start of your turn if your hand contains fewer than three cards. "
     ],
     "range": "Personal",
     "requirement": "You must have expended all your encounter attack powers.",
@@ -4072,7 +4072,7 @@
       "Arcane, Summoning"
     ],
     "range": "Ranged 5",
-    "effect": "You summon a Sidhe house guard in an unoccupied space within range. The guard is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The guard lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the guard’s description. You must have line of effect to the guard to command it. When you command the guard, you and the guard share knowledge but not senses. If you use a move action to move yourself, you can also command the guard to move up to its speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the guard makes an attack roll or a check, you make the roll using your statistics, not including any temporary bonuses or penalties. <br/>&nbsp;&nbsp;&nbsp;&nbsp;The guard lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, the guard lasts until you dismiss it as a minor action or until you use this power again."
+    "effect": "You summon a Sidhe house guard in an unoccupied space within range. The guard is an ally to you and your allies.<br/> The guard lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the guard’s description. You must have line of effect to the guard to command it. When you command the guard, you and the guard share knowledge but not senses. If you use a move action to move yourself, you can also command the guard to move up to its speed.<br/> When the guard makes an attack roll or a check, you make the roll using your statistics, not including any temporary bonuses or penalties. <br/> The guard lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, the guard lasts until you dismiss it as a minor action or until you use this power again."
   },
   "Sidhe Bargain": {
     "id": "'15886",
@@ -4154,7 +4154,7 @@
       "Arcane, Polymorph"
     ],
     "range": "Personal",
-    "effect": "You change from your humanoid form to the form of a Tiny nonflying fey or natural beast (such as a fox, a cat, or a raccoon) or vice versa. While you are in this beast form, you can make Stealth checks to hide using any cover or concealment, including cover from your allies, and you take no penalty to Stealth checks for moving up to your speed. You cannot make attacks or use item powers.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your equipment becomes part of this form, and you continue to gain the benefits of the equipment you wear, except a shield. Your ability to communicate is not inhibited, and you can make skill checks only if they don’t require you to be in humanoid form.",
+    "effect": "You change from your humanoid form to the form of a Tiny nonflying fey or natural beast (such as a fox, a cat, or a raccoon) or vice versa. While you are in this beast form, you can make Stealth checks to hide using any cover or concealment, including cover from your allies, and you take no penalty to Stealth checks for moving up to your speed. You cannot make attacks or use item powers.<br/> Your equipment becomes part of this form, and you continue to gain the benefits of the equipment you wear, except a shield. Your ability to communicate is not inhibited, and you can make skill checks only if they don’t require you to be in humanoid form.",
     "special": "You can use this power only once per round."
   },
   "Bargain of Truth": {
@@ -4243,7 +4243,7 @@
     ],
     "range": "Personal",
     "requirement": "You must have a hand free.",
-    "effect": "You call to your hand a shadow-wrought weapon that lasts until you dismiss it as a free action or until you use this power again. The weapon has a +1 enhancement bonus to attack rolls and damage rolls, and it deals 1d8 extra damage on a critical hit.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 6: +2 enhancement bonus, 2d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: +3 enhancement bonus, 3d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: +4 enhancement bonus, 4d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: +5 enhancement bonus, 5d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 26: +6 enhancement bonus, and 6d8 extra damage."
+    "effect": "You call to your hand a shadow-wrought weapon that lasts until you dismiss it as a free action or until you use this power again. The weapon has a +1 enhancement bonus to attack rolls and damage rolls, and it deals 1d8 extra damage on a critical hit.<br/> Level 6: +2 enhancement bonus, 2d8 extra damage.<br/> Level 11: +3 enhancement bonus, 3d8 extra damage.<br/> Level 16: +4 enhancement bonus, 4d8 extra damage.<br/> Level 21: +5 enhancement bonus, 5d8 extra damage.<br/> Level 26: +6 enhancement bonus, and 6d8 extra damage."
   },
   "Unseelie Eyes": {
     "id": "'15896",
@@ -4291,7 +4291,7 @@
       "Arcane, Shadow"
     ],
     "range": "Personal",
-    "effect": "You whisper a message of up to twenty-five words into a shadow, then choose a creature you know on your plane. (If the creature is your patron, the message is received regardless of planar location.) Only that creature hears the message. If the creature is not on your plane, the message is lost, and you are aware that the message was not received.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the creature receives the message, it can respond within 5 minutes with a similar shadow message of up to twenty-five words. Doing so requires a standard action."
+    "effect": "You whisper a message of up to twenty-five words into a shadow, then choose a creature you know on your plane. (If the creature is your patron, the message is received regardless of planar location.) Only that creature hears the message. If the creature is not on your plane, the message is lost, and you are aware that the message was not received.<br/> If the creature receives the message, it can respond within 5 minutes with a similar shadow message of up to twenty-five words. Doing so requires a standard action."
   },
   "Cold Shadow Strike": {
     "id": "'15899",
@@ -4444,9 +4444,9 @@
     ],
     "range": "Melee weapon",
     "requirement": "You must have hit an enemy with a weapon attack during this turn.",
-    "target": "One creature<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: One or two creatures",
+    "target": "One creature<br/> Level 21: One or two creatures",
     "attack": "Highest ability modifier vs. AC",
-    "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2[W] damage."
+    "onHit": "1[W] damage.<br/> Level 11: 2[W] damage."
   },
   "Sohei Parry": {
     "id": "'15929",
@@ -4573,7 +4573,7 @@
       "Shadow"
     ],
     "range": "Personal",
-    "effect": "If you make an attack this turn and hit with your first attack roll, the creature you hit takes 1d8 extra damage from that attack, and you gain 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the attack roll misses, or if you do not attack this turn, you grant combat advantage and are deafened until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+    "effect": "If you make an attack this turn and hit with your first attack roll, the creature you hit takes 1d8 extra damage from that attack, and you gain 5 temporary hit points.<br/> If the attack roll misses, or if you do not attack this turn, you grant combat advantage and are deafened until the end of your next turn.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points."
   },
   "Mad Confidence": {
     "id": "'15936",
@@ -4606,7 +4606,7 @@
     ],
     "range": "Personal",
     "trigger": "You kill a nonminion creature.",
-    "effect": "Choose one of the following effects:<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;You spend a healing surge.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;You gain a +1 power bonus to attack rolls until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;You gain a +5 power bonus to Arcana checks, Dungeoneering checks, Nature checks, and Religion checks until the start of your next extended rest."
+    "effect": "Choose one of the following effects:<br/> <img src=\"images/bullet.gif\" alt=\"\"/> You spend a healing surge.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> You gain a +1 power bonus to attack rolls until the end of the encounter.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> You gain a +5 power bonus to Arcana checks, Dungeoneering checks, Nature checks, and Religion checks until the start of your next extended rest."
   },
   "Reluctant Sacrifice": {
     "id": "'15938",
@@ -4641,7 +4641,7 @@
     ],
     "range": "Melee 1",
     "target": "One creature granting combat advantage to you",
-    "attack": "Highest ability modifier + 3 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 7",
+    "attack": "Highest ability modifier + 3 vs. Reflex<br/> Level 11: Highest ability modifier + 5<br/> Level 21: Highest ability modifier + 7",
     "onHit": "The target falls prone.",
     "effect": "One ally of yours adjacent to the target can make a melee basic attack against the target as a free action."
   },
@@ -4711,7 +4711,7 @@
       "Divine, Fire, Necrotic"
     ],
     "range": "Personal",
-    "effect": "The next creature you hit with an attack before the end of this turn takes 5 extra fire and necrotic damage from that attack. Also, you slide that creature up to 5 squares. If you do not hit a creature with an attack before the end of the turn, you take 5 fire and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: You deal or take 10 fire and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: You deal or take 15 fire and necrotic damage."
+    "effect": "The next creature you hit with an attack before the end of this turn takes 5 extra fire and necrotic damage from that attack. Also, you slide that creature up to 5 squares. If you do not hit a creature with an attack before the end of the turn, you take 5 fire and necrotic damage.<br/> Level 11: You deal or take 10 fire and necrotic damage.<br/> Level 21: You deal or take 15 fire and necrotic damage."
   },
   "Wicked Temptation": {
     "id": "'15945",
@@ -4761,7 +4761,7 @@
     ],
     "range": "Personal",
     "trigger": "You kill a nonminion creature.",
-    "effect": "Choose one of the following effects:<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;You spend a healing surge.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;You regain the use of an expended encounter attack power."
+    "effect": "Choose one of the following effects:<br/> <img src=\"images/bullet.gif\" alt=\"\"/> You spend a healing surge.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> You regain the use of an expended encounter attack power."
   },
   "Vicious Assault": {
     "id": "'15949",
@@ -4918,7 +4918,7 @@
     ],
     "range": "Personal",
     "trigger": "You roll initiative.",
-    "effect": "You can draw a weapon and shift up to a number of squares equal to half your speed. If you end this move adjacent to an enemy, you gain a +2 power bonus to the next attack roll you make against that enemy before the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your initiative is higher than every enemy’s initiative, any melee weapon attack you make during your first turn of the encounter can score a critical hit on a roll of 18-20."
+    "effect": "You can draw a weapon and shift up to a number of squares equal to half your speed. If you end this move adjacent to an enemy, you gain a +2 power bonus to the next attack roll you make against that enemy before the end of your next turn.<br/> If your initiative is higher than every enemy’s initiative, any melee weapon attack you make during your first turn of the encounter can score a critical hit on a roll of 18-20."
   },
   "Honorable Resolve": {
     "id": "'16001",
@@ -5106,7 +5106,7 @@
     ],
     "range": "Ranged 5",
     "target": "One creature you can see that isn’t marked by you",
-    "effect": "The target takes 2 psychic damage whenever it hits you with an attack (a creature can take this damage only once per turn). The effect ends if you don’t have line of sight to the target at the end of your turn, or if you use this power against a different target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 psychic damage."
+    "effect": "The target takes 2 psychic damage whenever it hits you with an attack (a creature can take this damage only once per turn). The effect ends if you don’t have line of sight to the target at the end of your turn, or if you use this power against a different target.<br/> Level 21: 4 psychic damage."
   },
   "Eye of the Fomorians": {
     "id": "'16023",
@@ -5173,7 +5173,7 @@
       "Arcane, Primal, Summoning"
     ],
     "range": "Ranged 5",
-    "effect": "You summon a Sarifal advisor in an unoccupied square within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The advisor lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You must have line of effect to the advisor to command it. When you command the advisor, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the advisor makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The advisor lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon a Sarifal advisor in an unoccupied square within range. The creature is an ally to you and your allies.<br/> The advisor lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You must have line of effect to the advisor to command it. When you command the advisor, the two of you share knowledge but not senses.<br/> When the advisor makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/> The advisor lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Light of Sarifal": {
     "id": "'16027",
@@ -5240,7 +5240,7 @@
       "Primal, Summoning"
     ],
     "range": "Ranged 5",
-    "effect": "You summon an ancestral defender in an unoccupied square within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The defender lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You must have line of effect to the defender to command it. When you command the defender, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the defender makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The defender lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon an ancestral defender in an unoccupied square within range. The creature is an ally to you and your allies.<br/> The defender lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You must have line of effect to the defender to command it. When you command the defender, the two of you share knowledge but not senses.<br/> When the defender makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/> The defender lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Sarifal's Blessing": {
     "id": "'16046",
@@ -5256,7 +5256,7 @@
       "Arcane, Aura, Primal"
     ],
     "range": "Personal",
-    "effect": "Choose cold, fire, lightning, necrotic, or thunder. You activate an aura 2 that lasts until the end of your next turn. While in the aura, you and your allies gain resist 5 to the chosen damage type. Any enemy in the aura has vulnerable 5 to your attacks that deal the chosen damage type.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The resistance and vulnerability increase to 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The resistance and vulnerability increase to 15."
+    "effect": "Choose cold, fire, lightning, necrotic, or thunder. You activate an aura 2 that lasts until the end of your next turn. While in the aura, you and your allies gain resist 5 to the chosen damage type. Any enemy in the aura has vulnerable 5 to your attacks that deal the chosen damage type.<br/> Level 11: The resistance and vulnerability increase to 10.<br/> Level 21: The resistance and vulnerability increase to 15."
   },
   "Flee Peril": {
     "id": "'16047",
@@ -5328,7 +5328,7 @@
     "effect": "You push the primary target up to 2 squares, and he or she grants combat advantage until the start of your next turn. You then shift up to half your speed and make the secondary attack.",
     "secondaryTarget": "One creature",
     "secondaryAttack": "Highest ability modifier vs. AC",
-    "secondaryOnHit": "2[W] + your highest ability modifier damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3[W] + your highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4[W] + your highest ability modifier damage."
+    "secondaryOnHit": "2[W] + your highest ability modifier damage, and the target grants combat advantage until the end of your next turn.<br/> Level 11: 3[W] + your highest ability modifier damage.<br/> Level 21: 4[W] + your highest ability modifier damage."
   },
   "Hellfire Heart": {
     "id": "'16052",
@@ -5345,7 +5345,7 @@
     ],
     "range": "Special",
     "trigger": "You hit an enemy with an attack.",
-    "effect": "The enemy takes fire damage equal to 1 + your highest ability modifier. Until the start of your next turn, the enemy takes a -2 penalty to the attack rolls of attacks that include you as a target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3 + your highest ability modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5 + your highest ability modifier fire damage."
+    "effect": "The enemy takes fire damage equal to 1 + your highest ability modifier. Until the start of your next turn, the enemy takes a -2 penalty to the attack rolls of attacks that include you as a target.<br/> Level 11: 3 + your highest ability modifier fire damage.<br/> Level 21: 5 + your highest ability modifier fire damage."
   },
   "Devil’s Due": {
     "id": "'16053",
@@ -5413,7 +5413,7 @@
     "range": "Melee 1",
     "trigger": "You hit with a melee attack on your turn.",
     "target": "One randomly determined creature adjacent to you",
-    "effect": "The target takes 1d6 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 damage."
+    "effect": "The target takes 1d6 damage.<br/> Level 11: 2d6 damage.<br/> Level 21: 3d6 damage."
   },
   "Abyssal Eyes": {
     "id": "'16058",
@@ -5483,7 +5483,7 @@
     "requirement": "You must be on the ground.",
     "target": "Each creature in the burst",
     "attack": "Highest ability modifier vs. AC",
-    "onHit": "1[W] + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2[W] + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3[W] + highest ability modifier damage.",
+    "onHit": "1[W] + highest ability modifier damage.<br/> Level 11: 2[W] + highest ability modifier damage.<br/> Level 21: 3[W] + highest ability modifier damage.",
     "effect": "Until the end of your next turn, you are slowed and you gain resistance to all damage equal to 1 + one-half your level."
   },
   "Earthforger’s Might": {
@@ -5501,7 +5501,7 @@
     ],
     "range": "Personal",
     "requirement": "You must be on the ground.",
-    "effect": "Until the end of the encounter, or until you are no longer on the ground, you gain a +2 power bonus to melee damage rolls and Strength checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: +4 power bonus.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: +6 power bonus."
+    "effect": "Until the end of the encounter, or until you are no longer on the ground, you gain a +2 power bonus to melee damage rolls and Strength checks.<br/> Level 11: +4 power bonus.<br/> Level 21: +6 power bonus."
   },
   "Earthforger’s Passage": {
     "id": "'16063",
@@ -5554,7 +5554,7 @@
     "trigger": "An adjacent enemy misses you with a melee attack.",
     "target": "The triggering enemy",
     "attack": "Highest ability modifier vs. Reflex",
-    "onHit": "1[W] damage, and you slide the target up to 2 squares. The target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3[W] damage."
+    "onHit": "1[W] damage, and you slide the target up to 2 squares. The target grants combat advantage until the end of your next turn.<br/> Level 11: 2[W] damage.<br/> Level 21: 3[W] damage."
   },
   "Balancing Step": {
     "id": "'16066",
@@ -5622,8 +5622,8 @@
     "effect": "You activate an aura 1 that lasts until the end of your next turn. Any creature that starts its turn in the aura takes fire damage equal to your highest ability modifier. Using the secondary power ends the aura.",
     "requirement": "The power Blazing Corona must be active in order to use this power.",
     "target": "One creature",
-    "attack": "Highest ability modifier + 2 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 4<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6",
-    "onHit": "1d8 fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 fire damage."
+    "attack": "Highest ability modifier + 2 vs. Reflex<br/> Level 11: Highest ability modifier + 4<br/> Level 21: Highest ability modifier + 6",
+    "onHit": "1d8 fire damage.<br/> Level 11: 2d8 fire damage.<br/> Level 21: 3d8 fire damage."
   },
   "Lesser Produce Flame": {
     "id": "'16070",
@@ -5772,7 +5772,7 @@
     ],
     "range": "Personal",
     "trigger": "You make a melee weapon attack roll.",
-    "effect": "Make the attack roll twice. If both attack rolls hit, the target takes 1d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 extra damage."
+    "effect": "Make the attack roll twice. If both attack rolls hit, the target takes 1d8 extra damage.<br/> Level 11: 2d8 extra damage.<br/> Level 21: 3d8 extra damage."
   },
   "Steely Resolve": {
     "id": "'16082",
@@ -5837,7 +5837,7 @@
       "Elemental, Weapon"
     ],
     "range": "Melee 1",
-    "effect": "You gain 5 temporary hit points, and then you charge an enemy. If your charge attack hits, the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+    "effect": "You gain 5 temporary hit points, and then you charge an enemy. If your charge attack hits, the target is slowed until the end of your next turn.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points."
   },
   "Janissary’s Shield": {
     "id": "'16086",
@@ -5901,7 +5901,7 @@
       "Elemental, Summoning"
     ],
     "range": "Ranged 10",
-    "effect": "You summon a flame zephyr in an unoccupied square in range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The zephyr lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You don’t need line of effect to the zephyr to command it. When you command the zephyr, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the zephyr makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The flame zephyr lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left).<br/>Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon a flame zephyr in an unoccupied square in range. The creature is an ally to you and your allies.<br/> The zephyr lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You don’t need line of effect to the zephyr to command it. When you command the zephyr, the two of you share knowledge but not senses.<br/> When the zephyr makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/> The flame zephyr lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left).<br/>Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Elemental Adaptation": {
     "id": "'16090",
@@ -5968,7 +5968,7 @@
     "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Highest ability modifier vs. Fortitude",
-    "onHit": "1d8 + highest ability modifier cold damage, and you push the target up to 2 squares. The target is slowed and gains vulnerable 5 cold until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 + highest ability modifier cold damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 + highest ability modifier cold damage."
+    "onHit": "1d8 + highest ability modifier cold damage, and you push the target up to 2 squares. The target is slowed and gains vulnerable 5 cold until the end of your next turn.<br/> Level 11: 2d8 + highest ability modifier cold damage.<br/> Level 21: 3d8 + highest ability modifier cold damage."
   },
   "Vezzuvu’s Eruption": {
     "id": "'16094",
@@ -5986,7 +5986,7 @@
     "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Highest ability modifier vs. Reflex",
-    "onHit": "1d6 + highest ability modifier thunder damage, and the target falls prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + highest ability modifier thunder damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + highest ability modifier thunder damage.",
+    "onHit": "1d6 + highest ability modifier thunder damage, and the target falls prone.<br/> Level 11: 2d6 + highest ability modifier thunder damage.<br/> Level 21: 3d6 + highest ability modifier thunder damage.",
     "effect": "The burst creates a zone of difficult terrain that lasts until the end of your next turn. Any creature that ends its turn in the zone takes 5 fire damage."
   },
   "Solkara’s Grasp": {
@@ -6037,7 +6037,7 @@
       "Arcane, Cold, Elemental, Zone"
     ],
     "range": "Close burst 2",
-    "effect": "The burst creates a zone of ice that lasts until the end of the encounter. The zone is difficult terrain for all creatures except you and creatures that have ice walk. Any creature that is pushed, pulled, or slid while in the zone can be moved 1 additional square by the forced movement.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You also create up to three icicles, each in an unoccupied square in the burst. These icicles are blocking terrain. Any creature other than you that enters a square adjacent to an icicle, or ends its turn there, takes 5 cold damage. A creature can take this damage only once per turn."
+    "effect": "The burst creates a zone of ice that lasts until the end of the encounter. The zone is difficult terrain for all creatures except you and creatures that have ice walk. Any creature that is pushed, pulled, or slid while in the zone can be moved 1 additional square by the forced movement.<br/> You also create up to three icicles, each in an unoccupied square in the burst. These icicles are blocking terrain. Any creature other than you that enters a square adjacent to an icicle, or ends its turn there, takes 5 cold damage. A creature can take this damage only once per turn."
   },
   "Vezzuvu’s Armor": {
     "id": "'16098",
@@ -6089,8 +6089,8 @@
     ],
     "range": "Close blast 3",
     "target": "Each creature in the blast",
-    "attack": "Highest ability modifier vs. Fortitude. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
-    "onHit": "1d6 + highest ability modifier damage, and the target falls prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + highest ability modifier damage."
+    "attack": "Highest ability modifier vs. Fortitude. You gain a +2 bonus to the attack roll.<br/> Level 11: The bonus increases to +4.<br/> Level 21: The bonus increases to +6.",
+    "onHit": "1d6 + highest ability modifier damage, and the target falls prone.<br/> Level 11: 2d6 + highest ability modifier damage.<br/> Level 21: 3d6 + highest ability modifier damage."
   },
   "Safe Harbor": {
     "id": "'16110",
@@ -6123,7 +6123,7 @@
       "Elemental, Polymorph"
     ],
     "range": "Personal",
-    "effect": "You alter your physical form to take on the appearance of any humanoid of your size. You retain your statistics in your new form, and your clothing, armor, and possessions do not change. You remain in your new form until you change form again or until you dismiss the form as a minor action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check. You gain a +5 bonus to your check."
+    "effect": "You alter your physical form to take on the appearance of any humanoid of your size. You retain your statistics in your new form, and your clothing, armor, and possessions do not change. You remain in your new form until you change form again or until you dismiss the form as a minor action.<br/> Any creature that attempts to see through your ruse makes an Insight check opposed by your Bluff check. You gain a +5 bonus to your check."
   },
   "Sea of Unity": {
     "id": "'16112",
@@ -6158,7 +6158,7 @@
     "effect": "You can fly up to your speed. At any point during this movement, you can make the following attack.",
     "target": "One creature",
     "attack": "Highest ability modifier vs. AC",
-    "onHit": "1[W] + highest ability modifier damage, and you can slide the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2[W] + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3[W] + highest ability modifier damage."
+    "onHit": "1[W] + highest ability modifier damage, and you can slide the target 1 square.<br/> Level 11: 2[W] + highest ability modifier damage.<br/> Level 21: 3[W] + highest ability modifier damage."
   },
   "Protective Gale": {
     "id": "'16114",
@@ -6224,7 +6224,7 @@
       "Martial, Stance"
     ],
     "range": "Personal",
-    "effect": "You enter the focused discipline stance. Until the stance ends, at the start of each of your turns you can choose one of the following benefits. The benefit lasts until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;Offense: You gain a +1 power bonus to melee basic attack rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;Defense: Whenever you hit an enemy with a melee basic attack, one ally adjacent to you gains a +1 power bonus to all defenses until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;Tactics: After you hit an enemy with a melee basic attack, you can shift 1 square as a free action."
+    "effect": "You enter the focused discipline stance. Until the stance ends, at the start of each of your turns you can choose one of the following benefits. The benefit lasts until the start of your next turn.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> Offense: You gain a +1 power bonus to melee basic attack rolls.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> Defense: Whenever you hit an enemy with a melee basic attack, one ally adjacent to you gains a +1 power bonus to all defenses until the start of your next turn.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> Tactics: After you hit an enemy with a melee basic attack, you can shift 1 square as a free action."
   },
   "Exploit Opening": {
     "id": "'16367",
@@ -6374,7 +6374,7 @@
       "Stance"
     ],
     "range": "Personal",
-    "effect": "You assume the marshal’s pursuit stance. Until the stance ends, you gain the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You gain a +2 power bonus to speed.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You gain a +2 power bonus to all defenses against opportunity attacks that you provoke by moving.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You can shift 1 square as a free action at the end of each of your turns, but this movement must place you closer to or the same distance from your marshal’s quarry."
+    "effect": "You assume the marshal’s pursuit stance. Until the stance ends, you gain the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  You gain a +2 power bonus to speed.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  You gain a +2 power bonus to all defenses against opportunity attacks that you provoke by moving.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  You can shift 1 square as a free action at the end of each of your turns, but this movement must place you closer to or the same distance from your marshal’s quarry."
   },
   "Marshal’s Resolve": {
     "id": "'16376",
@@ -6387,7 +6387,7 @@
     "sourceRef": "Dragon Magazine 407",
     "flavor": "While pressing the assault, you prepare for whatever your enemy throws at you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You hit an enemy with an attack.</p><p class=\"powerstat\">Target: The enemy you hit</p><p class=\"flavor\">Effect: Until the end of the encounter, you gain a +2 power bonus to all defenses against the target. If the target is your marshal’s quarry, you also gain temporary hit points equal to your healing surge value.</p>"
+      " Personal   Trigger: You hit an enemy with an attack.  Target: The enemy you hit  Effect: Until the end of the encounter, you gain a +2 power bonus to all defenses against the target. If the target is your marshal’s quarry, you also gain temporary hit points equal to your healing surge value. "
     ],
     "range": "Personal",
     "trigger": "You hit an enemy with an attack.",
@@ -6708,7 +6708,7 @@
     "sourceRef": "Dragon Magazine 409",
     "flavor": "You react as though you were on your guard, even though you were taken by surprise.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are surprised at the start of an encounter while you are conscious.</p><p class=\"flavor\">Effect: You can take a single move or minor action on your turn during the surprise round.</p>"
+      " Personal   Trigger: You are surprised at the start of an encounter while you are conscious.  Effect: You can take a single move or minor action on your turn during the surprise round. "
     ],
     "range": "Personal",
     "trigger": "You are surprised at the start of an encounter while you are conscious.",
@@ -6725,7 +6725,7 @@
     "sourceRef": "Dragon Magazine 409",
     "flavor": "You say the right things to the right people, and everything falls into place.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make a Diplomacy check.</p><p class=\"flavor\">Effect: Treat the result of the check as though you had rolled a natural 20.</p>"
+      " Personal   Trigger: You make a Diplomacy check.  Effect: Treat the result of the check as though you had rolled a natural 20. "
     ],
     "range": "Personal",
     "trigger": "You make a Diplomacy check.",
@@ -6881,7 +6881,7 @@
     ],
     "range": "Personal",
     "trigger": "You take damage from a trap, a hazard, or a fall.",
-    "effect": "Reduce the damage by 5 + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 + one-half your level."
+    "effect": "Reduce the damage by 5 + one-half your level.<br/> Level 11: 10 + one-half your level.<br/> Level 21: 15 + one-half your level."
   },
   "My Mind Is My Own": {
     "id": "'16438",
@@ -6961,14 +6961,14 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "An enemy’s approach triggers a nasty trap you prepared just for this occasion.",
     "keywords": [
-      "&nbsp;&nbsp;Melee 1</p><p class=\"flavor\">Requirement: You must have a trap-making kit on your person.</p><p class=\"powerstat\">Trigger: An enemy enters a square adjacent to you.</p><p class=\"powerstat\">Target: The triggering enemy</p><p class=\"powerstat\">Attack: Intelligence + 2 vs. Reflex"
+      " Melee 1  Requirement: You must have a trap-making kit on your person.  Trigger: An enemy enters a square adjacent to you.  Target: The triggering enemy  Attack: Intelligence + 2 vs. Reflex"
     ],
     "range": "Melee 1",
     "requirement": "You must have a trap-making kit on your person.",
     "trigger": "An enemy enters a square adjacent to you.",
     "target": "The triggering enemy",
-    "attack": "Intelligence + 2 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Intelligence + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Intelligence + 6 vs. Reflex",
-    "onHit": "1d6 + Intelligence modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Intelligence modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Intelligence modifier damage.",
+    "attack": "Intelligence + 2 vs. Reflex<br/> Level 11: Intelligence + 4 vs. Reflex<br/> Level 21: Intelligence + 6 vs. Reflex",
+    "onHit": "1d6 + Intelligence modifier damage.<br/> Level 11: 2d6 + Intelligence modifier damage.<br/> Level 21: 3d6 + Intelligence modifier damage.",
     "effect": "The target grants combat advantage until the end of your next turn."
   },
   "Alarm Trap": {
@@ -7016,7 +7016,7 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "You sense that something bad is about to happen.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Trigger: A hazard, object, or trap within 5 squares of you triggers.</p><p class=\"powerstat\">Target: You and each ally in the burst</p><p class=\"flavor\">Effect: Each target shifts up to half his or her speed and gains a +2 power bonus to all defenses against hazards, objects, and traps until the end of the encounter.</p>"
+      " Close burst 5  Trigger: A hazard, object, or trap within 5 squares of you triggers.  Target: You and each ally in the burst  Effect: Each target shifts up to half his or her speed and gains a +2 power bonus to all defenses against hazards, objects, and traps until the end of the encounter. "
     ],
     "range": "Close burst 5",
     "trigger": "A hazard, object, or trap within 5 squares of you triggers.",
@@ -7034,7 +7034,7 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "You have an innate sense of where treasure is located.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose a single item. For the next hour, you gain a +4 power bonus to any knowledge check, Perception check, Streetwise check, or Thievery check that relates to finding or identifying that item.</p>"
+      " Personal   Effect: Choose a single item. For the next hour, you gain a +4 power bonus to any knowledge check, Perception check, Streetwise check, or Thievery check that relates to finding or identifying that item. "
     ],
     "range": "Personal",
     "effect": "Choose a single item. For the next hour, you gain a +4 power bonus to any knowledge check, Perception check, Streetwise check, or Thievery check that relates to finding or identifying that item."
@@ -7072,7 +7072,7 @@
     "range": "Close burst 3",
     "trigger": "You roll initiative.",
     "target": "You and each ally in the burst",
-    "effect": "Each target gains a +2 power bonus to his or her initiative check, and a +2 power bonus to all defenses during the first round of combat.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: +4 power bonus.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: +6 power bonus."
+    "effect": "Each target gains a +2 power bonus to his or her initiative check, and a +2 power bonus to all defenses during the first round of combat.<br/> Level 11: +4 power bonus.<br/> Level 21: +6 power bonus."
   },
   "Exertion": {
     "id": "'16449",
@@ -7106,7 +7106,7 @@
     ],
     "range": "Ranged 5",
     "target": "One creature",
-    "attack": "Charisma + 2 vs. Will<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Charisma + 4 vs. Will<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Charisma + 6 vs. Will",
+    "attack": "Charisma + 2 vs. Will<br/> Level 11: Charisma + 4 vs. Will<br/> Level 21: Charisma + 6 vs. Will",
     "onHit": "The target grants combat advantage until the end of your next turn, and your next attack against the target this turn deals 1d6 extra damage on a hit."
   },
   "Practiced Herald": {
@@ -7243,10 +7243,10 @@
       "Polymorph"
     ],
     "range": "Personal",
-    "effect": "You change from your humanoid form to a beast form—a bear—that lasts until the end of the encounter. Alternatively, you can end the form as a minor action and shift 1 square. While you are in beast form, you can’t use weapon or implement attack powers that lack the beast form keyword, although you can sustain such powers.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in this form, you have low-light vision. The form is your size, and it doesn’t otherwise change your game statistics or movement modes. Your equipment becomes part of the form, but you drop anything you are holding, except implements you can use. You continue to gain the benefits of the equipment you wear, except a shield.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You can use the properties and the powers of implements as well as magic items you wear, but not the properties or the powers of weapons or the powers of wondrous items. While equipment is part of the form, it cannot be removed, and anything in a container that is part of your form is inaccessible.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Until the form ends, you can use the secondary power at will.",
+    "effect": "You change from your humanoid form to a beast form—a bear—that lasts until the end of the encounter. Alternatively, you can end the form as a minor action and shift 1 square. While you are in beast form, you can’t use weapon or implement attack powers that lack the beast form keyword, although you can sustain such powers.<br/> While in this form, you have low-light vision. The form is your size, and it doesn’t otherwise change your game statistics or movement modes. Your equipment becomes part of the form, but you drop anything you are holding, except implements you can use. You continue to gain the benefits of the equipment you wear, except a shield.<br/> You can use the properties and the powers of implements as well as magic items you wear, but not the properties or the powers of weapons or the powers of wondrous items. While equipment is part of the form, it cannot be removed, and anything in a container that is part of your form is inaccessible.<br/> Until the form ends, you can use the secondary power at will.",
     "target": "One creature",
-    "attack": "Highest ability modifier + 3 vs. AC<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 6<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 9",
-    "onHit": "1d8 + highest ability modifier damage, and you mark the target until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + highest ability modifier damage.",
+    "attack": "Highest ability modifier + 3 vs. AC<br/> Level 11: Highest ability modifier + 6<br/> Level 21: Highest ability modifier + 9",
+    "onHit": "1d8 + highest ability modifier damage, and you mark the target until the start of your next turn.<br/> Level 21: 2d8 + highest ability modifier damage.",
     "special": "You can use this power in place of a melee basic attack."
   },
   "Bear Up": {
@@ -7264,7 +7264,7 @@
     ],
     "range": "Personal",
     "requirement": "You must have started this turn bloodied.",
-    "effect": "Until the end of the encounter, when you hit with bear shape’s secondary power, you can grab the target until the end of your next turn. In addition, while you are bloodied and in beast form, you have regeneration 2.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Regeneration 4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Regeneration 6."
+    "effect": "Until the end of the encounter, when you hit with bear shape’s secondary power, you can grab the target until the end of your next turn. In addition, while you are bloodied and in beast form, you have regeneration 2.<br/> Level 11: Regeneration 4.<br/> Level 21: Regeneration 6."
   },
   "Enraged Bear": {
     "id": "'16528",
@@ -7314,10 +7314,10 @@
       "Polymorph"
     ],
     "range": "Personal",
-    "effect": "You change from your humanoid form to a beast form—a dire rat—that lasts until the end of the encounter. Alternatively, you can end the form as a minor action and shift 1 square. While you are in beast form, you can’t use weapon or implement attack powers that lack the beast form keyword, although you can sustain such powers.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in this form, you have low-light vision. The form is Small, and it doesn’t otherwise change your game statistics or movement modes. Your equipment becomes part of the form, but you drop anything you are holding, except implements you can use. You continue to gain the benefits of the equipment you wear, except a shield.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You can use the properties and the powers of implements as well as magic items you wear, but not the properties or the powers of weapons or the powers of wondrous items. While equipment is part of the form, it cannot be removed, and anything in a container that is part of your form is inaccessible.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Until the form ends, you can use the secondary power at will.",
+    "effect": "You change from your humanoid form to a beast form—a dire rat—that lasts until the end of the encounter. Alternatively, you can end the form as a minor action and shift 1 square. While you are in beast form, you can’t use weapon or implement attack powers that lack the beast form keyword, although you can sustain such powers.<br/> While in this form, you have low-light vision. The form is Small, and it doesn’t otherwise change your game statistics or movement modes. Your equipment becomes part of the form, but you drop anything you are holding, except implements you can use. You continue to gain the benefits of the equipment you wear, except a shield.<br/> You can use the properties and the powers of implements as well as magic items you wear, but not the properties or the powers of weapons or the powers of wondrous items. While equipment is part of the form, it cannot be removed, and anything in a container that is part of your form is inaccessible.<br/> Until the form ends, you can use the secondary power at will.",
     "target": "One creature",
-    "attack": "Highest ability modifier + 3 vs. AC<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 6<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 9",
-    "onHit": "1d4 + highest ability modifier damage. If the target is granting you combat advantage, it also takes ongoing 5 damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d4 + highest ability modifier damage.",
+    "attack": "Highest ability modifier + 3 vs. AC<br/> Level 11: Highest ability modifier + 6<br/> Level 21: Highest ability modifier + 9",
+    "onHit": "1d4 + highest ability modifier damage. If the target is granting you combat advantage, it also takes ongoing 5 damage (save ends).<br/> Level 21: 2d4 + highest ability modifier damage.",
     "special": "You can use this power in place of a melee basic attack."
   },
   "Rat-Blooded": {
@@ -7335,7 +7335,7 @@
     ],
     "range": "Personal",
     "requirement": "You must have started this turn bloodied.",
-    "effect": "Until the end of the encounter, you gain a climb speed equal to half your speed while you are in beast form. In addition, while you are bloodied and in beast form, you have regeneration 2.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Regeneration 4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Regeneration 6."
+    "effect": "Until the end of the encounter, you gain a climb speed equal to half your speed while you are in beast form. In addition, while you are bloodied and in beast form, you have regeneration 2.<br/> Level 11: Regeneration 4.<br/> Level 21: Regeneration 6."
   },
   "Rat Scurry": {
     "id": "'16533",
@@ -7385,10 +7385,10 @@
       "Polymorph"
     ],
     "range": "Personal",
-    "effect": "You change from your humanoid form to a beast form—a wolf—that lasts until the end of the encounter. Alternatively, you can end the form as a minor action and shift 1 square. While you are in beast form, you can’t use weapon or implement attack powers that lack the beast form keyword, although you can sustain such powers.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While in this form, you have low-light vision. The form is your size, and it doesn’t otherwise change your game statistics or movement modes. Your equipment becomes part of the form, but you drop anything you are holding, except implements you can use. You continue to gain the benefits of the equipment you wear, except a shield.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You can use the properties and the powers of implements as well as magic items you wear, but not the properties or the powers of weapons or the powers of wondrous items. While equipment is part of the form, it cannot be removed, and anything in a container that is part of your form is inaccessible.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Until the form ends, you can use the secondary power at will.",
+    "effect": "You change from your humanoid form to a beast form—a wolf—that lasts until the end of the encounter. Alternatively, you can end the form as a minor action and shift 1 square. While you are in beast form, you can’t use weapon or implement attack powers that lack the beast form keyword, although you can sustain such powers.<br/> While in this form, you have low-light vision. The form is your size, and it doesn’t otherwise change your game statistics or movement modes. Your equipment becomes part of the form, but you drop anything you are holding, except implements you can use. You continue to gain the benefits of the equipment you wear, except a shield.<br/> You can use the properties and the powers of implements as well as magic items you wear, but not the properties or the powers of weapons or the powers of wondrous items. While equipment is part of the form, it cannot be removed, and anything in a container that is part of your form is inaccessible.<br/> Until the form ends, you can use the secondary power at will.",
     "target": "One creature",
-    "attack": "Highest ability modifier + 3 vs. AC<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 6<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 9",
-    "onHit": "1d10 + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + highest ability modifier damage.",
+    "attack": "Highest ability modifier + 3 vs. AC<br/> Level 11: Highest ability modifier + 6<br/> Level 21: Highest ability modifier + 9",
+    "onHit": "1d10 + highest ability modifier damage.<br/> Level 21: 2d10 + highest ability modifier damage.",
     "special": "You can use this power in place of a melee basic attack."
   },
   "Wolf's Vitality": {
@@ -7406,7 +7406,7 @@
     ],
     "range": "Personal",
     "requirement": "You must have started this turn bloodied.",
-    "effect": "Until the end of the encounter, your speed increases by 1 while you are in beast form. In addition, while you are bloodied and in beast form, you have regeneration 2.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Regeneration 4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Regeneration 6."
+    "effect": "Until the end of the encounter, your speed increases by 1 while you are in beast form. In addition, while you are bloodied and in beast form, you have regeneration 2.<br/> Level 11: Regeneration 4.<br/> Level 21: Regeneration 6."
   },
   "Pack Attack": {
     "id": "'16538",
@@ -7504,7 +7504,7 @@
     "sourceRef": "Council of Spiders, Dragon Magazine 413",
     "flavor": "The Spider Queen blesses your stealthy attack.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You hit a creature granting combat advantage to you.</p><p class=\"flavor\">Effect: Your attack deals 5 extra damage, and you gain a +2 power bonus to attack rolls and skill checks until the end of your next turn.</p>"
+      " Personal   Trigger: You hit a creature granting combat advantage to you.  Effect: Your attack deals 5 extra damage, and you gain a +2 power bonus to attack rolls and skill checks until the end of your next turn. "
     ],
     "range": "Personal",
     "trigger": "You hit a creature granting combat advantage to you.",
@@ -7521,7 +7521,7 @@
     "sourceRef": "Council of Spiders, Dragon Magazine 413",
     "flavor": "You issue a command, enforced with an undisguised threat of painful death.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make a Diplomacy check or an Intimidate check and dislike the result.</p><p class=\"flavor\">Effect: You reroll the check with a +4 bonus, and you can use either result.</p>"
+      " Personal   Trigger: You make a Diplomacy check or an Intimidate check and dislike the result.  Effect: You reroll the check with a +4 bonus, and you can use either result. "
     ],
     "range": "Personal",
     "trigger": "You make a Diplomacy check or an Intimidate check and dislike the result.",
@@ -7538,7 +7538,7 @@
     "sourceRef": "Council of Spiders, Dragon Magazine 413",
     "flavor": "You vow swift vengeance to the fool who dared strike you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy hits you with an attack.</p><p class=\"flavor\">Effect: Until the end of the triggering enemy’s next turn, you gain a +2 power bonus to all defenses against that enemy’s attacks, and each of your attacks against that enemy can score a critical hit on a roll of 19–20.</p>"
+      " Personal   Trigger: An enemy hits you with an attack.  Effect: Until the end of the triggering enemy’s next turn, you gain a +2 power bonus to all defenses against that enemy’s attacks, and each of your attacks against that enemy can score a critical hit on a roll of 19–20. "
     ],
     "range": "Personal",
     "trigger": "An enemy hits you with an attack.",
@@ -7706,7 +7706,7 @@
     "sourceRef": "Council of Spiders, Dragon Magazine 413",
     "flavor": "You brace yourself for a particularly wicked blow, allowing you to shrug off pain for a time.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage from an attack.</p><p class=\"flavor\">Effect: You reduce the damage of the triggering attack by 5 + your level. After the attack is resolved, you gain resist 5 to all damage until the start of your next turn.</p>"
+      " Personal   Trigger: You take damage from an attack.  Effect: You reduce the damage of the triggering attack by 5 + your level. After the attack is resolved, you gain resist 5 to all damage until the start of your next turn. "
     ],
     "range": "Personal",
     "trigger": "You take damage from an attack.",
@@ -7989,7 +7989,7 @@
     "effect": "Before the attack, you can make a saving throw against a single immobilizing effect on you that a save can end. You also shift up to 2 squares.",
     "target": "One creature",
     "attack": "Highest ability modifier vs. AC",
-    "onHit": "1[W] + highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + highest ability modifier damage."
+    "onHit": "1[W] + highest ability modifier damage.<br/> Level 21: 2[W] + highest ability modifier damage."
   },
   "Caught in a Lie": {
     "id": "'16593",
@@ -8055,7 +8055,7 @@
       "Divine, Poison, Shadow"
     ],
     "range": "Personal",
-    "effect": "Until the end of your next turn, when you hit an enemy with a weapon attack and that enemy is granting combat advantage to you, the enemy takes 4 extra poison damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 8 poison damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 12 poison damage."
+    "effect": "Until the end of your next turn, when you hit an enemy with a weapon attack and that enemy is granting combat advantage to you, the enemy takes 4 extra poison damage.<br/> Level 11: 8 poison damage.<br/> Level 21: 12 poison damage."
   },
   "Grace of the Masked Lord": {
     "id": "'16597",
@@ -8105,7 +8105,7 @@
     ],
     "range": "Close burst 3",
     "target": "You and one Small or Medium ally in the burst",
-    "effect": "You transform the auditory, tactile, and visual qualities of the targets’ bodies and equipment. Each target assumes the appearance of a drow, and you can choose to provide a target with the appearance of a specific drow whom you have seen.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The illusion lasts for 1 hour, or you can end it as a minor action. A creature can recognize a target’s form as illusory with an Insight check opposed by that target’s Bluff check. The Bluff check is made with a +5 power bonus."
+    "effect": "You transform the auditory, tactile, and visual qualities of the targets’ bodies and equipment. Each target assumes the appearance of a drow, and you can choose to provide a target with the appearance of a specific drow whom you have seen.<br/> The illusion lasts for 1 hour, or you can end it as a minor action. A creature can recognize a target’s form as illusory with an Insight check opposed by that target’s Bluff check. The Bluff check is made with a +5 power bonus."
   },
   "Sensory Caress": {
     "id": "'16613",
@@ -8118,7 +8118,7 @@
     "sourceRef": "Dragon Magazine 414",
     "flavor": "In a moment of quiet reflection, you open yourself to another’s pain.",
     "keywords": [
-      "&nbsp;&nbsp;Melee 1</p><p class=\"powerstat\">Target: One ally</p><p class=\"flavor\">Effect: You transfer one effect that a save can end from the target to yourself. Until you succeed on a saving throw against that effect, you gain a +2 power bonus to saving throws.</p>"
+      " Melee 1  Target: One ally  Effect: You transfer one effect that a save can end from the target to yourself. Until you succeed on a saving throw against that effect, you gain a +2 power bonus to saving throws. "
     ],
     "range": "Melee 1",
     "target": "One ally",
@@ -8135,7 +8135,7 @@
     "sourceRef": "Dragon Magazine 414",
     "flavor": "You know the dark of how to deal with predictable sods.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy hits you with an attack.</p><p class=\"flavor\">Effect: You gain a +2 power bonus to all defenses against the triggering enemy’s attacks until the end of your next turn.</p>"
+      " Personal   Trigger: An enemy hits you with an attack.  Effect: You gain a +2 power bonus to all defenses against the triggering enemy’s attacks until the end of your next turn. "
     ],
     "range": "Personal",
     "trigger": "An enemy hits you with an attack.",
@@ -8168,7 +8168,7 @@
     "sourceRef": "Dragon Magazine 414",
     "flavor": "It’s tough to control the mind of a cutter who’s not controlled by his or her thoughts.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy hits your Will with an attack.</p><p class=\"flavor\">Effect: You make a saving throw to end one effect imposed by the triggering attack on you, provided the effect has a stated duration.</p>"
+      " Personal   Trigger: An enemy hits your Will with an attack.  Effect: You make a saving throw to end one effect imposed by the triggering attack on you, provided the effect has a stated duration. "
     ],
     "range": "Personal",
     "trigger": "An enemy hits your Will with an attack.",
@@ -8222,7 +8222,7 @@
     ],
     "range": "Ranged 5",
     "target": "One creature that can hear you",
-    "attack": "Highest ability modifier + 2 vs. Will<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 4 vs. Will<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Will",
+    "attack": "Highest ability modifier + 2 vs. Will<br/> Level 11: Highest ability modifier + 4 vs. Will<br/> Level 21: Highest ability modifier + 6 vs. Will",
     "effect": "The target cannot speak intelligibly or deliver any effect that relies on speech (save ends)."
   },
   "Hornung's Deflector": {
@@ -8236,7 +8236,7 @@
     "sourceRef": "Dragon Magazine 414",
     "flavor": "A hemisphere of elemental matter manifests around you, deflecting incoming missiles or making you a bigger target.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are hit by a ranged attack.</p><p class=\"flavor\">Effect: The attack instead hits a random creature (including yourself) within 3 squares of you.</p>"
+      " Personal   Trigger: You are hit by a ranged attack.  Effect: The attack instead hits a random creature (including yourself) within 3 squares of you. "
     ],
     "range": "Personal",
     "trigger": "You are hit by a ranged attack.",
@@ -8253,7 +8253,7 @@
     "sourceRef": "Dragon Magazine 414",
     "flavor": "Chaos reigns in every glance, strike, and pose. Those who ally themselves with randomness can change their reality.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You roll a d20 and dislike the result.</p><p class=\"flavor\">Effect: Add 1d10 to the roll, and then subtract 1d4 from the roll.</p>"
+      " Personal   Trigger: You roll a d20 and dislike the result.  Effect: Add 1d10 to the roll, and then subtract 1d4 from the roll. "
     ],
     "range": "Personal",
     "trigger": "You roll a d20 and dislike the result.",
@@ -8270,7 +8270,7 @@
     "sourceRef": "Dragon Magazine 414",
     "flavor": "Sometimes you just have to toss everything up and hope it works out for the best.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 20</p><p class=\"powerstat\">Trigger: You roll initiative and dislike the result.</p><p class=\"flavor\">Effect: You and each creature in the burst reroll initiative. You and your allies gain a +4 power bonus to the roll, and your enemies take a -4 penalty to it.</p>"
+      " Close burst 20  Trigger: You roll initiative and dislike the result.  Effect: You and each creature in the burst reroll initiative. You and your allies gain a +4 power bonus to the roll, and your enemies take a -4 penalty to it. "
     ],
     "range": "Close burst 20",
     "trigger": "You roll initiative and dislike the result.",
@@ -8292,9 +8292,9 @@
     "range": "Melee 2",
     "requirement": "You must have a hand free.",
     "target": "One creature",
-    "attack": "Highest ability modifier + 2 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex",
-    "onHit": "2d8 + your highest ability modifier damage, and you pull the target 1 square and grab it until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 + highest ability modifier damage.",
-    "sustainStandard": "The grab persists until the end of your next turn, and the grabbed target takes 2d8 + your highest ability modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 + highest ability modifier damage.",
+    "attack": "Highest ability modifier + 2 vs. Reflex<br/> Level 11: Highest ability modifier + 4 vs. Reflex<br/> Level 21: Highest ability modifier + 6 vs. Reflex",
+    "onHit": "2d8 + your highest ability modifier damage, and you pull the target 1 square and grab it until the end of your next turn.<br/> Level 21: 3d8 + highest ability modifier damage.",
+    "sustainStandard": "The grab persists until the end of your next turn, and the grabbed target takes 2d8 + your highest ability modifier damage.<br/> Level 21: 3d8 + highest ability modifier damage.",
     "special": "When making an opportunity attack, you can use this power in place of a melee basic attack."
   },
   "Shadow Sight": {
@@ -8532,7 +8532,7 @@
     ],
     "range": "Personal",
     "requirement": "You must use this power during an extended rest or a short rest.",
-    "effect": "You spend a healing surge but regain no hit points. Instead, you call forth the awareness of a fiend and ask up to three questions of it. For each question, make a check with a bonus of 5 + one-half your level + your highest ability modifier against a DC the DM secretly sets.<br/>&nbsp;&nbsp;&nbsp;&nbsp;On a successful check, the fiend gives a truthful answer. If the check fails, or the DM decides the fiend cannot know the information, the answer is a lie.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You also gain a +2 power bonus to all knowledge checks until you reach the next milestone or take an extended rest."
+    "effect": "You spend a healing surge but regain no hit points. Instead, you call forth the awareness of a fiend and ask up to three questions of it. For each question, make a check with a bonus of 5 + one-half your level + your highest ability modifier against a DC the DM secretly sets.<br/> On a successful check, the fiend gives a truthful answer. If the check fails, or the DM decides the fiend cannot know the information, the answer is a lie.<br/> You also gain a +2 power bonus to all knowledge checks until you reach the next milestone or take an extended rest."
   },
   "Circle of Antipathy": {
     "id": "'16653",
@@ -8562,7 +8562,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You can follow your target right up to its doorstep without it ever noticing you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make a Perception or Stealth check opposed by another creature and dislike the result.</p><p class=\"flavor\">Effect: Reroll the Perception or Stealth check and use either result.</p>"
+      " Personal   Trigger: You make a Perception or Stealth check opposed by another creature and dislike the result.  Effect: Reroll the Perception or Stealth check and use either result. "
     ],
     "range": "Personal",
     "trigger": "You make a Perception or Stealth check opposed by another creature and dislike the result.",
@@ -8579,7 +8579,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You turn over each piece of information in your head before a flash of insight lets you see the bigger picture.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make an Insight, Perception, Streetwise, or knowledge check and dislike the result.</p><p class=\"flavor\">Effect: Resolve the check as if you had rolled a 20.</p>"
+      " Personal   Trigger: You make an Insight, Perception, Streetwise, or knowledge check and dislike the result.  Effect: Resolve the check as if you had rolled a 20. "
     ],
     "range": "Personal",
     "trigger": "You make an Insight, Perception, Streetwise, or knowledge check and dislike the result.",
@@ -8596,7 +8596,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "Nothing escapes your notice.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, or until you take damage or make an attack, you gain  blindsight 1 and a +5 power bonus to Perception, Insight, and knowledge checks related to anything you can sense within 10 squares of you.</p>"
+      " Personal   Effect: Until the end of the encounter, or until you take damage or make an attack, you gain  blindsight 1 and a +5 power bonus to Perception, Insight, and knowledge checks related to anything you can sense within 10 squares of you. "
     ],
     "range": "Personal",
     "effect": "Until the end of the encounter, or until you take damage or make an attack, you gain  blindsight 1 and a +5 power bonus to Perception, Insight, and knowledge checks related to anything you can sense within 10 squares of you."
@@ -8612,7 +8612,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You quickly cover for another’s gaffe.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: While you are able to speak, an ally that you can hear and is within 5 squares of you makes a  Diplomacy check and dislikes the result.</p><p class=\"flavor\">Effect: Make a Diplomacy check and use your result in place of the triggering result.</p>"
+      " Personal   Trigger: While you are able to speak, an ally that you can hear and is within 5 squares of you makes a  Diplomacy check and dislikes the result.  Effect: Make a Diplomacy check and use your result in place of the triggering result. "
     ],
     "range": "Personal",
     "trigger": "While you are able to speak, an ally that you can hear and is within 5 squares of you makes a  Diplomacy check and dislikes the result.",
@@ -8629,7 +8629,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "Your words reveal the wisdom of surrender.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You would make an Intimidate check to force an opponent to surrender</p><p class=\"flavor\">Effect: In place of the Intimidate check, make a Diplomacy check with a DC equal to the target’s Will defense + 5.</p>"
+      " Personal   Trigger: You would make an Intimidate check to force an opponent to surrender  Effect: In place of the Intimidate check, make a Diplomacy check with a DC equal to the target’s Will defense + 5. "
     ],
     "range": "Personal",
     "trigger": "You would make an Intimidate check to force an opponent to surrender",
@@ -8646,7 +8646,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "A well-timed warning causes your enemies to hesitate.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Target: Each enemy who can hear and understand you in the burst.</p><p class=\"flavor\">Effect: Make a Diplomacy check against each target’s passive Insight. If the check succeeds against a target, the target cannot take actions during your turn until the end of your next turn.</p>"
+      " Close burst 5  Target: Each enemy who can hear and understand you in the burst.  Effect: Make a Diplomacy check against each target’s passive Insight. If the check succeeds against a target, the target cannot take actions during your turn until the end of your next turn. "
     ],
     "range": "Close burst 5",
     "target": "Each enemy who can hear and understand you in the burst.",
@@ -8663,7 +8663,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You move quickly to escape the notice of your foes.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Shift up to your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to become hidden.</p>"
+      " Personal   Effect: Shift up to your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to become hidden. "
     ],
     "range": "Personal",
     "effect": "Shift up to your speed. If you have any cover or concealment at the end of this movement, you can make a Stealth check to become hidden."
@@ -8679,7 +8679,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "Your fast thinking turns a mistake into an opportunity.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make a Bluff, Insight, Perception, or Stealth check and dislike the result.</p><p class=\"flavor\">Effect: Reroll the triggering check and use either result.</p>"
+      " Personal   Trigger: You make a Bluff, Insight, Perception, or Stealth check and dislike the result.  Effect: Reroll the triggering check and use either result. "
     ],
     "range": "Personal",
     "trigger": "You make a Bluff, Insight, Perception, or Stealth check and dislike the result.",
@@ -8696,7 +8696,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "By drawing attention to another, you can slip away.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Requirement: At least two creatures must be within 1 square of you and be able to see and hear you.</p><p class=\"powerstat\">Effect: Make a Bluff check to create a diversion to hide. If you succeed against one creature within 1 square of you, you succeed against all creatures within 1 square of you. In addition, if you use your skulking spy power on the same turn after using this power, that use of skulking spy allows you to shift through enemy spaces.</p>"
+      " Personal   Requirement: At least two creatures must be within 1 square of you and be able to see and hear you.  Effect: Make a Bluff check to create a diversion to hide. If you succeed against one creature within 1 square of you, you succeed against all creatures within 1 square of you. In addition, if you use your skulking spy power on the same turn after using this power, that use of skulking spy allows you to shift through enemy spaces. "
     ],
     "range": "Personal",
     "requirement": "At least two creatures must be within 1 square of you and be able to see and hear you.",
@@ -8713,7 +8713,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You memorize your surroundings for later recall.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, whenever you make an Insight check or a Perception check, you can roll twice and take the higher result. You can later perfectly recall anything that you sense while this effect persists, such as a skimmed document or the exact wording of a conversation you overheard.</p>"
+      " Personal   Effect: Until the end of the encounter, whenever you make an Insight check or a Perception check, you can roll twice and take the higher result. You can later perfectly recall anything that you sense while this effect persists, such as a skimmed document or the exact wording of a conversation you overheard. "
     ],
     "range": "Personal",
     "effect": "Until the end of the encounter, whenever you make an Insight check or a Perception check, you can roll twice and take the higher result. You can later perfectly recall anything that you sense while this effect persists, such as a skimmed document or the exact wording of a conversation you overheard."
@@ -8732,7 +8732,7 @@
       "Fear, Stance"
     ],
     "range": "Personal",
-    "effect": "You assume a stance, the mark of the vigilante. Until the stance ends, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Whenever you hit an enemy with a melee or ranged attack, you can mark the enemy until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You gain a +2 power bonus to all defenses against opportunity attacks that you provoke by moving."
+    "effect": "You assume a stance, the mark of the vigilante. Until the stance ends, you gain the following benefits.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Whenever you hit an enemy with a melee or ranged attack, you can mark the enemy until the end of your next turn.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  You gain a +2 power bonus to all defenses against opportunity attacks that you provoke by moving."
   },
   "Vigilante Grit": {
     "id": "'16680",
@@ -8745,7 +8745,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You draw upon your inner drive to shake off a debilitating effect.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Make a saving throw against one effect that a save can end.</p>"
+      " Personal   Effect: Make a saving throw against one effect that a save can end. "
     ],
     "range": "Personal",
     "effect": "Make a saving throw against one effect that a save can end."
@@ -8761,7 +8761,7 @@
     "sourceRef": "Dragon Magazine 426",
     "flavor": "You flamboyantly rush into combat, dazzling your foes.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You roll initiative.</p><p class=\"flavor\">Effect: You gain a +5 power bonus to your initiative check. Additionally, you gain a +2 power bonus to speed and to attack rolls until the end of the encounter or an enemy acts in the encounter. Until the end of the encounter or until an enemy hits you with an attack, you gain a +2 power bonus to all defenses.</p>"
+      " Personal   Trigger: You roll initiative.  Effect: You gain a +5 power bonus to your initiative check. Additionally, you gain a +2 power bonus to speed and to attack rolls until the end of the encounter or an enemy acts in the encounter. Until the end of the encounter or until an enemy hits you with an attack, you gain a +2 power bonus to all defenses. "
     ],
     "range": "Personal",
     "trigger": "You roll initiative.",
@@ -8794,7 +8794,7 @@
     "sourceRef": "Dragon  Magazine 430",
     "flavor": "Your spiritual connection to the past sometimes provides you with unusual and shocking insights.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make an attack roll, a skill check, or an ability check.</p><p class=\"flavor\">Effect: You roll two d20s for the triggering roll, and use either result. If you roll the same number on both dice, after you complete the action related to the triggering roll, you are dazed until the end of your next turn.</p>"
+      " Personal   Trigger: You make an attack roll, a skill check, or an ability check.  Effect: You roll two d20s for the triggering roll, and use either result. If you roll the same number on both dice, after you complete the action related to the triggering roll, you are dazed until the end of your next turn. "
     ],
     "range": "Personal",
     "trigger": "You make an attack roll, a skill check, or an ability check.",
@@ -8811,7 +8811,7 @@
     "sourceRef": "Dragon  Magazine 430",
     "flavor": "You recall the successful efforts your people made to tame the world in which they lived.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose a beast, humanoid, or magical beast that you can see and make a monster knowledge check, using History in place of the skill you would normally use. If the result is 20 or higher, you gain combat advantage against the creature until the end of your next turn.</p>"
+      " Personal   Effect: Choose a beast, humanoid, or magical beast that you can see and make a monster knowledge check, using History in place of the skill you would normally use. If the result is 20 or higher, you gain combat advantage against the creature until the end of your next turn. "
     ],
     "range": "Personal",
     "effect": "Choose a beast, humanoid, or magical beast that you can see and make a monster knowledge check, using History in place of the skill you would normally use. If the result is 20 or higher, you gain combat advantage against the creature until the end of your next turn."
@@ -8827,7 +8827,7 @@
     "sourceRef": "Dragon  Magazine 430",
     "flavor": "Your mind momentarily drifts through time, back to your old life, and reveals the solution you need.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make an attack roll, a skill check, or an ability check, and you dislike the result.</p><p class=\"flavor\">Effect: Reroll three d20s for the triggering roll, and use any result. If you roll the same number on any two dice, after you complete the action related to the triggering roll, you are dazed until the end of your next turn.</p>"
+      " Personal   Trigger: You make an attack roll, a skill check, or an ability check, and you dislike the result.  Effect: Reroll three d20s for the triggering roll, and use any result. If you roll the same number on any two dice, after you complete the action related to the triggering roll, you are dazed until the end of your next turn. "
     ],
     "range": "Personal",
     "trigger": "You make an attack roll, a skill check, or an ability check, and you dislike the result.",
@@ -8844,7 +8844,7 @@
     "sourceRef": "Dragon  Magazine 430",
     "flavor": "The world wavers as you return to your proper time for a moment, which you bring back with you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You are removed from play for the next two turns and reappear at the start of the third. When you return, you can spend a healing surge and you gain an action point. You return to play in an unoccupied space within 5 squares of the last space you occupied.</p>"
+      " Personal   Effect: You are removed from play for the next two turns and reappear at the start of the third. When you return, you can spend a healing surge and you gain an action point. You return to play in an unoccupied space within 5 squares of the last space you occupied. "
     ],
     "range": "Personal",
     "effect": "You are removed from play for the next two turns and reappear at the start of the third. When you return, you can spend a healing surge and you gain an action point. You return to play in an unoccupied space within 5 squares of the last space you occupied."
@@ -8865,7 +8865,7 @@
     "range": "",
     "requirement": "You must be bloodied.",
     "target": "One creature",
-    "effect": "You use an at-will attack power against the target. If you hit, you deal the target 2d6 extra  damage. If you miss, you take 1d6 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3d6 extra damage; 2d6 damage if you miss.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4d6 extra damage; 3d6 damage if you miss."
+    "effect": "You use an at-will attack power against the target. If you hit, you deal the target 2d6 extra  damage. If you miss, you take 1d6 damage.<br/> Level 11: 3d6 extra damage; 2d6 damage if you miss.<br/> Level 21: 4d6 extra damage; 3d6 damage if you miss."
   },
   "River Rat Tactics": {
     "id": "'16696",
@@ -8894,7 +8894,7 @@
     "sourceRef": "Dragon  Magazine 430",
     "flavor": "Because of your shifting body language and fast talk, your foe has difficulty reacting to your actions.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Target: One creature that can see and hear you in the burst</p><p class=\"flavor\">Effect: Make a Bluff check to gain combat advantage against the target. If you succeed, you also  provoke no opportunity attacks from the target until the end of your next turn.</p>"
+      " Close burst 5  Target: One creature that can see and hear you in the burst  Effect: Make a Bluff check to gain combat advantage against the target. If you succeed, you also  provoke no opportunity attacks from the target until the end of your next turn. "
     ],
     "range": "Close burst 5",
     "target": "One creature that can see and hear you in the burst",
@@ -8911,7 +8911,7 @@
     "sourceRef": "Dragon  Magazine 430",
     "flavor": "When the odds look bleak, you smile and double down on your trash talk.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You are bloodied by an attack.</p><p class=\"flavor\">Effect: Until the end of the encounter, you gain a +1 power bonus to all defenses and a +1 power  bonus to saving throws. Whenever an attack misses you or you succeed on a saving throw, you gain temporary hit points equal to 3 + your Charisma modifier.</p>"
+      " Personal   Trigger: You are bloodied by an attack.  Effect: Until the end of the encounter, you gain a +1 power bonus to all defenses and a +1 power  bonus to saving throws. Whenever an attack misses you or you succeed on a saving throw, you gain temporary hit points equal to 3 + your Charisma modifier. "
     ],
     "range": "Personal",
     "trigger": "You are bloodied by an attack.",

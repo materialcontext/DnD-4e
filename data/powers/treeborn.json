@@ -1,0 +1,56 @@
+{
+  "Lashing Branches": {
+    "id": "'12560",
+    "action": "Standard",
+    "powerClass": "Treeborn",
+    "frequency": "Encounter",
+    "level": "11",
+    "name": "Lashing Branches",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 388",
+    "flavor": "Your moves emulate those of a storm-tossed tree, but they have deadly purpose. You can attack more than a single foe with one attack.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Melee weapon",
+    "target": "One or two creatures",
+    "attack": "Highest ability vs. AC",
+    "onHit": "2[W] + highest ability modifier, and you can slide the target a number of squares equal to your Wisdom modifier."
+  },
+  "Walking Sentinel": {
+    "id": "'12561",
+    "action": "Standard",
+    "powerClass": "Treeborn",
+    "frequency": "Daily",
+    "level": "20",
+    "name": "Walking Sentinel",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 388",
+    "flavor": "You briefly swell in height to the size of a forest ash. You stride through your enemies and rain blows down upon them.",
+    "keywords": [
+      "Weapon"
+    ],
+    "range": "Close burst 2",
+    "effect": "Before the attack, shift 4 squares. You can move through an enemy’s space during the shift.",
+    "target": "Each creature in the burst",
+    "attack": "Highest ability vs. AC",
+    "onHit": "4[W] + highest ability modifier damage.",
+    "onMiss": "Half damage."
+  },
+  "Root Sense": {
+    "id": "'12562",
+    "action": "Minor",
+    "powerClass": "Treeborn",
+    "frequency": "Encounter",
+    "level": "12",
+    "name": "Root Sense",
+    "type": "Utility",
+    "sourceRef": "Dragon Magazine 388",
+    "flavor": "You gain a better vantage on your foes from your increased height above the field of combat as well as through the tiny rootlets you send into the ground around you.",
+    "keywords": [
+      " Personal   Effect: You ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible. This benefit lasts until you successfully deal damage to a creature that enjoys one of the protections noted or until the end of the encounter. "
+    ],
+    "range": "Personal",
+    "effect": "You ignore penalties for cover (but not superior cover), concealment, and total concealment. You can attack an invisible target as if it wasn’t invisible. This benefit lasts until you successfully deal damage to a creature that enjoys one of the protections noted or until the end of the encounter."
+  }
+}

@@ -1,0 +1,3009 @@
+{
+  "Dominate": {
+    "id": "'1198",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Dominate",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "A silvery ray of psychic compulsion lances into your foe’s innermost thoughts, dazing it long enough for you to assume control of its actions.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "The target is dominated (save ends).",
+    "aftereffect": "The target takes ongoing 10 psychic damage (save ends).",
+    "onMiss": "The target takes ongoing 10 psychic damage (save ends)."
+  },
+  "Freedom of Movement": {
+    "id": "'2401",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Freedom of Movement",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You generate a field of slippery force that aids your allies who are entangled in difficult situations.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each ally in the burst",
+    "effect": "You slide each target a number of squares equal to 1 + your Wisdom modifier. In addition, the immobilized, restrained, and slowed conditions end on each target, and if a target is grabbed, the grab ends."
+  },
+  "Distract": {
+    "id": "'8224",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Distract",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your mental barrage momentarily confuses an enemy.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature<br/>Level 11: One or two creatures<br/>Level 21: One, two, or three creatures",
+    "effect": "The target grants combat advantage to the next creature that attacks it before the end of your next turn."
+  },
+  "Send Thoughts": {
+    "id": "'8225",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Send Thoughts",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You communicate telepathically with a creature.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature that shares a language with you",
+    "effect": "You send a mental message of 25 words or fewer to the target. The target can respond in kind as a free action."
+  },
+  "Dishearten": {
+    "id": "'8226",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Dishearten",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You insert thoughts of defeat into your foes’ minds, sapping their will to fight.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d6 + Intelligence modifier psychic damage, and the target takes a penalty to attack rolls equal to your Charisma modifier until the end of your next turn."
+  },
+  "Memory Hole": {
+    "id": "'8227",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Memory Hole",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You sift through your foe’s mind for the mental representation of yourself within it and brutally rip it out.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d6 + Intelligence modifier psychic damage, and you become invisible to the target until the start of your next turn."
+  },
+  "Mind Thrust": {
+    "id": "'8228",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Mind Thrust",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You unleash a psychic assault on your foe’s mental pathways. You can increase the assault’s intensity to weaken your foe’s defenses.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d10 + Intelligence modifier psychic damage, and the target takes a penalty to all defenses equal to your Charisma modifier until the end of your next turn.",
+    "special": "You can use this power unaugmented as a ranged basic attack."
+  },
+  "Mental Trauma": {
+    "id": "'8229",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Mental Trauma",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You assault your enemy with a psychic bolt, impairing its ability to withstand further assaults on its mind.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage.",
+    "onMiss": "Half damage.",
+    "effect": "The target gains vulnerable 5 psychic (save ends)."
+  },
+  "Ravening Thought": {
+    "id": "'8230",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Ravening Thought",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You craft an insidious idea barbed with contradictions and horrors and project it into the mind of your foe. The thought then tries to invade other foes’ minds.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "primaryTarget": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d6 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends).",
+    "onMiss": "Half damage, and ongoing 3 psychic damage (save ends).",
+    "effect": "Make a secondary attack.",
+    "secondaryTarget": "Each enemy adjacent to the primary target",
+    "secondaryAttack": "Intelligence vs. Will",
+    "secondaryOnHit": "1d6 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends)."
+  },
+  "Intellect Fortress": {
+    "id": "'8231",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Intellect Fortress",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "A shimmering fortress of mind-generated force springs into being, deflecting certain attacks.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You are hit by an attack",
+    "effect": "Choose a defense. Until the end of your next turn, you gain a power bonus to that defense equal to your Charisma modifier."
+  },
+  "Skill Empowerment": {
+    "id": "'8232",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Skill Empowerment",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You send currents of energy into your ally’s mind and body, empowering your comrade to achieve exceptional deeds.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One ally",
+    "effect": "Choose a skill. The target gains a +3 power bonus to checks using that skill until the end of the encounter."
+  },
+  "Betrayal": {
+    "id": "'8233",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Betrayal",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You weaken your foe’s sense of self and force it to betray a comrade.",
+    "keywords": [
+      "Augmentable, Charm, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One enemy",
+    "attack": "Intelligence vs. Will",
+    "onHit": "You slide the target a number of squares equal to your Charisma modifier to a square adjacent to an enemy. The target then makes a melee basic attack as a free action against that enemy, with a bonus to the attack roll and the damage roll equal to your Charisma modifier. The target is also dazed until the end of your next turn."
+  },
+  "Id Insinuation": {
+    "id": "'8234",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Id Insinuation",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You send tendrils of thought burrowing into your foes’ minds, compromising their resilience. By increasing the size of the tendrils, you can make your foes more susceptible to harm.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage. If an attack hits the target’s Fortitude before the end of your next turn, that attack deals extra damage equal to your Charisma modifier."
+  },
+  "Crisis of Identity": {
+    "id": "'8235",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Crisis of Identity",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You pull on the invisible threads of your foe's self-knowledge, scrambling the creature's mind.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d6 + Intelligence modifier psychic damage, and the target makes a melee basic attack as a free action against a creature of your choice, with a bonus to the attack roll and the damage roll equal to your Charisma modifier.",
+    "onMiss": "Half damage."
+  },
+  "Hypnotic Pulse": {
+    "id": "'8236",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Hypnotic Pulse",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You emanate a hypnotic ripple of psychic influence among your foes.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d6 + Intelligence modifier psychic damage, and the target is dazed (save ends).",
+    "onMiss": "The target is dazed until the end of your next turn."
+  },
+  "Mind Shadow": {
+    "id": "'8237",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Mind Shadow",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Your enemies’ ability to pay attention to you fades. You recede to the edge of their vision as nothing but a blurred shadow.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until you hit any creature with an attack or until the end of the encounter, you are invisible to your enemies if you are not their nearest enemy."
+  },
+  "Steadfast Stanchion": {
+    "id": "'8238",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Steadfast Stanchion",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You clamp invisible wedges of force onto space itself, tethering yourself and your allies against forced movement.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You become immune to forced movement until the end of your next turn. In addition, your allies are immune to forced movement while within 5 squares of you. If you move, the effect ends.",
+    "sustainMinor": "The effect persists."
+  },
+  "Force Grasp": {
+    "id": "'8239",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Force Grasp",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You grasp your foe with a hand of shimmering force, slowing it. You can hold the foe in place if you infuse the hand with enough power.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One or two creatures",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier force damage, and the target is immobilized until the end of your next turn."
+  },
+  "Mind Break": {
+    "id": "'8240",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Mind Break",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You lance your foe’s mind with mental trauma, which makes it vulnerable to psychic damage. If you choose, you can strip away its psychic resistances.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage, and the target gains vulnerability to psychic damage equal to 5 + your Charisma modifier until the end of your next turn.",
+    "special": "You can use this power unaugmented as a ranged basic attack."
+  },
+  "Mind Blast": {
+    "id": "'8241",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Mind Blast",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You blast your foes with a torrent of psychic energy, which sends shock waves through the air like heat waves off desert sand.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Close blast 5",
+    "target": "Each creature in the blast",
+    "attack": "Intelligence vs. Will",
+    "onHit": "The target is stunned (save ends).",
+    "onMiss": "The target is dazed until the end of your next turn."
+  },
+  "Sensory Onslaught": {
+    "id": "'8242",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Sensory Onslaught",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You overload your foe’s senses with a blaring, flashing, odorous mental onslaught that only it can perceive.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d10 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends).",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of your next turn, the target takes a –2 penalty to attack rolls and to all defenses, and it can’t take opportunity actions."
+  },
+  "Intellect Leech": {
+    "id": "'8243",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Intellect Leech",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You force a short-range telepathic connection on your foe. Every time your enemy’s mind is damaged, you draw invigorating energy from it.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature.",
+    "effect": "Until the end of the encounter, whenever the target takes psychic damage while within 10 squares of you, you gain temporary hit points equal to 5 + your Charisma modifier."
+  },
+  "Mind over Flesh": {
+    "id": "'8244",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Mind over Flesh",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You draw on your reservoir of psionic power to bolster yourself against a debilitating effect.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "An effect dazes, dominates, or stuns you",
+    "effect": "You make a saving throw against the triggering effect. If you save, the triggering effect doesn’t affect you."
+  },
+  "Dual Hallucination": {
+    "id": "'8245",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Dual Hallucination",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You pull disquieting images from your foes’ minds and combine the images into horrific hallucinations, which you use to disorient those foes.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One or two creatures",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn."
+  },
+  "Mind Wipe": {
+    "id": "'8246",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Mind Wipe",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You fray your foe’s offensive abilities with a psychic lance of disruption.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and the target takes a penalty equal to your Charisma modifier to the next attack roll it makes before the end of your next turn."
+  },
+  "Psychic Crush": {
+    "id": "'8247",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Psychic Crush",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You crush some of your enemies’ mental processes. The enemies’ bodies spasm with the pain that lingers.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and ongoing 5 psychic damage (save ends). If the target is bloodied, it is also dazed (save ends).",
+    "onMiss": "Half damage. If the target is bloodied, it is dazed until the end of your next turn."
+  },
+  "Psychofeedback": {
+    "id": "'8248",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Psychofeedback",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You sever one of your foe’s mental pathways, causing searing pain. You can exploit that mental wound whenever the foe harms your friends, renewing your own vitality.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One or two creatures",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and the target is dazed (save ends). While the target is dazed by this power, you gain temporary hit points equal to 1d8 + your Charisma modifier whenever the target deals damage to another creature.",
+    "onMiss": "Half damage."
+  },
+  "Precognitive Step": {
+    "id": "'8249",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Precognitive Step",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You can see the shades of things to come a heartbeat before they occur, granting you a sliver of time in which to alter events.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Roll a d20. Once during this encounter, you can use that roll’s result in place of one of your attack rolls, saving throws, skill checks, or ability checks or in place of an enemy’s attack roll against you."
+  },
+  "Psychic Chirurgery": {
+    "id": "'8250",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Psychic Chirurgery",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You send a charge of psionic energy into yourself or an ally, delaying an adverse effect.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Melee touch",
+    "trigger": "You or an ally is subjected to an effect that a save can end.",
+    "target": "You or the ally",
+    "effect": "The target isn’t subjected to the effect until the end of his or her next turn and can’t start making saving throws against the effect until after that turn."
+  },
+  "Forced Opportunity": {
+    "id": "'8251",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Forced Opportunity",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You jolt your foe’s psyche, disrupting its concentration and allowing an ally to strike the foe during the lapse. By channeling more psionic energy, you can create an opening for several allies to exploit.",
+    "keywords": [
+      "Augmentable, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "Each of your allies adjacent to the target can make an opportunity attack against it as a free action, with a bonus to the attack roll and the damage roll equal to your Charisma modifier."
+  },
+  "Psychic Brand": {
+    "id": "'8252",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Psychic Brand",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You manifest a glowing symbol over your enemy’s head. The symbol moves with your foe, helping reveal its location. At your choosing, the symbol can intensify your foe’s pain.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d10 + Intelligence modifier psychic damage. Until the end of your next turn, the target cannot benefit from concealment or total concealment, and it gains vulnerability to all damage equal to your Charisma modifier.",
+    "special": "You can use this power unaugmented as a ranged basic attack."
+  },
+  "Psychic Leech": {
+    "id": "'8253",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Psychic Leech",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You plunge a thread of command into your foe’s mind, forcing the foe to turn on its ally. You draw psionic power from your foe, and you gain vitality if the foe hits its companion.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d10 + Intelligence modifier psychic damage, and the target makes a basic attack as a free action against a creature of your choice. If that attack hits, you gain temporary hit points equal to the damage it deals.",
+    "onMiss": "The target makes a basic attack as a free action against a creature of your choice. If that attack hits, you gain temporary hit points equal to your Charisma modifier.",
+    "effect": "You regain 1 power point."
+  },
+  "Mind Over Earth": {
+    "id": "'8254",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Mind Over Earth",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "The ground falls away as you effortlessly propel yourself upward.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You gain a fly speed of 8 and can hover until the end of the encounter."
+  },
+  "Rejuvenate the Mind": {
+    "id": "'8255",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Rejuvenate the Mind",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "When you catch your breath, you experience a rush of psionic vigor.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You use your second wind.",
+    "effect": "You regain 2 power points."
+  },
+  "Daggers of Pain": {
+    "id": "'8256",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Daggers of Pain",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You send shards of psychic aggression ripping through your enemies, scarring their minds. When those foes move, you can intensify the pain.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "4d8 + Intelligence modifier psychic damage, and the target takes psychic damage equal to your Charisma modifier for each square it moves on its next turn."
+  },
+  "Sudden Control": {
+    "id": "'8257",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Sudden Control",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With a thought, you force your foe to attack one of its companions. With greater concentration, your control becomes absolute.",
+    "keywords": [
+      "Augmentable, Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One enemy",
+    "attack": "Intelligence vs. Will",
+    "onHit": "The target is dominated until the end of your next turn. Until the domination ends, the target gains a bonus to attack rolls and damage rolls equal to your Charisma modifier."
+  },
+  "Mind Switch": {
+    "id": "'8258",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Mind Switch",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You project a fragment of your consciousness into your enemy’s mind, disorienting the enemy and creating a temporary clone of your will within it that you can use to channel your magic.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage, and the target takes ongoing 10 psychic damage and is stunned (save ends both). While the target is stunned by this power, you can use a square in the target’s space as the origin square of your psionic implement powers.",
+    "onMiss": "Half damage, and the target is dazed (save ends)."
+  },
+  "Thrall": {
+    "id": "'8259",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Thrall",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Psychic energy pierces your foe’s sense of self, distracting the foe so that you can assume control of its actions.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "The target is dominated (save ends).",
+    "aftereffect": "1d10 psychic damage, and the target grants combat advantage until the end of its next turn.",
+    "onMiss": "The target is dazed (save ends)."
+  },
+  "Concussive Detonation": {
+    "id": "'8260",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Concussive Detonation",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You unleash a blast of force, which tears into your foes, leaving them off balance. You can focus the blast to knock your enemies senseless.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Close blast 3",
+    "target": "Each creature in the blast",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d8 + Intelligence modifier force damage, and the target is stunned until the end of your next turn."
+  },
+  "Psionic Veil": {
+    "id": "'8261",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Psionic Veil",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You pull a veil over your foes’ senses, hiding yourself and your allies. With a little more power, you can blind your enemies.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 2 within 20 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and the target is blinded until the end of your next turn."
+  },
+  "Microcosm": {
+    "id": "'8262",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Microcosm",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You blast your foe with a cacophony of conflicting images and muscle commands, replacing its perception of reality with sights, sounds, and smells that don’t exist.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "5d8 + Intelligence modifier psychic damage, and the target is deafened (save ends), blinded (save ends), and slowed (save ends).",
+    "onMiss": "Half damage, and the target is blinded (save ends).",
+    "effect": "Until the power’s effects end on the target, you can slide it a number of squares equal to your Charisma modifier as a minor action once per round."
+  },
+  "Soul Break": {
+    "id": "'8263",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Soul Break",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You sear your foe with an ebony ray of psychic compulsion, giving it the choice to remain under your domination or pay a terrible price.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "The target is dominated (save ends).",
+    "aftereffect": "The target chooses either to be stunned until the end of its next turn or to take 3d10 + your Intelligence modifier psychic damage.",
+    "onMiss": "2d10 + Intelligence modifier psychic damage, and the target is dazed (save ends)."
+  },
+  "Far Hand": {
+    "id": "'11267",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Far Hand",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You lift an object into the air with the power of your mind.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 5",
+    "target": "One object that weighs 20 pounds or less and isn’t carried by another creature",
+    "effect": "You either move the target to a square within range or manipulate it. When you move the target with this power, you can cause the target to remain aloft until the end of your next turn. If you are holding the target when you use this power, you can put it into a container that’s on your person and simultaneously move a second object that you’re carrying to your hand. The second object then becomes the target if it weighs 20 pounds or less.",
+    "sustainMinor": "You either move the target to a square within range or manipulate it."
+  },
+  "Forceful Push": {
+    "id": "'11268",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Forceful Push",
+    "type": "Feature",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With a focused thought, your mental push becomes physical force, moving a creature in the direction you choose.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "effect": "You slide the target 1 square, but not into hindering terrain.<br/>Level 11: You slide the target 2 squares.<br/>Level 21: You slide the target 3 squares."
+  },
+  "Force Punch": {
+    "id": "'11269",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Force Punch",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You punch your foe telekinetically, pushing it and its allies away from you.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Melee 1",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "1d8 + Intelligence modifier + Wisdom modifier force damage, and you knock the target prone. In addition, you push the target and each enemy adjacent to you 1 square."
+  },
+  "Kinetic Trawl": {
+    "id": "'11270",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Kinetic Trawl",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You catch your foe in a net of constricting force and draw the foe toward you.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d10 + Intelligence modifier force damage, and you pull the target a number of squares equal to your Wisdom modifier.",
+    "special": "You can use this power unaugmented as a ranged basic attack."
+  },
+  "Hand of Caution": {
+    "id": "'11271",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Hand of Caution",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You forge a barrier of hand-shaped force. When your foe moves too close to you, the barrier repels it.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d8 + Intelligence modifier force damage.",
+    "onMiss": "Half damage.",
+    "effect": "Until the end of the encounter, you can use a minor action to push the target 1 square when the target is within 5 squares of you. This effect ends if you end your turn adjacent to the target."
+  },
+  "Telekinetic Anchor": {
+    "id": "'11272",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Telekinetic Anchor",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You drive an unseen spike of force into space itself, anchoring creatures in place and causing them harm if they struggle.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "3d6 + Intelligence modifier force damage.",
+    "onMiss": "Half damage.",
+    "effect": "Each target takes 5 force damage the first time it moves on its next turn."
+  },
+  "Telekinetic Lift": {
+    "id": "'11273",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Telekinetic Lift",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You lift a creature or an object into the air with the power of your mind and can hold it there or move it as you wish.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One ally, helpless enemy, or object that weighs 400 pounds or less and isn’t carried by another creature",
+    "effect": "You slide the target 3 squares in any direction, even into the air. The target remains aloft and is immobilized until the end of your next turn. You can end this effect as a free action, and it ends if you end your turn out of range of the target. If the target is a creature, it can end the effect as a minor action.",
+    "sustainMinor": "The target remains aloft and is immobilized until the end of your next turn, and you can slide the target 3 squares in any direction. Alternatively, you can drop the target and then use the power on a new target."
+  },
+  "Transport Self": {
+    "id": "'11274",
+    "action": "Move",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Transport Self",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With a thought, you transport yourself to a position that better suits your desires.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Personal",
+    "effect": "You teleport a number of squares equal to 1 + your Wisdom modifier."
+  },
+  "Burning Flux": {
+    "id": "'11275",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Burning Flux",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You telekinetically grasp empty space and shape it into a whirlwind of burning, grasping filaments that sears nearby enemies.",
+    "keywords": [
+      "Augmentable, Fire, Implement, Psionic, Zone"
+    ],
+    "range": "Ranged 10",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d6 + Intelligence modifier fire damage.",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. The zone is totally obscured, and any creature that enters the zone or starts its turn there takes fire damage equal to your Wisdom modifier.",
+    "area": "burst 1 within 10 squares"
+  },
+  "Force Hammer": {
+    "id": "'11276",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Force Hammer",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You fashion a hammer of force to smash your enemies and either slow them or knock them to the ground.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "1d8 + Intelligence modifier force damage, and you knock the target prone."
+  },
+  "Shredding Ribbons": {
+    "id": "'11277",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Shredding Ribbons",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "A mass of whirling, shredding, translucent ribbons of force erupts into existence at your behest. The razor-sharp tendrils repeatedly slice into your foes.",
+    "keywords": [
+      "Force, Implement, Psionic, Zone"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d6 + Intelligence modifier force damage.",
+    "onMiss": "Half damage.",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. Any creature that enters the zone or starts its turn there takes force damage equal to your Wisdom modifier. A creature can take this damage only once per turn.",
+    "sustainMinor": "The zone persists."
+  },
+  "Telekinetic Maul": {
+    "id": "'11316",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Telekinetic Maul",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You form a maul of telekinetic force and slam it into your foe, knocking that enemy backward.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. AC",
+    "onHit": "3d12 + Intelligence modifier force damage, and you push the target a number of squares equal to your Wisdom modifier (minimum 1). If you push the target into difficult terrain, the target falls prone.",
+    "onMiss": "Half damage, and you push the target 1 square."
+  },
+  "Telekinetic Screen": {
+    "id": "'11318",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Telekinetic Screen",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You mentally project a thin layer of force around yourself to ward off a deadly attack.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "An enemy scores a critical hit against you",
+    "effect": "The attack’s damage is reduced by 10 + your Wisdom modifier."
+  },
+  "Cranial Disturbance": {
+    "id": "'11319",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Cranial Disturbance",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You generate a spike of expanding force within your enemy, disorienting that foe and knocking it off balance. You can expand the spike to have it explode, affecting more foes.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "1d8 + Intelligence modifier force damage, and the target is dazed until the end of your next turn. In addition, each creature adjacent to the target takes force damage equal to 5 + your Wisdom modifier."
+  },
+  "Dread Spiral": {
+    "id": "'11320",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Dread Spiral",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You focus your thoughts on your foe, binding it with unbreakable force that lets you move it as you wish. By exerting more willpower, you can move your enemy farther.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d10 + Intelligence modifier force damage, and you slide the target a number of squares equal to your Wisdom modifier."
+  },
+  "Clear the Slate": {
+    "id": "'11321",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Clear the Slate",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You create huge gauntlets of mental force that snatch creatures and move them into positions that you desire.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d6 + Intelligence modifier force damage, and you slide the target a number squares equal to 3 + your Wisdom modifier.",
+    "onMiss": "Half damage, and you slide the target 1 square."
+  },
+  "Mind Cannon": {
+    "id": "'11322",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Mind Cannon",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You rend your foe with a thunderous explosion of force, which sends a shock wave into nearby creatures.",
+    "keywords": [
+      "Force, Implement, Psionic, Thunder"
+    ],
+    "range": "Ranged 10",
+    "primaryTarget": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier force and thunder damage. You push the primary target 1 square, and it is deafened (save ends).",
+    "effect": "Make a secondary attack that is a close burst 1 centered on the primary target.",
+    "secondaryTarget": "Each creature in the burst other than the primary target",
+    "secondaryAttack": "Intelligence vs. Fortitude",
+    "secondaryOnHit": "1d8 + Wisdom modifier thunder damage.",
+    "secondaryOnMiss": "Half damage."
+  },
+  "Force Bubble": {
+    "id": "'11323",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Force Bubble",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You create invisible spheres of force around yourself and your nearby allies. The spheres mute or even stop dangerous energy that rages beyond them.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 1",
+    "target": "You and each ally in the burst",
+    "effect": "Choose cold, fire, force, lightning, necrotic, radiant, or thunder. Until the end of your next turn, each target gains resistance to that damage type, but only when the damage is from ranged or area attacks. The resistance equals 5 + your Intelligence modifier."
+  },
+  "Sky Hook": {
+    "id": "'11324",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Sky Hook",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You direct your telekinetic focus on yourself and raise yourself into the air.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of the encounter, you have a fly speed equal to your speed (hover; altitude limit 2)."
+  },
+  "Concussion Burst": {
+    "id": "'11325",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Concussion Burst",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "The air ripples as you knock your foes down with a wave of pummeling force.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d6 + Intelligence modifier force damage, and the target falls prone."
+  },
+  "Thunder Tether": {
+    "id": "'11326",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Thunder Tether",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You focus your will and wrench space around your foes, tethering them in place. Any of them that try to move pay a thunderous price.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Thunder"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "One or two creatures in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d8 + Intelligence modifier thunder damage. If the target moves before the start of your next turn, it and each creature adjacent to it at the start of that move take thunder damage equal to your Wisdom modifier.",
+    "keyword": "This power gains the Zone keyword."
+  },
+  "Crushing Bludgeon": {
+    "id": "'11327",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Crushing Bludgeon",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You manifest a massive fist of unstoppable force and bludgeon your foe with it, slowing that enemy’s movements.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. AC",
+    "onHit": "4d10 + Intelligence modifier force damage, and the target is slowed (saved ends).",
+    "onMiss": "Half damage, and the target is slowed until the end of your next turn."
+  },
+  "Imprison": {
+    "id": "'11328",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Imprison",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You release an explosion of force that sends your foes spinning away. You then reshape that force into shackles to bind your enemies in place.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d6 + Intelligence modifier force damage. You slide the target a number of squares equal to 2 + your Wisdom modifier, and it is immobilized (save ends).",
+    "onMiss": "Half damage, and you slide the target 1 square."
+  },
+  "Telekinetic Boost": {
+    "id": "'11330",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Telekinetic Boost",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You focus your mental energy on creating a conduit for your allies’ movement.",
+    "keywords": [
+      "Psionic, Zone"
+    ],
+    "range": "Ranged 5",
+    "effect": "You create a zone in an unoccupied square within range. The zone lasts until the end of your next turn. When any ally enters the zone, you can use a free action to slide that ally a number of squares equal to your Wisdom modifier. You can slide the ally in any direction, even into the air.",
+    "sustainMinor": "The zone persists, and you can move it to a different unoccupied square within range."
+  },
+  "Crystalline Bonds": {
+    "id": "'11331",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Crystalline Bonds",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You construct a lattice of binding crystalline force. By increasing the lattice’s strength, you can induce pain in the foes inside the lattice.",
+    "keywords": [
+      "Augmentable, Implement, Psionic"
+    ],
+    "range": "Close blast 3",
+    "target": "Each creature in the blast",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "3d10 + Intelligence modifier force damage, and the target is immobilized until the end of your next turn.",
+    "keyword": "This power gains the Force keyword."
+  },
+  "Shield Crack": {
+    "id": "'11332",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Shield Crack",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Lightning erupts from your brow in all directions, battering the defenses of all in its path. By refining the shape of the arc, you can have it strike only those you choose.",
+    "keywords": [
+      "Augmentable, Implement, Lightning, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d8 + Intelligence modifier lightning damage, and the target takes a penalty to AC and Reflex until the end of your next turn. The penalty equals your Wisdom modifier."
+  },
+  "Crisis of Breath": {
+    "id": "'11333",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Crisis of Breath",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You telekinetically plug your foe’s airways, causing the creature to suffocate, and interfering with its other vital functions.",
+    "keywords": [
+      "Implement, Psionic, Reliable"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier damage, and ongoing 10 damage (save ends). The target takes a -4 penalty to its first saving throw against this ongoing damage.",
+    "sustainMinor": "The target takes a -2 penalty to its next saving throw against the ongoing damage."
+  },
+  "Shred Reality": {
+    "id": "'11334",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Shred Reality",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "With an explosion of telekinetic force, you rip a temporary hole in reality that pulls at friend and foe alike. One of them is briefly sucked into that void.",
+    "keywords": [
+      "Force, Implement, Psionic, Teleportation"
+    ],
+    "range": "Area burst 3 within 10 squares",
+    "primaryTarget": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d8 + Intelligence modifier force damage, and you teleport the target 3 squares.",
+    "effect": "Make a secondary attack.",
+    "secondaryTarget": "One creature hit by the primary attack",
+    "secondaryAttack": "Intelligence vs. Will",
+    "secondaryOnHit": "The target is removed from play. At the end of your next turn, the target reappears in an unoccupied space of your choice within 5 squares of you and is dazed until the end of its next turn.",
+    "secondaryOnMiss": "The target is dazed until the end of your next turn."
+  },
+  "Through the Walls": {
+    "id": "'11335",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Through the Walls",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You alter the physical form of those nearby, allowing you and your friends to walk through walls.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 1",
+    "target": "You and each ally in the burst",
+    "effect": "Each target is phasing until the end of your next turn.",
+    "sustainMinor": "The effect persists."
+  },
+  "Warding Shield": {
+    "id": "'11337",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Warding Shield",
+    "type": "Utility",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "As your enemy’s assault washes toward you, you create a field of psionic energy to protect yourself and your allies.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 5",
+    "trigger": "An enemy targets you with an area or a close attack",
+    "target": "You and each ally in the burst",
+    "effect": "Until the end of your next turn, each target gains a bonus to AC, Fortitude, and Reflex equal to your Wisdom modifier."
+  },
+  "Cruel Crush": {
+    "id": "'11338",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Cruel Crush",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You smash your foe to the ground with crushing telekinetic force. By channeling more power, you can grind the foe into the ground.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 20",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "4d8 + Intelligence modifier force damage, and you knock the target prone. It cannot stand up until the end of your next turn."
+  },
+  "Space Vortex": {
+    "id": "'11339",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Space Vortex",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You tear a momentary vortex in space above your foe and hurl the foe through it.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic, Teleportation"
+    ],
+    "range": "Ranged 5",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d12 + Intelligence modifier force damage, and the target is removed from play. At the end of your next turn, the target reappears in an unoccupied space of your choice within 10 squares of you."
+  },
+  "Forest of Exclusion": {
+    "id": "'11340",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Forest of Exclusion",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Strands of force ripple outward from you, battering your foes away. With focus, you can maintain the field of energy to continue pushing away those who wish you harm.",
+    "keywords": [
+      "Force, Implement, Psionic, Zone"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "4d10 + Intelligence modifier force damage, and you push the target 4 squares.",
+    "onMiss": "Half damage, and you push the target 2 squares.",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. When you move, the zone moves with you, remaining centered on you. Any enemy that enters the zone or starts its turn there takes 5 force damage and grants combat advantage until the end of its next turn. An enemy can take this damage only once per turn.",
+    "sustainMinor": "The zone persists."
+  },
+  "Telekinetic Bombard": {
+    "id": "'11341",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Telekinetic Bombard",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You project a shimmering dart of deadly force toward your foes. It explodes, flinging victims away.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Area burst 2 within 20 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "5d6 + Intelligence modifier force damage, and you push the target a number of squares from the center of the burst equal to your Wisdom modifier. If the target ends adjacent to blocking terrain, the target takes 3d6 extra damage.",
+    "onMiss": "Half damage, and you push the target 2 squares from the center of the burst."
+  },
+  "Claws of Force": {
+    "id": "'11342",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Claws of Force",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "Claws of force erupt around your enemy. By increasing the claws’ strength, you can keep your foe close or hold it in place.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d8 + Intelligence modifier force damage, and the target is restrained until the end of your next turn."
+  },
+  "Intrusive Spear": {
+    "id": "'11343",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Intrusive Spear",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You fashion a spear of telekinetic force and launch it at your foe. The spear strikes with such might that the foe’s defenses falter.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 20",
+    "target": "Two creatures adjacent to each other",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "4d8 + Intelligence modifier force damage, and the target grants combat advantage until the end of your next turn."
+  },
+  "Clasp of the Psion": {
+    "id": "'11344",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Clasp of the Psion",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You cause two shimmering, gigantic hands of force to smash your foes and grasp them in place.",
+    "keywords": [
+      "Force, Implement, Psionic, Zone"
+    ],
+    "range": "Area burst 2 within 20 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "6d6 + Intelligence modifier force damage, and the target is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is slowed (saved ends).",
+    "effect": "The burst creates a zone that lasts until the end of the encounter. While within the zone, any enemy that is hit by a force power is also immobilized until the end of its next turn."
+  },
+  "Tear the World": {
+    "id": "'11345",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Tear the World",
+    "type": "Attack",
+    "sourceRef": "Player's Handbook 3",
+    "flavor": "You strike your enemies with an overwhelming blast of telekinetic force that drives your foes away and almost tears the fabric of reality itself.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Close blast 5",
+    "target": "Each creature in the blast",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "5d6 + Intelligence modifier force damage, and ongoing 15 force damage (save ends).",
+    "aftereffect": "If the target is within 10 squares of you, you push it a number of squares equal to your Wisdom modifier.",
+    "onMiss": "Half damage, and you push the target 3 squares."
+  },
+  "Shaped Consciousness": {
+    "id": "'13300",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Shaped Consciousness",
+    "type": "Feature",
+    "sourceRef": "Psionic Power",
+    "flavor": "You shape a fragment of your consciousness, bringing it into existence to extend your scope on the battlefield.",
+    "keywords": [
+      "Conjuration, Psionic"
+    ],
+    "range": "Close burst 10",
+    "effect": "You conjure a fragment of your consciousness in an unoccupied square in the burst. The fragment lasts until the end of the encounter or until you dismiss it as a minor action. The fragment occupies its square, and you and your allies can move through it. When you take a move action, you can also move your fragment a number of squares equal to your speed. You can see, hear, and use psion powers as if you were in your fragment’s space.<br/> Your fragment can be attacked. If it takes any damage, it disappears. It is immune to your attacks."
+  },
+  "Minor Creation": {
+    "id": "'13301",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Minor Creation",
+    "type": "Feature",
+    "sourceRef": "Psionic Power",
+    "flavor": "You create something from nothing.",
+    "keywords": [
+      "Conjuration, Psionic"
+    ],
+    "range": "Ranged 5",
+    "effect": "You conjure a nonliving, nonmagical object that appears within range, either in an unoccupied square, in your hand, or in an ally’s hand. The object lasts until the end of the encounter or until you dismiss it as a free action. The object you conjure is a single weapon or an item listed under “Adventuring Gear,” page 222 of the Player’s Handbook. At the Dungeon Master’s discretion, you can create some other nonmagical object no larger than one that a Medium creature can carry."
+  },
+  "Dimensional Scramble": {
+    "id": "'13302",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Dimensional Scramble",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack causes space to jumble and fragment, scattering creatures into different positions.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Teleportation"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d6 + Intelligence modifier damage, and you teleport the target to another square in or adjacent to the burst."
+  },
+  "Force Shard": {
+    "id": "'13303",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Force Shard",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A shard of pure force appears in the air at your mental command, creating a hazard for your foes.",
+    "keywords": [
+      "Augmentable, Conjuration, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 5",
+    "bonusPower": {
+      "name": "Force Shard Attack",
+      "flavor": "",
+      "keywords": [
+        "Conjuration, Force, Implement, Psionic"
+      ],
+      "range": "Ranged 5",
+      "frequency": "At-Will",
+      "requirement": "The power Force Shard must be active in order to use this power.",
+      "target": "One creature",
+      "attack": "Intelligence vs. Reflex",
+      "onHit": "1d8 + Intelligence modifier force damage.",
+      "effect": "The force shard is expended."
+    },
+    "effect": "You conjure a force shard as above, and you can also move the force shard 5 squares as a move action.",
+    "onHit": "2d8 + Intelligence modifier force damage."
+  },
+  "Mind Lock": {
+    "id": "'13305",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Mind Lock",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack locks down an enemy’s ability to focus, hindering its movement.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "As above, and the target also cannot shift until the end of your next turn."
+  },
+  "Living Missile": {
+    "id": "'13308",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Living Missile",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You bind an enemy with a thought, then hurl it into another foe.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "primaryTarget": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "The target is immobilized (save ends).",
+    "onMiss": "The target is slowed (save ends).",
+    "effect": "Before the secondary attack, you slide the primary target 10 squares.",
+    "requirement": "The power Living Missile must be active in order to use this power.  This power may be used once per round.",
+    "secondaryTarget": "One creature adjacent to the primary target at any point during the slide",
+    "secondaryAttack": "Intelligence vs. Reflex",
+    "secondaryOnHit": "2d6 + Intelligence modifier damage, and the secondary target falls prone. The primary target takes half damage and falls prone.",
+    "secondaryOnMiss": "Half damage, and the primary target falls prone."
+  },
+  "Psychic Dissolution": {
+    "id": "'13310",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Psychic Dissolution",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A psychic wind scours your foe, shredding it to a dark haze.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier damage, and ongoing 5 damage (save ends).",
+    "onMiss": "Half damage, and ongoing 5 damage (save ends).",
+    "effect": "When the target takes ongoing damage from this power, each square adjacent to the target becomes lightly obscured until the end of your next turn."
+  },
+  "Summon Thought Servant": {
+    "id": "'13311",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Summon Thought Servant",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "The power of your mind summons an obedient servant that can fight with you or come to an ally’s aid.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and you can give the thought servant the following additional command.",
+    "standardAction": "Melee 1; targets one creature; Intelligence vs. AC; 1d10 + Intelligence modifier psychic damage.",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. AC; 1d10 + Intelligence modifier psychic damage.",
+    "opportunityAction": "Triggered when a dying ally adjacent to the servant starts its turn; targets the triggering ally; the servant makes a Heal check to stabilize the target or to allow the target to use his or her second wind."
+  },
+  "Telepathic Projection": {
+    "id": "'13312",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "1",
+    "name": "Telepathic Projection",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You force your own will into an enemy’s mind, manipulating the foe like a puppet under your control.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and the target is subject to your telepathic projection (save ends). While the target is affected by your telepathic projection, when you start your turn, the target makes a melee basic attack as a free action against a target you choose.",
+    "onMiss": "Half damage, and the target makes a melee basic attack against a random creature. If this attack targets one of your allies, the target takes a -2 penalty to the attack roll."
+  },
+  "Borrow Training": {
+    "id": "'13313",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Borrow Training",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You reach into an ally’s mind to borrow the knowledge you need.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One ally",
+    "effect": "Choose one skill in which the target is trained and you are not. Until the end of your next turn, you gain a +5 power bonus to skill checks with the chosen skill."
+  },
+  "Buoyancy of Thought": {
+    "id": "'13314",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Buoyancy of Thought",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your mind catches you whenever you might fall.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You take falling damage or an attack knocks you prone",
+    "effect": "You reduce any falling damage by a number of points equal to your level, and you are not knocked prone by the triggering attack or the triggering fall."
+  },
+  "Dimensional Stowaway": {
+    "id": "'13315",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Dimensional Stowaway",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You establish a psychic connection to an ally, bringing it with you when you teleport.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Melee 1",
+    "trigger": "You teleport or a creature teleports you",
+    "target": "One ally adjacent to you before the teleport",
+    "effect": "You teleport the target to a square adjacent to your destination."
+  },
+  "Mind Shroud": {
+    "id": "'13316",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "2",
+    "name": "Mind Shroud",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You slow your movement to shroud yourself in a shimmering haze, clouding all creatures’ minds against your presence.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "Until the end of your next turn, you have superior cover and you are slowed."
+  },
+  "Crushing Turmoil": {
+    "id": "'13317",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Crushing Turmoil",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack crushes your enemy’s confidence and resolve, hindering its ability to shrug off debilitating effects.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls and saving throws until the end of your next turn."
+  },
+  "Fuse Form": {
+    "id": "'13318",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Fuse Form",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "The energy of your mind scours your foe to hinder its movement, and it can bind multiple enemies together with unbreakable psychic bonds.",
+    "keywords": [
+      "Augmentable, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "1d8 + Intelligence modifier damage, and if the primary target moves more than 2 squares on its next turn, it takes 5 damage. You make a secondary attack that is an area burst 1 centered on the primary target.",
+    "keyword": "Fear",
+    "primaryTarget": "One creature",
+    "secondaryTarget": "Each enemy in the burst",
+    "secondaryAttack": "Intelligence vs. Reflex",
+    "secondaryOnHit": "5 + Intelligence modifier damage. Until the end of your next turn, the secondary target cannot move to a square that is not adjacent to the primary target, and the primary target cannot move to a square that is not adjacent to one or more secondary targets."
+  },
+  "Kinetic Trip": {
+    "id": "'13319",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Kinetic Trip",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack constrains your enemy, bowling it over unless it stands its ground.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One, two, or three creatures",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "1d8 + Intelligence modifier force damage. On its next turn, if the target makes a move other than a shift, it falls prone."
+  },
+  "Psychic Anomaly": {
+    "id": "'13320",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "3",
+    "name": "Psychic Anomaly",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You conjure a shimmering anomaly of pure psionic energy, which disrupts the minds of nearby foes.",
+    "keywords": [
+      "Conjuration, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and your allies can flank with the psychic anomaly.",
+    "requirement": "The power Psychic Anomaly must be active in order to use this power.",
+    "trigger": "An enemy starts its turn in a square adjacent to the anomaly",
+    "target": "The triggering enemy",
+    "attack": "Intelligence vs. Will",
+    "onHit": "1d8 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn."
+  },
+  "Force Spheres": {
+    "id": "'13322",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Force Spheres",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your power focuses into protective spheres of shimmering force that can be hurled at your enemies with a thought.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You expend one force sphere.",
+    "requirement": "The power Force Spheres must be active in order to use this power.  This power may be used once per round.",
+    "target": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "1d6 + Intelligence modifier force damage, and the target falls prone."
+  },
+  "Inflicted Mindscape": {
+    "id": "'13324",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Inflicted Mindscape",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "As you reach into your enemies’ minds, the ground beneath their feet becomes a clutching mire of madness.",
+    "keywords": [
+      "Implement, Psionic, Psychic, Zone"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d6 + Intelligence modifier psychic damage, and the target is immobilized (save ends).",
+    "onMiss": "Half damage, and the target is slowed (save ends).",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. Any enemy that ends its turn within the zone is slowed until the end of your next turn.",
+    "sustainMinor": "The zone persists until the end of your next turn."
+  },
+  "Summon Ebony Stinger": {
+    "id": "'13325",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Summon Ebony Stinger",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Wisps of black shadow coalesce to form a, monstrous scorpion under your control.",
+    "keywords": [
+      "Augmentable, Implement, Poison, Psionic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and any creature grabbed by the ebony stinger takes a -4 penalty to checks to escape the stinger’s grab.",
+    "standardAction": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage, and the stinger grabs the target.",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Reflex; 1d6 + Intelligence modifier damage, and ongoing 5 poison damage (save ends)."
+  },
+  "Thunderous Exit": {
+    "id": "'13326",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "5",
+    "name": "Thunderous Exit",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A blast of thunder rocks your enemies, allowing you to escape in its booming wake.",
+    "keywords": [
+      "Implement, Psionic, Teleportation, Thunder"
+    ],
+    "range": "Close burst 3",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier thunder damage.",
+    "onMiss": "Half damage.",
+    "effect": "You teleport 5 squares."
+  },
+  "Explosive Force": {
+    "id": "'13327",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Explosive Force",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your force attack releases a pulse of energy that leaves nearby creatures vulnerable to follow-up attacks.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You hit an enemy within 10 squares of you with an unaugmented psion at-will force attack power",
+    "target": "Each creature adjacent to the enemy you hit",
+    "effect": "The target grants combat advantage until the end of your next turn."
+  },
+  "Intellect Prism": {
+    "id": "'13328",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Intellect Prism",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Motes of light swirl to form a crystalline prism in the air, sharpening your senses and extending your presence on the battlefield.",
+    "keywords": [
+      "Conjuration, Psionic"
+    ],
+    "range": "Ranged 5",
+    "effect": "You conjure an intellect prism in an unoccupied square within range. The prism lasts until the end of the encounter or until you dismiss it as a minor action. You can use your attack powers as if you were in the prism’s space. As a move action, you can move the prism a number of squares equal to your Intelligence modifier. While the prism is adjacent to you, you gain a +3 bonus to Perception checks.<br/> The prism can be targeted by melee and ranged attacks. It has a +4 bonus to all defenses and hit points equal to your healing surge value. If the prism drops to 0 hit points, it is destroyed and you are dazed until the end of your next turn."
+  },
+  "Mental Void": {
+    "id": "'13329",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Mental Void",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "When an enemy strikes at your mind, the attack only boosts your resilience.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "An enemy attack targets your Will",
+    "effect": "You gain a +4 bonus to Will until the end of your next turn. If the triggering attack misses, the attacker grants combat advantage until the end of your next turn."
+  },
+  "Shared Recovery": {
+    "id": "'13330",
+    "action": "Free",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "6",
+    "name": "Shared Recovery",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You tap into the mind of an ally, letting his or her recovery grant a temporary boost to your own vitality.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "An ally within 5 squares of you regains hit points or succeeds on a saving throw",
+    "effect": "You gain temporary hit points equal to twice your Intelligence modifier."
+  },
+  "Ectoplasmic Servant": {
+    "id": "'13331",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Ectoplasmic Servant",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A conjured shower of glistening slime takes humanoid shape at your command, spraying your foes with caustic acid.",
+    "keywords": [
+      "Acid, Augmentable, Conjuration, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "bonusPower": {
+      "name": "Ectoplasmic Servant Attack",
+      "flavor": "",
+      "keywords": [
+        "Acid, Augmentable, Conjuration, Implement, Psionic"
+      ],
+      "range": "Close burst 1",
+      "frequency": "At-Will",
+      "requirement": "The power Ectoplasmic Servant must be active in order to use this power.",
+      "target": "Each enemy in the burst",
+      "attack": "Intelligence vs. Fortitude",
+      "onHit": "2d6 + Intelligence modifier acid damage, and the target is slowed until the end of your next turn.",
+      "effect": "The ectoplasmic servant is expended."
+    },
+    "effect": "You conjure an ectoplasmic servant as above, and any enemy that starts its turn in or adjacent to the servant’s space is slowed until the end of your next turn."
+  },
+  "Ego Whip": {
+    "id": "'13333",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Ego Whip",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your psychic attack hits like the crack of a whip, flooding your foe with feelings of crushing worthlessness.",
+    "keywords": [
+      "Augmentable, Fear, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "1d8 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls, all defenses, and saving throws until the end of your next turn."
+  },
+  "Kinetic Buffer": {
+    "id": "'13334",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Kinetic Buffer",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A burst of force protects you even as it slams into your enemies and knocks them back.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Close burst 2",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d6 + Intelligence modifier force damage, and you push the target a number of squares equal to your Wisdom modifier. In addition, you gain a +2 power bonus to all defenses until the end of your next turn."
+  },
+  "Matter Dissipation": {
+    "id": "'13335",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Matter Dissipation",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack leaves an area of ghostly translucence that tears at creatures lingering within it.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Zone"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier damage.",
+    "effect": "As above, but any enemy that ends its turn within the zone takes the damage."
+  },
+  "Echoing Boom": {
+    "id": "'13336",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Echoing Boom",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You unleash a burst of devastating thunder whose booming echo lets you scatter foes across the battlefield.",
+    "keywords": [
+      "Implement, Psionic, Thunder"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "primaryTarget": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier thunder damage.",
+    "onMiss": "Half damage.",
+    "effect": "The secondary target takes 5 thunder damage, and you slide the secondary target 1 square.",
+    "sustainMinor": "The effect persists.",
+    "requirement": "The power Echoing Boom must be active in order to use this power.",
+    "trigger": "An enemy within 10 squares of you is hit by an attack",
+    "secondaryTarget": "The triggering enemy"
+  },
+  "Inflict Pain": {
+    "id": "'13338",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Inflict Pain",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your thoughts work their way into a foe’s mind like razor-sharp needles, crippling it with excruciating pain.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d6 + Intelligence modifier psychic damage, and the target is slowed and takes ongoing 5 psychic damage (save ends both).",
+    "onMiss": "Half damage, and the target is slowed until the end of your next turn."
+  },
+  "Malicious Lightning": {
+    "id": "'13339",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Malicious Lightning",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A burst of lightning lingers as four sizzling motes, each of which erupts at your command.",
+    "keywords": [
+      "Conjuration, Implement, Lightning, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "primaryTarget": "Each enemy in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d6 + Intelligence modifier lightning damage.",
+    "onMiss": "Half damage.",
+    "effect": "You conjure four lightning motes in unoccupied squares in the burst. Each mote lasts until the end of the encounter or until expended. Any creature that starts its turn in a square adjacent to a lightning mote takes lightning damage equal to your Intelligence modifier. Starting on your next turn, you can use the Malicious Lightning Attack power with a lightning mote, once per round.",
+    "requirement": "The power Malicious Lightning must be active in order to use this power.",
+    "secondaryTarget": "Each creature in the burst",
+    "secondaryAttack": "Intelligence vs. Reflex",
+    "secondaryOnHit": "1d6 + Intelligence modifier lightning damage, and the lightning mote pushes the secondary target 1 square.",
+    "secondaryeffect": "The mote is expended."
+  },
+  "Summon Phantasmal Killer": {
+    "id": "'13341",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "9",
+    "name": "Summon Phantasmal Killer",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your foe’s worst fears are manifested as a nightmarish monster that it cannot shake off.",
+    "keywords": [
+      "Augmentable, Illusion, Implement, Psionic, Psychic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, but you choose two enemies adjacent to the phantasmal killer as its prey. When both creatures chosen as the killer’s prey drop to 0 hit points, the killer disappears.",
+    "standardAction": "Melee 1; targets one creature that is the killer’s prey; Intelligence vs. Will; 2d6 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls (save ends).",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Will; 1d6 + Intelligence modifier psychic damage, and the phantasmal killer pushes the target 1 square. If the target is the killer’s prey, it takes 2d6 extra damage and is not pushed."
+  },
+  "Dimensional Shortcut": {
+    "id": "'13342",
+    "action": "Move",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Dimensional Shortcut",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your psionic power connects two points in space, allowing you and your allies to slip from one location to the other.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Close burst 3",
+    "target": "You and each ally in the burst",
+    "effect": "Choose a square within 20 squares of you. Each target can teleport to a square within 3 squares of the square you choose as a free action."
+  },
+  "Energy Mitigation": {
+    "id": "'13343",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Energy Mitigation",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You summon all your mental strength to diminish the effect of a foe’s attack.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "trigger": "You are hit by a close or an area attack",
+    "effect": "You take half damage from the triggering attack."
+  },
+  "Force Barricade": {
+    "id": "'13344",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "10",
+    "name": "Force Barricade",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "A shimmering wall of force blocks attacks and movement.",
+    "keywords": [
+      "Conjuration, Force, Psionic"
+    ],
+    "range": "Area wall 5 within 10 squares",
+    "effect": "You conjure a solid, transparent wall of psionic force that lasts until the end of your next turn. The wall can be up to 3 squares high. The wall blocks line of effect and movement. No creature can enter a wall square, and phasing creatures cannot move through it.<br/> The wall can be attacked, and attacks against it hit automatically. The wall has 50 hit points, and an attack on any square deals damage to the entire wall. If the wall drops to 0 hit points, the effect ends and each creature within 2 squares of the wall takes 10 force damage and falls prone.",
+    "sustainMinor": "The wall persists."
+  },
+  "Trace Teleport": {
+    "id": "'13345",
+    "action": "Immediate Reaction",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Trace Teleport",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You teleport by stealing the residual traces of another creature’s power.",
+    "keywords": [
+      "Psionic, Teleportation"
+    ],
+    "range": "Personal",
+    "trigger": "A creature within 10 squares of you teleports",
+    "effect": "You teleport the same number of squares as the triggering creature."
+  },
+  "Brilliant Thought": {
+    "id": "'13346",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Brilliant Thought",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "The power of your mind flares brilliant white, blasting an enemy and clouding its vision.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Radiant"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude. Make the attack twice.",
+    "onHit": "1d12 + Intelligence modifier radiant damage. If both attacks hit, the target is also blinded until the end of your next turn."
+  },
+  "Inexplicable Attraction": {
+    "id": "'13347",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Inexplicable Attraction",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Against its will, an enemy is drawn close to another creature in the aftermath of your attack.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One or two creatures",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage, and you slide the target 5 squares to a square adjacent to any creature. If the target doesn’t end its next turn adjacent to that creature, it takes damage equal to your Wisdom modifier."
+  },
+  "Kinetic Wave": {
+    "id": "'13348",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Kinetic Wave",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A wave of psionic force pulses out to drive nearby creatures away from you.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Close blast 5",
+    "target": "Each creature in the blast",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "3d6 + Intelligence modifier force damage, and you push the target a number of squares equal to your Wisdom modifier.",
+    "keyword": "Zone",
+    "effect": "The blast creates a zone that lasts until the start of your next turn. The zone is difficult terrain, and any creature that ends its turn within the zone takes damage equal to your Wisdom modifier."
+  },
+  "Forced Serenity": {
+    "id": "'13349",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Forced Serenity",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack imbues your foe with lingering psychic energy, crippling it with pain at any sign of aggression.",
+    "keywords": [
+      "Charm, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "1d10 + Intelligence modifier psychic damage, and the target takes 10 psychic damage whenever it hits with an attack (save ends).",
+    "onMiss": "Half damage, and the target takes 5 psychic damage whenever it hits with an attack (save ends)."
+  },
+  "Living Barrage": {
+    "id": "'13350",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Living Barrage",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You ensnare your enemies with a thought, then hurl them about like living weapons.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "primaryTarget": "Each enemy in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d6 + Intelligence modifier damage, and the secondary target and tertiary target fall prone. The secondary target takes 5 damage.",
+    "onMiss": "Half damage, and the primary target is slowed (save ends).",
+    "effect": "You slide the secondary target 5 squares and make the following tertiary attack against one creature adjacent to the secondary target during the slide. You cannot attack the same tertiary target more than once per round with this power.",
+    "requirement": "The power Living Barrage must be active in order to use this power. This power can be used once per round.",
+    "secondaryTarget": "One or two primary targets immobilized or slowed by the attack",
+    "tertiaryTarget": "One creature",
+    "tertiaryAttack": "Intelligence vs. Reflex"
+  },
+  "Summon Thought Warrior": {
+    "id": "'13352",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Summon Thought Warrior",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "An idealized warrior formed of thought energy fights alongside you.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and the warrior also has a +2 power bonus to opportunity attack rolls.",
+    "standardAction": "As above, and the warrior marks the target (save ends).",
+    "immediateInterrupt": "Triggered when a target marked by the warrior moves or shifts; melee 1; targets the triggering creature; Intelligence + 2 vs. AC; 1d10 + Intelligence modifier psychic damage, and the warrior shifts 1 square.",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence + 2 vs. AC; 1d10 + Intelligence modifier psychic damage."
+  },
+  "Thought of Unmaking": {
+    "id": "'13353",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "15",
+    "name": "Thought of Unmaking",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You reach deep into an enemy’s mind and past to undo its existence.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "Ongoing 25 damage (save ends). If the target is bloodied or becomes bloodied while taking this ongoing damage, the ongoing damage increases by 10.",
+    "aftereffect": "The target is dazed until the end of your next turn.",
+    "onMiss": "Ongoing 15 damage (save ends)."
+  },
+  "Dream Traveler": {
+    "id": "'13354",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Dream Traveler",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "By taking on the form of a creature of dreams, you bypass the barriers of the material world.",
+    "keywords": [
+      "Polymorph, Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You assume the form of the dream traveler until the end of the encounter or until you resume your normal form as a minor action. While you are in this form, you are insubstantial and phasing, you gain a +5 power bonus to Stealth checks, and you are weakened."
+  },
+  "Kinetic Grasp": {
+    "id": "'13355",
+    "action": "Immediate Interrupt",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Kinetic Grasp",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You quickly create a psychic connection to another creature that allows it to hold fast where it stands.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Ranged 10",
+    "trigger": "A creature within 10 squares of you is pulled, pushed, slid, or knocked prone",
+    "target": "The triggering creature",
+    "effect": "The target is unaffected by the forced movement or is not knocked prone."
+  },
+  "Mind Blank": {
+    "id": "'13356",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "16",
+    "name": "Mind Blank",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Swirling psychic energy surrounds you and your allies, wiping your presence from your enemies’ minds.",
+    "keywords": [
+      "Illusion, Psionic, Zone"
+    ],
+    "range": "Close burst 3",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. The zone moves with you, remaining centered on you. While within the zone, you and your allies are invisible to enemies within the zone.",
+    "sustainMinor": "The zone persists."
+  },
+  "Subjective Reality": {
+    "id": "'13357",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Subjective Reality",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "You reshape the reality around you as you move freely through it.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Personal",
+    "effect": "You ignore the effects of difficult terrain, challenging terrain, hindering terrain, obscured terrain, and cover until the end of your next turn."
+  },
+  "Cerulean Cage": {
+    "id": "'13358",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Cerulean Cage",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Ghostly shards of glowing blue surround your foe, threatening it if it attempts to move.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d8 + Intelligence modifier force damage.",
+    "keyword": "Zone",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. Any creature that leaves the zone takes force damage equal to your Intelligence modifier."
+  },
+  "Manifested Horror": {
+    "id": "'13359",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Manifested Horror",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your enemy looks on you and sees its own worst nightmare, compelling it to flee or be crippled by fear.",
+    "keywords": [
+      "Augmentable, Fear, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage. If the target ends its next turn within 3 squares of you, it takes psychic damage equal to 5 + your Intelligence modifier and you slide the target 3 squares."
+  },
+  "Telekinetic Haze": {
+    "id": "'13360",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Telekinetic Haze",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A haze of psionic energy shrouds you from your enemies’ sight.",
+    "keywords": [
+      "Augmentable, Implement, Psionic"
+    ],
+    "range": "Close burst 1",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d10 + Intelligence modifier damage, and you are invisible to the target until the end of your next turn.",
+    "effect": "You have concealment until the start of your next turn."
+  },
+  "Thought Guardian": {
+    "id": "'13361",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "17",
+    "name": "Thought Guardian",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You scour your enemies’ thoughts to hinder their tactics, and can conjure a guardian in their midst to threaten them.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "As above, and whenever the target attacks you before the end of your next turn, it takes psychic damage equal to your Charisma modifier.",
+    "keyword": "Conjuration",
+    "effect": "You conjure a thought guardian in an unoccupied square in the burst. The guardian lasts until the end of your next turn. You can use the Thought Guardian Attack power with the guardian.",
+    "requirement": "The power Thought Guardian must be active in order to use this power.",
+    "trigger": "Any creature within 3 squares of the guardian attacks you or willingly moves away from the guardian",
+    "secondaryTarget": "The triggering creature",
+    "secondaryAttack": "Intelligence vs. Will",
+    "secondaryOnHit": "5 + Charisma modifier psychic damage, and the target is dazed until the end of your next turn."
+  },
+  "Cerebral Phantasm": {
+    "id": "'13363",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Cerebral Phantasm",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A horrid apparition fills your enemy’s mind, letting you follow up on your allies’ attacks against that foe with a psychic barrage.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "4d6 + Intelligence modifier psychic damage.",
+    "effect": "The target is affected by your cerebral phantasm (save ends). While the target is affected by the phantasm, you can use the Cerebral Phantasm Attack power against the target.",
+    "requirement": "The power Cerebral Phantasm must be active in order to use this power.",
+    "trigger": "The target takes damage from an ally’s attack while within 10 squares of you",
+    "secondaryAttack": "Intelligence vs. Will",
+    "secondaryOnHit": "10 + Intelligence modifier psychic damage, and each enemy adjacent to the target takes 5 psychic damage. You then slide the target a number of squares equal to your Wisdom modifier."
+  },
+  "Flowing Terrain": {
+    "id": "'13365",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Flowing Terrain",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "The surface beneath your feet flows at your command, crashing into your foes like a lethal wave.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Close blast 5",
+    "target": "Each enemy in the blast",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d8 + Intelligence modifier damage, and you knock the target prone. The target is then restrained (save ends).",
+    "onMiss": "Half damage, and you push the target to the nearest unoccupied square outside the blast."
+  },
+  "Force Cube": {
+    "id": "'13366",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Force Cube",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You trap your foe within six impenetrable walls, then hurl this force cube across the battlefield as a weapon.",
+    "keywords": [
+      "Conjuration, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "primaryTarget": "One creature",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d10 + Intelligence modifier force damage.",
+    "effect": "You slide the cube and all creatures trapped in the cube 5 squares. Any creature in the cube takes 5 damage and falls prone. The cube takes 10 damage.",
+    "requirement": "The power Force Cube must be active in order to use this power. The cube must be within 10 squares of you.",
+    "secondaryTarget": "Each creature adjacent to the cube at the end of the slide",
+    "secondaryAttack": "Intelligence vs. Reflex",
+    "secondaryOnHit": "2d10 + Intelligence modifier force damage, and the target falls prone."
+  },
+  "Summon Mind Weirds": {
+    "id": "'13368",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "19",
+    "name": "Summon Mind Weirds",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You call forth shadowy creatures that attack your foes with their own worst fears.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and you can teleport any two weirds, swapping their positions, as a minor action. In addition, you can teleport yourself and one weird as a move action, swapping positions.",
+    "standardAction": "Melee 1; targets the weird’s prey; Intelligence vs. Will; 3d6 + Intelligence modifier psychic damage, and the target takes a -2 penalty to attack rolls (save ends).",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. Will; 1d6 + Intelligence modifier psychic damage, and the weird pushes the target 1 square. If the target is the weird’s prey, it takes 2d6 extra damage and is not pushed.",
+    "keyword": "Teleportation"
+  },
+  "Forceful Repositioning": {
+    "id": "'13369",
+    "action": "Move",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Forceful Repositioning",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Shimmering bands of force surround you and your allies, moving you into better positions on the battlefield.",
+    "keywords": [
+      "Psionic"
+    ],
+    "range": "Close burst 5",
+    "target": "You and each ally in the burst",
+    "effect": "You slide the target a number of squares equal to your Wisdom modifier."
+  },
+  "Interdicting Thoughts": {
+    "id": "'13370",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Encounter",
+    "level": "22",
+    "name": "Interdicting Thoughts",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "The power of your mind forms a shield protecting you and your allies from attack, even as it slows your foes.",
+    "keywords": [
+      "Psionic, Zone"
+    ],
+    "range": "Close burst 3",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. The zone moves with you, remaining centered on you. While within the zone, allies gain a +3 power bonus to all defenses. The zone is difficult terrain for your enemies."
+  },
+  "Summon Fleeting Thoughts": {
+    "id": "'13371",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Summon Fleeting Thoughts",
+    "type": "Utility",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your quick thinking summons birdlike guardians that let you and your allies soar across the battlefield.",
+    "keywords": [
+      "Augmentable, Psionic, Summoning"
+    ],
+    "range": "Close burst 1",
+    "effect": "When a fleeting thought drops to 0 hit points, one ally within 2 squares of the thought can fly 4 squares as a free action.",
+    "moveAction": "Melee 1; targets you or one ally; the thought and the target both fly 4 squares to adjacent squares.",
+    "immediateInterrupt": "Triggered when an ally adjacent to the fleeting thought is hit by a melee or a ranged attack; the attack hits the fleeting thought instead."
+  },
+  "Mind Trap": {
+    "id": "'13372",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Mind Trap",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You ensnare your foe’s mind and instincts, hindering its ability to react in combat.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d10 + Intelligence modifier psychic damage. Until the end of the target’s next turn, it cannot shift, make opportunity attacks, or take immediate actions."
+  },
+  "Mindfire Explosion": {
+    "id": "'13373",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Mindfire Explosion",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "An explosion of psionic fire scours your enemies and shrouds their sight.",
+    "keywords": [
+      "Augmentable, Fire, Implement, Psionic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier fire damage, and the target is blinded until the end of your next turn."
+  },
+  "Phantom Burden": {
+    "id": "'13374",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Phantom Burden",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You crush your enemies under the weight of their own uncertainty, hindering their movement.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "4d6 + Intelligence modifier force damage. If the target moves more than 1 square on its next turn, it falls prone at the end of the move and takes 5 damage.",
+    "keyword": "Zone",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. The zone is difficult terrain for your enemies."
+  },
+  "Prismatic Swarms": {
+    "id": "'13375",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "23",
+    "name": "Prismatic Swarms",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You leave your foe surrounded by swirling motes of psionic energy that hinder its attacks.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "3d8 + Intelligence modifier force damage, and you slide the target 3 squares or knock it prone. The target takes a -2 penalty to attack rolls until the end of your next turn."
+  },
+  "Far Realm's Embrace": {
+    "id": "'13376",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Far Realm's Embrace",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You tear aside the veil to the Far Realm, calling forth phantasmal tentacles that attack and ensnare all creatures in their reach.",
+    "keywords": [
+      "Implement, Psionic, Psychic, Zone"
+    ],
+    "range": "Area burst 3 within 10 squares",
+    "primaryTarget": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d6 + Intelligence modifier damage, and the primary target is restrained and takes ongoing 10 psychic damage (save ends both).",
+    "onMiss": "Half damage, and the primary target is slowed and takes ongoing 10 psychic damage (save ends both).",
+    "effect": "The burst creates a zone that lasts until the end of your next turn. Until the zone ends, you can use the Far Realm's Embrace Attack power with the zone.",
+    "sustainMinor": "You take 5 psychic damage and the zone persists.",
+    "requirement": "The power Far Realm's Embrace must be active in order to use this power.",
+    "trigger": "A creature starts its turn in a square adjacent to or within the zone",
+    "secondaryTarget": "The triggering creature",
+    "secondaryAttack": "Intelligence vs. Reflex",
+    "secondaryOnHit": "10 + Intelligence modifier damage, the zone pulls the secondary target 1 square toward the zone’s origin, and the secondary target is immobilized (save ends)."
+  },
+  "Recall Agony": {
+    "id": "'13378",
+    "action": "Immediate Reaction",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Recall Agony",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "An enemy’s suffering allows you to twist its mind to an even greater state of agony.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "trigger": "An enemy within 10 squares of you takes damage from an attack",
+    "target": "The triggering enemy",
+    "attack": "Intelligence vs. Will",
+    "onHit": "6d6 + Intelligence modifier psychic damage. If this attack deals less damage than the triggering attack, the target takes ongoing psychic damage equal to the difference (save ends).",
+    "onMiss": "Half damage."
+  },
+  "Summon Emerald Terror": {
+    "id": "'13379",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Summon Emerald Terror",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your foes’ greatest fears come to life as a hulking emerald terror, its glistening skin reflecting the nightmares of its victims.",
+    "keywords": [
+      "Augmentable, Fear, Implement, Psionic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and the terror also has a +2 power bonus to damage rolls. In addition, any creature the terror hits with a melee attack takes a -2 penalty to its next saving throw made before the end of its next turn.",
+    "standardAction": "Close burst 2; targets each enemy in the burst; Intelligence vs. Reflex; 1d8 + Intelligence modifier damage, and the terror pushes the target 3 squares and knocks it prone.",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence vs. AC; 2d8 + Intelligence modifier damage, and the terror slides the target 4 squares to a square adjacent to the terror."
+  },
+  "Thought Hammer": {
+    "id": "'13380",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "25",
+    "name": "Thought Hammer",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your thoughts become a wave of force that hammers foes to the ground.",
+    "keywords": [
+      "Force, Implement, Psionic"
+    ],
+    "range": "Ranged 20",
+    "target": "One, two, or three creatures",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "4d12 + Intelligence modifier force damage, and you knock the target prone.",
+    "onMiss": "Half damage."
+  },
+  "Decerebrate": {
+    "id": "'13381",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Decerebrate",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your attack burns out your enemy’s mind and can leave it reeling in pain.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "One, two, or three creatures",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d6 + Intelligence modifier psychic damage, and the target is dazed until the end of your next turn.",
+    "special": "You can use this power unaugmented as a ranged basic attack."
+  },
+  "Hail of Crystals": {
+    "id": "'13382",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Hail of Crystals",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "Your psionic power manifests as a cloud of crystal shards, obscuring the senses and slashing at creatures that move within it.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Zone"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "1d6 + Intelligence modifier damage.",
+    "effect": "As above, and you can move the zone a number of squares equal to your Intelligence modifier as a move action. When the zone ends, each creature within the zone takes 15 damage."
+  },
+  "Kinetic Detonation": {
+    "id": "'13384",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Kinetic Detonation",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A pulse of force explodes in the midst of combat, scattering victims in all directions.",
+    "keywords": [
+      "Augmentable, Force, Implement, Psionic"
+    ],
+    "range": "Area burst 3 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d12 + Intelligence modifier force damage, and you push the target a number of squares from the center of the burst equal to your Wisdom modifier."
+  },
+  "Reality Meltdown": {
+    "id": "'13385",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "27",
+    "name": "Reality Meltdown",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A shimmering orb of molten psionic essence sears foes that linger too close.",
+    "keywords": [
+      "Augmentable, Conjuration, Fire, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "effect": "You conjure a molten orb in an unoccupied square within range. The orb lasts until the end of your next turn. Any creature that enters the orb’s space or starts its turn there takes fire damage equal to your Intelligence modifier (a creature can take this damage only once per turn). In addition, you can use the Reality Meltdown Attack power with the orb.",
+    "requirement": "The power Reality Meltdown must be active in order to use this power.",
+    "trigger": "An enemy starts its turn within 5 squares of the molten orb",
+    "target": "The triggering enemy",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d6 + Intelligence modifier fire damage, and you move the orb 5 squares to a square adjacent to the target."
+  },
+  "Consuming Psychosis": {
+    "id": "'13387",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Consuming Psychosis",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A burst of psychic energy inflicts a pain so potent that your foes lash out blindly in their madness.",
+    "keywords": [
+      "Implement, Psionic, Psychic"
+    ],
+    "range": "Area burst 1 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "3d8 + Intelligence modifier psychic damage, and ongoing 10 psychic damage (save ends).",
+    "onMiss": "Half damage, and ongoing 5 psychic damage (save ends).",
+    "effect": "When the target takes ongoing psychic damage from this attack, it makes a melee basic attack against a random creature as a free action. If it cannot make a melee attack against any creature, it targets itself with a melee basic attack."
+  },
+  "Hurl into Heaven": {
+    "id": "'13388",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Hurl into Heaven",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You cast your enemies into the air, then drop them with lethal results.",
+    "keywords": [
+      "Implement, Psionic"
+    ],
+    "range": "Area burst 2 within 10 squares",
+    "target": "Each enemy in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "You lift the target 5 to 50 feet into the air, where it is restrained until the start of your next turn. At the start of your next turn, the target drops to the ground in the space it last occupied, taking 3d10 + Intelligence modifier damage and dealing 20 damage to any creature on the ground beneath it.",
+    "onMiss": "You lift the target 5 feet into the air, where it is restrained until the start of your next turn. At the start of your next turn, the target drops to the ground, taking 1d10 + Intelligence modifier damage and dealing 10 damage to any creature on the ground beneath it."
+  },
+  "Ravenous Singularity": {
+    "id": "'13389",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Ravenous Singularity",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A dark vortex appears on the battlefield at your command, hindering movement as it draws all creatures toward it.",
+    "keywords": [
+      "Conjuration, Implement, Psionic"
+    ],
+    "range": "Area burst 5 within 10 squares",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "The target is immobilized (save ends).",
+    "onMiss": "The target is slowed (save ends).",
+    "effect": "You conjure a ravenous singularity in the burst’s origin square. The singularity lasts until the end of your next turn. Any creature that ends its turn within 5 squares of the singularity is pulled 2 squares toward the singularity. Until the singularity ends, when a creature fails a saving throw against the immobilized or slowed condition imposed by this power, that creature is pulled into the singularity, takes 20 damage, and is removed from play (save ends). When the target saves, it reappears in any unoccupied space of its choice within 3 squares of the singularity.",
+    "sustainMinor": "The singularity persists, and it pulls you 1 square."
+  },
+  "Summon Thought Champion": {
+    "id": "'13390",
+    "action": "Minor",
+    "powerClass": "Psion",
+    "frequency": "Daily",
+    "level": "29",
+    "name": "Summon Thought Champion",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "You call forth an ideal champion from your allies’ minds, granting it access to their powers.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Summoning"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and the champion also has a +3 power bonus to damage rolls. Its standard action special command can use at-will attack powers from any conscious or unconscious ally within 20 squares of the champion.",
+    "standardAction": "The thought champion uses an at-will attack power of one conscious ally you can see. It uses the ally’s ability modifiers for the attack.",
+    "opportunityAttack": "Melee 1; targets one creature; Intelligence + 2 vs. Reflex; 2d8 + Intelligence modifier damage."
+  },
+  "Insidious Doubt": {
+    "id": "'13444",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "7",
+    "name": "Insidious Doubt",
+    "type": "Attack",
+    "sourceRef": "Dragon Magazine 390",
+    "flavor": "You fan doubt’s fire in your enemy’s mind until indecision blocks every action it would take.",
+    "keywords": [
+      "Fear, Implement, Psionic, Psychic"
+    ],
+    "range": "Ranged 10",
+    "target": "One creature",
+    "attack": "Intelligence vs. Will",
+    "onHit": "As above, but the target also takes the damage if it uses a move action."
+  },
+  "Static Mote": {
+    "id": "'13462",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "1",
+    "name": "Static Mote",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A mote of roiling lightning hinders your foes before exploding in a devastating burst.",
+    "keywords": [
+      "Augmentable, Conjuration, Implement, Lightning, Psionic"
+    ],
+    "range": "Ranged 10",
+    "effect": "You conjure a static mote in an unoccupied square within range. Any creature that starts its turn adjacent to the mote is slowed until the end of its turn. At the start of your next turn, the mote disappears and you use the Static Mote Attack power.",
+    "requirement": "This power follows the use of the power Static Mote.",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Reflex",
+    "onHit": "2d6 + Intelligence modifier lightning damage."
+  },
+  "Void Shard": {
+    "id": "'13464",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Void Shard",
+    "type": "Attack",
+    "sourceRef": "Psionic Power",
+    "flavor": "A shard of nothingness holds fast any creature that slips too close.",
+    "keywords": [
+      "Augmentable, Conjuration, Force, Implement, Psionic"
+    ],
+    "range": "Ranged 10",
+    "effect": "As above, and when the void shard is conjured, it uses the Void Shard Attack power as a free action, with the range Close burst 3.",
+    "target": "Each creature in burst",
+    "attack": "Intelligence vs. Fortitude",
+    "onHit": "2d8 + Intelligence modifier force damage, and the target is both dazed and slowed until the end of your next turn",
+    "requirement": "The power Void Shard must be active in order to use this power.",
+    "special": "You can take this free action only as the first action of your turn."
+  },
+  "Telepathic Wail": {
+    "id": "'16493",
+    "action": "Standard",
+    "powerClass": "Psion",
+    "frequency": "At-Will",
+    "level": "13",
+    "name": "Telepathic Wail",
+    "type": "Attack",
+    "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
+    "flavor": "You project a keening psychic scream into the minds around you and rob nearby creatures of hearing.",
+    "keywords": [
+      "Augmentable, Implement, Psionic, Psychic"
+    ],
+    "range": "Close burst 2",
+    "target": "Each creature in the burst",
+    "attack": "Intelligence vs. Will",
+    "onHit": "2d8 + Intelligence modifier psychic damage, and the target is deafened and dazed until the end of your next turn. If the target deals psychic damage before the end of your next turn, it is stunned instead of dazed."
+  }
+}

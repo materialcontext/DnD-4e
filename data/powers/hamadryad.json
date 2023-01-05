@@ -1,0 +1,102 @@
+{
+  "Hamadryad Aspects": {
+    "id": "'15829",
+    "action": "Minor",
+    "powerClass": "Hamadryad",
+    "frequency": "Encounter",
+    "level": "0",
+    "name": "Hamadryad Aspects",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "Drawing on fey magic, you call on your primal beauty and strength to thwart your foes.",
+    "keywords": [
+      " Personal   Effect: Choose one of the following aspects each time you use this power. You gain that aspect’s benefits.   <img src=\"images/bullet.gif\" alt=\"\"/> Spellbinding Beauty: Every enemy that can see you grants combat advantage to you until the end of your next turn.   <img src=\"images/bullet.gif\" alt=\"\"/> Wooden Form: You gain resist 5 to all damage until the end of your next turn."
+    ],
+    "range": "Personal",
+    "effect": "Choose one of the following aspects each time you use this power. You gain that aspect’s benefits."
+  },
+  "Body of Solid Oak": {
+    "id": "'15830",
+    "action": "Minor",
+    "powerClass": "Hamadryad",
+    "frequency": "Daily",
+    "level": "2",
+    "name": "Body of Solid Oak",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "Your body hardens to take on the strength and resilience of the mighty oak.",
+    "keywords": [
+      " Personal   Effect: You gain temporary hit points equal to 3 + one-half your level. Until the end of your next turn, you gain a +2 power bonus to AC and Fortitude, but you also gain vulnerable 5 fire.  Sustain Minor: The bonus and the vulnerability persist until the end of your next turn. "
+    ],
+    "range": "Personal",
+    "effect": "You gain temporary hit points equal to 3 + one-half your level. Until the end of your next turn, you gain a +2 power bonus to AC and Fortitude, but you also gain vulnerable 5 fire.",
+    "sustainMinor": "The bonus and the vulnerability persist until the end of your next turn."
+  },
+  "Wooden Sanctuary": {
+    "id": "'15831",
+    "action": "Move",
+    "powerClass": "Hamadryad",
+    "frequency": "Daily",
+    "level": "6",
+    "name": "Wooden Sanctuary",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "You abandon your body momentarily to slip into a secret sanctuary, reappearing strengthened and rejuvenated.",
+    "keywords": [
+      "Healing"
+    ],
+    "range": "Personal",
+    "requirement": "You must be adjacent to a Medium or larger tree or other wooden object, such as a door or a table.",
+    "effect": "You can spend a healing surge. In addition, you are removed from play until the start of your next turn. At the start of your next turn, you return to play in the space you vacated or the nearest unoccupied space. Alternatively, you appear in an unoccupied space adjacent to a tree or a wooden object within 20 squares of your starting position."
+  },
+  "Spirit Form": {
+    "id": "'15832",
+    "action": "Move",
+    "powerClass": "Hamadryad",
+    "frequency": "Encounter",
+    "level": "10",
+    "name": "Spirit Form",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "Your physical form fades into a diaphanous vision that can pass through the solid world like a ghost.",
+    "keywords": [
+      " Personal   Effect: You are phasing and insubstantial until the end of your next turn. In addition, you shift up to 2 squares. "
+    ],
+    "range": "Personal",
+    "effect": "You are phasing and insubstantial until the end of your next turn. In addition, you shift up to 2 squares."
+  },
+  "Feyborn Majesty": {
+    "id": "'15833",
+    "action": "Immediate Reaction",
+    "powerClass": "Hamadryad",
+    "frequency": "Encounter",
+    "level": "16",
+    "name": "Feyborn Majesty",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "As you reel from your foe’s attack, your fury creates a display of otherworldly light all but impossible to look upon.",
+    "keywords": [
+      " Special   Trigger: An enemy attack bloodies you or hits you while you are bloodied.  Effect: Until the end of your next turn, you shed bright light to a radius of 5 squares, the triggering enemy grants combat advantage, and enemies take a -5 penalty to attack rolls against you. "
+    ],
+    "range": "Special",
+    "trigger": "An enemy attack bloodies you or hits you while you are bloodied.",
+    "effect": "Until the end of your next turn, you shed bright light to a radius of 5 squares, the triggering enemy grants combat advantage, and enemies take a -5 penalty to attack rolls against you."
+  },
+  "Fey Mind Mirror": {
+    "id": "'15834",
+    "action": "Immediate Interrupt",
+    "powerClass": "Hamadryad",
+    "frequency": "Daily",
+    "level": "22",
+    "name": "Fey Mind Mirror",
+    "type": "Racial",
+    "sourceRef": "Heroes of the Feywild",
+    "flavor": "As you shake off an enemy’s control of your mind and body, you turn the tables by using its own power against it.",
+    "keywords": [
+      " Special   Trigger: You are subjected to an enemy’s dazing, dominating, or stunning effect that a save can end.  Effect: You make a saving throw against the effect. If your saving throw is successful, the triggering enemy must make a saving throw against the same effect. If that enemy’s saving throw fails, the enemy is subjected to the effect (save ends). If your saving throw fails, you do not expend this power.  "
+    ],
+    "range": "Special",
+    "trigger": "You are subjected to an enemy’s dazing, dominating, or stunning effect that a save can end.",
+    "effect": "You make a saving throw against the effect. If your saving throw is successful, the triggering enemy must make a saving throw against the same effect. If that enemy’s saving throw fails, the enemy is subjected to the effect (save ends). If your saving throw fails, you do not expend this power."
+  }
+}
