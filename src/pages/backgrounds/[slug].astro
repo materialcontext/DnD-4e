@@ -3,7 +3,7 @@ import ClassLayout from "../../layouts/bgLayout.astro";
 
 let paths = fs.readdirSync('../../../data/backgrounds/*.json').map((name) => { return { params: {slug: name} }});
 export async function getStaticPaths() {
-    return paths;
+    return {params: {slug: "race"}};
 };
 
 let response = await import(`../../../data/backgrounds/${Astro.params.slug}.json`).then((res) => res.default);
