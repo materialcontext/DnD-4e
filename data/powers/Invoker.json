@@ -958,7 +958,7 @@
       "Conjuration, Divine, Implement"
     ],
     "range": "Area burst 1 within 10 squares",
-    "effect": "The burst conjures a tomb of white stone. The tomb fills the burst and must be on a solid surface. The tomb is a solid obstacle, and it can be attacked as an object: AC 6, Fortitude 10, Reflex 5, and 60 hit points. When the tomb is destroyed, it crumbles into difficult terrain.<br/>&nbsp;&nbsp;&nbsp;&nbsp;As the tomb appears, make the following attack.",
+    "effect": "The burst conjures a tomb of white stone. The tomb fills the burst and must be on a solid surface. The tomb is a solid obstacle, and it can be attacked as an object: AC 6, Fortitude 10, Reflex 5, and 60 hit points. When the tomb is destroyed, it crumbles into difficult terrain.<br/> As the tomb appears, make the following attack.",
     "target": "Each creature in the burst",
     "attack": "Wisdom vs. Reflex",
     "onHit": "3d6 + Wisdom modifier damage, and the target disappears into the tomb. While inside the tomb, the target is dazed and doesn’t have line of sight or line of effect to anything other than the tomb. The target can make melee and close attacks only against the tomb. When the tomb is destroyed, the target reappears in the space it last occupied or in the nearest unoccupied space.",
@@ -1090,7 +1090,7 @@
       "attack": "Wisdom vs. Reflex",
       "onHit": "2d10 + Wisdom modifier radiant damage."
     },
-    "effect": "You conjure a wall in unoccupied squares that consists of radiant blades. The wall can be up to 4 squares high, and it lasts until the end of your next turn. The wall provides cover to you and your allies. Any creature that enters the wall or starts its turn there takes 2d10 + your Wisdom modifier radiant damage. A creature can take this damage only once per turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While you are within 5 squares of the wall, you can use the Wall of Blades Attack power.",
+    "effect": "You conjure a wall in unoccupied squares that consists of radiant blades. The wall can be up to 4 squares high, and it lasts until the end of your next turn. The wall provides cover to you and your allies. Any creature that enters the wall or starts its turn there takes 2d10 + your Wisdom modifier radiant damage. A creature can take this damage only once per turn.<br/> While you are within 5 squares of the wall, you can use the Wall of Blades Attack power.",
     "sustainMinor": "The wall persists."
   },
   "Racking Invocation of Pain": {

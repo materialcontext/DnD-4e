@@ -14,7 +14,7 @@
     ],
     "range": "Close burst 10",
     "target": "One enemy you can see in the burst",
-    "effect": "You subject the target to your shroud. If any of your shrouds are already on the target, you subject it to an additional shroud, up to a maximum of four. The shrouds last until you use this power against a different enemy or until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Before you make an attack roll against the target, you choose to invoke either all your shrouds on it or none of them. If you invoke your shrouds, the attack deals 1d6 damage per shroud, minus one shroud if the attack misses, and all your shrouds then vanish from the target. This damage roll never benefits from bonuses to damage rolls, and is in addition to the attack’s damage, if any.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 1d6 + 3 damage per shroud.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 1d6 + 6 damage per shroud.",
+    "effect": "You subject the target to your shroud. If any of your shrouds are already on the target, you subject it to an additional shroud, up to a maximum of four. The shrouds last until you use this power against a different enemy or until the end of the encounter.<br/> Before you make an attack roll against the target, you choose to invoke either all your shrouds on it or none of them. If you invoke your shrouds, the attack deals 1d6 damage per shroud, minus one shroud if the attack misses, and all your shrouds then vanish from the target. This damage roll never benefits from bonuses to damage rolls, and is in addition to the attack’s damage, if any.<br/> Level 11: 1d6 + 3 damage per shroud.<br/> Level 21: 1d6 + 6 damage per shroud.",
     "special": "You can use this power only on your turn and only once per turn."
   },
   "Shadow Step": {
@@ -32,7 +32,7 @@
     ],
     "range": "Personal",
     "requirement": "You must be adjacent to a creature.",
-    "effect": "You teleport 3 squares to a square adjacent to a different creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Teleport 4 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Teleport 5 squares."
+    "effect": "You teleport 3 squares to a square adjacent to a different creature.<br/> Level 11: Teleport 4 squares.<br/> Level 21: Teleport 5 squares."
   },
   "Shade Form": {
     "id": "'9402",
@@ -67,7 +67,7 @@
     "range": "Ranged 5",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
-    "onHit": "1d6 + Dexterity modifier force damage, and you pull the target 2 squares. The target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Dexterity modifier force damage."
+    "onHit": "1d6 + Dexterity modifier force damage, and you pull the target 2 squares. The target is slowed until the end of your next turn.<br/> Level 21: 2d6 + Dexterity modifier force damage."
   },
   "Inescapable Blade": {
     "id": "'9404",
@@ -85,7 +85,7 @@
     "range": "Melee weapon +2 reach",
     "target": "One creature",
     "attack": "Dexterity vs. AC. The attack ignores cover and superior cover.",
-    "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
+    "onHit": "1[W] damage.<br/> Level 21: 2[W] damage."
   },
   "Leaping Shade": {
     "id": "'9405",
@@ -103,7 +103,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier damage. If you didn’t invoke your shrouds on the target, it takes 1 extra damage for each of your shrouds on it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage, and 2 extra damage for each of your shrouds on the target."
+    "onHit": "1[W] + Dexterity modifier damage. If you didn’t invoke your shrouds on the target, it takes 1 extra damage for each of your shrouds on it.<br/> Level 21: 2[W] + Dexterity modifier damage, and 2 extra damage for each of your shrouds on the target."
   },
   "Shadow Storm": {
     "id": "'9406",
@@ -121,7 +121,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier damage, plus 1 damage for each creature adjacent to the target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage, plus 2 damage for each creature adjacent to the target."
+    "onHit": "1[W] + Dexterity modifier damage, plus 1 damage for each creature adjacent to the target.<br/> Level 21: 2[W] + Dexterity modifier damage, plus 2 damage for each creature adjacent to the target."
   },
   "Gloom Thief": {
     "id": "'9407",
@@ -1007,7 +1007,7 @@
       "Illusion, Shadow"
     ],
     "range": "Personal",
-    "effect": "Choose a Medium or smaller humanoid creature that you have seen. You become an illusory duplicate of that creature, though you still carry your own gear. This illusion lasts until you end it as a free action or until your next extended rest. You gain a +5 power bonus to Bluff checks to convince others that you are the creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you take damage from a melee or a ranged attack while you are adjacent to the creature, you take only half damage, and the creature takes the same amount of damage. You gain this benefit neither against the creature’s attacks nor against attacks that target both of you."
+    "effect": "Choose a Medium or smaller humanoid creature that you have seen. You become an illusory duplicate of that creature, though you still carry your own gear. This illusion lasts until you end it as a free action or until your next extended rest. You gain a +5 power bonus to Bluff checks to convince others that you are the creature.<br/> If you take damage from a melee or a ranged attack while you are adjacent to the creature, you take only half damage, and the creature takes the same amount of damage. You gain this benefit neither against the creature’s attacks nor against attacks that target both of you."
   },
   "Mob of Shadows": {
     "id": "'9455",
@@ -1756,8 +1756,8 @@
     "effect": "You shift up to 2 squares before the attack.",
     "target": "One creature you are hidden from",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "2[W] + Dexterity modifier damage, and the target is grabbed until the end of your next turn. While the grab persists, the target takes a -2 penalty to attack rolls against you and cannot speak, and you cannot make other attacks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4[W] + Dexterity modifier damage.",
-    "sustainStandard": "The grab persists, and the target takes 2[W] + your Dexterity modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4[W] + Dexterity modifier damage."
+    "onHit": "2[W] + Dexterity modifier damage, and the target is grabbed until the end of your next turn. While the grab persists, the target takes a -2 penalty to attack rolls against you and cannot speak, and you cannot make other attacks.<br/> Level 21: 4[W] + Dexterity modifier damage.",
+    "sustainStandard": "The grab persists, and the target takes 2[W] + your Dexterity modifier damage.<br/> Level 21: 4[W] + Dexterity modifier damage."
   },
   "Poisoned Dagger": {
     "id": "'13794",
@@ -1776,7 +1776,7 @@
     "requirement": "You must use this power with a dagger.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier damage. If you deliver an assassin poison with this attack, the target takes a -4 penalty to its first saving throw, if any, against the poison’s effect.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage.",
+    "onHit": "1[W] + Dexterity modifier damage. If you deliver an assassin poison with this attack, the target takes a -4 penalty to its first saving throw, if any, against the poison’s effect.<br/> Level 21: 2[W] + Dexterity modifier damage.",
     "effect": "If the dagger has an assassin poison on it that is normally delivered on a hit, you can deliver that poison to the target even if the attack misses."
   },
   "Quick Lunge": {
@@ -1796,7 +1796,7 @@
     "effect": "You shift 1 square before the attack.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] damage, and you knock the target prone. You can then shift 1 square back to your starting position.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
+    "onHit": "1[W] damage, and you knock the target prone. You can then shift 1 square back to your starting position.<br/> Level 21: 2[W] damage."
   },
   "Bola Takedown": {
     "id": "'13796",
@@ -1815,7 +1815,7 @@
     "requirement": "You must use this power with a bola.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "1[W] damage, and the target falls prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
+    "onHit": "1[W] damage, and the target falls prone.<br/> Level 21: 2[W] damage."
   },
   "Precision Dart": {
     "id": "'13797",
@@ -1834,7 +1834,7 @@
     "requirement": "You must use this power with a blowgun.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "1[W] + Dexterity modifier damage. If you deliver an assassin poison with this attack, the target takes a -4 penalty to its first saving throw, if any, against the poison’s effect.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage.",
+    "onHit": "1[W] + Dexterity modifier damage. If you deliver an assassin poison with this attack, the target takes a -4 penalty to its first saving throw, if any, against the poison’s effect.<br/> Level 21: 2[W] + Dexterity modifier damage.",
     "effect": "If the ammunition has an assassin poison on it that is normally delivered on a hit, you can deliver that poison to the target even if the attack misses."
   },
   "Quick Shot": {
@@ -1854,7 +1854,7 @@
     "requirement": "You must use this power with a hand crossbow.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage.",
+    "onHit": "1[W] + Dexterity modifier damage.<br/> Level 21: 2[W] + Dexterity modifier damage.",
     "effect": "You shift up to 2 squares.",
     "special": "Using this power doesn’t provoke opportunity attacks."
   },
@@ -1874,7 +1874,7 @@
     "range": "Personal",
     "trigger": "You hit a creature within 5 squares of you with an attack using a weapon.",
     "target": "The creature you hit",
-    "effect": "The target takes 1d10 extra damage from the triggering attack. If the target is helpless, this damage is maximized.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 3: 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 7: 3d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 4d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 5d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 6d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 7d10 extra damage.",
+    "effect": "The target takes 1d10 extra damage from the triggering attack. If the target is helpless, this damage is maximized.<br/> Level 3: 2d10 extra damage.<br/> Level 7: 3d10 extra damage.<br/> Level 13: 4d10 extra damage.<br/> Level 17: 5d10 extra damage.<br/> Level 23: 6d10 extra damage.<br/> Level 27: 7d10 extra damage.",
     "special": "Nothing but a short or an extended rest can allow you to regain the use of this power."
   },
   "Distracting Illusion": {
@@ -1995,7 +1995,7 @@
     "requirement": "You must have a hand free and use this power with a light blade.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] damage, and the target is grabbed until the end of your next turn. While the grab persists, the target grants combat advantage, and it takes a -2 penalty to its first escape attempt. If you make a melee weapon attack against the target before the grab ends and your assassin’s strike is not expended, you can use that power against the target even if the attack misses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage.",
+    "onHit": "1[W] damage, and the target is grabbed until the end of your next turn. While the grab persists, the target grants combat advantage, and it takes a -2 penalty to its first escape attempt. If you make a melee weapon attack against the target before the grab ends and your assassin’s strike is not expended, you can use that power against the target even if the attack misses.<br/> Level 21: 2[W] damage.",
     "sustainMinor": "The grab persists until the end of your next turn."
   },
   "Death Mark": {
@@ -2113,7 +2113,7 @@
     "range": "Special",
     "trigger": "You hit a creature within 5 squares of you with an attack using a weapon.",
     "target": "The creature you hit",
-    "effect": "The target takes 1d10 extra damage from the triggering attack. If the target is helpless, this damage is maximized.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d10 extra damage.",
+    "effect": "The target takes 1d10 extra damage from the triggering attack. If the target is helpless, this damage is maximized.<br/> Level 11: 2d10 extra damage.<br/> Level 21: 3d10 extra damage.",
     "special": "Nothing but a short or an extended rest can allow you to regain the use of this power."
   },
   "Black Flame Form": {
@@ -2130,7 +2130,7 @@
       "Fire, Necrotic, Shadow"
     ],
     "range": "Personal",
-    "effect": "You assume a dark, fiery form that lasts until you make an attack roll or until the end of your next turn. While in this form, you gain resist 5 to all damage, and any creature that hits you with a melee attack takes 5 fire and necrotic damage. When you assume this form, you can use your assassin’s shroud power once as part of the same action. This use of assassin’s shroud does not count against the limit on the number of times per round you can use that power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The resistance and damage increase to 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The resistance and damage increase to 15.",
+    "effect": "You assume a dark, fiery form that lasts until you make an attack roll or until the end of your next turn. While in this form, you gain resist 5 to all damage, and any creature that hits you with a melee attack takes 5 fire and necrotic damage. When you assume this form, you can use your assassin’s shroud power once as part of the same action. This use of assassin’s shroud does not count against the limit on the number of times per round you can use that power.<br/> Level 11: The resistance and damage increase to 10.<br/> Level 21: The resistance and damage increase to 15.",
     "sustainMinor": "The form persists until the end of your next turn."
   },
   "Ninja-to Rush": {
@@ -2150,7 +2150,7 @@
     "requirement": "You must use this power with a short sword.",
     "target": "One creature",
     "attack": "Dexterity vs. AC. If you have jumped, fallen, or flown this turn, you gain combat advantage against the target for this attack.",
-    "onHit": "1[W] + Dexterity modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage.",
+    "onHit": "1[W] + Dexterity modifier damage.<br/> Level 21: 2[W] + Dexterity modifier damage.",
     "special": "When charging, you can use this power in place of a melee basic attack."
   },
   "Poisonous Shuriken": {
@@ -2170,7 +2170,7 @@
     "requirement": "You must use this power with shuriken.",
     "target": "One, two, or three creatures",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage.",
+    "onHit": "1[W] damage.<br/> Level 21: 2[W] damage.",
     "special": "If you deliver an assassin poison with this attack, it applies to each target hit by this attack, even if the poison would normally be applied to only a single piece of ammunition."
   },
   "Whirling Kusari-gama": {
@@ -2193,7 +2193,7 @@
     "onHit": "Dexterity modifier damage, and the target falls prone. You can shift 1 square and make the secondary attack with the secondary end of the kusari-gama.",
     "secondaryTarget": "One creature",
     "secondaryAttack": "Dexterity vs. AC",
-    "secondaryOnHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
+    "secondaryOnHit": "1[W] damage.<br/> Level 21: 2[W] damage."
   },
   "Smoke Bomb": {
     "id": "'15914",

@@ -4,12 +4,12 @@
     "price": "17,000 gp",
     "keySkill": "Arcana",
     "sourceRef": "Manual of the Planes",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nPlane Shift\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=175\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Plane Shift",
+    "name": "Plane Shift",
     "flavorText": "Light flares around your vessel as it begins to cross the space separating planes, carrying you off to a new location.",
     "category": "Travel",
     "time": "10 minutes",
     "duration": "Instantaneous",
-    "text": "You move a vehicle (including the vehicle’s pilot, crew, and load) that has the navigation focus trait from one plane to another.<br/>&nbsp;&nbsp;&nbsp;&nbsp;At the ritual’s conclusion, you name a location you have previously visited. The location must be a fixed place, and it must be in the same location it was when you last visited it. Once the location is named, make an Arcana check. The check determines the distance between your vehicle and your destination when you arrive on the plane.",
+    "text": "You move a vehicle (including the vehicle’s pilot, crew, and load) that has the navigation focus trait from one plane to another.  At the ritual’s conclusion, you name a location you have previously visited. The location must be a fixed place, and it must be in the same location it was when you last visited it. Once the location is named, make an Arcana check. The check determines the distance between your vehicle and your destination when you arrive on the plane.",
     "componentCost": "1,000 gp, plus a vehicle with a navigation focus",
     "table": {
         "headers": [

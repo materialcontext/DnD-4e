@@ -15,7 +15,7 @@
     "range": "Ranged 10",
     "trigger": "An enemy hits you with an attack.",
     "target": "The triggering enemy",
-    "attack": "Primary ability + 4 vs. Will<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Primary ability + 6 vs. Will",
+    "attack": "Primary ability + 4 vs. Will<br/> Level 21: Primary ability + 6 vs. Will",
     "onHit": "You and the target teleport to swap positions. The target’s triggering attack deals half damage to you, and the target takes psychic damage equal to half the attack’s damage."
   },
   "Tangled Fate": {
@@ -29,7 +29,7 @@
     "sourceRef": "Dragon Magazine 393",
     "flavor": "You twist fate’s strings to compel it to serve your interests.",
     "keywords": [
-      "&nbsp;&nbsp;Ranged 5</p><p class=\"flavor\">Requirement: Your memory of a thousand lifetimes power must be unexpended.</p><p class=\"powerstat\">Trigger: You use your memory of a thousand lifetimes power.</p><p class=\"powerstat\">Target: One creature</p><p class=\"flavor\">Effect: Roll a d6. The next time the target makes an attack roll, ability check, skill check, or saving throw, you can add or subtract the number to or from the result as a free action.</p>"
+      " Ranged 5  Requirement: Your memory of a thousand lifetimes power must be unexpended.  Trigger: You use your memory of a thousand lifetimes power.  Target: One creature  Effect: Roll a d6. The next time the target makes an attack roll, ability check, skill check, or saving throw, you can add or subtract the number to or from the result as a free action. "
     ],
     "range": "Ranged 5",
     "requirement": "Your memory of a thousand lifetimes power must be unexpended.",

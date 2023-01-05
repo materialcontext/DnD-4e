@@ -15,7 +15,7 @@
     "range": "Melee 1",
     "trigger": "You are hit by an enemy adjacent to you.",
     "target": "The triggering enemy",
-    "attack": "Highest ability modifier + 4 vs. Reflex<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Highest ability modifier + 6 vs. Reflex",
+    "attack": "Highest ability modifier + 4 vs. Reflex<br/> Level 21: Highest ability modifier + 6 vs. Reflex",
     "onHit": "2d6 + your highest ability modifier damage, and you push the target up to 2 squares.",
     "onMiss": "Half damage.",
     "effect": "You and one ally adjacent to you each teleport up to 5 squares."
@@ -55,6 +55,6 @@
     ],
     "range": "Close burst 1",
     "target": "You or one ally in the burst",
-    "effect": "Choose one of the following.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target regains the use of an expended encounter utility power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target treats its next miss before the end of the encounter as a hit.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target gains a +2 power bonus to all defenses until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; The target gains training in one skill of his or her choice until the end of the encounter."
+    "effect": "Choose one of the following.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  The target regains the use of an expended encounter utility power.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  The target treats its next miss before the end of the encounter as a hit.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  The target gains a +2 power bonus to all defenses until the end of the encounter.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  The target gains training in one skill of his or her choice until the end of the encounter."
   }
 }

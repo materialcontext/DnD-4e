@@ -226,7 +226,7 @@
     ],
     "range": "Close burst 5",
     "target": "One creature in the burst",
-    "effect": "You mark the target. The mark lasts until you use this power again. The mark also ends at the end of your turn if you didn’t engage the target, meaning you neither attacked it during your turn nor are adjacent to it at the end of your turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Until the mark ends, the target takes radiant damage the first time each round when it targets any of your allies with an attack power that doesn’t include you as a target. The damage equals 3 + your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 6 + your Charisma modifier radiant damage<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 9 + your Charisma modifier radiant damage",
+    "effect": "You mark the target. The mark lasts until you use this power again. The mark also ends at the end of your turn if you didn’t engage the target, meaning you neither attacked it during your turn nor are adjacent to it at the end of your turn.<br/> Until the mark ends, the target takes radiant damage the first time each round when it targets any of your allies with an attack power that doesn’t include you as a target. The damage equals 3 + your Charisma modifier.<br/> Level 11: 6 + your Charisma modifier radiant damage<br/> Level 21: 9 + your Charisma modifier radiant damage",
     "special": "You can use this power only once per turn."
   },
   "Bolstering Strike": {
@@ -263,7 +263,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC. You gain a bonus to the attack roll equal to the number of enemies adjacent to you.",
-    "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Enfeebling Strike": {
     "id": "'836",
@@ -940,7 +940,7 @@
     ],
     "range": "Melee touch",
     "target": "One creature",
-    "effect": "If the target is alive, it regains hit points no greater than one-half your maximum hit points (your choice), and you take an equal amount of damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the target died since the end of your last turn, it returns to life at 0 hit points, and you take damage equal to one-half your maximum hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You can’t avoid or reduce this damage in any way."
+    "effect": "If the target is alive, it regains hit points no greater than one-half your maximum hit points (your choice), and you take an equal amount of damage.<br/> If the target died since the end of your last turn, it returns to life at 0 hit points, and you take damage equal to one-half your maximum hit points.<br/> You can’t avoid or reduce this damage in any way."
   },
   "Martyr’s Blessing": {
     "id": "'1288",
@@ -3781,7 +3781,7 @@
     ],
     "range": "Personal",
     "trigger": "You target an enemy with an at-will weapon attack power.",
-    "effect": "The target takes radiant damage equal to 2 + your Charisma modifier. If the triggering attack hits, the target is also dazed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 7: 4 + Charisma modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 7 + Charisma modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 10 + Charisma modifier radiant damage."
+    "effect": "The target takes radiant damage equal to 2 + your Charisma modifier. If the triggering attack hits, the target is also dazed until the end of your next turn.<br/> Level 7: 4 + Charisma modifier radiant damage.<br/> Level 17: 7 + Charisma modifier radiant damage.<br/> Level 27: 10 + Charisma modifier radiant damage."
   },
   "Righteous Radiance": {
     "id": "'13554",
@@ -3799,7 +3799,7 @@
     "range": "Melee 1",
     "trigger": "An enemy subject to your defender aura either shifts or makes an attack that targets an ally of yours but not you or an ally who has an active defender aura.",
     "target": "The triggering enemy",
-    "effect": "The target takes radiant damage equal to 3 + your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 6 + Charisma modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 9 + Charisma modifier radiant damage."
+    "effect": "The target takes radiant damage equal to 3 + your Charisma modifier.<br/> Level 11: 6 + Charisma modifier radiant damage.<br/> Level 21: 9 + Charisma modifier radiant damage."
   },
   "Righteous Shield": {
     "id": "'13555",
@@ -3906,7 +3906,7 @@
       "Divine"
     ],
     "range": "Personal",
-    "effect": "You gain a +2 power bonus to speed. You also gain a power bonus to damage rolls with charge attacks equal to your Charisma modifier. These effects last until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 18: You also gain a fly speed equal to your speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 28: This power can also target each ally within 2 squares of you."
+    "effect": "You gain a +2 power bonus to speed. You also gain a power bonus to damage rolls with charge attacks equal to your Charisma modifier. These effects last until the end of the encounter.<br/> Level 18: You also gain a fly speed equal to your speed.<br/> Level 28: This power can also target each ally within 2 squares of you."
   },
   "Thundering Smite": {
     "id": "'13562",
@@ -4151,7 +4151,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier radiant damage. One ally within 5 squares of you gains temporary hit points equal to your Charisma modifier. If the ally is bloodied, the temporary hit points increase by 5.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier radiant damage."
+    "onHit": "1[W] + Strength modifier radiant damage. One ally within 5 squares of you gains temporary hit points equal to your Charisma modifier. If the ally is bloodied, the temporary hit points increase by 5.<br/> Level 21: 2[W] + Strength modifier radiant damage."
   },
   "Shared Sacrifice": {
     "id": "'13579",
@@ -4185,7 +4185,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier radiant damage. If at least one bloodied ally is within 5 squares of you, the target takes extra radiant damage equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier radiant damage.",
+    "onHit": "1[W] + Strength modifier radiant damage. If at least one bloodied ally is within 5 squares of you, the target takes extra radiant damage equal to your Charisma modifier.<br/> Level 21: 2[W] + Strength modifier radiant damage.",
     "onMiss": "You gain a +2 power bonus to your next damage roll against the target."
   },
   "Shared Valor": {
@@ -4220,7 +4220,7 @@
       "Divine"
     ],
     "range": "Ranged 5",
-    "effect": "A celestial warhorse appears in an unoccupied space within range to obey your commands. The steed is an ally to you and your allies, and it serves as a mount to you or one ally you designate. While the steed is serving as a mount, the normal rules for mounted combat apply (see the Rules Compendium).<br/>&nbsp;&nbsp;&nbsp;&nbsp;The only actions that the steed can take while riderless are move actions and free actions. When the steed makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The steed lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until you start an extended rest.",
+    "effect": "A celestial warhorse appears in an unoccupied space within range to obey your commands. The steed is an ally to you and your allies, and it serves as a mount to you or one ally you designate. While the steed is serving as a mount, the normal rules for mounted combat apply (see the Rules Compendium).<br/> The only actions that the steed can take while riderless are move actions and free actions. When the steed makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/> The steed lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until you start an extended rest.",
     "special": "You can use this power twice per day. However, if the steed drops to 0 hit points, you cannot use the power again until after an extended rest."
   },
   "Dread Smite": {
@@ -4238,7 +4238,7 @@
     ],
     "range": "Personal",
     "trigger": "You target an enemy with an at-will weapon attack power.",
-    "effect": "The target takes cold and necrotic damage equal to 2 + your Charisma modifier. If the triggering attack hits, the target also takes ongoing 5 cold and necrotic damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 7: 4 + Charisma modifier cold and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 7 + Charisma modifier cold and necrotic damage, and ongoing 10 cold and necrotic damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 10 + Charisma modifier cold and necrotic damage, and ongoing 15 cold and necrotic damage (save ends)."
+    "effect": "The target takes cold and necrotic damage equal to 2 + your Charisma modifier. If the triggering attack hits, the target also takes ongoing 5 cold and necrotic damage (save ends).<br/> Level 7: 4 + Charisma modifier cold and necrotic damage.<br/> Level 17: 7 + Charisma modifier cold and necrotic damage, and ongoing 10 cold and necrotic damage (save ends).<br/> Level 27: 10 + Charisma modifier cold and necrotic damage, and ongoing 15 cold and necrotic damage (save ends)."
   },
   "Shroud of Shadow": {
     "id": "'13816",
@@ -4254,7 +4254,7 @@
       "Shadow"
     ],
     "range": "Personal",
-    "effect": "You gain partial concealment until the end of your next turn. You also gain 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+    "effect": "You gain partial concealment until the end of your next turn. You also gain 5 temporary hit points.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points."
   },
   "Vengeance Strike": {
     "id": "'13817",
@@ -4272,7 +4272,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage. You gain a power bonus to the damage roll equal to twice the number of enemies adjacent to you (maximum of +8).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage. You gain a power bonus to the damage roll equal to twice the number of enemies adjacent to you (maximum of +8).<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Vice's Reward": {
     "id": "'13818",
@@ -4288,7 +4288,7 @@
       "Shadow"
     ],
     "range": "Personal",
-    "effect": "You gain 5 temporary hit points, and you can make a saving throw. In addition, you gain a +2 power bonus to all defenses until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+    "effect": "You gain 5 temporary hit points, and you can make a saving throw. In addition, you gain a +2 power bonus to all defenses until the end of your next turn.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points."
   },
   "Servant of Vice": {
     "id": "'13819",
@@ -4304,7 +4304,7 @@
       "Conjuration, Shadow"
     ],
     "range": "Close burst 2",
-    "effect": "You conjure a Small servant in an unoccupied square in the burst. The servant lasts until the end of the encounter. The servant occupies its square and can be attacked. Its defenses equal yours, and it is destroyed if it is hit by an attack. Creatures other than you grant combat advantage while adjacent to the servant.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You can give the servant the following commands.",
+    "effect": "You conjure a Small servant in an unoccupied square in the burst. The servant lasts until the end of the encounter. The servant occupies its square and can be attacked. Its defenses equal yours, and it is destroyed if it is hit by an attack. Creatures other than you grant combat advantage while adjacent to the servant.<br/> You can give the servant the following commands.",
     "moveAction(Teleportation)": "The servant teleports up to 6 squares.",
     "minorAction": "The servant tries to answer a question you pose to it. The DM determines a DC for the question, and you roll a d20 and add 7 + one-half your level. For every daily magic item power sacrificed by you or an ally within 5 squares of the servant, the servant gains a +5 bonus to the check. You can take this minor action a number of times per day equal to your Charisma modifier."
   },
@@ -4470,7 +4470,7 @@
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier necrotic damage.",
     "onMiss": "Half damage.",
-    "effect": "You gain the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +4 power bonus to damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* The first time you hit an enemy with an attack on each of your turns, a second enemy adjacent to you takes 10 necrotic damage."
+    "effect": "You gain the following benefits until the end of the encounter.<br/> * You gain a +4 power bonus to damage rolls.<br/> * The first time you hit an enemy with an attack on each of your turns, a second enemy adjacent to you takes 10 necrotic damage."
   },
   "Avatar of Subjugation": {
     "id": "'13829",
@@ -4490,7 +4490,7 @@
     "attack": "Strength vs. AC",
     "onHit": "3[W] + Strength modifier necrotic damage.",
     "onMiss": "Half damage.",
-    "effect": "You gain the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to attack rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain 5 temporary hit points at the start of each of your turns.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Once per round as a minor action, you can choose one willing ally. That ally takes 5 damage but gains 10 temporary hit points."
+    "effect": "You gain the following benefits until the end of the encounter.<br/> * You gain a +2 power bonus to attack rolls.<br/> * You gain 5 temporary hit points at the start of each of your turns.<br/> * Once per round as a minor action, you can choose one willing ally. That ally takes 5 damage but gains 10 temporary hit points."
   },
   "Pragmatic Sacrifice": {
     "id": "'13830",
@@ -4620,7 +4620,7 @@
     "attack": "Strength vs. AC",
     "onHit": "5[W] + Strength modifier necrotic damage.",
     "onMiss": "Half damage.",
-    "effect": "You gain the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Your attacks deal extra necrotic damage equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Once per turn after you attack an enemy and hit, you gain 10 temporary hit points. If the attack already grants temporary hit points to you, you gain 5 additional temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* If you start your turn with no uses available of your dread smite power, roll a d6. On a 5 or 6, you regain one use of that power."
+    "effect": "You gain the following benefits until the end of the encounter.<br/> * Your attacks deal extra necrotic damage equal to your Charisma modifier.<br/> * Once per turn after you attack an enemy and hit, you gain 10 temporary hit points. If the attack already grants temporary hit points to you, you gain 5 additional temporary hit points.<br/> * If you start your turn with no uses available of your dread smite power, roll a d6. On a 5 or 6, you regain one use of that power."
   },
   "Dominator's Strike": {
     "id": "'13837",
@@ -4638,7 +4638,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage. You gain temporary hit points equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage. You gain temporary hit points equal to your Charisma modifier.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Dark Grace": {
     "id": "'13842",
@@ -4672,7 +4672,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage. You gain combat advantage against the first enemy you attack before the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage. You gain combat advantage against the first enemy you attack before the end of your next turn.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Rampaging Bloodlust": {
     "id": "'13848",

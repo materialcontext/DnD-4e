@@ -3903,7 +3903,7 @@
     "range": "Melee 1",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage to you until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
+    "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage to you until the start of your next turn.<br/> Level 21: 2[W] + Strength modifier damage.",
     "effect": "Until the start of your next turn, you gain a +2 power bonus to warden’s fury damage rolls."
   },
   "Stinging Nettles (Warden)": {
@@ -3939,7 +3939,7 @@
       "Conjuration, Primal"
     ],
     "range": "Ranged 5",
-    "effect": "You conjure a faerie guardian in an unoccupied square within range. The faerie lasts until the end of the encounter or until you dismiss it as a minor action. As a minor action, you can move the faerie up to 5 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Whenever you use your Nature’s Wrath class feature, one enemy adjacent to your faerie guardian also becomes marked by you until the end of your next turn."
+    "effect": "You conjure a faerie guardian in an unoccupied square within range. The faerie lasts until the end of the encounter or until you dismiss it as a minor action. As a minor action, you can move the faerie up to 5 squares.<br/> Whenever you use your Nature’s Wrath class feature, one enemy adjacent to your faerie guardian also becomes marked by you until the end of your next turn."
   },
   "Fey Congress": {
     "id": "'13604",

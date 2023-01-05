@@ -334,7 +334,7 @@
       "Arcane, Conjuration, Fire, Implement"
     ],
     "range": "Area wall 3 within 1 square",
-    "effect": "You conjure a wall of contiguous squares filled with leaping flames that lasts until the start of your next turn. The wall can be 3 squares long and no more than 1 square high. Only 1 square of the wall must be within 1 square of you.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that enters the wall’s space or starts its turn there takes 1d8 + Constitution modifier fire damage. A creature can take this damage only once per turn."
+    "effect": "You conjure a wall of contiguous squares filled with leaping flames that lasts until the start of your next turn. The wall can be 3 squares long and no more than 1 square high. Only 1 square of the wall must be within 1 square of you.<br/> Any creature that enters the wall’s space or starts its turn there takes 1d8 + Constitution modifier fire damage. A creature can take this damage only once per turn."
   },
   "Lightning Lure": {
     "id": "'2078",
@@ -551,7 +551,7 @@
     ],
     "range": "Close burst 2",
     "target": "One creature in the burst",
-    "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark other creatures using other powers, the target is still marked. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your marked target makes an attack that doesn’t include you as a target, it takes a –2 penalty to attack rolls. If that attack hits and the marked target is within 10 squares of you, you can use an immediate reaction to teleport to a square adjacent to the target and make a melee basic attack against it. If no unoccupied space exists adjacent to the target, you can’t use this immediate reaction."
+    "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark other creatures using other powers, the target is still marked. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place.<br/> If your marked target makes an attack that doesn’t include you as a target, it takes a –2 penalty to attack rolls. If that attack hits and the marked target is within 10 squares of you, you can use an immediate reaction to teleport to a square adjacent to the target and make a melee basic attack against it. If no unoccupied space exists adjacent to the target, you can’t use this immediate reaction."
   },
   "Aegis of Shielding": {
     "id": "'3323",
@@ -568,7 +568,7 @@
     ],
     "range": "Close burst 2",
     "target": "One creature in the burst",
-    "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark other creatures using other powers, the target is still marked. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your marked target makes an attack that doesn’t include you as a target, it takes a –2 penalty to attack rolls. If that attack hits and the marked target is  within 10 squares of you, you can use an immediate interrupt to reduce the damage dealt by that attack to any one creature by an amount equal to 5 + your Constitution modifier.<br/>At 11th level, reduce the damage dealt by 10 + your Constitution modifier. At 21st level, reduce the damage dealt by 15 + your Constitution modifier."
+    "effect": "You mark the target. The target remains marked until you use this power against another target. If you mark other creatures using other powers, the target is still marked. A creature can be subject to only one mark at a time. A new mark supersedes a mark that was already in place.<br/> If your marked target makes an attack that doesn’t include you as a target, it takes a –2 penalty to attack rolls. If that attack hits and the marked target is  within 10 squares of you, you can use an immediate interrupt to reduce the damage dealt by that attack to any one creature by an amount equal to 5 + your Constitution modifier.<br/>At 11th level, reduce the damage dealt by 10 + your Constitution modifier. At 21st level, reduce the damage dealt by 15 + your Constitution modifier."
   },
   "Flame Cyclone": {
     "id": "'3326",
@@ -910,7 +910,7 @@
     "target": "One creature",
     "attack": "Intelligence vs. AC",
     "onHit": "1[W] +Intelligence modifier damage.",
-    "effect": "You conjure a duplicate of yourself on a solid surface in a square adjacent to the target. The duplicate lasts until the end of the encounter or until you drop to 0 hit points or fewer. Enemies cannot move through the duplicate’s space, but allies can. The duplicate disappears if you end any turn more than 5 squares away from it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;You and the duplicate share your statistics and actions. Actions the duplicate takes come from your normal allotment of actions, and it can take any actions normally available to you. You can make attacks, including opportunity attacks, as though you occupied the same space as the duplicate. The duplicate can be targeted by attacks and provokes opportunity attacks. Any effect that targets you and the duplicate affects you only once."
+    "effect": "You conjure a duplicate of yourself on a solid surface in a square adjacent to the target. The duplicate lasts until the end of the encounter or until you drop to 0 hit points or fewer. Enemies cannot move through the duplicate’s space, but allies can. The duplicate disappears if you end any turn more than 5 squares away from it.<br/> You and the duplicate share your statistics and actions. Actions the duplicate takes come from your normal allotment of actions, and it can take any actions normally available to you. You can make attacks, including opportunity attacks, as though you occupied the same space as the duplicate. The duplicate can be targeted by attacks and provokes opportunity attacks. Any effect that targets you and the duplicate affects you only once."
   },
   "Arcane Awareness": {
     "id": "'3367",
@@ -1195,7 +1195,7 @@
       "Arcane"
     ],
     "range": "Personal",
-    "effect": "Until the end of the encounter, you gain a +5 power bonus to Perception checks, you ignore attack penalties for targets that have concealment or total concealment, and you can see invisible targets as if they were visible.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While this power is active, you can force an enemy within line of sight to reroll an attack roll made against you or an ally, with a penalty equal to your Constitution modifier. The enemy must use the new result. Using this benefit ends the power’s effects immediately."
+    "effect": "Until the end of the encounter, you gain a +5 power bonus to Perception checks, you ignore attack penalties for targets that have concealment or total concealment, and you can see invisible targets as if they were visible.<br/> While this power is active, you can force an enemy within line of sight to reroll an attack roll made against you or an ally, with a penalty equal to your Constitution modifier. The enemy must use the new result. Using this benefit ends the power’s effects immediately."
   },
   "Giant's Might": {
     "id": "'3384",
@@ -1211,7 +1211,7 @@
       "Arcane"
     ],
     "range": "Personal",
-    "effect": "Your size category becomes the next larger one, such as from Medium to Large. You gain a +5 power bonus to Strength ability checks, a +2 power bonus to melee attack rolls, and a +5 power bonus to melee damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If this power increases your size to Large, Huge, or Colossal, your space increases to match the new size and your reach also increases by 1. If there is insufficient room for your space to increase, this power automatically fails.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This transformation persists until the end of the encounter or until you choose to end it as a minor aciton."
+    "effect": "Your size category becomes the next larger one, such as from Medium to Large. You gain a +5 power bonus to Strength ability checks, a +2 power bonus to melee attack rolls, and a +5 power bonus to melee damage rolls.<br/> If this power increases your size to Large, Huge, or Colossal, your space increases to match the new size and your reach also increases by 1. If there is insufficient room for your space to increase, this power automatically fails.<br/> This transformation persists until the end of the encounter or until you choose to end it as a minor aciton."
   },
   "Shackled Warding": {
     "id": "'3385",
@@ -3712,7 +3712,7 @@
     "range": "Melee 2",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
-    "onHit": "1d8 thunder damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 thunder damage.",
+    "onHit": "1d8 thunder damage, and the target is slowed until the end of your next turn.<br/> Level 21: 2d8 thunder damage.",
     "special": "When charging, you can use this power in place of a melee basic attack. Add your Intelligence modifier to the damage if you charge while mounted."
   },
   "Dimensional Cleave": {

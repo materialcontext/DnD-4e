@@ -10,7 +10,7 @@
     "sourceRef": "Heroes of the Fallen Lands, Heroes of the Forgotten Kingdoms",
     "flavor": "Your grim focus and unbridled energy means that failure is not an option.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You miss with an attack or fail a saving throw.</p><p class=\"flavor\">Effect: You gain a +4 racial bonus to the attack roll or the saving throw.</p>"
+      " Personal   Trigger: You miss with an attack or fail a saving throw.  Effect: You gain a +4 racial bonus to the attack roll or the saving throw. "
     ],
     "range": "Personal",
     "trigger": "You miss with an attack or fail a saving throw.",
@@ -27,7 +27,7 @@
     "sourceRef": "Dragon Magazine 402",
     "flavor": "You dig deep to find the strength to overcome an affliction. Doing so leaves you momentarily drained.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make a saving throw and dislike the result.</p><p class=\"flavor\">Effect: Reroll the saving throw with a +2 power bonus. The next saving throw you make before the end of the encounter takes a -2 penalty.</p>"
+      " Personal   Trigger: You make a saving throw and dislike the result.  Effect: Reroll the saving throw with a +2 power bonus. The next saving throw you make before the end of the encounter takes a -2 penalty. "
     ],
     "range": "Personal",
     "trigger": "You make a saving throw and dislike the result.",
@@ -44,7 +44,7 @@
     "sourceRef": "Dragon Magazine 402",
     "flavor": "You move with surprising swiftness, accomplishing more than most would think possible.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Take a move action.</p>"
+      " Personal   Effect: Take a move action. "
     ],
     "range": "Personal",
     "effect": "Take a move action."
@@ -60,11 +60,11 @@
     "sourceRef": "Dragon Magazine 402",
     "flavor": "You feel your confidence build with each attack that hits home.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You hit with an attack on your turn.</p><p class=\"flavor\">Effect: After the attack is resolved, you gain 5 temporary hit points and can then shift up to half your speed."
+      " Personal   Trigger: You hit with an attack on your turn.  Effect: After the attack is resolved, you gain 5 temporary hit points and can then shift up to half your speed."
     ],
     "range": "Personal",
     "trigger": "You hit with an attack on your turn.",
-    "effect": "After the attack is resolved, you gain 5 temporary hit points and can then shift up to half your speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 22: 15 temporary hit points."
+    "effect": "After the attack is resolved, you gain 5 temporary hit points and can then shift up to half your speed.<br/> Level 16: 10 temporary hit points.<br/> Level 22: 15 temporary hit points."
   },
   "Courageous Determination": {
     "id": "'14398",

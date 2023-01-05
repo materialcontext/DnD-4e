@@ -10,7 +10,7 @@
     "sourceRef": "Player's Handbook 2, Heroes of the Forgotten Kingdoms",
     "flavor": "Your monstrous wrath burns inside you, giving strength to your attack.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You hit an enemy with an attack.</p><p class=\"flavor\">Effect: The attack deals 1[W] extra damage if it’s a weapon attack or 1d8 extra damage if it is not a weapon attack.</p>"
+      " Personal   Trigger: You hit an enemy with an attack.  Effect: The attack deals 1[W] extra damage if it’s a weapon attack or 1d8 extra damage if it is not a weapon attack. "
     ],
     "range": "Personal",
     "trigger": "You hit an enemy with an attack.",
@@ -27,7 +27,7 @@
     "sourceRef": "Dragon Magazine 408",
     "flavor": "You foil an enemy’s attempt to slip away with an aggressive step forward.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An enemy adjacent to you shifts.</p><p class=\"flavor\">Effect: You can shift 1 square, and you gain a +2 power bonus to attack rolls against the triggering enemy until the end of your next turn.</p>"
+      " Personal   Trigger: An enemy adjacent to you shifts.  Effect: You can shift 1 square, and you gain a +2 power bonus to attack rolls against the triggering enemy until the end of your next turn. "
     ],
     "range": "Personal",
     "trigger": "An enemy adjacent to you shifts.",
@@ -44,7 +44,7 @@
     "sourceRef": "Dragon Magazine 408",
     "flavor": "You exhilarate in the rush to engage your foe, growing more confident with each enemy that fails to stop you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You charge an enemy.</p><p class=\"flavor\">Effect: You gain a number of temporary hit points equal to your Strength modifier. In addition, you gain a power bonus to your charge attack roll equal to the number of enemies that attack you during your charge movement.</p>"
+      " Personal   Trigger: You charge an enemy.  Effect: You gain a number of temporary hit points equal to your Strength modifier. In addition, you gain a power bonus to your charge attack roll equal to the number of enemies that attack you during your charge movement. "
     ],
     "range": "Personal",
     "trigger": "You charge an enemy.",
@@ -78,7 +78,7 @@
     "sourceRef": "Dragon Magazine 408",
     "flavor": "You harden your thoughts and think of nothing other than dealing death to your foes.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Until the end of the encounter, you gain a +2 power bonus to attack rolls and to Will. When an attack targets your Will, you can make a basic attack against the attacker as an immediate reaction.</p>"
+      " Personal   Effect: Until the end of the encounter, you gain a +2 power bonus to attack rolls and to Will. When an attack targets your Will, you can make a basic attack against the attacker as an immediate reaction. "
     ],
     "range": "Personal",
     "effect": "Until the end of the encounter, you gain a +2 power bonus to attack rolls and to Will. When an attack targets your Will, you can make a basic attack against the attacker as an immediate reaction."
@@ -94,7 +94,7 @@
     "sourceRef": "Dragon  Magazine 429",
     "flavor": "Your conditioning allows you to maintain your footing.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Requirement: You must be trained in Athletics.</p><p class=\"powerstat\">Effect: During any movement you make until the end of your turn, you ignore difficult terrain. In addition, in place of any Acrobatics checks the movement requires, you can make Athletics checks with a +2 power bonus.</p>"
+      " Personal   Requirement: You must be trained in Athletics.  Effect: During any movement you make until the end of your turn, you ignore difficult terrain. In addition, in place of any Acrobatics checks the movement requires, you can make Athletics checks with a +2 power bonus. "
     ],
     "range": "Personal",
     "requirement": "You must be trained in Athletics.",
@@ -111,7 +111,7 @@
     "sourceRef": "Dragon  Magazine 429",
     "flavor": "Where others tire and let their focus waver, your stamina keeps you alert.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You roll initiative.</p><p class=\"flavor\">Effect: Add your Endurance bonus to the roll instead of your initiative modifier.</p>"
+      " Personal   Trigger: You roll initiative.  Effect: Add your Endurance bonus to the roll instead of your initiative modifier. "
     ],
     "range": "Personal",
     "trigger": "You roll initiative.",
@@ -128,7 +128,7 @@
     "sourceRef": "Dragon  Magazine 429",
     "flavor": "When a friend is having trouble shaking off adverse effects, nothing is more motivating than your angry shout.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 5</p><p class=\"powerstat\">Target: One or two allies who can hear you in the burst</p><p class=\"flavor\">Effect: Each target makes a saving throw against one effect on him or her that a save can end.</p>"
+      " Close burst 5  Target: One or two allies who can hear you in the burst  Effect: Each target makes a saving throw against one effect on him or her that a save can end. "
     ],
     "range": "Close burst 5",
     "target": "One or two allies who can hear you in the burst",

@@ -227,7 +227,7 @@
     "range": "Melee weapon",
     "targets": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and an enemy adjacent to you other than the target takes damage equal to your Strength modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage, and an enemy adjacent to you other than the target takes damage equal to your Strength modifier.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Reaping Strike": {
     "id": "'997",
@@ -245,7 +245,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
+    "onHit": "1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Strength modifier damage.",
     "onMiss": "Half Strength modifier damage. If you’re wielding a two-handed weapon, you deal damage equal to your Strength modifier."
   },
   "Tide of Iron": {
@@ -265,7 +265,7 @@
     "requirement": "You must be using a shield.",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and you can push the target 1 square if it is no larger than one size category larger than you. You can then shift 1 square into the space that the target left.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage, and you can push the target 1 square if it is no larger than one size category larger than you. You can then shift 1 square into the space that the target left.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Spinning Sweep": {
     "id": "'1004",
@@ -1397,7 +1397,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength + 2 vs. AC",
-    "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage."
+    "onHit": "1[W] damage.<br/> Level 21: 2[W] damage."
   },
   "Paralyzing Strike": {
     "id": "'1931",
@@ -1585,11 +1585,11 @@
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
-    "onHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage",
+    "onHit": "1[W] damage.<br/> Level 21: 2[W] damage",
     "effect": "Make a secondary attack.",
     "secondaryTarget": "One creature other than the primary target",
     "secondaryAttack": "Strength vs. AC (off-hand weapon)",
-    "secondaryOnHit": "1[W] damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] damage"
+    "secondaryOnHit": "1[W] damage.<br/> Level 21: 2[W] damage"
   },
   "Footwork Lure": {
     "id": "'2105",
@@ -2247,11 +2247,11 @@
     "requirement": "You must be wielding two melee weapons.",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC (main weapon)",
-    "onHit": "1[W] + Strength modifier damage, and you slide the target 2 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you have combat advantage against the target, the primary attack deals extra damage equal to your Dexterity modifier.",
+    "onHit": "1[W] + Strength modifier damage, and you slide the target 2 squares.<br/> If you have combat advantage against the target, the primary attack deals extra damage equal to your Dexterity modifier.",
     "effect": "You can shift 3 squares and make a secondary attack.",
     "secondaryTarget": "One creature other than the primary target",
     "secondaryAttack": "Strength vs. AC (off-hand weapon)",
-    "secondaryOnHit": "1[W] + Strength modifier damage, and you slide the target 2 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you have combat advantage against the secondary target, the secondary attack deals extra damage equal to your Dexterity modifier."
+    "secondaryOnHit": "1[W] + Strength modifier damage, and you slide the target 2 squares.<br/> If you have combat advantage against the secondary target, the secondary attack deals extra damage equal to your Dexterity modifier."
   },
   "Driving Flurry": {
     "id": "'2456",
@@ -2415,7 +2415,7 @@
     "sourceRef": "Martial Power",
     "flavor": "Your battle cry wracks your enemies’ nerves and draws their attention to you.",
     "keywords": [
-      "</h1><p class=\"flavor\"><i>Your battle cry wracks your enemies’ nerves and draws their attention to you.</i></p><p class=\"powerstat\">Daily&nbsp;&nbsp; <img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Martial"
+      "</h1> <i>Your battle cry wracks your enemies’ nerves and draws their attention to you.</i>  Daily  <img src=\"images/bullet.gif\" alt=\"\"/>  Martial"
     ],
     "range": "Close burst 3",
     "target": "Each enemy in the burst",
@@ -3228,10 +3228,10 @@
     "range": "Melee weapon",
     "primaryTarget": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "2[W] + Strength modifier damage, and you can shift 2 squares and make a secondary attack.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you have combat advantage against the primary target, the primary attack deals extra damage equal to your Dexterity modifier.",
+    "onHit": "2[W] + Strength modifier damage, and you can shift 2 squares and make a secondary attack.<br/> If you have combat advantage against the primary target, the primary attack deals extra damage equal to your Dexterity modifier.",
     "secondaryTarget": "One creature other than the primary target",
     "secondaryAttack": "Strength vs. AC",
-    "secondaryOnHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If you have combat advantage against the secondary target, the secondary attack deals extra damage equal to your Dexterity modifier.",
+    "secondaryOnHit": "1[W] + Strength modifier damage.<br/> If you have combat advantage against the secondary target, the secondary attack deals extra damage equal to your Dexterity modifier.",
     "special": "When charging, you can use this power in place of a melee basic attack."
   },
   "Tap and Counterstrike": {

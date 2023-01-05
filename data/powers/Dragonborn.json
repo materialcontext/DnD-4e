@@ -14,8 +14,8 @@
     ],
     "range": "Close blast 3",
     "target": "Each creature in the blast",
-    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
-    "onHit": "1d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 + Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 + Constitution modifier damage.",
+    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/> Level 11: The bonus increases to +4.<br/> Level 21: The bonus increases to +6.",
+    "onHit": "1d6 + Constitution modifier damage.<br/> Level 11: 2d6 + Constitution modifier damage.<br/> Level 21: 3d6 + Constitution modifier damage.",
     "special": "When you create your character, choose Strength, Constitution, or Dexterity as the ability score you use when making attack rolls with this power. You also choose the power’s damage type: acid, cold, fire, lightning, or poison. These two choices remain throughout your character’s life and do not change the power’s other effects."
   },
   "Dragonfear": {
@@ -47,7 +47,7 @@
     "sourceRef": "Dragon Magazine 408",
     "flavor": "You set your sights on your foe and dive through the fray, heedless of the threats of others.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You charge an enemy.</p><p class=\"flavor\">Effect: Your movement made as part of the charge does not provoke opportunity attacks.</p>"
+      " Personal   Trigger: You charge an enemy.  Effect: Your movement made as part of the charge does not provoke opportunity attacks. "
     ],
     "range": "Personal",
     "trigger": "You charge an enemy.",
@@ -81,7 +81,7 @@
     "sourceRef": "Dragon Magazine 408",
     "flavor": "You call forth the elemental forces that power your breath weapon to shield you from harm.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage of a type that matches the damage type you chose for your dragon breath power.</p><p class=\"flavor\">Effect: You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter.</p>"
+      " Personal   Trigger: You take damage of a type that matches the damage type you chose for your dragon breath power.  Effect: You gain resistance equal to 5 + one-half your level to the triggering damage type until the end of the encounter. "
     ],
     "range": "Personal",
     "trigger": "You take damage of a type that matches the damage type you chose for your dragon breath power.",
@@ -98,7 +98,7 @@
     "sourceRef": "Dragon Magazine 408",
     "flavor": "Your success gives you such enthusiasm that you loose a roar that strikes fear into all the foes around you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.</p><p class=\"flavor\">Effect: You use dragonfear even if it is already expended.</p>"
+      " Personal   Trigger: You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.  Effect: You use dragonfear even if it is already expended. "
     ],
     "range": "Personal",
     "trigger": "You bloody an enemy with an attack or reduce a nonminion enemy to 0 hit points with an attack.",

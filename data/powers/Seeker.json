@@ -72,7 +72,7 @@
     "target": "One creature",
     "special": "Choose cold, fire, lightning, or thunder whenever you use this power. Your choice determines the power’s damage type.",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage of the chosen type. Until the end of your next turn, any creature that starts its turn adjacent to the target takes damage of the chosen type equal to your Dexterity modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage of the chosen type.<br/>"
+    "onHit": "1[W] + Wisdom modifier damage of the chosen type. Until the end of your next turn, any creature that starts its turn adjacent to the target takes damage of the chosen type equal to your Dexterity modifier.<br/> Level 21: 2[W] + Wisdom modifier damage of the chosen type.<br/>"
   },
   "Biting Swarm": {
     "id": "'9503",
@@ -109,7 +109,7 @@
     "range": "Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage. The attack creates a zone in a burst 1 centered on the target. The zone lasts until the start of your next turn. Any creature that ends its turn within the zone takes poison damage equal to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.<br/>"
+    "onHit": "1[W] + Wisdom modifier damage. The attack creates a zone in a burst 1 centered on the target. The zone lasts until the start of your next turn. Any creature that ends its turn within the zone takes poison damage equal to your Wisdom modifier.<br/> Level 21: 2[W] + Wisdom modifier damage.<br/>"
   },
   "Flickering Arrow": {
     "id": "'9505",
@@ -2085,7 +2085,7 @@
     "range": "Area burst 1 within weapon range",
     "target": "Each enemy in the burst",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] damage, and you can slide the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] modifier damage."
+    "onHit": "1[W] damage, and you can slide the target 1 square.<br/> Level 21: 2[W] modifier damage."
   },
   "Into the Black Bog": {
     "id": "'16601",

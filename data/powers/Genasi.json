@@ -30,7 +30,7 @@
     "sourceRef": "Forgotten Realms Player's Guide",
     "flavor": "The earth moves in response to your stomping foot or slapping hand, buckling to knock your enemy to its knees.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 1</p><p class=\"powerstat\">Target: Enemies in the burst that are touching the ground</p><p class=\"powerstat\">Attack: Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude"
+      " Close burst 1  Target: Enemies in the burst that are touching the ground  Attack: Strength +2 vs. Fortitude, Constitution +2 vs. Fortitude, or Dexterity +2 vs. Fortitude"
     ],
     "range": "Close burst 1",
     "target": "Enemies in the burst that are touching the ground",
@@ -65,7 +65,7 @@
     "sourceRef": "Forgotten Realms Player's Guide",
     "flavor": "Your form ripples like water as you flow forward, whipping past  enemies and rubble in a graceful but deadly surge.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you.</p>"
+      " Personal   Effect: You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you. "
     ],
     "range": "Personal",
     "effect": "You can shift up to your speed over ground or liquid terrain. You take no penalties for squeezing during this movement, can move through enemy spaces, ignore difficult terrain, and take no damage if the surface or substance you move accross would ordinarily deal damage to you."
@@ -81,7 +81,7 @@
     "sourceRef": "Forgotten Realms Player's Guide",
     "flavor": "You harness the power of the winds. Air swirls about you, lifting you from the earth.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage.</p>"
+      " Personal   Effect: Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage. "
     ],
     "range": "Personal",
     "effect": "Fly 8 squares. If you don't end your move on solid ground, you float to the ground without taking falling damage."
@@ -115,7 +115,7 @@
     "sourceRef": "Dragon Magazine 380",
     "flavor": "As all fires must burn out, so does each attack on you dwindle and die.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You take damage</p><p class=\"flavor\">Effect: All damage dice rolled for the triggering attack are considered to have a result of 1.</p>"
+      " Personal   Trigger: You take damage  Effect: All damage dice rolled for the triggering attack are considered to have a result of 1. "
     ],
     "range": "Personal",
     "trigger": "You take damage",
@@ -148,7 +148,7 @@
     "sourceRef": "Dragon Magazine 380",
     "flavor": "You become the void, the absence of all, for just long enough.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left.</p>"
+      " Personal   Effect: You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left. "
     ],
     "range": "Personal",
     "effect": "You cease to exist and can take no actions until the start of your next turn. You have line of sight and line of effect to no creature, and no creature has line of sight or line of effect to you. At the start of your next turn, you reappear in the square of your choice within 3 squares of the square you left."
@@ -184,7 +184,7 @@
       "Aura, Fire, Polymorph"
     ],
     "range": "Personal",
-    "effect": "You assume a molten form until the end of your next turn. While in this form, you are slowed, you are immune to fire, and you cannot be pulled, pushed, or slid unless you choose to be. In addition, you create an aura 1 that lasts as long as the form does. Any creature that ends its turn in the aura takes fire damage equal to your Strength, Constitution, or Dexterity modifier (your choice). <br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: A creature that ends its turn in the aura takes 3 + Strength, Constitution, or Dexterity modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: A creature that ends its turn in the aura takes 6 + Strength, Constitution, or Dexterity modifier fire damage."
+    "effect": "You assume a molten form until the end of your next turn. While in this form, you are slowed, you are immune to fire, and you cannot be pulled, pushed, or slid unless you choose to be. In addition, you create an aura 1 that lasts as long as the form does. Any creature that ends its turn in the aura takes fire damage equal to your Strength, Constitution, or Dexterity modifier (your choice). <br/> Level 11: A creature that ends its turn in the aura takes 3 + Strength, Constitution, or Dexterity modifier fire damage.<br/> Level 21: A creature that ends its turn in the aura takes 6 + Strength, Constitution, or Dexterity modifier fire damage."
   },
   "Sandslide": {
     "id": "'14075",
@@ -218,7 +218,7 @@
     "range": "Close burst 1",
     "trigger": "You are hit by an attack while bloodied.",
     "target": "Each creature in the burst",
-    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
-    "onHit": "Strength, Constitution, or Dexterity modifier fire and radiant damage, and the target takes a -2 penalty to attack rolls until the end of its next turn. If the target is bloodied by this attack, it is also blinded until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 1d6 + Strength, Constitution, or Dexterity modifier fire and radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Strength, Constitution, or Dexterity modifier fire and radiant damage."
+    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/> Level 11: The bonus increases to +4.<br/> Level 21: The bonus increases to +6.",
+    "onHit": "Strength, Constitution, or Dexterity modifier fire and radiant damage, and the target takes a -2 penalty to attack rolls until the end of its next turn. If the target is bloodied by this attack, it is also blinded until the end of its next turn.<br/> Level 11: 1d6 + Strength, Constitution, or Dexterity modifier fire and radiant damage.<br/> Level 21: 2d6 + Strength, Constitution, or Dexterity modifier fire and radiant damage."
   }
 }

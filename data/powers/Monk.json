@@ -2707,7 +2707,7 @@
     },
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "1d10 + Dexterity modifier damage, and the target takes a -2 penalty to attack rolls against you until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Dexterity modifier damage."
+    "onHit": "1d10 + Dexterity modifier damage, and the target takes a -2 penalty to attack rolls against you until the end of your next turn.<br/> Level 21: 2d10 + Dexterity modifier damage."
   },
   "Gentle Rainfall [Attack Technique]": {
     "id": "'13221",
@@ -3307,7 +3307,7 @@
     ],
     "range": "Melee 1",
     "trigger": "You hit with an attack during your turn.",
-    "target": "One creature<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: One or two creatures<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Each enemy adjacent to you",
+    "target": "One creature<br/> Level 11: One or two creatures<br/> Level 21: Each enemy adjacent to you",
     "effect": "The target takes 2 + your Charisma modifier fire damage. If the target wasn’t targeted by the triggering attack, it also takes a -2 penalty to attack rolls for any attack that includes you as a target until the end of your next turn. You can then shift 1 square.",
     "special": "You can use this power only once per round."
   },
@@ -3326,7 +3326,7 @@
     ],
     "range": "Melee 2",
     "trigger": "You hit with an attack during your turn.",
-    "target": "One creature<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: One or two creatures<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: One, two, or three creatures",
+    "target": "One creature<br/> Level 11: One or two creatures<br/> Level 21: One, two, or three creatures",
     "effect": "The target takes damage equal to your Strength modifier, and you can pull the target 1 square. If the target wasn’t targeted by the triggering attack, it is slowed until the end of your next turn.",
     "special": "You can use this power only once per round."
   },
@@ -3346,7 +3346,7 @@
     "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "1d8 + Dexterity modifier damage. Until the end of your next turn, your melee attacks deal extra fire damage equal to your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Dexterity modifier damage.",
+    "onHit": "1d8 + Dexterity modifier damage. Until the end of your next turn, your melee attacks deal extra fire damage equal to your Charisma modifier.<br/> Level 21: 2d8 + Dexterity modifier damage.",
     "effect": "You move up to your speed. Enemies that hit you with opportunity attacks provoked by this movement take fire damage equal to 2 + your Charisma modifier."
   },
   "Crashing Wave [Attack Technique]": {
@@ -3365,7 +3365,7 @@
     "range": "Melee touch",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
-    "onHit": "1d8 + Dexterity modifier damage, and you can slide the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Dexterity modifier damage.",
+    "onHit": "1d8 + Dexterity modifier damage, and you can slide the target 1 square.<br/> Level 21: 2d8 + Dexterity modifier damage.",
     "effect": "You shift up to a number of squares equal to half your Strength modifier. You can shift through enemies’ spaces during this move."
   },
   "Balance Restored [Attack Technique]": {
@@ -3651,7 +3651,7 @@
       "Elemental, Fire, Implement, Psionic, Zone"
     ],
     "range": "Melee touch",
-    "effect": "You move up to your speed. The squares you leave become a zone that lasts until the end of your next turn. Any creature that enters the zone or starts its turn there takes fire damage equal to your Dexterity modifier. A creature can take this damage only once per turn. <br/>&nbsp;&nbsp;&nbsp;&nbsp;At the end of the move, make the following attack.",
+    "effect": "You move up to your speed. The squares you leave become a zone that lasts until the end of your next turn. Any creature that enters the zone or starts its turn there takes fire damage equal to your Dexterity modifier. A creature can take this damage only once per turn. <br/> At the end of the move, make the following attack.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
     "onHit": "4d6 fire damage.",

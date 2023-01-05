@@ -52,6 +52,6 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "3[W] + Strength modifier damage, and you conjure a shadow in an unoccupied square adjacent to the target. Until the end of the encounter, each time you hit the target, a new shadow is created and the old one is destroyed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The shadow is a reflection of the target. It has the defenses, immunities, resistances, speed, and melee basic attacks of the target. The shadow also has the same type and keywords, though it has the shadow origin. The shadow has 1 hit point, and a missed attack never damages the shadow. You control the shadow as a free action, which acts on your turn and has one standard action."
+    "onHit": "3[W] + Strength modifier damage, and you conjure a shadow in an unoccupied square adjacent to the target. Until the end of the encounter, each time you hit the target, a new shadow is created and the old one is destroyed.<br/> The shadow is a reflection of the target. It has the defenses, immunities, resistances, speed, and melee basic attacks of the target. The shadow also has the same type and keywords, though it has the shadow origin. The shadow has 1 hit point, and a missed attack never damages the shadow. You control the shadow as a free action, which acts on your turn and has one standard action."
   }
 }

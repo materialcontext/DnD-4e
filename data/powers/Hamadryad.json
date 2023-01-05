@@ -10,7 +10,7 @@
     "sourceRef": "Heroes of the Feywild",
     "flavor": "Drawing on fey magic, you call on your primal beauty and strength to thwart your foes.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: Choose one of the following aspects each time you use this power. You gain that aspect’s benefits.</p><p class=\"powerstat\">&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;Spellbinding Beauty: Every enemy that can see you grants combat advantage to you until the end of your next turn.</p><p class=\"flavor\">&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;Wooden Form: You gain resist 5 to all damage until the end of your next turn."
+      " Personal   Effect: Choose one of the following aspects each time you use this power. You gain that aspect’s benefits.   <img src=\"images/bullet.gif\" alt=\"\"/> Spellbinding Beauty: Every enemy that can see you grants combat advantage to you until the end of your next turn.   <img src=\"images/bullet.gif\" alt=\"\"/> Wooden Form: You gain resist 5 to all damage until the end of your next turn."
     ],
     "range": "Personal",
     "effect": "Choose one of the following aspects each time you use this power. You gain that aspect’s benefits."
@@ -26,7 +26,7 @@
     "sourceRef": "Heroes of the Feywild",
     "flavor": "Your body hardens to take on the strength and resilience of the mighty oak.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain temporary hit points equal to 3 + one-half your level. Until the end of your next turn, you gain a +2 power bonus to AC and Fortitude, but you also gain vulnerable 5 fire.</p><p class=\"powerstat\">Sustain Minor: The bonus and the vulnerability persist until the end of your next turn.</p>"
+      " Personal   Effect: You gain temporary hit points equal to 3 + one-half your level. Until the end of your next turn, you gain a +2 power bonus to AC and Fortitude, but you also gain vulnerable 5 fire.  Sustain Minor: The bonus and the vulnerability persist until the end of your next turn. "
     ],
     "range": "Personal",
     "effect": "You gain temporary hit points equal to 3 + one-half your level. Until the end of your next turn, you gain a +2 power bonus to AC and Fortitude, but you also gain vulnerable 5 fire.",
@@ -60,7 +60,7 @@
     "sourceRef": "Heroes of the Feywild",
     "flavor": "Your physical form fades into a diaphanous vision that can pass through the solid world like a ghost.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You are phasing and insubstantial until the end of your next turn. In addition, you shift up to 2 squares.</p>"
+      " Personal   Effect: You are phasing and insubstantial until the end of your next turn. In addition, you shift up to 2 squares. "
     ],
     "range": "Personal",
     "effect": "You are phasing and insubstantial until the end of your next turn. In addition, you shift up to 2 squares."
@@ -76,7 +76,7 @@
     "sourceRef": "Heroes of the Feywild",
     "flavor": "As you reel from your foe’s attack, your fury creates a display of otherworldly light all but impossible to look upon.",
     "keywords": [
-      "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: An enemy attack bloodies you or hits you while you are bloodied.</p><p class=\"flavor\">Effect: Until the end of your next turn, you shed bright light to a radius of 5 squares, the triggering enemy grants combat advantage, and enemies take a -5 penalty to attack rolls against you.</p>"
+      " Special   Trigger: An enemy attack bloodies you or hits you while you are bloodied.  Effect: Until the end of your next turn, you shed bright light to a radius of 5 squares, the triggering enemy grants combat advantage, and enemies take a -5 penalty to attack rolls against you. "
     ],
     "range": "Special",
     "trigger": "An enemy attack bloodies you or hits you while you are bloodied.",
@@ -93,7 +93,7 @@
     "sourceRef": "Heroes of the Feywild",
     "flavor": "As you shake off an enemy’s control of your mind and body, you turn the tables by using its own power against it.",
     "keywords": [
-      "&nbsp;&nbsp;Special </p><p class=\"powerstat\">Trigger: You are subjected to an enemy’s dazing, dominating, or stunning effect that a save can end.</p><p class=\"flavor\">Effect: You make a saving throw against the effect. If your saving throw is successful, the triggering enemy must make a saving throw against the same effect. If that enemy’s saving throw fails, the enemy is subjected to the effect (save ends). If your saving throw fails, you do not expend this power. </p>"
+      " Special   Trigger: You are subjected to an enemy’s dazing, dominating, or stunning effect that a save can end.  Effect: You make a saving throw against the effect. If your saving throw is successful, the triggering enemy must make a saving throw against the same effect. If that enemy’s saving throw fails, the enemy is subjected to the effect (save ends). If your saving throw fails, you do not expend this power.  "
     ],
     "range": "Special",
     "trigger": "You are subjected to an enemy’s dazing, dominating, or stunning effect that a save can end.",

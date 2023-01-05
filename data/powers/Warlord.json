@@ -203,7 +203,7 @@
     "target": "One creature",
     "special": "Before the attack, an ally adjacent to you or to the target can shift 1 square as a free action.",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Commander’s Strike": {
     "id": "'1061",
@@ -238,7 +238,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
+    "onHit": "1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Strength modifier damage.",
     "effect": "If the target shifts before the start of your next turn, it provokes an opportunity attack from an ally of your choice."
   },
   "Guarding Attack": {
@@ -1273,7 +1273,7 @@
     ],
     "range": "Close burst 5 (10 at 11th level, 15 at 21st level)",
     "target": "You or one ally in the burst",
-    "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 6: 2d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 4d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 26: 6d6 additional hit points.",
+    "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/> Level 6: 2d6 additional hit points.<br/> Level 11: 3d6 additional hit points.<br/> Level 16: 4d6 additional hit points.<br/> Level 21: 5d6 additional hit points.<br/> Level 26: 6d6 additional hit points.",
     "special": "You can use this power twice per encounter, but only once per round. At 16th level, you can use this power three times per encounter."
   },
   "Windmill of Doom": {

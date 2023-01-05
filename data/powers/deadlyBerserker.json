@@ -15,7 +15,7 @@
     "range": "Special",
     "trigger": "You hit a creature with a melee basic weapon attack or a barbarian at-will weapon attack power.",
     "target": "The creature you hit",
-    "effect": "The target takes 1[W] extra damage from the triggering attack. Additionally, choose one of the following effects.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;The target is immobilized until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;The target falls prone."
+    "effect": "The target takes 1[W] extra damage from the triggering attack. Additionally, choose one of the following effects.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> The target is immobilized until the end of your next turn.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> The target falls prone."
   },
   "Surge of Strength": {
     "id": "'15822",
@@ -49,6 +49,6 @@
     "range": "Personal",
     "trigger": "You hit a creature with a melee basic weapon attack or a barbarian at-will weapon attack power.",
     "target": "The creature you hit",
-    "effect": "The target takes 2[W] extra damage from the triggering attack. Additionally, choose one of the following effects.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;The target takes ongoing 10 damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp;The target is dazed and slowed (save ends both)."
+    "effect": "The target takes 2[W] extra damage from the triggering attack. Additionally, choose one of the following effects.<br/> <img src=\"images/bullet.gif\" alt=\"\"/> The target takes ongoing 10 damage (save ends).<br/> <img src=\"images/bullet.gif\" alt=\"\"/> The target is dazed and slowed (save ends both)."
   }
 }

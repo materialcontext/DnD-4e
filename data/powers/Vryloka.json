@@ -82,7 +82,7 @@
     ],
     "range": "Personal",
     "trigger": "You use your lifeblood racial power.",
-    "effect": "Instead of the lifeblood power’s normal effect, you gain the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain darkvision.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Whenever you hit an enemy with a basic attack, the enemy also takes ongoing 10 damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You have combat advantage against enemies taking ongoing damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain 15 temporary hit points if you start your turn adjacent to an enemy taking ongoing damage."
+    "effect": "Instead of the lifeblood power’s normal effect, you gain the following benefits until the end of the encounter.<br/> * You gain a +2 power bonus to speed.<br/> * You gain darkvision.<br/> * Whenever you hit an enemy with a basic attack, the enemy also takes ongoing 10 damage (save ends).<br/> * You have combat advantage against enemies taking ongoing damage.<br/> * You gain 15 temporary hit points if you start your turn adjacent to an enemy taking ongoing damage."
   },
   "Lifeblood": {
     "id": "'14033",
@@ -95,10 +95,10 @@
     "sourceRef": "Heroes of Shadow",
     "flavor": "An enemy’s ebbing life grants you a surge of vitality.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You kill or bloody an enemy.</p><p class=\"flavor\">Effect: You gain one of the following benefits."
+      " Personal   Trigger: You kill or bloody an enemy.  Effect: You gain one of the following benefits."
     ],
     "range": "Personal",
     "trigger": "You kill or bloody an enemy.",
-    "effect": "You gain one of the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You shift up to your speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain temporary hit points equal to 5 + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +2 power bonus to attack rolls until the end of your next turn."
+    "effect": "You gain one of the following benefits.<br/> * You shift up to your speed.<br/> * You gain temporary hit points equal to 5 + one-half your level.<br/> * You gain a +2 power bonus to attack rolls until the end of your next turn."
   }
 }

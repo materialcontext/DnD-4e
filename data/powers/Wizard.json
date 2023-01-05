@@ -107,7 +107,7 @@
       "Acid, Arcane, Cold, Fire, Implement, Lightning, Teleportation, Thunder, Zone"
     ],
     "range": "Area burst 4 within 20 squares",
-    "effect": "The burst creates a zone of difficult terrain that lasts until the end of your next turn. Any creature that enters the origin square of the zone or starts its turn there takes 10 acid, cold, fire, lightning, and thunder damage (a creature can take this damage only once per turn). You must teleport the creature to a square within 20 squares of you that is outside the zone. The creature then falls prone, and it is dazed until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the zone appears, make the following attack.",
+    "effect": "The burst creates a zone of difficult terrain that lasts until the end of your next turn. Any creature that enters the origin square of the zone or starts its turn there takes 10 acid, cold, fire, lightning, and thunder damage (a creature can take this damage only once per turn). You must teleport the creature to a square within 20 squares of you that is outside the zone. The creature then falls prone, and it is dazed until the start of your next turn.<br/> When the zone appears, make the following attack.",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
     "onHit": "6d6 + Intelligence modifier acid, cold, fire, lightning, and thunder damage, and the target is pulled up to 2 squares toward the zone’s origin square.",
@@ -625,7 +625,7 @@
       "Arcane, Conjuration, Evocation, Force, Implement"
     ],
     "range": "Ranged 10",
-    "effect": "You conjure two 5-foot-tall hands of force, each in a different unoccupied square within range. The hands occupy their squares, and they last until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the hands appear, you make the following attack with each hand. While a hand persists, you can use a move action to move the hand to a square adjacent to a creature within range and command the hand to attack that creature. In addition, if each hand has a creature grabbed during your turn and the creatures are within 5 squares of each other, you can use a standard action to slam the hands together, pulling each of the creatures 2 squares to squares adjacent to each other, and those creatures each take 2d10 + Intelligence modifier force damage. Each hand then returns to its original square, pulling its grabbed creature with it.",
+    "effect": "You conjure two 5-foot-tall hands of force, each in a different unoccupied square within range. The hands occupy their squares, and they last until the end of your next turn.<br/> When the hands appear, you make the following attack with each hand. While a hand persists, you can use a move action to move the hand to a square adjacent to a creature within range and command the hand to attack that creature. In addition, if each hand has a creature grabbed during your turn and the creatures are within 5 squares of each other, you can use a standard action to slam the hands together, pulling each of the creatures 2 squares to squares adjacent to each other, and those creatures each take 2d10 + Intelligence modifier force damage. Each hand then returns to its original square, pulling its grabbed creature with it.",
     "target": "One creature adjacent to the hand",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d10 + Intelligence modifier force damage, and the hand grabs the target. The hand uses your Fortitude or Reflex if the target attempts to escape.",
@@ -723,7 +723,7 @@
     ],
     "range": "Ranged 20",
     "target": "One creature",
-    "effect": "2 + Intelligence modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3 + Intelligence modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5 + Intelligence modifier force damage.",
+    "effect": "2 + Intelligence modifier force damage.<br/> Level 11: 3 + Intelligence modifier force damage.<br/> Level 21: 5 + Intelligence modifier force damage.",
     "special": "If the implement used with this power has an enhancement bonus, add that bonus to the damage. In addition, you can use this power as a ranged basic attack."
   },
   "Acid Arrow": {
@@ -892,7 +892,7 @@
     "range": "Area 1 square within 10 squares",
     "target": "Each creature in square",
     "attack": "Intelligence vs. Reflex",
-    "onHit": "1d6 + Intelligence modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier force damage.",
+    "onHit": "1d6 + Intelligence modifier force damage.<br/> Level 21: 2d6 + Intelligence modifier force damage.",
     "effect": "The power’s area becomes a zone that lasts until the end of your next turn or until you end it as a minor action. Any creature that enters the zone or starts its turn there takes force damage equal to your Wisdom modifier (minimum 1). A creature can take this damage only once per turn."
   },
   "Scorching Burst": {
@@ -911,7 +911,7 @@
     "range": "Area burst 1 within 10 squares",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Reflex",
-    "onHit": "1d6 + Intelligence modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier fire damage."
+    "onHit": "1d6 + Intelligence modifier fire damage.<br/> Level 21: 2d6 + Intelligence modifier fire damage."
   },
   "Ray of Frost": {
     "id": "'1167",
@@ -929,7 +929,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
-    "onHit": "1d6 + Intelligence modifier cold damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier cold damage.<br/>"
+    "onHit": "1d6 + Intelligence modifier cold damage, and the target is slowed until the end of your next turn.<br/> Level 21: 2d6 + Intelligence modifier cold damage.<br/>"
   },
   "Thunderwave": {
     "id": "'1169",
@@ -947,7 +947,7 @@
     "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Fortitude",
-    "onHit": "1d6 + Intelligence modifier thunder damage, and you push the target a number of squares up to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier thunder damage."
+    "onHit": "1d6 + Intelligence modifier thunder damage, and you push the target a number of squares up to your Wisdom modifier.<br/> Level 21: 2d6 + Intelligence modifier thunder damage."
   },
   "Chill Strike": {
     "id": "'1171",
@@ -1096,7 +1096,7 @@
       "Arcane, Cold, Conjuration, Implement"
     ],
     "range": "Area wall 12 within 10 squares",
-    "effect": "You conjure a solid wall of ice in unoccupied squares. The wall can be up to 6 squares high, and it lasts for 1 hour or until it is destroyed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature that starts its turn adjacent to the wall takes 2d6 + Intelligence modifier cold damage. The wall blocks line of sight and prevents movement. No creature can enter a square containing the wall.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The squares of the wall can be attacked. Each square has your defenses, and each has 50 hit points as well as vulnerable 25 fire. Any creature that makes a melee attack against the wall takes 2d6 cold damage."
+    "effect": "You conjure a solid wall of ice in unoccupied squares. The wall can be up to 6 squares high, and it lasts for 1 hour or until it is destroyed.<br/> Any creature that starts its turn adjacent to the wall takes 2d6 + Intelligence modifier cold damage. The wall blocks line of sight and prevents movement. No creature can enter a square containing the wall.<br/> The squares of the wall can be attacked. Each square has your defenses, and each has 50 hit points as well as vulnerable 25 fire. Any creature that makes a melee attack against the wall takes 2d6 cold damage."
   },
   "Prismatic Spray": {
     "id": "'1200",
@@ -1167,7 +1167,7 @@
       "Arcane, Illusion"
     ],
     "range": "Personal",
-    "effect": "You make yourself, your clothing, and your equipment look different. You can take on the appearance of any creature of similar build and size, including a specific individual whom you’ve seen. You gain neither the abilities or mannerisms of the chosen form, nor the tactile or audible properties of your form or gear. For example, if you took on the illusion of a dwarf fighter in plate armor, anyone touching you would realize you weren’t wearing plate armor, and you would not clank, creak, or jingle as you walked. The illusion lasts for 1 hour, although you can end it as a minor action. You must keep the same appearance for the entire duration.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Anyone who attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 power bonus to your check."
+    "effect": "You make yourself, your clothing, and your equipment look different. You can take on the appearance of any creature of similar build and size, including a specific individual whom you’ve seen. You gain neither the abilities or mannerisms of the chosen form, nor the tactile or audible properties of your form or gear. For example, if you took on the illusion of a dwarf fighter in plate armor, anyone touching you would realize you weren’t wearing plate armor, and you would not clank, creak, or jingle as you walked. The illusion lasts for 1 hour, although you can end it as a minor action. You must keep the same appearance for the entire duration.<br/> Anyone who attempts to see through your ruse makes an Insight check opposed by your Bluff check, and you gain a +5 power bonus to your check."
   },
   "Expeditious Retreat": {
     "id": "'1212",
@@ -1428,7 +1428,7 @@
       "Arcane, Conjuration, Evocation, Fire, Implement"
     ],
     "range": "Ranged 10",
-    "effect": "You conjure a Medium flaming sphere in an unoccupied square within range. The sphere occupies its square, and it lasts until the end of your next turn. Any creature that starts its turn adjacent to the sphere takes 1d4 + Intelligence modifier fire damage. As a move action, you can move the sphere up to 6 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the sphere appears, it immediately makes the following attack. While the sphere persists, you can use a standard action to command it to make the attack.",
+    "effect": "You conjure a Medium flaming sphere in an unoccupied square within range. The sphere occupies its square, and it lasts until the end of your next turn. Any creature that starts its turn adjacent to the sphere takes 1d4 + Intelligence modifier fire damage. As a move action, you can move the sphere up to 6 squares.<br/> When the sphere appears, it immediately makes the following attack. While the sphere persists, you can use a standard action to command it to make the attack.",
     "target": "One creature adjacent to the flaming sphere",
     "attack": "Intelligence vs. Reflex",
     "onHit": "2d6 + Intelligence modifier fire damage.",
@@ -1538,7 +1538,7 @@
       "Arcane"
     ],
     "range": "Ranged 2",
-    "effect": "Use this cantrip to accomplish one of the effects given below:<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Change the color of items in 1 cubic foot.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Create a harmless sensory effect, such as a shower of sparks, a puff of wind, faint music, or a strong odor.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Clean or soil items in 1 cubic foot.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Instantly light (or snuff out) a candle, a torch, or a small campfire.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Chill, warm, or flavor up to 1 pound of nonliving material for up to 1 hour.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Make a small mark or symbol appear on a surface for up to 1 hour.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Produce out of nothingness a small item or image that exists until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;<img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Make a small, handheld item invisible until the end of your next turn.",
+    "effect": "Use this cantrip to accomplish one of the effects given below:<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Change the color of items in 1 cubic foot.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Create a harmless sensory effect, such as a shower of sparks, a puff of wind, faint music, or a strong odor.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Clean or soil items in 1 cubic foot.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Instantly light (or snuff out) a candle, a torch, or a small campfire.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Chill, warm, or flavor up to 1 pound of nonliving material for up to 1 hour.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Make a small mark or symbol appear on a surface for up to 1 hour.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Produce out of nothingness a small item or image that exists until the end of your next turn.<br/> <img src=\"images/bullet.gif\" alt=\"\"/>  Make a small, handheld item invisible until the end of your next turn.",
     "special": "You can have as many as three prestidigitation effects active at one time. Nothing you create with this cantrip can deal damage, serve as a weapon or a tool, or hinder another creature’s actions. This cantrip cannot duplicate the effect of any other power."
   },
   "Fire Shroud": {
@@ -1986,7 +1986,7 @@
       "Arcane, Conjuration, Force"
     ],
     "range": "Area wall 12 within 20 squares",
-    "effect": "You conjure a solid, transparent wall of magical energy that lasts until the end of the encounter. The wall can be up to 6 squares high. The wall is blocking terrain. No creature, including a phasing creature, can enter a square of the wall.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Attacks against the wall automatically hit. The wall has 200 hit points, and attacking any square deals damage to the entire wall. If it is reduced to 0 hit points, the wall shatters, dealing 3d10 force damage to each creature adjacent to it."
+    "effect": "You conjure a solid, transparent wall of magical energy that lasts until the end of the encounter. The wall can be up to 6 squares high. The wall is blocking terrain. No creature, including a phasing creature, can enter a square of the wall.<br/> Attacks against the wall automatically hit. The wall has 200 hit points, and attacking any square deals damage to the entire wall. If it is reduced to 0 hit points, the wall shatters, dealing 3d10 force damage to each creature adjacent to it."
   },
   "Mass Resistance": {
     "id": "'2838",
@@ -2767,7 +2767,7 @@
       "Arcane, Shadow, Summoning"
     ],
     "range": "Ranged 10",
-    "effect": "You summon a shadow serpent in an unoccupied square within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The serpent lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You don’t need line of effect to the serpent to command it. When you command the serpent, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the serpent makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The serpent lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon a shadow serpent in an unoccupied square within range. The creature is an ally to you and your allies.<br/> The serpent lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in its description. You don’t need line of effect to the serpent to command it. When you command the serpent, the two of you share knowledge but not senses.<br/> When the serpent makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/> The serpent lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Emerald Eye": {
     "id": "'4110",
@@ -3860,7 +3860,7 @@
     "range": "Area burst 1 within 10",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
-    "onHit": "1d6 psychic damage, and the target cannot take opportunity actions until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 psychic damage."
+    "onHit": "1d6 psychic damage, and the target cannot take opportunity actions until the end of your next turn.<br/> Level 21: 2d6 psychic damage."
   },
   "Charm of Misplaced Wrath": {
     "id": "'10138",
@@ -3928,7 +3928,7 @@
       "Arcane, Illusion"
     ],
     "range": "Ranged 10",
-    "effect": "The illusion of a creature or an object up to Medium size appears in an unoccupied square within range. It can make sounds and can move within its square, but it cannot leave it. Each of its defenses is 10. The illusion lasts until the end of the encounter, until an attack hits it, or until a creature touches it or moves through it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;An Insight check (DC 15 + one-half your level + your Intelligence modifier) allows a creature to determine that the image is an illusion."
+    "effect": "The illusion of a creature or an object up to Medium size appears in an unoccupied square within range. It can make sounds and can move within its square, but it cannot leave it. Each of its defenses is 10. The illusion lasts until the end of the encounter, until an attack hits it, or until a creature touches it or moves through it.<br/> An Insight check (DC 15 + one-half your level + your Intelligence modifier) allows a creature to determine that the image is an illusion."
   },
   "Arcane Bolt": {
     "id": "'10144",
@@ -5130,7 +5130,7 @@
     "range": "Ranged 10",
     "requirement": "You must use this power outside a combat encounter.",
     "target": "One creature",
-    "effect": "The target makes a saving throw. The saving throw has a +5 bonus if the target is the same level as you or a higher level. It takes a -5 penalty if the target is a lower level than you or does not have a level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the saving throw succeeds, this power has no effect. The target is aware that you used this power on it if it is the same level as you or a higher level. Otherwise, it does not know you used this power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;On a failed saving throw, the target treats you as a trusted friend for 1d4 hours. It truthfully answers all questions you ask and aids you in any way it can as long as doing so does not risk its life or property. While the target is under this effect, you gain a +5 power bonus to Bluff checks against it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This effect ends if you or any of your allies attacks the target or any of its allies. Afterward, the target doesn’t remember that you used this power on it."
+    "effect": "The target makes a saving throw. The saving throw has a +5 bonus if the target is the same level as you or a higher level. It takes a -5 penalty if the target is a lower level than you or does not have a level.<br/> If the saving throw succeeds, this power has no effect. The target is aware that you used this power on it if it is the same level as you or a higher level. Otherwise, it does not know you used this power.<br/> On a failed saving throw, the target treats you as a trusted friend for 1d4 hours. It truthfully answers all questions you ask and aids you in any way it can as long as doing so does not risk its life or property. While the target is under this effect, you gain a +5 power bonus to Bluff checks against it.<br/> This effect ends if you or any of your allies attacks the target or any of its allies. Afterward, the target doesn’t remember that you used this power on it."
   },
   "Blissful Ignorance": {
     "id": "'12743",
@@ -5355,7 +5355,7 @@
     ],
     "range": "Ranged 5",
     "target": "You or one ally",
-    "effect": "Choose an enemy you can see. The target gains one of the following benefits until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Movement: If the enemy has a climb speed, a fly speed, or a swim speed, the target gains that movement mode and speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Resist: If the enemy has resistance or immunity to a damage type, the target gains resist 10 to the same damage type.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Senses: If the enemy has low-light vision, darkvision, blindsight, or tremorsense, the ally gains that sense.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the enemy has more than one option in one of these categories, you learn all the choices and choose one when you use this power."
+    "effect": "Choose an enemy you can see. The target gains one of the following benefits until the end of the encounter.<br/> Movement: If the enemy has a climb speed, a fly speed, or a swim speed, the target gains that movement mode and speed.<br/> Resist: If the enemy has resistance or immunity to a damage type, the target gains resist 10 to the same damage type.<br/> Senses: If the enemy has low-light vision, darkvision, blindsight, or tremorsense, the ally gains that sense.<br/> If the enemy has more than one option in one of these categories, you learn all the choices and choose one when you use this power."
   },
   "Dancing Flames": {
     "id": "'12759",
@@ -5651,7 +5651,7 @@
     "range": "Ranged 10",
     "target": "One nonflying creature",
     "attack": "Intelligence vs. Reflex",
-    "onHit": "1d8 + Intelligence modifier damage. The squares adjacent to the target become a zone that lasts until the end of your next turn. The ground of the zone is difficult terrain for your enemies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier damage."
+    "onHit": "1d8 + Intelligence modifier damage. The squares adjacent to the target become a zone that lasts until the end of your next turn. The ground of the zone is difficult terrain for your enemies.<br/> Level 21: 2d8 + Intelligence modifier damage."
   },
   "Rotting Doom": {
     "id": "'13973",
@@ -5669,7 +5669,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
-    "onHit": "1d8 + Intelligence modifier necrotic damage. If the target is undead, it also gains vulnerable 5 to all damage until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier necrotic damage.",
+    "onHit": "1d8 + Intelligence modifier necrotic damage. If the target is undead, it also gains vulnerable 5 to all damage until the start of your next turn.<br/> Level 21: 2d8 + Intelligence modifier necrotic damage.",
     "effect": "The target cannot regain hit points until the start of your next turn."
   },
   "Scare": {
@@ -5688,7 +5688,7 @@
     "range": "Close blast 3",
     "target": "Each creature in the blast",
     "attack": "Intelligence vs. Will",
-    "onHit": "1d8 + Intelligence modifier psychic damage, and the target cannot make opportunity attacks against you until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier psychic damage."
+    "onHit": "1d8 + Intelligence modifier psychic damage, and the target cannot make opportunity attacks against you until the end of your next turn.<br/> Level 21: 2d8 + Intelligence modifier psychic damage."
   },
   "Unraveling Dart": {
     "id": "'13975",
@@ -5706,7 +5706,7 @@
     "range": "Ranged 10",
     "target": "One or two creatures",
     "attack": "Intelligence vs. Fortitude",
-    "onHit": "1d4 + Intelligence modifier damage. If the target has vulnerability to any damage types, the damage is of those types. If the target has no vulnerabilities, you gain a power bonus to the damage roll equal to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d4 + Intelligence modifier damage."
+    "onHit": "1d4 + Intelligence modifier damage. If the target has vulnerability to any damage types, the damage is of those types. If the target has no vulnerabilities, you gain a power bonus to the damage roll equal to your Wisdom modifier.<br/> Level 21: 2d4 + Intelligence modifier damage."
   },
   "Darkening Flame": {
     "id": "'13976",
@@ -5781,7 +5781,7 @@
     "range": "Area burst 1 within 10 squares",
     "target": "Each enemy in the burst",
     "attack": "Intelligence vs. Will",
-    "onHit": "3d6 + Intelligence modifier necrotic damage, and the target is immobilized (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the target is undead, it takes no damage and is not immobilized. Instead, the target must take a free action to move as far as its speed allows to a square farther away from you, and it is dazed (save ends).",
+    "onHit": "3d6 + Intelligence modifier necrotic damage, and the target is immobilized (save ends).<br/> If the target is undead, it takes no damage and is not immobilized. Instead, the target must take a free action to move as far as its speed allows to a square farther away from you, and it is dazed (save ends).",
     "onMiss": "Half damage."
   },
   "Lifetaker": {
@@ -5855,7 +5855,7 @@
     ],
     "range": "Ranged 5",
     "prerequisite": "You must have the Expert Mage benefit associated with necromancy or nethermancy.",
-    "effect": "You summon a creature associated with your necromancy or nethermancy Expert Mage benefit. The creature appears in an unoccupied space within range, and it is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, the two of you share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the creature makes an attack roll or a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you use a minor action to dismiss it or until you use this power again."
+    "effect": "You summon a creature associated with your necromancy or nethermancy Expert Mage benefit. The creature appears in an unoccupied space within range, and it is an ally to you and your allies.<br/> The creature lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, the two of you share knowledge but not senses.<br/> When the creature makes an attack roll or a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/> The creature lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you use a minor action to dismiss it or until you use this power again."
   },
   "Darklight": {
     "id": "'13985",
@@ -6151,7 +6151,7 @@
     ],
     "range": "Personal",
     "requirement": "You must have at least one healing surge.",
-    "effect": "You lose a healing surge and gain temporary hit points equal to your healing surge value. Until the end of the encounter, you are undead, and you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Darkvision<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Immunity to disease and poison<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Necrotic resistance equal to 10 + one-half your level"
+    "effect": "You lose a healing surge and gain temporary hit points equal to your healing surge value. Until the end of the encounter, you are undead, and you gain the following benefits.<br/> * Darkvision<br/> * Immunity to disease and poison<br/> * Necrotic resistance equal to 10 + one-half your level"
   },
   "Wraithform": {
     "id": "'14003",
@@ -6346,7 +6346,7 @@
     ],
     "range": "Personal",
     "requirement": "You must be wielding a melee weapon in one hand and no weapon or shield in the other hand. The power’s effect ends if you stop fulfilling this requirement.",
-    "effect": "Until the end of your next turn, you gain a +2 power bonus to attack rolls and all defenses, and a +5 power bonus to damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: +10 power bonus to damage rolls.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: +15 power bonus to damage rolls."
+    "effect": "Until the end of your next turn, you gain a +2 power bonus to attack rolls and all defenses, and a +5 power bonus to damage rolls.<br/> Level 17: +10 power bonus to damage rolls.<br/> Level 27: +15 power bonus to damage rolls."
   },
   "Dancing Fire": {
     "id": "'14286",
@@ -6364,7 +6364,7 @@
     "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
-    "effect": "Dexterity modifier fire damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier fire damage.",
+    "effect": "Dexterity modifier fire damage, and the target grants combat advantage until the end of your next turn.<br/> Level 11: 2 + Dexterity modifier fire damage.<br/> Level 21: 4 + Dexterity modifier fire damage.",
     "special": "You can use only one bladespell power per triggering attack."
   },
   "Dazzling Sunray": {
@@ -6383,7 +6383,7 @@
     "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
-    "effect": "Dexterity modifier radiant damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier radiant damage.",
+    "effect": "Dexterity modifier radiant damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.<br/> Level 11: 2 + Dexterity modifier radiant damage.<br/> Level 21: 4 + Dexterity modifier radiant damage.",
     "special": "You can use only one bladespell power per triggering attack."
   },
   "Frost Bite": {
@@ -6402,7 +6402,7 @@
     "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
-    "effect": "Dexterity modifier cold damage, and the target is slowed until the end of its next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier cold damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier cold damage.",
+    "effect": "Dexterity modifier cold damage, and the target is slowed until the end of its next turn.<br/> Level 11: 2 + Dexterity modifier cold damage.<br/> Level 21: 4 + Dexterity modifier cold damage.",
     "special": "You can use only one bladespell power per triggering attack."
   },
   "Lightning Ring": {
@@ -6421,7 +6421,7 @@
     "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
-    "effect": "Dexterity modifier lightning damage, and the first time the target moves before the end of your next turn, it takes the lightning damage again.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier lightning damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier lightning damage.",
+    "effect": "Dexterity modifier lightning damage, and the first time the target moves before the end of your next turn, it takes the lightning damage again.<br/> Level 11: 2 + Dexterity modifier lightning damage.<br/> Level 21: 4 + Dexterity modifier lightning damage.",
     "special": "You can use only one bladespell power per triggering attack."
   },
   "Shadow Sever": {
@@ -6440,7 +6440,7 @@
     "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
-    "effect": "Dexterity modifier necrotic damage, and the target falls prone if it is the same size as or smaller than the target of the triggering attack.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier necrotic damage.",
+    "effect": "Dexterity modifier necrotic damage, and the target falls prone if it is the same size as or smaller than the target of the triggering attack.<br/> Level 11: 2 + Dexterity modifier necrotic damage.<br/> Level 21: 4 + Dexterity modifier necrotic damage.",
     "special": "You can use only one bladespell power per triggering attack."
   },
   "Unseen Hand": {
@@ -6459,7 +6459,7 @@
     "range": "Ranged 10",
     "trigger": "During your turn, you hit an enemy with a melee basic attack using a one-handed weapon while your other hand holds no weapon or shield.",
     "target": "One creature",
-    "effect": "Dexterity modifier force damage, and you slide the target up to 3 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2 + Dexterity modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 4 + Dexterity modifier force damage.",
+    "effect": "Dexterity modifier force damage, and you slide the target up to 3 squares.<br/> Level 11: 2 + Dexterity modifier force damage.<br/> Level 21: 4 + Dexterity modifier force damage.",
     "special": "You can use only one bladespell power per triggering attack."
   },
   "Beast Switch": {
@@ -6478,7 +6478,7 @@
     "range": "Melee 1",
     "target": "One creature",
     "attack": "Intelligence vs. Fortitude",
-    "onHit": "1d8 + Intelligence modifier psychic damage. You knock the target prone and can slide it 1 square. The target cannot make opportunity attacks until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Intelligence modifier psychic damage."
+    "onHit": "1d8 + Intelligence modifier psychic damage. You knock the target prone and can slide it 1 square. The target cannot make opportunity attacks until the end of your next turn.<br/> Level 21: 2d8 + Intelligence modifier psychic damage."
   },
   "Breath of Night": {
     "id": "'14539",
@@ -6496,7 +6496,7 @@
     "range": "Close burst 1",
     "target": "Each creature in the burst",
     "attack": "Intelligence vs. Fortitude",
-    "onHit": "1d6 + Intelligence modifier cold damage, and you push the target up to a number of squares equal to your Wisdom modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Intelligence modifier cold damage."
+    "onHit": "1d6 + Intelligence modifier cold damage, and you push the target up to a number of squares equal to your Wisdom modifier.<br/> Level 21: 2d6 + Intelligence modifier cold damage."
   },
   "Witch Bolt": {
     "id": "'14541",
@@ -6514,7 +6514,7 @@
     "range": "Ranged 5",
     "target": "One creature",
     "attack": "Intelligence vs. Reflex",
-    "onHit": "1d10 + Intelligence modifier lightning damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Intelligence modifier lightning damage.",
+    "onHit": "1d10 + Intelligence modifier lightning damage.<br/> Level 21: 2d10 + Intelligence modifier lightning damage.",
     "sustainStandard": "Reroll the damage and deal it to the target again. Once the target is out of range, you can’t sustain this power."
   },
   "Dread Presence": {
@@ -7297,7 +7297,7 @@
     ],
     "range": "Close burst 1",
     "target": "You and each ally in the burst",
-    "effect": "The next ranged weapon attack that each target makes before the end of your next turn deals 1d6 extra fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 extra fire damage."
+    "effect": "The next ranged weapon attack that each target makes before the end of your next turn deals 1d6 extra fire damage.<br/> Level 21: 2d6 extra fire damage."
   },
   "Howling Wall": {
     "id": "'16275",
@@ -7405,7 +7405,7 @@
     ],
     "range": "Ranged 10",
     "target": "You or one ally",
-    "effect": "You activate an aura 1 on the target that lasts until the end of the encounter or until the target dismisses it as a minor action. When any enemy enters the aura or ends its turn there, that enemy takes fire damage equal to your Intelligence modifier. An enemy can take this damage only once per turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;In addition, until the aura ends, the target has partial concealment and resist 10 fire."
+    "effect": "You activate an aura 1 on the target that lasts until the end of the encounter or until the target dismisses it as a minor action. When any enemy enters the aura or ends its turn there, that enemy takes fire damage equal to your Intelligence modifier. An enemy can take this damage only once per turn.<br/> In addition, until the aura ends, the target has partial concealment and resist 10 fire."
   },
   "Ice Knife": {
     "id": "'16281",
@@ -7607,7 +7607,7 @@
       "Arcane, Summoning"
     ],
     "range": "Ranged 5",
-    "effect": "You summon an invisible stalker in an unoccupied space within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The invisible stalker lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, you and the creature share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the creature makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lasts until it drops to 0 hit points, at which point you lose a healing surge  (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon an invisible stalker in an unoccupied space within range. The creature is an ally to you and your allies.<br/> The invisible stalker lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, you and the creature share knowledge but not senses.<br/> When the creature makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/> The creature lasts until it drops to 0 hit points, at which point you lose a healing surge  (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Vitriolic Sphere": {
     "id": "'16295",
@@ -7643,7 +7643,7 @@
       "Arcane, Polymorph"
     ],
     "range": "Personal",
-    "effect": "You alter your physical form to take on the appearance of any humanoid of your size category. You retain your game statistics in your new form. Your clothing and other equipment are unchanged. To impersonate a specific individual, you must have seen that individual.Your new form lasts until you use this power again or until you end it as a minor action.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any creature can discern that your form is a disguise by making an Insight check opposed by your Bluff check. You gain a +5 power bonus to your check."
+    "effect": "You alter your physical form to take on the appearance of any humanoid of your size category. You retain your game statistics in your new form. Your clothing and other equipment are unchanged. To impersonate a specific individual, you must have seen that individual.Your new form lasts until you use this power again or until you end it as a minor action.<br/> Any creature can discern that your form is a disguise by making an Insight check opposed by your Bluff check. You gain a +5 power bonus to your check."
   },
   "Cloud Form": {
     "id": "'16297",
@@ -7717,7 +7717,7 @@
     "range": "Ranged 10",
     "requirement": "You must use this power during a short or an extended rest.",
     "target": "A lake or a stretch of river that has a diameter in miles of your Intelligence modifier or less.",
-    "effect": "Choose one of the following effects. The effect lasts until your next extended rest or until you dismiss it as a standard action.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You reduce or increase the water’s depth by a number of feet up to your Intelligence modifier.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; You create a dry path through the water. The path is up to 30 feet wide and extends from one shore to the other shore by the shortest distance, from your side of the water to the opposite side."
+    "effect": "Choose one of the following effects. The effect lasts until your next extended rest or until you dismiss it as a standard action.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  You reduce or increase the water’s depth by a number of feet up to your Intelligence modifier.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  You create a dry path through the water. The path is up to 30 feet wide and extends from one shore to the other shore by the shortest distance, from your side of the water to the opposite side."
   },
   "Living Iron": {
     "id": "'16301",
@@ -7734,7 +7734,7 @@
     ],
     "range": "Melee 1",
     "target": "You or one ally",
-    "effect": "The target assumes the form of living iron. The form lasts until the target is affected by another polymorph effect, until you take a minor action to dismiss it, or until the end of the encounter. While in this form, the target gains vulnerable 20 lightning and is slowed. In addition, the target gains the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Resist 10 to all damage.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; Immunity to blindness, deafness, disease, and poison.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; No need to breathe, and thus cannot suffocate.<br/><img src=\"images/bullet.gif\" alt=\"\"/>&nbsp;&nbsp;&nbsp;&nbsp; +6 power bonus to melee damage rolls."
+    "effect": "The target assumes the form of living iron. The form lasts until the target is affected by another polymorph effect, until you take a minor action to dismiss it, or until the end of the encounter. While in this form, the target gains vulnerable 20 lightning and is slowed. In addition, the target gains the following benefits.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  Resist 10 to all damage.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  Immunity to blindness, deafness, disease, and poison.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  No need to breathe, and thus cannot suffocate.<br/><img src=\"images/bullet.gif\" alt=\"\"/>  +6 power bonus to melee damage rolls."
   },
   "Reverse Gravity": {
     "id": "'16302",

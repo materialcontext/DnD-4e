@@ -87,7 +87,7 @@
       "Arcane, Healing"
     ],
     "range": "Personal",
-    "effect": "Choose one of the following effects:<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You regain hit points as if you spent two healing surges. You then cannot regain hit points by any other means until the end of the encounter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +10 power bonus to the next saving throw you make during this encounter.<br/>After that saving throw, you take a –2 penalty to saving throws until the end of the<br/>encounter."
+    "effect": "Choose one of the following effects:<br/> * You regain hit points as if you spent two healing surges. You then cannot regain hit points by any other means until the end of the encounter.<br/> * You gain a +10 power bonus to the next saving throw you make during this encounter.<br/>After that saving throw, you take a –2 penalty to saving throws until the end of the<br/>encounter."
   },
   "Infernal Transformation": {
     "id": "'13685",
@@ -192,7 +192,7 @@
       "Arcane, Aura, Polymorph, Shadow"
     ],
     "range": "Personal",
-    "effect": "Until the end of the encounter, you gain the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Aura 2: Bright light in the aura becomes dim light, and dim light becomes darkness.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Darkvision.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* A fly speed of 3.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Immunity to disease and fear.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Insubstantial.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You can use the secondary power once per round.",
+    "effect": "Until the end of the encounter, you gain the following benefits.<br/> * Aura 2: Bright light in the aura becomes dim light, and dim light becomes darkness.<br/> * Darkvision.<br/> * A fly speed of 3.<br/> * Immunity to disease and fear.<br/> * Insubstantial.<br/> * You can use the secondary power once per round.",
     "requirement": "The power Shadow Transformation must be active in order to use this power.",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",

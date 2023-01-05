@@ -4,11 +4,11 @@
     "price": "2600 gp",
     "keySkill": "Nature",
     "sourceRef": "Dark Sun Campaign Setting",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nLand Ward\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=343\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Land Ward",
+    "name": "Land Ward",
     "flavorText": "You channel spiritual energy into the area, protecting it against defilers.",
     "category": "Warding",
     "time": "1 hour",
     "duration": "24 hours",
-    "text": "You ward the land in a 30-square-by-30 square area, up to 30 squares high. Creatures that attempt to use a power associated with defiling (one that has defile, defiling, or defiler in the name) within the warded area must succeed on an Arcana check against a DC equal to the result of the Nature check you make when performing this ritual. A creature that fails this check spends the action necessary to use the power but does not expend the power.<br/>&nbsp;&nbsp;&nbsp;&nbsp;At the end of the ward’s duration, you can spend a healing surge to extend the ward for an additional 24 hours, even if you are not near the ward’s area. If the ritual’s effect is sustained in this way without interruption for a year and a day, the effect becomes permanent.",
+    "text": "You ward the land in a 30-square-by-30 square area, up to 30 squares high. Creatures that attempt to use a power associated with defiling (one that has defile, defiling, or defiler in the name) within the warded area must succeed on an Arcana check against a DC equal to the result of the Nature check you make when performing this ritual. A creature that fails this check spends the action necessary to use the power but does not expend the power.  At the end of the ward’s duration, you can spend a healing surge to extend the ward for an additional 24 hours, even if you are not near the ward’s area. If the ritual’s effect is sustained in this way without interruption for a year and a day, the effect becomes permanent.",
     "componentCost": "500 gp, plus 2 healing surges"
 }

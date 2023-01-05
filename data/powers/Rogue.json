@@ -304,7 +304,7 @@
     "requirement": "You must be wielding a light blade.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier damage. If the target attacks you before the start of your next turn and it is within reach, you can make a Strength vs. AC attack against it as an immediate interrupt. On a hit, the target takes 1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage and 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Dexterity modifier damage. If the target attacks you before the start of your next turn and it is within reach, you can make a Strength vs. AC attack against it as an immediate interrupt. On a hit, the target takes 1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Dexterity modifier damage and 2[W] + Strength modifier damage."
   },
   "Spring the Trap": {
     "id": "'671",
@@ -343,7 +343,7 @@
     "requirement": "You must be wielding a light blade.",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "1[W] + Dexterity modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage."
+    "onHit": "1[W] + Dexterity modifier damage.<br/> Level 21: 2[W] + Dexterity modifier damage."
   },
   "Sly Flourish": {
     "id": "'970",
@@ -362,7 +362,7 @@
     "requirement": "You must be wielding a crossbow, a light blade, or a sling.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier + Charisma modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier + Charisma modifier damage."
+    "onHit": "1[W] + Dexterity modifier + Charisma modifier damage.<br/> Level 21: 2[W] + Dexterity modifier + Charisma modifier damage."
   },
   "Deft Strike": {
     "id": "'971",
@@ -382,7 +382,7 @@
     "effect": "Before the attack, you can move up to 2 squares.",
     "target": "One creature",
     "attack": "Dexterity vs. AC",
-    "onHit": "1[W] + Dexterity modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Dexterity modifier damage."
+    "onHit": "1[W] + Dexterity modifier damage.<br/> Level 21: 2[W] + Dexterity modifier damage."
   },
   "Sand in the Eyes": {
     "id": "'977",

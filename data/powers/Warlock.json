@@ -420,7 +420,7 @@
       "Arcane, Conjuration, Fire, Implement"
     ],
     "range": "Personal",
-    "effect": "You conjure flames in the shape of diabolic imps that appear at your feet. You gain 25 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Any enemy that enters a square adjacent to you takes 2d10 fire damage and is pushed 3 squares. This effect applies once per enemy per round. It ends when you end your turn with no temporary hit points."
+    "effect": "You conjure flames in the shape of diabolic imps that appear at your feet. You gain 25 temporary hit points.<br/> Any enemy that enters a square adjacent to you takes 2d10 fire damage and is pushed 3 squares. This effect applies once per enemy per round. It ends when you end your turn with no temporary hit points."
   },
   "Tendrils of Thuban": {
     "id": "'1317",
@@ -571,7 +571,7 @@
     "target": "One creature",
     "attack": "Charisma or Constitution vs. Reflex",
     "onHit": "1d10 + Charisma modifier or Constitution modifier damage.<br/>Increase damage to 2d10 + Charisma modifier or Constitution modifier at 21st level.",
-    "special": "At 1st level, you determine whether you use Charisma or Constitution to attack with this power. Once you make that choice, you can’t change it later.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This power counts as a ranged basic attack. When a power allows you to make a ranged basic attack, you can use this power."
+    "special": "At 1st level, you determine whether you use Charisma or Constitution to attack with this power. Once you make that choice, you can’t change it later.<br/> This power counts as a ranged basic attack. When a power allows you to make a ranged basic attack, you can use this power."
   },
   "Dreadful Word": {
     "id": "'1334",
@@ -905,7 +905,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
-    "onHit": "1d6 + Charisma modifier psychic damage, and you are invisible to the target until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Charisma modifier damage."
+    "onHit": "1d6 + Charisma modifier psychic damage, and you are invisible to the target until the start of your next turn.<br/> Level 21: 2d6 + Charisma modifier damage."
   },
   "Dire Radiance": {
     "id": "'1457",
@@ -923,7 +923,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma or Constitution vs. Fortitude",
-    "onHit": "1d6 + Charisma modifier or Constitution modifier radiant damage. The first time the target moves closer to you on its next turn, it takes an extra 1d6 + Charisma modifier or Constitution modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Charisma modifier or Constitution modifier damage."
+    "onHit": "1d6 + Charisma modifier or Constitution modifier radiant damage. The first time the target moves closer to you on its next turn, it takes an extra 1d6 + Charisma modifier or Constitution modifier damage.<br/> Level 21: 2d6 + Charisma modifier or Constitution modifier damage."
   },
   "Hellish Rebuke": {
     "id": "'1458",
@@ -941,7 +941,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Constitution vs. Reflex",
-    "onHit": "1d6 + Constitution modifier fire damage. The first time you take damage before the end of your next turn, the target takes 1d6 + Constitution modifier fire damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Constitution modifier damage and extra damage."
+    "onHit": "1d6 + Constitution modifier fire damage. The first time you take damage before the end of your next turn, the target takes 1d6 + Constitution modifier fire damage.<br/> Level 21: 2d6 + Constitution modifier damage and extra damage."
   },
   "Witchfire": {
     "id": "'1459",
@@ -1735,7 +1735,7 @@
     "sourceRef": "Player's Handbook",
     "flavor": "You instantly transform into silver mist that streams a short distance and reforms, allowing you to flee or maneuver to set up a deadly attack.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Prerequisite: Fey Pact</p><p class=\"powerstat\">Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer</p><p class=\"flavor\">Effect: You can immediately teleport 3 squares as a free action.</p>"
+      " Personal   Prerequisite: Fey Pact  Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer  Effect: You can immediately teleport 3 squares as a free action. "
     ],
     "range": "Personal",
     "prerequisite": "Fey Pact",
@@ -1753,7 +1753,7 @@
     "sourceRef": "Player's Handbook",
     "flavor": "You instantly gain vitality from a cursed enemy when that enemy falls.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Prerequisite: Infernal Pact</p><p class=\"powerstat\">Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer</p><p class=\"flavor\">Effect: You immediately gain temporary hit points equal to your level.</p>"
+      " Personal   Prerequisite: Infernal Pact  Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer  Effect: You immediately gain temporary hit points equal to your level. "
     ],
     "range": "Personal",
     "prerequisite": "Infernal Pact",
@@ -1771,12 +1771,12 @@
     "sourceRef": "Player's Handbook",
     "flavor": "Your curse intermingles with the lost vitality of a cursed enemy to reveal a glimpse of the future to you.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Prerequisite: Star Pact</p><p class=\"powerstat\">Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer</p><p class=\"flavor\">Effect: You gain a +1 bonus to any single d20 roll you make during your next turn (attack roll, saving throw, skill check, or ability check). If you don’t use this bonus by the end of your turn, it is lost."
+      " Personal   Prerequisite: Star Pact  Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer  Effect: You gain a +1 bonus to any single d20 roll you make during your next turn (attack roll, saving throw, skill check, or ability check). If you don’t use this bonus by the end of your turn, it is lost."
     ],
     "range": "Personal",
     "prerequisite": "Star Pact",
     "trigger": "An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer",
-    "effect": "You gain a +1 bonus to any single d20 roll you make during your next turn (attack roll, saving throw, skill check, or ability check). If you don’t use this bonus by the end of your turn, it is lost.<br/>&nbsp;&nbsp;&nbsp;&nbsp;This bonus is cumulative; if three cursed enemies drop to 0 hit points or fewer before your next turn, you gain a +3 bonus to a d20 roll during your turn."
+    "effect": "You gain a +1 bonus to any single d20 roll you make during your next turn (attack roll, saving throw, skill check, or ability check). If you don’t use this bonus by the end of your turn, it is lost.<br/> This bonus is cumulative; if three cursed enemies drop to 0 hit points or fewer before your next turn, you gain a +3 bonus to a d20 roll during your turn."
   },
   "Fey Switch": {
     "id": "'2264",
@@ -5444,7 +5444,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
-    "onHit": "1d10 + Charisma modifier force damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Charisma modifier force damage.",
+    "onHit": "1d10 + Charisma modifier force damage.<br/> Level 21: 2d10 + Charisma modifier force damage.",
     "special": "You can use this power as a ranged basic attack."
   },
   "Armor of Winter's Grasp": {
@@ -5551,7 +5551,7 @@
       "Arcane, Conjuration"
     ],
     "range": "Melee 1",
-    "effect": "You conjure the Tiny spirit of a planar being in a square adjacent to you. The spirit is an invisible conjuration that lasts until it is dismissed as a free action or until it completes its task, which can take no longer than 1 hour. You command the spirit to attempt one of the following tasks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Locate an Object or a Person: The spirit can locate a specific object or creature within 5 miles of you that you have seen or touched. When it completes the task, the spirit returns to you and describes the direction, distance, and location of the object or creature.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* Explore an Area: The spirit can provide a rough description of an area up to 20 squares on a side, including obvious physical features. The spirit cannot open doors or breach physical or magical barriers, so it cannot explore any area that a Tiny creature couldn’t reach. It cannot notice anything that requires a Perception check to detect. When it completes the task, the spirit returns to you and telepathically provides a mental image of the area."
+    "effect": "You conjure the Tiny spirit of a planar being in a square adjacent to you. The spirit is an invisible conjuration that lasts until it is dismissed as a free action or until it completes its task, which can take no longer than 1 hour. You command the spirit to attempt one of the following tasks.<br/> * Locate an Object or a Person: The spirit can locate a specific object or creature within 5 miles of you that you have seen or touched. When it completes the task, the spirit returns to you and describes the direction, distance, and location of the object or creature.<br/> * Explore an Area: The spirit can provide a rough description of an area up to 20 squares on a side, including obvious physical features. The spirit cannot open doors or breach physical or magical barriers, so it cannot explore any area that a Tiny creature couldn’t reach. It cannot notice anything that requires a Perception check to detect. When it completes the task, the spirit returns to you and telepathically provides a mental image of the area."
   },
   "Emerald Shield": {
     "id": "'13642",
@@ -5657,7 +5657,7 @@
       "Arcane, Summoning"
     ],
     "range": "Ranged 5",
-    "effect": "You summon a creature associated with your pact in an unoccupied space within range. The creature is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, you and the creature share knowledge but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the creature makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The creature lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon a creature associated with your pact in an unoccupied space within range. The creature is an ally to you and your allies.<br/> The creature lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the creature’s description. You must have line of effect to the creature to command it. When you command the creature, you and the creature share knowledge but not senses.<br/> When the creature makes a check, you make the roll using your game statistics, not including any temporary bonuses or penalties.<br/> The creature lasts until it drops to 0 hit points, at which point you lose a healing surge (or hit points equal to your surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Duelist's Dance": {
     "id": "'13650",
@@ -5975,7 +5975,7 @@
     "requirement": "You must use this power with your blade of winter’s mourning.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
-    "onHit": "1[W] + Charisma modifier cold damage. You gain a +2 power bonus to all defenses against the target’s attacks until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Charisma modifier cold damage.",
+    "onHit": "1[W] + Charisma modifier cold damage. You gain a +2 power bonus to all defenses against the target’s attacks until the end of your next turn.<br/> Level 21: 2[W] + Charisma modifier cold damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Piercing Shard": {
@@ -5995,7 +5995,7 @@
     "requirement": "You must use this power with your blade of winter’s mourning.",
     "target": "One creature",
     "attack": "Charisma vs. Will",
-    "onHit": "2[W] + Charisma modifier cold and psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 3[W] + Charisma modifier cold and psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 4[W] + Charisma modifier cold and psychic damage.",
+    "onHit": "2[W] + Charisma modifier cold and psychic damage.<br/> Level 13: 3[W] + Charisma modifier cold and psychic damage.<br/> Level 23: 4[W] + Charisma modifier cold and psychic damage.",
     "effect": "You are invisible to the target until the start of your next turn."
   },
   "Winter's Retributive Escape": {
@@ -6015,7 +6015,7 @@
     "requirement": "You must be holding your blade of winter’s mourning.",
     "trigger": "An enemy attacks you.",
     "target": "The triggering enemy",
-    "effect": "The target takes 5 + your Charisma modifier cold and psychic damage, and you teleport a number of squares up to your Dexterity modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 10 + your Charisma modifier cold and psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 15 + your Charisma modifier cold and psychic damage."
+    "effect": "The target takes 5 + your Charisma modifier cold and psychic damage, and you teleport a number of squares up to your Dexterity modifier.<br/> Level 17: 10 + your Charisma modifier cold and psychic damage.<br/> Level 27: 15 + your Charisma modifier cold and psychic damage."
   },
   "Soul Feast": {
     "id": "'13679",
@@ -6032,7 +6032,7 @@
     ],
     "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points, or an enemy adjacent to you drops to 0 hit points.",
-    "effect": "You gain temporary hit points equal to your Constitution modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Temporary hit points equal to 2 + your Constitution modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Temporary hit points equal to 5 + your Constitution modifier.",
+    "effect": "You gain temporary hit points equal to your Constitution modifier.<br/> Level 11: Temporary hit points equal to 2 + your Constitution modifier.<br/> Level 21: Temporary hit points equal to 5 + your Constitution modifier.",
     "special": "You can use this power only once per round."
   },
   "Soul Eater": {
@@ -6052,7 +6052,7 @@
     "requirement": "You must use this power with your blade of annihilation.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
-    "onHit": "1[W] + Charisma modifier necrotic damage, and you gain a +2 power bonus to your next attack roll against the target before the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Charisma modifier necrotic damage.",
+    "onHit": "1[W] + Charisma modifier necrotic damage, and you gain a +2 power bonus to your next attack roll against the target before the end of your next turn.<br/> Level 21: 2[W] + Charisma modifier necrotic damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Blazing Doom of the Void": {
@@ -6072,7 +6072,7 @@
     "requirement": "You must use this power with your blade of annihilation.",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
-    "onHit": "2[W] + Charisma modifier fire and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 3[W] + Charisma modifier fire and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 4[W] + Charisma modifier fire and necrotic damage.",
+    "onHit": "2[W] + Charisma modifier fire and necrotic damage.<br/> Level 13: 3[W] + Charisma modifier fire and necrotic damage.<br/> Level 23: 4[W] + Charisma modifier fire and necrotic damage.",
     "effect": "You gain a +5 power bonus to your next damage roll against the target before the end of your next turn."
   },
   "Reflexive Hellstrike": {
@@ -6092,7 +6092,7 @@
     "requirement": "You must be holding your blade of annihilation.",
     "trigger": "An adjacent enemy attacks you.",
     "target": "The triggering enemy",
-    "effect": "The target takes 5 + your Charisma modifier fire and necrotic damage, and you push it a number of squares up to your Constitution modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 10 + your Charisma modifier fire and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 15 + your Charisma modifier fire and necrotic damage."
+    "effect": "The target takes 5 + your Charisma modifier fire and necrotic damage, and you push it a number of squares up to your Constitution modifier.<br/> Level 17: 10 + your Charisma modifier fire and necrotic damage.<br/> Level 27: 15 + your Charisma modifier fire and necrotic damage."
   },
   "Dire Fate": {
     "id": "'13721",
@@ -6129,7 +6129,7 @@
     "requirement": "You must use this power with your starshadow blade.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
-    "onHit": "1[W] + Charisma modifier radiant damage, and one enemy adjacent to the target takes radiant damage equal to your Intelligence modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Charisma modifier radiant damage.",
+    "onHit": "1[W] + Charisma modifier radiant damage, and one enemy adjacent to the target takes radiant damage equal to your Intelligence modifier.<br/> Level 21: 2[W] + Charisma modifier radiant damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Wield the Warp": {
@@ -6149,7 +6149,7 @@
     "requirement": "You must use this power with your starshadow blade.",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
-    "onHit": "2[W] + Charisma modifier psychic and radiant damage, and you teleport the target to a square adjacent to you.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 3[W] + Charisma modifier psychic and radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 4[W] + Charisma modifier psychic and radiant damage."
+    "onHit": "2[W] + Charisma modifier psychic and radiant damage, and you teleport the target to a square adjacent to you.<br/> Level 13: 3[W] + Charisma modifier psychic and radiant damage.<br/> Level 23: 4[W] + Charisma modifier psychic and radiant damage."
   },
   "Gaze into Nothing": {
     "id": "'13724",
@@ -6187,7 +6187,7 @@
     "requirement": "You must use this power with your sword of the White Well.",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
-    "onHit": "1[W] + Charisma modifier radiant damage. If the target ends its next turn adjacent to you, it takes radiant damage equal to your Dexterity modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Charisma modifier radiant damage.",
+    "onHit": "1[W] + Charisma modifier radiant damage. If the target ends its next turn adjacent to you, it takes radiant damage equal to your Dexterity modifier.<br/> Level 21: 2[W] + Charisma modifier radiant damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Well of Light": {
@@ -6207,7 +6207,7 @@
     "requirement": "You must use this power with your sword of the White Well.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
-    "onHit": "2[W] + Charisma modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 3[W] + Charisma modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 4[W] + Charisma modifier radiant damage.",
+    "onHit": "2[W] + Charisma modifier radiant damage.<br/> Level 13: 3[W] + Charisma modifier radiant damage.<br/> Level 23: 4[W] + Charisma modifier radiant damage.",
     "effect": "You activate an aura 1 that lasts until the end of your next turn. While in the aura, your enemies have vulnerable 3 radiant to your attacks."
   },
   "Moonlit Escape": {
@@ -6245,7 +6245,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Fortitude",
-    "onHit": "1d10 + Charisma modifier cold damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Charisma modifier cold damage.",
+    "onHit": "1d10 + Charisma modifier cold damage.<br/> Level 21: 2d10 + Charisma modifier cold damage.",
     "effect": "If the target moves during its next turn, it takes cold damage equal to 2 + your Dexterity modifier or Intelligence modifier."
   },
   "Hateful Shade": {
@@ -6578,7 +6578,7 @@
     "range": "Close blast 5",
     "target": "One or two creatures in the blast",
     "attack": "Charisma vs. Will",
-    "onHit": "1d8 + Charisma modifier psychic damage, and you push the target up to 2 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Charisma modifier psychic damage."
+    "onHit": "1d8 + Charisma modifier psychic damage, and you push the target up to 2 squares.<br/> Level 21: 2d10 + Charisma modifier psychic damage."
   },
   "Shadow Warp": {
     "id": "'13903",
@@ -6767,7 +6767,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Will",
-    "onHit": "1d10 + Charisma modifier psychic damage. Until the end of your next turn, the target cannot see any of your allies who are 3 or more squares away from it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Charisma modifier psychic damage."
+    "onHit": "1d10 + Charisma modifier psychic damage. Until the end of your next turn, the target cannot see any of your allies who are 3 or more squares away from it.<br/> Level 21: 2d10 + Charisma modifier psychic damage."
   },
   "Shadow Tentacles": {
     "id": "'13914",
@@ -7109,7 +7109,7 @@
     "requirement": "You must use this power with your scourge of exquisite agony.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
-    "onHit": "1[W] + Charisma modifier necrotic damage, and you can slide the target 1 square. The target takes a -2 penalty to attack rolls until the start of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Charisma modifier necrotic damage.",
+    "onHit": "1[W] + Charisma modifier necrotic damage, and you can slide the target 1 square. The target takes a -2 penalty to attack rolls until the start of your next turn.<br/> Level 21: 2[W] + Charisma modifier necrotic damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Spirit Flay": {
@@ -7129,7 +7129,7 @@
     "requirement": "You must use this power with your scourge of exquisite agony.",
     "target": "One or two creatures",
     "attack": "Charisma vs. Reflex",
-    "onHit": "1[W] + Charisma modifier necrotic and psychic damage, and the target is dazed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 2[W] + Charisma modifier necrotic and psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 3[W] + Charisma modifier necrotic and psychic damage.",
+    "onHit": "1[W] + Charisma modifier necrotic and psychic damage, and the target is dazed until the end of your next turn.<br/> Level 13: 2[W] + Charisma modifier necrotic and psychic damage.<br/> Level 23: 3[W] + Charisma modifier necrotic and psychic damage.",
     "effect": "You gain partial concealment until the end of your next turn."
   },
   "Shadow Scourge": {
@@ -7149,7 +7149,7 @@
     "requirement": "You must be holding your scourge of exquisite agony.",
     "trigger": "An adjacent enemy attacks you.",
     "target": "The triggering enemy",
-    "effect": "The target takes 5 + your Charisma modifier necrotic and psychic damage, and grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 10 + your Charisma modifier necrotic and psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 15 + your Charisma modifier necrotic and psychic damage."
+    "effect": "The target takes 5 + your Charisma modifier necrotic and psychic damage, and grants combat advantage until the end of your next turn.<br/> Level 13: 10 + your Charisma modifier necrotic and psychic damage.<br/> Level 23: 15 + your Charisma modifier necrotic and psychic damage."
   },
   "Pandorym’s Cry": {
     "id": "'15902",
@@ -7336,7 +7336,7 @@
     "sourceRef": "Heroes of the Elemental Chaos",
     "flavor": "",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Prerequisite: Elemental Pact</p><p class=\"powerstat\">Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer</p><p class=\"flavor\">Effect: The next enemy you place your Warlock’s Curse on gains vulnerable 5 to the damage type matching your current elemental affinity. This vulnerability is cumulative with the enemy’s existing vulnerability to the same damage type, if any, and lasts until the curse ends. The vulnerability increases to 10 at 11th level and 15 at 21st level.</p>"
+      " Personal   Prerequisite: Elemental Pact  Trigger: An enemy under your Warlock’s Curse is reduced to 0 hit points or fewer  Effect: The next enemy you place your Warlock’s Curse on gains vulnerable 5 to the damage type matching your current elemental affinity. This vulnerability is cumulative with the enemy’s existing vulnerability to the same damage type, if any, and lasts until the curse ends. The vulnerability increases to 10 at 11th level and 15 at 21st level. "
     ],
     "range": "Personal",
     "prerequisite": "Elemental Pact",
@@ -7359,7 +7359,7 @@
     "range": "Ranged 10",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
-    "onHit": "1d8 + Charisma modifier psychic damage, and one creature within 5 squares of the target takes psychic damage equal to your Constitution modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Charisma modifier psychic damage, and psychic damage equal to 3 + your Constitution modifier."
+    "onHit": "1d8 + Charisma modifier psychic damage, and one creature within 5 squares of the target takes psychic damage equal to your Constitution modifier.<br/> Level 21: 2d8 + Charisma modifier psychic damage, and psychic damage equal to 3 + your Constitution modifier."
   },
   "Warding Chaos": {
     "id": "'16257",
@@ -7396,7 +7396,7 @@
     "requirement": "You must use this power with your blade of chaos.",
     "target": "One creature",
     "attack": "Charisma vs. AC",
-    "onHit": "1[W] + Charisma modifier damage. Choose acid, cold, fire, lightning or thunder. The target gains vulnerable 3 to that damage type until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Charisma modifier damage.",
+    "onHit": "1[W] + Charisma modifier damage. Choose acid, cold, fire, lightning or thunder. The target gains vulnerable 3 to that damage type until the end of your next turn.<br/> Level 21: 2[W] + Charisma modifier damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Elemental Wrath": {
@@ -7417,7 +7417,7 @@
     "special": "Each time you use this power, choose acid, cold, fire, lightning, or thunder. The power’s damage is that type.",
     "target": "One creature",
     "attack": "Charisma vs. Reflex",
-    "onHit": "2[W] + Charisma modifier damage, and the target loses any resistance or immunity to this power’s damage type until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 13: 3[W] + Charisma modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 23: 4[W] + Charisma modifier damage.",
+    "onHit": "2[W] + Charisma modifier damage, and the target loses any resistance or immunity to this power’s damage type until the end of your next turn.<br/> Level 13: 3[W] + Charisma modifier damage.<br/> Level 23: 4[W] + Charisma modifier damage.",
     "effect": "You activate an aura 1 that lasts until the end of your next turn. Any creature that enters the aura or starts its turn there takes damage equal to your Constitution modifier. A creature can take this damage only once per turn."
   },
   "Elemental Roar": {
@@ -7437,7 +7437,7 @@
     "requirement": "You must be holding your blade of chaos.",
     "trigger": "An adjacent enemy attacks you.",
     "target": "The triggering enemy",
-    "effect": "5 + your Charisma modifier psychic damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 10 + your Charisma modifier psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 15 + your Charisma modifier psychic damage."
+    "effect": "5 + your Charisma modifier psychic damage, and the target grants combat advantage until the end of your next turn.<br/> Level 17: 10 + your Charisma modifier psychic damage.<br/> Level 27: 15 + your Charisma modifier psychic damage."
   },
   "Yan-C-Bin’s Breath": {
     "id": "'16261",

@@ -15,7 +15,7 @@
     "range": "Melee weapon",
     "target": "One or two creatures",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
-    "onHit": "1[W] + Strength modifier damage per attack, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the target is a demon, it takes 2[W] + Strength modifier damage per attack, and it is immobilized until the end of your next turn."
+    "onHit": "1[W] + Strength modifier damage per attack, and the target is slowed until the end of your next turn.<br/> If the target is a demon, it takes 2[W] + Strength modifier damage per attack, and it is immobilized until the end of your next turn."
   },
   "Demonward": {
     "id": "'1860",
@@ -50,6 +50,6 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC (main weapon and off-hand weapon), two attacks",
-    "onHit": "3[W] + Strength modifier damage per attack, and the first attack that hits also deals ongoing 10 damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;If the target is a demon, in addition this damage ignores all resistances, and until the end of this encounter, when the demon takes ongoing damage, its allies within 2 squares take the same amount of damage."
+    "onHit": "3[W] + Strength modifier damage per attack, and the first attack that hits also deals ongoing 10 damage (save ends).<br/> If the target is a demon, in addition this damage ignores all resistances, and until the end of this encounter, when the demon takes ongoing damage, its allies within 2 squares take the same amount of damage."
   }
 }

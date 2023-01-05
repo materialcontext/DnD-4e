@@ -28,7 +28,7 @@
     "sourceRef": "Player's Handbook 3",
     "flavor": "When an enemy of yours falls, you spring forward to engage the next foe.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You reduce an enemy to 0 hit points</p><p class=\"flavor\">Effect: You shift your speed to a square adjacent to an enemy.</p>"
+      " Personal   Trigger: You reduce an enemy to 0 hit points  Effect: You shift your speed to a square adjacent to an enemy. "
     ],
     "range": "Personal",
     "trigger": "You reduce an enemy to 0 hit points",
@@ -45,7 +45,7 @@
     "sourceRef": "Player's Handbook 3",
     "flavor": "You swing your horns in a brutal arc, knocking your enemy back and down.",
     "keywords": [
-      "&nbsp;&nbsp;Melee 1</p><p class=\"flavor\">Effect: You charge and use the following attack in place of a melee basic attack.</p><p class=\"powerstat\">&nbsp;&nbsp;Target: One creature</p><p class=\"powerstat\">&nbsp;&nbsp;Attack: Strength + 8 vs. AC</p><p class=\"flavor\">&nbsp;&nbsp;Hit: 5d6 + Strength modifier damage, and you slide the target 4 squares and knock it prone.</p><p class=\"powerstat\">&nbsp;&nbsp;Miss: Half damage, and you slide the target 2 squares.</p>"
+      " Melee 1  Effect: You charge and use the following attack in place of a melee basic attack.   Target: One creature   Attack: Strength + 8 vs. AC   Hit: 5d6 + Strength modifier damage, and you slide the target 4 squares and knock it prone.   Miss: Half damage, and you slide the target 2 squares. "
     ],
     "range": "Melee 1",
     "effect": "You charge and use the following attack in place of a melee basic attack.",

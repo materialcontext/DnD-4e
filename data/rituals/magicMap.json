@@ -4,12 +4,12 @@
     "price": "800 gp",
     "keySkill": "Arcana",
     "sourceRef": "Arcane Power",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nMagic Map\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=224\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Magic Map",
+    "name": "Magic Map",
     "flavorText": "You swing a crystal focus in circles above a map until it stops, hovering over a particular spot that indicates where your quarry is located. As you watch, the crystal focus moves across the map, tracing the route taken by your quarry.",
     "category": "Divination",
     "time": "10 minutes",
     "duration": "Special",
-    "text": "When you perform this ritual, choose a specific creature. You must have an object that is tied to the creature, such as a bit of hair, a favorite scarf, or a personal weapon. You hold the object in one hand and suspend the focus from the other hand, holding it above a map representing a region no larger than 50 by 50 miles. If the creature is in the area, the focus is drawn to the creature’s exact location as depicted on the map. As you watch, the focus follows the creature’s movement.<br/>Your Arcana check determines the duration of the time during which you can pinpoint the creature’s location. This ritual is only as accurate as the map that is used.",
+    "text": "When you perform this ritual, choose a specific creature. You must have an object that is tied to the creature, such as a bit of hair, a favorite scarf, or a personal weapon. You hold the object in one hand and suspend the focus from the other hand, holding it above a map representing a region no larger than 50 by 50 miles. If the creature is in the area, the focus is drawn to the creature’s exact location as depicted on the map. As you watch, the focus follows the creature’s movement. Your Arcana check determines the duration of the time during which you can pinpoint the creature’s location. This ritual is only as accurate as the map that is used.",
     "componentCost": "325 gp, plus a focus worth 100 gp",
     "table": {
         "headers": [

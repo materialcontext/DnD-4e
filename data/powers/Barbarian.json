@@ -4135,8 +4135,8 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and you push the target 1 square. You then shift 1 square into the space the target just left.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
-    "berserkerFury": "This attack gains the primal keyword and deals 1d6 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 damage."
+    "onHit": "1[W] + Strength modifier damage, and you push the target 1 square. You then shift 1 square into the space the target just left.<br/> Level 21: 2[W] + Strength modifier damage.",
+    "berserkerFury": "This attack gains the primal keyword and deals 1d6 extra damage.<br/> Level 11: 2d6 damage.<br/> Level 21: 3d6 damage."
   },
   "Jarring Smash": {
     "id": "'14409",
@@ -4154,8 +4154,8 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
-    "berserkerFury": "This attack gains the primal keyword and deals 1d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 damage."
+    "onHit": "1[W] + Strength modifier damage, and the target grants combat advantage until the end of your next turn.<br/> Level 21: 2[W] + Strength modifier damage.",
+    "berserkerFury": "This attack gains the primal keyword and deals 1d8 extra damage.<br/> Level 11: 2d8 damage.<br/> Level 21: 3d8 damage."
   },
   "Run Down": {
     "id": "'14410",
@@ -4173,8 +4173,8 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and the target is slowed until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
-    "berserkerFury": "This attack gains the primal keyword and deals 1d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 damage."
+    "onHit": "1[W] + Strength modifier damage, and the target is slowed until the end of your next turn.<br/> Level 21: 2[W] + Strength modifier damage.",
+    "berserkerFury": "This attack gains the primal keyword and deals 1d8 extra damage.<br/> Level 11: 2d8 damage.<br/> Level 21: 3d8 damage."
   },
   "Stalk and Strike": {
     "id": "'14411",
@@ -4193,8 +4193,8 @@
     "effect": "You shift up to 2 squares before the attack.",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
-    "berserkerFury": "This attack gains the primal keyword and deals 1d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 damage."
+    "onHit": "1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Strength modifier damage.",
+    "berserkerFury": "This attack gains the primal keyword and deals 1d8 extra damage.<br/> Level 11: 2d8 damage.<br/> Level 21: 3d8 damage."
   },
   "Batter Down": {
     "id": "'14412",
@@ -4852,7 +4852,7 @@
     ],
     "range": "Personal",
     "trigger": "An enemy subject to your defender aura either shifts or makes an attack that targets an ally of yours, without targeting you or an ally who has an active defender aura.",
-    "effect": "You make a melee basic attack against the triggering enemy and deal 1d8 extra damage to it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 extra damage. On a miss, the attack deals half damage to the triggering enemy."
+    "effect": "You make a melee basic attack against the triggering enemy and deal 1d8 extra damage to it.<br/> Level 11: 2d8 extra damage.<br/> Level 21: 3d8 extra damage. On a miss, the attack deals half damage to the triggering enemy."
   },
   "Crushing Charge": {
     "id": "'16514",

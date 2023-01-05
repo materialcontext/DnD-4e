@@ -13,7 +13,7 @@
       "Illusion"
     ],
     "range": "Personal",
-    "effect": "You gain partial concealment until the end of your next turn, and you gain 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points."
+    "effect": "You gain partial concealment until the end of your next turn, and you gain 5 temporary hit points.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points."
   },
   "Ring of Rubble": {
     "id": "'16470",
@@ -26,7 +26,7 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "You stamp your foot, and the earth around you ripples and furrows.",
     "keywords": [
-      "&nbsp;&nbsp;Close burst 2</p><p class=\"flavor\">Effect: The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter.</p>"
+      " Close burst 2  Effect: The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter. "
     ],
     "range": "Close burst 2",
     "effect": "The outermost squares in the burst become a zone of difficult terrain for creatures that lack earth walk. The zone lasts until the end of the encounter."
@@ -42,7 +42,7 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "You call on your experience with the people of your deep home to be outgoing in the presence of other people.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You would make a Diplomacy check or a Streetwise check.</p><p class=\"flavor\">Effect: You make a Dungeoneering check in place of the Diplomacy check or Streetwise check.</p>"
+      " Personal   Trigger: You would make a Diplomacy check or a Streetwise check.  Effect: You make a Dungeoneering check in place of the Diplomacy check or Streetwise check. "
     ],
     "range": "Personal",
     "trigger": "You would make a Diplomacy check or a Streetwise check.",
@@ -59,7 +59,7 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "You extend your mind into the stone, and you feel it shift and reverberate with the motion of your enemies.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10).</p>"
+      " Personal   Effect: You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10). "
     ],
     "range": "Personal",
     "effect": "You gain tremorsense 5 until the end of the encounter. Once per round, you can spend a minor action to increase the radius of the tremorsense by 1 (to a maximum of 10)."
@@ -91,7 +91,7 @@
     "sourceRef": "Into the Unknown: The Dungeon Survival Handbook",
     "flavor": "A thick barrier of stone covers your skin, deflecting blows of all kinds.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"flavor\">Effect: You gain resist 5 to all damage until the end of the encounter.</p>"
+      " Personal   Effect: You gain resist 5 to all damage until the end of the encounter. "
     ],
     "range": "Personal",
     "effect": "You gain resist 5 to all damage until the end of the encounter."
@@ -110,7 +110,7 @@
       "Conjuration"
     ],
     "range": "Personal",
-    "effect": "You conjure a shield of crystal that surrounds you and moves with you. The shield has hit points equal to your healing surge value, and it lasts until the end of the encounter or until it is reduced to 0 hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;While the shield remains, you gain a +2 power bonus to AC and Reflex. When an attack hits your AC or Reflex, you can use the shield as a free action to absorb some or all of the damage. You still take all other effects from the attack, as well as any damage that exceeds the shield’s hit points."
+    "effect": "You conjure a shield of crystal that surrounds you and moves with you. The shield has hit points equal to your healing surge value, and it lasts until the end of the encounter or until it is reduced to 0 hit points.<br/> While the shield remains, you gain a +2 power bonus to AC and Reflex. When an attack hits your AC or Reflex, you can use the shield as a free action to absorb some or all of the damage. You still take all other effects from the attack, as well as any damage that exceeds the shield’s hit points."
   },
   "Summon Earth-Friend": {
     "id": "'16476",
@@ -126,7 +126,7 @@
       "Elemental, Summoning"
     ],
     "range": "Ranged 5",
-    "effect": "You summon a Tiny earth-friend in an unoccupied space within range. The earth-friend is an ally to you and your allies.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The earth-friend lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the earth-friend’s description. You don’t need line of sight to the earth-friend to command it. When you command the earth-friend, you and the creature share knowledge, but not senses.<br/>&nbsp;&nbsp;&nbsp;&nbsp;When the earth-friend makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The earth-friend lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
+    "effect": "You summon a Tiny earth-friend in an unoccupied space within range. The earth-friend is an ally to you and your allies.<br/> The earth-friend lacks actions of its own. Instead, you spend actions to command it mentally, choosing from the actions in the earth-friend’s description. You don’t need line of sight to the earth-friend to command it. When you command the earth-friend, you and the creature share knowledge, but not senses.<br/> When the earth-friend makes a check, you make the roll using your game statistics, not including temporary bonuses or penalties.<br/> The earth-friend lasts until it drops below 1 hit point, at which point you lose a healing surge (or hit points equal to your healing surge value if you have no surges left). Otherwise, it lasts until you dismiss it as a minor action or until the end of the encounter."
   },
   "Walk through Stone": {
     "id": "'16477",

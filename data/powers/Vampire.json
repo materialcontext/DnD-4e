@@ -15,7 +15,7 @@
     "range": "Ranged 5",
     "target": "One creature",
     "attack": "Charisma + 2 vs. Will",
-    "onHit": "1d6 + Charisma modifier psychic damage, and you pull the target up to 3 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Charisma modifier psychic damage."
+    "onHit": "1d6 + Charisma modifier psychic damage, and you pull the target up to 3 squares.<br/> Level 21: 2d6 + Charisma modifier psychic damage."
   },
   "Taste of Life": {
     "id": "'13851",
@@ -33,7 +33,7 @@
     "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. Fortitude",
-    "onHit": "1d8 + Dexterity modifier necrotic damage, and you gain temporary hit points equal to 2 + your Charisma modifier.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Dexterity modifier necrotic damage."
+    "onHit": "1d8 + Dexterity modifier necrotic damage, and you gain temporary hit points equal to 2 + your Charisma modifier.<br/> Level 21: 2d8 + Dexterity modifier necrotic damage."
   },
   "Vampire Slam": {
     "id": "'13852",
@@ -51,7 +51,7 @@
     "range": "Melee 1",
     "target": "One creature",
     "attack": "Dexterity vs. Reflex",
-    "onHit": "1d10 + Dexterity modifier damage, and you can push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d10 + Dexterity modifier damage.",
+    "onHit": "1d10 + Dexterity modifier damage, and you can push the target 1 square.<br/> Level 21: 2d10 + Dexterity modifier damage.",
     "special": "You can use this power as a melee basic attack."
   },
   "Blood Drinker": {
@@ -70,7 +70,7 @@
     "range": "Personal",
     "trigger": "You hit an enemy with a vampire melee at-will attack power.",
     "target": "The triggering enemy",
-    "effect": "The target takes 1d10 extra damage from the triggering attack, and you gain a healing surge.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 17: 2d10 extra damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 27: 3d10 extra damage."
+    "effect": "The target takes 1d10 extra damage from the triggering attack, and you gain a healing surge.<br/> Level 17: 2d10 extra damage.<br/> Level 27: 3d10 extra damage."
   },
   "Swarm of Shadows": {
     "id": "'13854",

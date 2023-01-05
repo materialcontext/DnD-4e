@@ -4,11 +4,11 @@
     "price": "1,000 gp",
     "keySkill": "Arcana",
     "sourceRef": "Dragon Magazine 366",
-    "name": "\\r\\n<html>\\r\\n<head id=\\\"Head1\\\"><title>\\r\\nTenser's Binding\\r\\n</title><meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"IE=EmulateIE7\\\" /><link href=\\\"styles/detail.css\\\" media=\\\"screen\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/print.css\\\" media=\\\"print\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" /><link href=\\\"styles/mobile.css\\\" media=\\\"handheld\\\" rel=\\\"stylesheet\\\" type=\\\"text/css\\\" />\\r\\n    \\r\\n    \\r\\n    \\r\\n\\r\\n</head>\\r\\n<body>\\r\\n    <form name=\\\"form1\\\" method=\\\"post\\\" action=\\\"display.php?page=ritual&amp;id=126\\\" id=\\\"form1\\\">\\r\\n<div>\\r\\n\\r\\n</div>\\r\\n\\r\\n\\r\\n    <div id=\\\"detail\\\">\\r\\n\\r\\n<h1 class=\\\"player\\\">Tenser's Binding",
+    "name": "Tenser's Binding",
     "flavorText": "As you complete the ritual, ropes and chains of force wrap around the target, rendering escape all but impossible.",
     "category": "Exploration",
     "time": "5 minutes",
     "duration": "12 hours (special)",
-    "text": "This ritual affects a target creature, which must be helpless and within 5 squares of the ritual caster for the time spent performing the ritual. At the ritual’s completion, the target is bound by arcane chains. Escape from these bonds is at a DC equal to the Arcana check result plus 5, and the ritual’s magic prevents the target from teleporting unless the prisoner’s level is higher than that of the ritual caster.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Before the ritual expires, it can be renewed by any creature able to perform rituals, not just the original ritual caster. As long as the ritual is not allowed to end, it retains the strength imparted by the original caster.",
+    "text": "This ritual affects a target creature, which must be helpless and within 5 squares of the ritual caster for the time spent performing the ritual. At the ritual’s completion, the target is bound by arcane chains. Escape from these bonds is at a DC equal to the Arcana check result plus 5, and the ritual’s magic prevents the target from teleporting unless the prisoner’s level is higher than that of the ritual caster.  Before the ritual expires, it can be renewed by any creature able to perform rituals, not just the original ritual caster. As long as the ritual is not allowed to end, it retains the strength imparted by the original caster.",
     "componentCost": "400 gp"
 }

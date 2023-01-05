@@ -15,8 +15,8 @@
     "range": "Area burst 2 within 20",
     "target": "Each enemy in the burst",
     "attack": "Charisma vs. Fortitude, Reflex, or Will (your choice for each target)",
-    "onHit": "If your attack was vs. Fortitude, the target is weakened (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your attack was vs. Reflex, the target is immobilized (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;If your attack was vs. Will, the target is dazed (save ends).",
-    "effect": "Each ally in the burst regains hit points equal to your Intelligence modifier. <br/>&nbsp;&nbsp;&nbsp;&nbsp;Each time an ally ends his or her turn adjacent to an enemy that has not yet saved  against this power, he or she regains that number of hit points again."
+    "onHit": "If your attack was vs. Fortitude, the target is weakened (save ends).<br/> If your attack was vs. Reflex, the target is immobilized (save ends).<br/> If your attack was vs. Will, the target is dazed (save ends).",
+    "effect": "Each ally in the burst regains hit points equal to your Intelligence modifier. <br/> Each time an ally ends his or her turn adjacent to an enemy that has not yet saved  against this power, he or she regains that number of hit points again."
   },
   "Blinding Beacon": {
     "id": "'3543",

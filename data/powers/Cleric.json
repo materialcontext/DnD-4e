@@ -72,7 +72,7 @@
     "range": "Close burst 2 (3 at 11th level, 5 at 21st level)",
     "target": "Each undead creature in the burst",
     "attack": "Wisdom vs. Will",
-    "onHit": "1d10 + Wisdom modifier radiant damage, and you push the target a number of squares up to 3 + your Charisma modifier. The target is immobilized until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d10 + Wisdom modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d10 + Wisdom modifier radiant damage.",
+    "onHit": "1d10 + Wisdom modifier radiant damage, and you push the target a number of squares up to 3 + your Charisma modifier. The target is immobilized until the end of your next turn.<br/> Level 11: 2d10 + Wisdom modifier radiant damage.<br/> Level 21: 3d10 + Wisdom modifier radiant damage.",
     "onMiss": "Half damage.",
     "special": "You can use only one channel divinity power per encounter."
   },
@@ -323,7 +323,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and one ally within 5 squares of you gains a +3 power bonus to melee attack rolls against the target until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage, and one ally within 5 squares of you gains a +3 power bonus to melee attack rolls against the target until the end of your next turn.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Lance of Faith": {
     "id": "'841",
@@ -341,7 +341,7 @@
     "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
-    "onHit": "1d8 + Wisdom modifier radiant damage, and one ally you can see gains a +2 power bonus to his or her next attack roll against the target.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Wisdom modifier radiant damage."
+    "onHit": "1d8 + Wisdom modifier radiant damage, and one ally you can see gains a +2 power bonus to his or her next attack roll against the target.<br/> Level 21: 2d8 + Wisdom modifier radiant damage."
   },
   "Sacred Flame": {
     "id": "'889",
@@ -359,7 +359,7 @@
     "range": "Ranged 5",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
-    "onHit": "1d6 + Wisdom modifier radiant damage, and one ally you can see chooses either to make a saving throw or to gain temporary hit points equal to your Charisma modifier + one-half your level.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d6 + Wisdom modifier radiant damage."
+    "onHit": "1d6 + Wisdom modifier radiant damage, and one ally you can see chooses either to make a saving throw or to gain temporary hit points equal to your Charisma modifier + one-half your level.<br/> Level 21: 2d6 + Wisdom modifier radiant damage."
   },
   "Cause Fear": {
     "id": "'890",
@@ -1484,7 +1484,7 @@
     ],
     "range": "Close burst 5 (10 at 11th level, 15 at 21st level)",
     "target": "You or one ally in the burst",
-    "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 6: 2d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 3d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 16: 4d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 5d6 additional hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 26: 6d6 additional hit points.",
+    "effect": "The target can spend a healing surge and regain 1d6 additional hit points.<br/> Level 6: 2d6 additional hit points.<br/> Level 11: 3d6 additional hit points.<br/> Level 16: 4d6 additional hit points.<br/> Level 21: 5d6 additional hit points.<br/> Level 26: 6d6 additional hit points.",
     "special": "You can use this power twice per encounter, but only once per round. At 16th level, you can use this power three times per encounter."
   },
   "Priest's Shield": {
@@ -1503,7 +1503,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage, and you and one ally adjacent to you gains a +1 power bonus to AC until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage."
+    "onHit": "1[W] + Strength modifier damage, and you and one ally adjacent to you gains a +1 power bonus to AC until the end of your next turn.<br/> Level 21: 2[W] + Strength modifier damage."
   },
   "Divine Fortune": {
     "id": "'1589",
@@ -5182,7 +5182,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage and push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage and push the target 1 square.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "effect": "The next time you or an ally attacks the target before the end of your next turn, that character gains a +1 power bonus to the attack roll."
   },
   "Stone Speak": {
@@ -5235,7 +5235,7 @@
     ],
     "range": "Close burst 2",
     "target": "You or one ally in the burst",
-    "effect": "The target gains resist 5 to all damage until the end of your next turn.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: Resist 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: Resist 15.",
+    "effect": "The target gains resist 5 to all damage until the end of your next turn.<br/> Level 11: Resist 10.<br/> Level 21: Resist 15.",
     "special": "You can use only one channel divinity power per encounter."
   },
   "Granite Shield": {
@@ -5454,7 +5454,7 @@
     ],
     "range": "Personal",
     "trigger": "An enemy dies within 5 squares of you.",
-    "effect": "Once before the end of your next extended rest, you can use a minor action to gain one of the following benefits.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You can ask the dead enemy one question that it must answer truthfully. Its answer is limited to one hundred words.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* You gain a +5 power bonus to your next attack roll against an enemy.<br/>&nbsp;&nbsp;&nbsp;&nbsp;* View one room, one similarly sized outdoor location, or one object that the enemy has seen within the past week. The image you see is drawn from the enemy’s memory, and so might not be entirely accurate."
+    "effect": "Once before the end of your next extended rest, you can use a minor action to gain one of the following benefits.<br/> * You can ask the dead enemy one question that it must answer truthfully. Its answer is limited to one hundred words.<br/> * You gain a +5 power bonus to your next attack roll against an enemy.<br/> * View one room, one similarly sized outdoor location, or one object that the enemy has seen within the past week. The image you see is drawn from the enemy’s memory, and so might not be entirely accurate."
   },
   "Crushing Despair": {
     "id": "'13928",
@@ -5677,7 +5677,7 @@
     "range": "Melee 1",
     "target": "One creature",
     "attack": "Wisdom vs. Reflex",
-    "onHit": "1d8 + Wisdom modifier cold and necrotic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Wisdom modifier cold and necrotic damage.",
+    "onHit": "1d8 + Wisdom modifier cold and necrotic damage.<br/> Level 21: 2d8 + Wisdom modifier cold and necrotic damage.",
     "effect": "The target takes a -2 penalty to all defenses against the next attack made against it before the end of your next turn."
   },
   "Tenebrous Blessing": {
@@ -5696,7 +5696,7 @@
     "range": "Melee 1",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
-    "onHit": "1d8 + Wisdom modifier psychic damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2d8 + Wisdom modifier psychic damage.",
+    "onHit": "1d8 + Wisdom modifier psychic damage.<br/> Level 21: 2d8 + Wisdom modifier psychic damage.",
     "effect": "Until the end of your next turn, the target takes a penalty to damage rolls equal to your Constitution modifier."
   },
   "Eye of the Vulture": {
@@ -5748,7 +5748,7 @@
     ],
     "range": "Close burst 2",
     "target": "You or one ally in the burst; the target must be bloodied",
-    "effect": "The target gains 5 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 10 temporary hit points.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 15 temporary hit points.",
+    "effect": "The target gains 5 temporary hit points.<br/> Level 11: 10 temporary hit points.<br/> Level 21: 15 temporary hit points.",
     "special": "You can use only one channel divinity power per encounter."
   },
   "Death Surge": {
@@ -5893,7 +5893,7 @@
     "range": "Melee or Ranged weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "effect": "You or one ally within 5 squares of you can shift 1 square as a free action."
   },
   "Graceful Switch": {
@@ -5913,7 +5913,7 @@
     "effect": "Before the attack, you can sheathe one weapon and draw another one.",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier force and radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier force and radiant damage."
+    "onHit": "1[W] + Wisdom modifier force and radiant damage.<br/> Level 21: 2[W] + Wisdom modifier force and radiant damage."
   },
   "Fey Sight": {
     "id": "'14235",
@@ -6096,7 +6096,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "effect": "One ally within 5 squares of you gains combat advantage against the target until the end of your next turn."
   },
   "Singing Strike": {
@@ -6115,7 +6115,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier radiant and thunder damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier radiant and thunder damage.",
+    "onHit": "1[W] + Wisdom modifier radiant and thunder damage.<br/> Level 21: 2[W] + Wisdom modifier radiant and thunder damage.",
     "effect": "The target takes a -2 penalty to attack rolls until the end of your next turn."
   },
   "Sudden Inspiration": {
@@ -6282,7 +6282,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier radiant damage.",
+    "onHit": "1[W] + Wisdom modifier radiant damage.<br/> Level 21: 2[W] + Wisdom modifier radiant damage.",
     "effect": "The next time the target hits you or any of your allies before the end of your next turn, it takes radiant damage equal to your Constitution modifier."
   },
   "Brand of the Moon": {
@@ -6301,7 +6301,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier cold and radiant damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier cold and radiant damage.",
+    "onHit": "1[W] + Wisdom modifier cold and radiant damage.<br/> Level 21: 2[W] + Wisdom modifier cold and radiant damage.",
     "effect": "Until the start of your next turn, you and each ally within 5 squares of you gain a +2 power bonus to saving throws."
   },
   "Moon Weapon": {
@@ -6354,7 +6354,7 @@
       "Channel Divinity, Divine"
     ],
     "range": "Close burst 5",
-    "effect": "Until the end of your next turn, you and each ally in the burst gain resist 5 necrotic, and each enemy in the burst gain vulnerable 5 radiant.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The resistance and the vulnerability equal 10.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The resistance and the vulnerability equal 15.",
+    "effect": "Until the end of your next turn, you and each ally in the burst gain resist 5 necrotic, and each enemy in the burst gain vulnerable 5 radiant.<br/> Level 11: The resistance and the vulnerability equal 10.<br/> Level 21: The resistance and the vulnerability equal 15.",
     "special": "You can use only one channel divinity power per encounter."
   },
   "Moonshadow Blow": {
@@ -6485,7 +6485,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "effect": "The first time the target attacks one or more of your allies before the start of your next turn, it takes damage equal to your Constitution modifier."
   },
   "Shielding Strike": {
@@ -6504,7 +6504,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "effect": "One ally adjacent to the target gains a +1 power bonus to all defenses until the end of your next turn."
   },
   "True Strike": {
@@ -6731,7 +6731,7 @@
     "requirement": "You must use this power with a simple weapon.",
     "target": "One creature",
     "attack": "Strength + 1 vs. AC",
-    "onHit": "1[W] + 2 + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + 4 + Strength modifier damage.",
+    "onHit": "1[W] + 2 + Strength modifier damage.<br/> Level 21: 2[W] + 4 + Strength modifier damage.",
     "weapon": "If you’re wielding your weapon with both hands, you gain a +2 bonus to the damage roll."
   },
   "Weapon of Divine Protection": {
@@ -6750,7 +6750,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Strength vs. AC",
-    "onHit": "1[W] + Strength modifier damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Strength modifier damage.",
+    "onHit": "1[W] + Strength modifier damage.<br/> Level 21: 2[W] + Strength modifier damage.",
     "weapon": "If you’re wielding a simple weapon, the attack deals 1d6 extra damage.",
     "effect": "Until the end of your next turn, your allies gain a +2 power bonus to all defenses while adjacent to you."
   },
@@ -7090,7 +7090,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. AC",
-    "onHit": "1[W] + Wisdom modifier damage, and the target falls prone.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage, and the target falls prone.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "special": "When charging, you can use this power in place of a melee basic attack."
   },
   "Icon of Fear": {
@@ -7109,7 +7109,7 @@
     "range": "Melee weapon",
     "target": "One creature",
     "attack": "Wisdom vs. Will",
-    "onHit": "1[W] + Wisdom modifier damage, and you can push the target 1 square.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 2[W] + Wisdom modifier damage.",
+    "onHit": "1[W] + Wisdom modifier damage, and you can push the target 1 square.<br/> Level 21: 2[W] + Wisdom modifier damage.",
     "effect": "One ally adjacent to you can shift up to 2 squares as a free action and must end adjacent to the target."
   },
   "Dread Revelation": {

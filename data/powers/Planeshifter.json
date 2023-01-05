@@ -50,7 +50,7 @@
     "range": "Ranged 20",
     "target": "One creature",
     "attack": "Intelligence or Charisma vs. Will",
-    "onHit": "The target is cast through a series of dangerous planar locations. Until the start of the target’s next turn, the target disappears, cannot take actions, and cannot be targeted. In addition, choose four damage types from the following list: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, and thunder. The target takes 4d8 damage (1d8 of each damage type in whatever order you choose), and the target takes ongoing 5 damage of each type (save ends all).<br/>&nbsp;&nbsp;&nbsp;&nbsp;At the start of the target’s next turn, the target reappears in the space it last occupied. If that space is occupied, the target reappears in the nearest unoccupied space of its choice.",
+    "onHit": "The target is cast through a series of dangerous planar locations. Until the start of the target’s next turn, the target disappears, cannot take actions, and cannot be targeted. In addition, choose four damage types from the following list: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, and thunder. The target takes 4d8 damage (1d8 of each damage type in whatever order you choose), and the target takes ongoing 5 damage of each type (save ends all).<br/> At the start of the target’s next turn, the target reappears in the space it last occupied. If that space is occupied, the target reappears in the nearest unoccupied space of its choice.",
     "onMiss": "The target is cast through the dangerous planar locations but takes damage and ongoing damage of only two types, and the target reappears at the end of your turn."
   }
 }

@@ -872,7 +872,7 @@
     "attack": "Wisdom vs. Fortitude",
     "onHit": "2d10 + Wisdom modifier damage, and you push the target 2 squares and knock it prone.",
     "onMiss": "Half damage, and you push the target 1 square.",
-    "effect": "You conjure a bear spirit in an unoccupied square adjacent to the target. The spirit lasts until the end of the encounter. The spirit occupies 1 square. Enemies cannot move through its space, but allies can. As a move action, you can move the spirit 5 squares.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The spirit can flank enemies with you and your allies, and it can make opportunity attacks against your enemies: Wisdom vs. Reflex; 2d10 + your Wisdom modifier damage."
+    "effect": "You conjure a bear spirit in an unoccupied square adjacent to the target. The spirit lasts until the end of the encounter. The spirit occupies 1 square. Enemies cannot move through its space, but allies can. As a move action, you can move the spirit 5 squares.<br/> The spirit can flank enemies with you and your allies, and it can make opportunity attacks against your enemies: Wisdom vs. Reflex; 2d10 + your Wisdom modifier damage."
   },
   "Ironborn Spirit": {
     "id": "'3924",
@@ -2313,7 +2313,7 @@
     ],
     "range": "Close burst 20",
     "requirement": "Your spirit companion must not be present.",
-    "effect": "You conjure your spirit companion in an unoccupied square in the burst. The spirit lasts until you fall unconscious or until you dismiss it as a minor action. The spirit occupies 1 square. Enemies cannot move through its space, but allies can. When you take a move action, you can also move the spirit a number of squares equal to your speed.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The spirit can be targeted by melee or ranged attacks, although it lacks hit points. If a single melee or ranged attack deals damage to the spirit equal to 10 + one-half your level or higher, the spirit disappears, and you take damage equal to 5 + one-half your level. Otherwise, the spirit is unaffected by the attack."
+    "effect": "You conjure your spirit companion in an unoccupied square in the burst. The spirit lasts until you fall unconscious or until you dismiss it as a minor action. The spirit occupies 1 square. Enemies cannot move through its space, but allies can. When you take a move action, you can also move the spirit a number of squares equal to your speed.<br/> The spirit can be targeted by melee or ranged attacks, although it lacks hit points. If a single melee or ranged attack deals damage to the spirit equal to 10 + one-half your level or higher, the spirit disappears, and you take damage equal to 5 + one-half your level. Otherwise, the spirit is unaffected by the attack."
   },
   "Protecting Strike": {
     "id": "'6521",

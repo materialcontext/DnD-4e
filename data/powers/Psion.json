@@ -1493,7 +1493,7 @@
       "Conjuration, Psionic"
     ],
     "range": "Close burst 10",
-    "effect": "You conjure a fragment of your consciousness in an unoccupied square in the burst. The fragment lasts until the end of the encounter or until you dismiss it as a minor action. The fragment occupies its square, and you and your allies can move through it. When you take a move action, you can also move your fragment a number of squares equal to your speed. You can see, hear, and use psion powers as if you were in your fragment’s space.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Your fragment can be attacked. If it takes any damage, it disappears. It is immune to your attacks."
+    "effect": "You conjure a fragment of your consciousness in an unoccupied square in the burst. The fragment lasts until the end of the encounter or until you dismiss it as a minor action. The fragment occupies its square, and you and your allies can move through it. When you take a move action, you can also move your fragment a number of squares equal to your speed. You can see, hear, and use psion powers as if you were in your fragment’s space.<br/> Your fragment can be attacked. If it takes any damage, it disappears. It is immune to your attacks."
   },
   "Minor Creation": {
     "id": "'13301",
@@ -1920,7 +1920,7 @@
       "Conjuration, Psionic"
     ],
     "range": "Ranged 5",
-    "effect": "You conjure an intellect prism in an unoccupied square within range. The prism lasts until the end of the encounter or until you dismiss it as a minor action. You can use your attack powers as if you were in the prism’s space. As a move action, you can move the prism a number of squares equal to your Intelligence modifier. While the prism is adjacent to you, you gain a +3 bonus to Perception checks.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The prism can be targeted by melee and ranged attacks. It has a +4 bonus to all defenses and hit points equal to your healing surge value. If the prism drops to 0 hit points, it is destroyed and you are dazed until the end of your next turn."
+    "effect": "You conjure an intellect prism in an unoccupied square within range. The prism lasts until the end of the encounter or until you dismiss it as a minor action. You can use your attack powers as if you were in the prism’s space. As a move action, you can move the prism a number of squares equal to your Intelligence modifier. While the prism is adjacent to you, you gain a +3 bonus to Perception checks.<br/> The prism can be targeted by melee and ranged attacks. It has a +4 bonus to all defenses and hit points equal to your healing surge value. If the prism drops to 0 hit points, it is destroyed and you are dazed until the end of your next turn."
   },
   "Mental Void": {
     "id": "'13329",
@@ -2175,7 +2175,7 @@
       "Conjuration, Force, Psionic"
     ],
     "range": "Area wall 5 within 10 squares",
-    "effect": "You conjure a solid, transparent wall of psionic force that lasts until the end of your next turn. The wall can be up to 3 squares high. The wall blocks line of effect and movement. No creature can enter a wall square, and phasing creatures cannot move through it.<br/>&nbsp;&nbsp;&nbsp;&nbsp;The wall can be attacked, and attacks against it hit automatically. The wall has 50 hit points, and an attack on any square deals damage to the entire wall. If the wall drops to 0 hit points, the effect ends and each creature within 2 squares of the wall takes 10 force damage and falls prone.",
+    "effect": "You conjure a solid, transparent wall of psionic force that lasts until the end of your next turn. The wall can be up to 3 squares high. The wall blocks line of effect and movement. No creature can enter a wall square, and phasing creatures cannot move through it.<br/> The wall can be attacked, and attacks against it hit automatically. The wall has 50 hit points, and an attack on any square deals damage to the entire wall. If the wall drops to 0 hit points, the effect ends and each creature within 2 squares of the wall takes 10 force damage and falls prone.",
     "sustainMinor": "The wall persists."
   },
   "Trace Teleport": {

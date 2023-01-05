@@ -14,7 +14,7 @@
     ],
     "range": "Personal",
     "target": "An axe, heavy blade, light blade, pick, or spear, or an arrow or crossbow bolt.",
-    "effect": "Your next successful weapon attack with the target also deals 1d6 poison damage and the target is slowed (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d6 poison damage.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d6 poison damage.",
+    "effect": "Your next successful weapon attack with the target also deals 1d6 poison damage and the target is slowed (save ends).<br/> Level 11: 2d6 poison damage.<br/> Level 21: 3d6 poison damage.",
     "firstFailedSavingThrow": "The target is instead immobilized (save ends)."
   },
   "Acidic Revenge": {
@@ -33,7 +33,7 @@
     "range": "Close burst 2",
     "trigger": "You die.",
     "target": "Each creature in the burst",
-    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: The bonus increases to +4.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: The bonus increases to +6.",
-    "onHit": "1d8 + Constitution modifier acid damage, and ongoing 5 acid damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 11: 2d8 + Constitution modifier acid damage, and ongoing 10 acid damage (save ends).<br/>&nbsp;&nbsp;&nbsp;&nbsp;Level 21: 3d8 + Constitution modifier acid damage, and ongoing 15 acid damage (save ends)."
+    "attack": "Strength, Constitution, or Dexterity vs. Reflex. You gain a +2 bonus to the attack roll.<br/> Level 11: The bonus increases to +4.<br/> Level 21: The bonus increases to +6.",
+    "onHit": "1d8 + Constitution modifier acid damage, and ongoing 5 acid damage (save ends).<br/> Level 11: 2d8 + Constitution modifier acid damage, and ongoing 10 acid damage (save ends).<br/> Level 21: 3d8 + Constitution modifier acid damage, and ongoing 15 acid damage (save ends)."
   }
 }

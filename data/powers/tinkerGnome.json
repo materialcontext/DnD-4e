@@ -10,7 +10,7 @@
     "sourceRef": "Dragon Magazine 422",
     "flavor": "When the experiment goes awry, you know how to get out of the way of the results.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: An area or close attack hits or misses you, or any attack misses you.</p><p class=\"flavor\">Effect: If you take any damage from the attack, halve that damage. You then shift up to half your speed.</p>"
+      " Personal   Trigger: An area or close attack hits or misses you, or any attack misses you.  Effect: If you take any damage from the attack, halve that damage. You then shift up to half your speed. "
     ],
     "range": "Personal",
     "trigger": "An area or close attack hits or misses you, or any attack misses you.",
@@ -27,7 +27,7 @@
     "sourceRef": "Dragon Magazine 422",
     "flavor": "Measure twice, cut once.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make an Arcana, Dungeoneering, or Thievery check.</p><p class=\"flavor\">Effect: Roll the check twice, and take either result.</p>"
+      " Personal   Trigger: You make an Arcana, Dungeoneering, or Thievery check.  Effect: Roll the check twice, and take either result. "
     ],
     "range": "Personal",
     "trigger": "You make an Arcana, Dungeoneering, or Thievery check.",
@@ -44,7 +44,7 @@
     "sourceRef": "Dragon Magazine 422",
     "flavor": "Your intellect allows you to spot weaknesses in a foe’s defenses.",
     "keywords": [
-      "&nbsp;&nbsp;Personal </p><p class=\"powerstat\">Trigger: You make an attack roll.</p><p class=\"flavor\">Effect: If the attack roll hits the target’s lowest defense, then the attack hits.</p>"
+      " Personal   Trigger: You make an attack roll.  Effect: If the attack roll hits the target’s lowest defense, then the attack hits. "
     ],
     "range": "Personal",
     "trigger": "You make an attack roll.",
@@ -61,12 +61,12 @@
     "sourceRef": "Dragon Magazine 422",
     "flavor": "By adding an extruded sprocket and spot-welding some flanged widgets, you should be able to increase the damage output by thirty-five percent—at least temporarily!",
     "keywords": [
-      "&nbsp;&nbsp;Melee 1</p><p class=\"flavor\">Requirement: You must use this power during a short rest or an extended rest.</p><p class=\"powerstat\">Target: One suit of armor or one weapon.</p><p class=\"flavor\">Special: If you have implement powers and are proficient with an implement, you can also choose to target one implement with this power.</p><p class=\"powerstat\">Effect: If the target is armor, it adds a +2 power bonus to the wearer’s AC until an attack against AC hits the wearer or until the end of the encounter."
+      " Melee 1  Requirement: You must use this power during a short rest or an extended rest.  Target: One suit of armor or one weapon.  Special: If you have implement powers and are proficient with an implement, you can also choose to target one implement with this power.  Effect: If the target is armor, it adds a +2 power bonus to the wearer’s AC until an attack against AC hits the wearer or until the end of the encounter."
     ],
     "range": "Melee 1",
     "requirement": "You must use this power during a short rest or an extended rest.",
     "target": "One suit of armor or one weapon.",
     "special": "If you have implement powers and are proficient with an implement, you can also choose to target one implement with this power.",
-    "effect": "If the target is armor, it adds a +2 power bonus to the wearer’s AC until an attack against AC hits the wearer or until the end of the encounter. <br/>&nbsp;&nbsp;&nbsp;&nbsp;If the target is a weapon or an implement, that item gains a +2 power bonus to the next attack roll and damage roll made with the item before the end of the encounter."
+    "effect": "If the target is armor, it adds a +2 power bonus to the wearer’s AC until an attack against AC hits the wearer or until the end of the encounter. <br/> If the target is a weapon or an implement, that item gains a +2 power bonus to the next attack roll and damage roll made with the item before the end of the encounter."
   }
 }
