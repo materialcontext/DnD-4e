@@ -7,10 +7,10 @@ import "../../styles/style.css"
 export async function getStaticPaths() {
     let paths = getFileNames("races");
     return paths.map((path) => {
-        return { params: { slug: path } };
+        return { params: { slug: path.replace('.json', '') } };
     });
 };
 
-let data = JSON.parse(getDataFile('races', Astro.params.slug));
+let data = JSON.parse(getDataFile('races', `${Astro.params.slug}.json`));
 ---
 <RaceLayout data={data}/>

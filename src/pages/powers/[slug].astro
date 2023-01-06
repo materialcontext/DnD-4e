@@ -6,11 +6,11 @@ import PowerLayout from "../../layouts/powerLayout.astro";
 export async function getStaticPaths() {
     let paths = getFileNames("powers");
     return paths.map((path) => {
-        return { params: { slug: path } };
+        return { params: { slug: path.replace('.json', '') } };
     });
 };
 
-let data = JSON.parse(getDataFile("powers", Astro.params.slug));
+let data = JSON.parse(getDataFile("powers", `${Astro.params.slug}.json`));
 
 const entries = Object.entries(data).map(([key, value]) => {
   let bonusPower = value["bonusPower"];

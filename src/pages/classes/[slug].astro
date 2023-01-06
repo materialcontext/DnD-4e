@@ -7,10 +7,10 @@ import "../../styles/style.css"
 export async function getStaticPaths() {
     let paths = getFileNames('classes');
     return paths.map((path) => {
-        return { params: { slug: path } };
+        return { params: { slug: path.replace('.json', '') } };
     });
 };
 
-let data = JSON.parse(getDataFile('classes', Astro.params.slug));
+let data = JSON.parse(getDataFile('classes', `${Astro.params.slug}.json`));
 ---
 <ClassLayout data={data}/>

@@ -6,11 +6,11 @@ import ClassLayout from "../../layouts/bgLayout.astro";
 export async function getStaticPaths() {
     let paths = getFileNames('backgrounds');
     return paths.map((path) => {
-        return { params: { slug: path } };
+        return { params: { slug: path.replace('.json', '') } };
     });
 };
 
-let data = JSON.parse(getDataFile('backgrounds', Astro.params.slug));
+let data = JSON.parse(getDataFile('backgrounds', `${Astro.params.slug}.json`));
 
 ---
 <ClassLayout data={data}/>
