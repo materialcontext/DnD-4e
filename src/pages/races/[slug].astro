@@ -1,14 +1,16 @@
 ---
-import fs from "node:fs";
+import getDataFile from "../../utils/getDataFile.js";
+import getFileNames from "../../utils/getFileNames.js";
 import RaceLayout from "../../layouts/raceLayout.astro";
 import "../../styles/style.css"
 
 export async function getStaticPaths() {
-    let paths = fs.readdirSync('../../../data/races/*.json')
-    return paths.map(name => { params: {slug: name} });
+    let paths = getFileNames("races");
+    return paths.map((path) => {
+        return { params: { slug: path } };
+    });
 };
 
-let response = await import(`../../../data/races/${Astro.params.slug}.json`).then((res) => res.default);
-let data = await response;
+let data = JSON.parse(getDataFile('races', Astro.params.slug));
 ---
 <RaceLayout data={data}/>

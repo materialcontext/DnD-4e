@@ -6,10 +6,8 @@ const {name, flavorTxt, height, weight,
   abilityScores, size, speed, vision,
   languages, skillBonuses,
   uniqueFeatures, characteristics,
-  femNames, mascNames, physTxt, tipsTxt
+  femNames, mascNames, names, physTxt, tipsTxt
 } = Astro.props.data
-
-console.log(name);
 let uniqueEntries = Object.entries(uniqueFeatures);
 
 ---
@@ -40,9 +38,10 @@ let uniqueEntries = Object.entries(uniqueFeatures);
       <!-- <h1>{power}</h1> -->
       <div class="mb-6 px-2 leading-relaxed font-light"><h3>PHYSICAL QUALITIES</h3>{physTxt}</div>
       <div class="mb-6 px-2 leading-relaxed font-light"><h3>PLAYING A {name.toUpperCase()}</h3> {tipsTxt}</div>
-      <p><b class="font-medium">{name} Characteristics</b>: {characteristics.join(', ')}</p>
-      <p><b class="font-medium">{femNames.length > 0 && "Female Names"}</b>: {femNames.join(', ')}</p>
-      <p><b class="font-medium">{mascNames.length > 0 && "Male Names"}</b>: {mascNames.join(', ')}</p>
+      {characteristics && <p><b class="font-medium">{name} Characteristics</b>: {characteristics.join(', ')}</p>}
+      {femNames && <p><b class="font-medium">{femNames.length > 0 && "Female Names"}</b>: {femNames.join(', ')}</p>}
+      {mascNames && <p><b class="font-medium">{mascNames.length > 0 && "Male Names"}</b>: {mascNames.join(', ')}</p>}
+      {names && <p><b class="font-medium">{names.length > 0 && "Male Names"}</b>: {names.join(', ')}</p>}
       <div class="mt-2 p-2 font-light italic">
       Published in <a
         href="http://anonym.to/?http://www.wizards.com/dnd/Product.php?x=dnd/products/dndacc/317310000"

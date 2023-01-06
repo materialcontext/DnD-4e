@@ -1,14 +1,16 @@
 ---
-import fs from "node:fs";
+import getDataFile from "../../utils/getDataFile.js";
+import getFileNames from "../../utils/getFileNames.js";
 import PowerLayout from "../../layouts/powerLayout.astro";
 
 export async function getStaticPaths() {
-    let paths = fs.readdirSync('../../../data/powers/*.json')
-    return paths.map(name => { params: {slug: name} });
+    let paths = getFileNames("powers");
+    return paths.map((path) => {
+        return { params: { slug: path } };
+    });
 };
 
-let response = await import(`../../../data/powers/${Astro.params.slug}.json`).then((res) => res.default);
-let data = await response;
+let data = JSON.parse(getDataFile("powers", Astro.params.slug));
 
 const entries = Object.entries(data).map(([key, value]) => {
   let bonusPower = value["bonusPower"];

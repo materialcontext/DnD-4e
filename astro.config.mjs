@@ -13,5 +13,5 @@ import node from "@astrojs/node";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), preact()],
-  site:  'http://ref.materialcontext.io/',
+  site:  'http://localhost:3000/',
 });

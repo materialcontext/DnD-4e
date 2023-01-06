@@ -1,13 +1,16 @@
-Import fs from "node:fs";
+---
+import getFileNames from "../../utils/getFileNames.js";
+import getDataFile from "../../utils/getDataFile.js";
 import ClassLayout from "../../layouts/bgLayout.astro";
 
-let paths = fs.readdirSync('../../../data/backgrounds/').map((name) => {{ params: {slug: name} }});
 export async function getStaticPaths() {
-    return paths;
+    let paths = getFileNames('backgrounds');
+    return paths.map((path) => {
+        return { params: { slug: path } };
+    });
 };
 
-let response = await import(`../../../data/backgrounds/${Astro.params.slug}.json`).then((res) => res.default);
-let data = await response;
+let data = JSON.parse(getDataFile('backgrounds', Astro.params.slug));
 
 ---
 <ClassLayout data={data}/>

@@ -1,14 +1,16 @@
 ---
-import fs from "node:fs";
+import getDataFile from "../../utils/getDataFile.js";
+import getFileNames from "../../utils/getFileNames.js";
 import ClassLayout from "../../layouts/classLayout.astro";
 import "../../styles/style.css"
 
 export async function getStaticPaths() {
-    let paths = fs.readdirSync('../../../data/classes/*.json')
-    return paths.map((name) => {{ params: {slug: name} }});
+    let paths = getFileNames('classes');
+    return paths.map((path) => {
+        return { params: { slug: path } };
+    });
 };
 
-let response = await import(`../../../data/classes/${Astro.params.slug}.json`).then((res) => res.default);
-let data = await response;
+let data = JSON.parse(getDataFile('classes', Astro.params.slug));
 ---
 <ClassLayout data={data}/>
